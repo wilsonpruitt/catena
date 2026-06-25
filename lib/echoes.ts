@@ -55,9 +55,12 @@ export const CONFIDENCE_LABEL: Record<Confidence, string> = {
 };
 
 // Reduce a source reference to its book name, for the "books echoed" filter.
-// "2 Samuel 7:14" -> "2 Samuel"; "Psalm 45:6-7" -> "Psalm"; "Leviticus 16" -> "Leviticus".
+// Strips everything from the first space-then-digit onward, so chapter/verse
+// references, en-dashed ranges, and multi-span pointers all collapse to the
+// book: "2 Samuel 7:14" -> "2 Samuel"; "Psalm 45:6–7" -> "Psalm";
+// "Exodus 12–14" -> "Exodus"; "Genesis 25; 27" -> "Genesis"; "Judges" -> "Judges".
 export function sourceBook(source: string): string {
-  return source.replace(/\s+\d+(:\d+(–|-|\d)*)?\s*$/u, "").trim() || source;
+  return source.replace(/\s+\d.*$/u, "").trim() || source;
 }
 
 export function chipLabel(e: Echo): string {

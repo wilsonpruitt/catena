@@ -303,13 +303,14 @@ export default function Reader({ book }: { book: Book }) {
                         <p style={S.scriptureText}>{p.text}</p>
                       </div>
 
-                      {p.echoes.length > 0 && (
-                        <div className="catena-margin" style={S.marginCol}>
+                      <div className="catena-margin" style={S.marginCol}>
+                        {p.echoes.length > 0 && (
                           <div style={S.marginLabel}>
                             {p.echoes.length}{" "}
                             {p.echoes.length === 1 ? "echo" : "echoes"}
                           </div>
-                          {p.echoes.map((e, i) => {
+                        )}
+                        {p.echoes.map((e, i) => {
                             const key = `${p.id}:${i}`;
                             const open = expanded.has(key);
                             const meta = TYPE_META[e.type];
@@ -337,8 +338,7 @@ export default function Reader({ book }: { book: Book }) {
                               </button>
                             );
                           })}
-                        </div>
-                      )}
+                      </div>
                     </div>
 
                     {openEchoes.length > 0 && (
