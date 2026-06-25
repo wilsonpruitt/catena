@@ -1,0 +1,152 @@
+{
+  "slug": "hebrews",
+  "name": "Hebrews",
+  "subtitle": "An Argument Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "Hebrews never says \"as it is written.\" It simply lets God speak the older words again, now to the Son. Chapter 1 is itself a catena — a chain of seven citations strung against the angels. Each chip below a passage points back to its source; click it to read the precursor, its kind (quotation, allusion, echo, or figural), and why it is heard here. Where the author quotes the Greek Bible against the Hebrew, the chip is marked contested.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1–4",
+      "text": "God, having in the past spoken to the fathers through the prophets at many times and in various ways, has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds. His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high; having become so much better than the angels, as he has inherited a more excellent name than they have.",
+      "echoes": [
+        {
+          "source": "Psalm 110:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh says to my Lord, ‘Sit at my right hand, until I make your enemies your footstool for your feet.’",
+          "note": "‘Sat down on the right hand of the Majesty’ (v. 3) is a low-volume echo of Ps 110:1, planted before the catena begins and paid off as its explicit climax at 1:13. Hays' recurrence test: the same source surfaces twice, so even the faint first instance earns credence."
+        },
+        {
+          "source": "Leviticus 16",
+          "type": "figural",
+          "confidence": "medium",
+          "text": "For on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh. (Leviticus 16:30)",
+          "note": "‘When he had by himself purified us of our sins’ (v. 3) quotes nothing, yet figurally invokes the Day of Atonement cult that chapters 9–10 will expound — the book's central typology. No verbal volume; high figural coherence (Hays, Reading Backwards)."
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:5",
+      "text": "For to which of the angels did he say at any time, ‘You are my Son. Today I have become your father?’ and again, ‘I will be to him a Father, and he will be to me a Son?’",
+      "echoes": [
+        {
+          "source": "Psalm 2:7",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "I will tell of the decree. Yahweh said to me, ‘You are my son. Today I have become your father.’",
+          "note": "The royal-enthronement decree, applied to the Son. Verbatim (high volume) and recurrent — Ps 2 returns at Heb 5:5. The first link in the chain."
+        },
+        {
+          "source": "2 Samuel 7:14",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "I will be his father, and he will be my son. If he commits iniquity, I will chasten him with the rod of men, and with the stripes of the children of men;",
+          "note": "Nathan's dynastic oracle to David, read messianically and welded to Ps 2:7 by shared father/son language — a classic gezerah shavah (linking two texts by a common phrase). The author silently drops the clause about iniquity."
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "ch": 1,
+      "ref": "1:6",
+      "text": "When he again brings in the firstborn into the world he says, ‘Let all the angels of God worship him.’",
+      "echoes": [
+        {
+          "source": "Deuteronomy 32:43",
+          "altSource": "Psalm 97:7 (LXX)",
+          "type": "quotation",
+          "confidence": "high",
+          "contested": true,
+          "text": "Let all the angels of God worship him. — the reading of the Greek (Septuagint) Deuteronomy 32:43 / Odes 2:43, paralleled at Psalm 97:7 LXX.",
+          "note": "A textual fork. The Hebrew of Deut 32:43 (‘Rejoice, you nations, with his people…’) has no such line; the clause exists only in the Septuagint the author read. Hays' first test — availability — in action: the Scripture available to him was the Greek Bible, and that is the text he quotes."
+        },
+        {
+          "source": "Psalm 89:27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I will also appoint him my firstborn, the highest of the kings of the earth.",
+          "note": "‘The firstborn’ (prōtotokos) carries the Davidic-king title of Ps 89:27 — a verbal allusion, not a formal citation, transferring the king's rank to the Son."
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "ch": 1,
+      "ref": "1:7",
+      "text": "Of the angels he says, ‘Who makes his angels winds, and his servants a flame of fire.’",
+      "echoes": [
+        {
+          "source": "Psalm 104:4",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "He makes his messengers winds; his servants flames of fire.",
+          "note": "A creation psalm. The Hebrew (here, WEB) reads ‘makes winds his messengers’; Hebrews follows the Greek word order — ‘makes his angels winds’ — bending the line toward angelology. The same reversible ambiguity the argument needs: angels are mutable servants, the Son is enthroned."
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:8–9",
+      "text": "But of the Son he says, ‘Your throne, O God, is forever and ever. The scepter of uprightness is the scepter of your Kingdom. You have loved righteousness, and hated iniquity; therefore God, your God, has anointed you with the oil of gladness above your fellows.’",
+      "echoes": [
+        {
+          "source": "Psalm 45:6–7",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Your throne, God, is forever and ever. A scepter of equity is the scepter of your kingdom. You have loved righteousness, and hated wickedness. Therefore God, your God, has anointed you with the oil of gladness above your fellows.",
+          "note": "A royal wedding psalm in which the king is addressed as ‘God.’ Hebrews reads the vocative christologically — the figural payload (the Son addressed as God) rides on a high-volume, verbatim quotation."
+        }
+      ]
+    },
+    {
+      "id": "1.6",
+      "ch": 1,
+      "ref": "1:10–12",
+      "text": "And, ‘You, Lord, in the beginning, laid the foundation of the earth. The heavens are the works of your hands. They will perish, but you continue. They all will grow old like a garment does. You will roll them up like a mantle, and they will be changed; but you are the same. Your years will not fail.’",
+      "echoes": [
+        {
+          "source": "Psalm 102:25–27",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Of old, you laid the foundation of the earth. The heavens are the work of your hands. They will perish, but you will endure. Yes, all of them will wear out like a garment. You will change them like a cloak, and they will be changed. But you are the same. Your years will have no end.",
+          "note": "The boldest move in the catena: a psalm addressed to YHWH the creator is applied to the Son. Thematic coherence with the prologue — ‘through whom he made the worlds’ (1:2) — is what licenses the transfer."
+        }
+      ]
+    },
+    {
+      "id": "1.7",
+      "ch": 1,
+      "ref": "1:13",
+      "text": "But which of the angels has he told at any time, ‘Sit at my right hand, until I make your enemies the footstool of your feet?’",
+      "echoes": [
+        {
+          "source": "Psalm 110:1",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Yahweh says to my Lord, ‘Sit at my right hand, until I make your enemies your footstool for your feet.’",
+          "note": "The session-at-the-right-hand oracle, the most-cited verse in the New Testament. It pays off the quiet echo of v. 3 and brackets the chapter — Hays' recurrence and satisfaction tests both met."
+        }
+      ]
+    },
+    {
+      "id": "1.8",
+      "ch": 1,
+      "ref": "1:14",
+      "text": "Aren't they all serving spirits, sent out to do service for the sake of those who will inherit salvation?",
+      "echoes": [
+        {
+          "source": "Psalm 103:20–21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Praise Yahweh, you angels of his, who are mighty in strength, who fulfill his word, obeying the voice of his word. Praise Yahweh, all you armies of his, you servants of his, who do his pleasure.",
+          "note": "Angels as ‘serving spirits’ who do God's bidding echoes the obedient heavenly host of Ps 103:20–21 — conceptual rather than verbatim (a dashed allusion). It closes the angel/Son contrast the catena was built to make."
+        }
+      ]
+    }
+  ]
+}
