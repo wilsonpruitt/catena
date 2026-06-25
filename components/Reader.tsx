@@ -131,6 +131,8 @@ export default function Reader({ book }: { book: Book }) {
           .catena-layout { flex-direction: column !important; }
           .catena-sidebar { position: relative !important; width: 100% !important; max-height: none !important; border-right: none !important; border-bottom: 1px solid #d4c9b5 !important; }
           .catena-main { padding: 20px 16px !important; }
+          .catena-prow { flex-direction: column !important; gap: 12px !important; }
+          .catena-margin { width: 100% !important; flex-direction: row !important; flex-wrap: wrap !important; align-items: center !important; padding-top: 0 !important; }
         }
       `}</style>
 
@@ -280,6 +282,9 @@ export default function Reader({ book }: { book: Book }) {
 
               {passages.map((p) => {
                 const passageMatches = !filtersActive || p.echoes.some(matchEcho);
+                const openEchoes = p.echoes
+                  .map((e, i) => ({ e, i }))
+                  .filter(({ i }) => expanded.has(`${p.id}:${i}`));
                 return (
                   <div
                     key={p.id}
@@ -290,30 +295,29 @@ export default function Reader({ book }: { book: Book }) {
                       transition: "opacity 0.3s",
                     }}
                   >
-                    <div style={S.refLine}>
-                      <span style={S.refText}>{p.ref}</span>
-                      <span style={S.refSpacer} />
+                    <div className="catena-prow" style={S.passageRow}>
+                      <div style={S.textCol}>
+                        <div style={S.refLine}>
+                          <span style={S.refText}>{p.ref}</span>
+                        </div>
+                        <p style={S.scriptureText}>{p.text}</p>
+                      </div>
+
                       {p.echoes.length > 0 && (
-                        <span style={S.refCount}>
-                          {p.echoes.length}{" "}
-                          {p.echoes.length === 1 ? "echo" : "echoes"}
-                        </span>
-                      )}
-                    </div>
-
-                    <p style={S.scriptureText}>{p.text}</p>
-
-                    {p.echoes.length > 0 && (
-                      <div style={S.gutter}>
-                        {p.echoes.map((e, i) => {
-                          const key = `${p.id}:${i}`;
-                          const open = expanded.has(key);
-                          const meta = TYPE_META[e.type];
-                          const ink = CONFIDENCE_INK[e.confidence];
-                          const dim = filtersActive && !matchEcho(e);
-                          return (
-                            <div key={key} style={S.chipWrap}>
+                        <div className="catena-margin" style={S.marginCol}>
+                          <div style={S.marginLabel}>
+                            {p.echoes.length}{" "}
+                            {p.echoes.length === 1 ? "echo" : "echoes"}
+                          </div>
+                          {p.echoes.map((e, i) => {
+                            const key = `${p.id}:${i}`;
+                            const open = expanded.has(key);
+                            const meta = TYPE_META[e.type];
+                            const ink = CONFIDENCE_INK[e.confidence];
+                            const dim = filtersActive && !matchEcho(e);
+                            return (
                               <button
+                                key={key}
                                 className="catena-chip"
                                 onClick={() => toggleExpand(key)}
                                 title={`${meta.label} · ${CONFIDENCE_LABEL[e.confidence]}`}
@@ -322,9 +326,7 @@ export default function Reader({ book }: { book: Book }) {
                                   border: `1.5px ${meta.borderStyle} ${ink}`,
                                   color: ink,
                                   opacity: dim ? 0.3 : 1,
-                                  background: open
-                                    ? "rgba(140,59,47,0.10)"
-                                    : "transparent",
+                                  background: open ? "rgba(140,59,47,0.10)" : "transparent",
                                 }}
                               >
                                 {meta.glyph && (
@@ -333,26 +335,36 @@ export default function Reader({ book }: { book: Book }) {
                                 {e.source}
                                 {e.contested && <span style={S.contested}> ?</span>}
                               </button>
-                              {open && (
-                                <div style={{ ...S.sourcePanel, borderLeftColor: ink }}>
-                                  <div style={S.sourceHead}>
-                                    <span style={{ ...S.sourceRef, color: ink }}>
-                                      {e.source}
-                                      {e.altSource && (
-                                        <span style={S.altSource}>
-                                          {" "}· also {e.altSource}
-                                        </span>
-                                      )}
-                                    </span>
-                                    <span style={S.sourceKind}>
-                                      {meta.glyph ? meta.glyph + " " : ""}
-                                      {meta.label} · {CONFIDENCE_LABEL[e.confidence]}
-                                    </span>
-                                  </div>
-                                  <p style={S.sourceText}>{e.text}</p>
-                                  {e.note && <p style={S.sourceNote}>{e.note}</p>}
-                                </div>
-                              )}
+                            );
+                          })}
+                        </div>
+                      )}
+                    </div>
+
+                    {openEchoes.length > 0 && (
+                      <div style={S.expansions}>
+                        {openEchoes.map(({ e, i }) => {
+                          const meta = TYPE_META[e.type];
+                          const ink = CONFIDENCE_INK[e.confidence];
+                          return (
+                            <div
+                              key={`${p.id}:${i}`}
+                              style={{ ...S.sourcePanel, borderLeftColor: ink }}
+                            >
+                              <div style={S.sourceHead}>
+                                <span style={{ ...S.sourceRef, color: ink }}>
+                                  {e.source}
+                                  {e.altSource && (
+                                    <span style={S.altSource}> · also {e.altSource}</span>
+                                  )}
+                                </span>
+                                <span style={S.sourceKind}>
+                                  {meta.glyph ? meta.glyph + " " : ""}
+                                  {meta.label} · {CONFIDENCE_LABEL[e.confidence]}
+                                </span>
+                              </div>
+                              <p style={S.sourceText}>{e.text}</p>
+                              {e.note && <p style={S.sourceNote}>{e.note}</p>}
                             </div>
                           );
                         })}
@@ -550,7 +562,28 @@ const S: Record<string, CSSProperties> = {
     color: "#4a3d30",
     letterSpacing: 2,
   },
-  passage: { marginBottom: 22, padding: "8px 12px", borderRadius: 6 },
+  passage: { marginBottom: 26, padding: "8px 12px", borderRadius: 6 },
+  passageRow: { display: "flex", gap: 28, alignItems: "flex-start" },
+  textCol: { flex: 1, minWidth: 0 },
+  marginCol: {
+    width: 188,
+    flexShrink: 0,
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "flex-start",
+    gap: 7,
+    paddingTop: 2,
+  },
+  marginLabel: {
+    fontFamily: "'Cormorant Garamond', serif",
+    fontSize: 11,
+    fontWeight: 600,
+    letterSpacing: 1,
+    textTransform: "uppercase",
+    color: "#b09a86",
+    marginBottom: 3,
+  },
+  expansions: { marginTop: 14, display: "flex", flexDirection: "column", gap: 8 },
   refLine: { display: "flex", alignItems: "center", gap: 10, marginBottom: 6 },
   refText: {
     fontFamily: "'Cormorant Garamond', serif",
@@ -591,7 +624,8 @@ const S: Record<string, CSSProperties> = {
     fontWeight: 600,
     letterSpacing: 0.4,
     transition: "all 0.15s",
-    marginRight: 7,
+    whiteSpace: "nowrap",
+    maxWidth: "100%",
   },
   contested: { fontWeight: 700 },
   sourcePanel: {
