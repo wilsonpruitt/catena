@@ -5,3 +5,6 @@ node_modules
 *.log
 .DS_Store
 .env*
+
+# build-time bible store (regenerate via tools/download-web.mjs)
+tools/web.json
