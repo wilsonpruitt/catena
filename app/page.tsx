@@ -125,6 +125,43 @@ export default function Home() {
           ))}
         </div>
 
+        <Link
+          href="/index"
+          style={{
+            display: "block",
+            marginTop: 28,
+            padding: "18px 24px",
+            background: "#2c2418",
+            borderRadius: 6,
+            textDecoration: "none",
+            textAlign: "center",
+          }}
+        >
+          <div
+            style={{
+              fontFamily: "'Cormorant Garamond', serif",
+              fontSize: 22,
+              fontWeight: 600,
+              letterSpacing: 4,
+              color: "#f5f0e8",
+            }}
+          >
+            INDEX FONTIUM
+          </div>
+          <div
+            style={{
+              fontFamily: "'Cormorant Garamond', serif",
+              fontStyle: "italic",
+              color: "#cf7b6e",
+              fontSize: 14,
+              marginTop: 3,
+              letterSpacing: 1,
+            }}
+          >
+            The Old Testament in the New — every source, and where it surfaces
+          </div>
+        </Link>
+
         <p
           style={{
             marginTop: 48,

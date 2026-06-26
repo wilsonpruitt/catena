@@ -21,6 +21,7 @@ export default function Reader({ book }: { book: Book }) {
   const [activeChapter, setActiveChapter] = useState<number | null>(null);
   const [expanded, setExpanded] = useState<Set<string>>(new Set());
   const [legendOpen, setLegendOpen] = useState(true);
+  const [flashId, setFlashId] = useState<string | null>(null);
 
   useEffect(() => {
     if (!document.getElementById("catena-fonts")) {
@@ -30,6 +31,22 @@ export default function Reader({ book }: { book: Book }) {
       l.href = FONT_URL;
       document.head.appendChild(l);
     }
+  }, []);
+
+  // Deep link from Index Fontium: /[book]#p-<id> scrolls to and flags a passage.
+  useEffect(() => {
+    const hash = window.location.hash;
+    if (!hash.startsWith("#p-")) return;
+    const pid = hash.slice(3);
+    setFlashId(pid);
+    const raf = requestAnimationFrame(() =>
+      document.getElementById("p-" + pid)?.scrollIntoView({ behavior: "smooth", block: "center" })
+    );
+    const clear = setTimeout(() => setFlashId(null), 2600);
+    return () => {
+      cancelAnimationFrame(raf);
+      clearTimeout(clear);
+    };
   }, []);
 
   const toggleType = (t: EchoType) =>
@@ -288,11 +305,14 @@ export default function Reader({ book }: { book: Book }) {
                 return (
                   <div
                     key={p.id}
+                    id={`p-${p.id}`}
                     className="catena-passage"
                     style={{
                       ...S.passage,
                       opacity: passageMatches ? 1 : 0.32,
-                      transition: "opacity 0.3s",
+                      background: flashId === p.id ? "rgba(140,59,47,0.13)" : undefined,
+                      transition: "opacity 0.3s, background 0.5s ease",
+                      scrollMarginTop: 24,
                     }}
                   >
                     <div className="catena-prow" style={S.passageRow}>
