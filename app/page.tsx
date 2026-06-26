@@ -126,7 +126,7 @@ export default function Home() {
         </div>
 
         <Link
-          href="/index"
+          href="/fontium"
           style={{
             display: "block",
             marginTop: 28,
