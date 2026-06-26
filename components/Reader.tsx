@@ -363,7 +363,18 @@ export default function Reader({ book }: { book: Book }) {
                                   {meta.label} · {CONFIDENCE_LABEL[e.confidence]}
                                 </span>
                               </div>
-                              <p style={S.sourceText}>{e.text}</p>
+                              {e.lxxText ? (
+                                <>
+                                  <div style={S.srcLabel}>Hebrew · World English Bible</div>
+                                  <p style={S.sourceText}>{e.text}</p>
+                                  <div style={{ ...S.srcLabel, marginTop: 10, color: ink }}>
+                                    Septuagint · Brenton 1851 — the Greek the author follows
+                                  </div>
+                                  <p style={S.sourceText}>{e.lxxText}</p>
+                                </>
+                              ) : (
+                                <p style={S.sourceText}>{e.text}</p>
+                              )}
                               {e.note && <p style={S.sourceNote}>{e.note}</p>}
                             </div>
                           );
@@ -666,6 +677,15 @@ const S: Record<string, CSSProperties> = {
     fontStyle: "italic",
     fontWeight: 300,
     margin: 0,
+  },
+  srcLabel: {
+    fontFamily: "'Cormorant Garamond', Georgia, serif",
+    fontSize: 10.5,
+    fontWeight: 600,
+    letterSpacing: 1,
+    textTransform: "uppercase",
+    color: "#8a7a6a",
+    marginBottom: 3,
   },
   sourceNote: {
     fontFamily: "'Crimson Pro', Georgia, serif",

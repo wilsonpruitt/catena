@@ -13,6 +13,8 @@ export type Echo = {
   type: EchoType;
   confidence: Confidence;
   text: string; // the precursor passage (public-domain translation)
+  lxxText?: string; // Brenton Septuagint reading, shown where the Greek the NT
+  // author follows materially differs from the Hebrew (text holds the Hebrew/WEB)
   note?: string; // editorial adjudication — why this echo, by Hays' criteria
   altSource?: string; // a parallel or alternative precursor, e.g. an LXX/Ps double
   contested?: boolean; // renders a trailing "?" — the identification is disputed

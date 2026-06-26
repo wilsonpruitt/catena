@@ -101,7 +101,8 @@
           "type": "allusion",
           "confidence": "high",
           "text": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.",
-          "note": "'Those who pierced him' and 'all the tribes will mourn' weave together Zech 12:10's piercing and mourning. High verbal volume; John follows the Hebrew 'whom they pierced' (the LXX reads 'because they mocked/danced'), agreeing with John 19:37 against the LXX — a noted Hebrew-vs-LXX divergence."
+          "note": "'Those who pierced him' and 'all the tribes will mourn' weave together Zech 12:10's piercing and mourning. High verbal volume; John follows the Hebrew 'whom they pierced' (the LXX reads 'because they mocked/danced'), agreeing with John 19:37 against the LXX — a noted Hebrew-vs-LXX divergence.",
+          "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son."
         },
         {
           "source": "Zechariah 12:12",
@@ -655,7 +656,8 @@
           "type": "allusion",
           "confidence": "high",
           "text": "My son, don’t despise Yahweh’s discipline, neither be weary of his reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.",
-          "note": "'Whom Yahweh loves, he reproves' — directly behind 3:19 'As many as I love, I reprove and chasten.' Very high verbal correspondence (love + reprove/discipline pairing). Rev tracks LXX Prov 3:12 (ὃν γὰρ ἀγαπᾷ κύριος παιδεύει), which Hebrews 12:5–6 also cites."
+          "note": "'Whom Yahweh loves, he reproves' — directly behind 3:19 'As many as I love, I reprove and chasten.' Very high verbal correspondence (love + reprove/discipline pairing). Rev tracks LXX Prov 3:12 (ὃν γὰρ ἀγαπᾷ κύριος παιδεύει), which Hebrews 12:5–6 also cites.",
+          "lxxText": "My son, despise not the chastening of the Lord; nor faint when thou art rebuked of him: for whom the Lord loves, he rebukes, and scourges every son whom he receives."
         },
         {
           "source": "Hosea 12:8",
@@ -1208,7 +1210,8 @@
           "type": "allusion",
           "confidence": "high",
           "text": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
-          "note": "The Song of Moses promises that God will 'avenge the blood of his servants' and render vengeance on adversaries; the verbal core (avenge / blood / servants) is echoed directly in the martyrs' petition. LXX expands the blood-vengeance language, sharpening the parallel."
+          "note": "The Song of Moses promises that God will 'avenge the blood of his servants' and render vengeance on adversaries; the verbal core (avenge / blood / servants) is echoed directly in the martyrs' petition. LXX expands the blood-vengeance language, sharpening the parallel.",
+          "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people."
         },
         {
           "source": "Psalm 6:3",
@@ -2505,7 +2508,8 @@
           "type": "allusion",
           "confidence": "medium",
           "text": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
-          "note": "'the vision... will not delay (lo yeacher)' / LXX 'it will not delay' underlies 'there will no longer be delay (chronos).' The LXX rendering with chronos/delay strengthens the verbal link; flagged LXX-vs-Hebrew (MT 'tarry', LXX delay) divergence."
+          "note": "'the vision... will not delay (lo yeacher)' / LXX 'it will not delay' underlies 'there will no longer be delay (chronos).' The LXX rendering with chronos/delay strengthens the verbal link; flagged LXX-vs-Hebrew (MT 'tarry', LXX delay) divergence.",
+          "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry."
         },
         {
           "source": "Nehemiah 9:6",
@@ -3145,7 +3149,8 @@
           "type": "allusion",
           "confidence": "high",
           "text": "You shall break them with a rod of iron. You shall dash them in pieces like a potter’s vessel.”",
-          "note": "'You shall rule them with a rod of iron' — near-verbatim source for the male child who 'is to rule all the nations with a rod of iron' (poimanei en rhabdō sidēra). Rev follows LXX poimanei (shepherd/rule) over Hebrew tero'em (break). Repeated in Rev 2:27; 19:15."
+          "note": "'You shall rule them with a rod of iron' — near-verbatim source for the male child who 'is to rule all the nations with a rod of iron' (poimanei en rhabdō sidēra). Rev follows LXX poimanei (shepherd/rule) over Hebrew tero'em (break). Repeated in Rev 2:27; 19:15.",
+          "lxxText": "Thou shalt rule them with a rod of iron; thou shalt dash them in pieces as a potter's vessel."
         },
         {
           "source": "Isaiah 66:7",
@@ -4512,7 +4517,8 @@
           "type": "echo",
           "confidence": "medium",
           "text": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
-          "note": "Song of Moses: God 'avenges the blood of his servants.' The bowls as covenant vengeance for shed saintly blood; conceptual backbone of the 'they deserve this' verdict. LXX adds 'and will recompense.'"
+          "note": "Song of Moses: God 'avenges the blood of his servants.' The bowls as covenant vengeance for shed saintly blood; conceptual backbone of the 'they deserve this' verdict. LXX adds 'and will recompense.'",
+          "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people."
         },
         {
           "source": "Psalm 119:137",
@@ -5575,7 +5581,8 @@
           "type": "echo",
           "confidence": "medium",
           "text": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
-          "note": "'Rejoice, O nations/heavens, with his people, for he avenges the blood of his servants' (LXX/4QDeut expanded) — the call for heaven to rejoice because God avenges his servants' blood parallels v.20 + v.24 (blood of prophets and saints avenged). Hays: thematic coherence; the vengeance-of-blood frame."
+          "note": "'Rejoice, O nations/heavens, with his people, for he avenges the blood of his servants' (LXX/4QDeut expanded) — the call for heaven to rejoice because God avenges his servants' blood parallels v.20 + v.24 (blood of prophets and saints avenged). Hays: thematic coherence; the vengeance-of-blood frame.",
+          "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people."
         },
         {
           "source": "Genesis 4:10",
@@ -5656,7 +5663,8 @@
           "type": "allusion",
           "confidence": "high",
           "text": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
-          "note": "Song of Moses: God 'avenges the blood of his servants' and 'renders vengeance to his adversaries' - the verbatim conceptual source of 'he has avenged the blood of his servants at her hand' (Rev 19:2). LXX expands with heavenly rejoicing, strengthening the link; cf. Rev 6:10. Volume + thematic coherence very high."
+          "note": "Song of Moses: God 'avenges the blood of his servants' and 'renders vengeance to his adversaries' - the verbatim conceptual source of 'he has avenged the blood of his servants at her hand' (Rev 19:2). LXX expands with heavenly rejoicing, strengthening the link; cf. Rev 6:10. Volume + thematic coherence very high.",
+          "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people."
         },
         {
           "source": "2 Kings 9:7",
@@ -5969,7 +5977,8 @@
           "type": "allusion",
           "confidence": "high",
           "text": "You shall break them with a rod of iron. You shall dash them in pieces like a potter’s vessel.”",
-          "note": "'You shall break them with a rod of iron' - direct source of 'He will rule them with an iron rod' (Rev 19:15; cf. 2:27; 12:5). The MT reads 'break' (te-ro'em), the LXX 'shepherd/rule' (poimaneis); Rev follows the LXX 'rule/shepherd.' Flag MT-vs-LXX: John uses LXX poimaino."
+          "note": "'You shall break them with a rod of iron' - direct source of 'He will rule them with an iron rod' (Rev 19:15; cf. 2:27; 12:5). The MT reads 'break' (te-ro'em), the LXX 'shepherd/rule' (poimaneis); Rev follows the LXX 'rule/shepherd.' Flag MT-vs-LXX: John uses LXX poimaino.",
+          "lxxText": "Thou shalt rule them with a rod of iron; thou shalt dash them in pieces as a potter's vessel."
         },
         {
           "source": "Isaiah 63:2-6",
@@ -7322,7 +7331,8 @@
           "confidence": "low",
           "text": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
           "note": "'The vision is yet for the appointed time... it will surely come, it will not delay' — supports 'the time is at hand' / 'I come quickly.' Faint, conceptual.",
-          "contested": true
+          "contested": true,
+          "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry."
         },
         {
           "source": "Isaiah 13:6",

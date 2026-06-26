@@ -124,8 +124,9 @@
           "type": "quotation",
           "confidence": "high",
           "contested": true,
-          "text": "Let all the angels of God worship him. — the reading of the Greek (Septuagint) Deuteronomy 32:43 / Odes 2:43, paralleled at Psalm 97:7 LXX.",
-          "note": "A textual fork. The Hebrew of Deut 32:43 (‘Rejoice, you nations, with his people…’) has no such line; the clause exists only in the Septuagint the author read. Hays' first test — availability — in action: the Scripture available to him was the Greek Bible, and that is the text he quotes."
+          "text": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
+          "note": "A textual fork. The Hebrew of Deut 32:43 (‘Rejoice, you nations, with his people…’) has no such line; the clause exists only in the Septuagint the author read. Hays' first test — availability — in action: the Scripture available to him was the Greek Bible, and that is the text he quotes.",
+          "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people."
         },
         {
           "source": "Psalm 89:27",
@@ -141,7 +142,8 @@
           "contested": true,
           "altSource": "Deuteronomy 32:43 (LXX)",
           "text": "Let all them be shamed who serve engraved images, who boast in their idols. Worship him, all you gods!",
-          "note": "The LXX of Ps 97:7 renders the Hebrew ‘all you gods (elohim)’ as ‘all his angels,’ giving the very clause Hebrews cites — hence many (Beale & Carson, NA28 margin) read Ps 97:7 LXX, not Deut 32:43, as the primary source. The WEB (Hebrew) shown here lacks the angelic wording; the divergence is the whole contest. A theophany-of-judgment psalm bent to the enthronement of the firstborn."
+          "note": "The LXX of Ps 97:7 renders the Hebrew ‘all you gods (elohim)’ as ‘all his angels,’ giving the very clause Hebrews cites — hence many (Beale & Carson, NA28 margin) read Ps 97:7 LXX, not Deut 32:43, as the primary source. The WEB (Hebrew) shown here lacks the angelic wording; the divergence is the whole contest. A theophany-of-judgment psalm bent to the enthronement of the firstborn.",
+          "lxxText": "Let all that worship graven images be ashamed, who boast of their idols; worship him, all ye his angels."
         },
         {
           "source": "Deuteronomy 32:43",
@@ -149,7 +151,8 @@
           "confidence": "low",
           "contested": true,
           "text": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
-          "note": "The Masoretic Hebrew of Deut 32:43 (shown here) shows what the Greek expanded: no command to worship and no angels. Included to mark the Hebrew-vs-LXX gap figurally — the Song of Moses' eschatological vindication is the frame into which the Greek tradition inserted the angelic homage Hebrews needs. Low volume; contested."
+          "note": "The Masoretic Hebrew of Deut 32:43 (shown here) shows what the Greek expanded: no command to worship and no angels. Included to mark the Hebrew-vs-LXX gap figurally — the Song of Moses' eschatological vindication is the frame into which the Greek tradition inserted the angelic homage Hebrews needs. Low volume; contested.",
+          "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people."
         }
       ]
     },
@@ -164,7 +167,8 @@
           "type": "quotation",
           "confidence": "high",
           "text": "He makes his messengers winds; his servants flames of fire.",
-          "note": "A creation psalm. The Hebrew (here, WEB) reads ‘makes winds his messengers’; Hebrews follows the Greek word order — ‘makes his angels winds’ — bending the line toward angelology. The same reversible ambiguity the argument needs: angels are mutable servants, the Son is enthroned."
+          "note": "A creation psalm. The Hebrew (here, WEB) reads ‘makes winds his messengers’; Hebrews follows the Greek word order — ‘makes his angels winds’ — bending the line toward angelology. The same reversible ambiguity the argument needs: angels are mutable servants, the Son is enthroned.",
+          "lxxText": "Who makes his angels spirits, and his ministers a flaming fire."
         },
         {
           "source": "Psalm 148:8",
@@ -1454,8 +1458,9 @@
           "type": "quotation",
           "confidence": "high",
           "contested": true,
-          "text": "Sacrifice and offering you didn't desire. You have opened my ears. You have not required burnt offering and sin offering. Then I said, ‘Behold, I have come. It is written about me in the book in the scroll.’ I delight to do your will, my God. Yes, your law is within my heart.",
-          "note": "Another Greek/Hebrew fork, and the most consequential one. Where the Hebrew reads ‘ears you have opened (dug),’ the Septuagint that Hebrews quotes reads ‘a body you prepared for me’ — and on that ‘body’ the whole argument of the once-for-all bodily offering turns (v. 10). Availability again: the author's Bible was the Greek."
+          "text": "Sacrifice and offering you didn’t desire. You have opened my ears. You have not required burnt offering and sin offering. Then I said, “Behold, I have come. It is written about me in the book in the scroll. I delight to do your will, my God. Yes, your law is within my heart.”",
+          "note": "Another Greek/Hebrew fork, and the most consequential one. Where the Hebrew reads ‘ears you have opened (dug),’ the Septuagint that Hebrews quotes reads ‘a body you prepared for me’ — and on that ‘body’ the whole argument of the once-for-all bodily offering turns (v. 10). Availability again: the author's Bible was the Greek.",
+          "lxxText": "Sacrifice and offering thou wouldest not; but a body hast thou prepared me: whole-burnt-offering and sacrifice for sin thou didst not require. Then I said, Behold, I come: in the volume of the book it is written concerning me, I desired to do thy will, O my God, and thy law in the midst of mine heart."
         },
         {
           "source": "Leviticus 16:34",
@@ -1634,8 +1639,9 @@
           "source": "Habakkuk 2:3–4",
           "type": "quotation",
           "confidence": "high",
-          "text": "For the vision is yet for the appointed time, and it hurries toward the end, and won't prove false. Though it takes time, wait for it; because it will surely come. It won't delay. Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
-          "note": "‘The righteous will live by faith’ — Paul's great text (Rom 1:17; Gal 3:11) — here following the Greek, which adds ‘if he shrinks back, my soul has no pleasure in him.’ It is the hinge into chapter 11: faith defined, then paraded."
+          "text": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay. Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
+          "note": "‘The righteous will live by faith’ — Paul's great text (Rom 1:17; Gal 3:11) — here following the Greek, which adds ‘if he shrinks back, my soul has no pleasure in him.’ It is the hinge into chapter 11: faith defined, then paraded.",
+          "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry. If he should draw back, my soul has no pleasure in him: but the just shall live by my faith."
         },
         {
           "source": "Isaiah 26:20",
@@ -1942,8 +1948,9 @@
           "source": "Proverbs 3:11–12",
           "type": "quotation",
           "confidence": "high",
-          "text": "My son, don't despise Yahweh's discipline, neither be weary of his reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.",
-          "note": "Wisdom's word on a father's discipline, applied to suffering: hardship is not God's absence but his fathering. The closing exhortation then borrows Isaiah's ‘strengthen the weak hands and feeble knees’ (Isa 35:3) and Proverbs' ‘make level paths’ (Prov 4:26)."
+          "text": "My son, don’t despise Yahweh’s discipline, neither be weary of his reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.",
+          "note": "Wisdom's word on a father's discipline, applied to suffering: hardship is not God's absence but his fathering. The closing exhortation then borrows Isaiah's ‘strengthen the weak hands and feeble knees’ (Isa 35:3) and Proverbs' ‘make level paths’ (Prov 4:26).",
+          "lxxText": "My son, despise not the chastening of the Lord; nor faint when thou art rebuked of him: for whom the Lord loves, he rebukes, and scourges every son whom he receives."
         },
         {
           "source": "Deuteronomy 8:5",
