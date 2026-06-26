@@ -24,6 +24,48 @@
           "confidence": "medium",
           "text": "For on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh. (Leviticus 16:30)",
           "note": "‘When he had by himself purified us of our sins’ (v. 3) quotes nothing, yet figurally invokes the Day of Atonement cult that chapters 9–10 will expound — the book's central typology. No verbal volume; high figural coherence (Hays, Reading Backwards)."
+        },
+        {
+          "source": "Wisdom of Solomon 7:25–26",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For she is a breath of the power of God, and a clear effluence of the glory of the Almighty; therefore can nothing defiled find entrance into her. For she is an effulgence from everlasting light, and an unspotted mirror of the working of God, and an image of his goodness. (Wisdom of Solomon 7:25–26)",
+          "note": "The marquee echo of the chapter. ‘Radiance of his glory… the very image of his substance’ (v. 3) reproduces the rare term apaugasma and the eikōn/glory pairing of Wis 7:25–26 — high verbal volume against a Second Temple text most scholars (Hays, Attridge, Beale & Carson) name as the direct source. Hebrews transfers what Wisdom says of personified Sophia to the Son. Confidence kept high despite low text-field availability, since bible-api serves only the Protestant canon."
+        },
+        {
+          "source": "Proverbs 8:22–31",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh possessed me in the beginning of his work, before his deeds of old. I was set up from everlasting, from the beginning, before the earth existed. When there were no depths, I was born, when there were no springs abounding with water. Before the mountains were settled in place, before the hills, I was born; while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world. When he established the heavens, I was there; when he set a circle on the surface of the deep, when he established the clouds above, when the springs of the deep became strong, when he gave to the sea its boundary, that the waters should not violate his commandment, when he marked out the foundations of the earth; then I was the craftsman by his side. I was a delight day by day, always rejoicing before him, rejoicing in his whole world. My delight was with the sons of men.",
+          "note": "‘Through whom also he made the worlds’ (v. 2) draws on the Wisdom-as-agent-of-creation tradition that runs from Prov 8:22–31 into Wisdom and Sirach. Thematic coherence (Wisdom christology) more than verbal volume; the LXX of Prov 8:22 (‘the Lord created me’) fed the patristic debates this verse anticipates."
+        },
+        {
+          "source": "Psalm 2:8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Ask of me, and I will give the nations for your inheritance, the uttermost parts of the earth for your possession.",
+          "note": "‘Whom he appointed heir of all things’ (v. 2) sounds the inheritance grant of Ps 2:8 — the same psalm quoted outright at 1:5. Recurrence (Hays): Ps 2 is demonstrably available and re-used, so the inheritance language is heard as its anticipatory echo."
+        },
+        {
+          "source": "Daniel 7:14",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "Dominion was given him, and glory, and a kingdom, that all the peoples, nations, and languages should serve him. His dominion is an everlasting dominion, which will not pass away, and his kingdom that which will not be destroyed.",
+          "note": "‘Heir of all things’ and the universal, unending dominion granted the one ‘like a son of man’ (Dan 7:14) share thematic coherence with the Son's inheritance and session. Faint, contested — no verbal volume — but a stock messianic substrate scholars note behind the exaltation language."
+        },
+        {
+          "source": "Isaiah 44:24",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh, your Redeemer, and he who formed you from the womb says: ‘I am Yahweh, who makes all things; who alone stretches out the heavens; who spreads out the earth by myself;’",
+          "note": "‘Upholding all things by the word of his power’ (v. 3) ascribes to the Son the sole-creator role Isa 44:24 reserves to YHWH — a faint conceptual echo that prepares the bolder Ps 102 transfer at 1:10–12. Low volume; coherence with the creation theme of the prologue."
+        },
+        {
+          "source": "Psalm 89:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For who in the skies can be compared to Yahweh? Who among the sons of the heavenly beings is like Yahweh,",
+          "note": "‘Having become so much better than the angels’ (v. 4) faintly recalls the incomparability formula of Ps 89:6, which sets YHWH above the ‘sons of the heavenly beings.’ A dashed echo seeding the angel-comparison the catena exists to make; Ps 89 recurs at 1:6 (‘firstborn’)."
         }
       ]
     },
@@ -46,6 +88,27 @@
           "confidence": "high",
           "text": "I will be his father, and he will be my son. If he commits iniquity, I will chasten him with the rod of men, and with the stripes of the children of men;",
           "note": "Nathan's dynastic oracle to David, read messianically and welded to Ps 2:7 by shared father/son language — a classic gezerah shavah (linking two texts by a common phrase). The author silently drops the clause about iniquity."
+        },
+        {
+          "source": "Psalm 89:26–27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For who in the skies can be compared to Yahweh? Who among the sons of the heavenly beings is like Yahweh, (Psalm 89:6; vv. 26–27: ‘He will call to me, “You are my Father, my God, and the rock of my salvation.” I will also appoint him my firstborn, the highest of the kings of the earth.’)",
+          "note": "Ps 89:26–27 reworks the Nathan oracle into ‘You are my Father… I will appoint him my firstborn,’ the same father/firstborn nexus Hebrews exploits across 1:5–6. The verbatim text-field shows Ps 89:6 (what bible-api returns for psalm+89:6); the relevant 26–27 wording is quoted inline. Medium volume, strong thematic coherence linking this verse to 1:6's prōtotokos."
+        },
+        {
+          "source": "2 Samuel 7:13",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "He will build a house for my name, and I will establish the throne of his kingdom forever.",
+          "note": "The clause immediately preceding the quoted 7:14 promises an everlasting throne — the dynastic-permanence note Hebrews develops into the eternal Son (cf. ‘your throne… forever’ at 1:8). A contiguous echo riding on the formal citation."
+        },
+        {
+          "source": "1 Chronicles 17:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will be his father, and he will be my son. I will not take my loving kindness away from him, as I took it from him that was before you;",
+          "note": "The Chronicler's parallel of the Nathan oracle drops the conditional ‘if he commits iniquity,’ giving the unconditioned father/son form Hebrews actually uses. A faint witness that the author's tradition already read the oracle as Hebrews does; low independent volume."
         }
       ]
     },
@@ -70,6 +133,23 @@
           "confidence": "medium",
           "text": "I will also appoint him my firstborn, the highest of the kings of the earth.",
           "note": "‘The firstborn’ (prōtotokos) carries the Davidic-king title of Ps 89:27 — a verbal allusion, not a formal citation, transferring the king's rank to the Son."
+        },
+        {
+          "source": "Psalm 97:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "contested": true,
+          "altSource": "Deuteronomy 32:43 (LXX)",
+          "text": "Let all them be shamed who serve engraved images, who boast in their idols. Worship him, all you gods!",
+          "note": "The LXX of Ps 97:7 renders the Hebrew ‘all you gods (elohim)’ as ‘all his angels,’ giving the very clause Hebrews cites — hence many (Beale & Carson, NA28 margin) read Ps 97:7 LXX, not Deut 32:43, as the primary source. The WEB (Hebrew) shown here lacks the angelic wording; the divergence is the whole contest. A theophany-of-judgment psalm bent to the enthronement of the firstborn."
+        },
+        {
+          "source": "Deuteronomy 32:43",
+          "type": "figural",
+          "confidence": "low",
+          "contested": true,
+          "text": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
+          "note": "The Masoretic Hebrew of Deut 32:43 (shown here) shows what the Greek expanded: no command to worship and no angels. Included to mark the Hebrew-vs-LXX gap figurally — the Song of Moses' eschatological vindication is the frame into which the Greek tradition inserted the angelic homage Hebrews needs. Low volume; contested."
         }
       ]
     },
@@ -85,6 +165,13 @@
           "confidence": "high",
           "text": "He makes his messengers winds; his servants flames of fire.",
           "note": "A creation psalm. The Hebrew (here, WEB) reads ‘makes winds his messengers’; Hebrews follows the Greek word order — ‘makes his angels winds’ — bending the line toward angelology. The same reversible ambiguity the argument needs: angels are mutable servants, the Son is enthroned."
+        },
+        {
+          "source": "Psalm 148:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "lightning and hail, snow and clouds; stormy wind, fulfilling his word;",
+          "note": "The picture of wind and fire as God's compliant agents (‘stormy wind, fulfilling his word’) shares the mutable-creature theme Hebrews presses against the angels. A faint thematic echo, no verbal volume — listed for the maximal inventory."
         }
       ]
     },
@@ -100,6 +187,27 @@
           "confidence": "high",
           "text": "Your throne, God, is forever and ever. A scepter of equity is the scepter of your kingdom. You have loved righteousness, and hated wickedness. Therefore God, your God, has anointed you with the oil of gladness above your fellows.",
           "note": "A royal wedding psalm in which the king is addressed as ‘God.’ Hebrews reads the vocative christologically — the figural payload (the Son addressed as God) rides on a high-volume, verbatim quotation."
+        },
+        {
+          "source": "Psalm 45:2",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "You are the most excellent of the sons of men. Grace has anointed your lips, therefore God has blessed you forever.",
+          "note": "The same psalm opens by setting the king ‘above the sons of men,’ matching ‘above your fellows’ (v. 9). A contiguous echo from the immediate context of the citation, reinforcing the Son's surpassing rank (recurrence within one source)."
+        },
+        {
+          "source": "Isaiah 61:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The Lord Yahweh’s Spirit is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+          "note": "‘Has anointed you with the oil of gladness’ (v. 9) draws on the messianic-anointing register that Isa 61:1 made canonical for the title ‘Christ/anointed.’ Faint, no verbal volume — thematic coherence with the Son's anointing above his fellows."
+        },
+        {
+          "source": "2 Samuel 23:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The God of Israel said, the Rock of Israel spoke to me, ‘One who rules over men righteously, who rules in the fear of God,",
+          "note": "‘You have loved righteousness’ (v. 9) sits within the ‘last words of David,’ where the ideal ruler is defined by righteous rule. A low-volume conceptual echo of the just-king ideal Hebrews applies to the Son."
         }
       ]
     },
@@ -115,6 +223,41 @@
           "confidence": "high",
           "text": "Of old, you laid the foundation of the earth. The heavens are the work of your hands. They will perish, but you will endure. Yes, all of them will wear out like a garment. You will change them like a cloak, and they will be changed. But you are the same. Your years will have no end.",
           "note": "The boldest move in the catena: a psalm addressed to YHWH the creator is applied to the Son. Thematic coherence with the prologue — ‘through whom he made the worlds’ (1:2) — is what licenses the transfer."
+        },
+        {
+          "source": "Isaiah 51:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Lift up your eyes to the heavens, and look on the earth beneath; for the heavens will vanish away like smoke, and the earth will wear out like a garment; and its inhabitants will die in the same way: but my salvation will be forever, and my righteousness will not be abolished.",
+          "note": "‘They all will grow old like a garment’ (v. 11) shares the exact heavens-wear-out-like-a-garment versus God-endures contrast of Isa 51:6 — the same cosmic-impermanence topos that stands behind the Ps 102 citation. Medium volume on the ‘garment’ simile; strong thematic coherence."
+        },
+        {
+          "source": "Isaiah 34:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "All of the army of the sky will be dissolved. The sky will be rolled up like a scroll, and all its armies will fade away, as a leaf fades from off a vine or a fig tree.",
+          "note": "‘You will roll them up like a mantle’ (v. 12) echoes the apocalyptic ‘sky rolled up like a scroll’ of Isa 34:4 (cf. Rev 6:14). The rolling-up image reinforces the dissolution of the heavens against the Son's permanence; an allusion clustering with the Ps 102 quotation."
+        },
+        {
+          "source": "Psalm 102:12",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "But you, Yahweh, will remain forever; your renown endures to all generations.",
+          "note": "Within the same psalm, v. 12 already voices the ‘but you remain’ permanence that vv. 25–27 cosmologize. ‘But you are the same. Your years will not fail’ (v. 12 of Hebrews) sounds this nearer verse too — recurrence inside the cited source."
+        },
+        {
+          "source": "Genesis 1:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "note": "‘You, Lord, in the beginning, laid the foundation of the earth’ (v. 10) reaches back to the opening of creation itself (Gen 1:1), now spoken to the Son. Faint verbal contact on ‘in the beginning… heavens and earth’; figural coherence with the Son as agent of creation."
+        },
+        {
+          "source": "Exodus 3:14",
+          "type": "figural",
+          "confidence": "low",
+          "text": "God said to Moses, “I AM WHO I AM,” and he said, “You shall tell the children of Israel this: ‘I AM has sent me to you.’”",
+          "note": "‘But you are the same’ (v. 12) — the divine immutability — figurally invokes the self-identical ‘I AM’ of Exod 3:14, the name of the unchanging God now predicated of the Son. No verbal volume; a contested figural reading scholars note behind Hebrews' immutability claims (cf. 13:8)."
         }
       ]
     },
@@ -130,6 +273,13 @@
           "confidence": "high",
           "text": "Yahweh says to my Lord, ‘Sit at my right hand, until I make your enemies your footstool for your feet.’",
           "note": "The session-at-the-right-hand oracle, the most-cited verse in the New Testament. It pays off the quiet echo of v. 3 and brackets the chapter — Hays' recurrence and satisfaction tests both met."
+        },
+        {
+          "source": "Psalm 8:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "You make him ruler over the works of your hands. You have put all things under his feet:",
+          "note": "‘Until I make your enemies the footstool of your feet’ shares the ‘all things under his feet’ subjection imagery of Ps 8:6 — the very psalm Hebrews quotes next at 2:6–8. Recurrence (Hays): the two enthronement texts are linked by the shared ‘feet’ motif (gezerah shavah), and Ps 8 is demonstrably available across the seam of chapters 1–2."
         }
       ]
     },
@@ -145,6 +295,29 @@
           "confidence": "medium",
           "text": "Praise Yahweh, you angels of his, who are mighty in strength, who fulfill his word, obeying the voice of his word. Praise Yahweh, all you armies of his, you servants of his, who do his pleasure.",
           "note": "Angels as ‘serving spirits’ who do God's bidding echoes the obedient heavenly host of Ps 103:20–21 — conceptual rather than verbatim (a dashed allusion). It closes the angel/Son contrast the catena was built to make."
+        },
+        {
+          "source": "Psalm 91:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For he will put his angels in charge of you, to guard you in all your ways.",
+          "note": "‘Sent out to do service for the sake of those who will inherit salvation’ recalls the protective, ministering commission of angels in Ps 91:11. A faint thematic echo of the angels-serve-the-faithful motif; no verbal volume, included for the maximal inventory."
+        }
+      ]
+    },
+    {
+      "id": "2.0",
+      "ch": 2,
+      "ref": "2:1–4",
+      "text": "Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away. For if the word spoken through angels proved steadfast, and every transgression and disobedience received a just recompense; how will we escape if we neglect so great a salvation—which at the first having been spoken through the Lord, was confirmed to us by those who heard; God also testifying with them, both by signs and wonders, by various works of power, and by gifts of the Holy Spirit, according to his own will?",
+      "echoes": [
+        {
+          "source": "Deuteronomy 33:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh came from Sinai, and rose from Seir to them. He shone from Mount Paran. He came from the ten thousands of holy ones. At his right hand was a fiery law for them.",
+          "note": "‘The word spoken through angels’ (v. 2) invokes the tradition that the Law was mediated at Sinai by angels — read out of the Greek of Deut 33:2 and assumed in Acts 7:53 and Gal 3:19. The lesser, angel-given word frames the argument that the Son's word is greater.",
+          "altSource": "Acts 7:53; Galatians 3:19"
         }
       ]
     },
@@ -160,6 +333,29 @@
           "confidence": "high",
           "text": "what is man, that you think of him? What is the son of man, that you care for him? For you have made him a little lower than the angels, and crowned him with glory and honor. You make him ruler over the works of your hands. You have put all things under his feet:",
           "note": "A psalm on humanity's place in creation. Hebrews hears ‘son of man’ christologically and presses ‘a little lower than the angels’ against the temporary humiliation of Jesus — the ‘not yet’ of v. 8 is the whole argument. High volume; the figural turn rides on the quotation."
+        },
+        {
+          "source": "Psalm 110:1",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh says to my Lord, ‘Sit at my right hand, until I make your enemies your footstool for your feet.’",
+          "note": "Beale & Carson note that Hebrews reads Ps 8's ‘all things under his feet’ through Ps 110:1's ‘enemies… your footstool’ — the same subjection-of-all language welded the two psalms together (gezerah shavah). Recurrence is high: Ps 110:1 brackets ch. 1 (1:3, 1:13) and returns at 10:12–13, so its subjection motif is audible behind the ‘nothing… not subject to him’ of v. 8."
+        },
+        {
+          "source": "Daniel 7:13–14",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I saw in the night visions, and behold, there came with the clouds of the sky one like a son of man, and he came even to the ancient of days, and they brought him near before him. Dominion was given him, and glory, and a kingdom, that all the peoples, nations, and languages should serve him. His dominion is an everlasting dominion, which will not pass away, and his kingdom that which will not be destroyed.",
+          "note": "Hays' thematic-coherence test: the ‘son of man’ who is given ‘dominion… glory… and a kingdom’ over ‘all’ coheres with Hebrews' enthroned-and-crowned Son, leading many to hear Dan 7's heavenly ‘son of man’ resonating beneath the Ps 8 ‘son of man’ — the human title carrying eschatological dominion. Verbal volume is low (the shared phrase ‘son of man,’ huios anthrōpou, is generic in the LXX), so the link is contested.",
+          "contested": true,
+          "altSource": "Psalm 8:4 (the only formally cited ‘son of man’)"
+        },
+        {
+          "source": "Deuteronomy 32:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "When the Most High gave to the nations their inheritance, when he separated the children of men, he set the bounds of the peoples according to the number of the children of Israel.",
+          "note": "Faint and contested. ‘He didn't subject the world to come… to angels’ (v. 5) is heard by some against the Second Temple reading of Deut 32:8 — where the LXX/Qumran witnesses read ‘according to the number of the angels [sons of God],’ implying the present-age nations were apportioned to angelic powers while the ‘world to come’ is reserved for the Son. The WEB above follows the Masoretic ‘children of Israel’; the divergence is exactly the LXX-vs-Hebrew fork on which the echo depends, so volume is low."
         }
       ]
     },
@@ -190,6 +386,36 @@
           "confidence": "high",
           "text": "Behold, I and the children whom Yahweh has given me are for signs and for wonders in Israel from Yahweh of Armies, who dwells in Mount Zion.",
           "note": "Quoted immediately after 8:17 from the same breath of Isaiah. The prophet's ‘children’ become the Son's ‘children’ — Isaiah's household read as a figure of the redeemed gathered around Christ."
+        },
+        {
+          "source": "Isaiah 12:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, God is my salvation. I will trust, and will not be afraid; for Yah, Yahweh, is my strength and song; and he has become my salvation.”",
+          "note": "Listed as the competing source for ‘I will put my trust in him’: Isa 12:2 LXX reads pepoithōs esomai ep' autō, verbally even closer than Isa 8:17. Beale & Carson treat it as the likeliest single donor, so it is heard here as a low-volume alternate behind the same clause. Contested precisely because Hebrews seems to have conflated the Isaianic ‘trust’ texts.",
+          "contested": true,
+          "altSource": "Isaiah 8:17 (printed above as the primary identification)"
+        },
+        {
+          "source": "Psalm 22:25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Of you comes my praise in the great assembly.\nI will pay my vows before those who fear him.",
+          "note": "A faint recurrence echo: having quoted Ps 22:22, the author's ‘in the congregation I will sing your praise’ keeps sounding the same psalm's assembly-of-praise language (Ps 22:25, ‘praise in the great assembly’). Low verbal volume beyond the shared ‘assembly/praise,’ but Hays' recurrence test favors hearing the wider psalm once it has been opened."
+        },
+        {
+          "source": "Wisdom of Solomon 2:12–3:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But let us lie in wait for the righteous man, because he is of disservice to us, and is contrary to our works, and upbraids us with sins against the law... But the souls of the righteous are in the hand of God, and no torment will touch them. (Wisdom of Solomon 2:12; 3:1)",
+          "note": "Several scholars (noted in Beale & Carson) hear the Wisdom-of-Solomon portrait of the righteous sufferer, perfected and numbered among God's ‘sons,’ behind Heb 2:10's ‘author of their salvation perfect through sufferings’ bringing ‘many sons to glory.’ Thematic coherence is strong; verbal volume is low and the source is deuterocanonical, hence low confidence."
+        },
+        {
+          "source": "Leviticus 16:19",
+          "type": "figural",
+          "confidence": "low",
+          "text": "He shall sprinkle of the blood on it with his finger seven times, and cleanse it, and make it holy from the uncleanness of the children of Israel.",
+          "note": "‘He who sanctifies and those who are sanctified’ (v. 11) anticipates the sanctifying, sin-cleansing high-priestly work that chs. 9–10 ground in the Day of Atonement (Lev 16). No verbal volume — a faint forward-pointing figure of the cult the letter will expound, consistent with the seeding pattern Hays calls satisfaction."
         }
       ]
     },
@@ -205,6 +431,35 @@
           "confidence": "medium",
           "text": "For on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh. (Leviticus 16:30)",
           "note": "‘To make atonement for the sins of the people’ (v. 17) reintroduces the Day of Atonement figure first sounded at 1:3 and expounded in chs 9–10. No quotation — the high-priestly, sacrificial pattern itself is the borrowing (figural). The recurrence is the point: the motif is being seeded before the argument arrives."
+        },
+        {
+          "source": "Isaiah 41:8–9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "But you, Israel, my servant, Jacob whom I have chosen, the offspring of Abraham my friend, You whom I have taken hold of from the ends of the earth, and called from its corners, and said to you, ‘You are my servant, I have chosen you and have not cast you away.’",
+          "note": "‘He gives help to the offspring of Abraham’ (v. 16) echoes Isa 41:8–9, where God ‘takes hold of’ (epilambanomai, the very verb Hebrews uses) the chosen ‘offspring of Abraham’ his servant. The shared rare verb plus the ‘seed of Abraham’ phrase gives real verbal volume; thematic coherence (election, help, servant) is strong, so the allusion is widely heard (Beale & Carson)."
+        },
+        {
+          "source": "Genesis 3:15",
+          "type": "figural",
+          "confidence": "low",
+          "text": "I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.",
+          "note": "‘Through death he might bring to nothing him who had the power of death, that is, the devil’ (v. 14) is read by many as the protoevangelium fulfilled: the woman's offspring crushing the serpent's head, the serpent being identified with the devil in Second Temple and NT tradition. No verbal volume — a figural/typological link resting on thematic coherence (the seed defeats the death-dealing adversary)."
+        },
+        {
+          "source": "Wisdom of Solomon 2:24",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But by the envy of the devil death entered into the world, and those who are of his portion make trial thereof. (Wisdom of Solomon 2:24)",
+          "note": "Wisdom 2:24 is the standard Second Temple text identifying the devil with the bringer of death, exactly the equation Heb 2:14 makes (‘him who had the power of death, that is, the devil’). Beale & Carson cite it for the conceptual background; verbal volume is nil and the source deuterocanonical, hence low confidence and an echo at the level of shared idea."
+        },
+        {
+          "source": "Hosea 13:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will ransom them from the power of Sheol. I will redeem them from death! Death, where are your plagues? Sheol, where is your destruction? ‘Compassion will be hidden from my eyes.’",
+          "note": "‘Deliver all of them who through fear of death were… subject to bondage’ (vv. 14–15) faintly sounds Hosea's promise to ransom from ‘the power of death/Sheol.’ The taunt over death's power coheres with Hebrews' deliverance theme (and with 1 Cor 15:55, which quotes it), but verbal volume here is low and the link is contested.",
+          "contested": true
         }
       ]
     },
@@ -220,6 +475,39 @@
           "confidence": "high",
           "text": "My servant Moses is not so. He is faithful in all my house.",
           "note": "God's own commendation of Moses — ‘faithful in all my house’ — is woven in twice (vv. 2, 5) and then turned on its pivot: Moses faithful as a servant in the house, Christ faithful as a Son over it. The whole Moses/Christ comparison hangs on this one verse."
+        },
+        {
+          "source": "Numbers 12:6-8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He said, “Hear now my words. If there is a prophet among you, I Yahweh will make myself known to him in a vision. I will speak with him in a dream. My servant Moses is not so. He is faithful in all my house. With him I will speak mouth to mouth, even plainly, and not in riddles; and he shall see Yahweh’s form. Why then were you not afraid to speak against my servant, against Moses?”",
+          "note": "The wider Numbers 12 oracle, not just v. 7, shapes the comparison: Moses is the unrivaled prophet who sees God's form and is ‘faithful in all my house,’ and Hebrews silently grants him that supreme rank in order to place Christ higher still. Hays' criterion of thematic coherence: the ‘servant… in the house’ vs. ‘Son… over the house’ antithesis presupposes the whole oracle, where Moses' unique status is precisely the point being surpassed.",
+          "contested": true
+        },
+        {
+          "source": "2 Samuel 7:13-14",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He will build a house for my name, and I will establish the throne of his kingdom forever. I will be his father, and he will be my son. If he commits iniquity, I will chasten him with the rod of men, and with the stripes of the children of men;",
+          "note": "The wordplay on ‘house’ (the one who builds it has more honor, vv. 3–4) draws on Nathan's oracle, where ‘house’ slides between temple and dynasty and the Davidic son who ‘builds a house’ is also called God's ‘son.’ Hebrews has already quoted 2 Sam 7:14 at 1:5 (recurrence), and here the building-the-house / Son-over-the-house logic coheres with the same Davidic son-and-house complex.",
+          "contested": true
+        },
+        {
+          "source": "Zechariah 6:12-13",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "and speak to him, saying, ‘Yahweh of Armies says, “Behold, the man whose name is the Branch: and he shall grow up out of his place; and he shall build Yahweh’s temple; even he shall build Yahweh’s temple; and he shall bear the glory, and shall sit and rule on his throne; and he shall be a priest on his throne; and the counsel of peace shall be between them both.”’",
+          "note": "The fusion of house-builder, royal Son, and priest in 3:1–6 (the ‘High Priest’ who ‘built the house’ and rules ‘as a Son over his house’) coheres with Zechariah's Branch, who alone among the prophets both builds the temple and is ‘a priest on his throne.’ Low verbal volume and contested, but the king-builds-temple-and-is-priest pattern is the conceptual world Hebrews assumes.",
+          "contested": true
+        },
+        {
+          "source": "1 Chronicles 17:12-14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He shall build me a house, and I will establish his throne forever. I will be his father, and he shall be my son. I will not take my loving kindness away from him, as I took it from him that was before you; but I will settle him in my house and in my kingdom forever. His throne shall be established forever.”",
+          "note": "The Chronicler's recension of Nathan's oracle sharpens the ‘house’ motif — ‘I will settle him in my house’ — and so reinforces the same Davidic son-and-house pattern behind 3:6 (‘a Son over his house; whose house we are’). A faint, redundant echo flagged for completeness; verbal volume is low and it largely overlaps 2 Sam 7.",
+          "contested": true,
+          "altSource": "2 Samuel 7:13-14"
         }
       ]
     },
@@ -235,6 +523,44 @@
           "confidence": "high",
           "text": "for he is our God. We are the people of his pasture, and the sheep in his care. Today, oh that you would hear his voice! Don't harden your heart, as at Meribah, as in the day of Massah in the wilderness, when your fathers tempted me, tested me, and saw my work. Forty long years I was grieved with that generation, and said, ‘It is a people that errs in their heart. They have not known my ways.’ Therefore I swore in my wrath, ‘They won't enter into my rest.’",
           "note": "The text the next chapter and a half expounds. Attributed not to David but to ‘the Holy Spirit’ speaking ‘today’ — Hebrews treats the psalm as a live word addressed to its own hearers. The wilderness generation's forfeited ‘rest’ becomes the standing warning."
+        },
+        {
+          "source": "Numbers 14:22-23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "because all those men who have seen my glory, and my signs, which I worked in Egypt and in the wilderness, yet have tempted me these ten times, and have not listened to my voice; surely they shall not see the land which I swore to their fathers, neither shall any of those who despised me see it.",
+          "note": "Psalm 95 is itself a poetic compression of this Numbers 14 verdict, and Hebrews mines it directly: ‘tested me… saw my deeds’ (v. 9) answers ‘seen my glory and my signs… tempted me,’ while the sworn exclusion ‘they shall not see the land’ underlies ‘they will not enter into my rest.’ Hays' recurrence and thematic coherence: the wilderness-rebellion narrative is the substrate the homily presupposes and re-mines in 3:16–18.",
+          "altSource": "Psalm 95:7–11"
+        },
+        {
+          "source": "Numbers 14:28-35",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Tell them, ‘As I live, says Yahweh, surely as you have spoken in my ears, so will I do to you. Your dead bodies shall fall in this wilderness; and all who were counted of you, according to your whole number, from twenty years old and upward, who have murmured against me, surely you shall not come into the land, concerning which I swore that I would make you dwell therein, except Caleb the son of Jephunneh, and Joshua the son of Nun. But your little ones, that you said should be captured or killed, them I will bring in, and they shall know the land which you have rejected. But as for you, your dead bodies shall fall in this wilderness. Your children shall be wanderers in the wilderness forty years, and shall bear your prostitution, until your dead bodies are consumed in the wilderness. After the number of the days in which you spied out the land, even forty days, for every day a year, you will bear your iniquities, even forty years, and you will know my alienation.’ I, Yahweh, have spoken. I will surely do this to all this evil congregation, who are gathered together against me. In this wilderness they shall be consumed, and there they shall die.”",
+          "note": "God's sworn sentence on the wilderness generation supplies both the divine oath (‘I swore… they will not enter,’ v. 11) and the ‘forty years’ (v. 9) that Hebrews will press in 3:17 (‘whose bodies fell in the wilderness’). High thematic coherence and recurrence across the pericope; the oath-formula ‘surely you shall not come into the land’ is the precursor of ‘they will not enter into my rest.’"
+        },
+        {
+          "source": "Exodus 17:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "He called the name of the place Massah, and Meribah, because the children of Israel quarreled, and because they tested Yahweh, saying, “Is Yahweh among us, or not?”",
+          "note": "‘The rebellion… the day of the trial’ (vv. 8–9) renders the LXX of Ps 95, which itself flattens the place-names Meribah/Massah (‘quarreling/testing’) into common nouns; behind them stands Exodus 17:7, the founding episode where Israel ‘tested Yahweh.’ LXX-vs-Hebrew divergence: where the Hebrew psalm names the places, the Greek the author quotes generalizes them to ‘rebellion’ and ‘testing,’ loosening the link to Exod 17 while preserving the motif.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 1:34-35",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh heard the voice of your words, and was angry, and swore, saying, “Surely not one of these men of this evil generation shall see the good land, which I swore to give to your fathers,",
+          "note": "Moses' own retelling of the verdict in Deuteronomy doubles the oath behind ‘as I swore in my wrath, they will not enter into my rest’ (v. 11): God ‘was angry, and swore… not one of this evil generation shall see the good land.’ The recurrence of the sworn exclusion across Num 14 / Deut 1 strengthens the thematic coherence Hebrews exploits."
+        },
+        {
+          "source": "Psalm 78:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "and might not be as their fathers, a stubborn and rebellious generation, a generation that didn’t make their hearts loyal, whose spirit was not steadfast with God.",
+          "note": "Psalm 78, the other great wilderness-rebellion psalm, supplies the ‘stubborn and rebellious generation’ whose ‘heart’ was not right — coherent with ‘they always err in their heart’ (v. 10) and ‘don't harden your hearts.’ Faint and contested (no verbal citation), included as part of the maximal wilderness substrate scholars hear behind the homily.",
+          "contested": true
         }
       ]
     },
@@ -250,6 +576,45 @@
           "confidence": "high",
           "text": "Today, oh that you would hear his voice! Don't harden your heart, as at Meribah, as in the day of Massah in the wilderness",
           "note": "The homily keeps re-sounding its own text — re-citing ‘Today…’ at v. 15 and then mining each phrase (‘today,’ ‘harden,’ ‘rest,’ ‘they could not enter’). Recurrence is doing the interpretive work (Hays): the same verses return until the warning lands."
+        },
+        {
+          "source": "Numbers 14:29",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Your dead bodies shall fall in this wilderness; and all who were counted of you, according to your whole number, from twenty years old and upward, who have murmured against me,",
+          "note": "‘Whose bodies fell in the wilderness’ (v. 17) is a near-verbatim borrowing of Num 14:29 (LXX: ‘your corpses shall fall in this wilderness’) — the highest-volume verbal link in the pericope. Hebrews lifts the very phrase, then makes ‘they were not able to enter in because of unbelief’ (v. 19) the moral. Verbal volume and recurrence both high."
+        },
+        {
+          "source": "Numbers 14:22-23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "because all those men who have seen my glory, and my signs, which I worked in Egypt and in the wilderness, yet have tempted me these ten times, and have not listened to my voice; surely they shall not see the land which I swore to their fathers, neither shall any of those who despised me see it.",
+          "note": "The sworn exclusion ‘surely they shall not see the land’ stands directly behind ‘to whom did he swear that they wouldn't enter… we see that they were not able to enter in’ (vv. 18–19). The same Numbers 14 oath that Ps 95:11 versifies is now read back through the narrative. Recurrence across 3:7–11 and 3:12–19 ties the homily's argument to the Pentateuchal source.",
+          "altSource": "Psalm 95:11"
+        },
+        {
+          "source": "Numbers 14:30",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "surely you shall not come into the land, concerning which I swore that I would make you dwell therein, except Caleb the son of Jephunneh, and Joshua the son of Nun.",
+          "note": "The oath ‘you shall not come into the land… concerning which I swore’ is the precise template of ‘to whom did he swear that they wouldn't enter into his rest’ (v. 18), with ‘land’ transposed to ‘rest.’ The named exceptions (Caleb and Joshua) silently underwrite Hebrews' later Joshua/rest argument at 4:8. Thematic coherence high; verbal volume moderate.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 9:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Remember, and don’t forget, how you provoked Yahweh your God to wrath in the wilderness. From the day that you left the land of Egypt, until you came to this place, you have been rebellious against Yahweh.",
+          "note": "Moses' summary indictment — Israel ‘rebellious against Yahweh’ from Egypt onward — coheres with ‘who, when they heard, rebelled? … all those who came out of Egypt by Moses’ (v. 16). Faint and contested (no citation), folded in as part of the wider Deuteronomic wilderness-rebellion frame the homily presumes.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 20:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "These are the waters of Meribah; because the children of Israel strove with Yahweh, and he was sanctified in them.",
+          "note": "The Meribah tradition (which Ps 95:8 names) recurs at Num 20, the rebellion that even barred Moses from the land — a faint figural deepening of ‘they were not able to enter in.’ Very low volume and contested; included for maximal coverage of the strife-in-the-wilderness substrate.",
+          "contested": true
         }
       ]
     },
@@ -272,6 +637,27 @@
           "confidence": "high",
           "text": "On the seventh day God finished his work which he had done; and he rested on the seventh day from all his work which he had done.",
           "note": "Joined to Ps 95 by the catchword ‘rest’ (gezerah shavah): God's own Sabbath rest at creation defines the ‘rest’ the psalm holds open. Two texts fused by a shared word to make a third meaning."
+        },
+        {
+          "source": "Genesis 2:1",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The heavens, the earth, and all their vast array were finished.",
+          "note": "‘Although the works were finished from the foundation of the world’ (v. 3) echoes the completion formula of Gen 2:1, immediately preceding the Sabbath verse the author goes on to quote. Verbal volume is modest (the verb ‘finished/completed,’ synteleō in the LXX), but its tight pairing with the Gen 2:2 quotation (recurrence within one breath) makes the allusion audible: the rest is grounded in a creation already complete."
+        },
+        {
+          "source": "Numbers 14:21–23",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "but in very deed, as I live, and as all the earth shall be filled with Yahweh's glory; because all those men who have seen my glory, and my signs, which I worked in Egypt and in the wilderness, yet have tempted me these ten times, and have not listened to my voice; surely they shall not see the land which I swore to their fathers, neither shall any of those who despised me see it.",
+          "note": "The oath of exclusion that Ps 95:11 itself recalls originates in Num 14, the Kadesh rebellion: God swears that the unbelieving wilderness generation ‘will not see the land.’ Hebrews quotes the psalm, but the narrative substrate (‘the word they heard didn't profit them, because it wasn't mixed with faith,’ v. 2) is the Numbers episode. Thematic coherence is strong; the link is mediated through the psalm rather than cited directly, hence allusion."
+        },
+        {
+          "source": "Psalm 95:7–8",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Today, oh that you would hear his voice! Don't harden your heart, as at Meribah, as in the day of Massah in the wilderness",
+          "note": "‘We have had good news preached to us, even as they also did’ (v. 2) keeps the ‘today’ frame of the homily's governing text alive even before it is re-cited in 4:7. Low verbal volume here, but the recurrence of Ps 95 across chs 3–4 (Hays) licenses hearing its opening summons under the contrast between the two audiences who ‘heard.’"
         }
       ]
     },
@@ -287,6 +673,36 @@
           "confidence": "high",
           "text": "Today, oh that you would hear his voice! Don't harden your heart, as at Meribah, as in the day of Massah in the wilderness",
           "note": "Re-cited a final time and dated: ‘through David so long a time afterward.’ Because the psalm still says ‘today’ centuries after Joshua, the promised rest was never exhausted by entering Canaan — a chronological argument from a single recurring word. The pun underneath: ‘Joshua’ and ‘Jesus’ are one name in Greek, so the rest Joshua could not give, Jesus does."
+        },
+        {
+          "source": "Joshua 21:44",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh gave them rest all around, according to all that he swore to their fathers. Not a man of all their enemies stood before them. Yahweh delivered all their enemies into their hand.",
+          "note": "‘For if Joshua had given them rest…’ (v. 8) plays directly against the conquest narrative's own claim that Joshua did give Israel ‘rest’ (Josh 21:44). Hebrews concedes the historical rest only to deny it was the final one — high thematic coherence, and the Greek Iēsous makes ‘Joshua’ and ‘Jesus’ the same name, sharpening the typology. Verbal volume rests on the keyword katepausen / katapausis (‘gave rest’/‘rest’)."
+        },
+        {
+          "source": "Joshua 22:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Now Yahweh your God has given rest to your brothers, as he spoke to them. Therefore now return and go to your tents, to the land of your possession, which Moses the servant of Yahweh gave you beyond the Jordan.",
+          "note": "A second statement that ‘Yahweh your God has given rest’ under Joshua, reinforcing the conquest-rest that Heb 4:8 declares incomplete. Lower volume than 21:44 but the same catchword (‘given rest’) and theme; scholars (Beale & Carson) note both as the background to the Joshua argument.",
+          "contested": true,
+          "altSource": "Joshua 21:44"
+        },
+        {
+          "source": "Genesis 2:2",
+          "type": "echo",
+          "confidence": "high",
+          "text": "On the seventh day God finished his work which he had done; and he rested on the seventh day from all his work which he had done.",
+          "note": "‘He who has entered into his rest has himself also rested from his works, as God did from his’ (v. 10) re-sounds Gen 2:2 (quoted at 4:4) to define the promised rest as a sharing in God's own Sabbath — the coinage sabbatismos (‘a Sabbath rest,’ v. 9) is built on it. Recurrence within the same pericope cluster (Hays)."
+        },
+        {
+          "source": "Deuteronomy 12:9–10",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "for you haven't yet come to the rest and to the inheritance, which Yahweh your God gives you. But when you go over the Jordan, and dwell in the land which Yahweh your God causes you to inherit, and he gives you rest from all your enemies around you, so that you dwell in safety;",
+          "note": "Deuteronomy already pairs ‘rest’ (menuchah / katapausis) with ‘inheritance,’ defining the land-entry as the moment Israel reaches ‘the rest.’ Some commentators hear it behind Hebrews' fusion of rest-language with promise/inheritance; the link is faint (no verbal quotation, mediated through the broader rest-tradition), hence a low-confidence allusion."
         }
       ]
     },
@@ -295,14 +711,118 @@
       "ch": 4,
       "ref": "4:12–16",
       "text": "For the word of God is living and active, and sharper than any two-edged sword, piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart. There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him to whom we must give an account. Having then a great high priest, who has passed through the heavens, Jesus, the Son of God, let us hold tightly to our confession. For we don't have a high priest who can't be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin. Let us therefore draw near with boldness to the throne of grace, that we may receive mercy, and may find grace for help in time of need.",
-      "echoes": []
+      "echoes": [
+        {
+          "source": "Isaiah 49:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He has made my mouth like a sharp sword. He has hidden me in the shadow of his hand. He has made me a polished shaft. He has kept me close in his quiver.",
+          "note": "‘The word of God… sharper than any two-edged sword’ (v. 12) draws on the prophetic image of speech as a sword — the Servant's mouth ‘like a sharp sword’ in Isa 49:2. Verbal volume is the shared ‘sharp sword’ + ‘word/mouth’ collocation; Hays' criterion of thematic coherence (God's effective utterance) supports it, though Hebrews has no formula and the trope is widespread (cf. Isa 11:4; Eph 6:17; Rev 1:16)."
+        },
+        {
+          "source": "Wisdom of Solomon 18:15–16",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Your all-powerful word leaped from heaven out of the royal throne, A stern warrior, into the midst of the doomed land, Bearing as a sharp sword your unfeigned commandment; And standing it filled all things with death; And while it touched the heaven it trode upon the earth.",
+          "note": "The closest single parallel: in Wisdom God's hypostatized ‘all-powerful word’ (logos) is a warrior ‘bearing as a sharp sword’ God's commandment and is ‘living/active’ in execution. Hebrews shares the personification of the logos as a living, sword-bearing agent — a Second Temple commonplace the author and his hearers knew. Verbal volume (logos + sharp sword + active power) is high for an allusion; scholars (Beale & Carson) flag it as the proximate background."
+        },
+        {
+          "source": "1 Chronicles 28:9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You, Solomon my son, know the God of your father, and serve him with a perfect heart and with a willing mind; for Yahweh searches all hearts, and understands all the imaginations of the thoughts.",
+          "note": "‘Able to discern the thoughts and intentions of the heart’ (v. 12) restates the OT axiom that God ‘searches all hearts and understands every imagination of the thoughts.’ Thematic coherence is exact; the link is conceptual rather than verbatim, so allusion. The agent shifts from ‘Yahweh’ to ‘the word of God,’ which then resolves into ‘his sight… to whom we must give an account’ (v. 13)."
+        },
+        {
+          "source": "Jeremiah 17:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I, Yahweh, search the mind. I try the heart, even to give every man according to his ways, according to the fruit of his doings.",
+          "note": "A second witness to the heart-searching God who judges ‘according to his ways’ — coherent with Hebrews' ‘him to whom we must give an account’ (v. 13). Like 1 Chr 28:9 it supplies the conceptual substrate for the word that ‘discerns the thoughts and intentions of the heart’; no verbal quotation, hence allusion.",
+          "contested": true,
+          "altSource": "1 Chronicles 28:9"
+        },
+        {
+          "source": "Psalm 33:13–15",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh looks from heaven. He sees all the sons of men. From the place of his habitation he looks out on all the inhabitants of the earth, he who fashions all of their hearts; and he considers all of their works.",
+          "note": "‘There is no creature that is hidden from his sight’ (v. 13) echoes the psalmist's God who from heaven ‘sees all the sons of men… considers all their works.’ Low verbal volume; the coherence is the all-seeing, work-weighing gaze before which nothing is concealed."
+        },
+        {
+          "source": "Psalm 139:1–4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh, you have searched me, and you know me. You know my sitting down and my rising up. You perceive my thoughts from afar. You search out my path and my lying down, and are acquainted with all my ways. For there is not a word on my tongue, but, behold, Yahweh, you know it altogether.",
+          "note": "The classic psalm of the inescapable, all-knowing gaze — God who knows the thought ‘from afar’ and every word ‘on my tongue.’ Faint and uncited, but thematically the nearest psalmic parallel to ‘no creature hidden from his sight… all things naked and laid open’ (vv. 12–13)."
+        },
+        {
+          "source": "Job 26:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Sheol is naked before God, and Abaddon has no covering.",
+          "note": "The striking word ‘naked’ (gymna) before God in v. 13 has a faint precursor in the wisdom topos that even Sheol lies ‘naked’ and ‘uncovered’ before God. Verbal volume rests on the single image of nakedness/exposure; widely noted as a faint echo (NA28/UBS margin)."
+        },
+        {
+          "source": "Proverbs 15:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Sheol and Abaddon are before Yahweh—how much more then the hearts of the children of men!",
+          "note": "Parallel to Job 26:6, and closer still to Hebrews' move from cosmic exposure to the human heart: if Sheol lies open, ‘how much more the hearts of men.’ A faint a-fortiori echo behind ‘naked and laid open… the thoughts and intentions of the heart.’",
+          "contested": true,
+          "altSource": "Job 26:6"
+        },
+        {
+          "source": "Psalm 110:4",
+          "type": "figural",
+          "confidence": "medium",
+          "text": "Yahweh has sworn, and will not change his mind: ‘You are a priest forever in the order of Melchizedek.’",
+          "note": "‘Having then a great high priest… Jesus, the Son of God’ (v. 14) introduces, without citation, the high-priestly theme grounded in Ps 110:4 (quoted at 5:6; 7:17) — the verse that controls the whole central argument. No verbal volume here, but high recurrence in Hebrews makes the figural anticipation audible: the transition from the searching word to the sympathetic priest is the book's hinge."
+        },
+        {
+          "source": "Psalm 110:1",
+          "type": "figural",
+          "confidence": "low",
+          "text": "Yahweh says to my Lord, ‘Sit at my right hand, until I make your enemies your footstool for your feet.’",
+          "note": "The priest ‘who has passed through the heavens’ and the invitation to ‘draw near… to the throne of grace’ (vv. 14, 16) presuppose the enthronement of Ps 110:1, the catena's bracket (1:13; 10:12). Faint and figural — the throne-of-grace language assumes the session at the right hand the letter has already established."
+        }
+      ]
     },
     {
       "id": "5.1",
       "ch": 5,
       "ref": "5:1–4",
       "text": "For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins. The high priest can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness. Because of this, he must offer sacrifices for sins for the people, as well as for himself. Nobody takes this honor on himself, but he is called by God, just like Aaron was.",
-      "echoes": []
+      "echoes": [
+        {
+          "source": "Exodus 28:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Bring Aaron your brother, and his sons with him, near to you from among the children of Israel, that he may minister to me in the priest’s office, even Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons.",
+          "note": "‘He is called by God, just like Aaron’ (v. 4) names Aaron's installation directly; Exod 28:1 is the foundational text where God ‘brings near’ Aaron to the priesthood. Moderate verbal volume (the proper name Aaron is shared) plus high thematic coherence with the high-priest argument seeded since 2:17 (Hays' recurrence)."
+        },
+        {
+          "source": "Numbers 16:40",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "to be a memorial to the children of Israel, to the end that no stranger, who isn’t of the offspring of Aaron, would come near to burn incense before Yahweh, that he not be as Korah, and as his company; as Yahweh spoke to him by Moses.",
+          "note": "‘Nobody takes this honor on himself’ (v. 4) recalls the Korah rebellion (Num 16–17), the locus classicus for seizing priesthood uninvited; the bronze-censer memorial of 16:40 warns against the ‘stranger’ who presumes. No verbatim quotation — a thematic allusion to the negative type behind Hebrews' rule of divine calling."
+        },
+        {
+          "source": "Leviticus 9:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Moses said to Aaron, “Draw near to the altar, and offer your sin offering, and your burnt offering, and make atonement for yourself, and for the people; and offer the offering of the people, and make atonement for them; as Yahweh commanded.”",
+          "note": "‘He must offer sacrifices for sins for the people, as well as for himself’ (v. 3) compresses the cultic logic of Lev 9:7, where Aaron atones first ‘for yourself’ then ‘for the people.’ Verbal coherence (the doubled for-himself/for-the-people structure) marks this as the underlying script; the divergence Hebrews exploits is that Christ, sinless (4:15; 7:27), needs no offering for himself."
+        },
+        {
+          "source": "Leviticus 16:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“Aaron shall offer the bull of the sin offering, which is for himself, and make atonement for himself and for his house.",
+          "note": "The Day-of-Atonement requirement that the high priest atone ‘for himself’ (Lev 16:6) undergirds v. 3 and is the foil Hebrews overturns at 7:27. A faint echo paralleling Lev 9:7; recurrence of the Lev 16 figure already running through the letter (1:3; 9:7) raises its credence (Hays)."
+        }
+      ]
     },
     {
       "id": "5.2",
@@ -323,6 +843,41 @@
           "confidence": "high",
           "text": "Yahweh has sworn, and will not change his mind: ‘You are a priest forever in the order of Melchizedek.’",
           "note": "The hinge of the whole letter. Ps 110:1 crowned the Son at 1:13; now verse 4 of the same psalm makes him priest — a priesthood older than Aaron's, sworn by an oath. Named here, expounded at length in chapter 7."
+        },
+        {
+          "source": "Genesis 14:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Melchizedek king of Salem brought out bread and wine: and he was priest of God Most High.",
+          "note": "The name ‘Melchizedek’ (vv. 6, 10) points beyond Ps 110:4 to its narrative root in Gen 14:18, the only other Old Testament Melchizedek text and the one ch. 7 will expound at length. The repeated naming is Hays' recurrence in advance — the figure is planted here and harvested in chapter 7."
+        },
+        {
+          "source": "Psalm 22:24",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For he has not despised nor abhorred the affliction of the afflicted, Neither has he hidden his face from him; but when he cried to him, he heard.",
+          "note": "‘Strong crying… having been heard for his godly fear’ (v. 7) reads the righteous sufferer's vindication: the very psalm of the cross (Ps 22, already cited at 2:12) testifies that God ‘heard’ the afflicted one's cry. Thematic coherence and recurrence of Ps 22 in Hebrews make this a heard, if unquoted, link to the Passion."
+        },
+        {
+          "source": "Psalm 116:1–4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I love Yahweh, because he listens to my voice, and my cries for mercy. Because he has turned his ear to me, therefore I will call on him as long as I live. The cords of death surrounded me, the pains of Sheol got a hold of me. I found trouble and sorrow. Then I called on Yahweh’s name: “Yahweh, I beg you, deliver my soul.”",
+          "note": "‘Prayers and petitions… to him who was able to save him from death, and having been heard’ (v. 7) closely tracks the lament-deliverance pattern of Ps 116: encircled by the ‘cords of death,’ the petitioner cries and is heard. Scholars (Beale & Carson) hear the Gethsemane prayer voiced through the lament psalms; medium volume, strong thematic fit."
+        },
+        {
+          "source": "Psalm 39:12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Hear my prayer, Yahweh, and give ear to my cry. Don’t be silent at my tears. For I am a stranger with you, a foreigner, as all my fathers were.",
+          "note": "‘With strong crying and tears’ (v. 7) — the explicit ‘tears’ — faintly echoes the lament topos of Ps 39:12, where the sufferer begs God not to ‘be silent at my tears.’ Low verbal volume and a contested identification (any lament psalm could supply the motif), included for maximal coverage."
+        },
+        {
+          "source": "Leviticus 8:33",
+          "type": "figural",
+          "confidence": "low",
+          "text": "You shall not go out from the door of the Tent of Meeting for seven days, until the days of your consecration are fulfilled: for he shall consecrate you seven days.",
+          "note": "‘Having been made perfect’ (teleiōtheis, v. 9) carries the cultic sense of priestly ‘perfecting/consecration’ — the LXX teleioō word-group renders the ‘fill the hand’ ordination of Lev 8 (cf. 8:33, the seven-day consecration). A faint figural link: Christ's perfecting through suffering reworks the priest's installation rite. LXX-specific; invisible in the Hebrew ‘fill the hands.’"
         }
       ]
     },
@@ -331,21 +886,96 @@
       "ch": 5,
       "ref": "5:11–14",
       "text": "About him we have many words to say, and hard to interpret, seeing you have become dull of hearing. For although by this time you should be teachers, you again need to have someone teach you the rudiments of the first principles of the revelations of God. You have come to need milk, and not solid food. For everyone who lives on milk is not experienced in the word of righteousness, for he is a baby. But solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil.",
-      "echoes": []
+      "echoes": [
+        {
+          "source": "Isaiah 28:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Whom will he teach knowledge? To whom will he explain the message? Those who are weaned from the milk, and drawn from the breasts?",
+          "note": "The milk-versus-maturity reproach (vv. 12–13) faintly echoes Isaiah's taunt that only the ‘weaned from the milk’ can receive teaching. Low verbal volume — the milk/solid-food trope is a wisdom commonplace (cf. 1 Cor 3:1–2) — but Isa 28:9 is the nearest scriptural antecedent of teaching figured as feeding. Contested as a deliberate echo."
+        },
+        {
+          "source": "Genesis 3:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.”",
+          "note": "‘Senses exercised to discern good and evil’ (v. 14) reuses the Eden phrase ‘knowing good and evil’ (Gen 2–3). Probably an idiom of moral maturity rather than a pointed citation, but the verbal pair is verbatim with the Genesis tree; included as a faint, contested figural-tinged echo for maximal coverage."
+        }
+      ]
     },
     {
       "id": "6.1",
       "ch": 6,
       "ref": "6:1–8",
       "text": "Therefore leaving the teaching of the first principles of Christ, let us press on to perfection—not laying again a foundation of repentance from dead works, of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead, and of eternal judgment. This will we do, if God permits. For concerning those who were once enlightened and tasted of the heavenly gift, and were made partakers of the Holy Spirit, and tasted the good word of God, and the powers of the age to come, and then fell away, it is impossible to renew them again to repentance; seeing they crucify the Son of God for themselves again, and put him to open shame. For the land which has drunk the rain that comes often on it, and produces a crop suitable for them for whose sake it is also tilled, receives blessing from God; but if it bears thorns and thistles, it is rejected and near being cursed, whose end is to be burned.",
-      "echoes": []
+      "echoes": [
+        {
+          "source": "Genesis 3:17–18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "To Adam he said, ‘Because you have listened to your wife's voice, and ate from the tree, about which I commanded you, saying, “You shall not eat of it,” the ground is cursed for your sake. You will eat from it with much labor all the days of your life. It will yield thorns and thistles to you; and you will eat the herb of the field.’",
+          "note": "‘Bears thorns and thistles… near being cursed’ (v. 8) is a high-volume verbal allusion: the exact pairing ‘thorns and thistles’ (akanthas kai tribolous) plus the verb ‘cursed’ reproduces the Edenic curse on the ground. The LXX of Gen 3:18 reads the same word-pair Hebrews uses, so the verbal volume is strongest against the Greek. Thematic coherence: fruitless ground under divine curse is exactly the apostate's end."
+        },
+        {
+          "source": "Isaiah 5:1–6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Let me sing for my well beloved a song of my beloved about his vineyard. My beloved had a vineyard on a very fruitful hill. He dug it up, gathered out its stones, planted it with the choicest vine, built a tower in the middle of it, and also cut out a wine press therein. He looked for it to yield grapes, but it yielded wild grapes... I will lay it a wasteland. It won't be pruned nor hoed, but it will grow briers and thorns. I will also command the clouds that they rain no rain on it.",
+          "note": "The Song of the Vineyard underwrites the whole 6:7–8 figure: cultivated ground that, despite the owner's labor and rain, yields only thorns and is given over to ruin. Hays' thematic coherence is strong (well-tilled land judged by its fruit; rain withheld), and ‘briers and thorns’ recurs as the marker of covenant failure (cf. Isa 7:23–25)."
+        },
+        {
+          "source": "Deuteronomy 11:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "but the land, where you go over to possess it, is a land of hills and valleys which drinks water from the rain of the sky,",
+          "note": "‘The land which has drunk the rain… receives blessing from God’ (v. 7) echoes the Deuteronomic land that ‘drinks water from the rain of the sky’ — the blessing-or-curse alternative set before Israel (Deut 11:11–17, 26–28). Low verbal volume (the verb ‘drink the rain’ is the hinge), but high thematic coherence: fertility as covenant blessing, drought as curse."
+        },
+        {
+          "source": "Numbers 14:22–23",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "because all those men who have seen my glory, and my signs, which I worked in Egypt and in the wilderness, yet have tempted me these ten times, and have not listened to my voice; surely they shall not see the land which I swore to their fathers, neither shall any of those who despised me see it.",
+          "note": "The portrait of those ‘once enlightened… and then fell away’ whom it is ‘impossible to renew to repentance’ (vv. 4–6) recurs to the wilderness generation that saw God's glory and signs yet was barred from the land — the same exemplum Hebrews built in 3:7–4:11 (Hays' recurrence test across the homily). Conceptual, not verbatim."
+        },
+        {
+          "source": "Deuteronomy 29:23",
+          "type": "echo",
+          "confidence": "low",
+          "text": "and that all of its land is sulfur, salt, and burning, that it is not sown, doesn't produce, nor does any grass grow in it, like the overthrow of Sodom, Gomorrah, Admah, and Zeboiim, which Yahweh overthrew in his anger, and in his wrath;",
+          "note": "‘Whose end is to be burned’ (v. 8) faintly recalls the Deuteronomic curse of a barren, burning land that ‘doesn't produce.’ Verbal volume is low (the shared note is land that yields nothing and is consigned to burning), but the covenant blessing/curse frame coheres with the field imagery; flagged contested.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 12:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt.",
+          "note": "The catechetical pair ‘resurrection of the dead, and eternal judgment’ (v. 2) draws on the apocalyptic two-outcome resurrection of Dan 12:2 (life vs. everlasting contempt). Faint and topical rather than verbal — these were stock elements of early Jewish-Christian instruction — but Daniel is its clearest scriptural anchor."
+        }
+      ]
     },
     {
       "id": "6.2",
       "ch": 6,
       "ref": "6:9–12",
       "text": "But, beloved, we are persuaded of better things for you, and things that accompany salvation, even though we speak like this. For God is not unrighteous, so as to forget your work and the labor of love which you showed toward his name, in that you served the saints, and still do serve them. We desire that each one of you may show the same diligence to the fullness of hope even to the end, that you won't be sluggish, but imitators of those who through faith and perseverance inherited the promises.",
-      "echoes": []
+      "echoes": [
+        {
+          "source": "Proverbs 19:17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He who has pity on the poor lends to Yahweh; he will reward him.",
+          "note": "‘God is not unrighteous, so as to forget your work and the labor of love… you served the saints’ (v. 10) sounds the wisdom axiom that mercy to the needy is a loan God repays. Low verbal volume and contested, but the theme — God's unfailing reward of ministry to others — coheres, and the formula reappears in the ‘rewarder’ of 11:6.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 22:16–17",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "and said, ‘I have sworn by myself, says Yahweh, because you have done this thing, and have not withheld your son, your only son, that I will bless you greatly, and I will multiply your offspring greatly like the stars of the heavens, and like the sand which is on the seashore.’",
+          "note": "‘Imitators of those who through faith and perseverance inherited the promises’ (v. 12) anticipates Abraham, named immediately in v. 13 as the one who, ‘having patiently endured, obtained the promise.’ The echo is the seam that joins the warning to the Abraham oath of the next pericope (Hays' recurrence — the same exemplar carries across the paragraph break)."
+        }
+      ]
     },
     {
       "id": "6.3",
@@ -366,6 +996,44 @@
           "confidence": "high",
           "text": "Yahweh has sworn, and will not change his mind: ‘You are a priest forever in the order of Melchizedek.’",
           "note": "The chapter closes by sounding Melchizedek again (v. 20), the cue for the full exposition in ch. 7. Recurrence threading the priesthood theme through a warning passage."
+        },
+        {
+          "source": "Leviticus 16:2",
+          "type": "figural",
+          "confidence": "high",
+          "text": "and Yahweh said to Moses, ‘Tell Aaron your brother, not to come at all times into the Most Holy Place within the veil, before the mercy seat which is on the ark; lest he die: for I will appear in the cloud on the mercy seat.’",
+          "note": "‘Entering into that which is within the veil’ (v. 19) names the inner sanctum that Lev 16 reserves for the high priest on the Day of Atonement alone. Hebrews reads the veil figurally as the boundary Jesus crossed once for all ‘as a forerunner’ — the same Day-of-Atonement typology seeded at 1:3 and expounded in chs. 9–10 (Hays' recurrence and figural coherence)."
+        },
+        {
+          "source": "Exodus 26:33",
+          "type": "figural",
+          "confidence": "medium",
+          "text": "You shall hang up the veil under the clasps, and shall bring the ark of the testimony in there within the veil: and the veil shall separate the holy place from the most holy for you.",
+          "note": "The tabernacle veil ‘within’ which the ark stood is the architectural referent of ‘within the veil’ (v. 19). Hebrews' word katapetasma matches the LXX term for this dividing curtain; the figure of the believer's hope as an anchor reaching past the veil presupposes the two-roomed sanctuary of Exod 26 (cf. the same veil at Heb 9:3; 10:20)."
+        },
+        {
+          "source": "Numbers 23:19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "God is not a man, that he should lie, nor a son of man, that he should repent. Has he said, and will he not do it? Or has he spoken, and will he not make it good?",
+          "note": "‘It is impossible for God to lie’ (v. 18) restates Balaam's axiom that God, unlike a man, cannot lie or repent of his word. Conceptual allusion (no shared catchword), but the thought is verbatim in substance and undergirds the ‘two immutable things’ argument; the divine truthfulness theme returns at Heb 10:23 and Titus 1:2."
+        },
+        {
+          "source": "1 Samuel 15:29",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Also the Strength of Israel will not lie nor repent; for he is not a man, that he should repent.",
+          "note": "A second witness to the same maxim behind ‘impossible for God to lie’ (v. 18): the Glory/Strength of Israel ‘will not lie nor repent.’ Paired with Num 23:19 as the gezerah-shavah-style backdrop (the immutability of God's sworn counsel), though here verbal volume is low and the link is contested.",
+          "contested": true,
+          "altSource": "Numbers 23:19"
+        },
+        {
+          "source": "Numbers 35:25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The congregation shall deliver the man slayer out of the hand of the avenger of blood, and the congregation shall restore him to his city of refuge, where he had fled.",
+          "note": "‘We who have fled for refuge to take hold of the hope’ (v. 18) faintly evokes the cities of refuge to which the manslayer ‘fled’ and was held safe ‘until the high priest dies’ — a poignant counterpoint, since here safety comes through the high priest who lives forever (v. 20). Low volume and contested; some read only a general ‘flee for refuge’ idiom.",
+          "contested": true
         }
       ]
     },
@@ -381,6 +1049,34 @@
           "confidence": "high",
           "text": "Melchizedek king of Salem brought out bread and wine: and he was priest of God Most High. He blessed him, and said, ‘Blessed be Abram of God Most High, possessor of heaven and earth:’ and blessed be God Most High, who has delivered your enemies into your hand.' Abram gave him a tenth of all.",
           "note": "The argument reads the silences of the Genesis story figurally: Melchizedek enters with no genealogy, no birth, no death on record, so ‘he remains a priest continually’ — a figure of an eternal priesthood. Classic figural reasoning from what the narrative does not say. Even the names are mined: Melchizedek = ‘king of righteousness,’ Salem = ‘peace.’"
+        },
+        {
+          "source": "Genesis 14:17",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "The king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer and the kings who were with him, at the valley of Shaveh (that is, the King's Valley).",
+          "note": "‘Who met Abraham returning from the slaughter of the kings’ (v. 1) lifts the narrative frame verbatim from the verse immediately preceding the Melchizedek scene. High verbal volume on the ‘slaughter of the kings’ phrase; the surrounding verses (14:18–20) are the figural core, so this opening clause is a near-quotation supplying the setting."
+        },
+        {
+          "source": "Numbers 18:21",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "To the children of Levi, behold, I have given all the tithe in Israel for an inheritance, in return for their service which they serve, even the service of the Tent of Meeting.",
+          "note": "‘The sons of Levi… have a commandment to take tithes of the people according to the law’ (v. 5) alludes directly to the Levitical tithe-statute. Strong thematic coherence: the whole pericope contrasts the Levites who receive tithes by legal mandate with Melchizedek, who received them from Abraham himself, the Levites' ancestor. Verbal overlap on ‘tithe’ and ‘the children of Levi.’"
+        },
+        {
+          "source": "Psalm 76:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "His tabernacle is also in Salem; His dwelling place in Zion.",
+          "note": "The gloss ‘king of Salem, which means king of peace’ trades on the identification of Salem with Zion/Jerusalem found at Ps 76:2, the one other place Scripture names ‘Salem.’ Modest verbal volume (the shared toponym) but high thematic coherence — it licenses the peace etymology (Salem/shalom) on which the wordplay depends."
+        },
+        {
+          "source": "Psalm 110:4",
+          "type": "echo",
+          "confidence": "high",
+          "text": "Yahweh has sworn, and will not change his mind: ‘You are a priest forever in the order of Melchizedek.’",
+          "note": "‘Remains a priest continually’ (v. 3) reads the Genesis silences through the lens of Ps 110:4, the verse this whole chapter expounds — the eternal Melchizedekian priesthood. Recurrence is decisive (Hays): the psalm is quoted explicitly at vv. 17 and 21, so its perpetuity language is already audible here in the figural portrait."
         }
       ]
     },
@@ -396,6 +1092,35 @@
           "confidence": "high",
           "text": "Yahweh has sworn, and will not change his mind: ‘You are a priest forever in the order of Melchizedek.’",
           "note": "Quoted as proof (v. 17) that a priesthood ‘after the order of Melchizedek’ — not Aaron's — was always promised. If the priesthood changes, Hebrews argues, the law itself must change with it: the letter's most radical claim, carried by a single verse."
+        },
+        {
+          "source": "Genesis 49:10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "The scepter will not depart from Judah, nor the ruler's staff from between his feet, until he comes to whom it belongs; and to him will the obedience of the peoples be.",
+          "note": "‘It is evident that our Lord has sprung out of Judah’ (v. 14) presupposes the Judah-tribe messianism of Jacob's blessing — the scepter that ‘will not depart from Judah.’ No verbatim citation (a dashed allusion), but high thematic coherence: the argument needs a Messiah from a non-priestly tribe, and Gen 49:10 is the locus classicus for the ruler from Judah."
+        },
+        {
+          "source": "Isaiah 11:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "A shoot will come out of the stock of Jesse, and a branch out of his roots will bear fruit.",
+          "note": "The Davidic-from-Judah origin (‘sprung out of Judah,’ v. 14) faintly sounds the Jesse/David shoot of Isa 11:1. Low verbal volume — the link is conceptual (Messiah from Judah's royal line, not Levi) — but it reinforces the same tribal-displacement logic the pericope is pressing."
+        },
+        {
+          "source": "Micah 5:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But you, Bethlehem Ephrathah, being small among the clans of Judah, out of you one will come out to me that is to be ruler in Israel; whose goings out are from of old, from ancient times.",
+          "note": "A faint, contested echo: ‘our Lord has sprung out of Judah’ overlaps with Micah's ‘ruler in Israel’ coming ‘out of’ Bethlehem-in-Judah. Very low volume and no verbal contact beyond the Judah-origin theme; included for maximal coverage where scholars list Judah-Messiah testimonia.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 18:21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "To the children of Levi, behold, I have given all the tithe in Israel for an inheritance, in return for their service which they serve, even the service of the Tent of Meeting.",
+          "note": "The ‘Levitical priesthood… under which the people received the law’ (v. 11) and the contrast with a priest from a tribe that never ‘officiated at the altar’ (v. 13) presuppose the Levi-only priestly charter of Numbers 18. Recurrence within the chapter (the same statute underlies 7:5) raises confidence on an otherwise conceptual allusion."
         }
       ]
     },
@@ -411,6 +1136,27 @@
           "confidence": "high",
           "text": "Yahweh has sworn, and will not change his mind: ‘You are a priest forever in the order of Melchizedek.’",
           "note": "Now the weight falls on the psalm's opening words — ‘The Lord swore and will not change his mind.’ The Levites became priests without an oath; this priest is sworn in by God, so his is the ‘better covenant.’ The same verse, re-read for its oath (recurrence)."
+        },
+        {
+          "source": "Isaiah 53:11–12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "After the suffering of his soul, he will see the light and be satisfied. My righteous servant will justify many by the knowledge of himself; and he will bear their iniquities. Therefore will I give him a portion with the great, and he will divide the plunder with the strong; because he poured out his soul to death, and was counted with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.",
+          "note": "‘He lives forever to make intercession for them’ (v. 25) and ‘to offer… for the sins of the people… he offered up himself’ (vv. 27) echo the Suffering Servant who ‘made intercession for the transgressors’ and ‘bore the sin of many.’ Verbal contact on ‘intercession’ and ‘sins of many / bear sin’; thematic coherence with Hebrews' self-offering priest is strong even without a citation formula."
+        },
+        {
+          "source": "Psalm 110:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh says to my Lord, ‘Sit at my right hand, until I make your enemies your footstool for your feet.’",
+          "note": "‘Made higher than the heavens’ (v. 26) faintly sounds the session-at-the-right-hand of Ps 110:1, the psalm's first verse paired throughout Hebrews with its fourth (1:13; 8:1; 10:12). Low volume here, but recurrence across the letter makes even the faint exaltation language audible as Ps 110:1."
+        },
+        {
+          "source": "Leviticus 16",
+          "type": "figural",
+          "confidence": "high",
+          "text": "for on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh. (Leviticus 16:30)",
+          "note": "‘He did this once for all, when he offered up himself’ (v. 27), set against high priests who ‘offer up sacrifices daily… first for his own sins,’ figurally invokes the Day of Atonement (Lev 16), the cult expounded in chs 9–10. No quotation; the once-versus-repeated, self-offering-versus-for-his-own-sins contrast is the borrowed pattern. The motif recurs from 1:3 onward (Hays' recurrence)."
         }
       ]
     },
@@ -426,6 +1172,44 @@
           "confidence": "high",
           "text": "See that you make them after their pattern, which has been shown to you on the mountain.",
           "note": "God's instruction to Moses — build the tabernacle to the ‘pattern shown on the mountain’ — becomes Hebrews' warrant that the earthly sanctuary is only a ‘copy and shadow’ of a heavenly original. One verse turns Israel's tent into a replica of things in the heavens."
+        },
+        {
+          "source": "Psalm 110:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh says to my Lord, ‘Sit at my right hand, until I make your enemies your footstool for your feet.’",
+          "note": "‘Who sat down on the right hand of the throne of the Majesty in the heavens’ (v. 1) sounds Ps 110:1 once more — the session-oracle that bracketed chapter 1 (1:3, 1:13) and recurs at 10:12. By Hays' recurrence test the saturation of Ps 110 through Hebrews makes even this unmarked allusion certain; here it is fused with the priesthood of Ps 110:4 so that the same enthroned Lord is the heavenly high priest."
+        },
+        {
+          "source": "Exodus 26:30",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall set up the tabernacle according to the way that it was shown to you on the mountain.",
+          "note": "The ‘pattern on the mountain’ motif Hebrews quotes (8:5) is not isolated to Exod 25:40 but recurs across the tabernacle instructions (Exod 25:9; 26:30; 27:8), and the LXX typos (‘pattern/type’) is precisely the word Hebrews exploits. Recurrence within the source itself strengthens the figural reading; medium volume because it is the cluster, not this single verse, that is heard."
+        },
+        {
+          "source": "Numbers 24:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As valleys they are spread out, as gardens by the riverside, as aloes which Yahweh has planted, as cedar trees beside the waters.",
+          "note": "‘The true tabernacle, which the Lord pitched (epēxen), not man’ (v. 2) faintly echoes Balaam's oracle, where the LXX of Num 24:6 reads ‘tents which the Lord pitched’ (skēnai has epēxen Kyrios) — the same rare verb for God, not man, pitching the tent. Low verbal volume and contested, but scholars (Attridge) note the lexical link; flagged because the echo lives only in the Greek.",
+          "contested": true,
+          "altSource": "Numbers 24:6 LXX"
+        },
+        {
+          "source": "Exodus 33:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Now Moses used to take the tent and pitch it outside the camp, far away from the camp, and he called it ‘The Tent of Meeting.’",
+          "note": "The contrast between the ‘true tabernacle which the Lord pitched, not man’ (v. 2) and the human tent of meeting Moses himself pitched (Exod 33:7) is a faint thematic echo: the wilderness tent, set up by a man, is the very ‘copy and shadow’ Hebrews relativizes. Thematic coherence rather than verbal volume; a contested, low-volume link.",
+          "contested": true
+        },
+        {
+          "source": "Jeremiah 31:31",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“Behold, the days come,” says Yahweh, “that I will make a new covenant with the house of Israel, and with the house of Judah:",
+          "note": "‘He is also the mediator of a better covenant, which on better promises has been given as law’ (v. 6) pre-echoes the Jeremiah ‘new covenant’ oracle the very next pericope quotes in full (8:8–12). Hays' recurrence and satisfaction tests: the keyword ‘covenant… better’ seeds the citation about to dominate, so the faint anticipation is heard in retrospect."
         }
       ]
     },
@@ -441,6 +1225,22 @@
           "confidence": "high",
           "text": "Behold, the days come, says Yahweh, that I will make a new covenant with the house of Israel, and with the house of Judah: not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which covenant of mine they broke, although I was a husband to them, says Yahweh. But this is the covenant that I will make with the house of Israel after those days, says Yahweh: I will put my law in their inward parts, and I will write it in their heart. I will be their God, and they shall be my people. They will no longer each teach his neighbor, and every man teach his brother, saying, ‘Know Yahweh;’ for they will all know me, from their least to their greatest, says Yahweh: for I will forgive their iniquity, and I will remember their sin no more.",
           "note": "The longest Old Testament quotation in the New Testament. Hebrews lets Jeremiah's promise of a ‘new’ covenant do the demolition: the mere word ‘new’ pronounces the first ‘old… near to vanishing.’ Re-cited in part at 10:16–17 to bracket the central argument."
+        },
+        {
+          "source": "Jeremiah 31:32",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "“that I will make a new covenant with the house of Israel, and with the house of Judah: not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which covenant of mine they broke, although I was a husband to them,” says Yahweh.",
+          "note": "Flagged as a textual fork within the quotation: where the Hebrew of Jer 31:32 reads ‘although I was a husband to them (or: their master),’ the LXX Hebrews follows reads ‘and I disregarded them’ (ēmelēsa) — the rendering printed at 8:9. A classic Greek-vs-Hebrew divergence (Beale & Carson) carried inside the long citation; included separately to mark the seam Hebrews' argument leans on.",
+          "contested": true,
+          "altSource": "Jeremiah 38:32 LXX"
+        },
+        {
+          "source": "Exodus 24:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Moses took the blood, and sprinkled it on the people, and said, ‘Look, this is the blood of the covenant, which Yahweh has made with you concerning all these words.’",
+          "note": "‘The covenant that I made with their fathers, in the day that I took them by the hand to lead them out of the land of Egypt’ (v. 9) points, through Jeremiah's words, back to the Sinai covenant ratified in blood at Exod 24:8 — the ‘first covenant’ Hebrews names as now ‘old.’ Thematic coherence with the blood-of-the-covenant argument Hebrews makes explicit at 9:18–20; faint here, low volume."
         }
       ]
     },
@@ -456,6 +1256,86 @@
           "confidence": "high",
           "text": "For on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh. (Leviticus 16:30)",
           "note": "The two-roomed tabernacle and ‘the high priest alone, once in the year, not without blood’ (v. 7) describe the Day of Atonement (Lev 16). Hebrews reads the very architecture figurally — the veil barring the way in is ‘the Holy Spirit indicating’ that access to God was not yet open. The figure first heard at 1:3 now becomes the argument."
+        },
+        {
+          "source": "Leviticus 16:2",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "and Yahweh said to Moses, “Tell Aaron your brother, not to come at all times into the Most Holy Place within the veil, before the mercy seat which is on the ark; lest he die: for I will appear in the cloud on the mercy seat.",
+          "note": "‘Into the second the high priest alone, once in the year’ (v. 7) restates the controlling restriction of Lev 16:2 — entry behind the veil only on the one prescribed day. High thematic coherence and verbal volume (‘within the veil… mercy seat… ark’); the prohibition is precisely the ‘way not yet revealed’ Hebrews exploits (v. 8)."
+        },
+        {
+          "source": "Leviticus 16:14–15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He shall take some of the blood of the bull, and sprinkle it with his finger on the mercy seat on the east; and before the mercy seat he shall sprinkle some of the blood with his finger seven times. “Then he shall kill the goat of the sin offering, that is for the people, and bring his blood within the veil, and do with his blood as he did with the blood of the bull, and sprinkle it on the mercy seat, and before the mercy seat.",
+          "note": "‘Not without blood, which he offers for himself, and for the errors of the people’ (v. 7) compresses the bull-for-himself / goat-for-the-people sequence of Lev 16:14–15. Recurrence within Hebrews (the same blood-rite returns at 9:25) and thematic coherence support the link, though no clause is quoted verbatim."
+        },
+        {
+          "source": "Exodus 25:31–37",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You shall make a lamp stand of pure gold. Of hammered work shall the lamp stand be made, even its base, its shaft, its cups, its buds, and its flowers, shall be of one piece with it. There shall be six branches going out of its sides... You shall make its lamps seven, and they shall light its lamps to give light to the space in front of it.",
+          "note": "‘The lamp stand’ in the first room (v. 2) names the menorah commanded in Exod 25:31–37. Verbal volume is a single furnishing word, but the whole catalogue of vv. 2–5 systematically recapitulates the Exodus tabernacle inventory — recurrence across furnishings makes each item's source secure."
+        },
+        {
+          "source": "Exodus 25:23–30",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“You shall make a table of acacia wood... You shall overlay it with pure gold, and make a gold molding around it... You shall set bread of the presence on the table before me always.",
+          "note": "‘The table, and the show bread’ (v. 2) draw on the table of the Presence in Exod 25:23–30 (‘bread of the presence… before me always’). Part of the running tabernacle-inventory allusion; thematic coherence is exact even where verbal contact is just the furnishing names."
+        },
+        {
+          "source": "Exodus 30:1–6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“You shall make an altar to burn incense on. You shall make it of acacia wood... You shall overlay it with pure gold... You shall put it before the veil that is by the ark of the testimony, before the mercy seat that is over the testimony, where I will meet with you.",
+          "note": "‘A golden altar of incense’ (v. 4) recalls Exod 30:1–6. Contested because Exod 30:6 locates the incense altar before the veil (in the Holy Place), while Hebrews places it with the inner room — a famous topographical divergence the author may be following the LXX/Second-Temple tradition on. The verbal echo ‘golden… altar of incense’ is strong; the placement is the crux.",
+          "contested": true,
+          "altSource": "Leviticus 16:12–13 (incense within the veil on the Day of Atonement)"
+        },
+        {
+          "source": "Exodus 25:16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You shall put the testimony which I shall give you into the ark.",
+          "note": "‘The tablets of the covenant’ inside the ark (v. 4) answer Exod 25:16 (‘put the testimony… into the ark’). High thematic coherence; the ‘testimony’ = the tablets, which Hebrews lists among the ark's contents."
+        },
+        {
+          "source": "Exodus 16:33",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Moses said to Aaron, “Take a pot, and put an omer-full of manna in it, and lay it up before Yahweh, to be kept throughout your generations.”",
+          "note": "‘A golden pot holding the manna’ (v. 4) draws on Exod 16:33. The LXX adds ‘golden’ (the Hebrew says only ‘a pot’), so Hebrews follows the Greek detail — an availability/divergence point. Strong thematic coherence with the ark's stored memorials."
+        },
+        {
+          "source": "Numbers 17:10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh said to Moses, “Put back the rod of Aaron before the testimony, to be kept for a token against the children of rebellion; that you may make an end of their murmurings against me, that they not die.”",
+          "note": "‘Aaron's rod that budded’ (v. 4) recalls Num 17:10, where the rod is laid up ‘before the testimony’ as a token. Together with the manna pot and tablets it completes the ark's contents; recurrence of the storage formula (‘before the testimony / before Yahweh’) ties the three memorials together."
+        },
+        {
+          "source": "Exodus 25:18–22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You shall make two cherubim of hammered gold... The cherubim shall spread out their wings upward, covering the mercy seat with their wings... There I will meet with you, and I will tell you from above the mercy seat, from between the two cherubim which are on the ark of the testimony.",
+          "note": "‘Cherubim of glory overshadowing the mercy seat’ (v. 5) is verbally dense with Exod 25:18–22 (‘cherubim… covering the mercy seat with their wings’). High volume on ‘cherubim’ + ‘mercy seat’; this is the closest-to-quotation of the inventory allusions."
+        },
+        {
+          "source": "Exodus 26:31–33",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“You shall make a veil of blue, and purple, and scarlet, and fine twined linen, with cherubim... the veil shall separate the holy place from the most holy for you.",
+          "note": "‘After the second veil’ (v. 3) presupposes Exod 26:31–33, the veil that ‘separates the holy place from the most holy.’ Hebrews' phrase ‘second veil’ reflects the two-curtain reading of the tent; the dividing-veil that bars the way in is the load-bearing image for v. 8."
+        },
+        {
+          "source": "Genesis 3:24",
+          "type": "echo",
+          "confidence": "low",
+          "text": "So he drove out the man; and he placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.",
+          "note": "A faint, contested figural undertone: cherubim ‘overshadowing’ and a veil that bars ‘the way into the Holy Place’ (v. 8) recall the cherubim who ‘guard the way’ to Eden's tree of life (Gen 3:24). Low verbal volume and no recurrence in Hebrews, but some readers (Hays-style figural coherence) hear the blocked-access motif of paradise behind the closed sanctuary.",
+          "contested": true
         }
       ]
     },
@@ -471,6 +1351,50 @@
           "confidence": "high",
           "text": "Moses took the blood, and sprinkled it on the people, and said, ‘Look, this is the blood of the covenant, which Yahweh has made with you concerning all these words.’",
           "note": "Moses' words at Sinai, inaugurating the first covenant in blood. Hebrews quotes them to make blood the necessary seal of any covenant — and so to read Christ's death as the blood that ratifies the new one: ‘apart from shedding of blood there is no remission.’"
+        },
+        {
+          "source": "Exodus 24:6–8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Moses took half of the blood and put it in basins, and half of the blood he sprinkled on the altar. He took the book of the covenant and read it in the hearing of the people, and they said, “All that Yahweh has spoken will we do, and be obedient.” Moses took the blood, and sprinkled it on the people, and said, “Look, this is the blood of the covenant, which Yahweh has made with you concerning all these words.”",
+          "note": "Beyond the quoted clause (v. 8), the whole narrative frame of vv. 19–20 — Moses reading ‘every commandment to all the people,’ then sprinkling — retells Exod 24:6–8. Hebrews adds details (water, scarlet wool, hyssop, sprinkling the book) not in Exod 24, conflating it with the purification rites (Num 19; Lev 14): high recurrence of the sprinkling motif drives the link."
+        },
+        {
+          "source": "Numbers 19:9",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“A man who is clean shall gather up the ashes of the heifer, and lay them up outside of the camp in a clean place; and it shall be kept for the congregation of the children of Israel for use in water for cleansing impurity. It is a sin offering.",
+          "note": "‘The ashes of a heifer sprinkling those who have been defiled’ (v. 13) names the red-heifer rite of Num 19:9. Strong verbal volume (‘ashes of the heifer… cleansing impurity’) and exact thematic coherence: an outward cleansing ‘of the flesh’ that Hebrews contrasts with the inward cleansing of conscience by Christ's blood."
+        },
+        {
+          "source": "Numbers 19:17–18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“For the unclean, they shall take of the ashes of the burning of the sin offering; and running water shall be poured into a vessel. A clean person shall take hyssop, dip it in the water, and sprinkle it on the tent, on all the vessels, on the persons who were there...",
+          "note": "The mechanics of v. 13 (ashes + water sprinkled on the defiled) and the ‘water… and hyssop’ of vv. 19–21 echo Num 19:17–18, where hyssop dips the ash-water and sprinkles ‘the tent, all the vessels, the persons.’ Hebrews' phrase ‘sprinkled the tabernacle and all the vessels’ tracks this list closely — recurrence of sprinkling vocabulary."
+        },
+        {
+          "source": "Numbers 19:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The priest shall take cedar wood, hyssop, and scarlet, and cast it into the middle of the burning of the heifer.",
+          "note": "‘With water and scarlet wool and hyssop’ (v. 19) imports the ‘hyssop and scarlet’ of the heifer rite (Num 19:6) into the retelling of the Sinai covenant-cutting, which had neither. The conflation shows Hebrews reading all the blood-rites as one figural system; verbal contact on ‘scarlet… hyssop’ is the tell.",
+          "contested": true,
+          "altSource": "Leviticus 14:4–6 (scarlet and hyssop in the cleansing of the leper)"
+        },
+        {
+          "source": "Leviticus 17:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For the life of the flesh is in the blood; and I have given it to you on the altar to make atonement for your souls: for it is the blood that makes atonement by reason of the life.",
+          "note": "‘Apart from shedding of blood there is no remission’ (v. 22) crystallizes the principle of Lev 17:11 — blood makes atonement because the life is in it. No verbatim quotation, but high thematic coherence: this is the axiom on which the whole sacrificial argument of vv. 11–22 rests."
+        },
+        {
+          "source": "Leviticus 16:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Aaron shall come into the sanctuary with a young bull for a sin offering, and a ram for a burnt offering.",
+          "note": "‘The blood of goats and calves’ / ‘goats and bulls’ (vv. 12–13, 19) generalizes the Day-of-Atonement victims (bull and goat, Lev 16:3, 5–15). Faint and diffuse — Hebrews blends Day-of-Atonement animals with covenant-inauguration animals (Exod 24) — so verbal volume is low and the source is one strand among several."
         }
       ]
     },
@@ -486,6 +1410,35 @@
           "confidence": "high",
           "text": "For on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh. (Leviticus 16:30)",
           "note": "The Day-of-Atonement figure reaches its payoff: where the high priest ‘enters the holy place year by year,’ Christ enters heaven itself ‘once at the end of the ages.’ The whole typology turns on once versus yearly — the repeated rite was always pointing past itself to a single, final sacrifice."
+        },
+        {
+          "source": "Isaiah 53:12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Therefore will I give him a portion with the great, and he will divide the plunder with the strong; because he poured out his soul to death, and was counted with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.",
+          "note": "‘Having been offered once to bear the sins of many’ (v. 28) verbally echoes Isa 53:12, ‘he bore the sin of many.’ The Greek of Isaiah (anēnenken hamartias pollōn) overlaps Hebrews' wording closely — high verbal volume for an allusion, and thematic coherence with the suffering servant who ‘poured out his soul to death.’ The only Servant-Song echo in the letter, which makes it contested by the recurrence test even as the verbal volume is strong.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 16:34",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“This shall be an everlasting statute for you, to make atonement for the children of Israel once in the year because of all their sins.”",
+          "note": "‘As the high priest enters into the holy place year by year’ (v. 25) restates the ‘once in the year’ statute of Lev 16:34. The contrast Hebrews builds (yearly repetition vs. Christ's single entry) hangs on this annual cadence; verbal contact on ‘once in the year.’"
+        },
+        {
+          "source": "Leviticus 16:14–15",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "He shall take some of the blood of the bull, and sprinkle it with his finger on the mercy seat on the east; and before the mercy seat he shall sprinkle some of the blood with his finger seven times. “Then he shall kill the goat of the sin offering, that is for the people, and bring his blood within the veil, and do with his blood as he did with the blood of the bull, and sprinkle it on the mercy seat, and before the mercy seat.",
+          "note": "‘With blood not his own’ (v. 25) points to the bull-and-goat blood the high priest carries within the veil in Lev 16:14–15 — ‘blood not his own’ in contrast to Christ's self-offering. An echo (the rite is presupposed, not quoted); recurrence of the same Lev 16 blood-entry across 9:7, 9:12, and here."
+        },
+        {
+          "source": "Genesis 2–3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "[allusive phrase] ‘since the foundation of the world’ (v. 26), echoing the primeval frame of creation and the first sin in Genesis 2–3.",
+          "note": "‘Or else he must have suffered often since the foundation of the world’ (v. 26) is a faint temporal echo reaching back to creation and the entrance of sin (Gen 2–3). No quotation and no fetched verse anchors a single line; included as a low-confidence figural horizon under Hays' criterion of thematic coherence, since Hebrews dates the once-for-all offering against the whole span ‘from the foundation of the world.’"
         }
       ]
     },
@@ -503,6 +1456,34 @@
           "contested": true,
           "text": "Sacrifice and offering you didn't desire. You have opened my ears. You have not required burnt offering and sin offering. Then I said, ‘Behold, I have come. It is written about me in the book in the scroll.’ I delight to do your will, my God. Yes, your law is within my heart.",
           "note": "Another Greek/Hebrew fork, and the most consequential one. Where the Hebrew reads ‘ears you have opened (dug),’ the Septuagint that Hebrews quotes reads ‘a body you prepared for me’ — and on that ‘body’ the whole argument of the once-for-all bodily offering turns (v. 10). Availability again: the author's Bible was the Greek."
+        },
+        {
+          "source": "Leviticus 16:34",
+          "type": "figural",
+          "confidence": "high",
+          "text": "This shall be an everlasting statute for you, to make atonement for the children of Israel once in the year because of all their sins.",
+          "note": "‘The same sacrifices year by year… a yearly reminder of sins’ (vv. 1, 3) presupposes the once-a-year Day of Atonement statute. High thematic coherence with the book's central typology (chs 9–10): the very repetition Leviticus commands is what Hebrews turns into proof of the law's inability to perfect."
+        },
+        {
+          "source": "Isaiah 1:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "\"What are the multitude of your sacrifices to me?\", says Yahweh. \"I have had enough of the burnt offerings of rams, and the fat of fed animals. I don't delight in the blood of bulls, or of lambs, or of male goats.",
+          "note": "The prophetic critique of mere sacrifice stands behind both Ps 40 and Hebrews' gloss. ‘The blood of bulls and goats’ (v. 4) sounds Isaiah's ‘blood of bulls… and of male goats’ — thematic coherence (Hays) with the prophets' sacrifice-vs-obedience polemic, even if the verbal volume is faint and mediated through the psalm."
+        },
+        {
+          "source": "1 Samuel 15:22",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Has Yahweh as great delight in burnt offerings and sacrifices, as in obeying Yahweh's voice? Behold, to obey is better than sacrifice, and to listen than the fat of rams.",
+          "note": "Samuel's ‘to obey is better than sacrifice’ is the classic locus of the obedience-over-offering theme that Ps 40:6–8 versifies and Hebrews exploits (‘I have come to do your will’ replacing ‘sacrifice… you didn't desire’). Conceptual coherence rather than verbal volume; scholars (Beale & Carson) note it as the OT backdrop of the contrast."
+        },
+        {
+          "source": "Psalm 51:16–17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For you don't delight in sacrifice, or else I would give it. You have no pleasure in burnt offering. The sacrifices of God are a broken spirit. A broken and contrite heart, O God, you will not despise.",
+          "note": "A faint cousin-echo: David's penitential ‘you don't delight in sacrifice… you have no pleasure in burnt offering’ runs verbally parallel to Ps 40's and Hebrews' ‘you didn't desire… had no pleasure.’ Low volume and contested as a direct source, but the shared psalmic formula reinforces the thematic field of sacrifice displaced by the will of the heart."
         }
       ]
     },
@@ -525,6 +1506,13 @@
           "confidence": "high",
           "text": "I will put my law in their inward parts, and I will write it in their heart... for I will forgive their iniquity, and I will remember their sin no more.",
           "note": "Jeremiah's new covenant, quoted in full at 8:8–12, returns here in brief to close the case: if sins are remembered ‘no more,’ then ‘there is no more offering for sin.’ The recurrence brackets the whole central section (Hays)."
+        },
+        {
+          "source": "Numbers 28:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall tell them, ‘This is the offering made by fire which you shall offer to Yahweh: male lambs a year old without defect, two day by day, for a continual burnt offering.",
+          "note": "‘Every priest indeed stands day by day… often offering the same sacrifices’ (v. 11) alludes to the prescribed tamid, the continual daily offering of Num 28. The endless dailiness Numbers legislates is exactly what Hebrews contrasts with Christ's single seated offering — thematic coherence carrying a low-volume allusion."
         }
       ]
     },
@@ -533,7 +1521,50 @@
       "ch": 10,
       "ref": "10:19–25",
       "text": "Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus, by the way which he dedicated for us, a new and living way, through the veil, that is to say, his flesh; and having a great priest over God's house, let's draw near with a true heart in fullness of faith, having our hearts sprinkled from an evil conscience, and having our body washed with pure water, let us hold fast the confession of our hope without wavering; for he who promised is faithful. Let us consider how to provoke one another to love and good works, not forsaking our own assembling together, as the custom of some is, but exhorting one another; and so much the more, as you see the Day approaching.",
-      "echoes": []
+      "echoes": [
+        {
+          "source": "Ezekiel 36:25",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I will sprinkle clean water on you, and you will be clean. I will cleanse you from all your filthiness, and from all your idols.",
+          "note": "‘Hearts sprinkled from an evil conscience… body washed with pure water’ (v. 22) fuses sprinkling and washing exactly as Ezekiel's new-covenant promise of cleansing does. High verbal volume on ‘sprinkle… clean water’; the coherence with the chapter's interior-cleansing argument (cf. 9:13–14) lifts it from echo to allusion."
+        },
+        {
+          "source": "Exodus 29:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall bring Aaron and his sons to the door of the Tent of Meeting, and shall wash them with water.",
+          "note": "‘Body washed with pure water’ figurally extends the priestly consecration of Aaron and his sons (washed with water before approaching). Hebrews makes every believer a priest who ‘draws near’; the priest-ordination rite is the type. Moderate volume, strong typological coherence."
+        },
+        {
+          "source": "Leviticus 8:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Moses brought Aaron and his sons, and washed them with water.",
+          "note": "The narrative enactment of Exod 29:4 — Moses washing Aaron and his sons at their ordination — reinforces the same priestly-washing type behind ‘body washed with pure water.’ Low independent volume; cited by scholars (Beale & Carson) alongside Exod 29 as the consecration backdrop."
+        },
+        {
+          "source": "Ezekiel 36:26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh.",
+          "note": "The verse immediately following the sprinkling promise: ‘draw near with a true heart’ (v. 22) faintly carries Ezekiel's new-heart language into the same breath as his clean-water language. Low volume, but recurrence of the Ezek 36:25–27 unit in early-Christian new-covenant texts (cf. the Spirit ‘written on hearts’ motif) gives it standing."
+        },
+        {
+          "source": "Leviticus 16:2",
+          "type": "figural",
+          "confidence": "medium",
+          "text": "and Yahweh said to Moses, ‘Tell Aaron your brother, not to come at all times into the Most Holy Place within the veil, before the mercy seat which is on the ark; lest he die: for I will appear in the cloud on the mercy seat.’",
+          "note": "‘Boldness to enter into the holy place… through the veil’ (vv. 19–20) inverts the Day-of-Atonement restriction: where Aaron must not come within the veil ‘at all times’ lest he die, believers now have boldness to enter always. Figural reversal of the Lev 16 prohibition — the veil that barred access (cf. 9:8) is now the opened ‘new and living way.’"
+        },
+        {
+          "source": "Numbers 19:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "A man who is clean shall gather up the ashes of the heifer, and lay them up outside of the camp in a clean place; and it shall be kept for the congregation of the children of Israel for use in water for cleansing impurity. It is a sin offering.",
+          "note": "The ‘water for cleansing impurity’ of the red-heifer rite (invoked explicitly at 9:13) lingers behind ‘body washed with pure water.’ Faint and contested as a distinct source here, but Hebrews has already paired heifer-ashes with sprinkling, so the recurrence keeps the lustration imagery in play."
+        }
+      ]
     },
     {
       "id": "10.4",
@@ -555,6 +1586,41 @@
           "confidence": "high",
           "text": "For Yahweh will judge his people, and have compassion on his servants, when he sees that their power is gone; that there is no one remaining, shut up or left at large.",
           "note": "Stitched straight onto the previous line (‘Again…’). ‘The Lord will judge his people’ also stands at Ps 135:14 — two witnesses fused into one verdict."
+        },
+        {
+          "source": "Deuteronomy 17:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "At the mouth of two witnesses, or three witnesses, he who is to die shall be put to death. At the mouth of one witness he shall not be put to death.",
+          "note": "‘Dies without compassion on the word of two or three witnesses’ (v. 28) quotes the Deuteronomic evidentiary rule almost verbatim. High verbal volume; the a-fortiori (‘how much worse punishment’) turns the capital-witness statute into the structure of the warning."
+        },
+        {
+          "source": "Isaiah 26:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh, your hand is lifted up, yet they don't see; but they will see your zeal for the people, and be disappointed. Yes, fire will consume your adversaries.",
+          "note": "‘A fierceness of fire which will devour the adversaries’ (v. 27) closely follows Isa 26:11 LXX (‘fire will devour the adversaries’). The same Isaiah-26 context supplies 10:37 (‘a little while’), so recurrence within the pericope strengthens the link (Hays); note Hebrews tracks the Greek here."
+        },
+        {
+          "source": "Zephaniah 1:18",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Neither their silver nor their gold will be able to deliver them in the day of Yahweh's wrath, but the whole land will be devoured by the fire of his jealousy; for he will make an end, yes, a terrible end, of all those who dwell in the land.",
+          "note": "The ‘day of wrath’ devouring fire of Zephaniah feeds the same ‘fierceness of fire’ image. Lower volume than Isa 26:11 and harder to isolate, but the prophetic ‘fire of his jealousy that devours’ is the shared topos commentators cite behind v. 27."
+        },
+        {
+          "source": "Deuteronomy 19:15",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.",
+          "note": "The doublet of Deut 17:6, also phrasing the ‘two or three witnesses’ rule. Either Deuteronomic text could be in view; the recurrence of the formula across the law is itself why Hebrews can treat it as settled procedure."
+        },
+        {
+          "source": "Psalm 135:14",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For Yahweh will judge his people, and have compassion on his servants.",
+          "note": "Explicitly flagged in the existing Deut 32:36 note as the alternate locus of ‘The Lord will judge his people.’ Listed in its own right because the wording of Heb 10:30b matches Ps 135:14 as closely as Deut 32:36 — a genuine two-source ambiguity that NA28 margins record."
         }
       ]
     },
@@ -570,6 +1636,14 @@
           "confidence": "high",
           "text": "For the vision is yet for the appointed time, and it hurries toward the end, and won't prove false. Though it takes time, wait for it; because it will surely come. It won't delay. Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
           "note": "‘The righteous will live by faith’ — Paul's great text (Rom 1:17; Gal 3:11) — here following the Greek, which adds ‘if he shrinks back, my soul has no pleasure in him.’ It is the hinge into chapter 11: faith defined, then paraded."
+        },
+        {
+          "source": "Isaiah 26:20",
+          "type": "allusion",
+          "confidence": "medium",
+          "contested": true,
+          "text": "Come, my people, enter into your rooms, and shut your doors behind you. Hide yourself for a little moment, until the indignation is past.",
+          "note": "‘In a very little while’ (v. 37) appears to be a conflated lead-in: Hebrews prefixes Hab 2:3 with the ‘yet a little while’ of Isa 26:20 LXX (‘hide for a little moment until the indignation is past’). The borrowed phrase, and the article on ‘the coming one,’ make the prophecy point to Christ's coming — a Greek-text move (availability/coherence)."
         }
       ]
     },
@@ -585,6 +1659,27 @@
           "confidence": "high",
           "text": "Enoch walked with God, and he was not found, for God took him.",
           "note": "‘Enoch… was not found, because God translated him’ retells Gen 5:24, following the Greek (‘transferred’) for the Hebrew ‘God took him.’ The chapter's whole method shows here in miniature — faith demonstrated by retelling the old stories. (Abel and Noah, vv. 4 and 7, are likewise drawn from Genesis 4 and 6–9.)"
+        },
+        {
+          "source": "Genesis 4:4",
+          "type": "figural",
+          "confidence": "high",
+          "text": "Abel also brought some of the firstborn of his flock and of its fat. Yahweh respected Abel and his offering,",
+          "note": "‘Abel offered… a more excellent sacrifice than Cain’ (v. 4) retells Gen 4:3–10 — the LORD's ‘respect’ for Abel's offering is read as the testimony ‘that he was righteous.’ High thematic coherence; the narrative is reused whole rather than cited (Hays, figural reading)."
+        },
+        {
+          "source": "Genesis 4:10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh said, “What have you done? The voice of your brother's blood cries to me from the ground.”",
+          "note": "‘Being dead, he still speaks’ (v. 4) hears Gen 4:10, where Abel's blood ‘cries from the ground.’ Recurrence clinches it: the same image returns at 12:24 (‘the blood of sprinkling that speaks better than that of Abel’), so even this faint allusion earns its place."
+        },
+        {
+          "source": "Genesis 6:14",
+          "type": "figural",
+          "confidence": "high",
+          "text": "Make a ship of gopher wood. You shall make rooms in the ship, and shall seal it inside and outside with pitch.",
+          "note": "‘Noah… prepared a ship for the saving of his house’ (v. 7) retells the flood narrative of Gen 6–9. The ‘things not yet seen’ are the warned-of flood; Noah's obedience ‘condemned the world.’ The whole story is reused figurally, not quoted."
         }
       ]
     },
@@ -600,6 +1695,85 @@
           "confidence": "high",
           "text": "Don't let it be grievous in your sight because of the boy, and because of your servant. In all that Sarah says to you, listen to her voice. For your offspring will be named through Isaac.",
           "note": "The one formal quotation in the chapter (v. 18). That the promise runs ‘through Isaac’ is what makes the command to sacrifice Isaac the supreme test — and the ground for the inference that God ‘is able to raise up even from the dead.’ The surrounding narrative (the tents, the binding, Jacob worshiping on his staff at Gen 47:31 LXX) is woven in as allusion."
+        },
+        {
+          "source": "Genesis 12:1",
+          "type": "figural",
+          "confidence": "high",
+          "text": "Now Yahweh said to Abram, “Leave your country, and your relatives, and your father's house, and go to the land that I will show you.”",
+          "note": "‘Abraham, when he was called, obeyed to go out… not knowing where he went’ (v. 8) retells the call of Gen 12:1–4. High verbal volume in the verbs of going out and obeying; the founding act of faith for the whole roll-call."
+        },
+        {
+          "source": "Genesis 22:9",
+          "type": "figural",
+          "confidence": "high",
+          "text": "They came to the place which God had told him of. Abraham built the altar there, and laid the wood in order, bound Isaac his son, and laid him on the altar, on the wood.",
+          "note": "‘Abraham, being tested, offered up Isaac’ (v. 17) retells the Aqedah (Gen 22, here v. 9, the binding). The narrative is reused whole and read past itself — the near-sacrifice becomes a figure of resurrection: ‘figuratively speaking, he received him back from the dead.’"
+        },
+        {
+          "source": "Genesis 17:19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "God said, “No, but Sarah, your wife, will bear you a son. You shall call his name Isaac. I will establish my covenant with him for an everlasting covenant for his offspring after him.”",
+          "note": "‘Sarah herself received power to conceive… past age’ (v. 11) alludes to the promise of Gen 17:19 and its fulfillment at 21:1–2. The thematic point — the impossibility of the birth — is exactly what ‘counted him faithful who had promised’ requires."
+        },
+        {
+          "source": "Genesis 21:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Sarah conceived, and bore Abraham a son in his old age, at the set time of which God had spoken to him.",
+          "note": "The fulfillment paired with the promise of 17:19: Sarah bore Isaac ‘when she was past age.’ Low verbal volume, but high coherence — the late-life birth is the very ground of the ‘as good as dead… stars and sand’ paradox in v. 12."
+        },
+        {
+          "source": "Genesis 15:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh brought him outside, and said, “Look now toward the sky, and count the stars, if you are able to count them.” He said to Abram, “So will your offspring be.”",
+          "note": "‘As many as the stars of the sky’ (v. 12) lifts the star-promise of Gen 15:5. Recurrence is decisive: the paired ‘stars… and sand’ formula returns from Gen 22:17, and the same image already anchored 6:13–14 — the most-repeated promise to Abraham."
+        },
+        {
+          "source": "Genesis 22:17",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "that I will bless you greatly, and I will multiply your offspring greatly like the stars of the heavens, and like the sand which is on the seashore. Your offspring will possess the gate of his enemies.",
+          "note": "‘As innumerable as the sand which is by the sea shore’ (v. 12) completes the doubled ‘stars and sand’ formula of Gen 22:17 — the oath sworn at the binding. Already quoted at Heb 6:13–14, so the recurrence test is satisfied across the letter."
+        },
+        {
+          "source": "Genesis 23:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I am a stranger and a foreigner living with you. Give me a possession of a burying-place with you, that I may bury my dead out of my sight.",
+          "note": "‘Strangers and pilgrims on the earth… dwelling in tents’ (vv. 9, 13) echoes Abraham's self-description at Gen 23:4, ‘a stranger and a foreigner.’ The pilgrim motif is the interpretive hinge — the patriarchs ‘desire a better country, a heavenly one.’"
+        },
+        {
+          "source": "Genesis 27:27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He came near, and kissed him. He smelled the smell of his clothing, and blessed him, and said, “Behold, the smell of my son is as the smell of a field which Yahweh has blessed.”",
+          "note": "‘Isaac blessed Jacob and Esau… concerning things to come’ (v. 20) alludes to the deathbed blessing of Gen 27. Low volume, but the explicit naming of Isaac, Jacob, and Esau pins the source; faith is read as confidence in ‘things to come.’"
+        },
+        {
+          "source": "Genesis 47:31",
+          "type": "allusion",
+          "confidence": "high",
+          "contested": true,
+          "altSource": "Genesis 48 (blessing of Joseph's sons)",
+          "text": "He said, “Swear to me,” and he swore to him. Israel bowed himself on the bed's head.",
+          "note": "‘Jacob… worshiped, leaning on the top of his staff’ (v. 21) follows the Greek of Gen 47:31, which reads ‘staff’ (matteh) where the Hebrew has ‘bed’ (mittah) — the same unpointed consonants. Availability again (Hays): the author's Septuagint gave him the staff. The blessing of Joseph's sons (Gen 48) is alluded to in the same breath."
+        },
+        {
+          "source": "Genesis 48:15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He blessed Joseph, and said, “The God before whom my fathers Abraham and Isaac walked, the God who has fed me all my life long to this day,”",
+          "note": "‘Jacob, when he was dying, blessed each of the sons of Joseph’ (v. 21) retells Gen 48, where the dying patriarch blesses Ephraim and Manasseh. Reused as narrative rather than cited; coheres with the chapter's deathbed-faith pattern (Abraham, Isaac, Jacob, Joseph all blessing what they will not see)."
+        },
+        {
+          "source": "Genesis 50:25",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Joseph took an oath from the children of Israel, saying, “God will surely visit you, and you shall carry up my bones from here.”",
+          "note": "‘Joseph… made mention of the departure of the children of Israel; and gave instructions concerning his bones’ (v. 22) closely retells Gen 50:24–25. High verbal volume — ‘departure’ and ‘bones’ both echo the oath; faith as confidence in an exodus Joseph would never see."
         }
       ]
     },
@@ -616,6 +1790,49 @@
           "confidence": "high",
           "text": "Moses and the Passover, the blood on the doorposts, the crossing of the Red Sea, the fall of Jericho, and Rahab's welcome of the spies (Exodus 12–14; Joshua 2; 6).",
           "note": "Faith demonstrated not by citation but by retelling — Moses, the Passover, the sea, Jericho, Rahab compressed into a litany of ‘by faith.’ Figural reuse of whole narratives: the Old Testament itself becomes the cloud of witnesses of 12:1."
+        },
+        {
+          "source": "Exodus 2:2",
+          "type": "figural",
+          "confidence": "high",
+          "text": "The woman conceived, and bore a son. When she saw that he was a fine child, she hid him three months.",
+          "note": "‘Moses, when he was born, was hidden for three months… because they saw that he was a beautiful child’ (v. 23) is a near-verbatim retelling of Exod 2:2. High verbal volume — ‘hidden three months’ and the ‘fine/beautiful child’ both carry over."
+        },
+        {
+          "source": "Exodus 2:11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "In those days, when Moses had grown up, he went out to his brothers, and looked at their burdens. He saw an Egyptian striking a Hebrew, one of his brothers.",
+          "note": "‘Moses, when he had grown up, refused to be called the son of Pharaoh's daughter, choosing… ill treatment with God's people’ (vv. 24–25) interprets Exod 2:11–15 — Moses casting his lot with the oppressed Hebrews. The narrative is reused and theologized (‘the reproach of Christ’)."
+        },
+        {
+          "source": "Exodus 12:13",
+          "type": "figural",
+          "confidence": "high",
+          "text": "The blood shall be to you for a token on the houses where you are: and when I see the blood, I will pass over you, and there shall no plague be on you to destroy you, when I strike the land of Egypt.",
+          "note": "‘He kept the Passover, and the sprinkling of the blood, that the destroyer of the firstborn should not touch them’ (v. 28) retells Exod 12 — the blood-token that turns the destroyer aside. High thematic coherence with the letter's blood-and-atonement argument."
+        },
+        {
+          "source": "Exodus 14:22",
+          "type": "figural",
+          "confidence": "high",
+          "text": "The children of Israel went into the middle of the sea on the dry ground, and the waters were a wall to them on their right hand, and on their left.",
+          "note": "‘They passed through the Red Sea as on dry land… the Egyptians… were swallowed up’ (v. 29) retells Exod 14. The same deliverance/judgment doubling — dry ground for Israel, drowning for Egypt — is reused whole as an act of faith."
+        },
+        {
+          "source": "Joshua 6:20",
+          "type": "figural",
+          "confidence": "high",
+          "text": "So the people shouted and the priests blew the trumpets. When the people heard the sound of the trumpet, the people shouted with a great shout, and the wall fell down flat, so that the people went up into the city, every man straight in front of him, and they took the city.",
+          "note": "‘The walls of Jericho fell down, after they had been encircled for seven days’ (v. 30) retells Josh 6. The ‘seven days’ detail carries directly from the narrative; the fall comes not by siege-works but by faith."
+        },
+        {
+          "source": "Joshua 6:25",
+          "altSource": "Joshua 2 (Rahab receives the spies)",
+          "type": "figural",
+          "confidence": "high",
+          "text": "But Rahab the prostitute, her father's household, and all that she had, Joshua saved alive. She lives in the middle of Israel to this day, because she hid the messengers, whom Joshua sent to spy out Jericho.",
+          "note": "‘Rahab the prostitute, didn't perish with those who were disobedient, having received the spies in peace’ (v. 31) retells Josh 2; 6:22–25. Rahab the outsider set among the faithful; her welcome of the spies is read as the faith that spared her."
         }
       ]
     },
@@ -632,6 +1849,71 @@
           "confidence": "high",
           "text": "Gideon, Barak, Samson, and Jephthah (Judges); David and Samuel (1–2 Samuel); ‘stopped the mouths of lions’ and ‘quenched fire’ (Daniel 6; 3); and the tortured who looked for ‘a better resurrection’ (2 Maccabees 6–7).",
           "note": "The roll-call accelerates into a blur of unnamed sufferers. The tortured who refused release ‘that they might obtain a better resurrection’ allude to the Maccabean martyrs (2 Macc 7) — Scripture and the example of the faithful read together as one witness. The figural method at full speed."
+        },
+        {
+          "source": "Judges 7:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh said to Gideon, “By the three hundred men who lapped will I save you, and deliver the Midianites into your hand.”",
+          "note": "‘Gideon… subdued kingdoms… caused foreign armies to flee’ (vv. 32–34) names the judge whose three hundred routed Midian (Judg 6–8). A representative verse for the Judges cluster (Gideon, Barak, Samson, Jephthah); the deliverers are reused as exemplars of faith, not cited."
+        },
+        {
+          "source": "Daniel 6:22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "My God has sent his angel, and has shut the lions' mouths, and they have not hurt me; because as before him innocence was found in me; and also before you, O king, I have done no harm.",
+          "note": "‘Stopped the mouths of lions’ (v. 33) is a near-verbatim allusion to Dan 6:22, where the angel ‘shut the lions' mouths.’ High verbal volume on the distinctive image — among the clearest links in the unnamed list."
+        },
+        {
+          "source": "Daniel 3:27",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "The satraps, the deputies, and the governors, and the king's counselors, being gathered together, saw these men, that the fire had no power on their bodies.",
+          "note": "‘Quenched the power of fire’ (v. 34) alludes to Dan 3:27 — the three in the furnace on whom ‘the fire had no power.’ Paired with the lions of Dan 6 in the same line, the two Daniel deliverances stand side by side."
+        },
+        {
+          "source": "1 Samuel 17:50",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "So David prevailed over the Philistine with a sling and with a stone, and struck the Philistine, and killed him; but there was no sword in the hand of David.",
+          "note": "‘David’ (v. 32), who ‘grew mighty in war’ and ‘caused foreign armies to flee,’ is represented by the defeat of Goliath. Low volume (a name, not a phrase), but David and Samuel are explicitly named, anchoring the Samuel-narratives in the litany."
+        },
+        {
+          "source": "1 Kings 17:22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh listened to the voice of Elijah; and the soul of the child came into him again, and he revived.",
+          "note": "‘Women received their dead by resurrection’ (v. 35) alludes to the widow of Zarephath, whose son Elijah raised (1 Kings 17:17–24). The plural ‘women’ pairs it with the Shunammite of 2 Kings 4 — two raised sons, one phrase."
+        },
+        {
+          "source": "2 Kings 4:35",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Then he returned, and walked in the house once back and forth; and went up, and stretched himself out on him. Then the child sneezed seven times, and the child opened his eyes.",
+          "note": "The second ‘woman’ who ‘received her dead’ (v. 35) is the Shunammite, whose son Elisha raised (2 Kings 4:32–37). Together with 1 Kings 17 it justifies the plural and sets up the contrast with those who chose death for ‘a better resurrection.’"
+        },
+        {
+          "source": "2 Maccabees 7:9",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "And when he was at the last gasp, he said, You, miscreant, do release us out of this present life, but the King of the world shall raise up us, who have died for his laws, to an eternal renewal of life.",
+          "note": "‘Others were tortured, not accepting their deliverance, that they might obtain a better resurrection’ (v. 35) draws on the Maccabean mother and seven sons (2 Macc 7), who refused release in hope of resurrection. The verbal link is ‘resurrection’/‘raise up… to renewal of life’ — a Second Temple, non-canonical witness read alongside Scripture."
+        },
+        {
+          "source": "2 Maccabees 6:19",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "But he, welcoming death with renown rather than life with pollution, advanced of his own accord to the instrument of torture, but first spat forth the flesh,",
+          "note": "‘Others were tortured… tried by mocking and scourging’ (vv. 35–36) also recalls the aged Eleazar of 2 Macc 6:18–31, who ‘advanced of his own accord to the instrument of torture.’ Contested and faint — a deuterocanonical example of voluntary martyrdom folded into the litany of the persecuted faithful."
+        },
+        {
+          "source": "Martyrdom of Isaiah 5:1–14",
+          "type": "allusion",
+          "confidence": "low",
+          "contested": true,
+          "altSource": "2 Kings 21 (Manasseh's bloodshed)",
+          "text": "[pseudepigraphal — not in WEB] The Ascension/Martyrdom of Isaiah recounts that Isaiah was sawn in two with a wood-saw at the order of King Manasseh (Mart. Isa. 5:1–14).",
+          "note": "‘They were sawn apart’ (v. 37) has no canonical referent; the early Jewish-Christian tradition that Isaiah was sawn in two under Manasseh (Martyrdom of Isaiah, alluded to by Justin and the rabbis) is the standard identification. Pseudepigraphal and faint, but the otherwise-unexplained verb ‘sawn’ tips the balance (Hays' availability/satisfaction)."
         }
       ]
     },
@@ -662,6 +1944,43 @@
           "confidence": "high",
           "text": "My son, don't despise Yahweh's discipline, neither be weary of his reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.",
           "note": "Wisdom's word on a father's discipline, applied to suffering: hardship is not God's absence but his fathering. The closing exhortation then borrows Isaiah's ‘strengthen the weak hands and feeble knees’ (Isa 35:3) and Proverbs' ‘make level paths’ (Prov 4:26)."
+        },
+        {
+          "source": "Deuteronomy 8:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You shall consider in your heart that as a man disciplines his son, so Yahweh your God disciplines you.",
+          "note": "‘What son is there whom his father doesn't discipline?’ (v. 7) restates the father-son discipline axiom of Deut 8:5 — the wilderness theology that hardship is paternal training, not abandonment. Strong thematic coherence (Hays) reinforcing the quoted Prov 3:11–12; the disciplining ‘father’ language is shared verbatim in sense. LXX and Hebrew agree here (‘as a man chastens his son’)."
+        },
+        {
+          "source": "Isaiah 35:3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Strengthen the weak hands, and make firm the feeble knees.",
+          "note": "‘Lift up the hands that hang down and the feeble knees’ (v. 12) lifts Isaiah's oracle of comfort to the discouraged almost word for word — high verbal volume on the two paired body-parts. The LXX of Isa 35:3 (‘weak hands… feeble knees’) is the form Hebrews follows; the eschatological highway context (Isa 35) matches Hebrews' race imagery."
+        },
+        {
+          "source": "Proverbs 4:26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Make the path of your feet level. Let all of your ways be established.",
+          "note": "‘Make straight paths for your feet’ (v. 13) echoes Prov 4:26 LXX (‘make straight/level tracks for your feet’) — Wisdom's image of the level, unswerving path, paired here with the lame foot to be healed. Verbal volume is high in the Greek; the LXX ‘straight tracks’ diverges from the Hebrew ‘ponder the path.’"
+        },
+        {
+          "source": "Proverbs 11:30",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The fruit of the righteous is a tree of life. He who is wise wins souls.",
+          "note": "‘The peaceful fruit of righteousness’ (v. 11) faintly recalls the wisdom idiom ‘fruit of the righteous’ (Prov 11:30). Low volume — a stock metaphor rather than a pointed citation; offered for maximal coverage.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 32:17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The work of righteousness will be peace; and the effect of righteousness, quietness and confidence forever.",
+          "note": "The collocation ‘peaceful fruit of righteousness’ (v. 11) may also draw on Isa 32:17, where righteousness yields ‘peace’ and quietness. Contested and faint — the link rests on the shared righteousness/peace pairing, not distinctive wording.",
+          "contested": true
         }
       ]
     },
@@ -678,6 +1997,27 @@
           "confidence": "high",
           "text": "Esau sold his birthright for a single meal, and later, rejected, sought the blessing with tears (Genesis 25:29–34; 27:30–40).",
           "note": "Esau the cautionary figure — the brother who traded an eternal inheritance for an appetite. ‘Root of bitterness’ also alludes to Deut 29:18 (a root ‘bearing poison’). The warning: do not be the one who despised the birthright."
+        },
+        {
+          "source": "Genesis 27:30–40",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "When Esau heard the words of his father, he cried with an exceeding great and bitter cry, and said to his father, ‘Bless me, even me also, my father.’ … Esau lifted up his voice, and wept. … ‘By your sword will you live, and you will serve your brother.’",
+          "note": "‘He was rejected, for he found no place for a change of mind though he sought it diligently with tears’ (v. 17) draws directly on the second Esau scene — the irreversible lost blessing and Esau's ‘exceeding great and bitter cry.’ High historical/verbal coherence: the ‘tears’ and the finality of the verdict come from Gen 27, distinct from the birthright sale of Gen 25."
+        },
+        {
+          "source": "Deuteronomy 29:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "lest there should be among you man, woman, family, or tribe whose heart turns away today from Yahweh our God, to go to serve the gods of those nations; lest there should be among you a root that produces bitter poison;",
+          "note": "‘Any root of bitterness springing up’ (v. 15) is near-verbatim with Deut 29:18 LXX (‘a root springing up in bitterness/gall’). High volume and recurrence within the apostasy-warning theme. The LXX reads ‘root springing up in gall and bitterness’ where the Hebrew has ‘root bearing poison/wormwood’ — Hebrews follows the Greek."
+        },
+        {
+          "source": "Psalm 34:14",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Depart from evil, and do good. seek peace, and pursue it.",
+          "note": "‘Follow after peace with all men’ (v. 14) echoes the psalm's ‘seek peace, and pursue it’ (Ps 34:14) — the same verb of pursuit. Medium volume; the imperative to chase after peace is distinctive enough to register, and Ps 34 is a favored source in early Christian paraenesis."
         }
       ]
     },
@@ -694,6 +2034,69 @@
           "confidence": "high",
           "text": "You shall set bounds to the people all around, saying, ‘Be careful that you don't go up onto the mountain, or touch its border. Whoever touches the mountain shall be surely put to death.’ No hand shall touch him, but he shall surely be stoned or shot through; whether it is animal or man, he shall not live.",
           "note": "The Sinai theophany — fire, darkness, trumpet, the forbidden mountain — set against Mount Zion. ‘If even an animal touches the mountain, it shall be stoned’ quotes Exod 19:12–13; ‘I am terrified and trembling’ (v. 21) echoes Moses at Deut 9:19; and the ‘blood that speaks better than Abel’ recalls Gen 4:10. Three texts braided into the two-mountain contrast."
+        },
+        {
+          "source": "Exodus 19:16–19",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "On the third day, when it was morning, there were thunders and lightnings, and a thick cloud on the mountain, and the sound of an exceedingly loud trumpet; and all the people who were in the camp trembled. … All of Mount Sinai smoked, because Yahweh descended on it in fire … When the sound of the trumpet grew louder and louder, Moses spoke, and God answered him by a voice.",
+          "note": "The whole Sinai sensorium of v. 18–19 — fire, the burning mountain, the trumpet that grows louder, ‘the voice of words’ — is drawn from the theophany narrative of Exod 19:16–19. High verbal volume across multiple distinctive items (trumpet, fire, voice answering); this is the descriptive backbone behind the quoted prohibition."
+        },
+        {
+          "source": "Deuteronomy 4:11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You came near and stood under the mountain. The mountain burned with fire to the heart of the sky, with darkness, cloud, and thick darkness.",
+          "note": "The triad ‘blackness, darkness, storm’ (v. 18) reproduces the LXX of Deut 4:11 (‘darkness, gloom, and storm/tempest’) almost verbatim — three nouns in sequence that the Hebrew renders differently. A textbook case of Hebrews following the Septuagint word-string; high volume on a rare cluster."
+        },
+        {
+          "source": "Deuteronomy 9:19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For I was afraid of the anger and hot displeasure with which Yahweh was angry against you to destroy you. But Yahweh listened to me that time also.",
+          "note": "‘Moses said, “I am terrified and trembling”’ (v. 21) ascribes to the Sinai scene Moses' confession of terror, which in Scripture stands at Deut 9:19 (the golden-calf aftermath: ‘I was afraid/terrified’). Medium volume — Hebrews telescopes the fear onto Sinai; the ‘I am terrified’ wording matches the LXX ekphobos."
+        },
+        {
+          "source": "Exodus 20:18–19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "All the people perceived the thunderings, the lightnings, the sound of the trumpet, and the mountain smoking. When the people saw it, they trembled, and stayed at a distance. They said to Moses, ‘Speak with us yourself, and we will listen; but don't let God speak with us, lest we die.’",
+          "note": "‘Those who heard it begged that not one more word should be spoken to them’ (v. 19) paraphrases the people's plea at Exod 20:18–19 — they ask that God speak no more lest they die. Solid thematic and historical coherence; medium because it is summary rather than citation."
+        },
+        {
+          "source": "Genesis 4:10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh said, ‘What have you done? The voice of your brother's blood cries to me from the ground.’",
+          "note": "‘The blood of sprinkling that speaks better than that of Abel’ (v. 24) presupposes Gen 4:10, where Abel's blood ‘cries out from the ground.’ High coherence: Hebrews contrasts the two crying bloods — Abel's for vengeance, Christ's for mercy. The personified, speaking blood is the distinctive shared element."
+        },
+        {
+          "source": "Psalm 48:1–2",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Great is Yahweh, and greatly to be praised, in the city of our God, in his holy mountain. Beautiful in elevation, the joy of the whole earth, is Mount Zion, on the north sides, the city of the great King.",
+          "note": "‘You have come to Mount Zion, and to the city of the living God’ (v. 22) draws on the Zion-theology of Ps 48:1–2, where Mount Zion is ‘the city of the great King.’ The pairing of Mount Zion with ‘city of God’ is the distinctive collocation; high coherence with Hebrews' heavenly-Jerusalem motif."
+        },
+        {
+          "source": "Daniel 12:1",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "‘At that time Michael will stand up … and there will be a time of trouble … At that time your people will be delivered, everyone who is found written in the book.’",
+          "note": "‘The assembly of the firstborn who are enrolled in heaven’ (v. 23) draws on the apocalyptic book-of-life motif, classically Dan 12:1 (‘everyone found written in the book’ is delivered). Medium volume; the enrollment/registration image is the link, shared with Exod 32:32."
+        },
+        {
+          "source": "Exodus 32:32",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written.",
+          "note": "‘Enrolled in heaven’ (v. 23) also recalls the heavenly book of Exod 32:32, the earliest ‘book which you have written.’ Lower volume than Dan 12:1; offered as the seed-text of the enrollment image for maximal coverage."
+        },
+        {
+          "source": "Genesis 18:25",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Be it far from you to do things like that, to kill the righteous with the wicked … Shouldn't the Judge of all the earth do right?",
+          "note": "‘To God the Judge of all’ (v. 23) echoes Abraham's appeal to ‘the Judge of all the earth’ at Gen 18:25 — the title for God as universal judge. Medium volume; a recognized divine epithet, distinctively phrased in Genesis."
         }
       ]
     },
@@ -710,6 +2113,20 @@
           "confidence": "high",
           "text": "Yet once, it is a little while, and I will shake the heavens, the earth, the sea, and the dry land;",
           "note": "Haggai's promise of a final cosmic shaking. Hebrews fastens on ‘yet once more’: one last shaking removes everything shakeable, leaving only the unshakable Kingdom. The closing ‘our God is a consuming fire’ draws on Deut 4:24."
+        },
+        {
+          "source": "Deuteronomy 4:24",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "For Yahweh your God is a devouring fire, a jealous God.",
+          "note": "‘Our God is a consuming fire’ (v. 29) is a near-verbatim citation of Deut 4:24 — high volume, the closing thunderclap of the two-mountains argument. The same Deuteronomy 4 context (v. 11) supplied the Sinai darkness-triad above, so recurrence (Hays) confirms the source; ‘consuming/devouring fire’ matches the LXX."
+        },
+        {
+          "source": "Exodus 19:18",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "All of Mount Sinai smoked, because Yahweh descended on it in fire; and its smoke ascended like the smoke of a furnace, and the whole mountain quaked greatly.",
+          "note": "‘Whose voice shook the earth then’ (v. 26) recalls the quaking of Sinai at the theophany, Exod 19:18 (‘the whole mountain quaked greatly’). Medium volume; the earth-shaking at the giving of the law is what Haggai's ‘yet once more’ is set against, making this the implied precursor event."
         }
       ]
     },
@@ -733,6 +2150,14 @@
           "confidence": "high",
           "text": "Yahweh is on my side. I will not be afraid. What can man do to me?",
           "note": "The worshiper's confidence from the Hallel psalm, made the believer's answer to fear — paired at once with the Deuteronomy promise, two texts braided into one assurance."
+        },
+        {
+          "source": "Genesis 18:1–8",
+          "altSource": "Genesis 19:1–3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh appeared to him by the oaks of Mamre, as he sat in the tent door in the heat of the day. He lifted up his eyes and looked, and saw that three men stood opposite him. When he saw them, he ran to meet them from the tent door, and bowed himself to the earth, and said, ‘My lord, if now I have found favor in your sight, please don't go away from your servant. Now let a little water be fetched, wash your feet, and rest yourselves under the tree. I will get a morsel of bread so you can refresh your heart. After that you may go your way, now that you have come to your servant.’ They said, ‘Very well, do as you have said.’ Abraham hurried into the tent to Sarah, and said, ‘Quickly prepare three seahs of fine meal, knead it, and make cakes.’ Abraham ran to the herd, and fetched a tender and good calf, and gave it to the servant. He hurried to dress it. He took butter, milk, and the calf which he had dressed, and set it before them. He stood by them under the tree, and they ate.",
+          "note": "‘Some have entertained angels without knowing it’ (v. 2) reaches back to Abraham at Mamre, who welcomed three strangers who proved to be the Lord and his messengers, and to Lot, who took in the two angels at Sodom's gate (Gen 19:1–3). High volume on the thematic level (Hays' criterion of thematic coherence) and recurrence within Genesis itself; the verbal trigger is faint, but the narrative is so iconic that no quotation is needed for the echo to be heard."
         }
       ]
     },
@@ -748,6 +2173,35 @@
           "confidence": "high",
           "text": "For on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh. (Leviticus 16:30)",
           "note": "The Day-of-Atonement figure makes its last turn. The bodies of the sin-offering ‘are burned outside the camp’ (Lev 16:27) — so Jesus ‘suffered outside the gate.’ The figure that began at 1:3 ends as a summons: ‘go out to him outside the camp, bearing his reproach.’"
+        },
+        {
+          "source": "Leviticus 16:27",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "The bull for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the Holy Place, shall be carried outside the camp; and they shall burn their skins, their flesh, and their dung with fire.",
+          "note": "The precise verse behind v. 11: ‘the bodies of those animals, whose blood is brought into the holy place… are burned outside of the camp.’ Hebrews tracks Lev 16:27 almost clause by clause (high verbal volume), then reads the carcass-disposal detail figurally — the place of shame outside the camp becomes the place of Christ's saving death ‘outside the gate.’ LXX and Hebrew agree closely here, so no textual fork; the move is interpretive, not text-critical."
+        },
+        {
+          "source": "Hosea 14:2",
+          "type": "allusion",
+          "confidence": "high",
+          "contested": true,
+          "text": "Take words with you, and return to Yahweh. Tell him, ‘Forgive all our sins, and accept that which is good: so we offer our lips like bulls.’",
+          "note": "‘The fruit of lips’ (v. 15) renders the Septuagint of Hos 14:3 (Eng. 14:2), which reads ‘fruit of our lips’ (karpon cheileōn) where the Hebrew has ‘bulls (parim) of our lips.’ A classic LXX-vs-Hebrew divergence: the Greek's parō → ‘fruit’ for the Hebrew's ‘bulls’ supplies Hebrews its exact phrase, turning verbal praise into the new-covenant ‘sacrifice.’ Availability and verbal volume make this the strongest precursor for the phrase, though the citation is unmarked and so contested."
+        },
+        {
+          "source": "Psalm 50:14,23",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Offer to God the sacrifice of thanksgiving. Pay your vows to the Most High. … Whoever offers the sacrifice of thanksgiving glorifies me, and prepares his way so that I will show God's salvation to him.",
+          "note": "The very phrase ‘sacrifice of praise’ (thysian aineseōs) is the Septuagint's standing rendering of the todah/thank-offering of Ps 50:14, 23, where God prefers thanksgiving to slaughtered bulls — the same spiritualizing of cult Hebrews performs. Conceptual coherence is high; the verbal trigger is the shared LXX cult-term, so this is heard as a supporting echo beneath the Hosea allusion."
+        },
+        {
+          "source": "Isaiah 57:19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I create the fruit of the lips: Peace, peace, to him who is far off and to him who is near,” says Yahweh; “and I will heal them.",
+          "note": "A second, fainter source for ‘fruit of lips’ — Isa 57:19 LXX literally speaks of ‘the fruit of the lips’ (karpon cheileōn). Low volume and contested as the primary referent (Hosea is the better fit for the praise-as-sacrifice sense), but the exact lexical match means it cannot be excluded from a maximal inventory (Hays' criterion of availability)."
         }
       ]
     },
@@ -756,7 +2210,43 @@
       "ch": 13,
       "ref": "13:20–25",
       "text": "Now may the God of peace, who brought again from the dead the great shepherd of the sheep with the blood of an eternal covenant, our Lord Jesus, make you complete in every good work to do his will, working in you that which is well pleasing in his sight, through Jesus Christ, to whom be the glory forever and ever. Amen. But I exhort you, brothers, endure the word of exhortation; for I have written to you in few words. Know that our brother Timothy has been freed, with whom, if he comes shortly, I will see you. Greet all of your leaders and all the saints. The Italians greet you. Grace be with you all. Amen.",
-      "echoes": []
+      "echoes": [
+        {
+          "source": "Isaiah 63:11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Then he remembered the days of old, Moses and his people, saying, ‘Where is he who brought them up out of the sea with the shepherds of his flock?’",
+          "note": "‘Who brought again from the dead the great shepherd of the sheep’ (v. 20) fuses ‘the shepherd of the sheep’ with the verb ‘brought up.’ Isa 63:11 LXX speaks of the one who ‘brought up out of the sea the shepherd of the sheep’ (anagagōn… ton poimena tōn probatōn) — the closest verbal parallel anywhere in the Greek Bible, supplying both the title and the ‘brought up’ verb that Hebrews re-reads as resurrection. High verbal volume; the divergence is that the Exodus deliverance is read as a figure of the raising of Christ."
+        },
+        {
+          "source": "Zechariah 9:11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "As for you also, because of the blood of your covenant, I have set free your prisoners from the pit in which is no water.",
+          "note": "‘With the blood of an eternal covenant’ (v. 20) echoes Zech 9:11, ‘because of the blood of your covenant I have set free your prisoners from the pit’ — deliverance from the pit (death) by covenant blood, the same constellation Hebrews binds to the resurrection of the shepherd. Verbal volume on ‘blood of the covenant’ is strong; the link to ‘brought again from the dead’ supplies the thematic coherence."
+        },
+        {
+          "source": "Ezekiel 37:26",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Moreover I will make a covenant of peace with them. It will be an everlasting covenant with them. I will place them, multiply them, and will set my sanctuary among them forever more.",
+          "note": "‘The God of peace’ and ‘an eternal covenant’ together sound Ezekiel's promise of an ‘everlasting covenant’ of ‘peace’ (Ezek 37:26), set in the chapter of resurrection from the graves (37:1–14) and the Davidic shepherd (37:24). Conceptual coherence — peace, eternal covenant, shepherd, resurrection — is high; the verbal trigger is the shared ‘everlasting/eternal covenant,’ so a medium-volume echo."
+        },
+        {
+          "source": "Isaiah 55:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Turn your ear, and come to me. Hear, and your soul will live: and I will make an everlasting covenant with you, even the sure mercies of David.",
+          "note": "A fainter source for ‘an eternal covenant’: Isa 55:3 LXX promises an ‘everlasting covenant’ (diathēkēn aiōnion), the same phrase Hebrews uses, and ties it to the Davidic (shepherd-king) mercies. Low volume and contested against Ezek 37 and Jer 32:40, but the exact phrase keeps it in a maximal inventory."
+        },
+        {
+          "source": "Psalm 143:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Teach me to do your will, for you are my God. Your Spirit is good. Lead me in the land of uprightness.",
+          "note": "The doxology's petition that God ‘make you complete… to do his will, working in you that which is well pleasing in his sight’ (v. 21) faintly echoes Ps 143:10, ‘Teach me to do your will, for you are my God; your Spirit is good.’ Both join doing God's will to God's own enabling Spirit/work. Very low verbal volume — a liturgical commonplace rather than a citation — included only for completeness."
+        }
+      ]
     }
   ]
 }
