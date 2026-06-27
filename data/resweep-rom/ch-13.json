@@ -1,0 +1,240 @@
+[
+  {
+    "id": "13.1",
+    "ch": 13,
+    "ref": "13:1-7",
+    "echoes": [
+      {
+        "source": "Daniel 2:21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's axiom 'there is no authority except from God, and those who exist are ordained by God' restates Daniel's hymn that God 'changes the times and the seasons; he removes kings and sets up kings.' Strong thematic and conceptual borrowing: the establishment and deposing of rulers is God's act, the theological ground for v.1.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 4:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The Most High rules the kingdom of men and gives it to whom he will' (cf. 4:25, 4:32) is the Danielic doctrine that earthly dominion is conferred by God, directly underwriting 'ordained by God' and 'a servant of God.'",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 8:15-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Wisdom declares 'By me kings reign, and rulers decree justice; by me princes rule.' The claim that legitimate rule derives from God and exists to commend the good (v.3) closely tracks this sapiential formula.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 6:1-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Address to rulers: 'your dominion was given you from the Lord, and your sovereignty from the Most High, who will search out your works.' This Second Temple text gives the nearest verbal-conceptual parallel to vv.1-4 (authority delegated by God; rulers accountable as God's ministers). Many read Romans 13 as engaging precisely this Hellenistic-Jewish political theology.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 6:4-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Rulers are called 'servants/ministers of his kingdom' who will be judged for failing to govern rightly — parallel to Paul's repeated 'servant of God' (diakonos/leitourgos, vv.4,6) and the threat of wrath upon wrongdoers.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 10:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The government of the earth is in the hand of the Lord, and over it he will raise up the right leader for the time' — Ben Sira's statement that political authority and its incumbents are God-appointed coheres tightly with vv.1-2.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 27:5-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God: 'I have made the earth... and I give it to whomever it seems right to me. Now I have given all these lands into the hand of Nebuchadnezzar... my servant.' A pagan king is called God's 'servant' and his rule is divinely ordained — striking precedent for calling the (Roman) ruler 'a servant of God' (vv.4,6).",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 29:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Seek the welfare of the city where I have sent you... and pray to the LORD on its behalf' — the exilic posture of submission to and cooperation with a foreign government anticipates Paul's counsel of subjection, taxes, and honor (vv.5-7).",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 24:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'My son, fear the LORD and the king' pairs reverence for God with honor due the ruler — directly behind the closing exhortation to render 'respect to whom respect, honor to whom honor' (v.7).",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 8:2-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Keep the king's command... whoever keeps a command will not experience harm' — wisdom on prudent obedience to royal authority parallels Paul's 'be in subjection... do good and you will have praise' (vv.3-5).",
+        "contested": true
+      },
+      {
+        "source": "Exodus 22:28",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You shall not revile God, nor curse a ruler of your people' — Torah pairs honoring God with not dishonoring the civil authority, an antecedent to 'he who resists the authority withstands the ordinance of God' (v.2) and 'honor to whom honor' (v.7).",
+        "contested": false
+      },
+      {
+        "source": "Genesis 9:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Whoever sheds the blood of man, by man shall his blood be shed' — the foundational warrant for human authority to execute lethal justice stands behind 'he does not bear the sword in vain... an avenger for wrath' (v.4).",
+        "contested": true
+      },
+      {
+        "source": "Psalm 75:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'It is God who executes judgment, putting down one and lifting up another' — God's sovereignty over the rise and fall of rulers undergirds 'those who exist are ordained by God' (v.1).",
+        "contested": true
+      },
+      {
+        "source": "1 Chronicles 29:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "David's doxology: 'Yours is the kingdom, O LORD... power and might are in your hand.' The conviction that all rule belongs to and flows from God is the broader scriptural matrix for vv.1-2.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 45:1",
+        "type": "figural",
+        "confidence": "low",
+        "note": "God names the Persian Cyrus 'his anointed' and uses a pagan emperor as instrument of his purposes — a figural precedent for treating the Roman magistrate as 'God's servant' (vv.4,6) without the ruler's knowledge of God.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.2",
+    "ch": 13,
+    "ref": "13:8-10",
+    "echoes": [
+      {
+        "source": "Exodus 20:13-17",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verbatim citation of the second-table Decalogue commandments: 'You shall not commit adultery,' 'You shall not murder,' 'You shall not steal,' 'You shall not covet.' Paul lists adultery before murder, following the Septuagint order of Deuteronomy 5 (and Exodus 20 LXX manuscripts).",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:17-21",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The Deuteronomic recension of the same commandments; the LXX of Deuteronomy 5 places adultery before murder, matching Paul's sequence in v.9, so this is the likely proximate text.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Explicit verbatim quotation: 'You shall love your neighbor as yourself,' which Paul names as the saying in which all the commandments are 'summed up.' The interpretive move (love of neighbor as the epitome of the law) recurs in Romans (cf. 13:10) and Galatians 5:14.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "v.10 'Love does no harm to a neighbor; therefore love is the fulfillment of the law' continues to expound the same Levitical command, drawing out its negative corollary as the substance of all the prohibitions just cited.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "13.3",
+    "ch": 13,
+    "ref": "13:11-14",
+    "echoes": [
+      {
+        "source": "Isaiah 59:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He put on righteousness as a breastplate, and a helmet of salvation on his head' — the divine-warrior imagery of donning protective armor underlies 'put on the armor of light' (v.12) and 'put on the Lord Jesus Christ' (v.14). Paul develops this same Isaianic armor motif at Ephesians 6 and 1 Thessalonians 5:8.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 5:18-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He will put on righteousness as a breastplate, and wear impartial justice as a helmet' — this Second Temple reworking of Isaiah 59:17 stands in the same stream feeding Paul's 'put on the armor of light' (v.12).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Arise, shine, for your light has come... darkness shall cover the earth... but the LORD will arise upon you' — the dawning of eschatological light dispelling darkness parallels 'the night is far gone, the day is near' and the light/darkness antithesis of vv.12-13.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Awake, awake, put on your strength, O Zion; put on your beautiful garments' — combines the summons to wake and the imperative to 'put on,' both present in Paul's 'awaken out of sleep' (v.11) and 'put on the armor of light' / 'put on the Lord Jesus Christ' (vv.12,14).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Rouse yourself, rouse yourself, stand up, O Jerusalem' — the prophetic call to awaken to the hour of salvation parallels 'it is already time for you to awaken out of sleep' (v.11).",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 9:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The people who walked in darkness have seen a great light' — the night-to-day, darkness-to-light reversal of vv.12-13 resonates with this classic salvation-light oracle.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 61:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He has clothed me with the garments of salvation... as a bridegroom decks himself' — the salvific 'putting on' of clothing as a figure for new status anticipates 'put on the Lord Jesus Christ' (v.14).",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The sun of righteousness shall rise with healing in its wings' — the dawning day of salvation coheres with 'the day is near' (v.12) and the nearness of salvation (v.11).",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 26:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Awake and sing, you who dwell in the dust' — eschatological awakening from sleep/death as a figure of salvation faintly parallels 'awaken out of sleep' (v.11).",
+        "contested": true
+      },
+      {
+        "source": "Job 24:13-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Those who 'rebel against the light' and work evil under cover of night/darkness anticipate 'the works of darkness' (v.12) contrasted with walking properly 'as in the day' (v.13).",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 23:20-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Be not among drunkards... for the drunkard and the glutton will come to poverty' — sapiential warning against carousing and drunkenness behind 'not in reveling and drunkenness' (v.13).",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 5:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Woe to those who 'run after strong drink... till wine inflames them' — prophetic censure of revelry and drunkenness parallels the vice-list of v.13.",
+        "contested": true
+      }
+    ]
+  }
+]

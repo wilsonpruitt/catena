@@ -1,0 +1,67 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-8",
+    "echoes": [
+      {"source": "Genesis 15:6", "type": "quotation", "confidence": "high", "note": "The governing text of the entire chapter, quoted verbatim in 4:3 ('Abraham believed God, and it was accounted to him for righteousness'). Paul launches a sustained midrash on this single verse, returning to its key term 'accounted/reckoned' (LXX elogisthe) throughout. Maximum volume and recurrence.", "contested": false},
+      {"source": "Psalm 32:1-2", "type": "quotation", "confidence": "high", "note": "Quoted verbatim in 4:7-8 ('Blessed are they whose iniquities are forgiven... Blessed is the man whom the Lord will by no means charge with sin'). Paul attributes it to David and links it to Genesis 15:6 by gezerah shawah on the shared verb 'reckon/charge' (logizomai): the man to whom the Lord does NOT reckon sin = the man to whom God reckons righteousness apart from works.", "contested": false},
+      {"source": "Genesis 15:1", "type": "allusion", "confidence": "medium", "note": "Paul's argument from 'reward' (misthos) in 4:4 ('to him who works, the reward is not counted as grace') draws on the immediate context of Genesis 15:6, where God tells Abraham in 15:1 'your reward shall be very great.' Paul reads the surrounding promise narrative, not just the proof-text.", "contested": false},
+      {"source": "Exodus 23:7", "type": "allusion", "confidence": "medium", "note": "God's self-description as one who 'justifies the ungodly' (4:5) deliberately inverts the legal maxim of Exodus 23:7 LXX, 'you shall not justify the ungodly' (ou dikaioseis ton asebe). Paul scandalously predicates of God the very act forbidden to human judges, signaling that justification is grace, not legal verdict on merit.", "contested": true},
+      {"source": "Proverbs 17:15", "type": "echo", "confidence": "low", "note": "Reinforces the same forensic reversal: Proverbs 17:15 calls 'he who justifies the wicked' an abomination to the Lord. Paul's phrase 'justifies the ungodly' (4:5) is a calculated provocation against this wisdom commonplace. Thematically coherent but verbally less direct than Exodus 23:7; marked contested.", "contested": true},
+      {"source": "Sirach 44:19-21", "type": "echo", "confidence": "low", "note": "Second Temple reception of Abraham: 'Abraham was the great father of a multitude of nations... he kept the law of the Most High... therefore the Lord assured him by an oath that nations would be blessed through his offspring.' Sirach reads Abraham's righteousness as covenant-keeping/Torah-obedience, the very reading Paul argues against. A contested background echo: Paul writes with such Second Temple Abraham-as-law-keeper tradition in view.", "contested": true},
+      {"source": "1 Maccabees 2:52", "type": "echo", "confidence": "medium", "note": "1 Maccabees 2:52 ('Was not Abraham found faithful when tested, and it was reckoned to him as righteousness?') itself cites Genesis 15:6 but fuses it with the Aqedah (Genesis 22) to make faith = proven works/faithfulness under testing. This is the foil for Paul's whole argument that the reckoning preceded and excluded works. Strong verbal overlap with the catchphrase 'reckoned... as righteousness'; marked contested as reception-background rather than source.", "contested": true},
+      {"source": "Isaiah 51:2", "type": "echo", "confidence": "low", "note": "'Abraham, our forefather' (4:1) may echo Isaiah 51:2, 'Look to Abraham your father... for he was but one when I called him,' a text about Abraham as progenitor of a numerous people from a single ancestor — the theme Paul develops in 4:16-18. Faint; thematic only.", "contested": true}
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:9-12",
+    "echoes": [
+      {"source": "Genesis 17:10-11", "type": "allusion", "confidence": "high", "note": "Paul's argument that Abraham 'received the sign of circumcision, a seal of the righteousness of the faith' (4:11) directly invokes Genesis 17:10-11, where circumcision is instituted as 'a sign of the covenant.' Paul takes the Genesis term 'sign' and subordinates it to the faith of Genesis 15, which chronologically preceded it.", "contested": false},
+      {"source": "Genesis 15:6", "type": "allusion", "confidence": "high", "note": "The pericope hangs entirely on the chronology of Genesis: faith reckoned (15:6) came BEFORE circumcision (chapter 17). 4:9-10 re-quotes 'faith was accounted to Abraham for righteousness' and asks whether the reckoning happened in circumcision or uncircumcision — recurrence of the governing text used as a temporal argument.", "contested": false},
+      {"source": "Genesis 17:5", "type": "allusion", "confidence": "medium", "note": "'That he might be the father of all those who believe' (4:11) and 'the father of circumcision' (4:12) anticipate the quotation of Genesis 17:5 in 4:17, reading Abraham's universal fatherhood out of the Genesis covenant promise. The 'father of many nations' motif governs the circumcised/uncircumcised dual fatherhood here.", "contested": false}
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:13-16",
+    "echoes": [
+      {"source": "Genesis 17:8", "type": "allusion", "confidence": "medium", "note": "'The promise to Abraham and to his seed that he should be heir of the world' (4:13) universalizes the land-inheritance promises of Genesis (17:8 'I will give to you and your offspring... all the land of Canaan for an everlasting possession'; cf. 13:15; 15:7). Paul expands the territorial 'land' to 'the world' (kosmos), a move grounded in the cosmic scope of the promise.", "contested": false},
+      {"source": "Genesis 22:17-18", "type": "allusion", "confidence": "medium", "note": "The promise to Abraham 'and to his seed' (4:13) echoes the oath of Genesis 22:17-18, 'I will multiply your seed... and in your seed shall all the nations of the earth be blessed,' which links seed, multiplication, and universal blessing — the basis for 'heir of the world.' The word 'seed' (sperma) is the Genesis catchword Paul foregrounds.", "contested": false},
+      {"source": "Sirach 44:21", "type": "echo", "confidence": "low", "note": "The 'heir of the world' expansion has a Second Temple precedent in Sirach 44:21, where God promises Abraham 'to give them an inheritance from sea to sea and from the River to the ends of the earth' — already enlarging the land to global scope. A contested background echo for Paul's kosmos language.", "contested": true},
+      {"source": "Genesis 15:7", "type": "echo", "confidence": "low", "note": "Genesis 15:7 ('I am the Lord who brought you out... to give you this land to inherit it'), within the same chapter as 15:6, supplies the inheritance vocabulary Paul universalizes in 'heir of the world.' Faint; reinforces that Paul reads the whole Genesis 15 unit.", "contested": true}
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:17-22",
+    "echoes": [
+      {"source": "Genesis 17:5", "type": "quotation", "confidence": "high", "note": "Quoted verbatim with the introductory formula 'As it is written' in 4:17: 'I have made you a father of many nations' (Genesis 17:5 LXX, 'patera pollon ethnon tetheika se'). Paul reads the perfect tense ('I HAVE made') as already-accomplished divine speech that calls the not-yet into being.", "contested": false},
+      {"source": "Genesis 15:5", "type": "quotation", "confidence": "high", "note": "Quoted verbatim in 4:18: 'So will your seed be' (Genesis 15:5 LXX, 'houtos estai to sperma sou'), the star-promise spoken immediately before Genesis 15:6. Paul binds the two halves of Genesis 15 together: the promise (v.5) and Abraham's believing response reckoned as righteousness (v.6).", "contested": false},
+      {"source": "Genesis 17:17", "type": "allusion", "confidence": "high", "note": "'He being about a hundred years old, and the deadness of Sarah's womb' (4:19) draws directly on Genesis 17:17, where Abraham, told he will have a son, says 'Shall a child be born to him who is a hundred years old? And shall Sarah, who is ninety, bear?' Paul reuses the numeric detail and the implied biological impossibility.", "contested": false},
+      {"source": "Genesis 18:11-12", "type": "allusion", "confidence": "high", "note": "'The deadness of Sarah's womb' and Abraham's 'body already worn out' (4:19) echo Genesis 18:11-12: 'it had ceased to be with Sarah after the manner of women,' and Sarah's words 'After I am worn out (LXX katetribe), shall I have pleasure, my lord being old also?' Paul's 'worn out' (nenekromenon/already dead) language tracks the Genesis 18 description of both spouses' exhaustion.", "contested": false},
+      {"source": "Genesis 18:14", "type": "allusion", "confidence": "medium", "note": "Abraham 'being fully assured that what he had promised, he was also able to perform' (4:21) answers the rhetorical question of Genesis 18:14, 'Is anything too hard for the Lord? At the appointed time I will return... and Sarah shall have a son.' Paul converts the LORD's question into Abraham's confident assent — God's power over the impossible.", "contested": false},
+      {"source": "1 Samuel 2:6", "type": "allusion", "confidence": "medium", "note": "'God, who gives life to the dead' (4:17) draws on the scriptural confession of God as life-giver, e.g. 1 Samuel 2:6 (Hannah), 'The Lord kills and makes alive; he brings down to Sheol and raises up.' This is the standard OT idiom Paul applies to both Isaac's miraculous conception and the resurrection.", "contested": false},
+      {"source": "Deuteronomy 32:39", "type": "allusion", "confidence": "medium", "note": "'God, who gives life to the dead' (4:17) also resonates with Deuteronomy 32:39, 'I kill and I make alive; I wound and I heal,' a foundational text for God's sole power over death and life. Reinforces the same divine attribute Paul predicates.", "contested": false},
+      {"source": "Ezekiel 37:1-14", "type": "echo", "confidence": "low", "note": "'God, who gives life to the dead' (4:17) may figurally echo Ezekiel's valley of dry bones, where the Spirit raises a dead Israel to life — a paradigm of resurrection-as-restoration. Thematically coherent with Paul's resurrection horizon; verbally faint, marked contested.", "contested": true},
+      {"source": "Genesis 1:1-3", "type": "echo", "confidence": "low", "note": "'Calls the things that are not, as though they were' (4:17) figurally echoes the creation account, where God's word summons being out of nonbeing ('Let there be... and there was'). Paul pairs creation (calling the nonexistent) with resurrection (giving life to the dead) as twin marks of the God Abraham believed.", "contested": true},
+      {"source": "2 Maccabees 7:28", "type": "echo", "confidence": "low", "note": "'Calls the things that are not, as though they were' (4:17) has its closest Second Temple parallel in 2 Maccabees 7:28, where the mother urges her son to recognize 'that God did not make them out of things that existed' — an early articulation of creation from nothing, paired (as in Romans 4) with resurrection hope. Contested background echo.", "contested": true},
+      {"source": "Isaiah 48:13", "type": "echo", "confidence": "low", "note": "'Calls the things that are not, as though they were' (4:17) may echo the Isaianic creator who 'calls' the heavens and earth into existence (Isaiah 48:13; 41:4; 44:24), where divine calling is creative summons. Faint verbal link via the verb 'call'; marked contested.", "contested": true},
+      {"source": "Genesis 15:6", "type": "quotation", "confidence": "high", "note": "The pericope closes in 4:22 by re-quoting the governing text: 'Therefore it also was reckoned to him for righteousness.' Recurrence of Genesis 15:6 as the inclusio binding the demonstration of Abraham's faith back to its scriptural anchor.", "contested": false}
+    ]
+  },
+  {
+    "id": "4.5",
+    "ch": 4,
+    "ref": "4:23-25",
+    "echoes": [
+      {"source": "Genesis 15:6", "type": "allusion", "confidence": "high", "note": "'Now it was not written that it was accounted to him for his sake alone, but for our sake also, to whom it will be accounted' (4:23-24) explicitly thematizes the act of reading Genesis 15:6 as Scripture written for the church. The verb 'accounted/reckoned' is carried forward one last time, applied now to believers in the God who raised Jesus.", "contested": false},
+      {"source": "Isaiah 53:5-6", "type": "allusion", "confidence": "high", "note": "'Who was delivered up for our trespasses' (4:25) echoes Isaiah 53 LXX, especially 53:6 ('the Lord delivered him up for our sins,' paredoken auton tais hamartiais hemon) and 53:12 ('he was delivered up because of their sins'). Paul's verb 'delivered up' (paredothe) plus 'for our trespasses' is verbatim Servant-song language, identifying the crucified Jesus as the suffering Servant.", "contested": false},
+      {"source": "Isaiah 53:11-12", "type": "allusion", "confidence": "medium", "note": "'And was raised for our justification' (4:25) draws on Isaiah 53:11 LXX, 'the righteous one will justify the many (dikaiosai dikaion... tois pollois), and he shall bear their sins.' The pairing of the Servant's vindication with the justification 'of many' undergirds Paul's resurrection-justification clause, linking the Abraham-righteousness midrash to the Servant's righteousness.", "contested": false}
+    ]
+  }
+]

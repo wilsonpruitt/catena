@@ -1,0 +1,258 @@
+[
+  {
+    "id": "9.1",
+    "ch": 9,
+    "ref": "9:1-5",
+    "echoes": [
+      {
+        "source": "Exodus 32:32",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's wish in v.3 that he himself were 'accursed (anathema) from Christ' for his kinsmen echoes Moses' intercession after the golden calf: 'blot me out of your book' rather than destroy Israel. Both are intercessors offering self-substitution/self-curse to spare the people; the Exodus 32 setting also frames the whole chapter's mercy-language (33:19 quoted at v.15).",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 7:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The catalogue of Israel's privileges (adoption, glory, covenants, law-giving, service, promises, fathers) in vv.4-5 draws on the Deuteronomic election traditions naming Israel as God's chosen, holy people set above the nations.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 4:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Whose is the adoption (huiothesia)' (v.4) recalls the sonship of Israel: 'Israel is my firstborn son.' Israel's national adoption is the OT root of the privilege Paul lists.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 16:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The glory' (doxa, v.4) evokes the Shekinah glory of the LORD that appeared to Israel in the wilderness and dwelt in tabernacle/temple — a covenant privilege belonging to Israel.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 17:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The covenants' and 'the promises' (vv.4) point to the patriarchal covenant with Abraham and his seed, the seed-theme Paul immediately develops in vv.6-9.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 147:19-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The giving of the law' (nomothesia) as a unique privilege of Israel echoes the psalm's boast that God 'declares his word to Jacob... He has not dealt so with any nation.'",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.2",
+    "ch": 9,
+    "ref": "9:6-13",
+    "echoes": [
+      {
+        "source": "Genesis 21:12",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-marked citation in v.7: 'In Isaac will your seed be called' is verbatim from God's word to Abraham concerning Ishmael and Isaac. Paul uses it to prove that physical descent does not equal the elect 'seed' — only the line of promise counts.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.9 'At the appointed time I will come, and Sarah will have a son' explicitly named 'a word of promise.' Conflates the LXX of Genesis 18:10 ('I will return to you at this season') with the promise of a son; the miraculous, promise-born birth of Isaac grounds Paul's 'children of the promise' argument.",
+        "contested": false,
+        "altSource": "Genesis 18:14"
+      },
+      {
+        "source": "Genesis 25:23",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.12 'The elder will serve the younger' is verbatim from the oracle to Rebekah about Jacob and Esau in the womb. Paul cites it to show election precedes birth and works ('being not yet born, neither having done good or bad').",
+        "contested": false
+      },
+      {
+        "source": "Malachi 1:2-3",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.13 'as it is written, Jacob I loved, but Esau I hated' is a formula-cited verbatim quotation of Malachi's oracle, which itself reflects back on the Genesis Jacob/Esau election. Caps the argument that God's elective love is unmerited and prior.",
+        "contested": false,
+        "altSource": "Genesis 25:23"
+      },
+      {
+        "source": "Genesis 18:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'appointed time' clause of v.9 also echoes Genesis 18:14, 'Is anything too hard for the LORD? At the appointed time I will return... and Sarah shall have a son,' reinforcing that Isaac is born by divine power, not by natural descent.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 25:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "v.10 'Rebekah also conceived by one' alludes to the narrative of Isaac and Rebekah; Paul stresses both twins share one father and one conception to isolate election as the only differentiator.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.3",
+    "ch": 9,
+    "ref": "9:14-18",
+    "echoes": [
+      {
+        "source": "Exodus 33:19",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.15 'he said to Moses, I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion' is a verbatim LXX quotation of God's self-revelation to Moses. Grounds divine freedom in mercy and answers the charge of unrighteousness.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 9:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.17 'the Scripture says to Pharaoh, For this very purpose I caused you to be raised up, that I might show in you my power, and that my name might be proclaimed in all the earth' is a formula-marked quotation. Pharaoh is the foil to Moses: God's freedom both to show mercy and to harden.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "v.18 'he hardens whom he desires' draws on the recurring Exodus motif that the LORD hardens Pharaoh's heart (Exodus 4:21; 7:3; 9:12; 14:4). Paul generalizes the hardening theme from the plague narrative.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The mercy/compassion pairing of v.15 resonates with the divine-name proclamation that follows in Exodus 34:6, 'merciful and gracious,' the immediate sequel to 33:19 — the same theophanic context Paul mines.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.4",
+    "ch": 9,
+    "ref": "9:19-29",
+    "echoes": [
+      {
+        "source": "Isaiah 29:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.20 'Will the thing formed ask him who formed it, Why did you make me like this?' echoes Isaiah's rebuke of the clay that questions the potter, 'Shall the thing made say of him who made it, He did not make me?' Paul's potter/clay rebuttal is built on this prophetic protest-against-protest.",
+        "contested": false,
+        "altSource": "Isaiah 45:9"
+      },
+      {
+        "source": "Isaiah 45:9",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.20-21 also draws on Isaiah 45:9, 'Woe to him who strives with his Maker... shall the clay say to him who fashions it, What are you making?' The 'who are you to reply against God' (antapokrinomenos) directly answers Isaiah's woe against the clay that contends with the potter.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 18:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "v.21 'has not the potter a right over the clay, from the same lump to make one vessel for honor and another for dishonor?' alludes to Jeremiah's potter's-house oracle: 'as the clay in the potter's hand, so are you in my hand, O house of Israel.' Supplies the sovereign-potter image and the right to remake.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 2:23",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.25, formula-marked ('As he says also in Hosea'): 'I will call them my people, which were not my people; and her beloved, who was not beloved' quotes Hosea's reversal of Lo-Ammi/Lo-Ruhamah. Paul applies the restoration of unfaithful Israel to the calling of Gentiles.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 1:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.26 'in the place where it was said to them, You are not my people, there they will be called children of the living God' is a verbatim quotation of Hosea 1:10 (LXX 2:1), continuing the Lo-Ammi reversal that Paul reads as the inclusion of the Gentiles among God's children.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 10:22-23",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.27-28, formula-marked ('Isaiah cries concerning Israel'): 'If the number of the children of Israel are as the sand of the sea, it is the remnant who will be saved; for He will finish the work and cut it short in righteousness' quotes Isaiah's remnant oracle. Establishes the remnant theology central to ch.9-11.",
+        "contested": false,
+        "altSource": "Isaiah 28:22"
+      },
+      {
+        "source": "Isaiah 1:9",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.29, formula-marked ('As Isaiah has said before'): 'Unless the Lord of Armies had left us a seed, we would have become like Sodom, and would have been made like Gomorrah' is a verbatim LXX quotation. Reinforces that survival rests entirely on God's gracious preservation of a remnant 'seed.'",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 28:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'finishing/cutting short' decisive-action language of v.28 also draws on Isaiah 28:22, 'a full end, decreed upon the whole earth,' blended with 10:22-23; both stand behind Paul's compressed remnant-judgment formula.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 22:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'As the sand of the sea' (v.27) verbally re-sounds the Abrahamic promise that the seed would be as numberless as the sand; Paul ironically juxtaposes the vast promised multitude with the saved remnant.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 19:24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'Sodom and Gomorrah' comparison cited in v.29 carries the figural weight of the destroyed cities of Genesis 19; the remnant 'seed' is what spares Israel from total annihilation like the cities of the plain.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 13:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Sodom/Gomorrah overthrow as a type of complete divine judgment (Isaiah 13:19, of Babylon) reinforces the destruction-imagery behind the Isaiah 1:9 quotation in v.29.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.5",
+    "ch": 9,
+    "ref": "9:30-33",
+    "echoes": [
+      {
+        "source": "Isaiah 28:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.33, formula-marked ('as it is written'): 'Behold, I lay in Zion... a stone... and no one who believes in him will be disappointed/put to shame' quotes Isaiah's cornerstone oracle. Paul fuses it with Isaiah 8:14 to make the laid stone both foundation and stumbling block.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 8:14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "v.33 'a stumbling stone and a rock of offense' is quoted from Isaiah 8:14, where the LORD himself becomes 'a stone of stumbling and a rock of offense' to both houses of Israel. Paul conflates it with 28:16 to explain why Israel stumbled while Gentiles attained righteousness by faith.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "v.31-32 Israel 'pursuing/following after' a law of righteousness faintly echoes Isaiah's address to 'you who pursue righteousness, who seek the LORD,' inverted: Israel pursued by works, not faith, and so failed to attain it.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 118:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The stumbling-stone/Zion-stone complex of v.32-33 belongs to the broader 'stone' testimonia tradition that also includes 'the stone the builders rejected'; Paul's stone Christology participates in this cluster though he cites only the Isaiah texts here.",
+        "contested": true
+      }
+    ]
+  }
+]

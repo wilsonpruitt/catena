@@ -1,0 +1,261 @@
+[
+  {
+    "id": "7.1",
+    "ch": 7,
+    "ref": "7:1-6",
+    "echoes": [
+      {
+        "source": "Numbers 5:11-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's marriage analogy—wife bound to husband, adulteress if joined to another while he lives—draws on the Torah's marriage/adultery law world; the suspected-adultery ordeal is the closest legal backdrop for a wife 'called an adulteress' (7:3).",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 24:1-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The release of a woman from the 'law of the husband' by death (7:2-3) trades on Torah marriage/divorce regulation; Deuteronomy 24 frames the legal binding and loosing of a wife that Paul presupposes.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The picture of a woman 'joined to' (lit. 'becoming another man's') stands behind 7:3-4's language of being 'joined to another'; the one-flesh union of Genesis supplies the marital frame Paul figuratively repurposes for union with the risen Christ.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 20:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The charge 'she would be called an adulteress' (7:3) presupposes the seventh commandment's prohibition of adultery as the legal norm making the analogy intelligible.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.2",
+    "ch": 7,
+    "ref": "7:7-12",
+    "echoes": [
+      {
+        "source": "Exodus 20:17",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Direct verbatim citation: 'You shall not covet' (7:7) quotes the tenth commandment of the Decalogue, the LXX 'ouk epithymeseis,' which Paul makes the test case for the law's relation to sin.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:21",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The Decalogue's second giving repeats 'You shall not covet'; Paul's citation (7:7) matches both forms. Deuteronomy's expanded list ('your neighbor's wife... house... field') makes coveting the representative inward sin Paul exploits.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Sin... deceived me, and through it killed me' (7:11) strongly echoes Eve's 'the serpent deceived me' (LXX 'exepatesen me'); Paul uses the same verb (exapatao), casting sin in the serpent's role of beguiling and bringing death.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:16-17",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'I was alive apart from the law once, but when the commandment came... I died' (7:9-10) re-enacts Adam in Eden: a single commandment given for life that, transgressed, brings death—the 'I' figurally personates Adam under the one prohibition.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:1-7",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The whole drama of 7:7-11—commandment, sin seizing opportunity, desire aroused, deception, death—maps onto the Fall narrative: the serpent's exploitation of the prohibition to provoke desire and bring death.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 18:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The commandment, which was for life' (7:10) alludes to the Torah promise that the one who does the statutes 'shall live by them'; Paul cites Leviticus 18:5 explicitly elsewhere (Rom 10:5; Gal 3:12), confirming this as the 'life' the commandment promised.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:15-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The law set before Israel 'life and death,' commanding obedience 'that you may live'; this Deuteronomic life-or-death framing of the commandment underlies Paul's 'the commandment which was for life... I found to be for death' (7:10).",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:4-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Sin 'finding occasion through the commandment, produced in me all kinds of coveting' (7:8) echoes the serpent's strategy of turning the prohibition into the very lever of illicit desire ('you will be like God').",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 2:24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Through the devil's envy death entered the world' supplies the Second Temple reading of Genesis 3 that Paul presupposes—personified agency (sin/devil) bringing death through the primal commandment, behind 7:8-11.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 25:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'From a woman sin had its beginning, and because of her we all die' is the Ben Sira tradition linking the Eden transgression to death; it stands in the background of Paul's sin-came-alive-and-I-died account (7:9-11).",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Eve seeing the tree 'a delight (epithymeton) to the eyes' couples desire/coveting with the first transgression; Paul's choice of coveting (epithymia) as the paradigm sin (7:7-8) resonates with this Edenic desire.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 19:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The law indeed is holy, and the commandment holy, and righteous, and good' (7:12) echoes the psalm's praise of the law as perfect, right, and pure—the OT confession of Torah's goodness that Paul reaffirms.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:142",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your law is truth' and the psalm's sustained praise of the commandments as righteous and good lie behind Paul's vindication of the commandment as 'holy and righteous and good' (7:12).",
+        "contested": true
+      },
+      {
+        "source": "Nehemiah 9:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel's confession that God gave 'right ordinances and true laws, good statutes and commandments' parallels Paul's catalogue of the commandment as 'holy, righteous, and good' (7:12).",
+        "contested": true
+      },
+      {
+        "source": "4 Maccabees 2:4-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "4 Maccabees singles out the law's command against coveting/desire as the test of reason mastering the passions; this Second Temple reflection on 'You shall not covet' as the inward law of desire parallels Paul's use of the same commandment (7:7-8).",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.3",
+    "ch": 7,
+    "ref": "7:13-25",
+    "echoes": [
+      {
+        "source": "Genesis 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In my flesh dwells no good thing' (7:18) resonates with the antediluvian verdict that 'every inclination of the thoughts of the human heart was only evil continually'—the OT root of the doctrine of indwelling evil impulse.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 8:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The inclination (yetser) of the human heart is evil from youth' is the scriptural seed of the rabbinic evil-impulse doctrine that frames Paul's 'sin which dwells in me' and the divided will (7:17-20).",
+        "contested": true
+      },
+      {
+        "source": "Psalm 51:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I am fleshly, sold under sin' (7:14) echoes the penitential confession of being conceived in iniquity—a self caught in sin from the inside, unable to free itself.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 21:20",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "'Sold under sin' (7:14) uses the idiom of being 'sold to do evil,' as Ahab 'sold himself to do what was evil in the sight of the LORD'; the same selling-into-bondage metaphor for moral captivity.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 1:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I delight in God's law after the inward man' (7:22) echoes the blessed one whose 'delight is in the law of the LORD'; Paul affirms the psalmist's delight even as he reports its frustration by the flesh.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The psalmist's repeated delight in God's statutes ('I will delight in your statutes,' 'Oh how I love your law') stands behind 7:22's 'I delight in God's law after the inward man.'",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:97",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Oh how I love your law! It is my meditation all the day' is the paradigmatic Torah-delight Paul invokes for the inner self that consents to the law as good (7:22, 7:16).",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 30:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promised circumcision of the heart so as to love God is the inward-law hope behind Paul's 'inward man' delighting in God's law (7:22), even as he laments its present captivity.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 31:33",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The new-covenant promise of the law written on the heart underlies the tension Paul dramatizes between the law of the mind/inward man and the law in the members (7:22-23)—the heart that delights versus the flesh that resists.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 4:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Sin 'crouching at the door' whose desire is for Cain, which he must master, prefigures Paul's sin 'dwelling in me' and warring to bring captivity (7:17, 7:23)—personified sin contending for mastery over the self.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 9:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'A perishable body weighs down the soul, and this earthy tent burdens the thoughtful mind' is the closest Second Temple parallel to Paul's body/mind conflict and 'the body of this death' (7:23-24).",
+        "contested": true
+      },
+      {
+        "source": "Psalm 38:6-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalmist's groaning 'wretched' lament under the weight of his own sin parallels Paul's cry 'What a wretched man I am!' (7:24)—the OT idiom of self-directed misery awaiting deliverance.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 142:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Bring my soul out of prison' voices the deliverance plea that shapes Paul's 'Who will deliver me out of the body of this death?' (7:24)—captivity language answered by rescue.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 116:3-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The cords of death... the pangs of Sheol... then I called on the name of the LORD: O LORD, deliver my soul' parallels the wretched-self-to-deliverance movement of 7:24-25.",
+        "contested": true
+      },
+      {
+        "source": "4 Ezra 7:62-72",
+        "type": "echo",
+        "confidence": "low",
+        "note": "4 Ezra's lament over the 'evil heart' (cor malignum) that burdens humanity and frustrates the good is the nearest Second Temple analogue to Paul's anatomy of the divided self enslaved by indwelling sin (7:14-24).",
+        "contested": true
+      }
+    ]
+  }
+]

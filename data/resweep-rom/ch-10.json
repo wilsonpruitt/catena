@@ -1,0 +1,205 @@
+[
+  {
+    "id": "10.0",
+    "ch": 10,
+    "ref": "10:1-4",
+    "echoes": [
+      {
+        "source": "Romans 9:31-32",
+        "type": "echo",
+        "confidence": "high",
+        "note": "Paul resumes the immediately prior argument: Israel pursued a law of righteousness but did not attain it because they sought it by works, not by faith. 10:2-3 (zeal not according to knowledge; seeking to establish their own righteousness) is the direct continuation, not a fresh start. Intra-Pauline self-citation, but flagged because it frames the whole OT chain that follows.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You who pursue righteousness, who seek the LORD' — the verb pair pursue/seek righteousness underlies Paul's diagnosis that Israel 'sought to establish their own righteousness.' Thematic resonance with Isaianic righteousness language but no verbal quotation; disputed.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 9:4-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Moses warns Israel not to say 'in their heart' that their own righteousness has earned the land — the seed of the 'establish their own righteousness' motif. The 'do not say in your heart' formula recurs verbatim in 10:6, so its conceptual root here (self-righteousness vs. God's gift) is a plausible anticipatory echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 65:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The chapter's terminal quotation (cited at 10:20-21) describes a people zealous yet disobedient; Israel's 'zeal for God but not according to knowledge' here anticipates that Isaianic portrait of a contrary people. Forward-pointing thematic echo binding the pericope to the chapter's close.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "telos/'end of the law' language; for Paul elsewhere love-of-neighbor is the law's fulfillment. Faint and disputed connection to the meaning of Christ as the law's goal; included for maximal coverage.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.1",
+    "ch": 10,
+    "ref": "10:5-13",
+    "echoes": [
+      {
+        "source": "Leviticus 18:5",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited: 'Moses writes about the righteousness of the law' introduces 'The one who does them will live by them' — a near-verbatim quotation of Leviticus 18:5 ('which if a man do, he shall live in them'). Paul makes it the voice of law-righteousness over against faith-righteousness. Also quoted at Galatians 3:12; high recurrence in Paul.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:12-14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-introduced ('the righteousness of faith says'): 'Do not say in your heart, Who will ascend into heaven... Who will descend into the abyss... The word is near you, in your mouth and in your heart' — a sustained verbatim quotation of Deuteronomy 30:12-14, reworked christologically (ascend = bring Christ down; descend into the abyss = bring Christ up from the dead). High volume, the structural backbone of the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 9:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The opening 'Do not say in your heart' in 10:6 conflates Deuteronomy 30:12 with the warning formula of Deuteronomy 9:4 ('Do not say in your heart... my righteousness'), which directly concerns self-righteousness. Strong verbal borrowing that splices the anti-self-righteousness warning onto the faith-word quotation. Widely recognized double allusion.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The immediately preceding verse — 'this commandment is not too hard for you, nor is it far off' — sets up the not-in-heaven/not-beyond-the-sea contrast Paul exploits. Borrowed context for the 'word is near' argument even though only vv.12-14 are quoted.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 107:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They mount up to heaven, they go down to the depths (abyss)' — the heaven/abyss merism for cosmic extremity. Paul's pairing 'ascend into heaven / descend into the abyss' may draw on this stock idiom; Deut 30 itself says 'beyond the sea,' so the 'abyss' wording suggests a secondary scriptural idiom. Disputed.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 28:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited: 'the Scripture says, Whoever believes in him will not be put to shame/disappointed' — a quotation of Isaiah 28:16 (the precious cornerstone in Zion). Paul adds the universalizing 'whoever' (pas). Recurs at Romans 9:33, knitting chapters 9-10 together; high volume and recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:32",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited climax: 'Whoever will call on the name of the Lord will be saved' — verbatim quotation of Joel 2:32 (LXX 3:5). Paul reads kyrios as the risen Jesus (10:9, 'Jesus is Lord'), grounding the Jew-Greek universalism of 10:12. Also cited in Acts 2:21; high recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'mouth... heart' pairing of the Deut quotation is redeployed by Paul in 10:9-10 (confess with the mouth, believe in the heart). This is an exegetical extension of the quoted text — Paul mines the very words 'mouth/heart' to structure confession and faith. Strong internal echo of the source just cited.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall... not be put to shame' in Joel 2:27, just before the quoted v.32, shares the not-ashamed motif Paul draws from Isaiah 28:16. Possible reinforcing echo from the Joel context Paul is already mining. Disputed.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'the abyss' (abyssos) as primeval deep; Paul's substitution of 'abyss' for Deut's 'beyond the sea' carries cosmic/death overtones (= realm of the dead, whence Christ is raised). Faint scriptural background for the abyss imagery. Disputed.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.2",
+    "ch": 10,
+    "ref": "10:14-21",
+    "echoes": [
+      {
+        "source": "Isaiah 52:7",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited ('as it is written'): 'How beautiful are the feet of those who preach the good news of peace, who bring glad tidings of good things' — quotation of Isaiah 52:7 (the herald announcing 'Your God reigns'). Paul reads the herald's gospel of return-from-exile as the apostolic gospel. High volume; central to the chain on hearing/preaching.",
+        "contested": false
+      },
+      {
+        "source": "Nahum 1:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Behold, on the mountains the feet of him who brings good tidings, who proclaims peace' — closely parallels Isaiah 52:7 and may be conflated in Paul's wording (feet + good tidings + peace). Possible secondary scriptural source for the same image. Disputed.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited: 'Isaiah says, Lord, who has believed our report?' — verbatim quotation of Isaiah 53:1, the opening of the Servant Song. Paul uses Israel's unbelief at the Servant's message to explain why 'they did not all heed the gospel.' The 'report' (akoe) is punningly tied to 'faith comes by hearing (akoe)' in 10:17. High volume and theological weight.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Separate echo: 10:17 ('faith comes by hearing, and hearing by the word of Christ') exploits the LXX term akoe ('report/what is heard') from the Isaiah 53:1 quotation just given. Paul's whole hearing→faith chain is generated by the double sense of akoe in the source text. Verbal-exegetical echo distinct from the bare quotation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 19:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-introduced rhetorically ('did they not hear? Yes...'): 'Their sound went out into all the earth, their words to the ends of the world' — verbatim quotation of Psalm 19:4 (LXX 18:5). Paul transfers the cosmic witness of the heavens to the universal proclamation of the gospel, answering whether Israel has heard. High volume.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:21",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited ('First Moses says'): 'I will provoke you to jealousy with that which is no nation; with a nation void of understanding I will make you angry' — verbatim quotation of Deuteronomy 32:21 from the Song of Moses. Grounds Paul's jealousy motif (cf. 11:11,14): Gentile inclusion provokes Israel. High recurrence in Paul's argument across chs. 9-11.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:21",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Beyond the quotation, the Song of Moses (Deut 32) as a whole — Israel's faithlessness, God's turn to a foolish nation, eventual mercy — supplies the deep structure of Romans 9-11. The 'no-people/no-understanding' framing echoes through Paul's Gentile argument. Recurrence-based echo of the broader source context.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 65:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited ('Isaiah is very bold and says'): 'I was found by those who did not seek me; I was revealed to those who did not ask for me' — quotation of Isaiah 65:1, applied to the Gentiles who found God without seeking. High volume; pairs antithetically with the next verse on Israel.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 65:2",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited ('But as to Israel he says'): 'All day long I stretched out my hands to a disobedient and contrary people' — verbatim quotation of Isaiah 65:2, the chapter's climactic indictment of Israel's disobedience. Paired with 65:1 to contrast believing Gentiles and resistant Israel; high volume, the rhetorical capstone of ch. 10.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 50:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Why, when I came, was there no one? ... Is my hand shortened?' — the motif of God's outstretched/extended hand meeting no response resonates with 'all day long I stretched out my hands.' Faint reinforcing Isaianic echo. Disputed.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 19:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The fuller Psalm 19 context — the heavens declaring God's glory with speech that has 'no words... yet their voice goes out' — undergirds Paul's claim that the gospel proclamation reaches everyone. Background of the quoted v.4. Disputed as to intentional reach.",
+        "contested": true
+      }
+    ]
+  }
+]

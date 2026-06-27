@@ -1,0 +1,158 @@
+[
+  {
+    "id": "15.1",
+    "ch": 15,
+    "ref": "15:1-6",
+    "echoes": [
+      {
+        "source": "Psalm 69:9",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verbatim, formula-introduced ('as it is written'): 'The reproaches of those who reproached you fell on me' = LXX Psalm 68:10b. Paul reads the psalm's righteous sufferer as Christ, with 'you' = God; the reproaches aimed at God land on Christ, grounding the call not to please oneself. High volume (exact wording) and strong recurrence in early Christian passion exegesis.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 69:9",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Beyond the verbatim citation, Paul reads the whole psalm typologically: the persecuted righteous one of Psalm 69 prefigures Christ. The same psalm is mined elsewhere in the NT passion narrative (zeal for your house, gall and vinegar) and by Paul at Romans 11:9-10, marking it a recurring messianic testimonium.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 98:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Sing to your name'/glorify-with-one-mouth language (15:6) and the catena's Gentile-praise theme that follows resonates with the Psalter's call to sing a new song before the nations; faint and thematic, anticipatory of the 15:9-12 chain.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "15.2",
+    "ch": 15,
+    "ref": "15:7-13",
+    "echoes": [
+      {
+        "source": "Genesis 17:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "15:8: Christ became a servant of the circumcision 'to confirm the promises given to the fathers.' The patriarchal promises (Genesis 12:3; 17:4-7; 22:18) — that in Abraham all nations would be blessed — are the substrate; the Gentile-inclusion catena is presented as their fulfillment. Conceptual allusion rather than verbal.",
+        "contested": false
+      },
+      {
+        "source": "Micah 7:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "15:8-9 pairs 'truth of God' (to the circumcision) with 'mercy' (to the Gentiles). The truth/mercy (emeth/chesed) word-pair toward the fathers echoes covenantal formulae like Micah 7:20 and Psalm 98:3; faint and diffuse.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 18:49",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "First link of the catena (15:9), formula-introduced ('As it is written'): 'I will give praise to you among the Gentiles, and sing to your name' = LXX Psalm 17:50. The Davidic king praises God among the nations; Paul reads the messianic David as drawing Gentiles into doxology. Verbatim agreement with LXX.",
+        "contested": false,
+        "altSource": "2 Samuel 22:50"
+      },
+      {
+        "source": "2 Samuel 22:50",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Parallel form of the same citation (15:9): 2 Samuel 22:50 = Psalm 18:49 are the doublet of David's victory song. The Davidic frame is load-bearing for Paul's catena — Christ as the Davidic Messiah whose praise extends to the Gentiles (cf. 15:12, root of Jesse). Given its own entry because the doublet reinforces the Davidic key of the whole chain.",
+        "contested": false,
+        "altSource": "Psalm 18:49"
+      },
+      {
+        "source": "Deuteronomy 32:43",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Second link (15:10), formula-introduced ('Again he says'): 'Rejoice, you Gentiles, with his people.' Follows the longer LXX/Qumran (4QDeut) text of the Song of Moses, where the nations are summoned to rejoice WITH Israel — exactly the with-his-people inclusion Paul needs. High volume; the Song of Moses is a recurring witness to the nations' destiny.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 117:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Third link (15:11), formula-introduced ('Again'): 'Praise the Lord, all you Gentiles! Let all the peoples praise him' = LXX Psalm 116:1. The shortest psalm, an unambiguous summons to the Gentiles to praise YHWH; verbatim LXX. Caps the doxological progression of the chain (praise among / rejoice with / praise by the Gentiles).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Fourth link and climax (15:12), formula-introduced ('Again, Isaiah says'): 'There will be the root of Jesse, he who arises to rule over the Gentiles; in him the Gentiles will hope' = LXX Isaiah 11:10. The LXX ('rule over' and 'hope in') diverges from the MT ('stand as a banner... seek') and Paul follows the LXX, which supplies both Gentile rule and Gentile hope, tying back to 15:13 'God of hope.' Davidic-messianic capstone of the catena.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'root of Jesse' image (15:12) draws on the opening of the same oracle, Isaiah 11:1 (a shoot from the stump of Jesse, a branch from his roots). The whole shoot-of-Jesse messianic complex stands behind the quotation; verbal overlap in 'root/Jesse' makes it a strong allusion supporting the citation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "15:13 'the God of HOPE fill you... that you may abound in HOPE' verbally picks up the catchword from the just-cited Isaiah 11:10 LXX ('in him the Gentiles will hope'). Paul's benediction is keyed to the final quotation, knitting citation and prayer together — a deliberate gezerah-shawah on 'hope.'",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "15.3",
+    "ch": 15,
+    "ref": "15:14-33",
+    "echoes": [
+      {
+        "source": "Isaiah 66:20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "15:16: Paul is a 'leitourgos'/priest of the gospel 'that the offering up of the Gentiles might be made acceptable, sanctified.' Strong conceptual and lexical borrowing from Isaiah 66:19-20, where survivors are sent to the nations and the nations are brought 'as an offering to the LORD' to Jerusalem. Paul casts his Gentile mission as the eschatological priestly presentation of the nations.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 1:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'acceptable offering' of/among the Gentiles (15:16) resonates with Malachi 1:11, where a pure offering is made to God's name 'among the nations.' Cultic-offering-among-Gentiles imagery; thematic with some lexical overlap (offering, acceptable, nations).",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 66:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "15:19's geographic sweep ('from Jerusalem... as far as Illyricum, I have fully preached the gospel') and the 'signs' motif echo Isaiah 66:19, where God sets a sign and sends survivors to far coastlands/nations that have not heard or seen his glory — a program Paul sees himself enacting. Reinforced by the Isaiah 52:15 citation two verses later.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 52:15",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "15:21, formula-introduced ('as it is written'): 'They will see, to whom no news of him came; they who haven't heard will understand' = LXX Isaiah 52:15. Drawn from the fourth Servant Song; Paul grounds his pioneer policy (not building on another's foundation) in the Servant's mission to those never told. Verbatim LXX.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:13-53:12",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "By citing Isaiah 52:15 Paul reads his own apostolic mission figurally through the Suffering Servant: the Servant who startles many nations and whose report reaches those who had not heard becomes the template for the apostle to the Gentiles. Typological extension of the quotation into the broader Servant Song.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:5-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "15:25-27: the Gentile churches share their 'fleshly things' with Jerusalem because they partook of its 'spiritual things' — the collection. This evokes the prophetic vision of the nations bringing their wealth to Zion (Isaiah 60:5-6, 11; 66:12). Faint, thematic; Paul nowhere cites it, but the eschatological pilgrimage-of-the-nations pattern underlies the collection.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 6:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "15:33 'the God of peace be with you all' draws on the Old Testament benedictory peace formula (Aaronic blessing, Numbers 6:26; cf. Judges 6:24 'the LORD is peace'). A liturgical echo rather than a citation; faint and formulaic.",
+        "contested": true
+      }
+    ]
+  }
+]

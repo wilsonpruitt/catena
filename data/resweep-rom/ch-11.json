@@ -1,0 +1,289 @@
+[
+  {
+    "id": "11.1",
+    "ch": 11,
+    "ref": "11:1-10",
+    "echoes": [
+      {
+        "source": "Psalm 94:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's opening 'God did not reject his people' (v.1-2) verbally tracks the psalm's promise 'the LORD will not reject his people, neither will he forsake his inheritance.' Same verb of rejection, same object 'his people'; it functions almost as an embedded near-quotation grounding the whole argument.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 12:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Samuel: 'the LORD will not forsake his people for his great name's sake, because it has pleased the LORD to make you a people for himself.' Paul's denial of rejection draws on this covenant-fidelity formula; pairs with Ps 94:14 as the scriptural backbone of v.1-2 'God did not reject his people.'",
+        "contested": false
+      },
+      {
+        "source": "Genesis 17:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's self-identification as 'a descendant of Abraham' (v.1) leans on the Abrahamic covenant promise to the seed; faint, but it grounds his claim that membership in the people persists by descent and election.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 19:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verbatim of Elijah's complaint at Horeb: 'they have killed your prophets and torn down your altars; I alone am left, and they seek my life.' Paul cites it formulaically ('don't you know what the Scripture says about Elijah... how he pleads with God against Israel') to introduce the remnant theme (v.3).",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 19:14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Elijah's complaint is repeated verbatim in 1 Kgs 19:14 (the second utterance to the LORD); Paul's v.3 reproduces this doubled lament. Listed separately because the source occurs at both v.10 and v.14 (recurrence within the source narrative).",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 19:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited divine answer (v.4): 'I have reserved for myself seven thousand men, who have not bowed the knee to Baal.' Verbatim of the LORD's reply to Elijah; the foundational proof-text for Paul's doctrine of a preserved remnant 'according to the election of grace' (v.5).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 10:22-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The remnant motif of v.5 ('a remnant according to the election of grace') draws on Isaiah's remnant theology ('though your people be as the sand of the sea, only a remnant of them will return'), a text Paul has already quoted in Rom 9:27-28. Strong conceptual borrowing of the 'remnant' (leimma/hypoleimma) word-field.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited ('as it is written') in v.8: 'God gave them a spirit of stupor (pneuma katanyxeos)' is verbatim from Isa 29:10 LXX, 'the LORD has poured out on you a spirit of deep sleep.' Supplies the head phrase of the conflated citation about Israel's hardening.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 29:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The continuation of v.8 — 'eyes that they should not see and ears that they should not hear, to this very day' — is verbatim from Deut 29:4 ('the LORD has not given you a heart to know, eyes to see, and ears to hear, to this day'). Paul fuses it with Isa 29:10 into a single formula-introduced quotation; 'to this very day' is the Deuteronomy tag.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 6:9-10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'eyes that do not see, ears that do not hear' hardening language of v.8 also resonates with Isaiah's commissioning oracle ('hearing you will hear and not understand; seeing you will see and not perceive'), the classic hardening text. Reinforces the conflated citation's theme even if Deut 29:4 supplies the closer wording.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 69:22-23",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Attributed quotation (v.9-10, 'David says'): 'Let their table be made a snare and a trap... Let their eyes be darkened that they may not see, and bow down their back always.' Verbatim of Ps 69:22-23 LXX. A psalm of the righteous sufferer Paul reads imprecatorily against the hardened; pairs the 'darkened eyes' with the Isaiah/Deut citation of v.8.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 35:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'snare/trap' imprecation of v.9 also echoes the wider psalmic curse tradition ('let destruction come upon him unawares, and let his net that he hid catch himself'). Faint reinforcement of the Ps 69 citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.2",
+    "ch": 11,
+    "ref": "11:11-24",
+    "echoes": [
+      {
+        "source": "Deuteronomy 32:21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'to provoke them to jealousy' (v.11, again v.14) borrows directly from the Song of Moses: 'they have moved me to jealousy... I will provoke them to jealousy by those who are not a people.' Paul already quoted Deut 32:21 at Rom 10:19; here he deploys its key verb (parazeloo) as the engine of his Gentiles-to-Israel argument. Strong verbal borrowing with recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 15:17-21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'If the first fruit is holy, so is the lump' (v.16) draws on the dough/firstfruit offering of Num 15: a portion of the first of the dough (aparche) is given so the whole batch is sanctified. Paul applies the cultic logic of consecration-by-firstfruit to the patriarchs and Israel.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 11:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The olive-tree image for Israel (v.17-24, 'the root and the richness of the olive tree') borrows Jeremiah's figure: 'The LORD called your name, A green olive tree, beautiful with good fruit'—followed there by branches broken and burned for unbelief. Supplies both the olive-tree identification of Israel and the broken-branches judgment motif.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 14:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Hosea's restoration oracle pictures renewed Israel: 'his branches shall spread, and his beauty shall be like the olive tree.' Paul's olive-tree-with-spreading-branches and hope of regrafting (v.23-24) coheres with this restoration imagery alongside Jer 11:16.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 52:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I am like a green olive tree in the house of God' — the righteous flourishing as an olive planted by God resonates faintly with Paul's cultivated 'good olive tree' (v.24) into which branches are grafted.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 3:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Don't boast over the branches... Don't be conceited, but fear' (v.18, 20) echoes 'Be not wise in your own eyes; fear the LORD and depart from evil.' The pairing of not-being-wise-in-self with fear is distinctive; recurs at v.25 ('wise in your own conceits').",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 5:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Woe to those who are wise in their own eyes' undergirds Paul's warning against Gentile conceit (v.18-20, 25). Faint thematic reinforcement of the Prov 3:7 admonition.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 7:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You stand by your faith' (v.20) faintly recalls Isaiah's word to Ahaz: 'If you will not believe, surely you shall not be established (stand firm).' The standing-by-faith / falling-by-unbelief antithesis coheres, though the verbal link is thin.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 37:1-14",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'Their acceptance... life from the dead' (v.15) reads Israel's future restoration typologically as resurrection, the figure of the valley of dry bones where dead Israel is raised and replanted in its land. Typological rather than verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.3",
+    "ch": 11,
+    "ref": "11:25-32",
+    "echoes": [
+      {
+        "source": "Isaiah 59:20-21",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-cited ('as it is written') in v.26-27: 'There will come out of Zion the Deliverer, and he will turn away ungodliness from Jacob.' Verbatim core from Isa 59:20-21 LXX ('the Deliverer will come for Zion's sake, and turn away ungodliness from Jacob'), with the 'covenant' clause flowing from 59:21. The backbone citation of the 'all Israel will be saved' climax.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 27:9",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'This is my covenant to them, when I will take away their sins' (v.27b) supplies the sin-removal clause via Isa 27:9 LXX: 'this is his blessing, when I take away his sin.' Paul conflates it with Isa 59:20-21; the phrase 'take away their sins' is the Isa 27:9 contribution to the composite citation.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:33-34",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'This is my covenant to them, when I will take away their sins' (v.27) also draws the new-covenant formula from Jer 31:33-34 ('this is the covenant I will make... I will forgive their iniquity and remember their sin no more'). The 'covenant + forgiveness of sins' pairing is distinctively Jeremianic; Paul fuses it into the Isaianic Deliverer oracle.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 2:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Out of Zion' as the source of deliverance (v.26) resonates with Zion-centered eschatology ('out of Zion shall go forth the law'). Faint thematic backdrop to the quoted Isa 59:20.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 6:9-10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'A partial hardening has happened to Israel, until the fullness of the Gentiles has come in' (v.25) sustains the Isaianic hardening motif of the chapter (cf. the Isa 29:10 citation at v.8). The temporal 'until' frames the hardening as the bounded judicial blindness of Isaiah's commission.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 7:7-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'concerning the election, they are beloved for the fathers' sake' (v.28) draws on Deuteronomy's election theology: 'because the LORD loved you... and because he would keep the oath which he swore to your fathers.' The love-of-Israel-for-the-fathers'-sake is the Deuteronomic ground Paul invokes.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 10:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD had a delight in your fathers to love them, and he chose their seed after them' directly undergirds v.28's 'beloved for the fathers' sake' and v.29's irrevocable calling. Pairs with Deut 7:7-8 as the election-of-the-patriarchs source.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 23:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The gifts and the calling of God are irrevocable' (v.29) coheres with Balaam's oracle that God 'is not a man, that he should lie... has he said, and will he not do it?'—the unchangeableness of God's word toward Israel. Faint thematic support.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.4",
+    "ch": 11,
+    "ref": "11:33-36",
+    "echoes": [
+      {
+        "source": "Isaiah 40:13",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verbatim quotation (v.34): 'For who has known the mind of the LORD? Or who has been his counselor?' from Isa 40:13 LXX ('who has known the mind of the LORD, and who has been his counselor that he might instruct him?'). Caps the doxology on the unsearchability of God's wisdom.",
+        "contested": false
+      },
+      {
+        "source": "Job 41:11",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Quotation (v.35): 'Or who has first given to him, and it will be repaid to him again?' rendering Job 41:11 ('who has first given to me, that I should repay him? Everything under heaven is mine'). Paul follows a Hebrew-leaning form (the LXX differs), asserting God's unindebted sovereignty.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 55:8-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'How unsearchable are his judgments, and his ways past tracing out' (v.33) borrows Isaiah's 'my thoughts are not your thoughts, neither are your ways my ways... as the heavens are higher than the earth, so are my ways higher than your ways.' The inscrutable 'ways' of God is the shared figure, and Isa 40-55 supplies the doxology's whole register.",
+        "contested": false
+      },
+      {
+        "source": "Job 5:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Who does great things and unsearchable, marvelous things without number' resonates with v.33's 'unsearchable judgments... past tracing out.' Coheres with the Job-framed doxology that closes with the Job 41:11 citation.",
+        "contested": true
+      },
+      {
+        "source": "Job 9:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Who does great things past finding out, yes, marvelous things without number' parallels v.33's untraceable ways of God. Faint reinforcement of the Joban wisdom backdrop to the doxology.",
+        "contested": true
+      },
+      {
+        "source": "Job 15:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Have you heard the secret counsel of God?'—the rhetorical challenge to anyone claiming to be God's counselor—anticipates v.34's 'who has been his counselor?' alongside the primary Isa 40:13 quotation.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 9:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'For what man can know the counsel of God? Or who can conceive what the Lord wills?' (deuterocanonical) closely parallels v.34's question and likely stands in the same wisdom-doxology stream Paul draws on; some see it as a mediating source for the Isa 40:13 citation.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 23:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Who has stood in the council of the LORD, that he should perceive and hear his word?' faintly underlies v.34's 'who has been his counselor?'—the prophetic topos of no human admittance to the divine council.",
+        "contested": true
+      }
+    ]
+  }
+]

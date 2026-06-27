@@ -1,0 +1,207 @@
+[
+  {
+    "id": "14.1",
+    "ch": 14,
+    "ref": "14:1-12",
+    "echoes": [
+      {
+        "source": "Isaiah 45:23",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Paul's explicit formula-citation in 14:11 ('it is written, As I live, says the Lord, to me every knee will bow, every tongue will confess to God') quotes Isaiah 45:23 LXX. In Isaiah the universal bowing and swearing/confessing is rendered to YHWH alone as the only God and Savior; Paul deploys it to ground the certainty of universal accountability at the divine judgment seat. The same verse recurs at Philippians 2:10-11, showing Pauline thematic recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 14:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The introductory divine-oath formula 'As I live, says the Lord' (zōn egō legei kyrios) prefixed to the Isaiah 45 quotation is not in Isaiah 45:23 itself; it is the LXX oath formula 'as I live' (ζῶ ἐγώ) characteristic of Numbers 14:21,28 and Ezekiel. Paul (or his Vorlage) conflates the oath formula with the Isaiah quotation to heighten its solemnity as a guarantee of universal judgment.",
+        "contested": true,
+        "altSource": "Isaiah 49:18"
+      },
+      {
+        "source": "Isaiah 49:18",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "An alternative/complementary source for the prefixed oath 'As I live, says the Lord': Isaiah 49:18 ('As I live, says the LORD') stands within the same section of Isaiah as 45:23, making it a plausible internal-Isaianic source for the conflated formula rather than the Numbers/Ezekiel oath stock.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 5:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel is the densest concentration of the 'As I live, says the Lord' oath (Ezekiel 5:11; 14:16; 16:48; 33:11, etc.). The recurrence of the formula there may stand behind the LXX phrasing Paul attaches to the Isaiah citation; faint and not pointed to a single verse.",
+        "contested": true,
+        "altSource": "Ezekiel 33:11"
+      },
+      {
+        "source": "Genesis 1:29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'weak' eating only vegetables (lachana, 14:2) recalls the original Edenic vegetarian diet granted to humanity (Genesis 1:29, every seed-bearing plant for food). The contrast of vegetable-only vs. eating-all-things may evoke the pre-Noahic dietary order; thematic and faint, not verbal.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 9:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The position that 'one has faith to eat all things' (panta phagein, 14:2) echoes the post-flood Noahic grant: 'Every moving thing that lives shall be food for you; as the green plants I gave you everything' (Genesis 9:3). Paul's 'all things are clean' (14:14,20) presupposes this universal grant of food over against later dietary restriction.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 11:1-47",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The clean/unclean food dispute underlying 14:1-12 (and explicit in 14:14,20, 'nothing is unclean of itself... all things indeed are clean') directly engages the Levitical purity code distinguishing clean from unclean animals (Leviticus 11; cf. Deuteronomy 14). The 'weak' likely keep these distinctions; Paul's verdict that nothing is koinon in itself overturns the categorical force of Leviticus 11 for those in Christ.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 14:3-21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Deuteronomy's parallel dietary legislation ('You shall not eat any abominable thing') reinforces the Levitical clean/unclean backdrop to the eating dispute. The 'weak in faith' who eat only vegetables may be observing scruples derived from this Torah food law (and/or avoiding marketplace meat of uncertain provenance).",
+        "contested": true
+      },
+      {
+        "source": "Daniel 1:8-16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Daniel and his companions refuse the king's rich food and wine, eating only vegetables (LXX lachana / ospria) and water to avoid defilement (Daniel 1:12,16). This is the closest Scriptural antecedent to a diaspora Jew eating 'only vegetables' (14:2) out of purity scruple in a Gentile environment, providing a likely model for the 'weak.'",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's axiom 'none of us lives to himself, and none dies to himself... we are the Lord's' (14:7-8) reflects the creational logic that life is a gift wholly owed to its Giver (cf. Genesis 2:7, the breath of life from God). Faint thematic resonance of creaturely belonging rather than verbal borrowing.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 24:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'We are the Lord's' (tou kyriou esmen, 14:8) echoes the creational ownership confessed in Psalm 24:1 ('The earth is the LORD's and its fullness'), which Paul cites elsewhere at 1 Corinthians 10:26 in a closely parallel food-and-conscience argument. The lordship grounding here is conceptually linked though not quoted.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 12:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Each one of us will give account of himself to God' (14:12) coheres with the Wisdom expectation that 'God will bring every deed into judgment' (Ecclesiastes 12:14). Thematic accountability before the divine Judge; faint and conceptual.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 62:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The motif of individual rendering of account to God who judges (14:10,12) resonates with Psalm 62:12 ('you will render to each according to his work'), a verse Paul invokes for judgment-according-to-works at Romans 2:6. The shared judgment-recompense logic links the chapters.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'We will all stand before the judgment seat of God/Christ' (14:10) carries the prophetic Day-of-the-LORD note of standing before the dread Judge (cf. Joel 2:11, 'who can endure it?'), reframed by Paul christologically. Very faint thematic echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.2",
+    "ch": 14,
+    "ref": "14:13-23",
+    "echoes": [
+      {
+        "source": "Leviticus 11:1-47",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's declaration 'nothing is unclean of itself... all things indeed are clean' (14:14,20) directly engages and relativizes the Levitical clean/unclean food code (Leviticus 11). The very term koinon ('common/unclean') is the purity vocabulary of the dietary law; Paul affirms the law's categories exist only for the one who reckons a thing unclean.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 9:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'All things indeed are clean' (panta kathara, 14:20) restates the universal Noahic food grant (Genesis 9:3, everything that lives given as food). Paul grounds Christian liberty regarding food in the creation/Noahic order that precedes and outranks the Levitical restriction.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The command not to 'put a stumbling block in his brother's way' (proskomma, 14:13) draws on the Holiness Code prohibition: 'You shall not put a stumbling block before the blind' (Leviticus 19:14 LXX, proskomma / skandalon). Paul transposes the literal physical stumbling-block into the moral injury of causing a fellow believer to fall.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'If your brother is grieved because of food, you walk no longer in love' (14:15) applies the love-of-neighbor command (Leviticus 19:18) that Paul has just made the fulfillment of the law in 13:8-10. The 'brother' (adelphos) language and the priority of love over one's own right enact Leviticus 19:18 directly.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Don't let your good be slandered/blasphemed' (mē blasphēmeisthō, 14:16) echoes the prophetic concern that God's name/people be 'blasphemed among the nations' (Isaiah 52:5 LXX), a verse Paul cites at Romans 2:24. The fear that the gospel-given 'good' becomes an occasion of blasphemy reuses this prophetic anxiety.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 34:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Let us follow after things which make for peace' (ta tēs eirēnēs diōkōmen, 14:19) closely echoes Psalm 34:14 LXX ('seek peace and pursue it,' zētēson eirēnēn kai diōxon autēn). The verb 'pursue' (diōkō) with 'peace' as object is the distinctive shared phrasing.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 1:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The build-up vs. tear-down language ('build one another up,' 14:19; 'don't overthrow God's work,' 14:20, katalye) resonates with the Jeremianic commission to 'pluck up and break down... to build and to plant' (Jeremiah 1:10). The oikodomē/kataluō opposition is a recurring prophetic idiom for God's constructive work among his people.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 32:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Kingdom of God is... righteousness, peace, and joy' (14:17) coheres with the prophetic vision that 'the work of righteousness shall be peace' (Isaiah 32:17), where dikaiosynē and eirēnē are paired as the fruit of the Spirit poured out (32:15). Thematic resonance of the Spirit-wrought eschatological order.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 55:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The triad 'peace and joy' as marks of the inbreaking Kingdom (14:17) faintly echoes the Isaianic new-exodus promise 'you shall go out in joy and be led forth in peace' (Isaiah 55:12), where joy and peace characterize redeemed life under God's reign. Faint thematic.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 23:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'It is good not to eat meat, drink wine...' (14:21) — the renunciation of wine for the sake of another — has a faint sapiential backdrop in wisdom warnings about wine (Proverbs 23:31, 'do not look at wine when it is red'). Here, however, abstinence is for the brother's sake, not self-discipline; the link is thematic and weak.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 31:25-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's measured counsel on wine and food at table (Sirach 31:25-31), weighing one's conduct for the sake of fellow diners, offers a Second Temple sapiential parallel to Paul's 'it is good not to eat meat or drink wine' where another stumbles (14:21). Conceptual, not verbal.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 9:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The blessing 'Happy is he who doesn't judge himself in that which he approves' (14:22) faintly resonates with the Qoheleth beatitude on eating one's bread and drinking one's wine with a clear conscience before God (Ecclesiastes 9:7, 'God has already approved your works'). Thematic resonance of approved, untroubled enjoyment.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 12:18-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The doxological coda (14:23 long ending in WEB) celebrating 'the only wise God' (monō sophō theō) coheres with the Wisdom of Solomon's portrait of God's singular wisdom governing all (Wisdom of Solomon 12:18-19, cf. 7:24-27). Faint and tied to a textually disputed doxology often printed at 16:25-27.",
+        "contested": true
+      }
+    ]
+  }
+]

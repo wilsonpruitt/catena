@@ -1,0 +1,60 @@
+[
+  {
+    "id": "16.1",
+    "ch": 16,
+    "ref": "16:1-16",
+    "echoes": [
+      {
+        "source": "Exodus 23:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Epaenetus is called 'the first fruits (aparche) of Achaia.' The metaphor draws on the cultic offering of firstfruits — the first and best of the harvest consecrated to God (Exodus 23:19; Deuteronomy 26:1-11). The link is purely conceptual reuse of an offering-term as a name for the first convert; no verbal borrowing, so faint and disputed.",
+        "contested": true,
+        "altSource": "Deuteronomy 26:1-11"
+      }
+    ]
+  },
+  {
+    "id": "16.2",
+    "ch": 16,
+    "ref": "16:17-20",
+    "echoes": [
+      {
+        "source": "Genesis 3:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The God of peace will quickly crush Satan under your feet' (16:20) alludes to the protoevangelium: 'he shall bruise/crush your head' addressed to the serpent. The verb (crush/bruise) plus the bodily image (head/feet, enemy trodden underfoot) reactivates Genesis 3:15, with Satan now read as the serpent and the church as the seed of the woman who treads him down. Strong verbal and figural coherence; Paul universalizes the promised victory.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 8:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The image of the enemy placed 'under your feet' overlaps with the subjugation language of Psalm 8:6 ('you have put all things under his feet'), which Paul uses elsewhere for Christ's triumph. Here the dominant source is Genesis 3:15; the 'under feet' phrasing is at most a secondary, disputed resonance.",
+        "contested": true,
+        "altSource": "Psalm 110:1"
+      },
+      {
+        "source": "Psalm 12:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The dividers' 'smooth and flattering speech' that 'deceive the hearts of the innocent' (16:18) echoes the wisdom/psalmic indictment of smooth, flattering lips that deceive (Psalm 12:2-3; cf. Proverbs 26:28). Thematic and partly verbal but a common topos, so contested.",
+        "contested": true,
+        "altSource": "Proverbs 26:28"
+      },
+      {
+        "source": "Genesis 3:1-13",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The deceivers who beguile 'the hearts of the innocent' with smooth speech (16:18) typologically recall the serpent who deceived by crafty words — a figure reinforced two verses later by the explicit Genesis 3:15 allusion (16:20). The serpent-as-deceiver framing is suggestive but disputed as an intended echo here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.3",
+    "ch": 16,
+    "ref": "16:21-23",
+    "echoes": []
+  }
+]

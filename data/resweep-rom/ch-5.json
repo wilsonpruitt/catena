@@ -1,0 +1,226 @@
+[
+  {
+    "id": "5.0",
+    "ch": 5,
+    "ref": "5:1-11",
+    "echoes": [
+      {
+        "source": "Genesis 15:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Justified by faith\" (5:1) is the conclusion Paul has just drawn from Abraham (Romans 4), and ultimately rests on Genesis 15:6, \"Abram believed the LORD, and he reckoned it to him as righteousness.\" The faith-righteousness link governing 5:1 is verbally and conceptually the Genesis 15:6 logic carried forward into this pericope's opening clause.",
+        "contested": false
+      },
+      {
+        "source": "Habakkuk 2:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"The righteous shall live by faith\" is Paul's thesis text (Romans 1:17) and stands behind \"being justified by faith\" (5:1). The faith-life pairing of Habakkuk 2:4 resonates in the move from justification by faith to being \"saved by his life\" (5:10), though no verbal quotation appears here.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Peace with God\" (5:1) and reconciliation through Christ's death (5:10-11) echo the Suffering Servant whose \"chastisement brought us peace, and with his stripes we are healed.\" Isaiah 53 supplies the template of one man's death securing peace and healing for the many that drives the whole passage.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"While we were yet sinners/ungodly\" Christ died for us (5:6, 5:8): \"All we like sheep have gone astray... and the LORD has laid on him the iniquity of us all.\" The Servant bearing the iniquity of the straying matches Paul's \"Christ died for the ungodly.\"",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"He poured out his soul to death and was numbered with the transgressors; yet he bore the sin of many\" stands behind \"Christ died for us\" while sinners (5:8) and \"justified by his blood\" (5:9). The Servant's vicarious death for \"many\" anticipates the many/one structure Paul develops.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 17:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Justified by his blood\" (5:9): \"the life of the flesh is in the blood... it is the blood that makes atonement.\" Paul's atoning-blood language draws on the Levitical principle that blood effects expiation, already invoked at Romans 3:25 (hilasterion).",
+        "contested": false
+      },
+      {
+        "source": "Exodus 24:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Justified by his blood\" (5:9) may faintly recall the blood of the covenant Moses dashed on the people, sealing the relationship with God. Disputed as a deliberate echo here versus general sacrificial background.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 5:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"We rejoice in hope of the glory of God\" and \"rejoice in God\" (5:2, 5:11): \"let all who take refuge in you rejoice; let them ever sing for joy... let those who love your name exult in you.\" The pattern of those justified/sheltered by God rejoicing/exulting in him is a recurrent Psalmic posture Paul takes up.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 22:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Hope does not put us to shame\" (5:5): \"they trusted in you and were not put to shame.\" The Psalmic confession that trust in God does not end in shame is the verbal-conceptual root of Paul's claim that hope ou kataischynei.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 25:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Hope does not put us to shame\" (5:5): \"none who wait for you shall be put to shame.\" Psalm 25 (vv. 3, 20) repeatedly grounds the assurance that hope in God is not disappointed, matching Paul's claim about hope.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 28:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Hope does not put us to shame\" (5:5): \"whoever believes will not be put to shame\" (LXX). Paul quotes this very verse at Romans 9:33 and 10:11; the same shame/faith formula colors his statement here that hope does not disappoint.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:28-29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"God's love has been poured out into our hearts through the Holy Spirit\" (5:5): \"I will pour out my Spirit on all flesh.\" The verb \"pour out\" (ekcheo) applied to the Spirit is the prophetic eschatological-outpouring idiom; Paul quotes Joel 2:32 at Romans 10:13, showing the passage is in view.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"God's love poured out... through the Holy Spirit\" (5:5): \"I will pour my Spirit upon your offspring.\" The same Spirit-outpouring promise, paired with water/blessing imagery, undergirds Paul's image of love flooding the heart by the Spirit.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:26-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Poured out into our hearts... the Holy Spirit who was given to us\" (5:5): \"I will give you a new heart... I will put my Spirit within you.\" The new-covenant promise of God's Spirit placed within the heart matches Paul's interiorized gift of the Spirit and love.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 2:1-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Suffering produces perseverance, and perseverance proven character\" (5:3-4): \"My son, if you come to serve the Lord, prepare yourself for testing... for gold is tested in the fire, and acceptable men in the furnace of humiliation.\" A Second Temple wisdom commonplace that trials refine and prove the faithful, closely parallel to Paul's chain suffering->endurance->proven character.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 3:5-6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Suffering works perseverance... proven character; and proven character, hope\" (5:3-4): \"Having been disciplined a little, they will receive great good, because God tested them and found them worthy of himself; like gold in the furnace he tried them.\" Second Temple parallel linking testing/discipline to being proven worthy and to hope of glory (cf. Wisdom 3:4, hope full of immortality).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 32:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Peace with God\" through righteousness (5:1): \"the work of righteousness shall be peace.\" The prophetic linkage of righteousness and peace faintly underlies Paul's pairing of justification with peace, though no verbal borrowing is evident.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 85:8-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Peace with God\" (5:1): \"righteousness and peace kiss each other.\" The Psalm's union of righteousness and peace as God's salvific gift resonates faintly with Paul's justification-yields-peace claim. Disputed as a deliberate echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 57:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Peace with God\" for the reconciled (5:1, 5:10-11): \"Peace, peace, to the far and the near, says the LORD; and I will heal him.\" The prophetic announcement of peace and healing to estranged people faintly anticipates peace and reconciliation language. Contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:12-21",
+    "echoes": [
+      {
+        "source": "Genesis 3:1-7",
+        "type": "figural",
+        "confidence": "high",
+        "note": "\"Sin entered into the world through one man\" (5:12) figurally reads the Eden narrative: Adam's single transgression in eating the forbidden fruit is the entry point of sin into the cosmos. Paul explicitly types Adam as \"a foreshadowing of him who was to come\" (5:14, typos), making the fall the controlling figure for the Adam-Christ antithesis.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:17",
+        "type": "figural",
+        "confidence": "high",
+        "note": "\"Death through sin... death passed to all\" (5:12): \"in the day that you eat of it you shall surely die.\" The divine sentence binding death to the one prohibited act is the textual basis for Paul's claim that death entered through the one man's transgression.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:17-19",
+        "type": "figural",
+        "confidence": "high",
+        "note": "\"Death passed to all men\" and \"death reigned\" (5:12, 5:14, 5:17): \"cursed is the ground because of you... you are dust, and to dust you shall return.\" Adam's curse universalizing death is figurally taken up as the reign of death over all humanity that Christ's act of righteousness reverses.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:6",
+        "type": "figural",
+        "confidence": "high",
+        "note": "\"Through the one man's disobedience many were made sinners\" (5:19): \"she took of its fruit and ate, and she also gave some to her husband, and he ate.\" Adam's specific act of disobedient eating is the trespass/parakoe Paul opposes to Christ's obedience (hypakoe).",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:11",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "\"Adam's disobedience\" / \"the one man's disobedience\" (5:14, 5:19): \"Have you eaten of the tree of which I commanded you not to eat?\" God's interrogation frames Adam's act precisely as disobedience to a command, supplying the parakoe Paul contrasts with Christ's obedience.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 5:3-31",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Death reigned from Adam until Moses\" (5:14): the tolling refrain \"and he died\" through the Sethite genealogy (Genesis 5) concretizes the unbroken reign of death over the generations between Adam and the giving of the law. Paul's historical span presupposes this litany of mortality.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 2:23-24",
+        "type": "echo",
+        "confidence": "high",
+        "note": "\"Through one man sin entered into the world, and death through sin\" (5:12): \"God created man for incorruption... but through the devil's envy death entered the world.\" The closest Second Temple parallel, sharing the precise idiom \"death entered the world\" (eiselthen... thanatos) and tracing universal death to a primeval cause. Paul localizes the cause in Adam's trespass rather than the devil's envy.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 25:24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Through one... death\" passed to all (5:12, 5:15): \"From a woman sin had its beginning, and because of her we all die.\" A Second Temple text tracing universal death to the primeval transgression in Eden, structurally parallel to Paul (though Ben Sira blames Eve, Paul Adam). Strong thematic overlap on death-through-one.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:1-17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Death reigned from Adam until Moses\" and \"the law came in besides\" (5:14, 5:20): the Sinai law-giving through Moses is the temporal boundary and the \"law that came in\" so that the trespass might increase. Paul presupposes the Mosaic legislation (Exodus 20 / the Decalogue) as the entry of nomos into his salvation-history scheme.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Grace... reign through righteousness to eternal life\" (5:21): the tree of life in Eden (Genesis 2:9; 3:22-24), forfeited at the fall, faintly stands behind the restoration of \"eternal life\" through the second Adam. A disputed figural undertone rather than a verbal echo.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"As through one trespass... all condemned\" (5:18): \"like Adam they transgressed the covenant\" (one reading of Hosea 6:7) treats Adam as the archetypal covenant-breaker. A faint and textually disputed possible precedent for Paul's Adam-as-transgressor typology.",
+        "contested": true
+      }
+    ]
+  }
+]

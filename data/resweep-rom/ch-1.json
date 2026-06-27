@@ -1,0 +1,309 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-7",
+    "echoes": [
+      {
+        "source": "Habakkuk 2:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The gospel 'promised before' (v.2) and the apostolic 'set apart' echo the prophetic-promise schema; faint thematic link to the awaited word that surely comes. Low volume, no verbal borrowing here, but coheres with the Hab 2:4 citation in 1:17.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Good News of God' (euangelion) draws on the Isaianic herald who announces good tidings; Paul's gospel vocabulary recurrently leans on Isaiah's heralding of salvation. Thematic coherence high with Romans' Isaiah-saturated argument; volume moderate.",
+        "altSource": "Isaiah 40:9"
+      },
+      {
+        "source": "Isaiah 61:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Set-apart, Spirit-anointed proclamation of good news. Faint; supports the euangelizo background but little distinctive verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "2 Samuel 7:12-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Born of the seed of David' and 'declared Son of God' (vv.3-4) invoke the Nathan oracle: Davidic seed whom God will establish and call son. High thematic coherence (royal-messianic sonship) and strong conceptual recurrence in early Christian use.",
+        "altSource": "Psalm 89:3-4"
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Declared to be the Son of God with power... by the resurrection' echoes the enthronement decree 'You are my Son'; standard messianic proof-text read of Christ's vindication. Strong thematic coherence with Davidic sonship; satisfaction high.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 110:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Resurrection-enthronement of 'our Lord' faintly invokes the royal session psalm pervasive in NT Christology. Low verbal volume here.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 11:1-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Davidic shoot bringing the nations to obedience; 'obedience of faith among all the nations' coheres with the root-of-Jesse hope (cf. Rom 15:12 quoting Isa 11:10). Anticipatory, faint here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:8-15",
+    "echoes": []
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:16-17",
+    "echoes": [
+      {
+        "source": "Habakkuk 2:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-marked ('As it is written') verbatim citation: 'the righteous shall live by faith.' The thesis-text of Romans. Highest volume and satisfaction; Paul reads ho dikaios ek pisteos against the LXX/MT to ground righteousness-by-faith.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 98:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'God's righteousness... revealed' echoes the psalmist's 'The LORD has made known his salvation; he has revealed his righteousness (dikaiosyne) in the sight of the nations.' Strong conceptual pairing of revealed righteousness + salvation to the nations; moderate volume.",
+        "altSource": "Isaiah 56:1"
+      },
+      {
+        "source": "Isaiah 51:4-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's coupling of God's 'righteousness' and 'salvation' going forth to the peoples grounds Paul's revealed dikaiosyne theou unto salvation. Recurrent in Romans; thematic coherence high.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 28:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Everyone who believes' / not being put to shame anticipates Paul's later quotation of Isa 28:16 (Rom 9:33; 10:11); 'not ashamed' may already lean on this shame-vindication motif. Faint here, recurrence elsewhere.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:46",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I am not ashamed' to speak of God's testimonies before kings; possible background to 'not ashamed of the gospel.' Low volume, contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:18-23",
+    "echoes": [
+      {
+        "source": "Psalm 106:20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Traded the glory of the incorruptible God for the likeness of an image' closely reworks 'they exchanged their glory for the image of an ox that eats grass' (golden calf). High verbal volume on exchange-of-glory; the calf episode is the paradigm of idolatrous substitution.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 2:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'My people have exchanged their glory for that which does not profit' — same exchange-of-glory idiom Paul deploys (allasso/doxa). Strong verbal and conceptual parallel; recurrence reinforces Ps 106:20.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 13:1-9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's natural theology — God's invisible power/divinity perceived through created things, leaving idolaters 'without excuse,' yet they failed to know the Maker — closely tracks Wisdom 13's argument that those who study creation are 'without excuse' for not finding its Artisan. High volume; Paul demonstrably leans on Wisdom here.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 13:10-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The catalogue of images (corruptible man, birds, beasts, creeping things) parallels Wisdom's mockery of those who fashion likenesses of corruptible things. Strong lexical/conceptual overlap; satisfaction high.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:20-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The taxonomy 'man... birds... four-footed animals... creeping things' inverts the Genesis creation order; idolatry as anti-creation, worshipping the made over the Maker. Moderate verbal echo of the creature-categories; thematic coherence high.",
+        "altSource": "Deuteronomy 4:16-18"
+      },
+      {
+        "source": "Deuteronomy 4:15-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Moses' aniconic warning lists the very classes of image (likeness of male/female, beast, bird, creeping thing, heavenly bodies) Paul echoes; the LXX vocabulary of 'homoioma' overlaps. Strong verbal and conceptual support for the image-list.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Since the creation of the world' (apo ktiseos kosmou) and 'the things that are made' invoke the creation narrative as the ground of natural revelation. Moderate thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:9-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Classic prophetic satire on idol-makers who become as senseless as their idols; 'became vain in their reasoning' and 'darkened heart' parallel Isaiah's blinded idolater. Moderate volume; recurrent idol-polemic.",
+        "altSource": "Jeremiah 10:14"
+      },
+      {
+        "source": "Psalm 19:1-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The heavens declare the glory of God' grounds Paul's claim that God's eternal power is 'clearly seen' through creation, leaving humanity without excuse. Thematic coherence high; moderate verbal contact.",
+        "contested": false
+      },
+      {
+        "source": "Job 12:7-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Creation itself teaches the hand of God; supports natural revelation but faint verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 10:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Every man is become brutish in his knowledge' / idols are vanity — parallels 'became vain in their reasoning, professing wise they became fools.' Moderate recurrence within idol-polemic.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 94:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The LORD knows the thoughts of man, that they are vanity' faintly underlies 'became vain (emataiothesan) in their reasoning.' Low verbal volume.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 2:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They went after vanity and became vain' — same root for futility tied to idolatry; reinforces the exchange motif of Jer 2:11. Faint additional contact.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:24-27",
+    "echoes": [
+      {
+        "source": "Wisdom of Solomon 14:12-27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The idea of making idols was the beginning of fornication' — Wisdom 14 ties idolatry causally to sexual corruption and a flood of vices, exactly Paul's logic ('God gave them up... to uncleanness... vile passions'). High volume; the strongest single subtext for this pericope.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Male and female' / 'natural function' presupposes the created-gender order of Genesis; sexual disorder figured as inversion of creation. Moderate verbal echo (physis vs. the Genesis pattern); thematic coherence high.",
+        "altSource": "Genesis 2:24"
+      },
+      {
+        "source": "Leviticus 18:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Same-sex relations as 'against nature' resonates with the Holiness Code prohibition tied to Gentile/Canaanite abomination. Conceptual coherence strong; verbal contact via LXX vocabulary moderate.",
+        "altSource": "Leviticus 20:13"
+      },
+      {
+        "source": "Psalm 81:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'So I gave them up (paredoka) to their own hearts' lust' is the divine-handing-over formula Paul triples ('God gave them up'). Strong verbal parallel to the paredoken auta refrain; judicial abandonment.",
+        "altSource": "Acts 7:42"
+      },
+      {
+        "source": "Genesis 19:4-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Sodom as the archetype of disordered desire under judgment; figural background to the inflamed-lust description. Little verbal borrowing, contested.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 23:16-27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Sirach's catalogue of sexual sins and 'burning' desire offers a Second Temple parallel to 'burned in their lust.' Faint, contested verbal contact.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:28-32",
+    "echoes": [
+      {
+        "source": "Wisdom of Solomon 14:22-31",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Wisdom's vice-catalogue flowing from idolatry (murder, deceit, corruption, faithlessness, defiling of life) closely parallels Paul's list and its idolatry-to-vice causal chain. High volume and recurrence; Paul's clearest model for the catalogue.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 81:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Third 'God gave them up (to a reprobate mind)' continues the divine-abandonment formula of Ps 81:12 (LXX 80:13). Moderate verbal, strong thematic recurrence within the pericope-cluster.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 6:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Slanderers... corrupters all' — prophetic vice description of a rebellious people; faint catalogue parallel.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 4:1-2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'No faithfulness... swearing, lying, murder, stealing, adultery' — prophetic indictment listing covenant breakdown, paralleling Paul's catalogue of murder/strife/deceit/covenant-breakers. Moderate conceptual coherence with the prophetic rib-pattern.",
+        "altSource": "Micah 7:2-6"
+      },
+      {
+        "source": "Genesis 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Every imagination of the thoughts of his heart was only evil' as the flood-era summary of total depravity; faint background to 'filled with all unrighteousness.' Little verbal contact, contested.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 32:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Song of Moses' description of a 'crooked and perverse generation... no faith in them' echoes the covenant-breaking, faithless terms of vv.31. Faint; Deut 32 recurs later in Romans.",
+        "contested": true
+      },
+      {
+        "source": "2 Maccabees 6:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Second Temple moral-decline rhetoric pairing idolatry with comprehensive licentiousness; supports the 'approve of those who practice them' communal-corruption note. Faint parallel.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-8",
+    "echoes": [
+      {
+        "source": "Psalm 51:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verbatim citation introduced by 'as it is written' in 3:4: 'that you might be justified in your words, and might prevail when you come into judgment' = LXX Psalm 50:6, David's confession in the Miserere. Paul deploys it to vindicate God's righteousness against human faithlessness: God is justified (proven right) precisely when humans are shown liars.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:7-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'advantage of the Jew' and being 'entrusted with the oracles of God' (3:1-2) echoes Israel's unique covenantal privilege of possessing God's statutes and nearness, the defining boast of Deuteronomy 4:7-8. Paul concedes this advantage before relativizing it.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 33:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel as guardian of 'the oracles/words of God' (3:2) faintly recalls Levi keeping God's word and covenant; the 'logia tou theou' language draws on the deposit-of-the-law tradition.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 23:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Let God be found true, but every man a liar' (3:4) restates Balaam's axiom that God is not a man that he should lie; the contrast between divine truthfulness and human falsehood is the same theological commitment.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 116:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Every man a liar' (3:4) is the psalmist's verbatim verdict, 'all men are liars' (LXX Psalm 115:2). Paul fuses it with the Psalm 51 citation to dramatize the truth-of-God / lie-of-humanity antithesis.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'How will God judge the world?' (3:6) invokes Abraham's appeal to the Judge of all the earth who must do right; God's universal judicial competence is the unquestionable premise that secures his righteousness.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 1:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The faithfulness-of-God-despite-Israel's-faithlessness theme (3:3) anticipates the Hosea citations Paul will marshal in Romans 9; God's covenant fidelity outlasts the people's apistia.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:9-20",
+    "echoes": [
+      {
+        "source": "Psalm 14:1-3",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Head of the catena (3:10-12): 'There is none righteous... none who understands... none who seeks God; all have turned aside, together become worthless; none does good, not one.' This is a near-verbatim chain from LXX Psalm 13:1-3, the fool who says there is no God. Paul opens his 'as it is written' string here.",
+        "contested": false,
+        "altSource": "Psalm 53:1-3"
+      },
+      {
+        "source": "Ecclesiastes 7:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'There is no righteous man on earth who does good and never sins' supplies the same universal-sin thesis as the catena's opening 'none righteous... none does good' (3:10-12); a wisdom-tradition reinforcement of the Psalm 14 verdict.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 5:9",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Catena member at 3:13a: 'Their throat is an open tomb; with their tongues they have practiced deceit' = LXX Psalm 5:10, verbatim. Begins the catena's catalogue of speech-organs (throat, tongue, lips, mouth).",
+        "contested": false
+      },
+      {
+        "source": "Psalm 140:3",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Catena member at 3:13b: 'The poison of asps/vipers is under their lips' = LXX Psalm 139:4, verbatim. Continues the speech catalogue from lips.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 10:7",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Catena member at 3:14: 'whose mouth is full of cursing and bitterness' draws on LXX Psalm 9:28 (Psalm 10:7 MT), 'his mouth is full of cursing and deceit and oppression.' Completes the mouth-cursing item of the speech catalogue.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 59:7-8",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Catena member at 3:15-17: 'Their feet are swift to shed blood; destruction and misery are in their ways; and the way of peace they have not known' = Isaiah 59:7-8, the prophet's indictment that justice and peace are absent. The lone prophetic link in the otherwise psalmic chain; shifts from speech to feet/ways.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 1:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Their feet run to evil and make haste to shed blood' parallels 3:15 ('their feet are swift to shed blood') and overlaps Isaiah 59:7; some hold Proverbs 1:16 contributes to or doubles the source of the feet-shedding-blood clause.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 36:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Catena's climactic capstone at 3:18: 'There is no fear of God before their eyes' = LXX Psalm 35:2, verbatim. The chain closes by returning the indictment to its root (fear of God / eyes), inclusio with the opening 'none seeks God.'",
+        "contested": false
+      },
+      {
+        "source": "Psalm 143:2",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "3:20: 'by works of the law no flesh will be justified in his sight' adapts LXX Psalm 142:2, 'do not enter into judgment with your servant, for in your sight no living one shall be justified.' Paul adds 'by works of the law' but the 'no flesh justified before you' core is verbatim from the psalmist.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 6:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'All have turned aside, together become corrupt/worthless' (3:12) faintly recalls the Flood verdict that all flesh had corrupted its way on earth; both render a totalizing 'all flesh' depravity.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 59:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Beyond the quoted 59:7-8, the wider Isaiah 59 oracle ('none calls for justice... they conceive mischief') colors the catena's portrait; Paul likely has the whole indictment-of-no-righteousness pericope in view.",
+        "contested": true
+      },
+      {
+        "source": "Job 9:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'How can a man be righteous before God?' anticipates 3:20's 'no flesh justified in his sight'; the forensic impossibility of human self-justification before God is a shared wisdom premise.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:21-31",
+    "echoes": [
+      {
+        "source": "Habakkuk 2:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The thesis of 'righteousness of God through faith' (3:21-22) carries forward the programmatic citation of 1:17, 'the righteous shall live by faith'; the faith-righteousness axis here is governed by Habakkuk even without re-quotation.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 51:5-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A righteousness of God has been revealed' (3:21) echoes Deutero-Isaiah's repeated proclamation that God's righteousness/salvation 'draws near' and 'is revealed'; the apocalyptic unveiling of divine sedaqah is Isaianic.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 98:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD has made known his salvation; he has revealed his righteousness in the sight of the nations' is a close template for 3:21-22: God's righteousness now revealed to all who believe, Jew and Gentile alike.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 16:13-15",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Christ set forth as 'hilasterion' / atoning sacrifice 'in his blood' (3:25) typologically fulfills the Day of Atonement mercy seat (kapporeth, LXX hilasterion) sprinkled with blood; the temple atonement apparatus prefigures the cross.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 25:17-22",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The 'hilasterion' of 3:25 is the very term LXX uses for the mercy seat / cover of the ark where God meets Israel; Paul presents Christ as the eschatological place of propitiation, fulfilling the ark typology.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:11-12",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Justification 'freely by his grace through the redemption in Christ Jesus' and the atoning-blood demonstration of righteousness (3:24-25) echoes the Servant who 'makes many righteous' by bearing sin; the vicarious sin-bearing undergirds Paul's atonement language.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 6:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'There is one God who will justify the circumcised by faith and the uncircumcised through faith' (3:30) grounds itself in the Shema's 'the LORD is one'; Paul turns Israel's monotheistic confession into the warrant for one way of justification for Jew and Gentile.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 17:9-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The circumcised/uncircumcised distinction relativized in 3:29-30 presupposes the Abrahamic circumcision covenant; Paul prepares the ground for Romans 4's argument that Abraham was reckoned righteous before circumcision.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God's 'forbearance' and 'passing over of former sins' (3:25-26) draws on the covenant formula of the LORD slow to anger, forgiving iniquity yet not clearing the guilty; Paul shows how God can pass over sins and still be just.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Where then is boasting? It is excluded' (3:27) echoes Jeremiah's prohibition of boasting in wisdom, might, or riches, allowing boasting only in knowing the LORD who does righteousness; Paul transposes the anti-boast theme to works of law.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 45:21-25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A righteous God and a Savior... in the LORD all the offspring of Israel shall be justified,' with every nation turning to the one God, undergirds 3:26-30: God just and justifier, one God of Jews and Gentiles.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 15:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Justified by faith apart from works of the law' (3:28) anticipates and is governed by the Abraham-reckoned-righteous text Paul will quote in 4:3; the faith-reckoning principle is already operative here.",
+        "contested": true
+      }
+    ]
+  }
+]
