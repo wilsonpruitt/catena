@@ -15,7 +15,7 @@ function cap(t) {
 const out = {
   slug: "romans",
   name: "Romans",
-  subtitle: "An Argument Made of Scripture",
+  subtitle: "A Case Made of Scripture",
   translation: "World English Bible",
   howToRead:
     "Romans is an argument conducted in citations. Paul reasons by quoting — “as it is written,” “the scripture says,” “Isaiah cries out” — and at the turning points the proof is a chain of texts laid end to end: the indictment of all humanity in chapter 3, the midrash on Abraham’s faith in chapter 4, and above all the dense scriptural catena of chapters 9–11, where the destiny of Israel is argued almost entirely in the words of the Law and the Prophets. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where Paul follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
