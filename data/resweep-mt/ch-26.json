@@ -1,0 +1,142 @@
+[
+  {
+    "id": "26.1",
+    "ch": 26,
+    "ref": "26:1-5",
+    "echoes": [
+      {"source": "Daniel 7:13", "type": "allusion", "confidence": "medium", "note": "'the Son of Man will be delivered up to be crucified' (v2) deploys the apocalyptic Son of Man title that Matthew unfolds fully at 26:64; here in a passion-prediction key the exalted figure is paradoxically handed over.", "contested": false},
+      {"source": "Exodus 12:1-14", "type": "figural", "confidence": "medium", "note": "'after two days the Passover is coming' (v2) times Jesus' death to the Passover, setting up the lamb typology that the Last Supper (vv26-28) makes explicit; he is slain at the feast that commemorates the original deliverance.", "contested": false},
+      {"source": "Psalm 2:2", "type": "echo", "confidence": "medium", "note": "'the chief priests... took counsel together that they might take Jesus by deceit, and kill him' (vv3-4) echoes the rulers who 'take counsel together against the LORD and against his anointed'; Matthew's anointed (Christos) is the target.", "contested": false},
+      {"source": "Psalm 31:13", "type": "echo", "confidence": "low", "note": "'they took counsel together against me; they plotted to take away my life' is a lament topos the gathering of priests in deceit replays.", "contested": true},
+      {"source": "Psalm 37:32", "type": "echo", "confidence": "low", "note": "'the wicked watches the righteous and seeks to kill him' supplies the righteous-sufferer plot frame for the conspiracy.", "contested": true}
+    ]
+  },
+  {
+    "id": "26.2",
+    "ch": 26,
+    "ref": "26:6-13",
+    "echoes": [
+      {"source": "Deuteronomy 15:11", "type": "allusion", "confidence": "high", "note": "'you always have the poor with you' (v11) quotes the Deuteronomic axiom 'the poor will never cease out of the land'; Jesus invokes the law's own realism not to dismiss the poor but to mark the unrepeatable hour of his presence.", "contested": false},
+      {"source": "2 Chronicles 16:14", "type": "echo", "confidence": "medium", "note": "the costly ointment 'to prepare me for burial' (v12) evokes the spices and aromatic anointing laid up for an honored burial, here pre-enacted on the living body.", "contested": false},
+      {"source": "Song of Solomon 1:12", "type": "echo", "confidence": "low", "note": "'while the king is at his table, my spikenard sent forth its fragrance' offers a banquet-anointing image behind the woman pouring fragrant ointment as Jesus reclines.", "contested": true},
+      {"source": "1 Samuel 10:1", "type": "echo", "confidence": "low", "note": "pouring oil on the head is the gesture of royal anointing; the woman's act may carry a faint messianic (Christos = anointed) coloring as the priests plot against the unanointed-by-them king.", "contested": true}
+    ]
+  },
+  {
+    "id": "26.3",
+    "ch": 26,
+    "ref": "26:14-16",
+    "echoes": [
+      {"source": "Zechariah 11:12-13", "type": "allusion", "confidence": "high", "note": "'They weighed out for him thirty pieces of silver' (v15) borrows the exact wage of the rejected shepherd in Zechariah; Matthew makes the citation explicit at 27:9-10 when the money buys the potter's field, so the allusion is deliberately seeded here.", "contested": false},
+      {"source": "Exodus 21:32", "type": "allusion", "confidence": "medium", "note": "thirty shekels of silver is the Torah's compensation for a slave gored by an ox; the price of betrayal is the price of a slave, ironizing the worth assigned to Jesus.", "contested": false},
+      {"source": "Psalm 41:9", "type": "echo", "confidence": "medium", "note": "the table-companion turned betrayer is introduced here; the 'familiar friend who lifted his heel' is made explicit at the supper (v23) but the bargain begins now.", "contested": false}
+    ]
+  },
+  {
+    "id": "26.4",
+    "ch": 26,
+    "ref": "26:17-19",
+    "echoes": [
+      {"source": "Exodus 12:18", "type": "allusion", "confidence": "high", "note": "'the first day of unleavened bread' and 'prepare... to eat the Passover' (vv17-19) directly invoke the Exodus 12 ordinance for the feast of unleavened bread and the Passover meal.", "contested": false},
+      {"source": "Deuteronomy 16:5-8", "type": "echo", "confidence": "medium", "note": "the Deuteronomic command to keep the Passover 'in the place the LORD chooses' (Jerusalem) frames the disciples' search for the room within the city.", "contested": false},
+      {"source": "Exodus 12:14", "type": "figural", "confidence": "low", "note": "the memorial-meal command undergirds Jesus' reconstitution of the Passover as his own memorial in the verses that follow.", "contested": true}
+    ]
+  },
+  {
+    "id": "26.5",
+    "ch": 26,
+    "ref": "26:20-25",
+    "echoes": [
+      {"source": "Psalm 41:9", "type": "allusion", "confidence": "high", "note": "'He who dipped his hand with me in the dish... will betray me' (v23) closely renders 'my own familiar friend... who ate of my bread, has lifted up his heel against me'; sharing the bowl is the very act that names the betrayer.", "contested": false},
+      {"source": "Isaiah 53:7-9", "type": "figural", "confidence": "medium", "note": "'The Son of Man goes, even as it is written of him' (v24) appeals to a scriptural script of the suffering one being handed over, the Servant 'led as a lamb to the slaughter.'", "contested": false},
+      {"source": "Daniel 7:13", "type": "echo", "confidence": "medium", "note": "the title 'Son of Man' carries the Danielic resonance even as the figure is led to suffering, holding exaltation and humiliation together.", "contested": false},
+      {"source": "Job 3:3", "type": "echo", "confidence": "low", "note": "'It would be better for that man if he had not been born' (v24) echoes the wisdom lament cursing the day of one's birth, here turned as a woe on the betrayer.", "contested": true},
+      {"source": "Ecclesiastes 4:3", "type": "echo", "confidence": "low", "note": "'better... is he who has not yet been' supplies the non-existence-is-preferable formula behind the woe of v24.", "contested": true}
+    ]
+  },
+  {
+    "id": "26.6",
+    "ch": 26,
+    "ref": "26:26-30",
+    "echoes": [
+      {"source": "Exodus 24:8", "type": "quotation", "confidence": "high", "note": "'this is my blood of the covenant' (v28) verbally appropriates Moses' words at Sinai, 'Behold the blood of the covenant which the LORD has made with you'; Jesus' blood ratifies the covenant as the sacrificial blood once did.", "contested": false},
+      {"source": "Jeremiah 31:31", "type": "allusion", "confidence": "high", "note": "the covenant inaugurated 'for the remission of sins' (v28) realizes Jeremiah's promised new covenant whose hallmark is 'I will forgive their iniquity and remember their sin no more'; many texts read 'new covenant' explicitly here.", "contested": false},
+      {"source": "Isaiah 53:11-12", "type": "allusion", "confidence": "high", "note": "'poured out for many for the remission of sins' (v28) draws on the Servant who 'poured out his soul to death' and 'bore the sin of many'; 'many' (rabbim) is Isaiah's vicarious-atonement vocabulary.", "contested": false},
+      {"source": "Exodus 12:8", "type": "figural", "confidence": "medium", "note": "the Passover bread and the slain lamb stand behind the bread Jesus identifies as 'my body' and the cup as 'my blood,' refiguring the seder elements around himself.", "contested": false},
+      {"source": "Isaiah 25:6", "type": "echo", "confidence": "medium", "note": "'until that day when I drink it anew with you in my Father's Kingdom' (v29) anticipates the eschatological 'feast of wines on the lees' on the LORD's mountain.", "contested": false},
+      {"source": "Psalm 116:13", "type": "echo", "confidence": "low", "note": "'I will take the cup of salvation' from the Hallel sung at Passover colors the cup of the covenant; the Hallel (Pss 113-118) is the hymn of v30.", "contested": true},
+      {"source": "Zechariah 9:11", "type": "echo", "confidence": "low", "note": "'by the blood of your covenant I have set your prisoners free' joins covenant blood to liberation, resonant with blood 'poured out for many.'", "contested": true},
+      {"source": "Psalm 113:1", "type": "allusion", "confidence": "medium", "note": "'when they had sung a hymn' (v30) refers to the Hallel Psalms (113-118) sung at the close of the Passover meal.", "contested": false},
+      {"source": "2 Samuel 15:30", "type": "echo", "confidence": "low", "note": "going out to the Mount of Olives (v30) faintly recalls David ascending Olivet weeping as he flees betrayal by Ahithophel, a betrayer-companion type.", "contested": true}
+    ]
+  },
+  {
+    "id": "26.7",
+    "ch": 26,
+    "ref": "26:31-35",
+    "echoes": [
+      {"source": "Zechariah 13:7", "type": "quotation", "confidence": "high", "note": "'I will strike the shepherd, and the sheep of the flock will be scattered' (v31) is a formula-introduced ('it is written') citation of Zechariah; the smitten shepherd and scattered flock script the disciples' desertion.", "contested": false},
+      {"source": "Ezekiel 34:5", "type": "echo", "confidence": "medium", "note": "'they were scattered because there was no shepherd' supplies the broader scattered-flock-without-shepherd motif that the Zechariah citation concentrates.", "contested": false},
+      {"source": "1 Kings 22:17", "type": "echo", "confidence": "low", "note": "'I saw all Israel scattered on the mountains, as sheep that have no shepherd' is a parallel image of leaderless dispersal behind v31.", "contested": true},
+      {"source": "Numbers 27:17", "type": "echo", "confidence": "low", "note": "the prayer that Israel not be 'as sheep which have no shepherd' is the source idiom of the scattered flock.", "contested": true}
+    ]
+  },
+  {
+    "id": "26.8",
+    "ch": 26,
+    "ref": "26:36-46",
+    "echoes": [
+      {"source": "Psalm 42:5-6", "type": "allusion", "confidence": "high", "note": "'My soul is exceedingly sorrowful, even to death' (v38) echoes the psalmist's refrain 'Why are you cast down, O my soul?... my soul is cast down within me'; Jesus prays the lament psalter in the garden.", "contested": false},
+      {"source": "Psalm 43:5", "type": "allusion", "confidence": "high", "note": "the same refrain 'Why are you in despair, O my soul?' recurs in Ps 43:5, reinforcing the borrowed lament language of v38.", "contested": false},
+      {"source": "Isaiah 51:17", "type": "allusion", "confidence": "high", "note": "'let this cup pass away from me' (v39) draws on the prophetic 'cup of staggering / cup of his wrath' that Jerusalem must drink; Jesus shrinks from and then accepts the cup of divine judgment.", "contested": false},
+      {"source": "Psalm 75:8", "type": "allusion", "confidence": "medium", "note": "'in the hand of the LORD there is a cup... the wicked of the earth shall drain it' supplies the cup-of-wrath image behind 'this cup' (vv39,42).", "contested": false},
+      {"source": "Jeremiah 25:15-16", "type": "echo", "confidence": "medium", "note": "the 'cup of the wine of wrath' given to the nations to drink reinforces the cup Jesus must drink as the cup of judgment.", "contested": false},
+      {"source": "Jonah 4:9", "type": "echo", "confidence": "low", "note": "'I am angry enough to die' / sorrowful unto death offers a parallel to the 'sorrowful even to death' idiom of v38.", "contested": true},
+      {"source": "Isaiah 31:3", "type": "echo", "confidence": "low", "note": "'the Egyptians are men and not God, and their horses flesh and not spirit' lies behind the spirit/flesh antithesis of v41 ('the flesh is weak').", "contested": true},
+      {"source": "2 Samuel 15:31", "type": "echo", "confidence": "low", "note": "David praying on Olivet as Ahithophel betrays him parallels Jesus praying on the Mount of Olives amid betrayal.", "contested": true}
+    ]
+  },
+  {
+    "id": "26.9",
+    "ch": 26,
+    "ref": "26:47-56",
+    "echoes": [
+      {"source": "Psalm 41:9", "type": "allusion", "confidence": "medium", "note": "Judas' kiss of greeting from 'one of the twelve' (vv48-49) consummates the betrayal by the table-companion of v23, the friend who ate bread and lifted his heel.", "contested": false},
+      {"source": "2 Samuel 20:9-10", "type": "echo", "confidence": "medium", "note": "Joab taking Amasa's beard to kiss him while stabbing him is the classic treacherous-kiss type behind Judas' 'Hail, Rabbi!' and kiss.", "contested": false},
+      {"source": "Proverbs 27:6", "type": "echo", "confidence": "low", "note": "'the kisses of an enemy are deceitful' is the proverbial frame for the betraying kiss.", "contested": true},
+      {"source": "Genesis 9:6", "type": "echo", "confidence": "medium", "note": "'all those who take the sword will die by the sword' (v52) restates the lex talionis principle 'whoever sheds man's blood, by man shall his blood be shed.'", "contested": false},
+      {"source": "Daniel 7:10", "type": "echo", "confidence": "low", "note": "'more than twelve legions of angels' (v53) at the Father's command evokes the Danielic heavenly host, 'thousand thousands ministered to him.'", "contested": true},
+      {"source": "2 Kings 6:17", "type": "echo", "confidence": "low", "note": "the unseen heavenly army (horses and chariots of fire) available to Elisha parallels the legions of angels Jesus declines to summon.", "contested": true},
+      {"source": "Isaiah 53:7-12", "type": "figural", "confidence": "medium", "note": "'that the Scriptures of the prophets might be fulfilled' (v56) and Jesus' nonresistance enact the Servant led without protest and 'numbered with transgressors' ('as against a robber').", "contested": false},
+      {"source": "Zechariah 13:7", "type": "echo", "confidence": "medium", "note": "'all the disciples left him, and fled' (v56) fulfills the scattering of the sheep predicted from Zechariah at v31.", "contested": false}
+    ]
+  },
+  {
+    "id": "26.10",
+    "ch": 26,
+    "ref": "26:57-68",
+    "echoes": [
+      {"source": "Daniel 7:13", "type": "quotation", "confidence": "high", "note": "'you will see the Son of Man... coming on the clouds of the sky' (v64) cites Daniel's vision of 'one like a son of man' coming 'with the clouds of heaven'; this self-identification triggers the blasphemy charge.", "contested": false},
+      {"source": "Psalm 110:1", "type": "quotation", "confidence": "high", "note": "'the Son of Man sitting at the right hand of Power' (v64) fuses Daniel 7:13 with 'Sit at my right hand'; the conflated citation is the climactic christological claim of the trial.", "contested": false},
+      {"source": "Isaiah 53:7", "type": "allusion", "confidence": "high", "note": "'But Jesus held his peace' (v63) enacts the Servant who 'was oppressed... yet he opened not his mouth; as a lamb that is led to the slaughter... so he opened not his mouth.'", "contested": false},
+      {"source": "Isaiah 50:6", "type": "allusion", "confidence": "high", "note": "'they spit in his face and beat him with their fists, and some slapped him' (v67) closely parallels 'I gave my back to the smiters... I did not hide my face from shame and spitting.'", "contested": false},
+      {"source": "Psalm 27:12", "type": "allusion", "confidence": "medium", "note": "'false witnesses against Jesus' (v59) draws on 'false witnesses have risen up against me, and such as breathe out cruelty,' the lament of the righteous slandered in court.", "contested": false},
+      {"source": "Psalm 35:11", "type": "allusion", "confidence": "medium", "note": "'malicious witnesses rise up; they ask me of things I know not' supplies the false-testimony motif of vv59-60.", "contested": false},
+      {"source": "Micah 5:1", "type": "echo", "confidence": "medium", "note": "'they will strike the judge of Israel with a rod on the cheek' anticipates the slapping and mocking of the Christ in vv67-68.", "contested": false},
+      {"source": "Leviticus 24:16", "type": "echo", "confidence": "medium", "note": "'He is worthy of death!' (v66) on a charge of blasphemy applies the Torah penalty 'he who blasphemes the name of the LORD shall surely be put to death.'", "contested": false},
+      {"source": "Leviticus 21:10", "type": "echo", "confidence": "medium", "note": "the high priest tearing his clothing (v65) ironically violates the priestly prohibition 'he shall not... tear his clothes,' marking the trial's perversion of office.", "contested": false},
+      {"source": "Daniel 9:26", "type": "echo", "confidence": "low", "note": "the charge of destroying the temple (v61) faintly resonates with Daniel's anointed one cut off and the sanctuary's destruction.", "contested": true},
+      {"source": "Psalm 38:13-14", "type": "echo", "confidence": "low", "note": "'I, like a deaf man, do not hear... in whose mouth are no rebukes' parallels Jesus' silence before accusation (v63).", "contested": true}
+    ]
+  },
+  {
+    "id": "26.11",
+    "ch": 26,
+    "ref": "26:69-75",
+    "echoes": [
+      {"source": "Proverbs 29:25", "type": "echo", "confidence": "low", "note": "'The fear of man brings a snare' frames Peter's collapse before a servant girl and bystanders, denying out of fear.", "contested": true},
+      {"source": "Zechariah 13:7", "type": "echo", "confidence": "low", "note": "Peter's threefold denial completes the scattering of the smitten shepherd's sheep (v31), the boldest of the flock falling away.", "contested": true},
+      {"source": "Isaiah 22:4", "type": "echo", "confidence": "low", "note": "'let me weep bitterly' offers a faint scriptural cadence for Peter who 'went out and wept bitterly' (v75).", "contested": true}
+    ]
+  }
+]

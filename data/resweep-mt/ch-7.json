@@ -1,0 +1,126 @@
+[
+  {
+    "id": "7.1",
+    "ch": 7,
+    "ref": "7:1-5",
+    "echoes": [
+      {"source": "Leviticus 19:15", "type": "echo", "confidence": "medium", "note": "The Holiness Code's demand for righteous, unbiased judgment ('you shall not be partial... but in righteousness shall you judge') underlies Jesus' critique of hypocritical, self-exempting judging.", "contested": false},
+      {"source": "Leviticus 19:17-18", "type": "echo", "confidence": "medium", "note": "Reproof of 'your brother/neighbor' without bearing sin or grudge frames the speck-and-beam logic: correction must be cleansed of self-righteousness; 'brother' language matches Lev's love-of-neighbor unit.", "contested": false},
+      {"source": "2 Samuel 12:5-7", "type": "echo", "confidence": "medium", "note": "Nathan's 'You are the man!' — David condemns another's sin while blind to his own — is the narrative archetype of judging with a beam in one's eye.", "contested": true},
+      {"source": "Psalm 18:25-26", "type": "echo", "confidence": "low", "note": "Measure-for-measure principle ('with the merciful you show yourself merciful... with the crooked, shrewd'): God deals back in kind, echoed in 'with whatever measure you measure, it will be measured to you.'", "contested": true},
+      {"source": "Proverbs 20:22", "type": "echo", "confidence": "low", "note": "'Do not say, I will repay evil; wait for the LORD' — leaving recompense to God, the disposition behind 'judge not, that you be not judged.'", "contested": true},
+      {"source": "Wisdom 12:22", "type": "echo", "confidence": "low", "note": "God judges with measured forbearance so the righteous learn to be kind; a Second Temple articulation of the reciprocal-measure ethic.", "contested": true},
+      {"source": "Sirach 28:1-7", "type": "echo", "confidence": "medium", "note": "'Forgive your neighbor the wrong... and then your sins will be pardoned' — the reciprocity of judgment/forgiveness in wisdom tradition closely parallels 7:1-2.", "contested": true}
+    ]
+  },
+  {
+    "id": "7.2",
+    "ch": 7,
+    "ref": "7:6",
+    "echoes": [
+      {"source": "Proverbs 23:9", "type": "echo", "confidence": "medium", "note": "'Do not speak in the hearing of a fool, for he will despise the wisdom of your words' — withholding precious teaching from those who will only scorn it parallels not casting pearls before swine.", "contested": false},
+      {"source": "Proverbs 9:7-8", "type": "echo", "confidence": "medium", "note": "Correcting a scoffer brings abuse ('reprove a scoffer and he will hate you'); the rebuffing 'dogs' who 'turn and tear you' echoes the futility of instructing scorners.", "contested": true},
+      {"source": "Proverbs 11:22", "type": "echo", "confidence": "low", "note": "A gold ring in a swine's snout — wisdom tradition's pairing of something precious with a pig as image of incongruity.", "contested": true},
+      {"source": "Leviticus 22:10-16", "type": "figural", "confidence": "low", "note": "'That which is holy' (qodesh) — sacred offerings forbidden to the unconsecrated/profane — supplies cultic background for not giving the holy to dogs.", "contested": true},
+      {"source": "Exodus 22:31", "type": "echo", "confidence": "low", "note": "Sacred meat is to be thrown to the dogs as the antithesis of holy use; the dog as the unclean recipient of holy things underlies the saying's logic.", "contested": true}
+    ]
+  },
+  {
+    "id": "7.3",
+    "ch": 7,
+    "ref": "7:7-11",
+    "echoes": [
+      {"source": "Jeremiah 29:13", "type": "allusion", "confidence": "medium", "note": "'You will seek me and find me, when you seek me with all your heart' — the seek/find promise behind 'Seek, and you will find.'", "contested": false},
+      {"source": "Deuteronomy 4:29", "type": "echo", "confidence": "medium", "note": "'From there you will seek the LORD your God and you will find him, if you search with all your heart' — covenantal seek-and-find assurance.", "contested": false},
+      {"source": "Proverbs 8:17", "type": "echo", "confidence": "medium", "note": "Wisdom: 'those who seek me diligently find me' — the wisdom-tradition seek/find topos applied to prayer.", "contested": false},
+      {"source": "Isaiah 55:6", "type": "echo", "confidence": "medium", "note": "'Seek the LORD while he may be found, call upon him while he is near' — seeking and calling that meet divine availability.", "contested": false},
+      {"source": "Psalm 145:18-19", "type": "echo", "confidence": "medium", "note": "'The LORD is near to all who call on him... he fulfills the desire of those who fear him' — the Father's reliable response to those who ask.", "contested": false},
+      {"source": "Isaiah 49:15", "type": "echo", "confidence": "low", "note": "A mother cannot forget her nursing child — the a fortiori of parental compassion ('how much more your Father') has prophetic precedent.", "contested": true},
+      {"source": "Psalm 103:13", "type": "echo", "confidence": "medium", "note": "'As a father has compassion on his children, so the LORD has compassion' — the very father-to-children analogy of 7:11.", "contested": false},
+      {"source": "Sirach 35:13-15", "type": "echo", "confidence": "low", "note": "God hears the prayer of the wronged and does not ignore supplication — Second Temple confidence in answered petition.", "contested": true}
+    ]
+  },
+  {
+    "id": "7.4",
+    "ch": 7,
+    "ref": "7:12",
+    "echoes": [
+      {"source": "Leviticus 19:18", "type": "allusion", "confidence": "high", "note": "'You shall love your neighbor as yourself' — the Golden Rule reformulates the command Jesus elsewhere names as summing the Law (Mt 22:39-40), here explicitly 'the law and the prophets.'", "contested": false},
+      {"source": "Tobit 4:15", "type": "allusion", "confidence": "high", "note": "'What you hate, do to no one' — the negative form of the Golden Rule in the deuterocanon; the closest verbal precedent to 7:12's reciprocity maxim.", "contested": false},
+      {"source": "Leviticus 19:34", "type": "echo", "confidence": "low", "note": "Extension of neighbor-love to the resident alien ('love him as yourself') broadens the rule's scope to 'men' generally.", "contested": true},
+      {"source": "Sirach 31:15", "type": "echo", "confidence": "medium", "note": "'Judge your neighbor's feelings by your own' — wisdom-tradition empathic reciprocity anticipating the Golden Rule.", "contested": true}
+    ]
+  },
+  {
+    "id": "7.5",
+    "ch": 7,
+    "ref": "7:13-14",
+    "echoes": [
+      {"source": "Deuteronomy 30:15-19", "type": "allusion", "confidence": "high", "note": "The Mosaic 'two ways' — life and good vs. death and evil, with the call to 'choose life' — is the foundational template for the two gates/ways leading to life or destruction.", "contested": false},
+      {"source": "Jeremiah 21:8", "type": "allusion", "confidence": "high", "note": "'I set before you the way of life and the way of death' — the explicit prophetic 'way of life / way of death' formula behind 7:13-14.", "contested": false},
+      {"source": "Psalm 1:6", "type": "allusion", "confidence": "medium", "note": "'The LORD knows the way of the righteous, but the way of the wicked will perish' — the two-ways frame (the same Psalm informs 7:17-19 on trees/fruit).", "contested": false},
+      {"source": "Proverbs 4:18-19", "type": "echo", "confidence": "medium", "note": "The path of the righteous vs. the way of the wicked who stumble in darkness — wisdom's contrasted ways.", "contested": false},
+      {"source": "Proverbs 14:12", "type": "echo", "confidence": "medium", "note": "'There is a way that seems right to a man, but its end is the way to death' — the broad way that 'leads to destruction.'", "contested": false},
+      {"source": "Sirach 21:10", "type": "echo", "confidence": "low", "note": "'The way of sinners is smoothly paved... but at its end is the pit of Hades' — Second Temple two-ways with a broad/smooth road to destruction.", "contested": true},
+      {"source": "Deuteronomy 11:26-28", "type": "echo", "confidence": "low", "note": "The blessing-and-curse alternative set before Israel reinforces the binary-choice structure.", "contested": true}
+    ]
+  },
+  {
+    "id": "7.6",
+    "ch": 7,
+    "ref": "7:15-20",
+    "echoes": [
+      {"source": "Ezekiel 22:27", "type": "allusion", "confidence": "medium", "note": "Israel's princes are 'like wolves tearing the prey' for gain — the predatory-wolf image for corrupt leaders, here the false prophets 'inwardly ravening wolves.'", "contested": false},
+      {"source": "Zephaniah 3:3-4", "type": "echo", "confidence": "medium", "note": "Judah's officials are 'roaring lions,' her judges 'evening wolves,' her prophets 'treacherous' — prophets/leaders as wolves cloaking treachery.", "contested": false},
+      {"source": "Jeremiah 23:16-22", "type": "echo", "confidence": "medium", "note": "Warning against false prophets who speak from their own minds, not the LORD; the test of true vs. false prophecy frames 'beware of false prophets.'", "contested": false},
+      {"source": "Deuteronomy 13:1-5", "type": "echo", "confidence": "medium", "note": "The Torah test for a false prophet who leads astray though signs come true — background to discerning prophets 'by their fruits.'", "contested": false},
+      {"source": "Deuteronomy 18:20-22", "type": "echo", "confidence": "low", "note": "The criterion for distinguishing the prophet who speaks presumptuously — judging the prophet by outcome/fruit.", "contested": true},
+      {"source": "Psalm 1:3", "type": "allusion", "confidence": "medium", "note": "The righteous as a tree yielding its fruit in season vs. the wicked as chaff — the good-tree/good-fruit and judgment imagery of Ps 1 underlies 7:17-19.", "contested": false},
+      {"source": "Jeremiah 17:8", "type": "echo", "confidence": "medium", "note": "The one trusting the LORD is a tree by water that 'does not cease to bear fruit' — fruitfulness as the mark of right relation to God.", "contested": false},
+      {"source": "Isaiah 5:1-7", "type": "echo", "confidence": "medium", "note": "The vineyard yielding wild/bad grapes instead of good is judged and destroyed — bad fruit signaling false standing and impending judgment.", "contested": false},
+      {"source": "Hosea 9:16", "type": "echo", "confidence": "low", "note": "Ephraim 'blighted, their root dried up, they shall bear no fruit' — fruitlessness as ground for being cut off.", "contested": true},
+      {"source": "Malachi 4:1", "type": "echo", "confidence": "low", "note": "The coming day burns the evildoers like stubble; 'every tree that doesn't grow good fruit is... thrown into the fire' shares the burning-judgment image.", "contested": true},
+      {"source": "Ezekiel 47:12", "type": "echo", "confidence": "low", "note": "Trees whose fruit is for food, leaves for healing — the eschatological good-tree image as foil to the corrupt tree.", "contested": true},
+      {"source": "Sirach 27:6", "type": "echo", "confidence": "low", "note": "'The fruit discloses the cultivation of a tree, so the expression of a thought discloses the heart' — wisdom maxim that fruit reveals inner character.", "contested": true}
+    ]
+  },
+  {
+    "id": "7.7",
+    "ch": 7,
+    "ref": "7:21-23",
+    "echoes": [
+      {"source": "Psalm 6:8", "type": "allusion", "confidence": "high", "note": "'Depart from me, all you workers of iniquity' — verbatim source of Jesus' dismissal sentence in 7:23.", "contested": false},
+      {"source": "Jeremiah 14:14", "type": "echo", "confidence": "medium", "note": "Prophets prophesy lies 'in my name' though the LORD did not send them — 'didn't we prophesy in your name?' echoes false prophecy claiming the divine name.", "contested": false},
+      {"source": "Jeremiah 27:15", "type": "echo", "confidence": "low", "note": "'They prophesy falsely in my name' — the divine repudiation of those who invoke God's name without commission.", "contested": true},
+      {"source": "Numbers 16:5", "type": "echo", "confidence": "low", "note": "'The LORD will make known who is his' — the motif of God knowing/owning his own, inverted in 'I never knew you.'", "contested": true},
+      {"source": "Psalm 1:6", "type": "echo", "confidence": "low", "note": "'The LORD knows the way of the righteous' — divine 'knowing' as covenantal acknowledgment, denied to the iniquitous in 7:23.", "contested": true},
+      {"source": "Hosea 8:2-3", "type": "echo", "confidence": "low", "note": "Israel cries 'My God, we know you!' yet has spurned the good — claiming acquaintance with God while doing iniquity, repudiated.", "contested": true}
+    ]
+  },
+  {
+    "id": "7.8",
+    "ch": 7,
+    "ref": "7:24-27",
+    "echoes": [
+      {"source": "Proverbs 10:25", "type": "allusion", "confidence": "medium", "note": "'When the storm passes, the wicked is no more, but the righteous is established forever' — the storm that sweeps away the unfounded vs. the firmly founded, the core contrast of the two builders.", "contested": false},
+      {"source": "Proverbs 12:7", "type": "echo", "confidence": "medium", "note": "'The wicked are overthrown and are no more, but the house of the righteous will stand' — the standing vs. falling house image.", "contested": false},
+      {"source": "Ezekiel 13:10-16", "type": "allusion", "confidence": "medium", "note": "False prophets build a wall and daub it with whitewash; rain, hailstones and wind break it down so it falls — the rain/flood/wind destroying a poorly founded structure, directly behind the collapsing house. (Links the false-prophet warning of 7:15 to its judgment.)", "contested": false},
+      {"source": "Isaiah 28:16-17", "type": "allusion", "confidence": "medium", "note": "God lays a tested foundation stone; hail sweeps away the refuge of lies, waters overflow the shelter — the secure foundation vs. the false refuge swept by flood.", "contested": false},
+      {"source": "Psalm 1:1-6", "type": "echo", "confidence": "medium", "note": "Hearing-and-doing vs. hearing-only mirrors the righteous (rooted, enduring) vs. the wicked (chaff driven away, not standing in judgment).", "contested": false},
+      {"source": "Deuteronomy 30:15-20", "type": "echo", "confidence": "low", "note": "Doing the words of the covenant yields life and stability — the hear-and-do framing of blessing/endurance.", "contested": true},
+      {"source": "Job 8:14-15", "type": "echo", "confidence": "low", "note": "The godless one's confidence is a spider's web; he leans on his house and it does not stand — the collapsing house of the one without firm trust.", "contested": true},
+      {"source": "Proverbs 24:3", "type": "echo", "confidence": "low", "note": "'By wisdom a house is built, and by understanding it is established' — the wise builder whose house stands.", "contested": true},
+      {"source": "Ezekiel 33:30-32", "type": "echo", "confidence": "low", "note": "Those who hear God's words but do not do them — hearing without doing, the foolish builder's failing.", "contested": true}
+    ]
+  },
+  {
+    "id": "7.9",
+    "ch": 7,
+    "ref": "7:28-29",
+    "echoes": [
+      {"source": "Deuteronomy 18:15-18", "type": "figural", "confidence": "medium", "note": "The promised prophet like Moses in whose mouth God puts his words — Jesus teaching 'with authority, not like the scribes' presents him as that authoritative prophetic voice, fitting Matthew's new-Moses framing of the Sermon.", "contested": false},
+      {"source": "Deuteronomy 5:22", "type": "echo", "confidence": "low", "note": "The people's awe at the words spoken from Sinai parallels the multitudes 'astonished at his teaching' on the mountain.", "contested": true},
+      {"source": "Exodus 24:3", "type": "echo", "confidence": "low", "note": "The people respond as Moses delivers the LORD's words; the crowd's reaction frames Jesus' Sermon as a covenant-law delivery from the mount.", "contested": true}
+    ]
+  }
+]

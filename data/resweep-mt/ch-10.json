@@ -1,0 +1,324 @@
+[
+  {
+    "id": "10.1",
+    "ch": 10,
+    "ref": "10:1-4",
+    "echoes": [
+      {
+        "source": "Genesis 49:28",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The number Twelve is the structuring datum of the apostle list. Jacob's twelve sons becoming the twelve tribes is the obvious typological template: Jesus constitutes a renewed Israel of twelve, an eschatological re-founding of the people (cf. Mt 19:28, the Twelve judging the twelve tribes). The figural reading is widely held.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 24:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Moses builds an altar with twelve pillars 'according to the twelve tribes of Israel' at the covenant ratification. The setting-apart of twelve representatives at a covenant moment is a thematic analogue to the appointment of the Twelve; faint and dependent on the broader twelve-tribe pattern.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 1:44",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The census appoints twelve tribal leaders, 'every one for the house of his fathers.' A possible background for the twelve named representatives commissioned for a task on Israel's behalf, but the link is purely numerical and structural.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.2",
+    "ch": 10,
+    "ref": "10:5-15",
+    "echoes": [
+      {
+        "source": "Jeremiah 50:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'My people have been lost sheep' (Jer 50:6) supplies the exact image and idiom behind 'the lost sheep of the house of Israel' (10:6). The phrase is a deliberate scriptural designation of Israel as a flock gone astray under failed shepherds, which the mission of the Twelve is sent to gather.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 34:5-6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Ezekiel's flock 'scattered because there was no shepherd' and the sheep that 'wandered through all the mountains' is the controlling background for Israel-as-lost-sheep. Ezek 34:16, 'I will seek that which was lost,' frames the apostolic mission as God's promised search for the strays.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 27:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Israel as a congregation 'as sheep which have no shepherd,' Moses' prayer for a successor. Matthew uses this very phrase at 9:36 immediately before this commissioning, so it bleeds directly into the 'lost sheep' rationale for sending the Twelve.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'All we like sheep have gone astray.' Reinforces the lost-sheep idiom for Israel's straying, though without the verbal specificity of Jeremiah or Ezekiel.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 19:24-25",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Sodom and Gomorrah' (10:15) names the archetypal city of judgment whose destruction by fire becomes the proverbial worst-case fate. Jesus says it will be 'more tolerable' for them than for a town that rejects the apostles — a direct invocation of the Genesis paradigm of inhospitality and overthrow.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:1-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The hospitality/inhospitality axis governing the worthy-household and shake-off-the-dust instructions (10:11-15) culminates in the Sodom comparison; Abraham's reception of the visitors vs. Sodom's refusal is the implicit contrast. The sin of Sodom as failed hospitality (cf. Ezek 16:49) underlies the whole judgment logic.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 12:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Passover departure 'with your staff in your hand' and sandals on, ready to travel light, sits in ironic counterpoint to the mission's stripping away of staff, sandals (in the Markan form), and provisions. A possible inversion of the exodus travel kit, but the parallel is contested and the Matthean list differs.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 4:29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elisha sends Gehazi with staff and the urgent command not to greet anyone on the road — a prophetic-commission travel instruction with the same terse, single-minded haste as the mission charge. Faint and disputed.",
+        "contested": true
+      },
+      {
+        "source": "Nehemiah 5:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Nehemiah shakes out the fold of his garment as a prophetic sign-act of rejection and curse against those who break faith. A possible cultural background for 'shake off the dust from your feet' (10:14) as a gesture of testimony against, though the dust-of-the-feet gesture is not identical.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.3",
+    "ch": 10,
+    "ref": "10:16-23",
+    "echoes": [
+      {
+        "source": "Genesis 3:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Be wise as serpents' (10:16) trades on the serpent of Eden being 'more subtle/cunning than any beast of the field.' Jesus redeems the proverbial shrewdness of the serpent for the disciples' survival among hostile men; the verbal link to the Genesis serpent's craftiness is the most natural source.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 22:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Israel's predatory leaders are 'like wolves ravening the prey.' Combined with Zeph 3:3 this supplies the biblical 'wolves' menacing the flock, now the danger the sheep-disciples are sent into the midst of (10:16).",
+        "contested": true
+      },
+      {
+        "source": "Zephaniah 3:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Her princes within her are roaring lions; her judges are evening wolves.' Reinforces the wolves-among-the-flock danger and specifically locates the threat in officials and judges — apt for 10:17-18, the councils, governors, and kings before whom disciples are dragged.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 13:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'What fellowship has the wolf with the lamb? No more has the sinner with the godly.' Second Temple wisdom uses the wolf/lamb pairing precisely for the irreconcilable hostility between the righteous and the wicked — close to the 'sheep among wolves' logic of the persecuted mission.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 1:7-9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God's promise to the prophet sent to kings and nations — 'I have put my words in your mouth' — is the prophetic-call template behind 10:19-20: do not be anxious what to say, for it will be given you in that hour; it is the Spirit of your Father speaking in you. The handing-over of words to a divinely commissioned spokesman before hostile rulers is the same scene.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I will be with your mouth and teach you what you shall speak.' Moses' commissioning, where God overrides the inadequate speaker by supplying the very words, is the foundational background for 'it will be given you in that hour what you will say' and 'it is not you who speak' (10:19-20).",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 23:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Spirit of the LORD spoke by me, and his word was in my tongue.' David's last words present the same pattern of the Spirit speaking through a human mouth, a faint background for the Spirit of the Father speaking in the disciples (10:20).",
+        "contested": true
+      },
+      {
+        "source": "Micah 7:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The son dishonoreth the father... a man's enemies are the men of his own house.' Micah's portrait of the collapse of household loyalty in a day of distress stands behind 10:21 ('brother will deliver up brother to death, and the father his child; children will rise up against parents'). The same text is quoted more fully at 10:35-36; here it surfaces in the persecution context of intra-familial betrayal unto death.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:12-13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Blessed is he that waiteth and cometh... thou shalt rest, and stand in thy lot at the end of the days.' Daniel's eschatological endurance-to-the-end-and-be-vindicated theme underlies 10:22, 'he who endures to the end will be saved,' set amid tribulation.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'One like a son of man came with the clouds of heaven.' 10:23, 'until the Son of Man has come,' draws its title and its coming-in-judgment expectation from Daniel's vision; the apocalyptic horizon of the persecution sayings is Danielic.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "10.4",
+    "ch": 10,
+    "ref": "10:24-25",
+    "echoes": [
+      {
+        "source": "2 Kings 1:2-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Beelzebul' (10:25) derives from Baal-zebub, the god of Ekron whom Ahaziah consults. The name of the rejected foreign deity becomes the slander hurled at 'the master of the house'; the disciples should expect the same naming, 'how much more those of his household.'",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "10.5",
+    "ch": 10,
+    "ref": "10:26-31",
+    "echoes": [
+      {
+        "source": "Isaiah 8:12-13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Neither fear ye their fear... Sanctify the LORD of hosts himself; and let him be your fear.' Isaiah's command to fear God rather than the conspiracy of men is the precise logic of 10:28: do not fear those who kill the body, but fear him who can destroy soul and body. The double 'do not fear / rather fear' structure is Isaianic.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 7:31-32",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Gehenna' (10:28) is the valley of Hinnom (Topheth), the site of child-sacrifice that Jeremiah declares will become 'the valley of slaughter.' The OT condemnation of this valley as the place of fiery judgment supplies the term for the place where God can destroy both soul and body.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 23:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Josiah defiles Topheth in the valley of the children of Hinnom so none could pass a child through fire to Molech. Reinforces the Gehenna background as the defiled valley of fire that becomes the figure of final destruction (10:28).",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 14:45",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'There shall not one hair of his head fall to the ground.' The idiom of every hair guarded as a token of total providential protection (cf. 2 Sam 14:11; 1 Kgs 1:52) lies directly behind 10:30, 'the very hairs of your head are all numbered,' assuring the disciples of God's exhaustive care amid persecution.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 56:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God keeps count of the sufferer's wanderings and bottles his tears. A thematic analogue to the divine bookkeeping of hairs and the fall of sparrows (10:29-31) — God's minute attention to the afflicted — though without verbal overlap.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 1:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The fear of the LORD is the beginning of knowledge.' The wisdom maxim that proper fear is owed to God alone undergirds the redirection of fear in 10:28, but the connection is general rather than verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.6",
+    "ch": 10,
+    "ref": "10:32-33",
+    "echoes": [
+      {
+        "source": "Psalm 119:46",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will speak of thy testimonies also before kings, and will not be ashamed.' A faint analogue to confessing Christ before men without shame (10:32), continuous with the 'testimony before governors and kings' of 10:18. Disputed and thematic only.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.7",
+    "ch": 10,
+    "ref": "10:34-39",
+    "echoes": [
+      {
+        "source": "Micah 7:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "10:35-36 is a near-verbatim rendering of Micah 7:6: 'the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man's enemies are the men of his own house.' Matthew reproduces the three paired antagonisms (father/son here as father, daughter/mother, daughter-in-law/mother-in-law) and the climactic 'a man's foes will be those of his own household' almost word for word. This is the strongest, formula-grade allusion in the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 33:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Levi 'said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren... for they have observed thy word.' The blessing praises placing covenant loyalty above family bonds — the same demand as 10:37, loving God above father, mother, son, daughter. A recognized OT precedent for cult loyalty overriding kinship.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 32:27-29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Levites slay brother, companion, and neighbor at Moses' command and are thereby 'consecrated.' A harsh background for loyalty to God dividing even kin (10:34-37); thematically apt but lexically distant and contested.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 22:1-12",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The Aqedah — Abraham not withholding his son for the sake of God — is a possible figural backdrop to 'he who loves son or daughter more than me is not worthy of me' (10:37): supreme love of God above the dearest child. Suggestive typology rather than verbal echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.8",
+    "ch": 10,
+    "ref": "10:40-42",
+    "echoes": [
+      {
+        "source": "1 Kings 17:9-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The widow of Zarephath receives the prophet Elijah and is rewarded with sustained meal and oil and her son's restoration. This is the paradigm narrative for 10:41, 'he who receives a prophet in the name of a prophet will receive a prophet's reward' — hospitality to God's messenger drawing the messenger's blessing.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:8-37",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Shunammite woman receives Elisha, builds him a room, and is rewarded with a son and his resurrection. Together with the Zarephath account this supplies the OT pattern that receiving a prophet yields a prophet's reward (10:41).",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:42-44",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The man who brings provisions to Elisha and 'the servant of the prophet' setting it before the people — a faint analogue to ministering to God's agents and not losing one's reward (10:42), within the same Elisha hospitality cycle.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 25:21-22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Giving the thirsty water to drink as a rewarded act of mercy is a wisdom analogue to 'a cup of cold water... he will in no way lose his reward' (10:42), though the proverb concerns an enemy. Thematic and disputed.",
+        "contested": true
+      }
+    ]
+  }
+]

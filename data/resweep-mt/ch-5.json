@@ -1,0 +1,185 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-12",
+    "echoes": [
+      {"source": "Exodus 19:3", "type": "figural", "confidence": "high", "note": "Jesus 'went up onto the mountain' to teach Torah, evoking Moses ascending Sinai to receive the law; Matthew presents a new-Moses giving authoritative instruction from a mountain.", "contested": false},
+      {"source": "Exodus 24:12", "type": "figural", "confidence": "medium", "note": "Moses summoned up the mountain to receive the tablets of law and commandment; the Sermon's mountain setting figurally recasts the giving of Torah.", "contested": false},
+      {"source": "Deuteronomy 5:1", "type": "figural", "confidence": "medium", "note": "Moses assembles and teaches Israel the statutes; the seated Teacher addressing disciples mirrors the Mosaic instruction frame.", "contested": true},
+      {"source": "Psalm 37:11", "type": "allusion", "confidence": "high", "note": "'The gentle/meek shall inherit the earth/land' is a near-verbatim echo of LXX Ps 36:11 (Ps 37:11), the clearest single source behind the third beatitude.", "contested": false},
+      {"source": "Isaiah 61:1-3", "type": "allusion", "confidence": "high", "note": "Isaiah's anointed proclaims good news to the poor and comfort to all who mourn; multiple beatitudes (poor, mourning-comforted, righteousness) cluster on this Servant text, which Jesus elsewhere claims.", "contested": false},
+      {"source": "Isaiah 57:15", "type": "allusion", "confidence": "medium", "note": "God dwells with the contrite and lowly in spirit; 'poor in spirit' draws on this prophetic ideal of humble dependence on God.", "contested": false},
+      {"source": "Isaiah 66:2", "type": "allusion", "confidence": "medium", "note": "God regards the poor, contrite in spirit, who tremble at his word — background for 'blessed are the poor in spirit.'", "contested": false},
+      {"source": "Psalm 34:18", "type": "allusion", "confidence": "medium", "note": "The LORD is near the brokenhearted and saves the crushed in spirit; coheres with poor-in-spirit and those who mourn.", "contested": false},
+      {"source": "Isaiah 61:7", "type": "allusion", "confidence": "medium", "note": "The mourners shall possess a double portion and everlasting joy; reinforces the inheritance/reward logic of the beatitudes.", "contested": false},
+      {"source": "Psalm 24:3-4", "type": "allusion", "confidence": "high", "note": "'Who shall ascend the hill of the LORD? ... He who has clean hands and a pure heart' — direct source for 'blessed are the pure in heart, for they shall see God.'", "contested": false},
+      {"source": "Psalm 73:1", "type": "echo", "confidence": "medium", "note": "'God is good to the pure in heart' — recurrent Psalter theme behind the sixth beatitude.", "contested": false},
+      {"source": "Psalm 1:1", "type": "allusion", "confidence": "medium", "note": "'Blessed is the man...' — the makarism/beatitude form itself is rooted in the Psalter's wisdom blessing formula.", "contested": false},
+      {"source": "Psalm 32:1-2", "type": "echo", "confidence": "low", "note": "Beatitude-form blessing ('Blessed is the one whose transgression is forgiven'); shapes the genre of Jesus' blessings.", "contested": true},
+      {"source": "Isaiah 49:10", "type": "allusion", "confidence": "low", "note": "The redeemed 'shall not hunger nor thirst'; background for 'hunger and thirst after righteousness ... shall be filled.'", "contested": true},
+      {"source": "Psalm 107:5-9", "type": "echo", "confidence": "low", "note": "God satisfies the hungry and thirsty soul; coheres with the fourth beatitude's promise of being filled.", "contested": true},
+      {"source": "Proverbs 14:21", "type": "echo", "confidence": "low", "note": "'Blessed is he who is generous/merciful to the poor'; wisdom background for 'blessed are the merciful.'", "contested": true},
+      {"source": "Hosea 6:6", "type": "echo", "confidence": "medium", "note": "'I desire mercy'; the mercy-receives-mercy logic of the fifth beatitude resonates with Hosea, a text Matthew cites twice elsewhere.", "contested": false},
+      {"source": "Micah 6:8", "type": "echo", "confidence": "medium", "note": "To do justice, love mercy (hesed), walk humbly — clusters mercy, righteousness, and humility that pervade the beatitudes.", "contested": false},
+      {"source": "Psalm 17:15", "type": "allusion", "confidence": "medium", "note": "'I shall behold your face in righteousness' — beatific seeing of God promised to the pure in heart.", "contested": false},
+      {"source": "Genesis 32:30", "type": "echo", "confidence": "low", "note": "Jacob saw God face to face and lived; background to the extraordinary promise 'they shall see God.'", "contested": true},
+      {"source": "Daniel 7:18", "type": "allusion", "confidence": "medium", "note": "The saints of the Most High receive and possess the kingdom; underwrites 'theirs is the Kingdom of Heaven' (bracketing beatitudes 1 and 8).", "contested": false},
+      {"source": "Daniel 7:27", "type": "echo", "confidence": "low", "note": "Kingdom and dominion given to the people of the holy ones; reinforces the kingdom-inheritance frame.", "contested": true},
+      {"source": "2 Chronicles 20:7", "type": "echo", "confidence": "low", "note": "Israel as God's 'children'/friends; background for peacemakers 'called children of God.'", "contested": true},
+      {"source": "Hosea 1:10", "type": "allusion", "confidence": "medium", "note": "'You are children of the living God' — divine-sonship language behind 'they shall be called children of God.'", "contested": false},
+      {"source": "Psalm 34:14", "type": "allusion", "confidence": "medium", "note": "'Seek peace and pursue it'; the active peacemaking blessed in the seventh beatitude.", "contested": false},
+      {"source": "2 Chronicles 36:16", "type": "allusion", "confidence": "medium", "note": "Israel mocked and persecuted the prophets; basis for 'so they persecuted the prophets who were before you.'", "contested": false},
+      {"source": "1 Kings 19:10", "type": "echo", "confidence": "low", "note": "Elijah laments the slaying of the prophets; the persecuted-prophets motif of v.12.", "contested": false},
+      {"source": "Jeremiah 26:20-23", "type": "echo", "confidence": "low", "note": "The prophet Uriah killed for prophesying; concrete instance of persecuted prophets behind v.12.", "contested": true},
+      {"source": "Isaiah 51:7", "type": "allusion", "confidence": "medium", "note": "'Fear not the reproach of men' addressed to those with God's law in their heart — close parallel to being reproached/reviled for righteousness' sake.", "contested": false},
+      {"source": "Wisdom of Solomon 2:12-20", "type": "echo", "confidence": "medium", "note": "The wicked plot against the righteous one, reproaching and persecuting him to test his patience; Second Temple background for the persecuted-righteous beatitudes.", "contested": true},
+      {"source": "Sirach 48:1-12", "type": "echo", "confidence": "low", "note": "Elijah among the persecuted prophets; deuterocanonical recollection of the prophets' suffering invoked in v.12.", "contested": true},
+      {"source": "Psalm 126:5-6", "type": "echo", "confidence": "low", "note": "Those who sow in tears reap with joy; coheres with mourners being comforted and rejoicing.", "contested": true},
+      {"source": "Tobit 4:7", "type": "echo", "confidence": "low", "note": "Deuterocanonical exhortation to mercy/almsgiving that obtains divine favor; background to 'blessed are the merciful.'", "contested": true}
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:13-16",
+    "echoes": [
+      {"source": "Leviticus 2:13", "type": "allusion", "confidence": "medium", "note": "The 'salt of the covenant' required with every grain offering; salt as covenant-fidelity image behind 'you are the salt of the earth.'", "contested": false},
+      {"source": "Numbers 18:19", "type": "echo", "confidence": "medium", "note": "'A covenant of salt forever' — salt symbolizing enduring covenant loyalty, the failure of which (losing savor) is the warning.", "contested": false},
+      {"source": "2 Chronicles 13:5", "type": "echo", "confidence": "low", "note": "Davidic kingship given by a 'covenant of salt'; reinforces salt's covenantal connotation.", "contested": true},
+      {"source": "Isaiah 49:6", "type": "allusion", "confidence": "high", "note": "The Servant made 'a light to the nations/world' — direct background for 'you are the light of the world,' extending Israel's vocation to the disciples.", "contested": false},
+      {"source": "Isaiah 42:6", "type": "allusion", "confidence": "medium", "note": "The Servant given 'as a light to the nations'; reinforces the light-to-the-world commission.", "contested": false},
+      {"source": "Isaiah 60:1-3", "type": "allusion", "confidence": "medium", "note": "Zion's light arises and nations come to its brightness; a city/light that cannot be hidden draws on this eschatological imagery.", "contested": false},
+      {"source": "Isaiah 2:2-3", "type": "echo", "confidence": "medium", "note": "The mountain of the LORD's house lifted up, with nations streaming to it; 'a city set on a hill cannot be hidden' evokes the eschatological Zion.", "contested": false},
+      {"source": "Daniel 12:3", "type": "allusion", "confidence": "medium", "note": "The wise 'shall shine like the brightness of the firmament'; the radiance of the righteous behind 'let your light shine.'", "contested": false},
+      {"source": "Proverbs 4:18", "type": "echo", "confidence": "low", "note": "The path of the righteous is like the dawning light that grows brighter; wisdom image of righteous luminance.", "contested": true},
+      {"source": "Isaiah 58:8", "type": "echo", "confidence": "low", "note": "When justice is done, 'your light shall break forth like the dawn'; light as visible righteous deeds (cf. 'see your good works').", "contested": true},
+      {"source": "Isaiah 58:10", "type": "echo", "confidence": "low", "note": "Doing good to the afflicted causes one's light to rise in darkness — coheres with light shining through good works.", "contested": true}
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:17-20",
+    "echoes": [
+      {"source": "Deuteronomy 4:2", "type": "allusion", "confidence": "medium", "note": "Do not add to or take from the commandment; 'not one jot or tittle shall pass' affirms the law's inviolability in the same spirit.", "contested": false},
+      {"source": "Deuteronomy 13:1", "type": "echo", "confidence": "low", "note": "Warning against adding to or diminishing God's commands; background to the permanence of every least commandment.", "contested": true},
+      {"source": "Isaiah 40:8", "type": "allusion", "confidence": "medium", "note": "'The grass withers... but the word of our God stands forever'; heaven-and-earth-may-pass-but-the-law-endures echoes the abiding word.", "contested": false},
+      {"source": "Isaiah 51:6", "type": "allusion", "confidence": "medium", "note": "'The heavens shall vanish... but my salvation shall be forever' — direct background for 'until heaven and earth pass away, not one letter shall pass from the law.'", "contested": false},
+      {"source": "Psalm 119:89", "type": "echo", "confidence": "medium", "note": "'Forever, O LORD, your word is settled in the heavens'; the eternal stability of Torah affirmed in v.18.", "contested": false},
+      {"source": "Psalm 119:160", "type": "echo", "confidence": "low", "note": "'Every one of your righteous ordinances endures forever'; coheres with the permanence of the least commandments.", "contested": true},
+      {"source": "Baruch 4:1", "type": "echo", "confidence": "low", "note": "'The law... endures forever' — Second Temple affirmation of Torah's eternity behind v.18.", "contested": true},
+      {"source": "Malachi 3:7", "type": "echo", "confidence": "low", "note": "Call to keep and not depart from God's statutes; resonates with not breaking the least commandments.", "contested": true}
+    ]
+  },
+  {
+    "id": "5.4",
+    "ch": 5,
+    "ref": "5:21-26",
+    "echoes": [
+      {"source": "Exodus 20:13", "type": "quotation", "confidence": "high", "note": "'You shall not murder' — verbatim citation of the sixth commandment (Decalogue) introduced by the antithesis formula.", "contested": false},
+      {"source": "Deuteronomy 5:17", "type": "quotation", "confidence": "high", "note": "Parallel Decalogue form of 'You shall not murder'; the cited commandment stands in both Exodus and Deuteronomy.", "contested": false},
+      {"source": "Genesis 9:6", "type": "echo", "confidence": "low", "note": "Bloodshed brings judgment ('whoever sheds man's blood...'); background for 'whoever murders shall be liable to judgment.'", "contested": true},
+      {"source": "Numbers 35:30-31", "type": "echo", "confidence": "low", "note": "Mosaic law on the murderer being put to death by the court; 'liable to the judgment/council' draws on this judicial framework.", "contested": true},
+      {"source": "Deuteronomy 17:8-9", "type": "echo", "confidence": "low", "note": "Hard cases of bloodshed brought before judges/priests; the escalating tribunal (judgment, council) reflects Israel's courts.", "contested": true},
+      {"source": "Leviticus 19:17", "type": "allusion", "confidence": "medium", "note": "'You shall not hate your brother in your heart' — the interiorizing of murder into anger toward 'your brother' draws on the Holiness Code.", "contested": false},
+      {"source": "Leviticus 19:18", "type": "echo", "confidence": "low", "note": "Prohibition of grudge-bearing against one's kin; coheres with reconciling before offering one's gift.", "contested": true},
+      {"source": "Genesis 4:5-8", "type": "echo", "confidence": "medium", "note": "Cain's anger toward his brother culminating in murder is the archetype of the anger-to-murder continuum Jesus expounds.", "contested": false},
+      {"source": "Proverbs 6:34-35", "type": "echo", "confidence": "low", "note": "Wisdom on settling with one's adversary before wrath/ruin; background for 'agree with your adversary quickly... lest he hand you to the judge.'", "contested": true},
+      {"source": "Proverbs 25:8-9", "type": "echo", "confidence": "low", "note": "'Do not hastily bring to court... settle your case with your neighbor'; coheres with vv.25-26's counsel to reconcile en route.", "contested": true},
+      {"source": "Isaiah 1:11-17", "type": "echo", "confidence": "medium", "note": "God rejects sacrifice from those whose hands are unjust until they do right; prophetic priority of reconciliation over cultic gift (vv.23-24).", "contested": false},
+      {"source": "Amos 5:21-24", "type": "echo", "confidence": "low", "note": "God despises offerings divorced from justice; background to leaving one's gift to be reconciled first.", "contested": true}
+    ]
+  },
+  {
+    "id": "5.5",
+    "ch": 5,
+    "ref": "5:27-30",
+    "echoes": [
+      {"source": "Exodus 20:14", "type": "quotation", "confidence": "high", "note": "'You shall not commit adultery' — verbatim citation of the seventh commandment.", "contested": false},
+      {"source": "Deuteronomy 5:18", "type": "quotation", "confidence": "high", "note": "Parallel Decalogue form of the adultery prohibition.", "contested": false},
+      {"source": "Exodus 20:17", "type": "allusion", "confidence": "high", "note": "'You shall not covet your neighbor's wife' — the interiorizing of adultery into lustful looking draws directly on the coveting commandment.", "contested": false},
+      {"source": "Job 31:1", "type": "allusion", "confidence": "high", "note": "'I made a covenant with my eyes; how then could I gaze at a virgin?' — the closest parallel to lustful looking already being sin.", "contested": false},
+      {"source": "Job 31:7", "type": "echo", "confidence": "medium", "note": "If my heart followed my eyes — the eye-heart link Jesus develops ('looks with lust... in his heart').", "contested": false},
+      {"source": "Proverbs 6:25", "type": "allusion", "confidence": "medium", "note": "'Do not desire her beauty in your heart, nor let her capture you with her eyelashes' — wisdom on lust of the eyes/heart.", "contested": false},
+      {"source": "Genesis 39:7", "type": "echo", "confidence": "low", "note": "Potiphar's wife 'cast her eyes' on Joseph; the gaze-leading-to-adultery motif.", "contested": true},
+      {"source": "Sirach 9:8", "type": "echo", "confidence": "medium", "note": "'Turn away your eyes from a shapely woman... many have been led astray by a woman's beauty' — Second Temple wisdom on the lustful gaze.", "contested": true},
+      {"source": "Sirach 23:4-6", "type": "echo", "confidence": "low", "note": "Prayer against the lust of the eyes and sinful desire; coheres with guarding the eye against lust.", "contested": true},
+      {"source": "Deuteronomy 13:8-9", "type": "echo", "confidence": "low", "note": "Even a beloved relation must be cut off if leading to sin; background to the radical 'pluck out the eye, cut off the hand.'", "contested": true}
+    ]
+  },
+  {
+    "id": "5.6",
+    "ch": 5,
+    "ref": "5:31-32",
+    "echoes": [
+      {"source": "Deuteronomy 24:1", "type": "quotation", "confidence": "high", "note": "'Whoever divorces his wife, let him give her a certificate of divorce' — direct citation of the Mosaic divorce provision Jesus qualifies.", "contested": false},
+      {"source": "Deuteronomy 24:2-4", "type": "allusion", "confidence": "medium", "note": "The fuller divorce-and-remarriage statute; Jesus reframes its concession around the cause of immorality.", "contested": false},
+      {"source": "Genesis 2:24", "type": "echo", "confidence": "medium", "note": "'The two become one flesh' — the creation order of marriage underlies Jesus' restriction of divorce (made explicit in Mt 19).", "contested": false},
+      {"source": "Malachi 2:14-16", "type": "allusion", "confidence": "medium", "note": "God hates divorce / the treacherous putting-away of a wife; prophetic background to Jesus' tightening of the divorce concession.", "contested": false}
+    ]
+  },
+  {
+    "id": "5.7",
+    "ch": 5,
+    "ref": "5:33-37",
+    "echoes": [
+      {"source": "Leviticus 19:12", "type": "quotation", "confidence": "high", "note": "'You shall not swear by my name falsely' — direct source for 'you shall not swear falsely.'", "contested": false},
+      {"source": "Numbers 30:2", "type": "quotation", "confidence": "high", "note": "'When a man vows a vow to the LORD... he shall do all that proceeds from his mouth' — basis for 'but shall perform to the Lord your vows.'", "contested": false},
+      {"source": "Deuteronomy 23:21-23", "type": "allusion", "confidence": "medium", "note": "Vows to the LORD must be paid and not delayed; reinforces the obligation-to-perform clause Jesus cites.", "contested": false},
+      {"source": "Exodus 20:7", "type": "allusion", "confidence": "medium", "note": "'You shall not take the name of the LORD in vain' — the Decalogue prohibition behind false/empty swearing.", "contested": false},
+      {"source": "Psalm 24:4", "type": "echo", "confidence": "low", "note": "Who has not 'sworn deceitfully' — the false-oath concern of the oath antithesis (and ties to the pure in heart of v.8).", "contested": true},
+      {"source": "Isaiah 66:1", "type": "allusion", "confidence": "high", "note": "'Heaven is my throne, and the earth is my footstool' — direct source for swearing 'neither by heaven, for it is the throne of God; nor by the earth, his footstool.'", "contested": false},
+      {"source": "Psalm 48:2", "type": "allusion", "confidence": "medium", "note": "Zion 'the city of the great King' — direct source for 'nor by Jerusalem, for it is the city of the great King.'", "contested": false},
+      {"source": "Psalm 11:4", "type": "echo", "confidence": "low", "note": "'The LORD's throne is in heaven'; coheres with heaven as God's throne, making oaths by it oaths by God.", "contested": true},
+      {"source": "Ecclesiastes 5:4-5", "type": "echo", "confidence": "medium", "note": "Better not to vow than to vow and not pay; wisdom critique of rash vows behind 'swear not at all.'", "contested": false},
+      {"source": "Sirach 23:9-11", "type": "echo", "confidence": "medium", "note": "'Do not accustom your mouth to oaths' — Second Temple wisdom counseling against habitual swearing, closely parallel to v.34.", "contested": true},
+      {"source": "Lamentations 3:37", "type": "echo", "confidence": "low", "note": "Human powerlessness to effect things by one's word; coheres with 'you cannot make one hair white or black' (v.36).", "contested": true}
+    ]
+  },
+  {
+    "id": "5.8",
+    "ch": 5,
+    "ref": "5:38-42",
+    "echoes": [
+      {"source": "Exodus 21:24", "type": "quotation", "confidence": "high", "note": "'Eye for eye, tooth for tooth' — verbatim citation of the lex talionis Jesus sets in antithesis.", "contested": false},
+      {"source": "Leviticus 24:20", "type": "quotation", "confidence": "high", "note": "'Fracture for fracture, eye for eye, tooth for tooth' — parallel talion formula behind the citation.", "contested": false},
+      {"source": "Deuteronomy 19:21", "type": "quotation", "confidence": "high", "note": "'Eye for eye, tooth for tooth' — third Pentateuchal statement of the talion principle.", "contested": false},
+      {"source": "Lamentations 3:30", "type": "allusion", "confidence": "medium", "note": "'Let him give his cheek to the one who strikes him' — close parallel to 'turn the other cheek.'", "contested": false},
+      {"source": "Isaiah 50:6", "type": "allusion", "confidence": "medium", "note": "The Servant 'gave my back to those who strike, my cheeks to those who pull the beard' — nonretaliatory suffering behind turning the cheek.", "contested": false},
+      {"source": "Proverbs 20:22", "type": "echo", "confidence": "medium", "note": "'Do not say, I will repay evil; wait for the LORD' — wisdom renunciation of retaliation behind 'do not resist the evildoer.'", "contested": false},
+      {"source": "Proverbs 24:29", "type": "echo", "confidence": "medium", "note": "'Do not say, I will do to him as he has done to me' — direct rejection of tit-for-tat, paralleling the non-resistance teaching.", "contested": false},
+      {"source": "Proverbs 25:21-22", "type": "echo", "confidence": "low", "note": "Feed your enemy, give him drink; the generous-to-the-aggressor ethic extending into giving coat and cloak.", "contested": true},
+      {"source": "Exodus 22:26-27", "type": "echo", "confidence": "low", "note": "The cloak taken in pledge must be returned; legal background sharpening 'let him have your cloak also.'", "contested": true},
+      {"source": "Deuteronomy 15:7-8", "type": "allusion", "confidence": "medium", "note": "Do not harden your heart but open your hand to the poor and lend freely; direct background to 'give to him who asks, do not refuse the borrower.'", "contested": false},
+      {"source": "Deuteronomy 15:10-11", "type": "echo", "confidence": "low", "note": "Give freely and open your hand to the needy; reinforces v.42's command to give.", "contested": true},
+      {"source": "Psalm 37:21", "type": "echo", "confidence": "low", "note": "'The righteous is generous and gives'; coheres with the giving/lending ethic of v.42.", "contested": true},
+      {"source": "Psalm 37:26", "type": "echo", "confidence": "low", "note": "'He is ever lending generously'; the open-handed righteous of v.42.", "contested": true}
+    ]
+  },
+  {
+    "id": "5.9",
+    "ch": 5,
+    "ref": "5:43-48",
+    "echoes": [
+      {"source": "Leviticus 19:18", "type": "quotation", "confidence": "high", "note": "'You shall love your neighbor as yourself' — direct citation of the love command, the cited half of the antithesis.", "contested": false},
+      {"source": "Deuteronomy 23:3-6", "type": "echo", "confidence": "low", "note": "Commands not to seek the welfare of Ammon/Moab; one strand behind the popularly inferred 'hate your enemy' (no OT verse commands hatred per se).", "contested": true},
+      {"source": "Psalm 139:21-22", "type": "echo", "confidence": "medium", "note": "'Do I not hate those who hate you, O LORD? ... I hate them with perfect hatred' — the scriptural posture of hating enemies Jesus overturns.", "contested": false},
+      {"source": "Leviticus 19:34", "type": "allusion", "confidence": "medium", "note": "'Love the sojourner as yourself' — the love command already stretched beyond kin in the Holiness Code, anticipating love of enemies.", "contested": false},
+      {"source": "Exodus 23:4-5", "type": "allusion", "confidence": "medium", "note": "Return your enemy's stray ox; help the donkey of one who hates you — Torah's seed of active goodwill toward enemies.", "contested": false},
+      {"source": "Proverbs 25:21", "type": "allusion", "confidence": "medium", "note": "'If your enemy is hungry, give him bread' — direct wisdom command to do good to enemies, behind 'love your enemies, do good.'", "contested": false},
+      {"source": "Proverbs 24:17", "type": "echo", "confidence": "low", "note": "'Do not rejoice when your enemy falls' — renunciation of enmity coherent with loving enemies.", "contested": true},
+      {"source": "Job 31:29-30", "type": "echo", "confidence": "low", "note": "Job claims he never rejoiced at his enemy's ruin nor cursed him — pious refusal of vengeance behind the enemy-love ethic.", "contested": true},
+      {"source": "Leviticus 11:44", "type": "allusion", "confidence": "high", "note": "'Be holy, for I am holy' — the imitatio Dei formula directly behind 'be perfect as your heavenly Father is perfect.'", "contested": false},
+      {"source": "Leviticus 19:2", "type": "allusion", "confidence": "high", "note": "'You shall be holy, for I the LORD your God am holy' — the Holiness Code's call to imitate God, reframed as perfection in v.48.", "contested": false},
+      {"source": "Deuteronomy 18:13", "type": "allusion", "confidence": "high", "note": "'You shall be blameless/perfect (tamim) before the LORD your God' — the LXX 'teleios' here closely matches 'be perfect.'", "contested": false},
+      {"source": "Genesis 17:1", "type": "echo", "confidence": "medium", "note": "'Walk before me and be blameless (tamim)' — the call to integrity before God behind 'be perfect.'", "contested": false},
+      {"source": "Psalm 145:9", "type": "echo", "confidence": "medium", "note": "'The LORD is good to all, his mercy over all he has made' — God's indiscriminate goodness behind 'he makes his sun rise on evil and good.'", "contested": false},
+      {"source": "Job 25:3", "type": "echo", "confidence": "low", "note": "'Upon whom does his light not arise?' — God's light/sun given universally, paralleling v.45.", "contested": true},
+      {"source": "Psalm 65:9-13", "type": "echo", "confidence": "low", "note": "God waters the earth and provides rain abundantly; background to 'sends rain on the just and the unjust.'", "contested": true},
+      {"source": "Jeremiah 5:24", "type": "echo", "confidence": "low", "note": "God gives the rains in season for all; coheres with rain on just and unjust as common grace.", "contested": true},
+      {"source": "Deuteronomy 14:1", "type": "echo", "confidence": "low", "note": "'You are children of the LORD your God' — divine-sonship language behind 'that you may be children of your Father.'", "contested": true},
+      {"source": "Sirach 4:10", "type": "echo", "confidence": "low", "note": "Be like a father to orphans and you will be like a son of the Most High — deuterocanonical sonship-through-mercy parallel to v.45.", "contested": true}
+    ]
+  }
+]

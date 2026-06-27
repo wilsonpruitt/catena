@@ -1,0 +1,180 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-12",
+    "echoes": [
+      {
+        "source": "Micah 5:2",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Explicit formula quotation ('this is written through the prophet') cited by the chief priests. Matthew's wording — 'You Bethlehem, land of Judah, are in no way least among the princes of Judah; for out of you shall come a governor (ruler) who shall shepherd my people Israel' — conflates Micah 5:2 with 2 Samuel 5:2. High Volume (verbatim place-name, ruler-from-Bethlehem motif, distinctive), strong Thematic Coherence (Davidic-messiah birthplace answers Herod's question), and Recurrence (Matthew is the formula-quotation evangelist par excellence).",
+        "contested": false,
+        "altSource": "2 Samuel 5:2"
+      },
+      {
+        "source": "Numbers 24:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Balaam's oracle — 'a star shall come out of Jacob, and a scepter shall rise out of Israel' — supplies the messianic star and royal sense the Magi attach to 'his star.' High Thematic Coherence (a gentile seer from the east reads a star as the birth of Israel's king, exactly the Magi's role) and reasonable Volume via the distinctive star-king pairing, though no citation formula; widely read messianically in Second Temple Judaism.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'They shall come from Sheba; they shall bring gold and frankincense' — gentiles arriving from afar bearing gold and frankincense to worship in the light of a rising glory. Strong Thematic Coherence with the eschatological pilgrimage of nations and two of the three gifts named verbatim; Volume is moderate (no myrrh, no formula).",
+        "contested": false
+      },
+      {
+        "source": "Psalm 72:10-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The kings of Sheba and Seba shall offer gifts... all kings shall fall down before him, all nations shall serve him' — royal homage and tribute brought to the king. Coheres tightly with the Magi falling down, worshiping, and offering treasures; this royal-psalm undergirds the later 'three kings' reading. Moderate Volume, high Thematic Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Nations shall come to your light, and kings to the brightness of your rising' — the gentile-to-light/star pattern reinforcing the Magi following a star to the newborn king. Faint, thematic rather than verbal; contested as distinct from the broader Isaiah 60 field.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 10:1-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Queen of Sheba traveling from the east to honor a Davidic-Solomonic king with gold and spices. A figural recurrence of foreign royalty seeking Israel's wise king; Volume is low and the link is mediated by Psalm 72 / Isaiah 60, so contested.",
+        "contested": true
+      },
+      {
+        "source": "2 Samuel 5:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Source of the 'shepherd my people Israel' clause fused into the Bethlehem quotation; David anointed at Hebron is told he will shepherd Israel. Distinctive shepherd-ruler language not in Micah, marking a deliberate Davidic conflation. Listed here as well as in the altSource of the Micah entry.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:13-15",
+    "echoes": [
+      {
+        "source": "Hosea 11:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Explicit fulfillment formula ('that it might be fulfilled which was spoken by the Lord through the prophet'): 'Out of Egypt I called my son.' Verbatim Volume against the Hebrew (not LXX, which reads 'his children'), maximal rhetorical stress, and dense Thematic Coherence — Jesus as God's Son recapitulates Israel's exodus. Paradigm Matthean formula quotation.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:19-23",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Moses-typology: God tells Moses 'all who sought your life are dead' (cf. 2:20), Israel is God's 'firstborn son,' and the infant-deliverer is threatened by a murderous king. The flight-into-Egypt / called-out-of-Egypt frame recapitulates the Moses-and-Israel pattern with little verbal borrowing but overwhelming structural coherence; Matthew clearly builds Jesus as a new Moses.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 2:15",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Moses flees from Pharaoh who seeks to kill him, paralleling the holy family's flight from Herod who seeks to destroy the child. Herod-as-Pharaoh / Jesus-as-Moses typology; structural rather than verbal, hence figural.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 46:2-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel's family also descends into Egypt for refuge by night under divine reassurance given in a night vision to Jacob ('do not fear to go down to Egypt'). Faint patriarchal recurrence of the protective sojourn-in-Egypt motif undergirding Hosea 11:1; contested.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 37:5-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joseph the dreamer leads the family to safety in Egypt; Matthew's Joseph is likewise guided by dreams to and from Egypt. Distinctive shared name + dream-revelation + Egypt motif, but no verbal citation, so low-confidence and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:16-18",
+    "echoes": [
+      {
+        "source": "Jeremiah 31:15",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Named formula quotation ('that which was spoken by Jeremiah the prophet was fulfilled'): 'A voice was heard in Ramah... Rachel weeping for her children... because they are no more.' Verbatim Volume, explicit prophetic attribution, and Thematic Coherence — exile-and-lament now answered by hope (the very chapter promises return), framing the slaughtered innocents within Israel's exile pattern.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 1:22",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Pharaoh's decree to kill the male Hebrew infants is recapitulated in Herod's massacre of Bethlehem's boys two years and under. Herod-as-Pharaoh typology with strong structural coherence (tyrant slays infants, deliverer escapes); little verbal overlap, hence figural but high confidence given the sustained Moses pattern.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 35:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Rachel dies and is buried 'on the way to Ephrath (that is, Bethlehem)' — anchoring the weeping mother to the Bethlehem locale of the massacre and explaining why Matthew reaches for the Rachel lament here. Moderate coherence via the geographic tie that activates Jeremiah 31:15.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 2:1-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The infant Moses survives the slaughter of the Hebrew children, prefiguring the threatened-but-preserved child Jesus. Faint, mediated by the broader Pharaoh/Herod pattern; contested as a discrete echo within this pericope.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:19-23",
+    "echoes": [
+      {
+        "source": "Exodus 4:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The angel's words 'those who sought the young child's life are dead' (2:20) closely echo the Lord's words to Moses in Midian: 'all the men who sought your life are dead.' Distinctive, near-verbal parallel completing the Moses-return typology; high Volume and high Thematic Coherence even without a formula.",
+        "contested": false
+      },
+      {
+        "source": "Judges 13:5",
+        "type": "quotation",
+        "confidence": "medium",
+        "note": "For 'He will be called a Nazarene,' a leading candidate is the Nazirite consecration of Samson — 'the child shall be a Nazirite (nazir) to God from the womb' — a divinely set-apart deliverer-from-birth. Matthew's plural 'prophets' and the absence of an exact verse suggest a wordplay-cluster; Volume is via sound-alike (Nazoraios/nazir), coherence high. Editorially contested among Nazirite, Branch (netzer), and Nazareth-place readings.",
+        "contested": true,
+        "altSource": "Isaiah 11:1"
+      },
+      {
+        "source": "Isaiah 11:1",
+        "type": "quotation",
+        "confidence": "medium",
+        "note": "The other principal candidate for 'He will be called a Nazarene': the Davidic 'branch' (netzer) springing from Jesse's root. The Hebrew netzer gives a strong consonantal pun on Nazoraios/Nazareth and fits the messianic-shoot theme; explains Matthew's vague 'prophets.' Contested against the Nazirite (Judges 13:5) reading; listed as alt of that entry and here in its own right.",
+        "contested": true,
+        "altSource": "Judges 13:5"
+      },
+      {
+        "source": "Jeremiah 23:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Parallel 'righteous Branch' (tsemach) messianic-shoot prophecy reinforcing the netzer/Nazarene wordplay field behind 2:23. Faint, mediated, and overlapping Isaiah 11:1; contested.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 6:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Behold, the man whose name is the Branch' — another shoot/Branch text feeding the messianic 'Nazarene' pun cluster Matthew gestures toward with the plural 'prophets.' Low Volume, thematic only; contested.",
+        "contested": true
+      }
+    ]
+  }
+]

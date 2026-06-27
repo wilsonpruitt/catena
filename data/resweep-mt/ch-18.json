@@ -1,0 +1,345 @@
+[
+  {
+    "id": "18.1",
+    "ch": 18,
+    "ref": "18:1-5",
+    "echoes": [
+      {
+        "source": "Proverbs 29:23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The reversal at the heart of the saying — 'whoever humbles himself... is the greatest' — restates the wisdom maxim that pride brings a person low while the humble in spirit obtain honor. The exaltation-through-humility logic is a sustained sapiential pattern.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 15:33",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Before honor is humility' supplies the proverbial frame for greatness defined by lowering oneself; recurs at Prov 18:12, reinforcing thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 131:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The image of becoming 'as little children' before God resonates with the psalmist's quieted, weaned-child posture of trust and renounced ambition. Verbal overlap is thin, so the link is thematic/figural rather than lexical.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 11:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A little child shall lead them' offers an eschatological valorization of the child as figure of the messianic order, a possible backdrop to the child set 'in their midst' as model of the kingdom. Faint and disputed.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.2",
+    "ch": 18,
+    "ref": "18:6-7",
+    "echoes": [
+      {
+        "source": "Leviticus 19:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The skandalon ('stumbling block') vocabulary draws on the Holiness Code prohibition against placing a stumbling block before the blind; Matthew moralizes the cultic-ethical image into causing 'these little ones' to fall.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 5:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'Woe' (ouai) oracle form against the world and against the agent of stumbling reproduces the prophetic woe-cry, of which Isaiah 5 is the paradigmatic chain. Formal echo, not verbal borrowing.",
+        "contested": true
+      },
+      {
+        "source": "Micah 7:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Being 'sunk in the depths of the sea' may invert Micah's image of God casting sins into the depths of the sea: here it is the offender, not the sin, that is drowned. Suggestive but uncertain.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 51:63-64",
+        "type": "echo",
+        "confidence": "low",
+        "note": "A stone bound to a scroll and sunk in the Euphrates as a sign of irreversible sinking judgment ('thus shall Babylon sink') parallels the millstone-and-sea image of inescapable doom. Contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.3",
+    "ch": 18,
+    "ref": "18:8-9",
+    "echoes": [
+      {
+        "source": "Isaiah 66:24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'eternal fire' / 'Gehenna of fire' draws directly on Isaiah's closing vision of the dead whose 'worm shall not die, nor their fire be quenched' — the classic source-image for unquenchable eschatological fire, set in the valley outside Jerusalem.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 7:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Gehenna = the Valley of (the son of) Hinnom (ge-hinnom), where children were burned at Topheth; Jeremiah's condemnation of that valley made it the topographic seed of the later place-of-fiery-judgment.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 19:5-6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jeremiah renames Topheth in the Valley of Hinnom 'the Valley of Slaughter,' a judgment site; reinforces the Gehenna toponym's punitive force behind 'cast into the eternal fire.'",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 23:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Josiah's defilement of Topheth in the Valley of Hinnom contributes to the valley's afterlife as a place of refuse and judgment underlying Gehenna. Background rather than verbal source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.4",
+    "ch": 18,
+    "ref": "18:10-11",
+    "echoes": [
+      {
+        "source": "Psalm 91:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Their angels always see the face of my Father' presumes the guardian-angel motif of 'he will command his angels concerning you, to guard you in all your ways.'",
+        "contested": false
+      },
+      {
+        "source": "Esther 1:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Angels who 'see the face' of the Father use the royal-court idiom for the highest courtiers — those who 'saw the king's face' and had access to his presence (cf. the seven princes who saw Ahasuerus's face). The little ones' angels hold rank in the heavenly court.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 25:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Those who saw the king's face' as a class of privileged courtiers parallels the access-language applied to the angels. Idiomatic background, contested.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 34:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "V.11 ('the Son of Man came to save that which was lost') directly evokes the shepherd-God's oracle 'I will seek the lost, and bring back the strayed' — and prepares the lost-sheep parable that follows.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The title 'Son of Man' in v.11 ultimately reaches back to Daniel's heavenly figure, though here in a saving rather than enthroned register. Faint at this point.",
+        "contested": true
+      },
+      {
+        "source": "Tobit 12:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Raphael as one of the angels who 'stand and enter before the glory of the Lord' offers a Second Temple analogue to the angels who 'always see the face' of the Father. Deuterocanonical background, contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.5",
+    "ch": 18,
+    "ref": "18:12-14",
+    "echoes": [
+      {
+        "source": "Ezekiel 34:11-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The shepherd who leaves the flock to 'seek that which has gone astray' and rejoices to find it directly enacts God's oracle: 'I myself will search for my sheep... I will seek the lost, and bring back the strayed.' High volume and thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 119:176",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I have gone astray like a lost sheep; seek your servant' supplies the precise pairing of straying and being sought that the parable dramatizes.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'All we like sheep have gone astray, we have turned every one to his own way' is the canonical statement of the sheep-going-astray motif underlying the one that 'goes astray.'",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 23:1-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The oracle against shepherds who scatter and fail to seek the flock, with God's promise to gather the strays, shares the shepherd/lost-sheep field. Contributory background.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 34:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'My sheep wandered through all the mountains... and none searched or sought' supplies the specific detail of the shepherd going 'to the mountains' to seek the strayed one.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "18.6",
+    "ch": 18,
+    "ref": "18:15-17",
+    "echoes": [
+      {
+        "source": "Leviticus 19:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Go, show him his fault between you and him alone' enacts the Holiness Code command 'you shall surely reprove your neighbor, and not bear sin because of him' — private, loving rebuke that does not let sin fester into hatred.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'At the mouth of two or three witnesses every word may be established' is a near-verbatim citation of the Deuteronomic law of evidence ('on the testimony of two or three witnesses a matter shall be established'). The clearest formula-level borrowing in the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 17:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The two-or-three-witnesses standard is doubled in Deuteronomy's capital-case law ('on the evidence of two or three witnesses he shall be put to death'), reinforcing the juridical weight of the procedure Jesus prescribes for the assembly.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 19:13-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Question a friend, perhaps he did not do it... reprove a neighbor before you threaten him' is the closest Second Temple parallel to the graduated, presumption-of-innocence rebuke of Mt 18:15. Deuterocanonical wisdom on fraternal correction.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "18.7",
+    "ch": 18,
+    "ref": "18:18-20",
+    "echoes": [
+      {
+        "source": "Isaiah 22:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Binding/loosing as authoritative juridical decision shares the open/shut imagery of the 'key of the house of David... he shall open and none shut.' The connection is firmer at Mt 16:19; here it is reasserted communally and is more diffuse.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Where two or three are gathered in my name, there I am in their midst' resonates with those who feared the Lord speaking together while 'the Lord took note and a book of remembrance was written' — the divine presence attending the small gathered company. Contested.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'two or three' of v.20 re-uses the witness-count of v.16, transposing the legal quorum into a quorum of prayer and presence. The verbal carryover from the Deuteronomic formula is deliberate.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "18.8",
+    "ch": 18,
+    "ref": "18:21-22",
+    "echoes": [
+      {
+        "source": "Genesis 4:24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Until seventy times seven' (or 'seventy-seven') deliberately reverses Lamech's boast 'If Cain is avenged sevenfold, then Lamech seventy-sevenfold': the same numbers that measured escalating vengeance now measure limitless forgiveness. The LXX of Gen 4:24 reads hebdomekontakis hepta, matching Jesus' phrasing.",
+        "contested": false
+      },
+      {
+        "source": "Amos 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter's 'seven times' as a presumed limit may echo the prophetic 'for three transgressions and for four' idiom of a fixed tally of offenses before judgment; Jesus dissolves the tally. Faint formal parallel.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.9",
+    "ch": 18,
+    "ref": "18:23-35",
+    "echoes": [
+      {
+        "source": "Sirach 28:1-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The parable's logic — God forgives the one who forgives, and withholds mercy from the unmerciful — is the narrative form of Sirach's teaching: 'Forgive your neighbor the wrong he has done, and then your sins will be pardoned when you pray... Does anyone harbor anger against another, and expect healing from the Lord?' The closest extracanonical parallel to the whole pericope.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 15:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The king who 'releases' (aphiemi) his servant and 'forgives the debt' enacts the sabbatical-year release of debts (shemittah): every creditor shall release what he has lent. The unforgiving servant violates the release he himself received.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 25:39",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The command to sell the debtor 'with his wife and children' reflects the legal reality of debt-slavery regulated in the Jubilee laws ('if your brother becomes poor and sells himself to you'), the very bondage the king's compassion suspends.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "A creditor coming to seize the debtor's children as slaves (the widow's plea to Elisha) supplies the social backdrop for selling the man 'with his wife, his children, and all that he had.'",
+        "contested": false
+      },
+      {
+        "source": "Nehemiah 5:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The outcry that 'we are forcing our sons and daughters to be slaves' to pay debts parallels the parable's seizure of family for an unpayable obligation. Contributory social context.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 21:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Whoever stops his ears at the cry of the poor will himself cry out and not be answered' is the proverbial kernel of the parable: the servant who refuses his fellow's plea forfeits the mercy he had begged and received.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 17:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He who mocks the poor reproaches his Maker; he who is glad at calamity shall not go unpunished' supports the measure-for-measure judgment on the merciless servant. Faint.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 4:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's counsel to the king to 'break off your sins by showing mercy to the oppressed' links royal forgiveness with the showing of mercy demanded of the forgiven — a possible backdrop to the king/mercy frame. Contested.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "19.1",
+    "ch": 19,
+    "ref": "19:1-2",
+    "echoes": [
+      {"source": "Numbers 22:1", "type": "echo", "confidence": "low", "note": "The setting 'beyond the Jordan' in the region of Judea/Perea uses the standard wilderness-itinerary formula for Israel encamped 'beyond the Jordan' opposite Jericho; faint geographic resonance only.", "contested": true},
+      {"source": "Isaiah 35:5-6", "type": "echo", "confidence": "low", "note": "Jesus healing the great multitudes who follow him faintly recalls the eschatological healing of Isaiah's highway-of-the-redeemed; thematic, not verbal.", "contested": true}
+    ]
+  },
+  {
+    "id": "19.2",
+    "ch": 19,
+    "ref": "19:3-9",
+    "echoes": [
+      {"source": "Genesis 1:27", "type": "quotation", "confidence": "high", "note": "'He who made them from the beginning made them male and female' verbatim cites Genesis 1:27 ('male and female created he them'); explicit appeal to creation order as the warrant against divorce.", "contested": false},
+      {"source": "Genesis 5:2", "type": "allusion", "confidence": "medium", "note": "Genesis 5:2 repeats 'male and female created he them, and blessed them'; the doublet reinforces the 'from the beginning' creation argument and may stand behind Jesus' formulation alongside 1:27.", "contested": false},
+      {"source": "Genesis 2:24", "type": "quotation", "confidence": "high", "note": "'For this cause a man shall leave his father and mother, and shall join to his wife; and the two shall become one flesh' is a verbatim quotation of Genesis 2:24, the foundational one-flesh text.", "contested": false},
+      {"source": "Deuteronomy 24:1", "type": "quotation", "confidence": "high", "note": "The Pharisees' 'Moses commanded us to give her a bill of divorce' directly cites the Mosaic divorce permission of Deuteronomy 24:1 ('let him write her a bill of divorcement'); the crux of the dispute.", "contested": false},
+      {"source": "Deuteronomy 24:3-4", "type": "allusion", "confidence": "medium", "note": "The full Deuteronomic divorce ordinance (vv.1-4, the prohibition of remarrying a twice-divorced wife) frames Jesus' redefinition of remarriage-after-divorce as adultery.", "contested": false},
+      {"source": "Malachi 2:14-16", "type": "allusion", "confidence": "medium", "note": "Malachi's covenant theology of marriage ('the wife of thy youth... did he not make one?... I hate divorce') anticipates Jesus' one-flesh-from-creation argument against putting away a wife.", "contested": false},
+      {"source": "Genesis 2:23", "type": "allusion", "confidence": "medium", "note": "'Bone of my bones, flesh of my flesh' establishes the one-flesh unity that 2:24 articulates and Jesus invokes as 'no more two but one flesh.'", "contested": false},
+      {"source": "Deuteronomy 10:16", "type": "echo", "confidence": "medium", "note": "Jesus' explanation that Moses permitted divorce 'because of the hardness of your hearts' draws on the Deuteronomic idiom of the uncircumcised/hardened heart of stubborn Israel.", "contested": false},
+      {"source": "Jeremiah 4:4", "type": "echo", "confidence": "low", "note": "Prophetic 'hardness of heart' / circumcise-your-heart language underlies Jesus' diagnosis of why the Mosaic concession was given.", "contested": true},
+      {"source": "Ezekiel 36:26", "type": "echo", "confidence": "low", "note": "The promise to remove the heart of stone faintly contrasts with the 'hardness of heart' that necessitated the divorce concession 'from the beginning it was not so.'", "contested": true},
+      {"source": "Exodus 20:14", "type": "echo", "confidence": "medium", "note": "Jesus' charge that remarriage after unlawful divorce 'commits adultery' presupposes the Decalogue prohibition (Exodus 20:14 / Deuteronomy 5:18).", "contested": false},
+      {"source": "Genesis 7:9", "type": "echo", "confidence": "low", "note": "'Male and female' as a fixed creational pair also appears in the ark narrative; faint reinforcement of the binary-pair language Jesus cites.", "contested": true}
+    ]
+  },
+  {
+    "id": "19.3",
+    "ch": 19,
+    "ref": "19:10-12",
+    "echoes": [
+      {"source": "Isaiah 56:3-5", "type": "allusion", "confidence": "medium", "note": "'Eunuchs for the Kingdom of Heaven's sake' inverts and fulfills Isaiah's promise that faithful eunuchs receive 'a name better than of sons and daughters' within God's house; the strongest scriptural ground for valuing the eunuch in the kingdom.", "contested": false},
+      {"source": "Deuteronomy 23:1", "type": "figural", "confidence": "medium", "note": "Deuteronomy bars the emasculated from the assembly of the LORD; Jesus' commendation of voluntary 'eunuchs for the kingdom' figurally reverses that exclusion, echoing the Isaian abrogation.", "contested": true},
+      {"source": "Wisdom of Solomon 3:14", "type": "allusion", "confidence": "medium", "note": "Wisdom blesses the eunuch 'which hath wrought no iniquity... for unto him shall be given the special gift of faith,' a Second Temple anticipation of the eunuch honored in God's kingdom.", "contested": false}
+    ]
+  },
+  {
+    "id": "19.4",
+    "ch": 19,
+    "ref": "19:13-15",
+    "echoes": [
+      {"source": "Genesis 48:14-16", "type": "figural", "confidence": "low", "note": "Jesus laying hands on the children to bless echoes Israel/Jacob laying hands on Ephraim and Manasseh to bless them; patriarchal blessing-by-imposition-of-hands prefigured.", "contested": true},
+      {"source": "Psalm 8:2", "type": "echo", "confidence": "low", "note": "The kingdom belonging to little children resonates with the Psalmist's 'out of the mouth of babes' as the locus of God's praise/strength; thematic only.", "contested": true},
+      {"source": "Numbers 27:18-23", "type": "echo", "confidence": "low", "note": "Laying on of hands as a means of transmitting blessing/commission (Moses on Joshua) lies behind the gesture the disciples sought to prevent.", "contested": true}
+    ]
+  },
+  {
+    "id": "19.5",
+    "ch": 19,
+    "ref": "19:16-22",
+    "echoes": [
+      {"source": "Exodus 20:13", "type": "quotation", "confidence": "high", "note": "'You shall not murder' verbatim from the Decalogue (Exodus 20:13 / Deuteronomy 5:17).", "contested": false},
+      {"source": "Exodus 20:14", "type": "quotation", "confidence": "high", "note": "'You shall not commit adultery' verbatim from the Decalogue (Exodus 20:14 / Deuteronomy 5:18).", "contested": false},
+      {"source": "Exodus 20:15", "type": "quotation", "confidence": "high", "note": "'You shall not steal' verbatim from the Decalogue (Exodus 20:15 / Deuteronomy 5:19).", "contested": false},
+      {"source": "Exodus 20:16", "type": "quotation", "confidence": "high", "note": "'You shall not offer false testimony' verbatim from the Decalogue (Exodus 20:16 / Deuteronomy 5:20).", "contested": false},
+      {"source": "Exodus 20:12", "type": "quotation", "confidence": "high", "note": "'Honor your father and mother' verbatim from the Decalogue (Exodus 20:12 / Deuteronomy 5:16).", "contested": false},
+      {"source": "Leviticus 19:18", "type": "quotation", "confidence": "high", "note": "'You shall love your neighbor as yourself' is a verbatim quotation of Leviticus 19:18, appended by Jesus as the summary of the second table.", "contested": false},
+      {"source": "Deuteronomy 5:16-20", "type": "quotation", "confidence": "high", "note": "The whole sequence Jesus recites follows the second-table Decalogue as given in Deuteronomy's repetition; the Matthean order (honor-parents last, plus Lev 19:18) reflects this catechetical cluster.", "contested": false},
+      {"source": "Leviticus 18:5", "type": "echo", "confidence": "medium", "note": "'Keep the commandments' to 'enter into life' echoes Leviticus 18:5, 'which if a man do, he shall live in them'; the Torah principle of life-by-obedience the young man invokes.", "contested": false},
+      {"source": "Deuteronomy 6:25", "type": "echo", "confidence": "low", "note": "Doing 'all these commandments' as righteousness/life lies behind the young man's claim to have kept them and the question 'what do I still lack?'", "contested": true},
+      {"source": "Psalm 118:1", "type": "echo", "confidence": "low", "note": "'Why do you call me good? No one is good but God' resonates with the recurrent confession 'the LORD is good' (Ps 118:1; 106:1; 136:1); only God is the source of the predicate 'good.'", "contested": true},
+      {"source": "Genesis 17:1", "type": "echo", "confidence": "medium", "note": "'If you want to be perfect (teleios)' echoes the call to Abraham, 'walk before me and be thou perfect/blameless,' the Septuagint sense of wholehearted covenant integrity.", "contested": false},
+      {"source": "Deuteronomy 18:13", "type": "echo", "confidence": "medium", "note": "'You shall be perfect/blameless with the LORD your God' stands behind Jesus' 'if you would be perfect,' framing discipleship as covenantal completeness.", "contested": false},
+      {"source": "Proverbs 19:17", "type": "allusion", "confidence": "medium", "note": "'Give to the poor, and you will have treasure in heaven' enacts 'He that hath pity on the poor lendeth unto the LORD'; almsgiving as deposit with God.", "contested": false},
+      {"source": "Tobit 4:7-11", "type": "allusion", "confidence": "medium", "note": "Tobit's counsel that almsgiving 'lays up a good treasure against the day of necessity' is the closest Second Temple parallel to 'sell what you have, give to the poor, and you will have treasure in heaven.'", "contested": false},
+      {"source": "Sirach 29:10-12", "type": "allusion", "confidence": "medium", "note": "Ben Sira urges 'lay up thy treasure according to the commandments... it shall bring thee more profit than gold,' directly paralleling treasure-in-heaven-through-almsgiving.", "contested": false}
+    ]
+  },
+  {
+    "id": "19.6",
+    "ch": 19,
+    "ref": "19:23-26",
+    "echoes": [
+      {"source": "Genesis 18:14", "type": "allusion", "confidence": "high", "note": "'With God all things are possible' is the strongest verbal kin to 'Is anything too hard (impossible) for the LORD?' spoken at the promise of Isaac; divine omnipotence over the humanly impossible.", "contested": false},
+      {"source": "Job 42:2", "type": "allusion", "confidence": "medium", "note": "Job's confession 'I know that thou canst do all things, and that no purpose of thine can be withheld' closely matches 'with God all things are possible.'", "contested": false},
+      {"source": "Zechariah 8:6", "type": "allusion", "confidence": "medium", "note": "'If it be marvelous... should it also be marvelous in mine eyes? saith the LORD' grounds the contrast between what is impossible for men and possible for God in the restoration promise.", "contested": false},
+      {"source": "Jeremiah 32:17", "type": "allusion", "confidence": "medium", "note": "'There is nothing too hard for thee' (cf. 32:27, 'is there any thing too hard for me?') is a near-equivalent declaration of God's unlimited power.", "contested": false},
+      {"source": "Numbers 11:23", "type": "echo", "confidence": "low", "note": "'Is the LORD's hand waxed short?' belongs to the same idiom of God overcoming the humanly impossible.", "contested": true},
+      {"source": "Psalm 49:6-9", "type": "echo", "confidence": "low", "note": "The difficulty of the rich entering the kingdom resonates with the Psalmist's verdict that wealth cannot ransom a life; riches as no security before God.", "contested": true},
+      {"source": "Genesis 18:25", "type": "echo", "confidence": "low", "note": "The Abraham-Sodom dialogue's confidence in God ('shall not the Judge of all the earth do right?') shares the setting of the same 'too hard for the LORD?' passage Jesus echoes.", "contested": true}
+    ]
+  },
+  {
+    "id": "19.7",
+    "ch": 19,
+    "ref": "19:27-30",
+    "echoes": [
+      {"source": "Daniel 7:9-10", "type": "allusion", "confidence": "high", "note": "'When the Son of Man will sit on the throne of his glory, you also will sit on twelve thrones, judging' draws on Daniel's vision of thrones set, the Ancient of Days, and judgment convened; the throne-and-judgment imagery.", "contested": false},
+      {"source": "Daniel 7:13-14", "type": "allusion", "confidence": "high", "note": "'The Son of Man... on the throne of his glory' alludes to the Danielic 'one like a son of man' given dominion and an everlasting kingdom.", "contested": false},
+      {"source": "Daniel 7:22", "type": "allusion", "confidence": "medium", "note": "'Judgment was given to the saints of the Most High' grounds the disciples' role of sitting in judgment over the twelve tribes.", "contested": false},
+      {"source": "Psalm 122:4-5", "type": "allusion", "confidence": "medium", "note": "'There are set thrones of judgment, the thrones of the house of David'—Jerusalem as the seat where the tribes are judged—stands behind the twelve thrones judging the twelve tribes of Israel.", "contested": false},
+      {"source": "Wisdom of Solomon 3:8", "type": "allusion", "confidence": "medium", "note": "'They shall judge the nations, and have dominion over the peoples' is the Second Temple promise that the righteous will share God's eschatological judging rule, paralleling the disciples on thrones.", "contested": false},
+      {"source": "Isaiah 65:17", "type": "figural", "confidence": "medium", "note": "'In the regeneration (palingenesia)'—the renewed cosmos—echoes Isaiah's 'I create new heavens and a new earth'; the eschatological re-creation in which the thrones are set.", "contested": false},
+      {"source": "Isaiah 66:22", "type": "echo", "confidence": "low", "note": "'The new heavens and the new earth which I will make shall remain' reinforces the 'regeneration' framework of the promised renewal.", "contested": true},
+      {"source": "Daniel 12:2-3", "type": "echo", "confidence": "medium", "note": "'Will inherit eternal life' echoes Daniel's resurrection to 'everlasting life,' the OT locus for that phrase informing the disciples' reward.", "contested": false},
+      {"source": "1 Samuel 2:7-8", "type": "echo", "confidence": "low", "note": "'Many first will be last, and last first' resonates with Hannah's reversal song—the LORD raises the poor from the dust and seats them with princes.", "contested": true},
+      {"source": "Job 42:10-12", "type": "echo", "confidence": "low", "note": "The hundredfold restoration to those who left all faintly recalls Job's twofold/restored fortunes after loss; reward-after-renunciation pattern.", "contested": true},
+      {"source": "Genesis 12:1-2", "type": "figural", "confidence": "low", "note": "Leaving 'houses... father, mother... lands' for Jesus' name's sake to inherit reward retraces Abraham's call to leave country and kindred for a promised inheritance.", "contested": true}
+    ]
+  }
+]

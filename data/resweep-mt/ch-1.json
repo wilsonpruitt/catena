@@ -1,0 +1,217 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-17",
+    "echoes": [
+      {
+        "source": "Genesis 5:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The opening 'biblos geneseos' (book of the genealogy/origin) directly echoes the LXX heading 'he biblos geneseos anthropon' of Gen 5:1, and recurs at Gen 2:4. Volume is high (rare, distinctive lexical formula reproduced verbatim in Greek); thematic coherence is strong — Matthew frames Jesus' arrival as a new creation/new beginning of humanity's story, deliberately invoking the toledot structure of Genesis.",
+        "altSource": "Genesis 2:4"
+      },
+      {
+        "source": "Genesis 22:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Naming Abraham as the genealogy's root and inclusio ('son of Abraham') activates the patriarchal promise that in Abraham's seed all nations would be blessed. Recurrence is strong — Matthew's Gospel closes with the universal commission to all nations (28:19), so the Abrahamic blessing-to-the-Gentiles theme frames the whole book. Thematic coherence high."
+      },
+      {
+        "source": "Genesis 12:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'son of Abraham' framing also recalls the foundational call and blessing of Gen 12:1-3 ('in you all the families of the earth shall be blessed'). Lower volume than 22:18 (no verbal borrowing) but thematically coherent with Matthew's Gentile-inclusive horizon."
+      },
+      {
+        "source": "2 Samuel 7:12-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Son of David' invokes the Nathan dynastic oracle promising David an everlasting throne and a seed whose kingdom God will establish forever. Volume: 'son of David' is a loaded royal-messianic title; recurrence is heavy in Matthew (9:27; 12:23; 15:22; 20:30-31; 21:9, 15; 22:42-45). Thematic coherence high — the genealogy is constructed to certify Jesus' Davidic, royal legitimacy.",
+        "altSource": "Psalm 89:3-4"
+      },
+      {
+        "source": "Isaiah 11:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "A genealogy that climaxes in a Davidic deliverer resonates with the 'shoot from the stump of Jesse / branch from his roots' messianic hope. Volume low (no shared diction here) but Matthew elsewhere works the Davidic-branch motif; thematic coherence with the royal genealogy is real.",
+        "contested": true
+      },
+      {
+        "source": "1 Chronicles 1:34",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Abraham-Isaac-Jacob-Judah sequence and the post-exilic line (Jechoniah, Shealtiel, Zerubbabel) draw on the genealogical registers of 1 Chronicles 1-3, Matthew's principal source for the names. Volume high (verbatim onomastic chains); recurrence in the structuring of the whole list; thematic coherence as the canonical genealogical backbone.",
+        "altSource": "1 Chronicles 2:1-15"
+      },
+      {
+        "source": "Ruth 4:18-22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Perez-to-David segment (Perez, Hezron, Ram, Amminadab, Nahshon, Salmon, Boaz, Obed, Jesse, David) reproduces the closing genealogy of Ruth almost name-for-name. Volume very high (an extended verbatim chain); thematic coherence strong, and the naming of Ruth herself (v.5) ties Matthew directly to that book.",
+        "altSource": "1 Chronicles 2:10-15"
+      },
+      {
+        "source": "Genesis 38:29-30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Tamar and the twins Perez and Zerah (v.3) point to the irregular levirate episode of Gen 38. Volume high (the distinctive Perez/Zerah-by-Tamar detail); thematic coherence strong — Matthew deliberately foregrounds an unexpected, scandal-tinged maternity that anticipates Mary's irregular conception.",
+        "altSource": "Genesis 38:6-26"
+      },
+      {
+        "source": "Joshua 2:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Rahab (v.5), the Canaanite harlot of Jericho, enters Israel's line. No verbal borrowing, but the inclusion is striking (the OT never names Rahab as Boaz's mother), so thematic coherence carries it: a Gentile outsider grafted into the messianic line, prefiguring Matthew's Gentile theme.",
+        "altSource": "Joshua 6:25"
+      },
+      {
+        "source": "Ruth 1:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Naming Ruth (v.5) flags the Moabite great-grandmother of David — another foreign woman incorporated into the royal genealogy. Coheres with the pattern of four irregular/Gentile mothers (Tamar, Rahab, Ruth, Bathsheba) that Matthew weaves to prepare for Mary.",
+        "altSource": "Ruth 4:13"
+      },
+      {
+        "source": "2 Samuel 11:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'David became the father of Solomon by her who had been the wife of Uriah' (v.6) pointedly invokes the Bathsheba/Uriah affair. Volume high (the unmistakable circumlocution naming Uriah rather than Bathsheba); thematic coherence strong — the deliberate reminder of David's sin and an irregular union sustains the four-women pattern and the grace-amid-scandal motif.",
+        "altSource": "2 Samuel 12:24"
+      },
+      {
+        "source": "1 Chronicles 3:10-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The royal line from Solomon through the kings of Judah to Jechoniah (vv.6b-11) follows the Davidic king-list of 1 Chron 3. Volume high (verbatim onomastic sequence); thematic coherence as the certified royal succession, even as Matthew compresses it (omitting Ahaziah, Joash, Amaziah) to fit the 14-pattern."
+      },
+      {
+        "source": "2 Kings 24:14-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'At the time of the exile to Babylon' / 'after the exile to Babylon' (vv.11-12) frames the deportation as the genealogy's central hinge, drawing on the Babylonian-exile narratives. Volume moderate-high (the explicit, repeated deportation marker); thematic coherence strong — exile is one of Matthew's three epochs, framing Jesus as the one who ends Israel's long captivity.",
+        "altSource": "2 Chronicles 36:20"
+      },
+      {
+        "source": "1 Chronicles 3:17-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The post-exilic link Jechoniah-Shealtiel-Zerubbabel (v.12) is taken from the Chronicler's post-exilic register. Volume high (distinctive verbatim chain); recurrence as part of Matthew's genealogical sourcing; thematic coherence as the bridge from exile to restoration.",
+        "altSource": "Ezra 3:2"
+      },
+      {
+        "source": "Jeremiah 22:30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jechoniah (Coniah) bears Jeremiah's curse that none of his offspring would prosper on David's throne — a tension a careful reader feels when Matthew routes the Messiah's legal line through him (resolved via Joseph's legal, not biological, paternity). Volume low; included as a contested intertext of thematic friction.",
+        "contested": true
+      },
+      {
+        "source": "Haggai 2:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zerubbabel (v.12) is elsewhere made a signet-ring messianic figure ('I will make you like a signet ring'), partially reversing the Coniah curse. Faint thematic resonance with the restoration-of-the-Davidic-line theme; no verbal borrowing, hence low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 9:24-27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Matthew's tripartite 3x14 (= 6 sevens) scheme, climaxing in 'the Christ,' may echo Daniel's seventy-weeks chronology of an anointed one, a popular schematized periodization of history in Second Temple thought. Volume low (numerological, not verbal); contested but thematically suggestive of an appointed messianic time.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 17:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The structuring fixation on fourteen generations may exploit the gematria of David's name (D-W-D = 4+6+4 = 14), itself anchored in Abraham, whose covenant-name change occurs in Gen 17. Faint, learned numerological echo; contested.",
+        "contested": true,
+        "altSource": "1 Samuel 16:13"
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:18-25",
+    "echoes": [
+      {
+        "source": "Isaiah 7:14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Matthew's first formula citation: 'that it might be fulfilled which was spoken by the Lord through the prophet' (v.22) introduces a near-verbatim quotation of LXX Isa 7:14 — 'the virgin (parthenos) shall be with child and shall bear a son, and they shall call his name Immanuel' (v.23). The paradigm fulfillment quotation: maximal volume, explicit citation formula, heavy rhetorical stress; Matthew uses such formulae throughout (recurrence very high); thematic coherence is the structural core of the pericope."
+      },
+      {
+        "source": "Isaiah 8:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The interpretive gloss 'Immanuel … God with us' (v.23) draws on the recurrence of 'Immanu-el' in Isaiah 8:8, 10 ('for God is with us'), where the name is unpacked. Volume moderate (shared name and its meaning); thematic coherence strong — Matthew makes 'God with us' an inclusio with 28:20 ('I am with you always')."
+      },
+      {
+        "source": "Isaiah 8:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'God is with us' (LXX 'meth' hemon ho theos') in Isa 8:10 supplies the very wording of Matthew's translation of Immanuel (v.23). Parallel precursor to 8:8; together they ground Matthew's editorial gloss.",
+        "altSource": "Isaiah 7:14"
+      },
+      {
+        "source": "Genesis 17:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The angelic announcement pattern — a son foretold, with a divinely mandated name and a stated destiny ('you shall call his name … for …', vv.20-21) — follows the OT birth-annunciation type-scene, as with Isaac ('you shall call his name Isaac'). Volume moderate (form-critical/syntactic borrowing of the naming formula); thematic coherence with the announcement genre.",
+        "altSource": "Genesis 16:11"
+      },
+      {
+        "source": "Genesis 16:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Hagar annunciation — 'you shall bear a son, and you shall call his name Ishmael, because the LORD has heard your affliction' — is the closest formal template for v.21's structure ('she shall bear a son, and you shall call his name Jesus, for he shall save…'): pregnancy + naming + 'for/because' rationale tying name to meaning. Verbal/syntactic parallel gives this allusion-level volume.",
+        "altSource": "Judges 13:5"
+      },
+      {
+        "source": "Judges 13:3-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Samson annunciation (angel appears, announces a son who 'shall begin to save Israel') parallels both the angelic appearance and the savior-of-his-people destiny of vv.20-21. Thematic coherence high (deliverer-of-the-people motif); verbal volume moderate.",
+        "altSource": "Genesis 16:11"
+      },
+      {
+        "source": "Psalm 130:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He shall save his people from their sins' (v.21) closely echoes Ps 130:8 ('he will redeem Israel from all his iniquities'). Volume high (the distinctive collocation of saving the people from sins, not merely from enemies); thematic coherence strong — it interprets the name 'Jesus/Yeshua' (= 'YHWH saves') and sets the soteriological program of the Gospel.",
+        "altSource": "Psalm 25:22"
+      },
+      {
+        "source": "Joshua 1:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The name 'Jesus' (Iesous) is the Greek form of Joshua/Yeshua, 'YHWH saves'; v.21's etymological wordplay ('Jesus, for he shall save') trades on that name. Recurrence of Joshua-as-deliverer typology gives modest volume; thematic coherence with the savior motif.",
+        "contested": true,
+        "altSource": "Numbers 13:16"
+      },
+      {
+        "source": "Genesis 6:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joseph being called 'a righteous man' (dikaios, v.19) places him in the OT line of the righteous (Noah 'a righteous man'; Job). Faint characterizing echo of the biblical 'tsaddiq' ideal; low volume, no specific borrowing.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 37:5-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joseph 'son of David' (v.20) receiving divine guidance through dreams faintly recalls the patriarch Joseph, the dreamer of Genesis — a 'Joseph who heeds dreams' typology Matthew sustains across the infancy narrative (2:13, 19, 22). Recurrence within Matthew lends some weight, but verbal volume is low, so contested.",
+        "contested": true,
+        "altSource": "Genesis 40:8"
+      },
+      {
+        "source": "Deuteronomy 22:23-24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joseph's dilemma over a betrothed woman 'found pregnant' and his option to act privately rather than 'make her a public example' (vv.18-19) presupposes the Mosaic law on a betrothed woman's infidelity. Legal background rather than verbal citation; low volume, included for thematic completeness.",
+        "contested": true
+      }
+    ]
+  }
+]

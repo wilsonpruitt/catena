@@ -1,0 +1,152 @@
+[
+  {
+    "id": "13.1",
+    "ch": 13,
+    "ref": "13:1-9",
+    "echoes": [
+      {"source": "Isaiah 55:10-11", "type": "allusion", "confidence": "medium", "note": "The word/seed that goes out from God's mouth and does not return empty but accomplishes its purpose, yielding seed and bread; the sower-and-word matrix governs the parable, made explicit in the later interpretation (v.19, 'the word of the Kingdom').", "contested": false},
+      {"source": "Jeremiah 4:3", "type": "allusion", "confidence": "medium", "note": "'Break up your fallow ground, and do not sow among thorns' — the contrast of receptive ground vs. thorn-choked soil maps directly onto Jesus' soils; thorns that choke recur in v.7, 22.", "contested": false},
+      {"source": "Hosea 10:12", "type": "echo", "confidence": "low", "note": "'Sow righteousness... break up your fallow ground' — agricultural sowing-and-reaping imagery for response to God's word; thematic rather than verbal.", "contested": true},
+      {"source": "Genesis 26:12", "type": "echo", "confidence": "low", "note": "Isaac sows and reaps a hundredfold (LXX 'hekatosteuousan') in the same year — the only clear OT 'hundredfold' agricultural blessing, possible backdrop for the good soil's hundredfold yield (v.8).", "contested": true},
+      {"source": "2 Esdras 8:41", "type": "echo", "confidence": "low", "note": "Second Temple (4 Ezra): the farmer sows much seed but not all that is sown takes root or is saved — a near-contemporary Jewish sower parable of differential reception; cf. also 2 Esdras 9:31.", "contested": true},
+      {"source": "Isaiah 5:1-7", "type": "echo", "confidence": "low", "note": "The Song of the Vineyard: God plants/sows expecting fruit and is disappointed by a barren yield; thematic kinship with fruit-bearing soils but no verbal overlap.", "contested": true}
+    ]
+  },
+  {
+    "id": "13.2",
+    "ch": 13,
+    "ref": "13:10-17",
+    "echoes": [
+      {"source": "Isaiah 6:9-10", "type": "quotation", "confidence": "high", "note": "Formal fulfillment quotation (v.14-15): 'hearing you will hear and not understand, seeing you will see and not perceive... this people's heart has grown callous.' Verbatim LXX citation explaining why parables both reveal and harden.", "contested": false},
+      {"source": "Deuteronomy 29:4", "type": "allusion", "confidence": "medium", "note": "'The LORD has not given you a heart to know, eyes to see, ears to hear' — the same eyes/ears/heart triad governing whether revelation is 'given' (v.11); the verb 'given/not given' echoes Deuteronomy's grant-of-perception language.", "contested": false},
+      {"source": "Jeremiah 5:21", "type": "allusion", "confidence": "medium", "note": "'Foolish people without understanding, who have eyes but do not see, ears but do not hear' — close parallel to v.13's 'seeing they do not see, hearing they do not hear.'", "contested": false},
+      {"source": "Ezekiel 12:2", "type": "allusion", "confidence": "medium", "note": "'A rebellious house, who have eyes to see but do not see, ears to hear but do not hear' — the same idiom of perceptual organs that fail in the obstinate.", "contested": false},
+      {"source": "Daniel 2:28-29", "type": "allusion", "confidence": "medium", "note": "'There is a God in heaven who reveals mysteries (mysteria)' — the only OT source of the technical 'mysteries' disclosed to the elect, behind 'to know the mysteries of the Kingdom' (v.11).", "contested": false},
+      {"source": "Daniel 12:10", "type": "echo", "confidence": "low", "note": "'The wicked shall not understand, but the wise shall understand' — an eschatological have/have-not of understanding paralleling v.11-12.", "contested": true},
+      {"source": "Proverbs 9:9", "type": "echo", "confidence": "low", "note": "'Give to a wise man and he will be wiser still' — the principle of v.12, 'to him who has, more will be given,' resembles wisdom's accumulative reward.", "contested": true},
+      {"source": "Psalm 119:18", "type": "echo", "confidence": "low", "note": "'Open my eyes that I may behold wondrous things' — the blessing on eyes that see (v.16) inverts the prayer for opened perception; thematic only.", "contested": true}
+    ]
+  },
+  {
+    "id": "13.3",
+    "ch": 13,
+    "ref": "13:18-23",
+    "echoes": [
+      {"source": "Isaiah 55:10-11", "type": "allusion", "confidence": "medium", "note": "The interpretation names the seed 'the word of the Kingdom' (v.19), confirming the Isaiah 55 word-as-seed substrate that bears or fails to bear fruit.", "contested": false},
+      {"source": "Jeremiah 4:3", "type": "echo", "confidence": "low", "note": "Sowing among thorns reappears interpretively (v.22, thorns = cares and riches that choke the word), echoing Jeremiah's warning not to sow among thorns.", "contested": true},
+      {"source": "Genesis 3:18", "type": "echo", "confidence": "low", "note": "'Thorns and thistles it shall bring forth' — the cursed ground's thorns as the agents of unfruitfulness; faint thematic backdrop to thorns choking the word.", "contested": true}
+    ]
+  },
+  {
+    "id": "13.4",
+    "ch": 13,
+    "ref": "13:24-30",
+    "echoes": [
+      {"source": "Joel 3:13", "type": "allusion", "confidence": "medium", "note": "'Put in the sickle, for the harvest is ripe' — harvest as the set time of eschatological judgment and separation, directly behind 'at the harvest time I will tell the reapers' (v.30).", "contested": false},
+      {"source": "Malachi 4:1", "type": "allusion", "confidence": "medium", "note": "The coming day burns like an oven, consuming the wicked as stubble; the burning of bundled weeds (v.30) anticipates this fiery consumption of evildoers.", "contested": false},
+      {"source": "Zephaniah 1:2-3", "type": "echo", "confidence": "low", "note": "God will utterly sweep away / gather and remove the wicked from the land; gathering-for-removal imagery parallels gathering the weeds first.", "contested": true},
+      {"source": "Job 4:8", "type": "echo", "confidence": "low", "note": "'Those who plow iniquity and sow trouble reap the same' — the enemy who sows evil seed and its harvest of judgment; proverbial sowing/reaping morality.", "contested": true}
+    ]
+  },
+  {
+    "id": "13.5",
+    "ch": 13,
+    "ref": "13:31-32",
+    "echoes": [
+      {"source": "Ezekiel 17:23", "type": "allusion", "confidence": "high", "note": "The planted sprig becomes a noble cedar 'and birds of every kind will nest in it, in the shade of its branches' — the closest verbal source for 'the birds of the air come and lodge in its branches'; a Kingdom-tree sheltering the nations.", "contested": false},
+      {"source": "Daniel 4:12", "type": "allusion", "confidence": "high", "note": "Nebuchadnezzar's great tree under which the beasts find shade and 'the birds of the air dwelt in its branches' (cf. 4:21) — a world-empire tree image transposed to the Kingdom of Heaven.", "contested": false},
+      {"source": "Ezekiel 31:6", "type": "allusion", "confidence": "medium", "note": "Assyria as a towering cedar in whose boughs 'all the birds of the air made their nests' — reinforces the prophetic tree-of-empire-sheltering-birds motif.", "contested": false},
+      {"source": "Psalm 104:12", "type": "echo", "confidence": "low", "note": "'Beside them the birds of the heavens dwell; they sing among the branches' — birds nesting in branches as an image of creational shelter.", "contested": true}
+    ]
+  },
+  {
+    "id": "13.6",
+    "ch": 13,
+    "ref": "13:33",
+    "echoes": [
+      {"source": "Genesis 18:6", "type": "allusion", "confidence": "medium", "note": "Abraham tells Sarah to take 'three measures (seahs) of fine flour' and make cakes for the divine visitors — the specific 'three measures of meal' is a distinctive verbal echo, a generous/hospitality-scaled quantity now hiding the Kingdom's leaven.", "contested": false},
+      {"source": "Judges 6:19", "type": "echo", "confidence": "low", "note": "Gideon prepares an ephah of flour (roughly three seahs) for the angelic visitor — another theophany-meal of this large measure.", "contested": true},
+      {"source": "1 Samuel 1:24", "type": "echo", "confidence": "low", "note": "Hannah brings an ephah of flour to the house of the LORD — large-measure meal in a sacred context; faint.", "contested": true},
+      {"source": "Hosea 7:4", "type": "echo", "confidence": "low", "note": "The leaven left to rise by the baker; one of the few OT uses of leavening as a process working through dough, here neutral-to-positive rather than the usual negative valence.", "contested": true}
+    ]
+  },
+  {
+    "id": "13.7",
+    "ch": 13,
+    "ref": "13:34-35",
+    "echoes": [
+      {"source": "Psalm 78:2", "type": "quotation", "confidence": "high", "note": "Formal fulfillment quotation: 'I will open my mouth in parables; I will utter things hidden from the foundation of the world.' Asaph's didactic psalm of Israel's history is cited as prophecy of Jesus' parabolic teaching.", "contested": false},
+      {"source": "Psalm 49:4", "type": "allusion", "confidence": "medium", "note": "'I will incline my ear to a proverb (mashal); I will open my riddle (hidah) on the harp' — parallel 'open my mouth / utter hidden things' diction; wisdom disclosing concealed truth.", "contested": false},
+      {"source": "Proverbs 1:6", "type": "echo", "confidence": "low", "note": "To understand 'a proverb (mashal) and a figure, the words of the wise and their riddles' — the mashal/riddle pairing underlying parabolic, hidden speech.", "contested": true},
+      {"source": "Isaiah 48:6", "type": "echo", "confidence": "low", "note": "'Hidden things you have not known' newly declared — disclosure of things hidden, faint backdrop to 'things hidden from the foundation of the world.'", "contested": true}
+    ]
+  },
+  {
+    "id": "13.8",
+    "ch": 13,
+    "ref": "13:36-43",
+    "echoes": [
+      {"source": "Daniel 12:3", "type": "allusion", "confidence": "high", "note": "'Those who are wise shall shine like the brightness of the firmament, and those who turn many to righteousness like the stars' — the direct source of 'the righteous will shine like the sun in the Kingdom of their Father' (v.43).", "contested": false},
+      {"source": "Daniel 3:6", "type": "allusion", "confidence": "medium", "note": "The 'furnace of blazing fire' (kaminos tou pyros) into which the disobedient are cast — verbal source for casting the wicked 'into the furnace of fire' (v.42).", "contested": false},
+      {"source": "Zephaniah 1:3", "type": "allusion", "confidence": "medium", "note": "LXX: God will remove the lawless and 'the stumbling-blocks (ta skandala) together with the wicked' — strikingly close to 'gather out of his Kingdom all things that cause stumbling (ta skandala) and those who do iniquity' (v.41).", "contested": false},
+      {"source": "Malachi 4:1", "type": "allusion", "confidence": "medium", "note": "The day burning like a furnace that consumes the wicked as stubble — the fiery end-of-age judgment behind the burning of the weeds (v.40-42).", "contested": false},
+      {"source": "Daniel 7:13-14", "type": "allusion", "confidence": "medium", "note": "The Son of Man receiving an everlasting kingdom — Jesus self-identifies as 'the Son of Man' who has a Kingdom from which his angels gather the wicked (v.37, 41); the Danielic Son-of-Man/kingdom matrix.", "contested": false},
+      {"source": "Joel 3:13", "type": "echo", "confidence": "low", "note": "Harvest = judgment reaffirmed: 'the harvest is the end of the age, and the reapers are angels' (v.39) interprets the harvest motif drawn from Joel.", "contested": true},
+      {"source": "Wisdom of Solomon 3:7", "type": "allusion", "confidence": "medium", "note": "Second Temple: 'In the time of their visitation the righteous will shine forth and run like sparks through the stubble' — a near-contemporary parallel to the righteous shining (v.43), pairing radiance with the burning of the wicked.", "contested": false},
+      {"source": "Judges 5:31", "type": "echo", "confidence": "low", "note": "'Let those who love him be like the sun rising in its might' — solar radiance as the destiny of the faithful; faint verbal kinship with shining 'like the sun.'", "contested": true}
+    ]
+  },
+  {
+    "id": "13.9",
+    "ch": 13,
+    "ref": "13:44",
+    "echoes": [
+      {"source": "Proverbs 2:4", "type": "echo", "confidence": "medium", "note": "Seek wisdom 'as silver and search for it as hidden treasures' — the joyful search-and-sell-all for hidden treasure mirrors wisdom literature's treasure-hunt for the supreme good.", "contested": true},
+      {"source": "Sirach 20:30", "type": "echo", "confidence": "low", "note": "Second Temple: 'Hidden wisdom and unseen treasure — what use is either?' — wisdom imaged as concealed treasure, faint backdrop to the field's hidden treasure.", "contested": true},
+      {"source": "Isaiah 45:3", "type": "echo", "confidence": "low", "note": "'I will give you the treasures of darkness and hoards in secret places' — God-given hidden treasure imagery; thematic only.", "contested": true}
+    ]
+  },
+  {
+    "id": "13.10",
+    "ch": 13,
+    "ref": "13:45-46",
+    "echoes": [
+      {"source": "Job 28:18", "type": "echo", "confidence": "medium", "note": "'The price of wisdom is above pearls/jewels' — wisdom surpassing precious gems; the pearl of supreme value for which all is sold echoes wisdom's incomparable worth.", "contested": true},
+      {"source": "Proverbs 3:15", "type": "echo", "confidence": "medium", "note": "Wisdom 'is more precious than jewels, and nothing you desire compares with her' (cf. 8:11) — the surpassing-value formula behind the one pearl worth selling everything.", "contested": true},
+      {"source": "Proverbs 2:4", "type": "echo", "confidence": "low", "note": "Seeking wisdom as for hidden treasure; the merchant's diligent seeking (v.45) parallels the wisdom-seeker's quest.", "contested": true}
+    ]
+  },
+  {
+    "id": "13.11",
+    "ch": 13,
+    "ref": "13:47-50",
+    "echoes": [
+      {"source": "Habakkuk 1:14-17", "type": "allusion", "confidence": "medium", "note": "Men caught like fish in a net and dragnet, drawn up and gathered — the dragnet (sagene) cast into the sea collecting people is anticipated by Habakkuk's image of catching humanity in a net.", "contested": false},
+      {"source": "Ezekiel 47:9-10", "type": "allusion", "confidence": "medium", "note": "Fishermen spread nets and catch 'fish of very many kinds, like the fish of the Great Sea' in the river from the temple — close to the dragnet gathering 'fish of every kind' (v.47).", "contested": false},
+      {"source": "Malachi 4:1", "type": "echo", "confidence": "low", "note": "The fiery end-of-age judgment recurs: the wicked separated and cast 'into the furnace of fire' (v.50), reusing the Malachi furnace motif.", "contested": true},
+      {"source": "Daniel 12:2", "type": "echo", "confidence": "low", "note": "Eschatological separation of the righteous and the wicked at the end; angels separating the evil from the just (v.49) parallels the two-fate resurrection.", "contested": true}
+    ]
+  },
+  {
+    "id": "13.12",
+    "ch": 13,
+    "ref": "13:51-52",
+    "echoes": [
+      {"source": "Song of Solomon 7:13", "type": "allusion", "confidence": "medium", "note": "'All choice fruits, new and old, which I have laid up for you, my beloved' — the distinctive 'new and old things' brought out of one's store closely matches the scribe's treasure of 'new and old.'", "contested": false},
+      {"source": "Leviticus 26:10", "type": "echo", "confidence": "low", "note": "'You shall eat old store long kept, and you shall clear out the old to make way for the new' — old and new produce drawn from the storehouse of blessing.", "contested": true},
+      {"source": "Jeremiah 6:16", "type": "echo", "confidence": "low", "note": "'Stand at the crossroads and ask for the ancient paths' — the discipled scribe honoring the old alongside the new; faint thematic link of valuing inherited wisdom.", "contested": true}
+    ]
+  },
+  {
+    "id": "13.13",
+    "ch": 13,
+    "ref": "13:53-58",
+    "echoes": [
+      {"source": "Jeremiah 11:21", "type": "allusion", "confidence": "medium", "note": "The men of Anathoth, Jeremiah's own town, seek his life and forbid him to prophesy (cf. 12:6, his own family deals treacherously) — the prophet rejected in his homeland and household, behind v.57.", "contested": false},
+      {"source": "Psalm 69:8", "type": "allusion", "confidence": "medium", "note": "'I have become a stranger to my brothers, an alien to my mother's children' — rejection by one's own family, paralleling 'in his own house' (v.57) where brothers and sisters are named.", "contested": false},
+      {"source": "1 Samuel 10:11-12", "type": "echo", "confidence": "low", "note": "'Is Saul also among the prophets?' — neighbors' astonishment that a known local figure now prophesies, like the townsfolk's 'where did this man get this wisdom?' (v.54).", "contested": true},
+      {"source": "Isaiah 53:3", "type": "echo", "confidence": "low", "note": "'Despised and rejected by men' — the Servant's rejection foreshadows the prophet dishonored among his own; thematic, no verbal overlap.", "contested": true},
+      {"source": "Amos 7:12-13", "type": "echo", "confidence": "low", "note": "Amaziah orders Amos to flee and stop prophesying at the king's sanctuary — a prophet driven out by the local establishment; faint analogue to hometown rejection.", "contested": true}
+    ]
+  }
+]

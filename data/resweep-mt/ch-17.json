@@ -1,0 +1,77 @@
+[
+  {
+    "id": "17.1",
+    "ch": 17,
+    "ref": "17:1-8",
+    "echoes": [
+      {"source": "Exodus 24:16", "type": "allusion", "confidence": "high", "note": "The glory of the LORD settles on Sinai and the cloud covers it 'six days,' and on the seventh day God calls Moses out of the cloud. Matthew's opening 'after six days' plus the high mountain, the cloud, and the divine voice from the cloud reproduce this Sinai theophany sequence with striking specificity; the strongest structural anchor for the new-Sinai reading.", "contested": false},
+      {"source": "Exodus 34:29-35", "type": "allusion", "confidence": "high", "note": "Coming down Sinai Moses' face shone (LXX dedoxastai) so that he had to veil it. Jesus' face 'shone like the sun' figurally surpasses Moses: where Moses reflected borrowed glory, Jesus radiates his own. The shining-face motif is a deliberate Mosaic borrowing.", "contested": false},
+      {"source": "Psalm 2:7", "type": "quotation", "confidence": "high", "note": "'You are my Son' — the royal-enthronement decree. The heavenly voice 'This is my beloved Son' weaves the Davidic/messianic sonship of Ps 2 into the composite oracle; widely recognized as one of the three texts fused at the baptism and transfiguration.", "contested": false},
+      {"source": "Isaiah 42:1", "type": "quotation", "confidence": "high", "note": "'My chosen, in whom my soul delights; I have put my Spirit upon him.' 'In whom I am well pleased' (eudokesa) echoes the Servant designation. The voice fuses royal Son (Ps 2) with Servant (Isa 42), framing the glorified Son as the suffering Servant on the way to the cross.", "contested": false},
+      {"source": "Deuteronomy 18:15", "type": "quotation", "confidence": "high", "note": "'The LORD will raise up for you a prophet like me... you shall listen to him' (autou akousesthe). The command 'Listen to him' is verbatim from the prophet-like-Moses promise; appended to the voice it identifies Jesus as the eschatological prophet, the climactic clause of the composite oracle.", "contested": false},
+      {"source": "Malachi 4:5-6", "type": "allusion", "confidence": "high", "note": "Elijah sent before the great Day. His appearance with Moses on the mountain anticipates the Elijah-must-come discussion of vv.10-13 and frames the scene eschatologically.", "contested": false},
+      {"source": "Deuteronomy 34:1-6", "type": "allusion", "confidence": "medium", "note": "Moses ascends a high mountain (Nebo), is shown the land, and dies in a manner the LORD conceals; later tradition held God buried/took him. His reappearance pairs with Elijah (who never died, 2 Kings 2) as the two who left earth extraordinarily, hence fit witnesses of glory.", "contested": false},
+      {"source": "2 Kings 2:11", "type": "allusion", "confidence": "medium", "note": "Elijah taken up to heaven in a whirlwind/chariot of fire — never tasting death. His presence on the mountain trades on the tradition of his heavenly translation, qualifying him to appear in glory alongside Moses.", "contested": false},
+      {"source": "Exodus 40:34-35", "type": "allusion", "confidence": "medium", "note": "The bright cloud (the kabod/Shekinah) overshadowing and filling the tent of meeting. 'A bright cloud overshadowed them' (episkiazo) draws on the tabernacle-cloud of divine presence, reinforced by Peter's wish to build three skenai (tents).", "contested": false},
+      {"source": "Leviticus 23:42-43", "type": "echo", "confidence": "low", "note": "The Feast of Booths (Sukkot): dwelling in tents to recall the wilderness. Peter's instinct to erect three skenai may evoke the festival of God dwelling with Israel; some read an eschatological-ingathering nuance. Faint and disputed.", "contested": true},
+      {"source": "Daniel 12:3", "type": "echo", "confidence": "medium", "note": "'The wise shall shine like the brightness of the sky... like the stars.' The luminous transformation ('face shone like the sun,' garments 'white as the light') draws on apocalyptic resurrection-glory imagery, anticipating the risen state foreshadowed in v.9.", "contested": false},
+      {"source": "Daniel 7:13", "type": "echo", "confidence": "low", "note": "The Son of Man coming with clouds. The cloud plus the Son-of-Man saying in v.9 may activate the Danielic glorification motif; faint here, stronger elsewhere in Matthew.", "contested": true},
+      {"source": "Exodus 33:18-23", "type": "echo", "confidence": "low", "note": "Moses asks to see God's glory and is hidden in the rock as the glory passes. The disciples falling on their faces in terror at the glory echoes the dangerous holiness of seeing divine glory on Sinai. Thematic.", "contested": true},
+      {"source": "Genesis 22:2", "type": "echo", "confidence": "low", "note": "'Your son, your only/beloved son.' The 'beloved Son' (agapetos, the LXX rendering of yahid in the Aqedah) may carry an Isaac-typology overtone of the beloved son led toward sacrifice, dovetailing with the passion predictions framing the chapter.", "contested": true},
+      {"source": "Habakkuk 3:3-4", "type": "echo", "confidence": "low", "note": "God comes in radiance, 'his brightness was like the light, rays flashing from his hand.' The garments 'white as the light' may draw on theophanic light-imagery. Faint.", "contested": true}
+    ]
+  },
+  {
+    "id": "17.2",
+    "ch": 17,
+    "ref": "17:9-13",
+    "echoes": [
+      {"source": "Malachi 4:5-6", "type": "allusion", "confidence": "high", "note": "'I will send you Elijah the prophet before the great and terrible day... he will turn (restore) the hearts.' The scribal expectation 'Elijah must come first' and Jesus' 'Elijah indeed comes first and will restore all things' (apokatastesei panta) directly cite this oracle; identified with John the Baptist.", "contested": false},
+      {"source": "Malachi 3:1", "type": "allusion", "confidence": "medium", "note": "'I send my messenger to prepare the way before me.' The forerunner role attached to Elijah/John builds on the messenger of Mal 3, the companion text to 4:5 in the prophecy of the coming Day.", "contested": false},
+      {"source": "Sirach 48:10", "type": "allusion", "confidence": "medium", "note": "Of Elijah: 'destined... to calm the wrath of God, to turn the heart of the parent to the child, and to restore (katastesai) the tribes of Jacob.' This Second Temple text supplies the 'restore all things' language and shows the developed Elijah-redivivus expectation Jesus engages. Deuterocanonical.", "contested": false},
+      {"source": "1 Kings 19:2-10", "type": "echo", "confidence": "medium", "note": "Jezebel seeks Elijah's life and he flees; 'they did to him whatever they wanted' may echo the suffering/persecution of the historical Elijah, mapped onto John (and onward to the Son of Man). Thematic-typological.", "contested": false},
+      {"source": "1 Kings 19:10", "type": "echo", "confidence": "low", "note": "'They did to him whatever they wanted to' — the maltreatment of the Elijah-figure (John) parallels Israel's rejection of the prophets generally; faint verbal, strong thematic continuity with the persecuted-prophet motif.", "contested": true},
+      {"source": "Isaiah 53:3", "type": "echo", "confidence": "low", "note": "'Even so the Son of Man will also suffer by them' pivots to the Servant's rejection and suffering, linking the fate of the forerunner to the passion. Faint here, the Servant frame recurs in the chapter.", "contested": true},
+      {"source": "Daniel 7:13", "type": "echo", "confidence": "low", "note": "'Until the Son of Man has risen from the dead' uses the Danielic Son-of-Man title; the resurrection-secret links glory to vindication. Title-level echo.", "contested": true}
+    ]
+  },
+  {
+    "id": "17.3",
+    "ch": 17,
+    "ref": "17:14-21",
+    "echoes": [
+      {"source": "Deuteronomy 32:5", "type": "allusion", "confidence": "high", "note": "'A perverse and crooked generation' (genea skolia kai diestrammene, LXX). Jesus' rebuke 'O faithless and perverse generation' (genea apistos kai diestrammene) borrows the Song of Moses' indictment of the wilderness generation, casting the unbelieving crowd as the new faithless Israel.", "contested": false},
+      {"source": "Numbers 14:11", "type": "allusion", "confidence": "medium", "note": "'How long will this people despise me? How long will they refuse to believe (ou pisteuousin) in me?' The doubled 'How long...?' lament over unbelief and 'faithless' echoes God's wilderness frustration with Israel through Moses. Strengthens the Moses-typology of the descent from the mountain.", "contested": false},
+      {"source": "Deuteronomy 32:20", "type": "allusion", "confidence": "medium", "note": "'They are a perverse generation, children in whom there is no faithfulness.' Continues the Song-of-Moses language behind 'faithless and perverse generation'; reinforces the Deut 32 frame.", "contested": false},
+      {"source": "Zechariah 4:7", "type": "echo", "confidence": "medium", "note": "'Who are you, O great mountain? Before Zerubbabel you shall become a plain.' The proverb of removing a mountain by God's power/Spirit may stand behind 'you will tell this mountain, Move from here.' Thematic.", "contested": true},
+      {"source": "Isaiah 40:4", "type": "echo", "confidence": "low", "note": "'Every mountain and hill made low.' The mountain-moving saying may draw on eschatological mountain-leveling imagery as a figure of God overcoming all obstacles. Faint.", "contested": true},
+      {"source": "Habakkuk 2:4", "type": "echo", "confidence": "low", "note": "'The righteous shall live by his faith.' The whole pericope's contrast of unbelief versus mustard-seed faith resonates with the prophetic valuation of faith, though no verbal borrowing. Thematic.", "contested": true},
+      {"source": "Numbers 14:22", "type": "echo", "confidence": "low", "note": "The wilderness generation tested God ten times and did not believe; 'How long will I bear with you?' echoes the divine forbearance toward a faithless people. Faint thematic.", "contested": true}
+    ]
+  },
+  {
+    "id": "17.4",
+    "ch": 17,
+    "ref": "17:22-23",
+    "echoes": [
+      {"source": "Isaiah 53:5-6", "type": "echo", "confidence": "medium", "note": "'The Son of Man is about to be delivered up (paradidotai) into the hands of men, and they will kill him.' The passive 'delivered up' echoes the Servant who 'was handed over for our sins' (Isa 53:6, 12 LXX paredothe), framing the death as the Servant's vicarious handing-over.", "contested": false},
+      {"source": "Isaiah 53:12", "type": "echo", "confidence": "medium", "note": "'His soul was delivered up to death... he was numbered with transgressors.' The being 'delivered into the hands of men' draws on the Servant's surrender; the divine-passive points to God's purpose behind the betrayal.", "contested": true},
+      {"source": "Hosea 6:2", "type": "echo", "confidence": "medium", "note": "'On the third day he will raise us up, that we may live before him.' 'The third day he will be raised up' may draw on this resurrection-on-the-third-day text, a candidate source for the early 'third day' formula.", "contested": true},
+      {"source": "Daniel 7:13", "type": "echo", "confidence": "low", "note": "The 'Son of Man' title carries the Danielic vindicated-one freight; the prediction couples humiliation with resurrection-vindication. Title-level echo.", "contested": true},
+      {"source": "Jonah 1:17", "type": "echo", "confidence": "low", "note": "'Three days and three nights'; Matthew elsewhere makes the Jonah-resurrection link explicit (12:40), so the 'third day' here may carry a faint Jonah resonance. Very faint.", "contested": true}
+    ]
+  },
+  {
+    "id": "17.5",
+    "ch": 17,
+    "ref": "17:24-27",
+    "echoes": [
+      {"source": "Exodus 30:11-16", "type": "allusion", "confidence": "high", "note": "The half-shekel atonement-money each Israelite pays for the service of the sanctuary. The didrachma (= the temple tax, the equivalent of the half-shekel) collected in v.24 is this Mosaic census/sanctuary levy; the whole exchange presupposes Exod 30 as the legal background of the temple tax.", "contested": false},
+      {"source": "Exodus 38:25-26", "type": "allusion", "confidence": "medium", "note": "The reckoning of the half-shekel (a beka) from each man counted. Confirms the fixed temple contribution behind the 'didrachma' question; the Pentateuchal institution of the sanctuary tax.", "contested": false},
+      {"source": "Nehemiah 10:32-33", "type": "echo", "confidence": "medium", "note": "The post-exilic community pledges a third/(later half-)shekel yearly 'for the service of the house of our God.' Documents the developing annual temple-tax practice the collectors enforce, the contemporary form of the Exodus levy.", "contested": false},
+      {"source": "Psalm 24:1", "type": "echo", "confidence": "low", "note": "'The earth is the LORD's and its fullness.' Jesus' logic that the king's own children are free, and the provision of the coin from the sea/fish, plays on God's ownership of all things — the Son not being a stranger in his Father's house (the temple). Thematic.", "contested": true},
+      {"source": "Malachi 1:6", "type": "echo", "confidence": "low", "note": "'A son honors his father.' The Father-Son / sons-of-the-king argument that the children are exempt may resonate with the sonship-over-against-temple logic; Jesus as Son is not a stranger to the Father's house. Faint.", "contested": true},
+      {"source": "Jonah 1:17", "type": "echo", "confidence": "low", "note": "A fish as divine instrument/provision at sea; the miraculous coin-bearing fish may carry a faint resonance of God's sovereign use of the sea-creature, though no verbal link. Very faint.", "contested": true}
+    ]
+  }
+]

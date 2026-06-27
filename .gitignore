@@ -9,3 +9,4 @@ node_modules
 # build-time bible store (regenerate via tools/download-web.mjs)
 tools/web.json
 tools/lxxe.json
+tools/lxxg.json

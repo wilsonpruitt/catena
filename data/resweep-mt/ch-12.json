@@ -1,0 +1,119 @@
+[
+  {
+    "id": "12.1",
+    "ch": 12,
+    "ref": "12:1-8",
+    "echoes": [
+      {"source": "1 Samuel 21:1-6", "type": "allusion", "confidence": "high", "note": "David, hungry, enters the house of God and eats the bread of the Presence (showbread), unlawful for any but priests. Jesus cites this episode by name ('what David did') as the controlling precedent for need overriding cultic restriction. Strong verbal and narrative borrowing: David + companions + hunger + eating the consecrated bread."},
+      {"source": "Leviticus 24:5-9", "type": "allusion", "confidence": "high", "note": "The legislation behind the showbread: twelve loaves set before the LORD, to be eaten only by Aaron and his sons 'in a holy place.' Jesus' phrase 'not lawful... but only for the priests' depends directly on this statute, which makes David's act a transgression that incurs no condemnation."},
+      {"source": "Numbers 28:9-10", "type": "allusion", "confidence": "high", "note": "The Sabbath burnt offerings (two lambs, with grain and drink offerings) — the legally mandated priestly labor on the Sabbath. This is the 'work' Jesus means when he says priests 'profane the Sabbath and are guiltless,' an a fortiori argument that the temple service licenses Sabbath labor."},
+      {"source": "Hosea 6:6", "type": "quotation", "confidence": "high", "note": "Formula-marked, near-verbatim citation: 'I desire mercy, and not sacrifice.' Matthew uniquely inserts this Hosea line (cf. 9:13) as the hermeneutical key to the whole controversy; condemning the 'guiltless' violates God's own stated priority of mercy over cult."},
+      {"source": "Exodus 20:8-11", "type": "echo", "confidence": "high", "note": "The Decalogue Sabbath command is the implicit law under dispute ('not lawful to do on the Sabbath'); the entire pericope is a halakhic argument over its proper scope."},
+      {"source": "Deuteronomy 5:12-15", "type": "echo", "confidence": "medium", "note": "The second Decalogue's Sabbath command, grounding the rest in liberation; relevant background to the dispute over what the Sabbath is for and whom it serves."},
+      {"source": "Exodus 34:21", "type": "echo", "confidence": "medium", "note": "'In plowing time and in harvest you shall rest' — the specific Sabbath rule sometimes read to forbid reaping; the disciples' plucking of grain would be construed as reaping under this line. Contested as the precise statute the Pharisees invoke.", "contested": true},
+      {"source": "Deuteronomy 23:25", "type": "echo", "confidence": "medium", "note": "Plucking grain heads by hand from a neighbor's standing crop is explicitly permitted (gleaning by hand, not sickle); the disciples' act is lawful as such — the dispute is only the Sabbath, not theft. Explains why the Pharisees object to the day, not the deed."},
+      {"source": "Daniel 7:13-14", "type": "echo", "confidence": "medium", "note": "'Son of Man is Lord of the Sabbath' — the title carries the dominion granted to the Danielic 'one like a son of man,' here extended over the Sabbath itself. Contested whether the title here is titular-Danielic or generic 'man.'", "contested": true},
+      {"source": "Genesis 2:2-3", "type": "echo", "confidence": "medium", "note": "The Sabbath's creational institution: God rests and hallows the seventh day. Jesus' lordship over the Sabbath claim resonates against the divine origin and purpose of the day."},
+      {"source": "1 Samuel 21:1", "type": "allusion", "confidence": "medium", "note": "Ahimelech the priest at Nob is the figure who gives David the bread; Matthew's general 'house of God' (not yet the Jerusalem temple) tracks the Nob sanctuary setting of the source."}
+    ]
+  },
+  {
+    "id": "12.2",
+    "ch": 12,
+    "ref": "12:9-14",
+    "echoes": [
+      {"source": "1 Kings 13:4-6", "type": "echo", "confidence": "medium", "note": "The withered/restored hand motif: Jeroboam's hand dries up and is restored at the man of God's word. Closest OT precedent for a 'withered hand' miraculously made whole, providing the verbal-thematic template Matthew's healing fulfills.", "contested": true},
+      {"source": "Deuteronomy 22:4", "type": "allusion", "confidence": "medium", "note": "'You shall not see your brother's ox or sheep fallen by the way and hide yourself; you shall help him lift them up.' The rescue-of-fallen-animal obligation underlies Jesus' a fortiori: if you lift a sheep from a pit, how much more do good for a man."},
+      {"source": "Exodus 23:4-5", "type": "echo", "confidence": "medium", "note": "Obligation to relieve even an enemy's overburdened or straying animal — Torah's positive duty of mercy to beasts, which Jesus leverages to argue that doing good cannot be a Sabbath violation."},
+      {"source": "Exodus 20:8-11", "type": "echo", "confidence": "medium", "note": "Again the Sabbath command is the contested law; the healing is staged as a deliberate test case of what 'lawful to do on the Sabbath' includes."},
+      {"source": "Hosea 6:6", "type": "echo", "confidence": "medium", "note": "The mercy-over-cult principle just cited (12:7) governs this scene too: 'it is lawful to do good on the Sabbath' enacts 'I desire mercy.' Thematic continuity links the two Sabbath controversies."},
+      {"source": "Genesis 1:26-27", "type": "echo", "confidence": "low", "note": "'How much more value is a man than a sheep' presupposes humanity's higher worth, rooted in creation in God's image; faint background to the lesser-to-greater argument.", "contested": true}
+    ]
+  },
+  {
+    "id": "12.3",
+    "ch": 12,
+    "ref": "12:15-21",
+    "echoes": [
+      {"source": "Isaiah 42:1-4", "type": "quotation", "confidence": "high", "note": "Matthew's longest formula quotation, explicitly marked 'fulfilled... through Isaiah.' The Servant Song: 'Behold my servant whom I have chosen, my beloved in whom my soul delights; I will put my Spirit on him; he will proclaim justice to the nations... a bruised reed he will not break, a smoldering wick he will not quench... and in his name the nations will hope.' Matthew adapts the LXX/Hebrew to interpret Jesus' withdrawal, healing, and command to silence as the meek, non-clamorous Servant's mission."},
+      {"source": "Isaiah 42:1", "type": "echo", "confidence": "high", "note": "'My chosen... in whom my soul delights, I will put my Spirit on him' verbally underlies the baptismal voice (Matt 3:17) and the Spirit endowment; Matthew here makes explicit the Servant-Christology already signaled at the baptism."},
+      {"source": "Isaiah 11:1-2", "type": "echo", "confidence": "medium", "note": "The Spirit-resting-on the Davidic shoot who judges the poor with righteousness; coheres with 'I will put my Spirit on him... he will proclaim justice,' and with the crowd's 'son of David' question following in 12:23."},
+      {"source": "Isaiah 49:1-6", "type": "echo", "confidence": "medium", "note": "Servant Song extending the servant's mission to the nations ('a light to the nations'); thematically reinforces 12:18/21 'justice to the nations... the nations will hope.'"},
+      {"source": "Genesis 22:2", "type": "echo", "confidence": "low", "note": "'My beloved' (agapetos) echoes the 'beloved son' Isaac language that LXX uses; faint resonance binding the Servant quotation to the beloved-son theme.", "contested": true}
+    ]
+  },
+  {
+    "id": "12.4",
+    "ch": 12,
+    "ref": "12:22-30",
+    "echoes": [
+      {"source": "2 Kings 1:2-3", "type": "allusion", "confidence": "high", "note": "Beelzebul/Baal-zebub, 'the god of Ekron' whom Ahaziah consults; the demonic name the Pharisees use derives from this Philistine deity, recast as 'prince of the demons.' Source of the loaded name."},
+      {"source": "2 Samuel 7:12-16", "type": "echo", "confidence": "medium", "note": "The crowd's 'Can this be the son of David?' invokes the Davidic-messianic hope of the dynastic promise; Matthew frames Jesus' exorcisms as evidence of Davidic/messianic identity."},
+      {"source": "Isaiah 49:24-25", "type": "allusion", "confidence": "high", "note": "'Shall the prey be taken from the mighty?... I will contend... and save your children.' The strong-man-bound-and-plundered image directly draws on Isaiah's promise that the spoil will be wrested from the tyrant — Jesus binding 'the strong man' (Satan) to plunder his house."},
+      {"source": "Isaiah 53:12", "type": "echo", "confidence": "medium", "note": "'He shall divide the spoil with the strong' — the Servant despoiling the mighty resonates with 'plunder his goods'; coheres with the Servant frame just quoted in 12:18-21.", "contested": true},
+      {"source": "Exodus 8:19", "type": "allusion", "confidence": "medium", "note": "'This is the finger of God' — Pharaoh's magicians concede the plagues' divine origin. Luke's parallel reads 'finger of God'; Matthew's 'Spirit of God cast out demons, then the Kingdom of God has come' carries the same Exodus echo: God's power directly at work signals the kingdom's arrival."},
+      {"source": "Zechariah 3:1-2", "type": "echo", "confidence": "low", "note": "Satan as the adversary rebuked by the LORD; background to the 'If Satan casts out Satan' / kingdom-of-Satan logic.", "contested": true},
+      {"source": "Daniel 2:44", "type": "echo", "confidence": "medium", "note": "The kingdom of God that breaks and supplants all other kingdoms; 'the Kingdom of God has come upon you' resonates with Daniel's eschatological kingdom overthrowing rival dominions (here Satan's)."},
+      {"source": "Joshua 24:15", "type": "echo", "confidence": "low", "note": "'He who is not with me is against me' carries the covenantal either/or of choosing allegiance ('choose this day whom you will serve'); faint thematic resonance of forced decision.", "contested": true}
+    ]
+  },
+  {
+    "id": "12.5",
+    "ch": 12,
+    "ref": "12:31-37",
+    "echoes": [
+      {"source": "Isaiah 63:10", "type": "allusion", "confidence": "medium", "note": "'They rebelled and grieved his Holy Spirit; therefore he turned to be their enemy.' Background to the unforgivable 'blasphemy against the Holy Spirit' — opposing the Spirit's manifest work (the exorcisms just performed) provokes irrevocable judgment."},
+      {"source": "Numbers 15:30-31", "type": "echo", "confidence": "medium", "note": "The sin done 'with a high hand' that despises the LORD's word and finds no atonement ('that person shall be cut off'); OT precedent for a sin beyond forgiveness, coherent with blasphemy against the Spirit."},
+      {"source": "1 Samuel 2:25", "type": "echo", "confidence": "low", "note": "'If a man sins against the LORD, who can intercede for him?' — a sin against God himself leaving no mediation; faint resonance with the unpardonable blasphemy.", "contested": true},
+      {"source": "Matthew 3:7", "type": "echo", "confidence": "medium", "note": "'Offspring of vipers' repeats John the Baptist's denunciation (3:7); intra-Matthean, but rooted in the OT serpent/brood imagery. The 'tree known by its fruit' similarly recalls 3:8-10 ('fruit worthy of repentance')."},
+      {"source": "Sirach 27:6", "type": "allusion", "confidence": "medium", "note": "'The fruit discloses the cultivation of a tree; so a person's speech discloses the cultivation of his mind.' Striking parallel to 'the tree is known by its fruit' applied to speech ('out of the abundance of the heart the mouth speaks'). Second Temple wisdom on word-as-fruit."},
+      {"source": "Proverbs 12:14", "type": "echo", "confidence": "medium", "note": "'From the fruit of his mouth a man is satisfied with good' — wisdom linking words to fruit and to one's standing (justification/condemnation by speech), undergirding 'by your words you will be justified.'"},
+      {"source": "Proverbs 18:21", "type": "echo", "confidence": "medium", "note": "'Death and life are in the power of the tongue' — words carry decisive judicial weight, coherent with 'by your words... justified... condemned.'"},
+      {"source": "Proverbs 15:4", "type": "echo", "confidence": "low", "note": "'A gentle tongue is a tree of life' — wisdom's tree-and-speech imagery; faint background to the good/corrupt tree and its fruit of words.", "contested": true},
+      {"source": "Ecclesiastes 12:14", "type": "echo", "confidence": "medium", "note": "'God will bring every deed into judgment... whether good or evil' — background to 'every idle word... in the day of judgment,' extending judgment to speech."}
+    ]
+  },
+  {
+    "id": "12.6",
+    "ch": 12,
+    "ref": "12:38-42",
+    "echoes": [
+      {"source": "Jonah 1:17", "type": "quotation", "confidence": "high", "note": "'Jonah was three days and three nights in the belly of the fish' — Jesus quotes this near-verbatim ('three days and three nights in the belly of the whale') as the type of 'the Son of Man... three days and three nights in the heart of the earth.' Figural fulfillment of Jonah's burial-and-deliverance."},
+      {"source": "Jonah 2:1-10", "type": "figural", "confidence": "high", "note": "Jonah's prayer 'out of the belly of Sheol' and deliverance on the third day is the typological pattern for Jesus' descent into 'the heart of the earth' and resurrection. The whole Jonah-in-the-deep scene is read as a sign of death and rising."},
+      {"source": "Jonah 3:5-10", "type": "allusion", "confidence": "high", "note": "'The men of Nineveh... repented at the preaching of Jonah.' Jesus cites Nineveh's repentance as testimony against 'this generation' that refuses the greater preacher. Direct narrative borrowing from Jonah 3."},
+      {"source": "1 Kings 10:1-13", "type": "allusion", "confidence": "high", "note": "The queen of Sheba comes 'from the ends of the earth' to hear Solomon's wisdom. Jesus invokes 'the queen of the south' as a witness who sought wisdom, contrasting 'something greater than Solomon.' Verbal and narrative dependence on 1 Kings 10."},
+      {"source": "2 Chronicles 9:1-12", "type": "allusion", "confidence": "high", "note": "Parallel account of the queen of Sheba's visit to Solomon; reinforces the 'queen of the south' allusion, drawn from the Chronicler's as well as the Kings narrative."},
+      {"source": "Jonah 2:2", "type": "echo", "confidence": "medium", "note": "'Out of the belly of Sheol I cried' — 'heart of the earth' language for the realm of death echoes Jonah's Sheol/deep imagery specifically."},
+      {"source": "Hosea 6:2", "type": "echo", "confidence": "medium", "note": "'On the third day he will raise us up' — the 'third day' resurrection schema possibly informs Jesus' 'three days' beyond the Jonah figure alone. Contested as a contributing intertext.", "contested": true},
+      {"source": "Deuteronomy 32:5", "type": "echo", "confidence": "medium", "note": "'A perverse and crooked generation' — the Song of Moses' indictment lies behind Matthew's recurrent 'evil and adulterous generation'; covenantal-prophetic language for a faithless people."},
+      {"source": "Deuteronomy 32:20", "type": "echo", "confidence": "medium", "note": "'A perverse generation, children in whom is no faithfulness' — reinforces the 'evil and adulterous generation' charge as a Mosaic Song echo."},
+      {"source": "Hosea 2:2-13", "type": "echo", "confidence": "medium", "note": "'Adulterous' for the unfaithful covenant people draws on the prophetic marriage metaphor (Israel as faithless spouse); grounds 'adulterous generation' in Hosea's idiom."},
+      {"source": "Jeremiah 3:8-9", "type": "echo", "confidence": "low", "note": "Israel's 'adultery' / divorce for unfaithfulness; further prophetic backdrop to 'adulterous generation.'", "contested": true},
+      {"source": "1 Kings 4:29-34", "type": "echo", "confidence": "medium", "note": "The breadth and fame of Solomon's wisdom that drew rulers from afar; background to why the queen came and why 'greater than Solomon' is a weighty claim."}
+    ]
+  },
+  {
+    "id": "12.7",
+    "ch": 12,
+    "ref": "12:43-45",
+    "echoes": [
+      {"source": "Isaiah 13:21", "type": "echo", "confidence": "medium", "note": "Desert/waterless ruins as the haunt of demons and wild creatures ('goat-demons will dance there'); background to the unclean spirit roaming 'waterless places' as the abode of demons."},
+      {"source": "Isaiah 34:14", "type": "echo", "confidence": "medium", "note": "Lilith and desert demons resting in the desolate waste; reinforces 'waterless places, seeking rest' as the conventional demonic wilderness habitat in prophetic imagery."},
+      {"source": "Leviticus 16:10", "type": "echo", "confidence": "low", "note": "Azazel/the scapegoat driven into the wilderness; the desert as the place to which uncleanness is dispatched, faint background to the spirit's wilderness wandering.", "contested": true},
+      {"source": "Tobit 8:3", "type": "echo", "confidence": "medium", "note": "The demon Asmodeus flees to 'the remotest parts of Egypt' / the desert and is bound; Second Temple narrative of a routed demon driven to desolate regions, parallel to the unclean spirit expelled to waterless places."},
+      {"source": "2 Peter 2:20", "type": "echo", "confidence": "low", "note": "'The last state has become worse for them than the first' — closely parallel proverbial form; likely shared tradition rather than source, but illuminates the saying's logic of relapse-into-worse.", "contested": true},
+      {"source": "Proverbs 26:11", "type": "echo", "confidence": "low", "note": "'As a dog returns to its vomit, so a fool repeats his folly' — wisdom proverb on relapse to a worse state, thematic kin to the spirit's return making 'the last state worse than the first.'", "contested": true}
+    ]
+  },
+  {
+    "id": "12.8",
+    "ch": 12,
+    "ref": "12:46-50",
+    "echoes": [
+      {"source": "Deuteronomy 33:9", "type": "echo", "confidence": "medium", "note": "Levi 'disowned his brothers and ignored his children' for covenant loyalty — kin-ties subordinated to obedience to God. Background to Jesus redefining family by doing 'the will of my Father' over natural kinship.", "contested": true},
+      {"source": "Exodus 32:26-29", "type": "echo", "confidence": "low", "note": "The Levites side with Moses against their own kin at the golden calf, gaining a 'blessing' for putting covenant before family; faint resonance with kinship redefined by allegiance to God's will.", "contested": true},
+      {"source": "Psalm 40:8", "type": "echo", "confidence": "low", "note": "'I delight to do your will, O my God' — doing the Father's will as the mark of true belonging coheres with 'whoever does the will of my Father.'", "contested": true},
+      {"source": "Psalm 22:22", "type": "echo", "confidence": "low", "note": "'I will tell of your name to my brothers' — the messianic figure naming the faithful as kindred ('brothers'); faint background to Jesus' new-family declaration.", "contested": true}
+    ]
+  }
+]

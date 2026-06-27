@@ -1,0 +1,219 @@
+[
+  {
+    "id": "28.1",
+    "ch": 28,
+    "ref": "28:1-10",
+    "echoes": [
+      {
+        "source": "Daniel 10:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The angel's appearance 'like lightning' and clothing 'white as snow' echoes Daniel's vision of the man clothed in linen whose 'face was like the appearance of lightning' and whose body shone. Matthew draws on the standard Danielic theophany-angelophany vocabulary to mark this messenger as a heavenly being.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'His clothing white as snow' matches the Ancient of Days whose 'clothing was white as snow.' The dazzling-white garment is a marker of divine/heavenly glory; Matthew transfers the apocalyptic radiance to the resurrection messenger.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 19:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A great earthquake' (seismos) recalls the theophany at Sinai where the whole mountain quaked greatly at the LORD's descent. Matthew uses earthquake as a recurring sign of divine intervention (cf. 27:51), framing the resurrection as a world-shaking act of God.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The eschatological awakening of those who 'sleep in the dust' to everlasting life stands behind the resurrection scene; the guards becoming 'like dead men' while the dead one rises figurally inverts Daniel's resurrection hope.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 41:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Don't be afraid' (me phobeisthe) on the angel's lips is the recurrent assurance-of-presence formula God speaks to his people: 'Fear not, for I am with you.' It frames the empty tomb as a moment of divine reassurance, anticipating 28:20.",
+        "contested": false
+      },
+      {
+        "source": "Joshua 1:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'do not be afraid... for the LORD your God is with you' charge before entering the land resonates with the angel's reassurance and the disciples' coming commission; a faint commissioning-courage motif.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 18:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The women's prostration and grasping Jesus' feet in worship recalls the patriarchal pattern of falling before a divine visitor; a faint thematic resonance with theophanic reverence rather than a verbal borrowing.",
+        "contested": true
+      },
+      {
+        "source": "Song of Solomon 3:1-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The women seeking at dawn, then finding and taking hold of the beloved ('I held him and would not let him go') has long been read figurally alongside the women grasping Jesus' feet; a contested, allusive resonance in early reception.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 22:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' instruction to tell 'my brothers' echoes the vindicated sufferer who declares God's name 'to my brothers' after deliverance; given Matthew's heavy use of Psalm 22 at the cross (27:35,43,46), the brother-language here may extend that figural arc.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "28.2",
+    "ch": 28,
+    "ref": "28:11-15",
+    "echoes": [
+      {
+        "source": "Zechariah 11:12-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The chief priests again deploying silver to corrupt the truth recalls the thirty pieces of silver weighed out in Zechariah and used by Matthew at 27:9-10; the bribe of the guards forms a bookend of priestly money-dealing around the Passion.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 23:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall take no bribe, for a bribe blinds... and subverts the cause of the righteous' stands ironically behind the priests bribing soldiers to spread a lie; a thematic indictment rather than a verbal quotation.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 17:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The wicked accepts a bribe in secret to pervert the ways of justice' resonates with the secret payment and concocted cover story; faint sapiential coloring of the leaders' deceit.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "28.3",
+    "ch": 28,
+    "ref": "28:16-20",
+    "echoes": [
+      {
+        "source": "Daniel 7:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Great Commission is built on the enthronement of the one like a son of man: 'to him was given dominion (authority) and glory and kingship, that all peoples, nations, and languages should serve him.' Matthew's 'all authority in heaven and on earth has been given to me' + 'make disciples of all nations' transposes the Danielic grant of universal, everlasting authority to the risen Jesus.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The kingdom and the dominion... shall be given to the people of the saints' extends the son-of-man grant to his people; the commission to disciple all nations enacts the spread of this everlasting dominion through the Son's authority.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 3:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I am with you always' is the divine-presence/commissioning formula God speaks to Moses at the bush: 'I will be with you.' The promise that secures a commissioned agent for an impossible task is given here by the risen Jesus, claiming the role of God-with-his-people.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 28:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Behold, I am with you and will keep you wherever you go' to Jacob is the patriarchal divine-presence promise tied to a worldwide blessing ('all families of the earth'). Jesus' closing assurance to disciples sent to all nations recapitulates this guarantee of accompaniment.",
+        "contested": false
+      },
+      {
+        "source": "Haggai 1:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I am with you, declares the LORD' spoken to the post-exilic community as they take up a great work parallels the presence promise underwriting the disciples' mission; part of the recurrent 'I am with you' presence formula.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 41:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Fear not, for I am with you... I will strengthen you' is the Isaianic presence-and-courage oracle. The risen Jesus' 'I am with you always' assumes this divine first-person assurance to the servant people.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 7:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'They shall call his name Immanuel, God with us.' Matthew opens (1:23) and closes (28:20 'I am with you always') with the Immanuel theme, forming a deliberate inclusio; the final presence promise fulfills the naming prophecy that frames the Gospel.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 31:23",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Moses commissions Joshua: 'Be strong and courageous, for you shall bring the people into the land... and I will be with you.' The risen Jesus (whose name is Joshua) commissions his successors to take the nations, with the same 'I will be with you' guarantee; a typological commissioning scene.",
+        "contested": false
+      },
+      {
+        "source": "Joshua 1:5",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'As I was with Moses, so I will be with you... I will not leave you nor forsake you' is the divine charge to Joshua at the threshold of conquest. Jesus' perpetual-presence promise to disciples advancing into all nations echoes this commissioning template.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 12:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'In you all the families of the earth shall be blessed' — the Abrahamic promise of universal blessing. 'Make disciples of all nations' realizes the worldwide scope of the covenant, a thread Matthew began with the genealogy 'son of Abraham' (1:1).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The servant given 'as a light to the nations, that my salvation may reach to the end of the earth' undergirds the universal-mission mandate to all nations; Matthew's Galilee-of-the-nations theme (4:15-16) is here brought to fulfillment.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 2:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The nations streaming to the mountain of the LORD to be taught his ways resonates with the disciples gathered on a mountain and sent to teach all nations to observe Jesus' commands; faint Zion-mountain/pilgrimage-of-nations coloring.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 24:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus teaching the nations to observe 'all that I commanded you' on a mountain casts him in a Moses-on-Sinai role giving authoritative commandments; a figural new-Sinai resonance consistent with Matthew's Moses typology.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Ask of me, and I will make the nations your heritage and the ends of the earth your possession' — the enthroned royal Son granted the nations. The risen Son's authority over all and claim to all nations echoes this messianic enthronement psalm.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:44",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The God of heaven setting up an everlasting kingdom that fills the earth resonates with the universal, age-spanning ('to the end of the age') scope of the commission; faint apocalyptic kingdom-extension motif.",
+        "contested": true
+      },
+      {
+        "source": "2 Chronicles 36:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Cyrus' decree, 'The LORD... has given me all the kingdoms of the earth, and he has charged me to build... Whoever is among you... let him go up' pairs a grant of universal authority with a sending commission; a faint structural parallel to 'all authority... go.'",
+        "contested": true
+      }
+    ]
+  }
+]

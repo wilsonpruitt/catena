@@ -1,0 +1,92 @@
+[
+  {
+    "id": "11.1",
+    "ch": 11,
+    "ref": "11:1-6",
+    "echoes": [
+      {"source": "Isaiah 35:5", "type": "quotation", "confidence": "high", "note": "Jesus' catalog of signs answers John by weaving Isaiah's vision of the redeemed: 'the eyes of the blind shall be opened, and the ears of the deaf unstopped' — 'the blind receive sight, the deaf hear' borrows verbatim imagery, marking the dawning kingdom.", "contested": false},
+      {"source": "Isaiah 35:6", "type": "quotation", "confidence": "high", "note": "'Then shall the lame man leap as a hart' directly underlies 'the lame walk'; Isaiah 35 is the controlling subtext for Jesus' reply, signaling that the eschatological restoration has arrived.", "contested": false},
+      {"source": "Isaiah 61:1", "type": "quotation", "confidence": "high", "note": "'to preach good news to the poor' (anointed Servant) supplies the climactic 'the poor have good news preached to them' — the same verb/theme Jesus claims as his own programmatic mission (cf. Luke 4:18).", "contested": false},
+      {"source": "Isaiah 26:19", "type": "allusion", "confidence": "high", "note": "'the dead are raised up' echoes Isaiah's resurrection hope, 'Your dead shall live... the earth shall give birth to the dead,' folded into the kingdom-signs list.", "contested": false},
+      {"source": "Isaiah 29:18", "type": "allusion", "confidence": "high", "note": "'In that day shall the deaf hear the words of the book, and the eyes of the blind shall see' — a parallel Isaianic oracle reinforcing the deaf/blind reversal, part of a recurring Isaianic cluster.", "contested": false},
+      {"source": "Isaiah 42:7", "type": "allusion", "confidence": "medium", "note": "The Servant 'to open the blind eyes' resonates with restoring sight; strengthens the Servant-mission reading of Jesus' self-presentation.", "contested": false},
+      {"source": "Isaiah 42:18", "type": "echo", "confidence": "medium", "note": "'Hear, you deaf; and look, you blind, that you may see' — further Isaianic deaf/blind language drawn into the answer to John.", "contested": true},
+      {"source": "Leviticus 14:2", "type": "echo", "confidence": "medium", "note": "'the lepers are cleansed' presumes the Torah cleansing rite for the healed leper; the only OT framework for leprosy cleansing, evoked figurally as fulfilled.", "contested": true},
+      {"source": "2 Kings 5:14", "type": "echo", "confidence": "low", "note": "Naaman's cleansing is the paradigmatic prophetic leprosy healing; a faint precedent for 'lepers are cleansed' as a sign of prophetic power.", "contested": true}
+    ]
+  },
+  {
+    "id": "11.2",
+    "ch": 11,
+    "ref": "11:7-15",
+    "echoes": [
+      {"source": "Malachi 3:1", "type": "quotation", "confidence": "high", "note": "'Behold, I send my messenger before your face, who will prepare your way before you' is a formula citation ('of whom it is written') of Mal 3:1, 'Behold, I send my messenger, and he shall prepare the way before me,' identifying John as the eschatological forerunner.", "contested": false},
+      {"source": "Exodus 23:20", "type": "allusion", "confidence": "medium", "note": "'Behold, I send a messenger before you' (LXX wording 'before your face') is conflated with Mal 3:1 in the citation; the second-person 'before your face' tracks Exodus more closely than Malachi's 'before me.'", "contested": false},
+      {"source": "Malachi 4:5", "type": "quotation", "confidence": "high", "note": "'this is Elijah, who is to come' directly invokes Mal 4:5, 'I will send you Elijah the prophet before the great and terrible day of the LORD,' interpreting John as the returning Elijah.", "contested": false},
+      {"source": "1 Kings 19:13", "type": "echo", "confidence": "medium", "note": "The Elijah identification draws on the whole Elijah cycle; the wilderness/mantle prophet of austere dress stands behind the contrast with 'soft clothing' and the desert setting.", "contested": true},
+      {"source": "2 Kings 1:8", "type": "echo", "confidence": "medium", "note": "Elijah 'a hairy man, with a leather belt' grounds the John-as-Elijah figure and the contrast with kingly 'soft clothing'; cf. Matthew's own description of John's garb.", "contested": true},
+      {"source": "Isaiah 40:3", "type": "echo", "confidence": "medium", "note": "'What did you go out into the wilderness to see?' evokes the wilderness-voice preparing the way, the same way-preparation motif as the Mal 3:1 citation.", "contested": true},
+      {"source": "Genesis 3:15", "type": "echo", "confidence": "low", "note": "'born of women' as a marker of mortal human descent is biblical idiom (cf. Job 14:1; 15:14; 25:4); the phrase frames John as the greatest of mortals.", "contested": true},
+      {"source": "Job 14:1", "type": "echo", "confidence": "low", "note": "'Man who is born of a woman is of few days' supplies the idiom 'born of women' for finite humanity, against which John's greatness and the kingdom's superiority are measured.", "contested": true}
+    ]
+  },
+  {
+    "id": "11.3",
+    "ch": 11,
+    "ref": "11:16-19",
+    "echoes": [
+      {"source": "Proverbs 8:32", "type": "allusion", "confidence": "medium", "note": "'wisdom is justified by her children' personifies Wisdom as in Proverbs 8, where Lady Wisdom calls and her children/sons heed her; Jesus and John are vindicated as Wisdom's offspring.", "contested": false},
+      {"source": "Sirach 4:11", "type": "allusion", "confidence": "medium", "note": "'Wisdom exalts her sons and lays hold of those who seek her' — Second Temple Wisdom personification standing directly behind 'wisdom is justified by her children.'", "contested": false},
+      {"source": "Ecclesiastes 3:4", "type": "echo", "confidence": "low", "note": "'a time to weep, and a time to laugh; a time to mourn, and a time to dance' faintly underlies the children's complaint about piping/dancing and mourning/lament.", "contested": true},
+      {"source": "Proverbs 9:1", "type": "echo", "confidence": "low", "note": "Wisdom's banquet invitation supports the wider Wisdom-vindicated theme; contested as a specific source.", "contested": true}
+    ]
+  },
+  {
+    "id": "11.4",
+    "ch": 11,
+    "ref": "11:20-24",
+    "echoes": [
+      {"source": "Isaiah 23:1", "type": "allusion", "confidence": "high", "note": "The oracle against Tyre (and Sidon, v.4) is the prophetic backdrop for naming Tyre/Sidon as proverbially judged Gentile cities now declared less culpable than the unrepentant Galilean towns.", "contested": false},
+      {"source": "Ezekiel 26:3", "type": "allusion", "confidence": "high", "note": "Ezekiel's extended judgment on Tyre ('I am against you, O Tyre') makes Tyre the type of a doomed city; invoked to shame Chorazin and Bethsaida.", "contested": false},
+      {"source": "Ezekiel 28:21", "type": "allusion", "confidence": "medium", "note": "'Set your face against Sidon' — the companion oracle completing the Tyre/Sidon judgment pair Jesus names.", "contested": false},
+      {"source": "Genesis 19:24", "type": "allusion", "confidence": "high", "note": "Sodom's fiery overthrow is the archetypal divine judgment; 'more tolerable for the land of Sodom on the day of judgment' presupposes Genesis 19 as the benchmark of destroyed wickedness.", "contested": false},
+      {"source": "Isaiah 14:13", "type": "allusion", "confidence": "high", "note": "'You, Capernaum, exalted to heaven, you will go down to Hades' reworks the taunt against Babylon's king: 'I will ascend into heaven... yet you shall be brought down to Sheol' (Isa 14:13-15).", "contested": false},
+      {"source": "Isaiah 14:15", "type": "allusion", "confidence": "high", "note": "'brought down to Sheol' is the direct verbal pattern behind 'go down to Hades'; the proud-exaltation-then-abasement form is borrowed wholesale.", "contested": false},
+      {"source": "Ezekiel 16:48", "type": "echo", "confidence": "medium", "note": "Ezekiel compares Jerusalem unfavorably to Sodom ('Sodom your sister has not done as you'), the same rhetorical move — guilty Israel worse than proverbial Sodom — Jesus makes against Capernaum.", "contested": false},
+      {"source": "Lamentations 4:6", "type": "echo", "confidence": "low", "note": "'the punishment of my people is greater than the punishment of Sodom' parallels the comparative-judgment logic; contested as direct source.", "contested": true},
+      {"source": "Jonah 3:6", "type": "echo", "confidence": "medium", "note": "'repented long ago in sackcloth and ashes' echoes Nineveh's repentance in sackcloth and ashes, the model Gentile-repentance the Galilean towns failed to match.", "contested": true},
+      {"source": "Deuteronomy 29:23", "type": "echo", "confidence": "low", "note": "Sodom and Gomorrah's overthrow as covenant-curse paradigm reinforces 'the land of Sodom' as judgment shorthand.", "contested": true}
+    ]
+  },
+  {
+    "id": "11.5",
+    "ch": 11,
+    "ref": "11:25-27",
+    "echoes": [
+      {"source": "Daniel 2:21", "type": "allusion", "confidence": "medium", "note": "'I thank you, Father, Lord of heaven and earth' echoes Daniel's blessing of the God who 'gives wisdom to the wise' yet reveals hidden things — the same revelation-to-the-lowly, concealment-from-the-wise pattern.", "contested": false},
+      {"source": "Daniel 2:23", "type": "allusion", "confidence": "medium", "note": "'I thank you... you have given me wisdom... made known to us the king's matter' supplies the thanksgiving-for-revelation form behind Jesus' prayer.", "contested": false},
+      {"source": "Isaiah 29:14", "type": "allusion", "confidence": "medium", "note": "'the wisdom of their wise men shall perish' grounds the reversal in which God hides 'these things from the wise and understanding' — the same Isaianic critique of human wisdom.", "contested": false},
+      {"source": "Sirach 51:1", "type": "echo", "confidence": "medium", "note": "Sirach 51 opens 'I will give thanks to you, O Lord and King' — a sage's thanksgiving immediately preceding the Wisdom-yoke invitation (Sir 51:23ff) that Matthew 11:28-30 reworks; the thanksgiving + invitation sequence parallels Matthew's.", "contested": true},
+      {"source": "Proverbs 30:4", "type": "echo", "confidence": "low", "note": "'What is his name, and what is his son's name?' faintly anticipates the exclusive Father-Son mutual knowing of v.27; contested.", "contested": true},
+      {"source": "Wisdom 2:13", "type": "echo", "confidence": "low", "note": "The righteous one 'calls himself a child of the Lord' and claims knowledge of God, a Second Temple anticipation of the Son's unique knowledge of the Father.", "contested": true}
+    ]
+  },
+  {
+    "id": "11.6",
+    "ch": 11,
+    "ref": "11:28-30",
+    "echoes": [
+      {"source": "Sirach 51:23", "type": "allusion", "confidence": "high", "note": "Wisdom's invitation 'Draw near to me, you who are untaught... Put your neck under the yoke, and let your souls receive instruction' is the closest analogue: 'Come to me... Take my yoke upon you, and learn from me.' Jesus speaks as incarnate Wisdom issuing her summons.", "contested": false},
+      {"source": "Sirach 51:26", "type": "allusion", "confidence": "high", "note": "'Put your neck under her yoke, and let your soul receive instruction... See with your eyes how I have labored little and found for myself much rest' — supplies yoke + labor + rest in the same cluster Jesus uses.", "contested": false},
+      {"source": "Sirach 51:27", "type": "allusion", "confidence": "high", "note": "'I have labored little and found for myself great rest' lies directly behind 'I will give you rest' / 'rest for your souls' joined to taking up the yoke.", "contested": false},
+      {"source": "Jeremiah 6:16", "type": "allusion", "confidence": "high", "note": "'ask for the old paths... and you will find rest for your souls' is verbatim behind 'you will find rest for your souls' (Mt 11:29); Jesus offers the rest Jeremiah's generation refused.", "contested": false},
+      {"source": "Sirach 6:24", "type": "allusion", "confidence": "medium", "note": "'Put your feet into her fetters, and your neck into her collar/yoke... at last you will find her rest' — Sirach's earlier Wisdom-yoke passage doubling the yoke-and-rest motif.", "contested": false},
+      {"source": "Sirach 6:28", "type": "echo", "confidence": "medium", "note": "'at last you will find the rest she gives, and she will be changed into joy for you' reinforces the Wisdom-yoke-rest pattern adopted in vv.28-30.", "contested": true},
+      {"source": "Exodus 33:14", "type": "echo", "confidence": "medium", "note": "'My presence will go with you, and I will give you rest' is the foundational divine promise of rest; 'I will give you rest' assumes God as the giver of rest.", "contested": true},
+      {"source": "Zechariah 9:9", "type": "echo", "confidence": "medium", "note": "'gentle and lowly in heart' echoes the humble/meek king who comes 'lowly and riding on a donkey' (Mt 21:5 cites it); the same praus self-description.", "contested": true},
+      {"source": "Numbers 12:3", "type": "echo", "confidence": "low", "note": "'the man Moses was very meek, above all men' offers a precedent for 'I am gentle (meek) and lowly,' figuring Jesus as a new Moses giving an easy yoke.", "contested": true},
+      {"source": "Isaiah 14:25", "type": "echo", "confidence": "low", "note": "'his yoke shall depart... his burden depart from off their shoulder' — the relief-from-yoke/burden imagery faintly contrasts with Jesus' light yoke and easy burden.", "contested": true},
+      {"source": "Isaiah 55:1", "type": "echo", "confidence": "low", "note": "'Come, everyone who thirsts, come to the waters' is the open invitational form ('Come to me, all') of prophetic Wisdom-summons.", "contested": true}
+    ]
+  }
+]

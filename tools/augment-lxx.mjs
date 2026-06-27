@@ -20,6 +20,8 @@ const CURATED = [
   "Proverbs 3:11",     // Heb 12:5-6 — LXX "scourges every son"
   "Habakkuk 2:3",      // Heb 10:37-38 — LXX adds "if he shrinks back"
   "Zechariah 12:10",   // Rev 1:7 — LXX "they mocked/insulted" vs Hebrew "pierced"
+  "Psalm 8:2",         // Matt 21:16 — LXX "praise" (αἶνον) vs Hebrew "strength"
+  "Isaiah 29:13",      // Matt 15:8-9 — LXX "in vain… teaching commandments of men" vs Hebrew "fear taught by men"
 ];
 const stripParen = (s) => s.replace(/\s*\(.*?\)\s*/g, " ").replace(/\s+/g, " ").trim();
 const isCurated = (src) => CURATED.some((c) => src.startsWith(c));
@@ -27,7 +29,7 @@ const cap = (t) => (t.length <= 480 ? t : t.slice(0, 480).replace(/\s+\S*$/, "")
 
 let attached = 0;
 const log = [];
-for (const f of ["hebrews", "revelation"]) {
+for (const f of ["hebrews", "revelation", "matthew"]) {
   const d = JSON.parse(readFileSync(`/Users/wilsonpruitt/catena/data/${f}.json`, "utf8"));
   for (const p of d.pericopes) for (const e of p.echoes) {
     if (e.lxxText) delete e.lxxText; // idempotent

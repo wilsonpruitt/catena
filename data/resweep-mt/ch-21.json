@@ -1,0 +1,90 @@
+[
+  {
+    "id": "21.1",
+    "ch": 21,
+    "ref": "21:1-11",
+    "echoes": [
+      {"source": "Zechariah 9:9", "type": "quotation", "confidence": "high", "note": "Matthew's formula citation (21:4-5) of the prophesied king who comes 'humble, and riding on a donkey, on a colt, the foal of a donkey.' Matthew uniquely reads the Hebrew parallelism woodenly, producing two animals (donkey and colt), which shapes his narrative of two beasts (21:7).", "contested": false},
+      {"source": "Isaiah 62:11", "type": "quotation", "confidence": "high", "note": "The opening of the citation, 'Tell the daughter of Zion, behold...,' is drawn from Isaiah 62:11 ('Say to the daughter of Zion, Behold, your salvation comes') rather than from Zechariah, whose own opening is 'Rejoice greatly.' Matthew blends Isaiah 62:11 with Zechariah 9:9 into a single quotation.", "contested": false},
+      {"source": "Psalm 118:25-26", "type": "quotation", "confidence": "high", "note": "The crowd's cry (21:9) quotes Psalm 118:25-26: 'Hosanna' transliterates the Hebrew 'hoshia-na' ('save now,' Ps 118:25), and 'Blessed is he who comes in the name of the LORD' is verbatim from Ps 118:26 (LXX), a Hallel pilgrimage acclamation.", "contested": false},
+      {"source": "2 Kings 9:13", "type": "allusion", "confidence": "medium", "note": "Spreading garments on the road as an act of royal acclamation: at Jehu's anointing the men 'took every man his garment, and put it under him... and blew the trumpet, saying, Jehu is king.' The crowd's gesture (21:8) enacts an enthronement.", "contested": false},
+      {"source": "1 Kings 1:33-40", "type": "allusion", "confidence": "medium", "note": "Solomon is mounted on the king's mule and led to be made king amid rejoicing; the royal son of David enters his city riding a humble mount to acclamation, the pattern Jesus' entry evokes.", "contested": false},
+      {"source": "2 Samuel 7:12-16", "type": "echo", "confidence": "medium", "note": "The repeated acclamation 'son of David' (21:9) invokes the Davidic covenant promise of an everlasting throne to David's offspring, framing Jesus' entry as the coming of the promised Davidic king.", "contested": false},
+      {"source": "Genesis 49:11", "type": "echo", "confidence": "low", "note": "Jacob's blessing on Judah, 'binding his foal to the vine and his donkey's colt to the choice vine,' was read messianically (donkey + colt motif) in Jewish tradition and may stand behind the donkey imagery alongside Zechariah 9:9.", "contested": true},
+      {"source": "Zephaniah 3:14-15", "type": "echo", "confidence": "low", "note": "'Rejoice, daughter of Zion... the King of Israel, even the LORD, is in your midst': a 'daughter of Zion' oracle announcing the arrival of the divine king, thematically resonant with the entry.", "contested": true},
+      {"source": "Deuteronomy 18:15", "type": "echo", "confidence": "low", "note": "The crowd's identification of Jesus as 'the prophet' (21:11) may echo the promise of a prophet like Moses whom the people must heed.", "contested": true},
+      {"source": "1 Maccabees 13:51", "type": "echo", "confidence": "medium", "note": "Simon's entry into the Jerusalem citadel 'with praise and palm branches' provides a Second Temple template for entering the holy city with branches and acclamation, paralleling the multitude cutting and spreading branches (21:8).", "contested": false},
+      {"source": "2 Maccabees 10:7", "type": "echo", "confidence": "low", "note": "At the temple's rededication the people carried 'branches and beautiful boughs and palms' with hymns, a Hanukkah-style festal procession resembling the branch-waving acclamation of Jesus.", "contested": true}
+    ]
+  },
+  {
+    "id": "21.2",
+    "ch": 21,
+    "ref": "21:12-17",
+    "echoes": [
+      {"source": "Isaiah 56:7", "type": "quotation", "confidence": "high", "note": "Jesus' citation 'My house shall be called a house of prayer' (21:13) quotes Isaiah 56:7 verbatim, an oracle of the temple as a house of prayer for all peoples; the act of cleansing enacts the eschatological temple ideal.", "contested": false},
+      {"source": "Jeremiah 7:11", "type": "quotation", "confidence": "high", "note": "'But you have made it a den of robbers' (21:13) quotes Jeremiah 7:11 from the Temple Sermon, where cultic activity masks injustice and invites judgment; the borrowed indictment imports Jeremiah's threat of the temple's destruction.", "contested": false},
+      {"source": "Psalm 8:2", "type": "quotation", "confidence": "high", "note": "Jesus answers the indignant priests by citing Psalm 8:2 (21:16): 'Out of the mouth of babes and nursing babies you have perfected praise' (the LXX form 'perfected praise' rather than MT 'established strength'), legitimating the children's Hosanna as God-ordained praise.", "contested": false},
+      {"source": "Zechariah 14:21", "type": "allusion", "confidence": "medium", "note": "'There shall no longer be a trader (Canaanite/merchant) in the house of the LORD of hosts on that day': the eschatological purging of commerce from the temple is the closest prophetic charter for driving out sellers and money-changers.", "contested": false},
+      {"source": "Malachi 3:1-3", "type": "allusion", "confidence": "medium", "note": "'The Lord whom you seek will suddenly come to his temple... he will purify the sons of Levi': the messenger/Lord coming to purify temple worship undergirds Jesus' purifying intervention.", "contested": false},
+      {"source": "2 Samuel 5:8", "type": "allusion", "confidence": "medium", "note": "The proverb that 'the blind and the lame' shall not come into the house is pointedly reversed: 'the blind and the lame came to him in the temple, and he healed them' (21:14), so that the excluded are restored at the purified temple.", "contested": false},
+      {"source": "Leviticus 5:7", "type": "echo", "confidence": "low", "note": "The doves/pigeons sold (21:12) are the offering prescribed for the poor (also Lev 12:8); their sellers' tables being overthrown touches the cult of the poor at the temple.", "contested": true},
+      {"source": "Nehemiah 13:7-9", "type": "echo", "confidence": "low", "note": "Nehemiah's expulsion of Tobiah's goods and his cleansing of the temple chambers offers a precedent of zealous reform purging defilement from the temple precincts.", "contested": true}
+    ]
+  },
+  {
+    "id": "21.3",
+    "ch": 21,
+    "ref": "21:18-22",
+    "echoes": [
+      {"source": "Jeremiah 8:13", "type": "allusion", "confidence": "medium", "note": "'When I would gather them... there are no grapes on the vine, nor figs on the fig tree, and the leaf is withered': a judgment oracle on fruitless Israel whose figs and leaves fail, the closest prophetic backdrop to the cursed, leafy-but-fruitless fig tree (21:19).", "contested": false},
+      {"source": "Hosea 9:10", "type": "allusion", "confidence": "medium", "note": "'I found Israel like grapes in the wilderness; I saw your fathers as the first ripe in the fig tree,' followed by their apostasy and barrenness; the fig tree symbolizes Israel's spoiled fruit, the figural sense Matthew gives the withered tree.", "contested": false},
+      {"source": "Micah 7:1", "type": "allusion", "confidence": "medium", "note": "'There is no cluster to eat; my soul desired the first-ripe fig' — the prophet finding no fruit on Israel, mirroring Jesus hungry and 'finding nothing on it but leaves' (21:19).", "contested": false},
+      {"source": "Joel 1:7,12", "type": "echo", "confidence": "low", "note": "The fig tree laid waste and withered in the day of judgment supplies the imagery of a suddenly dried-up fig tree as a sign of devastation.", "contested": true},
+      {"source": "Isaiah 28:4", "type": "echo", "confidence": "low", "note": "The 'first-ripe fig' that is quickly consumed/fails contributes to the prophetic stock of fig imagery for judgment on Israel.", "contested": true},
+      {"source": "Zechariah 4:7", "type": "echo", "confidence": "low", "note": "'Who are you, O great mountain? Before Zerubbabel you shall become a plain': prophetic precedent for the leveling of a mountain by faith/divine word, paralleling 'tell this mountain, Be taken up and cast into the sea' (21:21).", "contested": true},
+      {"source": "Psalm 46:2", "type": "echo", "confidence": "low", "note": "'Though the mountains be carried into the midst of the sea' supplies the very image of a mountain cast into the sea used in Jesus' saying on faith.", "contested": true},
+      {"source": "Habakkuk 3:17", "type": "echo", "confidence": "low", "note": "'Though the fig tree shall not blossom, neither shall fruit be in the vines' — a fruitless fig tree as a figure of scarcity and testing, a faint resonance.", "contested": true}
+    ]
+  },
+  {
+    "id": "21.4",
+    "ch": 21,
+    "ref": "21:23-27",
+    "echoes": [
+      {"source": "Exodus 2:14", "type": "echo", "confidence": "low", "note": "The challenge 'By what authority do you do these things? Who gave you this authority?' (21:23) faintly recalls the recurring biblical motif of authority contested ('Who made you a ruler and a judge over us?'), the leader's commission questioned by his own people.", "contested": true},
+      {"source": "Numbers 16:3", "type": "echo", "confidence": "low", "note": "Korah's challenge to Moses and Aaron, 'Why do you lift yourselves up above the assembly?,' is a paradigmatic disputing of divinely given authority, distantly resonant with the priests' interrogation.", "contested": true}
+    ]
+  },
+  {
+    "id": "21.5",
+    "ch": 21,
+    "ref": "21:28-32",
+    "echoes": [
+      {"source": "Isaiah 5:1-7", "type": "echo", "confidence": "medium", "note": "The father's command 'go work today in my vineyard' (21:28) uses the standing prophetic image of the vineyard as Israel and its work as covenant obedience, preparing for the explicit vineyard parable that follows.", "contested": false},
+      {"source": "Ezekiel 18:21-32", "type": "echo", "confidence": "medium", "note": "The contrast between the son who says no but repents and obeys, and the son who professes obedience but does not act, dramatizes Ezekiel's teaching that the wicked who turns shall live and the righteous who turns away shall die — repentance, not initial profession, is decisive.", "contested": true},
+      {"source": "Proverbs 8:20", "type": "echo", "confidence": "low", "note": "'John came to you in the way of righteousness' (21:32) employs the Wisdom/sapiential idiom 'the way of righteousness' (cf. Prov 12:28; 21:16) for the path of life that the hearers refused.", "contested": true}
+    ]
+  },
+  {
+    "id": "21.6",
+    "ch": 21,
+    "ref": "21:33-46",
+    "echoes": [
+      {"source": "Isaiah 5:1-7", "type": "allusion", "confidence": "high", "note": "The parable's setup (21:33) reproduces the Song of the Vineyard almost verbatim from Isaiah 5:2 (LXX): a man planted a vineyard, set a hedge/fence about it, dug a winepress in it, and built a tower. The whole parable presupposes Isaiah's allegory of the vineyard as Israel/Judah and its expected fruit.", "contested": false},
+      {"source": "Psalm 118:22-23", "type": "quotation", "confidence": "high", "note": "Jesus cites Psalm 118:22-23 verbatim (21:42): 'The stone which the builders rejected, the same was made the head of the corner. This was from the LORD, and it is marvelous in our eyes,' interpreting the rejected/vindicated son as the rejected/exalted cornerstone (same Psalm 118 quoted at the entry, 21:9).", "contested": false},
+      {"source": "Daniel 2:34-35,44-45", "type": "allusion", "confidence": "medium", "note": "21:44, 'He who falls on this stone will be broken to pieces, but on whomever it will fall, it will scatter him as dust,' draws on Daniel's stone cut without hands that smashes the kingdoms and whose fragments become chaff blown away — the stone that both judges and inaugurates God's kingdom.", "contested": false},
+      {"source": "Isaiah 8:14-15", "type": "allusion", "confidence": "medium", "note": "Isaiah's 'stone of stumbling and rock of offense' on which many 'shall fall, and be broken' supplies the first half of 21:44 ('he who falls on this stone will be broken'), fusing with the Psalm 118 cornerstone into a composite stone-testimonium.", "contested": false},
+      {"source": "Genesis 37:18-20", "type": "allusion", "confidence": "medium", "note": "The tenants' deliberation, 'This is the heir. Come, let's kill him, and seize his inheritance' (21:38), closely echoes Joseph's brothers: 'Behold, this dreamer comes. Come now, let us kill him' — the heir/beloved son plotted against by his own.", "contested": false},
+      {"source": "Jeremiah 7:25-26", "type": "allusion", "confidence": "medium", "note": "'I sent to you all my servants the prophets, daily rising up early and sending them, yet they did not listen' (cf. Jer 25:4) is the prophetic pattern behind the householder repeatedly sending servants who are beaten and killed (21:34-36).", "contested": false},
+      {"source": "2 Chronicles 24:20-21", "type": "allusion", "confidence": "medium", "note": "Zechariah son of Jehoiada, sent by God to the people, was stoned to death in the court of the temple — a concrete instance of a divine messenger stoned, matching 'stoned another' (21:35).", "contested": false},
+      {"source": "Nehemiah 9:26", "type": "allusion", "confidence": "medium", "note": "Israel's confession that 'they slew your prophets which testified against them to turn them to you' summarizes the rejected-and-killed-emissaries pattern the parable allegorizes.", "contested": false},
+      {"source": "Psalm 80:8-16", "type": "allusion", "confidence": "medium", "note": "The vine brought out of Egypt and planted, whose hedges God then breaks down so passers-by pluck it, is a second vineyard-as-Israel song reinforcing Isaiah 5 and the threat to remove the vineyard's protection (21:43).", "contested": false},
+      {"source": "2 Kings 17:13-14", "type": "echo", "confidence": "medium", "note": "'The LORD testified against Israel... by all the prophets... yet they would not hear, but hardened their necks' — the deuteronomistic summary of prophets sent and rejected, paralleling the servants' fate.", "contested": false},
+      {"source": "Isaiah 28:16", "type": "echo", "confidence": "low", "note": "The 'precious cornerstone' laid in Zion as a sure foundation belongs to the same stone-testimonia cluster (with Ps 118:22) that early Christians combined to interpret Christ as the cornerstone.", "contested": true},
+      {"source": "Isaiah 3:14", "type": "echo", "confidence": "low", "note": "'You have eaten up the vineyard; the spoil of the poor is in your houses' — Israel's leaders arraigned for plundering the vineyard, resonant with the tenants who seize the produce and inheritance.", "contested": true},
+      {"source": "Zechariah 13:7", "type": "echo", "confidence": "low", "note": "'Strike the shepherd' as the divinely sent figure who is struck may faintly inform the killing of the beloved son, though the imagery differs.", "contested": true},
+      {"source": "Daniel 7:14,27", "type": "echo", "confidence": "low", "note": "The kingdom given to 'a nation producing its fruit' (21:43) faintly recalls Daniel's everlasting kingdom given to the people of the saints, the transfer of dominion to a faithful nation.", "contested": true}
+    ]
+  }
+]

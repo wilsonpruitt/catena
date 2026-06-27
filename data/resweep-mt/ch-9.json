@@ -1,0 +1,366 @@
+[
+  {
+    "id": "9.1",
+    "ch": 9,
+    "ref": "9:1-8",
+    "echoes": [
+      {
+        "source": "Psalm 103:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Psalm 103 pairs the two acts Jesus performs together: God 'forgives all your iniquity' and 'heals all your diseases.' Matthew's scene welds forgiveness ('your sins are forgiven') to the cure of paralysis, enacting the psalm's joined benefits and implying Jesus does what the LORD does.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I, even I, am he who blots out your transgressions for my own sake.' The scribes' charge of blasphemy presupposes that only God forgives sins; Isaiah's first-person divine prerogative is the unstated premise Jesus claims, sharpening the christological provocation.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Son of Man has authority on earth to forgive sins' fuses the Danielic 'one like a son of man' to whom dominion and authority (exousia/sholtan) are given. Matthew transfers heavenly enthronement authority into an earthly act of forgiveness, the key warrant for the healing.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 24:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He who blasphemes the name of the LORD shall surely be put to death.' The scribes' verdict 'This man blasphemes' invokes the capital statute; the legal background charges the episode with the threat that will later kill Jesus.",
+        "contested": false
+      },
+      {
+        "source": "Micah 7:18-19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Who is a God like you, pardoning iniquity... he will tread our iniquities underfoot.' The hymn to the God who uniquely forgives stands behind the assumption that forgiveness is a divine, not human, act, which Jesus nonetheless exercises.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 34:6-7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The LORD 'forgiving iniquity and transgression and sin' is the foundational self-revelation of divine pardon; the paralytic's forgiveness re-presents this divine attribute in Jesus' speech.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The kingdom and the dominion... shall be given to the people of the holy ones.' The crowd's wonder that God 'had given such authority to men' may echo the Danielic transfer of dominion to a human collective, though the link is faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.2",
+    "ch": 9,
+    "ref": "9:9-13",
+    "echoes": [
+      {
+        "source": "Hosea 6:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formula-marked citation, 'go and learn what this means: I desire mercy, and not sacrifice.' Verbatim from Hosea (LXX eleos ou thysian). Jesus deploys the prophetic preference for covenant loyalty over cultic act to justify table fellowship with sinners; Matthew alone repeats it at 12:7.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 15:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'To obey is better than sacrifice.' Samuel's rebuke of Saul belongs to the same prophetic tradition prioritizing obedience/mercy over cult that Hosea 6:6 distills; it reinforces the scriptural logic Jesus wields against the Pharisees.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 21:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'To do righteousness and justice is more acceptable to the LORD than sacrifice.' A wisdom parallel to Hosea 6:6 corroborating the mercy-over-sacrifice principle invoked to defend eating with tax collectors.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 38:1-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Honor the physician... the Lord created medicines.' Jesus' aphorism 'those who are sick need a physician' uses the physician topos; Sirach's Second Temple esteem for the healer is a contemporary backdrop, though the saying is proverbial rather than a specific borrowing.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 34:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will seek the lost... and bind up the injured.' The shepherd-God who goes after the sick and strayed anticipates Jesus' coming 'not to call the righteous but sinners,' the same pastoral logic, faintly heard here and developed at 9:36.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.3",
+    "ch": 9,
+    "ref": "9:14-17",
+    "echoes": [
+      {
+        "source": "Job 32:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'My belly is like wine that has no vent; like new wineskins it is ready to burst.' Elihu's image is the closest scriptural antecedent to Jesus' new-wine/bursting-old-skins saying, supplying the very mechanics (new wine, skins ready to burst) of the metaphor.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 62:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'As the bridegroom rejoices over the bride, so shall your God rejoice over you.' The prophetic depiction of God/the messianic age as bridegroom undergirds Jesus' self-identification as the bridegroom whose presence makes fasting impossible.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 2:19-20",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I will betroth you to me forever.' The LORD's marriage to Israel frames the bridegroom imagery; coming from the same prophet quoted at 9:13, it suggests Jesus occupies the divine spouse's role in the renewed covenant.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 54:5-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your Maker is your husband.' Another strand of the bridegroom-God tradition reinforcing the nuptial joy that suspends mourning while the bridegroom is present.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The vats shall overflow with wine.' The eschatological abundance of new wine in the prophets colors Jesus' 'new wine' as the inbreaking new age incompatible with old structures.",
+        "contested": true
+      },
+      {
+        "source": "Amos 9:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The mountains shall drip sweet wine.' Like Joel, an eschatological new-wine motif faintly resonant with Jesus' claim that the new cannot be poured into the old.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 7:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'When you fasted and mourned... was it for me?' Zechariah's critique of fasting that misses God anticipates Jesus' relativizing of John's-disciples' fasting in light of the bridegroom's presence.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:8",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'He was taken away.' Jesus' ominous 'the bridegroom will be taken away' foreshadows the passion; the Servant who is 'taken away' is a plausible typological reservoir, though the verbal link is slight.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.4",
+    "ch": 9,
+    "ref": "9:18-26",
+    "echoes": [
+      {
+        "source": "Numbers 15:38-39",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The woman touches 'the fringe (kraspedon/tzitzit) of his garment.' The tassels commanded in Numbers mark the wearer as a Torah-keeping Israelite; Matthew specifies the fringe, framing the healing power as flowing through Jesus' faithful Israelite dress.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 15:25-30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The statute on a woman with a chronic 'discharge of blood' renders her and what she touches unclean. The twelve-year hemorrhage and her touching Jesus directly engage this purity law; rather than contracting impurity, Jesus communicates cleansing health.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 17:17-24",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Elijah raises the widow's dead son. The prophetic raising of a dead child is the primary type for Jesus entering, taking the girl by the hand, and raising her; Matthew presents Jesus as greater than Elijah.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:32-37",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Elisha raises the Shunammite's daughter, entering the room, acting on the child's body, and restoring her. The closest structural type (a girl, an anxious parent, prophet enters and revives), illuminating Jesus' act in the ruler's house.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The sun of righteousness shall rise with healing in its wings (kanaf)' — kanaf also meaning the garment-corner/fringe. The pun links the healing 'fringe' the woman grasps to the messianic promise of healing in the 'wings,' a suggestive but disputed resonance.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Many who sleep in the dust... shall awake.' Jesus' 'the girl is not dead but sleeping' frames death as sleep, the idiom Daniel uses for resurrection, hinting that the raising prefigures eschatological awakening.",
+        "contested": true
+      },
+      {
+        "source": "2 Maccabees 7:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The martyr's hope: 'the King of the universe will raise us up.' Second Temple resurrection hope forms the conceptual horizon for the daughter's restoration being read as more than resuscitation; relevant but not a verbal borrowing.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.5",
+    "ch": 9,
+    "ref": "9:27-31",
+    "echoes": [
+      {
+        "source": "Isaiah 35:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Then the eyes of the blind shall be opened.' The opening of the two blind men's eyes enacts the signature sign of Isaiah's coming-of-God salvation oracle; Matthew uses it programmatically (cf. 11:5) to identify Jesus' deeds with the promised restoration.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 7:12-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Davidic covenant promising David an everlasting offspring/throne is the root of the title 'Son of David' the blind men cry. Matthew's recurring Davidic christology (1:1) is voiced precisely by those seeking mercy and sight.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Out of their gloom and darkness the eyes of the blind shall see.' A second Isaianic blindness-reversal oracle reinforcing that restored sight is the mark of God's eschatological visitation now effected by Jesus.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Servant is called 'to open the eyes that are blind.' The opening of eyes as the Servant's commissioned task links Jesus' healing to Isaiah's servant-of-the-LORD vocation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 146:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The LORD opens the eyes of the blind.' The psalm ascribes eye-opening to the LORD himself; Jesus performing it implies the same divine agency the crowd marveled at in 9:8.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 123:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Have mercy upon us, O LORD, have mercy.' The blind men's cry 'Have mercy on us' echoes the standard psalmic appeal for divine mercy, now addressed to the Son of David.",
+        "contested": true
+      },
+      {
+        "source": "Tobit 11:7-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Tobit's blindness is cured and 'his eyes were opened.' The deuterocanonical healing-of-blindness narrative is a Second Temple precedent for restored sight as a sign of divine favor; thematically apt though not directly quoted.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.6",
+    "ch": 9,
+    "ref": "9:32-34",
+    "echoes": [
+      {
+        "source": "Isaiah 35:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The tongue of the mute shall sing for joy.' The mute man speaking when the demon is cast out completes the Isaiah 35 cluster (blind see in 9:30, mute speak here), presenting Jesus' miracles as the bundled signs of Isaiah's restoration.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Who makes him mute... Is it not I, the LORD?' God's claim to sovereignty over speech and its impairment frames Jesus' loosing of the mute tongue as a divine prerogative exercised.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 38:13-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Like a mute man who does not open his mouth... but for you, O LORD, do I wait.' The psalmic muteness-then-divine-help pattern faintly underlies the restoration of speech, though no verbal borrowing is present.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.7",
+    "ch": 9,
+    "ref": "9:35-38",
+    "echoes": [
+      {
+        "source": "Numbers 27:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Moses asks for a successor so the congregation 'may not be as sheep that have no shepherd.' Matthew's 'harassed and helpless, like sheep without a shepherd' directly takes up this idiom; Jesus' compassion answers Israel's perennial need for a true shepherd-leader.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 22:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Micaiah sees 'all Israel scattered on the mountains, as sheep that have no shepherd.' The leaderless, scattered flock under failed kings is exactly Matthew's diagnosis of the crowds, with Jesus stepping into the vacant shepherd role.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 34:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'They were scattered because there was no shepherd.' Ezekiel's indictment of Israel's negligent shepherds and promise that God himself will shepherd the flock is the richest backdrop: Jesus' compassion enacts the LORD's pledge to seek the scattered sheep.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 10:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The people 'wander like sheep; they are afflicted for lack of a shepherd.' Zechariah's shepherdless, afflicted flock parallels Matthew's 'harassed' crowds, adding a prophetic voice to the shepherd-deficit motif.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 18:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Chronicler's parallel to 1 Kings 22:17 repeats 'all Israel scattered... as sheep that have no shepherd,' a second canonical attestation of the formula behind 9:36.",
+        "contested": false
+      },
+      {
+        "source": "Joel 3:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Put in the sickle, for the harvest is ripe.' Jesus' 'the harvest is plentiful' picks up the prophetic harvest image; where Joel's harvest is judgment, Matthew turns it toward ingathering, asking for laborers from the Lord of the harvest.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 27:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The LORD will thresh... and you will be gathered one by one.' The eschatological gathering-harvest of Israel is a faint resonance behind the plentiful harvest needing laborers.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 34:23",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'I will set up over them one shepherd, my servant David.' The promise of a single Davidic shepherd is figurally fulfilled as Jesus (the Son of David of 9:27) responds to the shepherdless crowds, binding this pericope to the Davidic christology of the chapter.",
+        "contested": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "22.1",
+    "ch": 22,
+    "ref": "22:1-14",
+    "echoes": [
+      {"source": "Isaiah 25:6", "type": "allusion", "confidence": "medium", "note": "The eschatological banquet — the LORD makes 'a feast of fat things' (fatlings/oxen killed, 22:4) for all peoples on his mountain. The king's marriage feast for his son draws on this prophetic image of the messianic/end-time banquet; the killing of fatlings matches Isaiah's 'fat things full of marrow.'", "contested": false},
+      {"source": "Zephaniah 1:7-8", "type": "allusion", "confidence": "medium", "note": "The LORD 'has prepared a sacrifice' and bids his guests, and on that day will punish 'all such as are clothed with strange apparel' — a striking double parallel to the prepared feast (22:4) AND the man cast out for improper garment (22:11-13). Likely source for the wedding-clothing judgment.", "contested": true},
+      {"source": "Proverbs 9:1-6", "type": "allusion", "confidence": "medium", "note": "Wisdom builds her house, 'kills her beasts,' mixes her wine, and sends out maidservants to invite the simple to her feast — close structural echo of slaughtered cattle (22:4) and servants sent to call guests (22:3-4,9).", "contested": false},
+      {"source": "Isaiah 55:1-2", "type": "echo", "confidence": "low", "note": "Open invitation to come freely to a banquet of rich food — thematic echo of the wide call to the highways (22:9), the unworthy invited replaced by all comers.", "contested": true},
+      {"source": "2 Chronicles 24:19-21", "type": "figural", "confidence": "medium", "note": "Prophets/servants sent to call Israel back are seized and killed (Zechariah stoned in the temple court) — the king's servants beaten and murdered (22:6) figure the rejected prophets, a deuteronomistic pattern Matthew develops (cf. 23:34-37).", "contested": false},
+      {"source": "Jeremiah 7:25-26", "type": "allusion", "confidence": "medium", "note": "God 'sent unto you all my servants the prophets... yet they hearkened not' but treated them shamefully — the repeated sending of servants who are spurned and killed (22:3-6) reuses this prophetic-rejection schema.", "contested": false},
+      {"source": "Nehemiah 9:26", "type": "echo", "confidence": "low", "note": "Israel 'slew thy prophets which testified against them' — same servants-as-prophets motif behind the murdered messengers (22:6).", "contested": true},
+      {"source": "2 Kings 25:9", "type": "echo", "confidence": "low", "note": "Burning of the rebellious city (Jerusalem by Babylon) — the king sends armies, destroys the murderers and burns their city (22:7), echoing the prophetic-historical pattern of a city torched in judgment.", "contested": true},
+      {"source": "Isaiah 61:10", "type": "echo", "confidence": "low", "note": "'He hath clothed me with the garments of salvation... as a bridegroom decketh himself' — wedding-garment imagery (22:11-12) as the required clothing of righteousness/salvation for the marriage feast.", "contested": true},
+      {"source": "2 Esdras 8:3", "type": "allusion", "confidence": "medium", "note": "'Many have been created, but few shall be saved' (Fourth Ezra) — a near-formulaic Second Temple parallel to 'many are called, but few are chosen' (22:14).", "contested": false}
+    ]
+  },
+  {
+    "id": "22.2",
+    "ch": 22,
+    "ref": "22:15-22",
+    "echoes": [
+      {"source": "Genesis 1:27", "type": "allusion", "confidence": "medium", "note": "Jesus' question 'whose image (eikon) and inscription?' (22:20) plays on imago Dei: the coin bears Caesar's image and is owed to Caesar, but humanity bears God's image and is owed wholly to God — 'render to God the things that are God's' (22:21).", "contested": true},
+      {"source": "Psalm 24:1", "type": "echo", "confidence": "low", "note": "'The earth is the LORD's, and the fulness thereof' — undergirds the claim that what is God's (everything, including the bearer of his image) belongs to God (22:21).", "contested": true},
+      {"source": "Ecclesiastes 8:2", "type": "echo", "confidence": "low", "note": "Counsel to keep the king's commandment because of one's oath to God — faint wisdom backdrop to the dual obligation to Caesar and to God (22:21).", "contested": true}
+    ]
+  },
+  {
+    "id": "22.3",
+    "ch": 22,
+    "ref": "22:23-33",
+    "echoes": [
+      {"source": "Deuteronomy 25:5", "type": "quotation", "confidence": "high", "note": "The Sadducees quote the levirate law nearly verbatim: 'If a man die, having no children, his brother shall marry his wife, and raise up seed for his brother' (22:24) = Deuteronomy 25:5-6.", "contested": false},
+      {"source": "Genesis 38:8", "type": "allusion", "confidence": "medium", "note": "Judah commands Onan to 'go in unto thy brother's wife... and raise up seed to thy brother' — the narrative instance of levirate duty behind the Sadducees' test case (22:24-28).", "contested": false},
+      {"source": "Exodus 3:6", "type": "quotation", "confidence": "high", "note": "Jesus' clinching scriptural proof, formula-cited ('that which was spoken to you by God'): 'I am the God of Abraham, and the God of Isaac, and the God of Jacob' (22:32) — verbatim from God at the bush; Jesus argues the patriarchs live to God.", "contested": false},
+      {"source": "Exodus 3:15", "type": "allusion", "confidence": "medium", "note": "The same divine self-naming as 'the God of Abraham, Isaac, and Jacob' is repeated and declared God's everlasting memorial name — reinforces the citation in 22:32.", "contested": false},
+      {"source": "Daniel 12:2", "type": "echo", "confidence": "medium", "note": "'Many of them that sleep in the dust shall awake' — the canonical OT resurrection text behind the whole resurrection controversy the Sadducees deny (22:23,28-31).", "contested": false},
+      {"source": "Tobit 3:8", "type": "allusion", "confidence": "medium", "note": "Sarah had been given to seven husbands, each killed before consummation (Tobit 3:8; 7:11) — a Second Temple narrative of a woman successively wed to seven men, strikingly close to the Sadducees' seven-brothers scenario (22:25-27).", "contested": true},
+      {"source": "2 Maccabees 7:9", "type": "echo", "confidence": "low", "note": "The martyred brothers' hope that 'the King of the world shall raise us up... unto everlasting life' — a Second Temple affirmation of bodily resurrection contested by the Sadducees here (22:23-32).", "contested": true},
+      {"source": "Genesis 6:2", "type": "echo", "confidence": "low", "note": "'Sons of God' / angels — faint backdrop to 'they are as the angels of God in heaven' (22:30); largely thematic and disputed.", "contested": true}
+    ]
+  },
+  {
+    "id": "22.4",
+    "ch": 22,
+    "ref": "22:34-40",
+    "echoes": [
+      {"source": "Deuteronomy 6:5", "type": "quotation", "confidence": "high", "note": "The Shema's love command quoted as the first and great commandment: 'Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind' (22:37).", "contested": false},
+      {"source": "Leviticus 19:18", "type": "quotation", "confidence": "high", "note": "The second commandment quoted verbatim: 'Thou shalt love thy neighbour as thyself' (22:39).", "contested": false},
+      {"source": "Deuteronomy 10:12", "type": "echo", "confidence": "low", "note": "'To love him, to serve the LORD thy God with all thy heart and with all thy soul' — reinforces the whole-being love demanded in 22:37.", "contested": true},
+      {"source": "Joshua 22:5", "type": "echo", "confidence": "low", "note": "Command to 'love the LORD your God... with all your heart and with all your soul' — another canonical restatement standing behind 22:37.", "contested": true}
+    ]
+  },
+  {
+    "id": "22.5",
+    "ch": 22,
+    "ref": "22:41-46",
+    "echoes": [
+      {"source": "Psalm 110:1", "type": "quotation", "confidence": "high", "note": "Formula-cited as David speaking 'in the Spirit': 'The LORD said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool' (22:44) — the crux for showing the Christ is more than David's son.", "contested": false},
+      {"source": "2 Samuel 7:12-14", "type": "allusion", "confidence": "medium", "note": "The Davidic covenant promising David a 'seed' whose throne God establishes and who will be God's son — the basis for the crowd's answer that the Christ is the son of David (22:42).", "contested": false},
+      {"source": "Psalm 2:7", "type": "echo", "confidence": "low", "note": "'Thou art my Son' — royal/messianic sonship that, paired with Psalm 110, presses Jesus' question of how David's son can also be David's Lord (22:43-45).", "contested": true},
+      {"source": "Isaiah 11:1", "type": "echo", "confidence": "low", "note": "The messianic 'rod out of the stem of Jesse' — Davidic-descent expectation underlying 'whose son is he? ... Of David' (22:42).", "contested": true}
+    ]
+  }
+]

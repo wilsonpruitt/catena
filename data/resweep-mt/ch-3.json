@@ -1,0 +1,262 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-12",
+    "echoes": [
+      {
+        "source": "Isaiah 40:3",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Explicitly formula-marked ('spoken of by Isaiah the prophet') and near-verbatim: 'The voice of one crying in the wilderness, make ready the way of the Lord, make his paths straight.' Highest Volume and an unambiguous citation. Matthew reads LXX, attaching 'in the wilderness' to the crying voice (locating John), the foundational identification of John's ministry.",
+        "contested": false,
+        "altSource": "Malachi 3:1"
+      },
+      {
+        "source": "Malachi 3:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'prepare the way' messenger of Malachi 3:1 stands behind the way-preparation motif and is conflated with Isaiah 40:3 in Mark 1:2-3; Matthew cites only Isaiah here but the Malachi messenger-before-the-Lord theme governs John's role and resurfaces explicitly at Matt 11:10. Thematic Coherence and Recurrence high; verbal overlap partial.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 40:3-5",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Beyond the quoted v.3, the whole Isaianic New Exodus / wilderness-highway scene shapes the pericope: comfort after exile, the revealing glory of the Lord, all flesh seeing salvation. The wilderness setting of John's preaching enacts the prophetic return-from-exile pattern.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 1:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "John's garb — clothing 'of camel's hair, with a leather belt around his waist' — verbally matches the description of Elijah as 'a hairy man, with a leather belt around his waist.' Strong Volume on the distinctive belt phrase; signals John as the returning-Elijah figure (cf. Mal 4:5; Matt 11:14, 17:12).",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:5-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Elijah-redivivus expectation ('I will send you Elijah the prophet before the great and dreadful day of the LORD') interprets John's Elijah-coded dress and his preaching of coming wrath. No verbal borrowing here but high Thematic Coherence with the wrath-to-come and Elijah typology; explicit later in Matthew.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 11:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Locusts are named among the few clean, edible insects in the dietary code; John's diet of 'locusts and wild honey' marks him as eating only what is ritually permitted in the wilderness. Faint, thematic — establishes John's ascetic/pure wilderness life rather than a verbal quotation.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 59:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Offspring of vipers' resonates with prophetic snake/viper imagery for the wicked who hatch evil (Isa 59:5 'they hatch adders' eggs'); cf. the deceiving serpent. Faint verbal echo; the insult draws on a recurrent OT image of poisonous, deceitful brood.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 58:3-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wicked 'go astray from the womb... their poison is like the poison of a serpent' supplies an alternate background for 'offspring of vipers' — innate corruption of a brood. Low Volume, thematic recurrence of serpent-poison-for-the-wicked.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 13:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The wrath to come' invokes the prophetic Day of the LORD as burning wrath against the wicked (Isa 13:9 'the day of the LORD comes, cruel with wrath'). Thematic coherence with John's eschatological judgment preaching; no single source verbally dominant.",
+        "contested": true
+      },
+      {
+        "source": "Zephaniah 1:15-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zephaniah's 'day of wrath' consumed in the fire of God's jealousy is a prime articulation of the coming-wrath motif behind John's warning. Faint, diffuse; reinforces the eschatological-judgment frame shared with v.10-12 fire imagery.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Who can endure the day of his coming?... he is like a refiner's fire' underlies both 'who warned you to flee from the wrath to come?' and the fire/purging imagery of vv.10-12. Strong thematic and structural parallel (coming one + purging fire); moderate verbal contact.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 5:1-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Produce fruit worthy of repentance' and the unfruitful-tree judgment draw on the prophetic vineyard/fruit motif where Israel's failure to yield good fruit brings destruction (Isa 5 the vineyard yielding wild grapes). Recurrent fruit-of-righteousness imagery; faint verbal link.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 12:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'We have Abraham for our father' presupposes the Abrahamic election and promise of descendants. John subverts presumption on physical Abrahamic descent; the covenant-father claim is intelligible only against the Genesis Abraham narrative and promise of seed.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'God is able to raise up children to Abraham from these stones' plays on Isa 51:1-2: 'look to the rock from which you were hewn... look to Abraham your father.' The stone/rock-and-Abraham pairing is distinctive; God can hew new children from rock as he made many from one Abraham. Notable Volume on the rock-Abraham combination.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 10:33-34",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The ax lies at the root of the trees... every tree... cut down' echoes Isaiah's image of the Lord lopping the boughs and felling the lofty trees/forest in judgment. Shared ax-and-felled-trees judgment imagery; moderate verbal coherence with v.10.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 1:3-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The fruitful vs. fruitless tree and the chaff driven away / burned (vv.10,12) recall Psalm 1's contrast of the fruit-bearing righteous tree against the wicked who are 'like chaff which the wind drives away.' Faint, but joins tree-fruit and chaff imagery shared with the winnowing saying.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:28-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He will baptize you in the Holy Spirit' fulfills the prophetic promise of God pouring out his Spirit on all flesh. Central Spirit-outpouring expectation; thematic coherence high (Pentecost realizes it), verbal contact via Spirit-pouring imagery.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will pour my Spirit on your descendants' (with water-on-thirsty-ground) supports the Spirit-baptism promise. Faint verbal link via Spirit-pouring; reinforces the prophetic cluster behind v.11.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 36:25-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will sprinkle clean water on you... and put my Spirit within you' fuses water-cleansing and Spirit-giving exactly as John contrasts water-baptism with Spirit-baptism. Strong Thematic Coherence between cleansing water and indwelling Spirit; key background to v.11.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 4:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Lord washing away filth 'by the spirit of judgment and by the spirit of burning' anticipates John's joint phrase 'Holy Spirit and fire' (in the fuller saying). Faint verbal contact pairing spirit + purging fire; supports the Spirit-and-fire reading.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The refiner's purging fire that separates is the background for 'he will baptize... with fire' and the burning of chaff 'with unquenchable fire' (v.12). The coming-one-as-refiner pattern of Malachi tightly parallels the mightier-one-who-purges of vv.11-12.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 15:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I have winnowed them with a winnowing fork in the gates of the land' supplies the winnowing-as-judgment image directly behind 'his winnowing fork is in his hand.' Distinctive shared instrument and judgment sense; good Volume on the winnowing metaphor.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The day comes, burning like an oven... all the arrogant and evildoers will be stubble; the day that comes will set them ablaze' parallels the chaff burned 'with unquenchable fire.' Strong thematic and verbal coherence (stubble/chaff consumed by eschatological fire).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 66:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Unquenchable fire' for the chaff resonates with Isaiah's final image of the corpses of rebels whose 'fire shall not be quenched' — the canonical source of unending judgment-fire. Faint but specific verbal phrase ('not be quenched'); undergirds Matthew's eschatology of final fire.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:44",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Kingdom of Heaven is at hand' draws on Daniel's vision of the God of heaven setting up an everlasting kingdom that shall never be destroyed. Faint verbal contact ('the God of heaven... a kingdom'); supplies the 'kingdom of heaven' eschatological background distinctive to Matthew.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The everlasting dominion given to the one like a son of man underlies the imminent-kingdom proclamation. Thematic, not verbal; part of the Danielic kingdom-of-heaven matrix behind John's (and Jesus') preaching.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:13-17",
+    "echoes": [
+      {
+        "source": "Joshua 3:14-17",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Jesus' coming to the Jordan recapitulates Israel's defining Jordan-crossing into the land under Joshua (the same Hebrew name, Yeshua). Typological geography with little verbal borrowing; the Jordan as threshold of a new entry/beginning frames the baptism scene.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 2:6-14",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The Jordan as site of the Elijah/Elisha Spirit-transfer (parting waters, Spirit passing to the successor) provides a figural backdrop: at this Jordan the Spirit descends and the Elijah-figure John yields to the mightier coming one. Pattern-level, minimal verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:2",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'The Spirit of God descending as a dove' over the baptismal waters images the Spirit of God hovering/brooding over the waters at creation — the baptism as new creation. Strong patristic and scholarly recurrence; verbal contact via 'Spirit of God' + waters, though the dove form is added.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 8:8-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The dove returning over the receding flood waters (Noah) supplies a flood/new-creation typology for the descending dove after baptismal waters — emergence of a renewed world. Faint, traditional association; thematic dove-over-water link.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 1:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The heavens were opened' verbally matches Ezekiel's call-vision 'the heavens were opened and I saw visions of God' — likewise by a river (Chebar). The opened-heaven theophany formula introduces divine revelation and commissioning, exactly its function at Jesus' baptism.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 64:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Oh that you would rend the heavens and come down' is the eschatological plea answered when the heavens open at the baptism (more starkly 'torn' in Mark 1:10). Faint in Matthew's milder 'opened'; thematic coherence with longed-for theophanic descent.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 42:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The heavenly voice — 'my beloved Son, with whom I am well pleased' — draws on the Servant oracle: 'my chosen, in whom my soul delights; I have put my Spirit upon him.' The Spirit-endowment plus divine delight cluster matches precisely (Matthew quotes Isa 42:1-4 at 12:18). High Thematic Coherence and Recurrence; identifies Jesus as the Isaianic Servant.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'This is my beloved Son' echoes the royal-enthronement decree 'You are my Son; today I have begotten you.' Strong messianic Volume; the divine sonship declaration applies the Davidic king-psalm to Jesus. Combined here with the Servant oracle of Isa 42:1.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'My beloved Son' (Greek agapetos) recalls Isaac, 'your son, your only/beloved son whom you love,' bound near a mountain — a faint Aqedah resonance coloring Jesus as the beloved son offered. Verbal contact on agapetos; contested but recurrent in early-Christian typology.",
+        "contested": true
+      }
+    ]
+  }
+]

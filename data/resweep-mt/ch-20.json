@@ -1,0 +1,69 @@
+[
+  {
+    "id": "20.1",
+    "ch": 20,
+    "ref": "20:1-16",
+    "echoes": [
+      {"source": "Isaiah 5:1-7", "type": "allusion", "confidence": "medium", "note": "The vineyard (ampelon) is the master's estate where laborers are hired; Isaiah's Song of the Vineyard establishes the vineyard as Israel/God's people under his care and reckoning. Matthew reuses this stock symbol (cf. the next parable, 21:33-41, which quotes Isa 5 directly), framing the kingdom under the imagery of God's vineyard."},
+      {"source": "Psalm 80:8-16", "type": "echo", "confidence": "low", "note": "The vine/vineyard brought out of Egypt and tended by God is part of the same symbolic field; faint thematic resonance behind the kingdom-as-vineyard image rather than verbal borrowing.", "contested": true},
+      {"source": "Deuteronomy 24:14-15", "type": "allusion", "confidence": "medium", "note": "The Torah commands paying a hired laborer his wages the same day, before sundown: 'When evening had come... pay them their wages' (20:8) directly enacts this hired-laborer wage law, giving the parable its legal verisimilitude and its concern with what is 'right' (dikaion)."},
+      {"source": "Leviticus 19:13", "type": "echo", "confidence": "low", "note": "Parallel wage-law ('the wages of a hired servant shall not remain with you all night until the morning'); reinforces the same-day payment background of 20:8.", "contested": true},
+      {"source": "Deuteronomy 15:9", "type": "allusion", "confidence": "medium", "note": "'Is your eye evil because I am good?' (20:15) uses the Semitic idiom of the 'evil eye' (ophthalmos ponēros) for grudging stinginess; Deut 15:9 warns against the eye being 'evil' (begrudging) toward a needy brother — the exact moral idiom Jesus inverts (here it is the workers who begrudge the master's generosity)."},
+      {"source": "Proverbs 23:6", "type": "echo", "confidence": "low", "note": "'Do not eat the bread of him who has an evil eye' — same 'evil eye'=miserly idiom standing behind 20:15; faint, idiomatic rather than allusive.", "contested": true},
+      {"source": "Exodus 33:19", "type": "echo", "confidence": "low", "note": "'It is my desire to give... Isn't it lawful for me to do what I want with what I own?' (20:14-15) echoes God's sovereign freedom in mercy ('I will be gracious to whom I will be gracious'); thematic, disputed.", "contested": true},
+      {"source": "Jonah 4:8", "type": "echo", "confidence": "low", "note": "'The burden of the day and the scorching heat' (20:12) faintly recalls the scorching east wind/heat motif; very weak, likely just realistic detail of agricultural labor.", "contested": true}
+    ]
+  },
+  {
+    "id": "20.2",
+    "ch": 20,
+    "ref": "20:17-19",
+    "echoes": [
+      {"source": "Isaiah 53:6", "type": "allusion", "confidence": "medium", "note": "The Son of Man 'will be delivered/handed over' (paradothēsetai) to the authorities and Gentiles; paradidōmi is the verb the Greek of Isaiah 53 uses for the Servant being 'handed over' for sins (Isa 53:6,12 LXX), coloring the passion prediction with Servant theology."},
+      {"source": "Isaiah 50:6", "type": "allusion", "confidence": "medium", "note": "'to mock, to scourge' (20:19) corresponds to the Servant who gives his back to those who strike and his face to mocking/spitting; the catalog of mistreatment draws on the third Servant Song."},
+      {"source": "Hosea 6:2", "type": "allusion", "confidence": "medium", "note": "'the third day he will be raised up' (20:19) echoes 'on the third day he will raise us up, that we may live before him'; widely read as the scriptural background for the 'third day' resurrection formula.", "contested": true},
+      {"source": "Daniel 7:13", "type": "allusion", "confidence": "medium", "note": "'the Son of Man' (20:18) carries the Danielic title; here paradoxically the exalted Danielic figure is the one delivered up to death, a Matthean recurrence of the title."}
+    ]
+  },
+  {
+    "id": "20.3",
+    "ch": 20,
+    "ref": "20:20-23",
+    "echoes": [
+      {"source": "Isaiah 51:17", "type": "allusion", "confidence": "medium", "note": "'the cup that I am about to drink' (20:22) is the prophetic 'cup of wrath/staggering' that Jerusalem drinks (Isa 51:17,22); Jesus takes upon himself the cup of judgment, the dominant OT background for the passion-cup."},
+      {"source": "Psalm 75:8", "type": "allusion", "confidence": "medium", "note": "The cup of foaming wine of God's wrath that the wicked drink to the dregs; supplies the 'cup' = divine judgment imagery behind 20:22-23.", "contested": true},
+      {"source": "Jeremiah 25:15", "type": "allusion", "confidence": "medium", "note": "'Take this cup of the wine of wrath from my hand, and make all the nations drink it' — the cup of wrath passed to the nations; reinforces the cup-of-judgment field Jesus says he must drink.", "contested": true},
+      {"source": "Ezekiel 23:31-34", "type": "echo", "confidence": "low", "note": "The cup of horror and desolation that Jerusalem must drink to the dregs; same cup-of-wrath motif, fainter parallel.", "contested": true},
+      {"source": "Psalm 110:1", "type": "echo", "confidence": "low", "note": "The request to sit at Jesus' right hand and left in his kingdom faintly invokes enthronement-at-the-right-hand language; weak, the verbal contact is only 'right hand.'", "contested": true},
+      {"source": "Psalm 69:1-2", "type": "echo", "confidence": "low", "note": "The 'baptism' of overwhelming suffering pairs with the cup; the engulfing-waters imagery of the righteous sufferer ('the waters have come up to my neck') is a faint background for being 'baptized' with suffering.", "contested": true}
+    ]
+  },
+  {
+    "id": "20.4",
+    "ch": 20,
+    "ref": "20:24-28",
+    "echoes": [
+      {"source": "Isaiah 53:10-12", "type": "allusion", "confidence": "high", "note": "KEY allusion. 'The Son of Man came... to give his life as a ransom for many' (20:28) compresses the fourth Servant Song: the Servant 'pours out his soul to death' and 'bears the sin of many' (Isa 53:12), making his life an offering (asham, 53:10). 'Give his life' (dounai tēn psychēn) + 'for many' (anti pollōn) maps onto the LXX Servant who is handed over for the 'many' (polloi, Isa 53:11-12). Vicarious, substitutionary death — the figural fulfillment of the Servant."},
+      {"source": "Isaiah 52:13", "type": "figural", "confidence": "medium", "note": "Jesus identifies himself as the one who came 'to serve' (diakonēsai); the title 'Son of Man' is overlaid on the exalted 'my Servant' (pais) of Isaiah, framing his whole mission as the Servant of YHWH who suffers and is exalted."},
+      {"source": "Ezekiel 34:4", "type": "allusion", "confidence": "medium", "note": "'The rulers of the nations lord it over them... it shall not be so among you' (20:25-26) inverts the false shepherds of Israel who 'with force and harshness ruled them'; Jesus contrasts domineering rule with self-giving service in the shepherd-leadership idiom of Ezek 34."},
+      {"source": "1 Kings 12:1-16", "type": "echo", "confidence": "low", "note": "Rehoboam's choice to make his yoke heavier and rule harshly over against serving the people is a narrative type of lordly domination Jesus repudiates; thematic, disputed.", "contested": true},
+      {"source": "Isaiah 43:3-4", "type": "allusion", "confidence": "medium", "note": "God 'gave Egypt as your ransom (LXX allagma/lytron), Cush and Seba in exchange for you... I give people in return for your life'; supplies the ransom-in-exchange-for-life logic of lytron anti pollōn in 20:28.", "contested": true},
+      {"source": "Exodus 30:12", "type": "echo", "confidence": "low", "note": "Each Israelite gives a 'ransom (lytra) for his life' at the census so that no plague falls; background to the ransom-price (lytron) vocabulary, though Jesus' self-gift transcends the cultic fee.", "contested": true},
+      {"source": "Psalm 49:7-8", "type": "echo", "confidence": "low", "note": "'No man can by any means redeem his brother, nor give to God a ransom for him, for the redemption of their life is costly'; Jesus' ransom answers the impossibility the psalm laments — faint, ironic counterpoint.", "contested": true},
+      {"source": "Daniel 7:13-14", "type": "allusion", "confidence": "medium", "note": "'the Son of Man' (20:28) again carries the Danielic title; the one given dominion and service by the nations is here the one who himself comes to serve, a deliberate Matthean inversion of the Danielic enthronement."}
+    ]
+  },
+  {
+    "id": "20.5",
+    "ch": 20,
+    "ref": "20:29-34",
+    "echoes": [
+      {"source": "Isaiah 35:5", "type": "allusion", "confidence": "medium", "note": "'that our eyes may be opened... their eyes received their sight' (20:33-34) enacts the messianic-age promise 'then the eyes of the blind shall be opened'; the healing functions as a sign that the awaited deliverance has arrived (cf. Matt 11:5)."},
+      {"source": "Isaiah 42:7", "type": "allusion", "confidence": "medium", "note": "The Servant is called 'to open the eyes that are blind'; the blind men's healing realizes the Servant's commission — tying this episode back to the Servant theme just sounded in 20:28.", "contested": true},
+      {"source": "2 Samuel 7:12-16", "type": "allusion", "confidence": "medium", "note": "'Son of David, have mercy on us!' (20:30-31) invokes the Davidic covenant promise of an everlasting throne to David's seed; the blind confess Jesus as the messianic Son of David."},
+      {"source": "Isaiah 11:1", "type": "echo", "confidence": "low", "note": "The 'shoot from the stump of Jesse' stands behind the Son-of-David / Davidic-messiah confession; thematic support for the title in 20:30.", "contested": true},
+      {"source": "Isaiah 29:18", "type": "echo", "confidence": "low", "note": "'the eyes of the blind shall see out of obscurity' — additional eschatological sight-restoration promise reinforcing the Isaianic background of the healing.", "contested": true},
+      {"source": "Psalm 123:3", "type": "echo", "confidence": "low", "note": "'Have mercy on us (eleēson hēmas), O LORD, have mercy on us' — the doubled cry of the blind (20:30-31) reuses the stock psalmic plea for mercy; idiomatic rather than a specific citation.", "contested": true}
+    ]
+  }
+]

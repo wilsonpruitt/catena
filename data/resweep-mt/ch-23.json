@@ -1,0 +1,99 @@
+[
+  {
+    "id": "23.1",
+    "ch": 23,
+    "ref": "23:1-12",
+    "echoes": [
+      {"source": "Exodus 18:13", "type": "echo", "confidence": "low", "note": "\"Moses' seat\" (v2) as the locus of teaching/judging authority evokes Moses sitting to adjudicate for the people; the chair becomes a metaphor for inherited Mosaic teaching office.", "contested": true, "altSource": "Deuteronomy 17:8-11"},
+      {"source": "Deuteronomy 17:10-11", "type": "echo", "confidence": "low", "note": "The duty to do all that the Levitical judges 'at that place' tell you, not turning aside, underlies Jesus' 'observe and do whatever they tell you' (v3) even while condemning their conduct.", "contested": true},
+      {"source": "Deuteronomy 6:8", "type": "allusion", "confidence": "high", "note": "\"They make their phylacteries broad\" (v5) directly references tefillin, the binding of the words 'as a sign on your hand and frontlets between your eyes'; Jesus targets the ostentatious enlargement of this commanded practice.", "contested": false, "altSource": "Exodus 13:9"},
+      {"source": "Exodus 13:16", "type": "allusion", "confidence": "medium", "note": "Parallel phylactery command ('a sign on your hand and frontlets between your eyes') stands behind the broadened phylacteries of v5.", "contested": false},
+      {"source": "Numbers 15:38-39", "type": "allusion", "confidence": "high", "note": "\"Enlarge the fringes of their garments\" (v5) references the commanded tassels (tzitzit) on the corners of garments, given as a reminder of the commandments; the abuse is enlarging them for show.", "contested": false, "altSource": "Deuteronomy 22:12"},
+      {"source": "Proverbs 25:6-7", "type": "allusion", "confidence": "medium", "note": "\"They love the place of honor at feasts, the best seats\" (v6) inverts the wisdom counsel not to claim the place of the great but to be invited up; same banqueting-status imagery Jesus uses elsewhere (Luke 14).", "contested": false},
+      {"source": "Malachi 2:10", "type": "allusion", "confidence": "medium", "note": "\"Call no man your father... one is your Father\" (v9) echoes 'Have we not all one Father? Has not one God created us?' — the prophetic insistence on a single divine paternity over the covenant community.", "contested": false},
+      {"source": "Isaiah 63:16", "type": "echo", "confidence": "low", "note": "\"You, O LORD, are our Father\" supports the one-Father claim of v9 against human honorifics.", "contested": true, "altSource": "Deuteronomy 32:6"},
+      {"source": "Isaiah 54:13", "type": "echo", "confidence": "low", "note": "\"All your children shall be taught by the LORD\" undergirds 'one is your teacher' (v8); divine, not rabbinic, instruction is the eschatological norm.", "contested": true, "altSource": "Jeremiah 31:34"},
+      {"source": "1 Samuel 2:7", "type": "echo", "confidence": "medium", "note": "Hannah's song ('The LORD makes poor and makes rich; he brings low and exalts') anticipates the reversal of v12, that the self-exalting are humbled and the humble exalted.", "contested": false},
+      {"source": "Proverbs 29:23", "type": "allusion", "confidence": "high", "note": "\"A man's pride will bring him low, but the humble in spirit will obtain honor\" is the proverbial substrate of v12's exaltation/humiliation reversal.", "contested": false, "altSource": "Proverbs 3:34"},
+      {"source": "Ezekiel 21:26", "type": "echo", "confidence": "medium", "note": "\"Exalt that which is low, and abase that which is high\" supplies the prophetic reversal formula behind v12.", "contested": false},
+      {"source": "Job 22:29", "type": "echo", "confidence": "low", "note": "\"He saves the humble... God saves the lowly\" parallels the exalt/humble logic of v12.", "contested": true},
+      {"source": "Isaiah 2:11-17", "type": "echo", "confidence": "low", "note": "The Day of the LORD theme that 'the haughtiness of men shall be humbled, and the LORD alone exalted' resonates with v12.", "contested": true}
+    ]
+  },
+  {
+    "id": "23.2",
+    "ch": 23,
+    "ref": "23:13-22",
+    "echoes": [
+      {"source": "2 Kings 23:10", "type": "echo", "confidence": "medium", "note": "\"Son of Gehenna\" (v15) presupposes the Valley of Hinnom (ge-hinnom), defiled by Josiah, as the topographic origin of the eschatological place of judgment.", "contested": false, "altSource": "Jeremiah 7:31-32"},
+      {"source": "Jeremiah 19:6", "type": "echo", "confidence": "medium", "note": "The renaming of the Valley of the Son of Hinnom as 'the Valley of Slaughter' supplies the dark connotation behind 'son of Gehenna' (v15).", "contested": false},
+      {"source": "Isaiah 56:10", "type": "allusion", "confidence": "medium", "note": "\"Blind guides\" / 'his watchmen are blind' — the prophetic indictment of sightless religious leaders stands behind the repeated 'blind guides, blind fools' (vv16-19,24).", "contested": false, "altSource": "Isaiah 42:19"},
+      {"source": "Leviticus 19:12", "type": "allusion", "confidence": "medium", "note": "\"You shall not swear by my name falsely\" grounds the whole oath casuistry of vv16-22; the Pharisaic gradations of binding vs. non-binding oaths violate the simple seriousness of vowing.", "contested": false, "altSource": "Numbers 30:2"},
+      {"source": "Deuteronomy 23:21-23", "type": "echo", "confidence": "medium", "note": "The law that a vow to the LORD must be paid and is not to be trifled with underlies Jesus' attack on evasive oath distinctions (vv16-22).", "contested": false},
+      {"source": "Exodus 29:37", "type": "allusion", "confidence": "high", "note": "\"The altar... whatever touches the altar shall be holy\" is the precise principle Jesus invokes in v19: the altar sanctifies the gift, so swearing by the altar binds by all on it.", "contested": false, "altSource": "Exodus 30:29"},
+      {"source": "1 Kings 8:13", "type": "allusion", "confidence": "medium", "note": "Solomon's temple as the 'place for you to dwell in forever' undergirds v21, swearing 'by him who dwells in it'; cf. the tension with 8:27 that heaven cannot contain God.", "contested": false, "altSource": "Psalm 26:8"},
+      {"source": "Isaiah 66:1", "type": "allusion", "confidence": "high", "note": "\"Heaven is my throne\" directly grounds v22: to swear by heaven is to swear by the throne of God and by him who sits on it.", "contested": false, "altSource": "Psalm 11:4"},
+      {"source": "Psalm 103:19", "type": "echo", "confidence": "medium", "note": "\"The LORD has established his throne in the heavens\" supports the heaven-as-throne identification of v22.", "contested": false}
+    ]
+  },
+  {
+    "id": "23.3",
+    "ch": 23,
+    "ref": "23:23-28",
+    "echoes": [
+      {"source": "Leviticus 27:30", "type": "allusion", "confidence": "medium", "note": "\"The tithe of the land... is the LORD's\" grounds v23; the Pharisees scrupulously tithe even garden herbs (mint, dill, cumin), extending the produce-tithe to the smallest plants.", "contested": false, "altSource": "Deuteronomy 14:22-23"},
+      {"source": "Micah 6:8", "type": "allusion", "confidence": "high", "note": "\"The weightier matters of the law: justice, mercy, and faith(fulness)\" (v23) closely echoes 'to do justice, and to love mercy (hesed), and to walk humbly' — the prophetic distillation of true Torah.", "contested": false},
+      {"source": "Hosea 6:6", "type": "allusion", "confidence": "high", "note": "\"I desire mercy and not sacrifice\" — Matthew's signature prophetic text (cf. 9:13; 12:7) — underlies the priority of mercy over ritual scruple in v23.", "contested": false},
+      {"source": "Zechariah 7:9", "type": "allusion", "confidence": "medium", "note": "\"Render true judgments, show kindness and mercy\" parallels the triad of justice/mercy/faith as the weightier matters of v23.", "contested": false},
+      {"source": "Jeremiah 22:3", "type": "echo", "confidence": "low", "note": "\"Do justice and righteousness... do no wrong\" reinforces the justice/mercy demand neglected in v23.", "contested": true},
+      {"source": "Leviticus 11:4", "type": "allusion", "confidence": "medium", "note": "The camel is explicitly named unclean; 'strain out a gnat and swallow a camel' (v24) plays on the largest and (via Lev 11:23,41) the smallest unclean creatures, an absurd inversion of purity scruple.", "contested": false, "altSource": "Leviticus 11:23"},
+      {"source": "Numbers 19:16", "type": "allusion", "confidence": "high", "note": "Touching a grave or human bones renders one unclean seven days; the 'whitewashed tombs... full of dead men's bones' (v27) trades on corpse-impurity, the very thing graves were whitewashed to warn passersby against.", "contested": false},
+      {"source": "Ezekiel 13:10-15", "type": "allusion", "confidence": "high", "note": "The false prophets who 'whitewash' a flimsy wall to make it look sound, only for it to be torn down, supply the controlling image of v27's whitewashed tombs concealing inner corruption.", "contested": false},
+      {"source": "Leviticus 11:32-34", "type": "echo", "confidence": "low", "note": "Purity rules for vessels (cups, dishes) that contract uncleanness stand behind the inside/outside-of-the-cup imagery of vv25-26.", "contested": true}
+    ]
+  },
+  {
+    "id": "23.4",
+    "ch": 23,
+    "ref": "23:29-36",
+    "echoes": [
+      {"source": "2 Chronicles 36:15-16", "type": "allusion", "confidence": "high", "note": "God 'sent persistently to them by his messengers... but they kept mocking the messengers... and scoffing at his prophets' — the Chronicler's summation of prophet-rejection frames vv29-37's prophet-killing generation.", "contested": false},
+      {"source": "Nehemiah 9:26", "type": "allusion", "confidence": "high", "note": "\"They killed your prophets who had warned them\" — the confessional memory of slain prophets undergirds vv30-31,34-37.", "contested": false},
+      {"source": "1 Kings 19:10", "type": "echo", "confidence": "medium", "note": "Elijah's complaint 'they have killed your prophets with the sword' is part of the prophet-martyr tradition behind vv31,37.", "contested": false, "altSource": "1 Kings 19:14"},
+      {"source": "Jeremiah 26:20-23", "type": "echo", "confidence": "medium", "note": "The prophet Uriah son of Shemaiah killed by the king is a concrete instance of the prophet-killing the woe presupposes (vv31,34).", "contested": false},
+      {"source": "Genesis 15:16", "type": "allusion", "confidence": "medium", "note": "\"The iniquity of the Amorites is not yet complete\" supplies the 'measure not yet full' logic of v32, 'fill up the measure of your fathers.'", "contested": false},
+      {"source": "Daniel 8:23", "type": "echo", "confidence": "low", "note": "\"When the transgressors have reached their full measure\" parallels the filling-up-of-iniquity idiom of v32.", "contested": true},
+      {"source": "Genesis 3:15", "type": "echo", "confidence": "low", "note": "\"You serpents\" (v33) may evoke the primeval serpent and its 'seed,' casting the opponents as offspring of the deceiver.", "contested": true},
+      {"source": "Isaiah 14:29", "type": "allusion", "confidence": "medium", "note": "\"From the serpent's root comes forth an adder, and its fruit a flying serpent\" supplies the viper-offspring image of 'offspring of vipers' (v33; cf. 3:7; 12:34).", "contested": false},
+      {"source": "Isaiah 59:5", "type": "allusion", "confidence": "medium", "note": "The wicked who 'hatch adders' eggs' parallels the 'offspring of vipers' charge (v33), linking venomous brood to deeds of bloodshed (Isa 59:7).", "contested": false},
+      {"source": "Deuteronomy 32:33", "type": "echo", "confidence": "low", "note": "\"Their wine is the poison of serpents and the cruel venom of asps' from the Song of Moses colors the serpent/viper invective of v33.", "contested": true},
+      {"source": "2 Chronicles 24:19", "type": "allusion", "confidence": "medium", "note": "\"He sent prophets among them to bring them back to the LORD... they would not listen\" stands directly before the Zechariah martyrdom and parallels 'I send to you prophets' (v34).", "contested": false},
+      {"source": "Jeremiah 7:25-26", "type": "echo", "confidence": "medium", "note": "\"I have persistently sent all my servants the prophets... yet they did not listen' parallels the divine sending of prophets, wise men, and scribes in v34.", "contested": false, "altSource": "Jeremiah 25:4"},
+      {"source": "Genesis 4:8-10", "type": "allusion", "confidence": "high", "note": "\"The blood of righteous Abel\" (v35) cites the first murder, whose blood 'cries to me from the ground' — the inaugural shed innocent blood opening the canonical span of martyrdom.", "contested": false},
+      {"source": "2 Chronicles 24:20-22", "type": "allusion", "confidence": "high", "note": "Zechariah son of Jehoiada the priest, stoned 'in the court of the house of the LORD' (between sanctuary and altar), dying with 'May the LORD see and avenge' — the closing martyrdom of the Hebrew canon (Chronicles last); v35's Abel-to-Zechariah spans Genesis to Chronicles. The patronym 'son of Berechiah' likely conflates with the prophet of Zech 1:1.", "contested": false, "altSource": "Zechariah 1:1"},
+      {"source": "Deuteronomy 32:5", "type": "echo", "confidence": "low", "note": "\"A crooked and twisted generation\" from the Song of Moses lies behind the verdict on 'this generation' (v36).", "contested": true, "altSource": "Deuteronomy 32:20"},
+      {"source": "Wisdom of Solomon 2:12-20", "type": "echo", "confidence": "low", "note": "The deuterocanonical plot of the wicked conspiring to condemn the righteous one to a shameful death anticipates the persecution/killing of the sent righteous in vv34-35.", "contested": true},
+      {"source": "2 Maccabees 6:14", "type": "echo", "confidence": "low", "note": "God waiting 'until they have reached the full measure of their sins' parallels the filling-up of the fathers' measure (v32).", "contested": true}
+    ]
+  },
+  {
+    "id": "23.5",
+    "ch": 23,
+    "ref": "23:37-39",
+    "echoes": [
+      {"source": "2 Chronicles 24:21", "type": "allusion", "confidence": "medium", "note": "\"They stoned him... in the court of the house of the LORD\" — Zechariah's stoning is a concrete referent for 'Jerusalem... who stones those sent to her' (v37).", "contested": false},
+      {"source": "Nehemiah 9:26", "type": "echo", "confidence": "medium", "note": "The confession that they 'killed your prophets' frames the apostrophe to prophet-killing Jerusalem (v37).", "contested": false},
+      {"source": "Deuteronomy 32:11", "type": "allusion", "confidence": "high", "note": "The eagle that 'spreads its wings... catches them, bears them on its pinions' from the Song of Moses is the maternal bird-protection image behind 'as a hen gathers her chicks under her wings' (v37).", "contested": false},
+      {"source": "Psalm 91:4", "type": "allusion", "confidence": "high", "note": "\"He will cover you with his pinions, and under his wings you will find refuge\" supplies the sheltering-wings imagery of v37 directly.", "contested": false},
+      {"source": "Ruth 2:12", "type": "echo", "confidence": "medium", "note": "\"Under whose wings you have come to take refuge\" is part of the wing-shelter cluster behind v37.", "contested": false, "altSource": "Psalm 36:7"},
+      {"source": "Psalm 17:8", "type": "echo", "confidence": "medium", "note": "\"Hide me in the shadow of your wings\" belongs to the protective-wings imagery gathered in v37.", "contested": false, "altSource": "Psalm 57:1"},
+      {"source": "Isaiah 31:5", "type": "echo", "confidence": "low", "note": "\"Like birds hovering, so the LORD of hosts will protect Jerusalem' — a bird-protection-of-Jerusalem image poignantly inverted when Jerusalem refuses gathering (v37).", "contested": true},
+      {"source": "Jeremiah 22:5", "type": "allusion", "confidence": "high", "note": "\"This house shall become a desolation\" — the LORD's oath against the royal house — is closely echoed in 'your house is left to you desolate' (v38).", "contested": false},
+      {"source": "Jeremiah 12:7", "type": "allusion", "confidence": "medium", "note": "\"I have forsaken my house, I have abandoned my heritage\" supplies the abandonment/desolation of the house in v38.", "contested": false},
+      {"source": "1 Kings 9:7-8", "type": "echo", "confidence": "medium", "note": "The warning that the temple will become 'a heap of ruins' and Israel a byword if they forsake the LORD informs the desolation pronounced in v38.", "contested": false},
+      {"source": "Psalm 69:25", "type": "echo", "confidence": "low", "note": "\"May their camp be a desolation; let no one dwell in their tents\" parallels the desolate-house verdict of v38.", "contested": true},
+      {"source": "Ezekiel 10:18-19", "type": "echo", "confidence": "low", "note": "The departure of the glory of the LORD from the temple is the theological backdrop to the house being 'left desolate' in v38.", "contested": true, "altSource": "Ezekiel 11:23"},
+      {"source": "Psalm 118:26", "type": "quotation", "confidence": "high", "note": "\"Blessed is he who comes in the name of the LORD\" is quoted verbatim in v39 — the Hallel acclamation (already shouted at the entry, 21:9) whose future utterance conditions Jerusalem's seeing of Jesus again.", "contested": false}
+    ]
+  }
+]

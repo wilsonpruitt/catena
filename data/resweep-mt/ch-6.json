@@ -1,0 +1,610 @@
+[
+  {
+    "id": "6.1",
+    "ch": 6,
+    "ref": "6:1-4",
+    "echoes": [
+      {
+        "source": "Deuteronomy 15:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The command to give generously to the poor ('open wide your hand to your brother') is the Torah background for Jesus' presupposition that disciples 'do merciful deeds'; almsgiving is assumed righteousness, not optional."
+      },
+      {
+        "source": "Proverbs 19:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Whoever is kind to the poor lends to the LORD, and he will repay him' — the logic of God himself repaying the secret almsgiver (v.4) closely matches this proverb's reward-from-God motif."
+      },
+      {
+        "source": "Sirach 17:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira: a person's almsgiving is 'like a signet ring' kept with God who guards it as a treasure — Second Temple development of almsgiving stored with God who rewards, paralleling the Father who sees in secret.",
+        "contested": true
+      },
+      {
+        "source": "Tobit 4:7-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Tobit's instruction to give alms from one's substance, that almsgiving 'delivers from death' and 'stores up a good treasure,' is the closest Second Temple parallel to Jesus' theology of hidden, God-rewarded charity.",
+        "contested": true
+      },
+      {
+        "source": "Tobit 12:8-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Prayer with fasting and almsgiving... is better than to lay up gold' and 'almsgiving saves from death' — the same triad of almsgiving/prayer/fasting that structures Mt 6:1-18, suggesting a shared piety pattern.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 58:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's true fast as sharing bread with the hungry links almsgiving and fasting as authentic versus performative piety, the very contrast Jesus draws.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.2",
+    "ch": 6,
+    "ref": "6:5-8",
+    "echoes": [
+      {
+        "source": "2 Kings 4:33",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elisha 'shut the door' and prayed to the LORD in private before raising the child — a possible OT precedent for entering one's room and shutting the door (v.6) to pray unseen.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 26:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Enter your chambers, and shut your doors behind you' — striking verbal overlap with 'enter into your inner room, and having shut your door,' though the contexts differ (hiding from wrath vs. private prayer).",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 18:26-29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prophets of Baal cried aloud 'from morning until noon' with no answer — a possible backdrop for the Gentiles' 'much speaking' (v.7) imagining they are heard for many words.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 5:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Let your words be few' before God in heaven — a wisdom warning against verbose prayer that closely matches the rebuke of 'vain repetitions' and 'much speaking.'"
+      },
+      {
+        "source": "Sirach 7:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Do not babble in the assembly of the elders, and do not repeat yourself in your prayer' — almost a direct Second Temple parallel to the warning against vain repetition.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 139:1-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God knows the word on the tongue before it is spoken — grounds Jesus' claim that 'your Father knows what things you need, before you ask him' (v.8).",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.3",
+    "ch": 6,
+    "ref": "6:9-13",
+    "echoes": [
+      {
+        "source": "Ezekiel 36:23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I will sanctify my great name... and the nations will know that I am the LORD' — the divine self-hallowing of God's name is the OT engine behind 'hallowed be your name'; God hallows his name by his eschatological act, which the petition invokes."
+      },
+      {
+        "source": "Isaiah 29:23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'They will sanctify my name... and stand in awe of the God of Israel' — sanctifying/hallowing the divine Name as eschatological hope, the conceptual root of the first petition."
+      },
+      {
+        "source": "Leviticus 22:32",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You shall not profane my holy name, but I will be hallowed among the children of Israel' — the covenantal duty to hallow the Name underlies 'hallowed be your name.'"
+      },
+      {
+        "source": "Daniel 2:44",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The God of heaven will set up a kingdom which will never be destroyed' — the prayer 'Let your Kingdom come' draws directly on Daniel's vision of God's everlasting kingdom breaking into history."
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Your God reigns!' — the proclamation of God's kingship/reign that 'your Kingdom come' petitions to be realized."
+      },
+      {
+        "source": "Obadiah 1:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'And the kingdom will be the LORD's' — terse OT articulation of the coming divine kingdom echoed in the second petition.",
+        "contested": true
+      },
+      {
+        "source": "1 Maccabees 3:60",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As may be the will in heaven, so let him do' — a Second Temple formula of submission to heaven's will closely paralleling 'your will be done.'",
+        "contested": true
+      },
+      {
+        "source": "Psalm 103:21",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The heavenly hosts 'do his will' (v.20-21) — the angelic obedience in heaven is the model for 'your will be done, as in heaven, so on earth.'"
+      },
+      {
+        "source": "Psalm 135:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whatever the LORD pleased, that he has done, in heaven and in earth' — the heaven/earth scope of God's will echoes in the third petition's cosmic frame.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 30:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Feed me with the food that is needful for me' (Agur's prayer for neither poverty nor riches, just the daily portion) — the closest OT analogue to 'Give us today our daily bread,' both asking for sufficient daily provision."
+      },
+      {
+        "source": "Exodus 16:4",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The manna gathered 'a day's portion every day' is the typological pattern for daily bread: God provides enough for today, teaching dependence rather than hoarding (cf. anxiety section vv.25-34)."
+      },
+      {
+        "source": "Exodus 16:19-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The manna could not be stored overnight without rotting — reinforces the day-by-day reliance behind 'give us today our daily bread' and against laying up earthly treasure.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 28:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Forgive your neighbor the wrong he has done, and then your sins will be pardoned when you pray' — a remarkably close Second Temple parallel to the reciprocal forgiveness of the fifth petition and vv.14-15.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 15:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The sabbatical 'release' (remission) of debts colors 'forgive us our debts' — debt-remission language drawn from Torah jubilee/release practice applied to sins.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 32:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Blessed is he whose transgression is forgiven, whose sin is covered' — the divine forgiveness of sin/debt sought in 'forgive us our debts.'"
+      },
+      {
+        "source": "Psalm 18:28-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Petitions for God to deliver from the enemy/evildoer underlie 'deliver us from the evil one'; the Psalter's deliverance language saturates the final petition.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 141:3-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Incline not my heart to any evil thing' — a prayer not to be led toward evil that parallels 'bring us not into temptation.'",
+        "contested": true
+      },
+      {
+        "source": "1 Chronicles 29:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Yours, O LORD, is the greatness, the power... the kingdom... and the glory' — David's doxology is the verbatim source of the prayer's traditional closing ascription of kingdom, power, and glory to God."
+      },
+      {
+        "source": "1 Chronicles 29:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "David asks God to keep his people's hearts directed toward him — continues the doxological context (29:11) from which the Lord's Prayer ending is drawn.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.4",
+    "ch": 6,
+    "ref": "6:14-15",
+    "echoes": [
+      {
+        "source": "Sirach 28:2-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Forgive your neighbor... and then your sins will be pardoned'; the wrathful man who holds anger cannot expect healing from God — the strongest Second Temple statement of conditional, reciprocal forgiveness mirroring vv.14-15.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You shall not take vengeance, nor bear any grudge... but you shall love your neighbor' — the Torah ground for releasing others' trespasses as a condition of one's own standing before God."
+      },
+      {
+        "source": "Genesis 50:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joseph's brothers beg him to forgive their trespass and Joseph forgives — a narrative model of human forgiveness as the channel of restored relationship.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 27:30-28:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wrath and anger are abominations that the sinner holds tight, and 'the Lord will take vengeance' on the unforgiving — the immediate context preceding the forgiveness teaching of Sir 28:2.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.5",
+    "ch": 6,
+    "ref": "6:16-18",
+    "echoes": [
+      {
+        "source": "Isaiah 58:3-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's polemic against fasting done for show ('to be heard on high'... bowing the head like a reed) versus the fast God chooses — the prophetic template for Jesus' contrast between hypocritical and hidden fasting."
+      },
+      {
+        "source": "Joel 2:12-13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Rend your heart, and not your garments' — true fasting is inward not performative, the same heart-versus-display contrast Jesus presses against disfigured faces."
+      },
+      {
+        "source": "Zechariah 7:5-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'When you fasted... did you at all fast to me, even to me?' — God's challenge that ritual fasting may be self-directed rather than God-directed, paralleling fasting 'to be seen by men.'",
+        "contested": true
+      },
+      {
+        "source": "Ruth 3:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Wash yourself, anoint yourself' — anointing and washing as ordinary grooming (the opposite of mourning), the gesture Jesus prescribes to mask fasting (v.17).",
+        "contested": true
+      },
+      {
+        "source": "2 Samuel 12:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "David washes and anoints himself when he ceases mourning — the cultural background for anointing the head and washing the face to appear un-fasting.",
+        "contested": true
+      },
+      {
+        "source": "Tobit 12:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The triad 'prayer with fasting and almsgiving' commends fasting as genuine piety, paralleling the assumed practice of fasting that Jesus purifies of display.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 10:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel mourns and does NOT anoint himself while fasting — the very mourning-fast convention Jesus reverses by telling disciples to anoint themselves.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.6",
+    "ch": 6,
+    "ref": "6:19-21",
+    "echoes": [
+      {
+        "source": "Sirach 29:10-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Lay up your treasure according to the commandments... store up almsgiving in your treasuries, and it will rescue you from every misfortune' — the most direct Second Temple parallel to laying up treasure in heaven through righteous use of wealth.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 23:4-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Don't weary yourself to be rich... riches sprout wings like an eagle and fly away' — the transience of earthly wealth behind 'treasures on earth, where... thieves break through and steal.'"
+      },
+      {
+        "source": "Job 27:16-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wicked heaps up silver like dust but the just will wear it — the futility of hoarded wealth that another takes, echoing treasure consumed or stolen.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 49:16-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The rich man 'carries nothing away' at death; his glory does not descend with him — undergirds the worthlessness of earthly treasure.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 5:13-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Riches kept by their owner to his hurt, perishing by misfortune, leaving nothing in hand — Qoheleth's meditation on perishable wealth.",
+        "contested": true
+      },
+      {
+        "source": "Tobit 4:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Almsgiving lays up 'a good treasure for yourself against the day of necessity' — explicit treasure-storing-with-God language behind treasures in heaven.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:8-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Bringing tithes into God's storehouse so that heaven's windows pour out blessing — a heaven-versus-earth economy of giving that resonates faintly with heavenly treasure.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 19:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Kindness to the poor 'lends to the LORD' who repays — the mechanism by which earthly generosity becomes heavenly treasure.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.7",
+    "ch": 6,
+    "ref": "6:22-23",
+    "echoes": [
+      {
+        "source": "Proverbs 22:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He who has a generous eye (bountiful eye) will be blessed' — the Hebrew idiom of the 'good/generous eye' versus the stingy eye underlies the 'sound' (single) eye and the 'evil eye,' linking the lamp saying to generosity (cf. surrounding treasure/mammon)."
+      },
+      {
+        "source": "Proverbs 28:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'A man with an evil eye hastens after riches' — the 'evil eye' as greed/stinginess, the very vice contrasted with the sound eye between the treasure and mammon sayings."
+      },
+      {
+        "source": "Deuteronomy 15:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Warning against a 'wicked' (mean/evil) eye toward the needy brother — the evil eye as ungenerous miserliness, contextually fitting the eye/lamp logion's placement amid wealth teaching.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 6:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The commandment is a lamp... the way of life' — light/lamp as moral illumination, the metaphor field Jesus uses for the eye as the body's lamp.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:105",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your word is a lamp to my feet' — lamp/light as inner moral guidance, the imagery undergirding the eye as the lamp of the body.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 14:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'An evil eye is grudging of bread' — Ben Sira's stingy 'evil eye' that begrudges sharing, fitting the generosity reading of the evil eye versus sound eye.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 20:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The spirit of man is the LORD's lamp, searching all his innermost parts' — inner illumination imagery related to the lamp of the body.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.8",
+    "ch": 6,
+    "ref": "6:24",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Love the LORD your God with all your heart' — the Shema's demand of undivided love is what divided service to two masters (God and Mammon) violates; one cannot love both wholly."
+      },
+      {
+        "source": "Joshua 24:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Choose this day whom you will serve' — the exclusive either/or of covenant allegiance behind 'no one can serve two masters.'"
+      },
+      {
+        "source": "1 Kings 18:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'How long will you waver between two opinions?' — Elijah's demand to choose between the LORD and Baal, the prophetic either/or pattern of single-master service.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 20:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall have no other gods before me' — making wealth a rival master is functional idolatry, the first commandment's exclusivity reframed as God versus Mammon.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 31:5-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The lover of gold cannot be justified; gold has been a stumbling block and ruin to many — Ben Sira on wealth as an idol-like snare, paralleling serving Mammon.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.9",
+    "ch": 6,
+    "ref": "6:25-34",
+    "echoes": [
+      {
+        "source": "Psalm 55:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Cast your burden on the LORD, and he will sustain you' — the antidote to anxiety is entrusting provision to God, the heart of 'don't be anxious for your life.'"
+      },
+      {
+        "source": "Psalm 37:25",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I have not seen the righteous forsaken, nor his children begging bread' — God's reliable provision for the righteous undergirds 'your heavenly Father feeds them... how much more you.'"
+      },
+      {
+        "source": "Psalm 104:14-15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God brings forth food and 'satisfies' creation — the Creator's provision for plants, beasts, and people grounds the argument from birds and lilies to human care."
+      },
+      {
+        "source": "Psalm 104:27-28",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'These all wait for you... you give them their food in due season' — God feeds all creatures, directly behind 'your heavenly Father feeds' the birds."
+      },
+      {
+        "source": "Psalm 147:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He gives to the animals their food, and to the young ravens which cry' — God feeding the birds is the precise image of 'See the birds of the sky... your heavenly Father feeds them.'"
+      },
+      {
+        "source": "Job 38:41",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Who provides for the raven its prey, when its young ones cry?' — the divine-speech argument that God feeds wild birds, paralleling the lesson of v.26.",
+        "contested": true
+      },
+      {
+        "source": "Job 12:7-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Ask the animals... the birds of the sky' — they teach that God's hand holds all life; the pedagogy of learning providence from birds matches 'See the birds of the sky.'",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 17:4-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ravens feed Elijah at God's command — a narrative enactment of God using birds in provision, faintly behind the birds-fed-by-the-Father motif.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 10:4-7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Solomon's surpassing glory and splendor (the queen of Sheba's awe) is the explicit comparison: 'even Solomon in all his glory was not dressed like one of these' (v.29)."
+      },
+      {
+        "source": "Exodus 16:4",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The daily manna ('a day's portion') typifies the day-at-a-time trust of 'don't be anxious for tomorrow'; Israel's wilderness schooling in non-hoarding dependence.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 8:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God let Israel hunger then fed with manna 'that he might teach you that man does not live by bread alone' — provision as a lesson in dependence, behind seeking the Kingdom first over food.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 3:11-13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Solomon seeks wisdom (God's priority) and is given riches and honor 'as well' — the exact pattern of 'seek first God's Kingdom... and all these things will be added.'"
+      },
+      {
+        "source": "Proverbs 16:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Commit your works to the LORD, and your plans will be established' — entrusting one's concerns to God rather than anxious self-provision.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 40:6-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'All flesh is grass... the grass withers' — the transience of grass that today is and tomorrow is burned (v.30) draws on Isaiah's grass-and-flower imagery of human frailty."
+      },
+      {
+        "source": "Psalm 90:5-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Humanity 'like grass which grows up. In the morning it flourishes... in the evening it is cut down' — the grass-of-the-field's day-long life behind v.30.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 103:15-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As for man, his days are like grass... the wind passes over it, and it is gone' — reinforces the perishable grass imagery applied to the field's clothing.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:18-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Toil for bread and the field's produce under the curse — the labor of sowing/reaping and anxious provision that Jesus relativizes by pointing to birds that neither sow nor reap.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom 16:25-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Manna provision teaches that 'it is not the production of crops that feeds humankind but your word that sustains those who trust in you' — Second Temple reflection on God-given sustenance versus anxious labor.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 30:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Anxiety brings on premature old age' — Ben Sira on the harm of worry, faintly paralleling 'which of you by being anxious can add to his lifespan?'",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 6:6-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The ant gathers in summer — a nature-observation wisdom form ('consider the ant'); Jesus inverts the genre with 'consider the lilies' which do NOT toil, yet are clothed.",
+        "contested": true
+      }
+    ]
+  }
+]

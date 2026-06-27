@@ -1,0 +1,91 @@
+[
+  {
+    "id": "15.1",
+    "ch": 15,
+    "ref": "15:1-9",
+    "echoes": [
+      {"source": "Isaiah 29:13", "type": "quotation", "confidence": "high", "note": "Formula-cited ('Well did Isaiah prophesy of you'). Mt 15:8-9 reproduces Isaiah's indictment of lip-service worship ('this people draw near with their mouth... but their heart is far from me... in vain do they worship, teaching as doctrines the commandments of men'). Verbatim LXX-leaning quotation; the climactic charge of the pericope.", "contested": false},
+      {"source": "Exodus 20:12", "type": "quotation", "confidence": "high", "note": "'Honor your father and your mother' cited verbatim as 'the commandment of God' (Mt 15:4), the fifth word of the Decalogue, set against the Corban evasion.", "contested": false},
+      {"source": "Deuteronomy 5:16", "type": "quotation", "confidence": "high", "note": "Parallel Decalogue form of 'Honor your father and mother'; Jesus' citation may carry the Deuteronomic as well as Exodus wording. Same commandment, recurrence reinforces.", "contested": false},
+      {"source": "Exodus 21:17", "type": "quotation", "confidence": "high", "note": "'He who speaks evil of (curses) father or mother, let him be put to death' cited verbatim (Mt 15:4b) as the sanction backing the fifth commandment.", "contested": false},
+      {"source": "Leviticus 20:9", "type": "quotation", "confidence": "high", "note": "Holiness-code parallel to Ex 21:17: 'Everyone who curses his father or mother shall surely be put to death.' Likely conflated in Jesus' citation; recurrence strengthens the death-penalty backing.", "contested": false},
+      {"source": "Deuteronomy 27:16", "type": "allusion", "confidence": "medium", "note": "'Cursed is he who dishonors his father or mother' — the Shechem covenant curse echoing the same dishonor/honor logic Jesus invokes against the Corban tradition.", "contested": false},
+      {"source": "Numbers 30:2", "type": "allusion", "confidence": "medium", "note": "Law of vows: 'If a man vows a vow to the LORD... he shall not break his word.' Underlies the Corban ('a gift devoted to God') practice Jesus targets — a binding vow weaponized against the fifth commandment.", "contested": false},
+      {"source": "Leviticus 27:9-28", "type": "allusion", "confidence": "medium", "note": "Legislation on things 'devoted' (qorban/herem) to the LORD; the technical 'gift devoted to God' (Mt 15:5) draws on this dedicatory vocabulary.", "contested": false},
+      {"source": "Deuteronomy 23:21-23", "type": "echo", "confidence": "low", "note": "Vows to the LORD must be paid and not delayed — the legal background that made Corban vows seem inviolable, which Jesus exposes as a pretext.", "contested": true},
+      {"source": "Proverbs 20:20", "type": "echo", "confidence": "low", "note": "'Whoever curses his father or mother, his lamp will be put out' — wisdom restatement of the dishonor sanction echoed in Mt 15:4.", "contested": true},
+      {"source": "Proverbs 30:11-17", "type": "echo", "confidence": "low", "note": "The generation that curses its father and does not bless its mother; thematic resonance with the dishonor Jesus condemns.", "contested": true},
+      {"source": "Jeremiah 12:2", "type": "echo", "confidence": "low", "note": "'You are near in their mouth and far from their heart' — close conceptual parallel to Isaiah 29:13's mouth/heart contrast that Jesus quotes; reinforces the lip-vs-heart motif.", "contested": true},
+      {"source": "Ezekiel 33:31", "type": "echo", "confidence": "low", "note": "'With their mouth they show much love, but their heart goes after gain' — same prophetic indictment of mouth-honoring without the heart, paralleling the quoted Isaiah 29:13.", "contested": true}
+    ]
+  },
+  {
+    "id": "15.2",
+    "ch": 15,
+    "ref": "15:10-20",
+    "echoes": [
+      {"source": "Genesis 6:5", "type": "allusion", "confidence": "medium", "note": "'Every imagination of the thoughts of his heart was only evil' — anthropological root of Jesus' claim that defilement proceeds from the heart, source of 'evil thoughts' (Mt 15:19).", "contested": false},
+      {"source": "Genesis 8:21", "type": "echo", "confidence": "low", "note": "'The imagination of man's heart is evil from his youth' — reinforces the heart-as-source-of-evil premise underlying 15:18-19.", "contested": true},
+      {"source": "Jeremiah 17:9", "type": "allusion", "confidence": "medium", "note": "'The heart is deceitful above all things, and desperately sick' — prophetic anthropology directly behind 'out of the heart come evil thoughts, murders...' (Mt 15:19).", "contested": false},
+      {"source": "Exodus 20:13-16", "type": "allusion", "confidence": "medium", "note": "The catalogue of vices (murders, adulteries, thefts, false testimony) in Mt 15:19 follows the order of the second table of the Decalogue, casting heart-evil as Decalogue-breaking.", "contested": false},
+      {"source": "Deuteronomy 5:17-20", "type": "echo", "confidence": "low", "note": "Deuteronomic Decalogue parallel to the Mt 15:19 vice list (murder, adultery, theft, false witness).", "contested": true},
+      {"source": "Isaiah 60:21", "type": "allusion", "confidence": "medium", "note": "'They are the branch of my planting, the work of my hands' — God's true planting language behind 'every plant my heavenly Father did not plant will be uprooted' (Mt 15:13); the Pharisees are not God's planting.", "contested": false},
+      {"source": "Isaiah 5:1-7", "type": "echo", "confidence": "low", "note": "The Song of the Vineyard: God's planting that fails and is destroyed — background to the uprooting of every plant not planted by the Father.", "contested": true},
+      {"source": "Jeremiah 1:10", "type": "echo", "confidence": "low", "note": "Prophetic commission 'to pluck up and to plant' — the plucking/planting polarity Jesus invokes in 15:13.", "contested": true},
+      {"source": "Isaiah 61:3", "type": "echo", "confidence": "low", "note": "'Oaks of righteousness, the planting of the LORD' — God's planting motif resonant with Mt 15:13.", "contested": true},
+      {"source": "Isaiah 42:19", "type": "allusion", "confidence": "medium", "note": "'Who is blind but my servant... blind as the LORD's messenger?' — prophetic 'blind' leadership behind 'blind guides of the blind' (Mt 15:14).", "contested": false},
+      {"source": "Isaiah 56:10", "type": "allusion", "confidence": "medium", "note": "'His watchmen are blind, they are all without knowledge' — blind Israelite leaders, a strong source for the 'blind guides' charge.", "contested": false},
+      {"source": "Isaiah 9:16", "type": "echo", "confidence": "low", "note": "'The leaders of this people cause them to err, and those led are destroyed' — guides leading the people to ruin, paralleling both falling into the pit (15:14).", "contested": true},
+      {"source": "Proverbs 26:27", "type": "echo", "confidence": "low", "note": "'Whoever digs a pit will fall into it' — wisdom topos of falling into the pit echoed in 'both will fall into a pit' (Mt 15:14).", "contested": true},
+      {"source": "Isaiah 6:9-10", "type": "echo", "confidence": "low", "note": "'Hear but do not understand... lest they understand with their heart' — the hearing/understanding/heart cluster ironically inverted in Jesus' 'Hear and understand' (15:10) and the disciples' dullness (15:16).", "contested": true},
+      {"source": "Proverbs 4:23", "type": "echo", "confidence": "low", "note": "'Keep your heart with all diligence, for out of it are the springs of life' — heart as the wellspring from which everything proceeds, paralleling 'out of the heart come...' (15:18-19).", "contested": true}
+    ]
+  },
+  {
+    "id": "15.3",
+    "ch": 15,
+    "ref": "15:21-28",
+    "echoes": [
+      {"source": "Ezekiel 34:5-6", "type": "allusion", "confidence": "high", "note": "'My sheep were scattered... they wandered, lost.' Jesus' mission 'to the lost sheep of the house of Israel' (Mt 15:24) draws directly on Ezekiel's scattered/lost flock that God himself will seek and shepherd.", "contested": false},
+      {"source": "Jeremiah 50:6", "type": "allusion", "confidence": "medium", "note": "'My people have been lost sheep; their shepherds have led them astray' — close verbal source for 'the lost sheep of the house of Israel' (Mt 15:24).", "contested": false},
+      {"source": "Isaiah 53:6", "type": "echo", "confidence": "low", "note": "'All we like sheep have gone astray' — the lost/straying sheep image behind 15:24.", "contested": true},
+      {"source": "Psalm 119:176", "type": "echo", "confidence": "low", "note": "'I have gone astray like a lost sheep; seek your servant' — individual lost-sheep language resonant with Mt 15:24.", "contested": true},
+      {"source": "2 Samuel 7:12-16", "type": "allusion", "confidence": "medium", "note": "The Davidic covenant promising an eternal son/throne — basis for the Gentile woman's address 'Lord, you son of David' (Mt 15:22), a messianic title.", "contested": false},
+      {"source": "Isaiah 11:1", "type": "echo", "confidence": "low", "note": "'A shoot from the stump of Jesse' — Davidic-messianic hope behind the 'son of David' acclamation in 15:22.", "contested": true},
+      {"source": "1 Kings 17:8-24", "type": "figural", "confidence": "medium", "note": "Elijah sent to the Gentile widow of Zarephath, in the region of Sidon, whose son he heals — a typological precedent for Jesus in 'the region of Tyre and Sidon' (15:21) granting mercy and healing to a Gentile woman's child.", "contested": false},
+      {"source": "Exodus 4:22", "type": "echo", "confidence": "low", "note": "'Israel is my son, my firstborn' — Israel's status as God's children illumines 'the children's bread' (Mt 15:26) reserved first for Israel before Gentiles.", "contested": true},
+      {"source": "Deuteronomy 14:1", "type": "echo", "confidence": "low", "note": "'You are the children of the LORD your God' — Israel as God's children, background to the children-vs-dogs (Israel-vs-Gentiles) contrast of 15:26.", "contested": true},
+      {"source": "Joshua 2:1-21", "type": "figural", "confidence": "low", "note": "Rahab the Canaanite who confesses Israel's God and is saved — a figural precedent for a Canaanite woman whose faith Jesus praises (Mt 15:28); Matthew has already named Rahab in the genealogy.", "contested": true},
+      {"source": "Genesis 9:25-27", "type": "echo", "confidence": "low", "note": "The curse on Canaan to be servant — the Canaanite woman's reversal (faith commended) stands against the Canaanite-as-cursed-outsider background flagged by Matthew's pointed label 'a Canaanite woman'.", "contested": true}
+    ]
+  },
+  {
+    "id": "15.4",
+    "ch": 15,
+    "ref": "15:29-31",
+    "echoes": [
+      {"source": "Isaiah 35:5-6", "type": "allusion", "confidence": "high", "note": "'Then the eyes of the blind shall be opened, the ears of the deaf unstopped; the lame man shall leap, and the tongue of the mute sing.' Mt 15:30-31's catalogue of mute speaking, lame walking, blind seeing reproduces Isaiah's portrait of eschatological restoration almost item for item.", "contested": false},
+      {"source": "Isaiah 29:18-19", "type": "allusion", "confidence": "medium", "note": "'The deaf shall hear... the eyes of the blind shall see... the meek shall obtain fresh joy' — recurrence with the Isaiah 29 already quoted in 15:8-9 binds the chapter; the healings fulfill the same oracle.", "contested": false},
+      {"source": "Isaiah 29:23", "type": "echo", "confidence": "low", "note": "'They will sanctify... the God of Israel' — the crowd's response 'they glorified the God of Israel' (15:31) echoes Isaiah 29's promised honoring of Israel's God, reversing the lip-service of 15:8-9.", "contested": true},
+      {"source": "Exodus 4:11", "type": "echo", "confidence": "low", "note": "'Who makes the mute, the deaf, the seeing, or the blind? Is it not I, the LORD?' — the divine prerogative over these very disabilities, now exercised by Jesus, prompting glory to 'the God of Israel'.", "contested": true},
+      {"source": "Exodus 24:4", "type": "echo", "confidence": "low", "note": "Jesus 'went up into the mountain, and sat there' (15:29) before the crowds and the feeding — a faint Sinai/Moses-on-the-mountain coloring.", "contested": true},
+      {"source": "Psalm 146:8", "type": "echo", "confidence": "low", "note": "'The LORD opens the eyes of the blind; the LORD raises up those who are bowed down' — the God of Israel as healer of these conditions, glorified in 15:31.", "contested": true}
+    ]
+  },
+  {
+    "id": "15.5",
+    "ch": 15,
+    "ref": "15:32-39",
+    "echoes": [
+      {"source": "Exodus 16:1-35", "type": "allusion", "confidence": "high", "note": "The manna in the wilderness: God feeds a vast multitude in a 'deserted place' (Mt 15:33) where there is nothing to eat, and all 'ate and were filled' (15:37). The feeding of the four thousand is patterned on the wilderness provision.", "contested": false},
+      {"source": "2 Kings 4:42-44", "type": "allusion", "confidence": "high", "note": "Elisha feeds a hundred men with a few loaves, who 'ate and had some left over' — the closest prophetic precedent: limited loaves, a doubting servant ('how can I set this before a hundred?'), eating to satisfaction, and leftovers, all mirrored in 15:34-37.", "contested": false},
+      {"source": "Psalm 78:19-25", "type": "allusion", "confidence": "medium", "note": "'Can God spread a table in the wilderness?... he rained down manna... they ate and were well filled.' The doubting question of 15:33 and the satisfied eating of 15:37 echo this recital of the wilderness feeding.", "contested": false},
+      {"source": "Numbers 27:17", "type": "allusion", "confidence": "medium", "note": "Moses' concern that the congregation not be 'as sheep without a shepherd' — behind Jesus' compassion on the hungry multitude (15:32) he refuses to send away; pastoral provision for a leaderless flock.", "contested": false},
+      {"source": "Ezekiel 34:14-16", "type": "echo", "confidence": "low", "note": "God the shepherd will feed his flock in good pasture and seek the lost — recurrence with 15:24's lost sheep; the feeding enacts the shepherd's provision of food.", "contested": true},
+      {"source": "Psalm 107:5-9", "type": "echo", "confidence": "low", "note": "The hungry and thirsty fainting in the wilderness whom God satisfies: 'he satisfies the longing soul, and fills the hungry with good things' — resonant with the fainting-on-the-way concern and the filling of 15:32-37.", "contested": true},
+      {"source": "Psalm 23:5", "type": "echo", "confidence": "low", "note": "'You prepare a table before me' — the shepherd providing a meal, faint background to the wilderness feeding.", "contested": true},
+      {"source": "Deuteronomy 8:10", "type": "echo", "confidence": "low", "note": "'You shall eat and be full, and you shall bless the LORD' — the eat-and-be-satisfied formula echoed in 'they all ate, and were filled' (15:37), with Jesus giving thanks.", "contested": true},
+      {"source": "Psalm 145:15-16", "type": "echo", "confidence": "low", "note": "'You open your hand and satisfy the desire of every living thing' — God satisfying the hungry, faint resonance with the multitude filled in 15:37.", "contested": true}
+    ]
+  }
+]

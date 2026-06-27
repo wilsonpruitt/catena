@@ -1,0 +1,160 @@
+[
+  {
+    "id": "24.1",
+    "ch": 24,
+    "ref": "24:1-3",
+    "echoes": [
+      {"source": "Micah 3:12", "type": "allusion", "confidence": "medium", "note": "The prophecy that not one stone of the temple will be left on another reprises Micah's oracle that 'Zion shall be plowed as a field, Jerusalem shall become heaps,' the classic prophetic word of the temple's destruction; Jeremiah cites Micah 3:12 in his temple sermon (Jer 26:18), making it the paradigmatic temple-doom text.", "contested": false},
+      {"source": "Jeremiah 7:14", "type": "allusion", "confidence": "medium", "note": "Jeremiah's temple sermon threatens to do to the Jerusalem house what was done to Shiloh; Jesus' prediction of the temple's total demolition stands in this prophetic tradition of judgment on a temple presumed inviolable.", "contested": false},
+      {"source": "Jeremiah 26:18", "type": "echo", "confidence": "low", "note": "Jeremiah's recitation of Micah's temple-destruction oracle before the elders forms the precedent for a prophet announcing the razing of the temple and being threatened for it.", "contested": true},
+      {"source": "Zechariah 14:4", "type": "allusion", "confidence": "medium", "note": "Jesus delivers the discourse seated on the Mount of Olives, the very mountain on which Zechariah says the LORD's feet will stand on the day of judgment, splitting it in two; the eschatological setting is deliberately Zecharian.", "contested": false},
+      {"source": "Ezekiel 11:23", "type": "echo", "confidence": "low", "note": "The glory of the LORD departs the temple and rests on 'the mountain east of the city' (the Mount of Olives); Jesus leaving the temple and seating himself on that mountain to pronounce its doom evokes the departure of the divine presence.", "contested": true},
+      {"source": "Daniel 12:4", "type": "echo", "confidence": "low", "note": "The disciples' question about the sign of 'the end of the age' uses the apocalyptic 'time of the end' vocabulary that pervades Daniel 8-12, framing the whole discourse in Danielic eschatological terms.", "contested": true}
+    ]
+  },
+  {
+    "id": "24.2",
+    "ch": 24,
+    "ref": "24:4-8",
+    "echoes": [
+      {"source": "2 Chronicles 15:6", "type": "allusion", "confidence": "medium", "note": "'Nation will rise against nation, and kingdom against kingdom' closely matches 2 Chronicles 15:6, 'nation was crushed by nation and city by city,' a description of the LORD troubling them with every distress; the verbal pairing is the source idiom for the upheaval motif.", "contested": false},
+      {"source": "Isaiah 19:2", "type": "allusion", "confidence": "medium", "note": "'I will stir up Egyptian against Egyptian... city against city, kingdom against kingdom' supplies the same nation-against-nation / kingdom-against-kingdom formula for divine judgment producing internal strife.", "contested": false},
+      {"source": "Isaiah 13:8", "type": "allusion", "confidence": "medium", "note": "'the beginning of birth pains' draws on the prophetic figure of the Day of the LORD as labor pangs; Isaiah 13:8 has the doomed seized by 'pangs and agony... like a woman in labor' in the oracle against Babylon, a passage Matthew 24:29 mines again for cosmic darkening.", "contested": false},
+      {"source": "Jeremiah 22:23", "type": "echo", "confidence": "low", "note": "The 'birth pains' metaphor for the onset of judgment is a recurring Jeremianic figure (also Jer 4:31; 6:24; 13:21), reinforcing 'beginning of birth pains' as prophetic shorthand for the throes preceding the end.", "contested": true},
+      {"source": "Daniel 2:28", "type": "allusion", "confidence": "medium", "note": "'all this must happen' (Greek dei genesthai) echoes Daniel's 'what must take place' / 'what will be in the latter days,' the apocalyptic language of divinely fixed events; the necessity (dei) is Danielic determinism.", "contested": false},
+      {"source": "Daniel 11:44", "type": "echo", "confidence": "low", "note": "'rumors' troubling the king and the eschatological wars of Daniel 11 stand behind the 'wars and rumors of wars' that must occur before the end without yet being the end.", "contested": true},
+      {"source": "Isaiah 8:12", "type": "echo", "confidence": "low", "note": "'See that you aren't troubled' recalls Isaiah's 'do not fear what they fear, nor be in dread,' the prophetic reassurance not to be terrified by the threats of the nations.", "contested": true},
+      {"source": "2 Chronicles 20:9", "type": "echo", "confidence": "low", "note": "The triad of sword (war), famine, and pestilence/plague is the standard prophetic judgment cluster (sword-famine-pestilence) found throughout Jeremiah and Ezekiel; 'famines, plagues, and earthquakes' draws on this covenant-curse vocabulary.", "contested": true},
+      {"source": "Ezekiel 5:12", "type": "allusion", "confidence": "medium", "note": "The sword-famine-pestilence triad that Jesus lists as preliminary woes is Ezekiel's signature judgment formula (also Ezek 6:11-12; 7:15; 14:21), the covenant curses unleashed on Jerusalem.", "contested": false}
+    ]
+  },
+  {
+    "id": "24.3",
+    "ch": 24,
+    "ref": "24:9-14",
+    "echoes": [
+      {"source": "Daniel 12:1", "type": "allusion", "confidence": "medium", "note": "The handing over to tribulation and the promise that 'he who endures to the end will be saved' echoes Daniel 12:1, where after a time of unequaled trouble 'your people shall be delivered, everyone found written in the book'; deliverance comes through, not around, the tribulation.", "contested": false},
+      {"source": "Daniel 11:33", "type": "allusion", "confidence": "medium", "note": "'they will deliver you up... and will kill you' matches Daniel 11:33, where 'those who are wise... shall fall by sword and flame, by captivity and plunder' during the persecution, the maskilim suffering before vindication.", "contested": false},
+      {"source": "Daniel 11:35", "type": "echo", "confidence": "low", "note": "The wise who 'stumble' so as to be refined 'until the time of the end' (Dan 11:35) stands behind 'many will stumble' under persecution before the end comes.", "contested": true},
+      {"source": "Micah 7:6", "type": "allusion", "confidence": "medium", "note": "'will deliver up one another, and will hate one another' draws on Micah 7:6, where son dishonors father and a man's enemies are his own household, the eschatological breakdown of kinship loyalty Jesus cites explicitly in Matthew 10:21,35-36.", "contested": false},
+      {"source": "Daniel 12:10", "type": "echo", "confidence": "low", "note": "'many will be purified... but the wicked shall act wickedly' (Dan 12:10) parallels the sifting in which many stumble and love grows cold while some endure to be saved.", "contested": true},
+      {"source": "Zechariah 13:9", "type": "echo", "confidence": "low", "note": "The refining of a remnant through fire so that those who endure are saved while two-thirds perish (Zech 13:8-9) supplies the testing-and-remnant pattern behind enduring to the end for salvation.", "contested": true},
+      {"source": "Isaiah 49:6", "type": "echo", "confidence": "low", "note": "The gospel 'preached in the whole world for a testimony to all the nations' before the end resonates with the Servant being given as 'a light to the nations, that my salvation may reach to the end of the earth.'", "contested": true},
+      {"source": "Psalm 96:3", "type": "echo", "confidence": "low", "note": "Proclaiming God's glory and salvation 'among all the nations' anticipates the worldwide witness to the nations that must precede the end.", "contested": true},
+      {"source": "Ezekiel 14:21", "type": "echo", "confidence": "low", "note": "The intensifying judgments and the universal hatred for the name belong to the prophetic scenario of covenant judgment poured on a faithless world, of which Ezekiel's four deadly acts are emblematic.", "contested": true}
+    ]
+  },
+  {
+    "id": "24.4",
+    "ch": 24,
+    "ref": "24:15-22",
+    "echoes": [
+      {"source": "Daniel 9:27", "type": "quotation", "confidence": "high", "note": "'the abomination of desolation, which was spoken of through Daniel the prophet' is an explicit, attributed citation; Daniel 9:27 reads that 'on the wing of abominations shall come one who makes desolate' (LXX bdelygma ton eremoseon), the precise phrase Jesus quotes.", "contested": false},
+      {"source": "Daniel 11:31", "type": "quotation", "confidence": "high", "note": "The same 'abomination that makes desolate' is set up in the temple in Daniel 11:31, the historical referent in the Antiochene desecration; Jesus' explicit Danielic citation conflates 11:31 with 9:27 and 12:11 as the prophetic source.", "contested": false},
+      {"source": "Daniel 12:11", "type": "quotation", "confidence": "high", "note": "Daniel 12:11 dates 'the abomination that makes desolate' set up after the daily sacrifice is taken away; together with 9:27 and 11:31 this is the named Danielic prophecy Jesus invokes for the desecration standing in the holy place.", "contested": false},
+      {"source": "Daniel 8:13", "type": "allusion", "confidence": "medium", "note": "Daniel 8:13's 'transgression that makes desolate' giving over the sanctuary and host to be trampled is part of the same Danielic abomination complex underlying the desecration of the holy place.", "contested": false},
+      {"source": "Daniel 12:1", "type": "allusion", "confidence": "high", "note": "'great oppression, such as has not been from the beginning of the world until now, no, nor ever will be' is a near-verbatim rendering of Daniel 12:1, 'a time of trouble such as never has been since there was a nation till that time'; this is the controlling source for the unequaled-tribulation clause.", "contested": false},
+      {"source": "1 Maccabees 1:54", "type": "allusion", "confidence": "medium", "note": "1 Maccabees 1:54 narrates the fulfillment of Daniel: Antiochus 'erected a desolating sacrilege (bdelygma eremoseos) on the altar of burnt offering,' the deuterocanonical realization of the abomination phrase Jesus reuses for a future desecration.", "contested": false},
+      {"source": "Exodus 9:18", "type": "echo", "confidence": "low", "note": "The 'such as has never been... nor ever will be' formula is itself a stock superlative of unprecedented disaster (Exod 9:18, the hail; 10:14, the locusts; 11:6, the death of the firstborn), reinforcing the tribulation's incomparability.", "contested": true},
+      {"source": "Joel 2:2", "type": "echo", "confidence": "low", "note": "Joel's Day of the LORD is 'a day of darkness... such as has never been, nor will be again after them through the years,' the same unequaled-distress superlative attached to the eschatological day.", "contested": true},
+      {"source": "Genesis 19:17", "type": "allusion", "confidence": "medium", "note": "'flee to the mountains' and do not turn back to take anything echoes the angelic command to Lot, 'Flee to the hills... do not look back,' the paradigm of urgent escape from a doomed place before destruction falls.", "contested": false},
+      {"source": "1 Maccabees 2:28", "type": "echo", "confidence": "low", "note": "Mattathias and his sons 'fled to the mountains' to escape the persecution and desecration, a Maccabean precedent for fleeing to the hills when the abomination stands in the holy place.", "contested": true},
+      {"source": "Ezekiel 7:16", "type": "echo", "confidence": "low", "note": "'those who survive shall escape and be on the mountains' when judgment falls on the land parallels the command to flee to the mountains in the day of desolation.", "contested": true},
+      {"source": "Genesis 19:26", "type": "echo", "confidence": "low", "note": "The warnings not to go down from the housetop or turn back in the field for one's goods recall Lot's wife, who looked back toward Sodom and perished; the danger of delay for possessions is the Sodom-escape topos.", "contested": true},
+      {"source": "Lamentations 4:10", "type": "echo", "confidence": "low", "note": "The woe to pregnant and nursing women in those days resonates with Lamentations' horrors of the siege of Jerusalem, where mothers and infants suffer the extremity of the city's fall.", "contested": true},
+      {"source": "Hosea 13:16", "type": "echo", "confidence": "low", "note": "The special woe to pregnant women and the dashing of infants in the day of judgment (Hosea 13:16) underlies the lament for those with child and nursing mothers in the days of tribulation.", "contested": true},
+      {"source": "Deuteronomy 28:53", "type": "echo", "confidence": "low", "note": "The covenant-curse siege horrors falling especially on the tender and pregnant (Deut 28:53-57) form the Deuteronomic backdrop for the woe to mothers in those days.", "contested": true},
+      {"source": "Isaiah 65:8", "type": "echo", "confidence": "low", "note": "The days being 'shortened for the sake of the chosen ones' so that some flesh is saved echoes the prophetic logic of God preserving a remnant 'for my servants' sake' rather than destroying all.", "contested": true}
+    ]
+  },
+  {
+    "id": "24.5",
+    "ch": 24,
+    "ref": "24:23-28",
+    "echoes": [
+      {"source": "Deuteronomy 13:1", "type": "allusion", "confidence": "medium", "note": "'false christs and false prophets will show great signs and wonders, so as to lead astray' draws on Deuteronomy 13:1-3, the warning about a prophet who gives a sign or wonder to lead Israel astray after other gods; the criterion is fidelity, not the marvel.", "contested": false},
+      {"source": "Deuteronomy 13:5", "type": "echo", "confidence": "low", "note": "The Deuteronomic insistence that even a wonder-working prophet who leads astray must be rejected reinforces 'don't believe it' against the seductive signs of false messiahs.", "contested": true},
+      {"source": "Daniel 11:35", "type": "echo", "confidence": "low", "note": "The deceivers leading astray 'even the chosen ones, if possible' parallels Daniel's wise being tested and some falling away amid the deceits of the end-time tribulation.", "contested": true},
+      {"source": "Malachi 4:5", "type": "echo", "confidence": "low", "note": "Expectation of the eschatological prophet/messiah in the wilderness or hidden chamber plays against authentic prophetic anticipation; the 'wilderness' rumor (v.26) trades on Elijah-style wilderness expectation.", "contested": true},
+      {"source": "Habakkuk 1:8", "type": "echo", "confidence": "low", "note": "'wherever the carcass is, there is where the vultures gather' evokes the swift birds of prey swooping to the kill in Habakkuk's vision of judgment, the inevitability and visibility of the coming devastation.", "contested": true},
+      {"source": "Job 39:30", "type": "echo", "confidence": "low", "note": "'where the slain are, there is he' (the eagle/vulture over the carcass, Job 39:30) is a likely source for the proverb of the gathering vultures, an image of unmistakable, inevitable convergence.", "contested": true},
+      {"source": "Ezekiel 39:17", "type": "echo", "confidence": "low", "note": "The birds gathering to the great slaughter-sacrifice in the day of the LORD (Ezek 39:4,17-20) lies behind the carcass-and-vultures image of eschatological judgment that none will miss.", "contested": true}
+    ]
+  },
+  {
+    "id": "24.6",
+    "ch": 24,
+    "ref": "24:29-31",
+    "echoes": [
+      {"source": "Isaiah 13:10", "type": "allusion", "confidence": "high", "note": "'the sun will be darkened, the moon will not give its light' is a near-quotation of Isaiah 13:10, 'the stars of the heavens... will not give their light; the sun will be dark at its rising and the moon will not shed its light,' the cosmic collapse in the Day-of-the-LORD oracle against Babylon.", "contested": false},
+      {"source": "Isaiah 34:4", "type": "allusion", "confidence": "high", "note": "'the stars will fall from the sky, and the powers of the heavens will be shaken' renders Isaiah 34:4, 'all the host of heaven shall rot away... all their host shall fall, as leaves fall from the vine,' the dissolution of the heavenly host in judgment.", "contested": false},
+      {"source": "Joel 2:10", "type": "allusion", "confidence": "high", "note": "Joel 2:10 (and 3:15) 'the sun and the moon are darkened, and the stars withdraw their shining' supplies the same triad of darkened sun, moon, and stars as the heralds of the Day of the LORD.", "contested": false},
+      {"source": "Joel 2:31", "type": "allusion", "confidence": "medium", "note": "'the sun shall be turned to darkness, and the moon to blood, before the great and awesome day of the LORD' is part of the Joel cluster behind the cosmic-portent language of the Son of Man's coming.", "contested": false},
+      {"source": "Ezekiel 32:7", "type": "allusion", "confidence": "medium", "note": "Ezekiel 32:7-8, 'I will cover the heavens and make their stars dark; I will cover the sun with a cloud, and the moon shall not give its light,' is a direct parallel to the darkening of sun, moon, and stars over a fallen power.", "contested": false},
+      {"source": "Daniel 7:13", "type": "allusion", "confidence": "high", "note": "'they will see the Son of Man coming on the clouds of the sky with power and great glory' is a strong allusion to Daniel 7:13, 'one like a son of man, coming with the clouds of heaven,' to whom dominion and glory are given; the title and the cloud-coming are Danielic.", "contested": false},
+      {"source": "Daniel 7:14", "type": "allusion", "confidence": "medium", "note": "The 'power and great glory' and the gathering of all peoples reflects Daniel 7:14, where the son of man receives dominion, glory, and a kingdom that all peoples should serve.", "contested": false},
+      {"source": "Zechariah 12:10", "type": "allusion", "confidence": "high", "note": "'all the tribes of the earth will mourn' draws on Zechariah 12:10-14, 'they shall look on him whom they have pierced, and mourn... the land shall mourn, each family by itself,' the eschatological mourning of the tribes/families at the appearance of the one they pierced.", "contested": false},
+      {"source": "Zechariah 12:12", "type": "allusion", "confidence": "medium", "note": "The enumeration of mourning 'families/tribes' in Zechariah 12:12-14 is specifically behind 'all the tribes (phylai) of the earth will mourn,' Matthew's universalizing of Zechariah's clan-by-clan lament.", "contested": false},
+      {"source": "Deuteronomy 30:4", "type": "allusion", "confidence": "high", "note": "'they will gather together his chosen ones from the four winds, from one end of the sky to the other' echoes Deuteronomy 30:4, 'though you are driven to the farthest parts of heaven, from there the LORD your God will gather you,' the promise of regathering the scattered elect.", "contested": false},
+      {"source": "Zechariah 2:6", "type": "allusion", "confidence": "medium", "note": "'I have spread you abroad like the four winds of heaven' (Zech 2:6) supplies the 'four winds' as the dispersion-points from which the elect are gathered at the end.", "contested": false},
+      {"source": "Isaiah 27:13", "type": "allusion", "confidence": "medium", "note": "'a great trumpet will be blown, and those who were lost... will come and worship the LORD' (Isa 27:13) is the source for the trumpet that summons the dispersed elect to be gathered at the Son of Man's coming.", "contested": false},
+      {"source": "Isaiah 11:12", "type": "allusion", "confidence": "medium", "note": "The LORD raising a signal/sign and 'gathering the dispersed of Israel... from the four corners of the earth' (Isa 11:12) parallels both the 'sign of the Son of Man' and the gathering of the elect from the four winds.", "contested": false},
+      {"source": "Zechariah 9:14", "type": "echo", "confidence": "low", "note": "'the Lord GOD will sound the trumpet' in the day of his appearing (Zech 9:14) reinforces the eschatological trumpet that accompanies the gathering.", "contested": true},
+      {"source": "Isaiah 34:4", "type": "echo", "confidence": "low", "note": "The 'powers of the heavens shall be shaken' specifically draws on the shaking and dissolution of the heavenly host in Isaiah 34:4, distinct from the falling stars, emphasizing cosmic powers undone.", "contested": true},
+      {"source": "Haggai 2:6", "type": "echo", "confidence": "low", "note": "'I will shake the heavens and the earth' (Hag 2:6) is part of the prophetic shaking-of-the-cosmos tradition behind 'the powers of the heavens will be shaken.'", "contested": true},
+      {"source": "Isaiah 24:23", "type": "echo", "confidence": "low", "note": "Isaiah 24:23, the moon abashed and the sun ashamed when the LORD reigns in glory on Zion, belongs to the same Isaianic cluster of luminaries failing at the LORD's appearing.", "contested": true},
+      {"source": "Daniel 7:27", "type": "echo", "confidence": "low", "note": "The gathering of the chosen and the kingdom given to the saints (Dan 7:27) underlies the assembling of the elect at the Son of Man's coming.", "contested": true},
+      {"source": "Numbers 10:9", "type": "echo", "confidence": "low", "note": "The trumpet sounded so that Israel is remembered and gathered/delivered (Num 10:9; cf. Lev 23:24) supplies the cultic trumpet-of-assembly background to the angels' trumpet gathering the elect.", "contested": true},
+      {"source": "Psalm 50:5", "type": "echo", "confidence": "low", "note": "'Gather my faithful ones to me' as God comes in judgment with consuming fire (Ps 50:3-5) parallels the gathering of the chosen at the Son of Man's glorious advent.", "contested": true}
+    ]
+  },
+  {
+    "id": "24.7",
+    "ch": 24,
+    "ref": "24:32-35",
+    "echoes": [
+      {"source": "Joel 2:22", "type": "echo", "confidence": "low", "note": "The fig tree (and vine) yielding its fruit as a sign of the turning season (Joel 2:22) lies loosely behind the fig-tree parable's reading of budding branches as the nearness of the appointed time.", "contested": true},
+      {"source": "Song of Songs 2:13", "type": "echo", "confidence": "low", "note": "'The fig tree puts forth its figs... arise, my love' (Song 2:13) marks the fig's leafing as the herald of the season's arrival, the natural sign-reading the parable trades on.", "contested": true},
+      {"source": "Isaiah 40:8", "type": "allusion", "confidence": "medium", "note": "'Heaven and earth will pass away, but my words will not pass away' draws on Isaiah 40:8, 'the grass withers, the flower fades, but the word of our God will stand forever,' contrasting transient creation with God's enduring word.", "contested": false},
+      {"source": "Isaiah 51:6", "type": "allusion", "confidence": "medium", "note": "Isaiah 51:6, 'the heavens vanish like smoke, the earth will wear out... but my salvation will be forever,' parallels the passing of heaven and earth set against the permanence of Jesus' word.", "contested": false},
+      {"source": "Psalm 102:26", "type": "echo", "confidence": "low", "note": "Psalm 102:26-27, 'they will perish, but you remain... they will pass away, but you are the same,' contributes to the heaven-and-earth-pass-away / my-words-remain antithesis.", "contested": true}
+    ]
+  },
+  {
+    "id": "24.8",
+    "ch": 24,
+    "ref": "24:36-41",
+    "echoes": [
+      {"source": "Genesis 7:7", "type": "allusion", "confidence": "high", "note": "'As the days of Noah were... eating and drinking, marrying and giving in marriage, until the day that Noah entered into the ship, and they didn't know until the flood came and took them all away' is a sustained allusion to Genesis 6-7, the flood narrative; the unsuspecting world swept away while Noah enters the ark is the controlling typology.", "contested": false},
+      {"source": "Genesis 7:23", "type": "allusion", "confidence": "high", "note": "The flood that 'took them all away' (every living thing blotted out, only Noah and those with him remaining, Gen 7:23) is the precise source for the sudden, total, unexpected sweeping-away that figures the Son of Man's coming.", "contested": false},
+      {"source": "Genesis 6:5", "type": "echo", "confidence": "low", "note": "The heedless eating, drinking, and marrying corresponds to the corrupt complacency of Noah's generation (Gen 6:5,11-12), heightening the contrast with the abrupt judgment.", "contested": true},
+      {"source": "Genesis 7:13", "type": "echo", "confidence": "low", "note": "'the day that Noah entered the ark' (Gen 7:13) marks the decisive divide between the saved and the swept-away that the parable applies to the day of the Son of Man.", "contested": true},
+      {"source": "Daniel 12:7", "type": "echo", "confidence": "low", "note": "The withholding of the precise time even from heavenly beings, known only to God, resonates with Daniel sealing the appointed time until the end, knowledge reserved to God alone.", "contested": true},
+      {"source": "Zechariah 14:7", "type": "echo", "confidence": "low", "note": "'a day known to the LORD' alone (Zech 14:7) parallels 'no one knows of that day and hour... but my Father only,' the day's timing reserved to God.", "contested": true}
+    ]
+  },
+  {
+    "id": "24.9",
+    "ch": 24,
+    "ref": "24:42-44",
+    "echoes": [
+      {"source": "Malachi 3:1", "type": "echo", "confidence": "low", "note": "The sudden, unanticipated arrival of the Lord who 'will suddenly come to his temple' (Mal 3:1) resonates with the Lord coming at an unexpected hour for which one must be ready.", "contested": true},
+      {"source": "Jeremiah 49:9", "type": "echo", "confidence": "low", "note": "The thief-in-the-night image of unexpected nocturnal plunder (cf. Jer 49:9; Obad 5, thieves who take only what they want by night) supplies the figure of the thief whose hour the householder cannot predict.", "contested": true},
+      {"source": "Job 24:14", "type": "echo", "confidence": "low", "note": "The thief/murderer who rises in the dark and breaks into houses (Job 24:14,16) furnishes the burglary imagery for the unexpected coming for which one must keep watch.", "contested": true}
+    ]
+  },
+  {
+    "id": "24.10",
+    "ch": 24,
+    "ref": "24:45-51",
+    "echoes": [
+      {"source": "Genesis 39:4", "type": "echo", "confidence": "low", "note": "The faithful and wise servant whom the master sets over his household to provision it recalls Joseph set over Potiphar's house and over all Egypt's storehouses to give out food in due season (Gen 39:4-6; 41:40-41), the trusted-steward type.", "contested": true},
+      {"source": "Psalm 104:27", "type": "echo", "confidence": "low", "note": "Giving the household 'their food in due season' echoes the providential idiom of Psalm 104:27 (and 145:15), 'you give them their food in due season,' applied to the steward's faithful provisioning.", "contested": true},
+      {"source": "Proverbs 31:15", "type": "echo", "confidence": "low", "note": "The wise household manager who rises to provide food/portions for the household (Prov 31:15) parallels the faithful and wise servant dispensing the household's food at the right time.", "contested": true},
+      {"source": "Daniel 2:48", "type": "echo", "confidence": "low", "note": "The faithful, wise servant being promoted to be set 'over all that he has' resembles the wise Daniel exalted to rule the whole province as reward for faithful discernment.", "contested": true},
+      {"source": "Ecclesiastes 8:11", "type": "echo", "confidence": "low", "note": "The wicked servant's reasoning that 'my lord is delaying' so that he turns to abuse and drunkenness reflects Qoheleth's observation that when judgment is delayed the heart is emboldened to do evil.", "contested": true},
+      {"source": "Isaiah 22:19", "type": "echo", "confidence": "low", "note": "The unfaithful steward thrust from his office and his place given to another (Shebna deposed, Isa 22:15-19) parallels the evil servant cut off and assigned his portion with the hypocrites.", "contested": true},
+      {"source": "Psalm 112:10", "type": "echo", "confidence": "low", "note": "'the wicked will see it and be angry; he will gnash his teeth and melt away' (Ps 112:10) lies behind the recurring Matthean punishment-formula 'weeping and gnashing of teeth' assigned to the evil servant.", "contested": true}
+    ]
+  }
+]

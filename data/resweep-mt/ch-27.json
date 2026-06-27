@@ -1,0 +1,218 @@
+[
+  {
+    "id": "27.1",
+    "ch": 27,
+    "ref": "27:1-2",
+    "echoes": [
+      {"source": "Psalm 2:2", "type": "echo", "confidence": "low", "note": "'The chief priests and elders took counsel against' Jesus echoes Psalm 2:2 LXX, 'the rulers take counsel together against the LORD and against his Anointed (christos)' — Matthew's passion repeatedly construes the conspiracy as the gathering of the kings/rulers against the Messiah.", "contested": true},
+      {"source": "Isaiah 53:8", "type": "echo", "confidence": "low", "note": "'They led him away... to put him to death' resonates with the Servant who 'was taken away' by oppressive judgment unto death; binding-and-leading language colors the whole Servant frame of the passion.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.2",
+    "ch": 27,
+    "ref": "27:3-10",
+    "echoes": [
+      {"source": "Zechariah 11:12-13", "type": "quotation", "confidence": "high", "note": "The core source for the formula citation: the prophet is paid 'thirty pieces of silver' which he throws into the house of the LORD 'to the potter' — supplies the thirty silver, the casting into the sanctuary, the potter, and the contemptuous 'price.' Matthew quotes/conflates this even while attributing to Jeremiah.", "contested": false},
+      {"source": "Jeremiah 19:1-13", "type": "quotation", "confidence": "high", "note": "Source of the Jeremiah attribution and the 'potter' + 'field of blood' + burial-place imagery: Jeremiah buys a potter's earthen jar, goes to the Valley of Hinnom/Topheth which is renamed because it will become a burial place ('they shall bury in Topheth till there is no room'), 'filled this place with the blood of innocents.' Innocent blood + potter + cemetery field underlie Matthew's 'field of blood.'", "contested": false},
+      {"source": "Jeremiah 32:6-9", "type": "quotation", "confidence": "high", "note": "Jeremiah buys a field for seventeen shekels of silver and weighs out the money — the prophetic purchase-of-a-field-with-weighed-silver pattern that, blended with Zechariah's potter and Jeremiah 19's burial field, produces the 'they bought the potter's field' formula and explains the Jeremiah ascription.", "contested": false},
+      {"source": "Exodus 9:27", "type": "allusion", "confidence": "low", "note": "Judas' confession 'I have sinned' uses the same self-indictment formula as Pharaoh and other biblical figures who acknowledge guilt too late; intensifies the 'innocent blood' motif.", "contested": true},
+      {"source": "Deuteronomy 27:25", "type": "allusion", "confidence": "medium", "note": "'Cursed is he who takes a bribe to slay an innocent person' (shed innocent blood) — Judas' 'I betrayed innocent blood' and the priests' 'price of blood' fall directly under this Deuteronomic curse.", "contested": false},
+      {"source": "Deuteronomy 19:10", "type": "allusion", "confidence": "low", "note": "'Lest innocent blood be shed... and so blood-guilt be upon you' — the shedding-of-innocent-blood and resulting bloodguilt theme that drives the whole pericope (and 27:24-25).", "contested": true},
+      {"source": "2 Samuel 17:23", "type": "allusion", "confidence": "medium", "note": "Ahithophel, the counselor who betrayed David, 'hanged himself' (apenxato) — the only other named suicide-by-hanging in the OT and the closest model for Judas, the betrayer of the Son of David, who 'hanged himself' (same Greek verb in Matthew). Typological betrayer-of-David's-son link.", "contested": false},
+      {"source": "Psalm 41:9", "type": "echo", "confidence": "medium", "note": "'My close friend... who ate my bread has lifted his heel against me' — the betrayed-by-an-intimate Davidic lament standing behind the Judas narrative arc, here reaching its outcome.", "contested": true},
+      {"source": "2 Samuel 3:28-29", "type": "echo", "confidence": "low", "note": "David disavows bloodguilt for an unjust death ('I and my kingdom are guiltless... of the blood'); a precedent for the disclaimers of responsibility for innocent blood that frame both Judas' return of the silver and Pilate's hand-washing.", "contested": true},
+      {"source": "Leviticus 27:1-8", "type": "echo", "confidence": "low", "note": "The valuation-of-persons in silver ('him upon whom a price had been set, whom some of the children of Israel priced') echoes the priestly assessment of the monetary 'price' of a person, sharpening the irony of pricing the Messiah.", "contested": true},
+      {"source": "Numbers 35:33", "type": "echo", "confidence": "medium", "note": "'Blood pollutes the land, and no expiation can be made for the land for the blood shed in it except by the blood of him who shed it' — the priests' anxiety that blood-money cannot enter the treasury and the land's defilement by innocent blood reflect this Mosaic principle.", "contested": false}
+    ]
+  },
+  {
+    "id": "27.3",
+    "ch": 27,
+    "ref": "27:11-14",
+    "echoes": [
+      {"source": "Isaiah 53:7", "type": "allusion", "confidence": "high", "note": "'He answered nothing... he gave him no answer, not even one word, so that the governor marveled' is a direct dramatization of 'he was oppressed and afflicted, yet he opened not his mouth; like a sheep before its shearers is silent.' Classic Servant-of-Isaiah silence-before-accusers.", "contested": false},
+      {"source": "Psalm 38:13-14", "type": "allusion", "confidence": "medium", "note": "'I am like a deaf man... like a mute who does not open his mouth... in whose mouth are no rebukes' — the righteous sufferer's deliberate silence before accusers, a Psalmic parallel reinforcing the Isaianic silence motif.", "contested": false},
+      {"source": "Psalm 39:9", "type": "echo", "confidence": "low", "note": "'I was mute, I did not open my mouth, for it is you who have done it' — another silence-of-the-righteous-sufferer text contributing to the wordless-before-Pilate scene.", "contested": true},
+      {"source": "Numbers 24:17", "type": "echo", "confidence": "low", "note": "'King of the Jews' / kingship theme; Balaam's 'a scepter shall rise out of Israel' lies behind the messianic-king interrogation, though faintly.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.4",
+    "ch": 27,
+    "ref": "27:15-23",
+    "echoes": [
+      {"source": "Leviticus 16:7-10", "type": "echo", "confidence": "medium", "note": "Day of Atonement two-goats typology: of two figures, one (Barabbas, 'son of the father') is released/let go and one (Jesus) is destined to die — many read the Barabbas-or-Jesus choice as a scapegoat/azazel figure. Genuinely debated but thematically coherent.", "contested": true},
+      {"source": "Isaiah 53:6", "type": "echo", "confidence": "low", "note": "'The LORD has laid on him the iniquity of us all' — the substitution pattern (guilty man freed, innocent condemned) coheres with the Servant bearing others' guilt; faint.", "contested": true},
+      {"source": "Genesis 37:11", "type": "echo", "confidence": "low", "note": "'Because of envy they had delivered him up' — Joseph's brothers handed him over out of jealousy/envy; the envy-driven handing-over of the favored one is a recurring betrayal motif (cf. Acts 7:9).", "contested": true},
+      {"source": "Psalm 27:12", "type": "echo", "confidence": "low", "note": "'False witnesses have risen against me' and the crowd's clamor for the righteous one's condemnation echo the righteous-sufferer's plea against accusers who breathe out violence.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.5",
+    "ch": 27,
+    "ref": "27:24-26",
+    "echoes": [
+      {"source": "Deuteronomy 21:6-8", "type": "allusion", "confidence": "high", "note": "Pilate's washing his hands and declaring 'I am innocent of the blood of this righteous person' enacts the Deuteronomic rite for an unsolved murder: the elders wash their hands over the heifer and say 'Our hands have not shed this blood... do not set innocent blood within your people Israel.' Direct ritual borrowing.", "contested": false},
+      {"source": "Psalm 26:6", "type": "allusion", "confidence": "medium", "note": "'I wash my hands in innocence' — the Psalmic idiom of hand-washing as a declaration of innocence directly underwrites Pilate's gesture and words.", "contested": false},
+      {"source": "Psalm 73:13", "type": "echo", "confidence": "low", "note": "'I have washed my hands in innocence' — another hand-washing-in-innocence text reinforcing the gesture.", "contested": true},
+      {"source": "2 Samuel 1:16", "type": "echo", "confidence": "medium", "note": "'Your blood be on your own head' — the OT idiom of self-incurred bloodguilt that the crowd reverses onto themselves ('his blood be on us and on our children'); the verbal pattern of blood 'on' someone.", "contested": false},
+      {"source": "Jeremiah 26:15", "type": "allusion", "confidence": "medium", "note": "Jeremiah warns 'you will bring innocent blood upon yourselves and upon this city and its inhabitants' if they kill the prophet — strikingly close to 'his blood be on us and on our children,' and notable given the Jeremiah attribution earlier in the chapter.", "contested": false},
+      {"source": "Joshua 2:19", "type": "echo", "confidence": "low", "note": "'His blood shall be on his own head' (Rahab narrative) — another instance of the bloodguilt-on-the-head idiom the crowd appropriates.", "contested": true},
+      {"source": "Ezekiel 33:4-5", "type": "echo", "confidence": "low", "note": "'His blood shall be upon his own head' — the watchman oracle's formula of self-incurred bloodguilt, part of the idiomatic backdrop to 27:25.", "contested": true},
+      {"source": "Isaiah 50:6", "type": "echo", "confidence": "low", "note": "'I gave my back to those who strike' — the flogging ('Jesus he flogged') anticipates the scourging motif developed next, drawn from the Third Servant Song.", "contested": true},
+      {"source": "Isaiah 53:5", "type": "echo", "confidence": "medium", "note": "'By his stripes we are healed / he was wounded for our transgressions' — the scourging of Jesus before crucifixion resonates with the Servant's bruising; thematic but apt.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.6",
+    "ch": 27,
+    "ref": "27:27-31",
+    "echoes": [
+      {"source": "Isaiah 50:6", "type": "allusion", "confidence": "high", "note": "'I gave my back to those who struck me... I hid not my face from disgrace and spitting' — directly behind the soldiers striking Jesus on the head and spitting on him. The Servant's submission to mockery and spitting.", "contested": false},
+      {"source": "Isaiah 53:3", "type": "allusion", "confidence": "medium", "note": "'Despised and rejected... as one from whom men hide their faces' — the mock-coronation and contempt heaped on Jesus dramatize the Servant's humiliation and being held of no account.", "contested": false},
+      {"source": "Psalm 22:6-7", "type": "allusion", "confidence": "medium", "note": "'I am a worm and not a man, scorned by mankind and despised... all who see me mock me' — the soldiers' scorn, mockery, and ridicule of the kneeling 'king' enact the Psalm 22 sufferer's experience of derision (developed further at the cross).", "contested": false},
+      {"source": "Job 30:9-10", "type": "echo", "confidence": "low", "note": "'I have become their taunt-song... they do not hesitate to spit at the sight of me' — Joban righteous-sufferer parallel to the spitting and mockery.", "contested": true},
+      {"source": "Zechariah 9:9", "type": "echo", "confidence": "low", "note": "'Your king comes to you' — the mock-royal acclamation 'Hail, King of the Jews!' ironically inverts the humble-king motif; faint and ironic.", "contested": true},
+      {"source": "Lamentations 3:30", "type": "echo", "confidence": "low", "note": "'Let him give his cheek to the one who strikes him; let him be filled with insults' — the righteous-sufferer ethic of submitting to blows and insults, coherent with the mockery scene.", "contested": true},
+      {"source": "Wisdom of Solomon 2:19-20", "type": "allusion", "confidence": "medium", "note": "The ungodly plot: 'Let us test him with insult and torture... condemn him to a shameful death' — Second-Temple text describing the persecution and mocking of the righteous son of God, closely paralleling the mockery of Jesus who is condemned and tortured as God's son.", "contested": false}
+    ]
+  },
+  {
+    "id": "27.7",
+    "ch": 27,
+    "ref": "27:32",
+    "echoes": [
+      {"source": "Genesis 22:6", "type": "echo", "confidence": "low", "note": "Isaac carrying the wood for his own sacrifice up the mountain is a classic figural antecedent to the cross-bearing; here Simon is compelled to carry it, but the wood-bearing-victim typology stands faintly behind.", "contested": true},
+      {"source": "Isaiah 53:4", "type": "echo", "confidence": "low", "note": "'Surely he has borne our griefs and carried our sorrows' — the bearing/carrying motif loosely resonates with the carrying of the cross.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.8",
+    "ch": 27,
+    "ref": "27:33-37",
+    "echoes": [
+      {"source": "Psalm 69:21", "type": "allusion", "confidence": "high", "note": "'They gave me poison (gall) for food, and for my thirst they gave me vinegar to drink' — directly behind 'they gave him sour wine to drink mixed with gall.' Matthew assimilates the wine-and-myrrh of tradition to the Psalm's gall to make the allusion explicit.", "contested": false},
+      {"source": "Psalm 22:18", "type": "quotation", "confidence": "high", "note": "'They divide my garments among them, and for my clothing they cast lots' — almost verbatim in 'they divided his clothing among them, casting lots.' One of the strongest Psalm 22 allusions in the crucifixion narrative.", "contested": false},
+      {"source": "Lamentations 3:19", "type": "echo", "confidence": "low", "note": "'Remember my affliction... the wormwood and the gall' — the gall/bitterness of the afflicted righteous one, reinforcing the Psalm 69 gall motif.", "contested": true},
+      {"source": "Amos 8:9", "type": "echo", "confidence": "low", "note": "Placed here only insofar as the crucifixion setting is being established; the noon-darkness allusion proper belongs to 27:45 but the scene-setting begins here.", "contested": true},
+      {"source": "Isaiah 53:12", "type": "echo", "confidence": "low", "note": "'Numbered with the transgressors' anticipates the two robbers (27:38) and the criminal placement; introduced as the crucifixion tableau is set.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.9",
+    "ch": 27,
+    "ref": "27:38",
+    "echoes": [
+      {"source": "Isaiah 53:12", "type": "allusion", "confidence": "high", "note": "'He was numbered with the transgressors' — Jesus crucified between two robbers, one on the right and one on the left, fulfills the Servant's being counted among lawbreakers. (Made explicit in Luke 22:37 but clearly operative in Matthew's staging.)", "contested": false},
+      {"source": "Isaiah 53:9", "type": "echo", "confidence": "low", "note": "'They made his grave with the wicked' — association of the Servant with criminals in death, coherent with the two robbers and anticipating the rich man's tomb in 27:57-60.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.10",
+    "ch": 27,
+    "ref": "27:39-44",
+    "echoes": [
+      {"source": "Psalm 22:7", "type": "allusion", "confidence": "high", "note": "'All who see me mock me; they make mouths at me; they wag their heads' — directly behind 'those who passed by blasphemed him, wagging their heads.' Verbatim gesture of head-wagging derision.", "contested": false},
+      {"source": "Psalm 22:8", "type": "quotation", "confidence": "high", "note": "'He commits his cause to the LORD; let him deliver him; let him rescue him, for he delights in him!' — nearly quoted in the mockers' taunt 'He trusts in God. Let God deliver him now, if he wants him.' One of the clearest Psalm 22 allusions, put in the enemies' mouths.", "contested": false},
+      {"source": "Psalm 109:25", "type": "allusion", "confidence": "medium", "note": "'I am an object of scorn to my accusers; when they see me, they wag their heads' — a second head-wagging-mockery Psalm reinforcing Psalm 22:7's gesture (imprecatory psalm of the betrayed righteous one).", "contested": false},
+      {"source": "Wisdom of Solomon 2:13-20", "type": "allusion", "confidence": "high", "note": "'He calls himself a child of the Lord... boasts that God is his father. Let us see if his words are true... for if the righteous man is God's son, he will help him and deliver him from his adversaries' — the mockers' logic ('He said, I am the Son of God... let God deliver him if he wants him') is virtually a paraphrase of this Second-Temple passage on the persecuted righteous son of God.", "contested": false},
+      {"source": "Lamentations 2:15", "type": "allusion", "confidence": "medium", "note": "'All who pass along the way clap their hands at you; they hiss and wag their heads' over fallen Jerusalem — the passers-by + head-wagging combination is a direct verbal parallel to 'those who passed by... wagging their heads.'", "contested": false},
+      {"source": "Psalm 69:9", "type": "echo", "confidence": "low", "note": "'Zeal for your house has consumed me' — the taunt about destroying and rebuilding the temple touches the temple-zeal Psalm associated with the righteous sufferer; faint.", "contested": true},
+      {"source": "Psalm 71:11", "type": "echo", "confidence": "low", "note": "'God has forsaken him; pursue and seize him, for there is none to deliver' — the enemies' confidence that God will not rescue the sufferer parallels the cross-taunt.", "contested": true},
+      {"source": "Daniel 3:17", "type": "echo", "confidence": "low", "note": "'Our God whom we serve is able to deliver us' — the 'if God wants him, let God deliver him' taunt inverts the confident deliverance language of the faithful; faint thematic contrast.", "contested": true},
+      {"source": "Job 22:19-20", "type": "echo", "confidence": "low", "note": "The mockery of a righteous man whom enemies assume God has abandoned echoes the scoffing-at-the-supposedly-cursed-sufferer found in Job's friends; faint.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.11",
+    "ch": 27,
+    "ref": "27:45",
+    "echoes": [
+      {"source": "Amos 8:9", "type": "allusion", "confidence": "high", "note": "'I will make the sun go down at noon, and darken the earth in broad daylight' — directly behind the darkness 'from the sixth hour (noon) until the ninth hour.' The day-of-the-LORD noon-darkness as sign of mourning/judgment.", "contested": false},
+      {"source": "Exodus 10:21-22", "type": "allusion", "confidence": "medium", "note": "The ninth plague's 'darkness over all the land of Egypt' for three days — a 'darkness over all the land' (same phrasing) signaling divine judgment; exodus-plague resonance at the death of the firstborn Son.", "contested": false},
+      {"source": "Joel 2:10", "type": "allusion", "confidence": "medium", "note": "'The sun and the moon are darkened' on the day of the LORD; with Joel 2:31 ('the sun shall be turned to darkness') this supplies the eschatological darkening-of-the-heavens motif framing the crucifixion as a day-of-the-LORD event.", "contested": false},
+      {"source": "Joel 3:15", "type": "echo", "confidence": "low", "note": "'The sun and the moon are darkened, and the stars withdraw their shining' — further day-of-the-LORD darkness imagery.", "contested": true},
+      {"source": "Zephaniah 1:15", "type": "echo", "confidence": "low", "note": "'A day of darkness and gloom' as the day of the LORD's wrath — coheres with the cosmic darkness at the cross.", "contested": true},
+      {"source": "Deuteronomy 28:29", "type": "echo", "confidence": "low", "note": "'You shall grope at noonday as the blind grope in darkness' — covenant-curse noon-darkness imagery; faint.", "contested": true},
+      {"source": "Jeremiah 15:9", "type": "echo", "confidence": "low", "note": "'Her sun went down while it was yet day' — bereavement/judgment image of the sun setting at midday, akin to Amos 8:9.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.12",
+    "ch": 27,
+    "ref": "27:46-49",
+    "echoes": [
+      {"source": "Psalm 22:1", "type": "quotation", "confidence": "high", "note": "'My God, my God, why have you forsaken me?' — Jesus' cry, given in Aramaic ('Eli, Eli, lama sabachthani') and then translated, is a direct quotation of the opening line of Psalm 22, the climactic and most explicit of the chapter's Psalm 22 citations.", "contested": false},
+      {"source": "Psalm 69:21", "type": "allusion", "confidence": "high", "note": "'For my thirst they gave me vinegar to drink' — the sponge filled with vinegar (sour wine) put to Jesus' mouth on a reed is the offering-of-vinegar of Psalm 69:21, here at the moment of death (a second invocation of the gall-and-vinegar text).", "contested": false},
+      {"source": "Psalm 22:2", "type": "echo", "confidence": "medium", "note": "'O my God, I cry by day, but you do not answer' — the unanswered cry of the forsaken sufferer continues the Psalm 22 frame beyond v.1.", "contested": true},
+      {"source": "Malachi 4:5", "type": "echo", "confidence": "low", "note": "'Behold, I will send you Elijah the prophet before the great day of the LORD' — the bystanders' '(He) is calling Elijah... let's see whether Elijah comes to save him' plays on the Elijah-eschatology expectation; a sound-pun on Eli/Elijah but thematically tied to Malachi.", "contested": true},
+      {"source": "2 Kings 2:11", "type": "echo", "confidence": "low", "note": "Elijah's not-dying/being-taken and popular expectation of his return underlie the crowd's hope that Elijah might 'come to save him'; faint.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.13",
+    "ch": 27,
+    "ref": "27:50",
+    "echoes": [
+      {"source": "Psalm 31:5", "type": "echo", "confidence": "medium", "note": "'Into your hand I commit my spirit' — 'yielded up his spirit' resonates with the committing-of-spirit of the trusting sufferer's psalm (explicit in Luke 23:46; operative here as the death-of-the-righteous frame, and Psalm 31 shares Psalm 22's lament-of-the-betrayed-righteous form).", "contested": true},
+      {"source": "Isaiah 53:12", "type": "echo", "confidence": "low", "note": "'He poured out his soul to death' — the Servant's voluntary surrender of life resonates with Jesus actively 'yielding up his spirit.'", "contested": true}
+    ]
+  },
+  {
+    "id": "27.14",
+    "ch": 27,
+    "ref": "27:51-53",
+    "echoes": [
+      {"source": "Exodus 26:31-33", "type": "allusion", "confidence": "high", "note": "The veil ('paroketh') that separates the holy place from the Most Holy — 'the veil of the temple was torn in two from top to bottom' presupposes this curtain; its rending signifies access/judgment on the sanctuary.", "contested": false},
+      {"source": "Exodus 36:35", "type": "echo", "confidence": "low", "note": "The making of the veil of blue, purple, and scarlet with cherubim — corroborates the temple-veil referent torn at Jesus' death.", "contested": true},
+      {"source": "Ezekiel 37:12-13", "type": "allusion", "confidence": "high", "note": "'Behold, I will open your graves and raise you from your graves, O my people' — the tombs opening and 'many bodies of the saints who had fallen asleep were raised' directly enacts Ezekiel's vision of the opened graves and resurrection of God's people.", "contested": false},
+      {"source": "Daniel 12:2", "type": "allusion", "confidence": "medium", "note": "'Many of those who sleep in the dust of the earth shall awake' — the raising of 'many bodies of the saints who had fallen asleep' echoes Daniel's resurrection-of-the-many; both use 'many' and the sleep-of-death idiom.", "contested": false},
+      {"source": "Zechariah 14:4-5", "type": "echo", "confidence": "low", "note": "The day-of-the-LORD earthquake on the Mount of Olives ('the mountain shall be split... the LORD my God will come, and all the holy ones with him') resonates with the earthquake, splitting rocks, and emergence of the holy ones.", "contested": true},
+      {"source": "1 Kings 19:11", "type": "echo", "confidence": "low", "note": "Wind/earthquake/rocks-splitting as theophany imagery ('a great wind tore the mountains and broke the rocks') colors 'the earth quaked and the rocks were split.'", "contested": true},
+      {"source": "Joel 3:16", "type": "echo", "confidence": "low", "note": "'The heavens and the earth shall shake' on the day of the LORD — apocalyptic earthquake imagery accompanying the divine visitation.", "contested": true},
+      {"source": "Isaiah 26:19", "type": "allusion", "confidence": "medium", "note": "'Your dead shall live; their bodies shall rise. You who dwell in the dust, awake and sing for joy' — a resurrection-of-the-dead text closely matching the rising of the entombed saints.", "contested": false},
+      {"source": "Haggai 2:6", "type": "echo", "confidence": "low", "note": "'I will shake the heavens and the earth' — eschatological shaking associated with the temple, resonating with the earthquake at the moment the temple veil is torn.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.15",
+    "ch": 27,
+    "ref": "27:54",
+    "echoes": [
+      {"source": "Psalm 22:27-31", "type": "echo", "confidence": "low", "note": "The Gentile centurion's confession that 'truly this was the Son of God' resonates with the turn at the end of Psalm 22, where 'all the ends of the earth' and 'all the families of the nations' come to worship the LORD — the Psalm's movement from dereliction to universal acknowledgment.", "contested": true},
+      {"source": "Wisdom of Solomon 2:18", "type": "echo", "confidence": "low", "note": "'If the righteous man is God's son, God will help him' — the centurion's 'truly this was the Son of God' answers, from the opposite side, the scoffers' doubt drawn from Wisdom 2; the vindication the ungodly denied.", "contested": true},
+      {"source": "Daniel 3:25", "type": "echo", "confidence": "low", "note": "The pagan king's recognition that the fourth figure 'is like a son of the gods/God' offers a loose parallel for a Gentile officer confessing divine sonship at a moment of supernatural sign.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.16",
+    "ch": 27,
+    "ref": "27:55-56",
+    "echoes": [
+      {"source": "Psalm 38:11", "type": "allusion", "confidence": "medium", "note": "'My friends and companions stand aloof from my plague, and my nearest kin stand far off' — 'many women were there watching from afar' enacts the righteous sufferer's experience of onlookers standing at a distance.", "contested": false},
+      {"source": "Psalm 88:8", "type": "echo", "confidence": "low", "note": "'You have caused my companions to shun me' / friends kept at a distance — another standing-far-off lament parallel to the women watching from afar.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.17",
+    "ch": 27,
+    "ref": "27:57-61",
+    "echoes": [
+      {"source": "Isaiah 53:9", "type": "allusion", "confidence": "high", "note": "'They made his grave with the wicked and with a rich man in his death' — a rich man (Joseph of Arimathea) gives Jesus an honorable burial in his own new tomb, fulfilling the Servant's burial 'with a rich man.' Striking lexical match ('rich man,' burial).", "contested": false},
+      {"source": "Genesis 50:13", "type": "echo", "confidence": "low", "note": "Honorable burial of the patriarch in a prepared/owned tomb; the careful, reverent entombment motif faintly resonates.", "contested": true},
+      {"source": "2 Chronicles 16:14", "type": "echo", "confidence": "low", "note": "Honorable royal burial in a hewn tomb with fine spices/linen colors the wrapping in clean linen and laying in a rock-cut tomb.", "contested": true},
+      {"source": "Isaiah 53:8", "type": "echo", "confidence": "low", "note": "'He was cut off from the land of the living' — the burial of the Servant who was taken away in death continues the Isaiah 53 frame into the entombment.", "contested": true}
+    ]
+  },
+  {
+    "id": "27.18",
+    "ch": 27,
+    "ref": "27:62-66",
+    "echoes": [
+      {"source": "Hosea 6:2", "type": "echo", "confidence": "low", "note": "'After two days he will revive us; on the third day he will raise us up' — the chief priests' citation of Jesus' 'after three days I will rise' and their guarding 'until the third day' touch the third-day-resurrection schema, of which Hosea 6:2 is a primary OT antecedent.", "contested": true},
+      {"source": "Jonah 1:17", "type": "echo", "confidence": "low", "note": "'Three days and three nights' — the third-day/three-days motif Matthew elsewhere ties to the sign of Jonah (12:40), faintly present in the securing of the tomb 'until the third day.'", "contested": true},
+      {"source": "Daniel 6:17", "type": "allusion", "confidence": "medium", "note": "A stone laid over the lions' den and 'sealed' with the king's signet so that nothing might be changed concerning Daniel — closely parallels the rolling and 'sealing' of the stone to secure Jesus' tomb (the righteous one shut in by a sealed stone, then divinely vindicated).", "contested": false}
+    ]
+  }
+]

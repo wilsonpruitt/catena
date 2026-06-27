@@ -1,0 +1,94 @@
+[
+  {
+    "id": "8.1",
+    "ch": 8,
+    "ref": "8:1-4",
+    "echoes": [
+      {"source": "Leviticus 13:1-46", "type": "allusion", "confidence": "high", "note": "The leprosy diagnosis and the category of the unclean leper presuppose the Priestly skin-disease law. High volume and thematic coherence: Matthew's leper, his uncleanness, and the prescribed cleansing all derive from this statute.", "contested": false},
+      {"source": "Leviticus 14:2-32", "type": "allusion", "confidence": "high", "note": "Jesus' command to 'show yourself to the priest, and offer the gift that Moses commanded' is a direct verbal pointer to the Levitical purification rite for a healed leper, where the priest pronounces clean and prescribed offerings are made. Explicit appeal to Mosaic legislation = high.", "contested": false},
+      {"source": "2 Kings 5:1-14", "type": "echo", "confidence": "medium", "note": "Naaman's leprosy healed by the prophet Elisha is the paradigmatic OT leprosy-cleansing narrative; thematic coherence (prophet's word effecting instantaneous cleansing) supports the echo. Recurrence in the Elijah/Elisha typology Matthew elsewhere develops.", "contested": false},
+      {"source": "Numbers 12:10-15", "type": "echo", "confidence": "low", "note": "Miriam struck leprous and shut outside the camp until cleansed; faint thematic resonance of leprosy as the boundary between clean and unclean community. Disputed as a deliberate link.", "contested": true},
+      {"source": "Exodus 4:6-7", "type": "echo", "confidence": "low", "note": "Moses' hand becoming leprous and then restored 'as his other flesh' offers a faint figural backdrop of God's power to cleanse leprosy in an instant; low volume, contested.", "contested": true},
+      {"source": "2 Kings 7:3-10", "type": "echo", "confidence": "low", "note": "The four lepers at Samaria's gate, excluded from the city, echo the social isolation the law imposes; thematic only, contested.", "contested": true}
+    ]
+  },
+  {
+    "id": "8.2",
+    "ch": 8,
+    "ref": "8:5-13",
+    "echoes": [
+      {"source": "Isaiah 49:12", "type": "allusion", "confidence": "medium", "note": "'Many will come from the east and the west' draws on the prophetic vision of dispersed peoples gathered from afar ('these from the north and from the west'); the directional, ingathering language and Gentile inclusion give strong thematic coherence.", "contested": false},
+      {"source": "Psalm 107:3", "type": "allusion", "confidence": "medium", "note": "'Gathered out of the lands, from the east and from the west, from the north and from the south' is the closest verbal parallel to 'from the east and the west,' an eschatological ingathering motif Matthew applies to the messianic banquet.", "contested": false},
+      {"source": "Isaiah 25:6-8", "type": "allusion", "confidence": "medium", "note": "Reclining with Abraham, Isaac, and Jacob in the Kingdom evokes the eschatological feast 'for all peoples' on Zion; thematic coherence with the Gentile centurion's inclusion at the banquet supports the allusion.", "contested": false},
+      {"source": "Malachi 1:11", "type": "echo", "confidence": "medium", "note": "'From the rising of the sun even to its going down my name is great among the nations' undergirds the Gentile-from-east-and-west theme; recurrence of the universal-worship motif strengthens the echo.", "contested": false},
+      {"source": "Genesis 15:5", "type": "echo", "confidence": "low", "note": "Abraham's innumerable offspring like the stars faintly grounds the 'many will come... with Abraham' multitude; thematic, contested.", "contested": true},
+      {"source": "Daniel 12:2", "type": "echo", "confidence": "low", "note": "The 'children of the Kingdom thrown into outer darkness' with weeping resonates with the resurrection to shame and contempt; eschatological judgment imagery, faint and contested.", "contested": true},
+      {"source": "Isaiah 8:22", "type": "echo", "confidence": "low", "note": "'Driven into thick darkness' supplies OT coloring for 'outer darkness'; low-volume verbal resonance, contested.", "contested": true},
+      {"source": "Numbers 15:14-16", "type": "echo", "confidence": "low", "note": "Provision for the sojourner who fears the LORD faintly anticipates the believing Gentile's place; thematic only, contested.", "contested": true}
+    ]
+  },
+  {
+    "id": "8.3",
+    "ch": 8,
+    "ref": "8:14-15",
+    "echoes": [
+      {"source": "1 Kings 17:17-24", "type": "echo", "confidence": "low", "note": "Elijah raising the widow's son and restoring household life offers faint figural backdrop for healing in a home and the woman rising to serve; thematic, contested.", "contested": true},
+      {"source": "2 Kings 4:32-37", "type": "echo", "confidence": "low", "note": "Elisha's restoration of the Shunammite's child in the house resonates with domestic healing; part of the Elijah/Elisha typology but faint here, contested.", "contested": true}
+    ]
+  },
+  {
+    "id": "8.4",
+    "ch": 8,
+    "ref": "8:16-17",
+    "echoes": [
+      {"source": "Isaiah 53:4", "type": "quotation", "confidence": "high", "note": "Formula citation ('that it might be fulfilled which was spoken through Isaiah the prophet') introduces a near-verbatim rendering: 'He took our infirmities, and bore our diseases.' Matthew reads the Servant's vicarious sickness-bearing as fulfilled in the healings. Highest gradient: formula + verbatim quotation.", "contested": false},
+      {"source": "Isaiah 53:11-12", "type": "echo", "confidence": "low", "note": "The Servant bearing the sin/iniquity of many extends the vicarious-bearing logic of 53:4 that Matthew has cited; recurrence within the same Servant Song, faint here, contested.", "contested": true},
+      {"source": "Psalm 103:3", "type": "echo", "confidence": "low", "note": "'Who heals all your diseases' faintly coheres with healing 'all who were sick'; thematic, contested.", "contested": true}
+    ]
+  },
+  {
+    "id": "8.5",
+    "ch": 8,
+    "ref": "8:18-22",
+    "echoes": [
+      {"source": "Daniel 7:13", "type": "allusion", "confidence": "medium", "note": "The self-designation 'Son of Man' draws on the heavenly figure 'like a son of man' who receives dominion; a recurrent Matthean title with strong thematic weight even where the immediate sense is the homeless human Jesus.", "contested": false},
+      {"source": "1 Kings 19:19-21", "type": "allusion", "confidence": "medium", "note": "Elisha's request to 'kiss my father and my mother' before following Elijah, and Elijah's reply, lies behind the would-be disciple's plea to bury his father and Jesus' more radical demand; strong narrative parallel of the call-to-follow scene.", "contested": false},
+      {"source": "Numbers 6:6-7", "type": "echo", "confidence": "low", "note": "The Nazirite's prohibition against touching even a dead father or mother faintly resonates with 'leave the dead to bury their own dead,' the demand to override ordinary burial duty; thematic, contested.", "contested": true},
+      {"source": "Leviticus 21:11", "type": "echo", "confidence": "low", "note": "The high priest forbidden to defile himself even for father or mother parallels the supreme claim that overrides filial burial obligation; faint, contested.", "contested": true},
+      {"source": "Psalm 84:3", "type": "echo", "confidence": "low", "note": "Birds finding a home/nest at God's altar faintly contrasts with the Son of Man having nowhere to lay his head; thematic counterpoint, contested.", "contested": true}
+    ]
+  },
+  {
+    "id": "8.6",
+    "ch": 8,
+    "ref": "8:23-27",
+    "echoes": [
+      {"source": "Psalm 107:23-30", "type": "allusion", "confidence": "high", "note": "Seafarers in a storm, the waves mounting, their crying to the LORD, and his stilling the storm to a calm ('he makes the storm a calm') is the controlling intertext; high volume and tight thematic coherence with disciples crying 'Save us' and the 'great calm.'", "contested": false},
+      {"source": "Psalm 65:7", "type": "allusion", "confidence": "medium", "note": "God 'who stills the roaring of the seas, the roaring of their waves' ascribes to YHWH the very act Jesus performs; figural identification of Jesus with the sea-stilling deity. Strong thematic coherence.", "contested": false},
+      {"source": "Jonah 1:4-6", "type": "allusion", "confidence": "high", "note": "Prophet asleep in the boat during a deadly storm while terrified companions wake him to be saved is a close structural and verbal parallel; the sleeping-figure-amid-tempest motif is distinctive enough to mark deliberate allusion.", "contested": false},
+      {"source": "Psalm 89:9", "type": "echo", "confidence": "medium", "note": "'You rule the raging of the sea; when its waves rise, you still them' supplies further divine sea-mastery coloring; recurrence of the YHWH-over-chaos-waters motif.", "contested": false},
+      {"source": "Psalm 104:6-9", "type": "echo", "confidence": "low", "note": "God rebuking the waters so they flee, setting bounds for the sea, faintly underlies Jesus rebuking the wind and sea; thematic, contested.", "contested": true},
+      {"source": "Job 38:8-11", "type": "echo", "confidence": "medium", "note": "The Creator setting bounds for the proud waves ('thus far... and no farther') grounds the figural claim that the one who calms the sea wields divine creative authority over chaos.", "contested": false},
+      {"source": "Genesis 1:2-9", "type": "figural", "confidence": "medium", "note": "Typological: the Spirit over the chaos-waters and God's word ordering the deep stands behind Jesus' word subduing the sea, presenting him as exercising the Creator's authority over the watery chaos.", "contested": false},
+      {"source": "Exodus 14:21-31", "type": "figural", "confidence": "medium", "note": "Exodus/sea typology: as YHWH mastered the sea to save Israel, so Jesus masters the sea to save the disciples; the salvation-through-the-waters pattern supports a figural reading.", "contested": false},
+      {"source": "Psalm 46:1-3", "type": "echo", "confidence": "low", "note": "God as refuge though the waters roar and the sea foams faintly grounds the rebuke 'why are you fearful'; thematic, contested.", "contested": true},
+      {"source": "Nahum 1:4", "type": "echo", "confidence": "low", "note": "'He rebukes the sea and makes it dry' supplies the verb 'rebuke' applied to the sea, a divine-theophany act; faint verbal echo, contested.", "contested": true}
+    ]
+  },
+  {
+    "id": "8.7",
+    "ch": 8,
+    "ref": "8:28-34",
+    "echoes": [
+      {"source": "Isaiah 65:4", "type": "allusion", "confidence": "medium", "note": "The unclean who 'sit among the graves and lodge in the secret places' eating swine's flesh closely matches the demoniacs dwelling among the tombs amid a herd of pigs; strong cluster of unclean-tombs-and-swine imagery.", "contested": false},
+      {"source": "1 Kings 17:18", "type": "allusion", "confidence": "medium", "note": "The widow's 'What have I to do with you, O man of God?' is the OT formula behind the demoniacs' 'What do we have to do with you?'; recurrent idiom of repelled confrontation with a holy figure.", "contested": false},
+      {"source": "2 Samuel 16:10", "type": "echo", "confidence": "low", "note": "'What have I to do with you, you sons of Zeruiah?' is another instance of the dismissive idiom underlying the demoniacs' cry; verbal parallel, contested.", "contested": true},
+      {"source": "Judges 11:12", "type": "echo", "confidence": "low", "note": "Jephthah's 'What have you to do with me?' to the Ammonite king is a further attestation of the confrontational formula; faint, contested.", "contested": true},
+      {"source": "Leviticus 11:7-8", "type": "echo", "confidence": "medium", "note": "The swine declared unclean grounds the symbolic appropriateness of the demons entering the pigs and the unclean-Gentile setting; thematic coherence with Matthew's purity concerns.", "contested": false},
+      {"source": "Isaiah 24:21-22", "type": "echo", "confidence": "low", "note": "The hosts of heaven punished and shut up in prison, 'after many days' visited, faintly resonates with 'have you come to torment us before the time?'—an appointed eschatological judgment of spirits; contested.", "contested": true},
+      {"source": "Genesis 6:1-4", "type": "echo", "confidence": "low", "note": "Second-Temple traditions read the bound spirits of the Watchers awaiting judgment behind 'before the time'; faint background to the demons' fear of premature torment, contested.", "contested": true},
+      {"source": "Tobit 8:3", "type": "echo", "confidence": "low", "note": "The demon Asmodeus driven off and bound prefigures the motif of demons expelled and consigned to judgment; Second-Temple thematic resonance, contested.", "contested": true},
+      {"source": "Psalm 107:10", "type": "echo", "confidence": "low", "note": "Those sitting in darkness, prisoners in misery, faintly color the demoniacs' tomb-bound bondage; thematic only, contested.", "contested": true}
+    ]
+  }
+]

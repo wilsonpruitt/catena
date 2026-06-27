@@ -1,0 +1,310 @@
+[
+  {
+    "id": "14.1",
+    "ch": 14,
+    "ref": "14:1-12",
+    "echoes": [
+      {
+        "source": "1 Kings 19:1-2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Herodias driving the execution of the prophet John echoes Jezebel, who pursues the prophet Elijah's life after he confronts the royal house. Matthew has already cast John in Elijah's mantle (3:4; 11:14), so the wicked queen consort hounding the Elijah-prophet is a deliberate figural pairing: Herodias is the new Jezebel, Herod the weak Ahab.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 21:25",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Ahab is the king whom 'Jezebel his wife stirred up' to do evil; Herod likewise acts at the prompting of Herodias and her daughter ('being prompted by her mother'). The motif of a king led into killing by his wife reinforces the Ahab/Jezebel typology.",
+        "contested": true
+      },
+      {
+        "source": "Esther 1:3-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The royal birthday banquet at which a king, pleased and bound by his word, grants a woman 'whatever she asks' closely mirrors the banquet-and-rash-promise scenario of the Persian court, where the setting of feasting, courtiers, and a king committed to honor his pledge generates the plot.",
+        "contested": false
+      },
+      {
+        "source": "Esther 5:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Herod's oath, 'to give her whatever she should ask,' verbally echoes Ahasuerus to Esther: 'What is your request? It shall be given you, even to the half of my kingdom' (cf. Esther 5:6; 7:2). The extravagant open-ended royal promise is the same narrative device, here turned to murder rather than deliverance.",
+        "contested": false
+      },
+      {
+        "source": "Mark 6:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Mark's parallel makes the Esther allusion explicit ('up to half my kingdom'); Matthew abbreviates but presupposes the same banquet-oath template. Flagged as a tradition-historical pointer to the Esther background, not an OT source.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 18:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "John's charge, 'It is not lawful for you to have her,' rests directly on the Torah prohibition against uncovering the nakedness of one's brother's wife; Lev 20:21 specifies the explicit ban on taking a brother's wife. John's rebuke is a halakhic citation of this statute.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 20:21",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'If a man takes his brother's wife, it is impurity... they shall be childless.' This is the precise legal ground for John's 'It is not lawful for you to have her' against Herod's marriage to Herodias, his brother Philip's wife.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 24:20-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The killing of a righteous prophet/messenger who rebukes the ruling house belongs to the deuteronomistic pattern of the murdered prophet (cf. Jer 26:20-23), which Matthew thematizes elsewhere (23:29-37). John's death extends this pattern of Israel slaying its prophets.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 40:20-22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Pharaoh's birthday feast, at which a beheading is decreed among the assembled officials, is the only other named royal birthday in Scripture and supplies a faint precedent for a birthday banquet that ends in an execution.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.2",
+    "ch": 14,
+    "ref": "14:13-21",
+    "echoes": [
+      {
+        "source": "2 Kings 4:42-44",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Elisha feeds a hundred men with twenty barley loaves and there is some left over, against the servant's objection that it is too little. Matthew's feeding shares the structure: a prophet, an inadequate supply of loaves, a disciple's protest, a command to give it to the people, all eating, and a surplus remaining. Jesus is the greater Elisha.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 16:4-18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The miraculous feeding of a multitude in a 'deserted place' (wilderness) where there is no bread evokes the manna narrative: God provides bread in the desert, all eat and are satisfied, and the gathering is measured. The new-Moses typology frames Jesus as the one who gives bread in the wilderness.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:13-22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses' despairing question, 'Where am I to get meat to give all this people?... Shall flocks and herds be slaughtered for them?' mirrors the disciples' helplessness before the hungry crowd. The motif of an overwhelmed leader confronting an impossible feeding in the wilderness is shared.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 23:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The shepherd who makes his flock lie down in green grass and spreads a table sounds through the detail that Jesus has the crowd 'sit down on the grass' and feeds them to the full. Matthew omits Mark's explicit 'sheep without a shepherd' yet retains the green-grass/feeding tableau of the LORD as shepherd.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 27:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The crowd 'like sheep without a shepherd' (Moses' prayer for a successor to lead Israel out and in) underlies Jesus' compassion on the shepherdless multitude; Matthew states this compassion (cf. 9:36) and enacts the shepherd's provision here.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 34:14-16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God's promise to shepherd his scattered flock himself, feeding them in good pasture and seeking the lost and sick, resonates with Jesus healing the sick and feeding the crowd in the open country. The Davidic-shepherd hope of Ezekiel is being enacted.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 78:19-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Can God spread a table in the wilderness?' Israel's doubting question is answered as God rains down bread and the people 'ate and were well filled.' Matthew's 'They all ate, and were filled' echoes this wilderness-banquet vindication of God's power to feed in the desert.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 145:15-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You open your hand; you satisfy the desire of every living thing.' The theme of God satisfying the hungry crowd to the full coheres with Jesus blessing and distributing until all are filled.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 132:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will abundantly bless her provisions; I will satisfy her poor with bread.' A faint thematic resonance with the abundant provision of bread to the multitude in Zion's hope.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 4:1-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elisha's multiplication of the widow's oil, where a small supply expands to abundance with a surplus, is a sibling miracle to the loaf-multiplication and reinforces the Elisha-as-feeder/provider background.",
+        "contested": true
+      },
+      {
+        "source": "Ruth 2:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Boaz feeds Ruth so that 'she ate and was satisfied, and had some left over' — the same pattern of eating to the full with a remainder. A faint verbal-thematic parallel to the satisfied crowd and twelve leftover baskets.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 9:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Samuel 'blesses' before the people eat at the sacrificial meal; the gesture of a prophet looking up and blessing the food before distribution faintly echoes the prophetic table-blessing convention.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.3",
+    "ch": 14,
+    "ref": "14:22-33",
+    "echoes": [
+      {
+        "source": "Job 9:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Who alone stretched out the heavens and trampled the waves of the sea' (LXX: walks on the sea as on dry ground). Jesus walking on the sea enacts a divine prerogative ascribed to God alone in Job; the act itself is a theophanic self-disclosure.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 77:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Your way was through the sea, your path through the great waters, yet your footprints were unseen.' God's path through the sea (in the Exodus retelling) underlies Jesus' way across the waters; the psalm makes sea-treading a uniquely divine mode of salvation.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 3:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' self-identification, 'It is I' (egō eimi), reprises the divine self-naming 'I AM' given to Moses at the bush. Combined with the sea-walking theophany and 'Don't be afraid,' the egō eimi reads as a claim to the divine name and presence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:1-2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Fear not... when you pass through the waters I will be with you'; and Isa 43:10-13, 25; 51:12 repeatedly pair the divine 'I am he' (egō eimi) with 'do not fear.' Jesus' 'It is I; don't be afraid' fuses the reassurance-formula and the divine self-identification of Deutero-Isaiah amid the waters.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 107:23-30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Those who go down to the sea, caught in a storm with waves mounting, cry to the LORD, who stills the storm to a whisper and brings them to harbor. Matthew's contrary wind, distressed boat, terror, cry, and the ceasing of the wind map onto this sea-rescue psalm where the LORD masters the deep.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 69:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Save me, O God! For the waters have come up to my neck... I sink in deep mire.' Peter's sinking cry, 'Lord, save me!' echoes the psalmist's drowning plea, casting Peter's near-drowning in the language of the lament for rescue from the waters.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 18:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He reached down from on high, he took me; he drew me out of many waters.' Jesus stretching out his hand to seize the sinking Peter enacts the divine rescue-from-the-waters gesture of this royal thanksgiving.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 144:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Stretch out your hand from on high; rescue me and deliver me from the many waters.' A close verbal sibling to Ps 18:16 reinforcing the 'outstretched hand from the waters' rescue motif applied to Peter.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 89:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You rule the raging of the sea; when its waves rise, you still them.' The stilling of the contrary wind when Jesus enters the boat enacts the Creator's sovereignty over the sea's tumult ascribed to the LORD.",
+        "contested": false
+      },
+      {
+        "source": "Job 38:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Have you... walked in the recesses of the deep?' God's challenge to Job implies that traversing the deep belongs to God alone; Jesus' walking on the sea answers the rhetorical question in his own person.",
+        "contested": true
+      },
+      {
+        "source": "Habakkuk 3:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You trampled the sea with your horses, the surging of mighty waters.' The theophanic image of God treading the sea in the prophet's vision faintly underlies the sea-walking theophany.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 14:21-22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Red Sea crossing — God making a way through the sea by night to deliver his people from fear — is the Exodus archetype standing behind the night-time mastery of the waters and the deliverance of the disciples; Ps 77 explicitly reads the sea-treading as Exodus.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 3:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The disciples' confession 'You are truly the Son of God' has a faint resonance with the recognition that one 'like a son of the gods' walks unharmed amid a deadly element; the title here, however, is more securely rooted in Matthew's own Christology (3:17; 16:16).",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The boat's confession 'You are truly the Son of God' draws on the royal-messianic sonship of the enthronement psalm, the same Scripture echoed at Jesus' baptism (3:17). The post-theophany worship names Jesus in Davidic-divine sonship terms.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Spirit/wind of God hovering over the face of the waters at creation provides a faint backdrop: the one who walks upon the deep and masters the wind exercises the Creator's authority over the primordial waters.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.4",
+    "ch": 14,
+    "ref": "14:34-36",
+    "echoes": [
+      {
+        "source": "Numbers 15:38-39",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The sick beg to touch 'the fringe (kraspedon) of his garment' — the tassels commanded for the corners of Israelite garments. Jesus wears the Torah-prescribed tzitzit, and healing flows through them, marking him as a faithful Israelite whose very fringe mediates God's saving power.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The sun of righteousness shall rise with healing in its wings (kanaph)' — the same Hebrew term used for garment corners/fringes. Touching the fringe of Jesus' garment for healing evokes the eschatological promise of healing in the 'wings,' identifying him with the dawning sun of righteousness.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 13:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Mere contact with Elisha's bones revives a corpse; healing by contact with the prophet (or his remains/garment) belongs to the Elisha cycle and faintly extends the Elisha typology of the chapter to the touch-healings at Gennesaret.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 8:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Ten men... shall take hold of the robe (kanaph) of a Jew, saying, Let us go with you, for we have heard that God is with you.' The nations grasping the garment-corner of the one with whom God dwells faintly resonates with the crowds reaching for the fringe of Jesus' garment.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "id": "16.1",
+    "ch": 16,
+    "ref": "16:1-4",
+    "echoes": [
+      {"source": "Jonah 1:17", "type": "figural", "confidence": "high", "note": "The 'sign of the prophet Jonah' is a typological pointer: Jonah three days and nights in the belly of the great fish prefigures the Son of Man's burial and resurrection (made explicit in Matthew 12:40). Volume and recurrence are strong; Jesus names Jonah directly.", "contested": false},
+      {"source": "Jonah 3:4-5", "type": "echo", "confidence": "medium", "note": "Beyond the three-days motif, Jonah's preaching of repentance to Nineveh stands behind the rebuke of 'this generation': a pagan city repented at a sign, but the present generation will receive only Jonah's sign. Thematic coherence with Matthew's wider Jonah typology.", "contested": false},
+      {"source": "Isaiah 57:3", "type": "echo", "confidence": "medium", "note": "'An evil and adulterous generation' draws on the prophetic idiom of Israel as an adulterous people ('sons of the sorceress, offspring of the adulterer'), where covenant infidelity is figured as adultery/idolatry.", "contested": false},
+      {"source": "Hosea 2:2-4", "type": "echo", "confidence": "low", "note": "The 'adulterous generation' charge echoes Hosea's sustained metaphor of faithless Israel as an adulterous spouse. Faint and one of several possible prophetic backgrounds.", "contested": true},
+      {"source": "Deuteronomy 13:1-3", "type": "echo", "confidence": "low", "note": "Demanding 'a sign from heaven' to validate Jesus inverts the Deuteronomic test of a prophet: a sign alone does not authenticate; covenant fidelity does. Conceptual rather than verbal.", "contested": true},
+      {"source": "Exodus 17:2", "type": "echo", "confidence": "low", "note": "The Pharisees and Sadducees 'testing' Jesus by demanding a sign recalls Israel testing the LORD at Massah; the verb of testing carries the wilderness-rebellion overtone. Faint thematic.", "contested": true}
+    ]
+  },
+  {
+    "id": "16.2",
+    "ch": 16,
+    "ref": "16:5-12",
+    "echoes": [
+      {"source": "Exodus 12:15", "type": "echo", "confidence": "medium", "note": "The warning against 'the yeast/leaven of the Pharisees and Sadducees' trades on the Passover/Unleavened Bread association of leaven with pervasive corruption that must be purged from the house. The metaphor's intelligibility presupposes this cultic background.", "contested": false},
+      {"source": "Exodus 13:7", "type": "echo", "confidence": "low", "note": "Reinforces the leaven-as-defilement imagery from the Feast of Unleavened Bread, where no leaven may be seen within the borders. Secondary to Exodus 12:15.", "contested": true},
+      {"source": "Exodus 16:4", "type": "echo", "confidence": "low", "note": "The disciples' anxiety over bread and the rebuke 'you of little faith' recall Israel's distrust over daily provision in the wilderness, where the LORD rained bread from heaven to test their faith. Thematic coherence with Matthew's two feeding miracles invoked here.", "contested": true},
+      {"source": "Numbers 11:6-9", "type": "echo", "confidence": "low", "note": "The grumbling-over-food motif behind the disciples' worry resonates with Israel's complaint about manna; the contrast is between miraculous provision already witnessed and persistent forgetfulness. Faint.", "contested": true}
+    ]
+  },
+  {
+    "id": "16.3",
+    "ch": 16,
+    "ref": "16:13-20",
+    "echoes": [
+      {"source": "Isaiah 22:22", "type": "allusion", "confidence": "high", "note": "'I will give you the keys of the Kingdom of Heaven... bind... loose' draws on the Eliakim oracle: 'I will place on his shoulder the key of the house of David; he shall open and none shut, shut and none open.' The key-of-stewardship granting authority to admit and exclude is the controlling image. Strong verbal and conceptual borrowing.", "contested": false},
+      {"source": "Job 38:17", "type": "allusion", "confidence": "medium", "note": "'The gates of Hades will not prevail' echoes 'Have the gates of death been revealed to you?' — the underworld as a fortified city whose gates symbolize the realm and power of death. Verbal touchpoint ('gates' of death/Hades).", "contested": false},
+      {"source": "Psalm 9:13", "type": "allusion", "confidence": "medium", "note": "'You who lift me up from the gates of death' supplies the same 'gates of death/Hades' idiom; deliverance from death's gates is precisely what Jesus' resurrection-grounded assembly will enjoy. Reinforces Job 38:17.", "contested": false},
+      {"source": "Isaiah 38:10", "type": "echo", "confidence": "medium", "note": "Hezekiah's 'I shall go through the gates of Sheol' offers another close instance of the 'gates of the underworld' figure standing behind 'gates of Hades.'", "contested": false},
+      {"source": "Deuteronomy 5:26", "type": "echo", "confidence": "medium", "note": "Peter's confession of Jesus as 'the Son of the living God' employs the covenant title 'the living God,' contrasting Israel's God with lifeless idols. The epithet recurs across the OT and grounds the confession in covenant monotheism.", "contested": false},
+      {"source": "Hosea 1:10", "type": "echo", "confidence": "low", "note": "'Sons of the living God' supplies the specific collocation 'living God' with sonship language that Peter's title brings together. Faint verbal overlap.", "contested": true},
+      {"source": "Malachi 4:5", "type": "echo", "confidence": "medium", "note": "The popular identification of Jesus with Elijah ('some say... Elijah') depends on Malachi's promise that Elijah would return before the day of the LORD, an expectation Matthew engages elsewhere (11:14; 17:10-13).", "contested": false},
+      {"source": "Isaiah 51:1-2", "type": "echo", "confidence": "low", "note": "'On this rock I will build' may play on the 'rock from which you were hewn' (Abraham) imagery for the founding of the people of God on a chosen progenitor. Disputed; rock-foundation imagery is diffuse.", "contested": true},
+      {"source": "Jeremiah 1:5", "type": "echo", "confidence": "low", "note": "Jeremiah being named among the guesses for Jesus' identity reflects his stature as the suffering, rejected prophet of judgment on Jerusalem; the allusion is to Jeremiah as a prophetic type rather than a specific text. Faint.", "contested": true}
+    ]
+  },
+  {
+    "id": "16.4",
+    "ch": 16,
+    "ref": "16:21-23",
+    "echoes": [
+      {"source": "Isaiah 53:3-5", "type": "allusion", "confidence": "medium", "note": "Jesus 'must... suffer many things... and be killed' draws on the Suffering Servant who was despised, rejected, and stricken; the divine necessity ('must') of the Messiah's suffering reflects Matthew's Servant Christology.", "contested": false},
+      {"source": "Hosea 6:2", "type": "allusion", "confidence": "medium", "note": "'The third day be raised up' echoes 'on the third day he will raise us up, that we may live before him,' the OT text most plausibly underlying the recurrent 'third day' resurrection formula.", "contested": false},
+      {"source": "Zechariah 3:1-2", "type": "echo", "confidence": "medium", "note": "'Get behind me, Satan!' as a rebuke of the adversary echoes 'The LORD rebuke you, O Satan' — Peter unwittingly plays the satan/accuser opposing God's purpose. Thematic and verbal resonance with the rebuke-of-Satan formula.", "contested": false},
+      {"source": "Job 1:6-12", "type": "echo", "confidence": "low", "note": "The figure of 'the satan' as the adversary who would divert God's servant from his path stands behind naming Peter 'Satan' for setting his mind on human things. Faint, conceptual.", "contested": true}
+    ]
+  },
+  {
+    "id": "16.5",
+    "ch": 16,
+    "ref": "16:24-28",
+    "echoes": [
+      {"source": "Psalm 62:12", "type": "quotation", "confidence": "high", "note": "'He will render to everyone according to his deeds' closely cites 'to you, O Lord, belongs steadfast love, for you render to a man according to his work.' Near-verbatim formula of eschatological recompense; the clearest source-citation in the chapter.", "contested": false},
+      {"source": "Proverbs 24:12", "type": "quotation", "confidence": "high", "note": "Parallel near-verbatim source for 'render to everyone according to his deeds': 'will he not repay each according to his work?' Matthew's wording fuses the Psalms and Proverbs recompense formula. Together with Psalm 62:12 this is a high-confidence citation.", "contested": false},
+      {"source": "Daniel 7:13-14", "type": "allusion", "confidence": "high", "note": "'The Son of Man will come in the glory of his Father with his angels... coming in his Kingdom' draws directly on the 'one like a son of man' coming with the clouds to whom dominion, glory, and an everlasting kingdom are given. Strong verbal ('Son of Man,' 'coming,' 'kingdom,' 'glory') and conceptual borrowing.", "contested": false},
+      {"source": "Psalm 49:7-9", "type": "allusion", "confidence": "medium", "note": "'What will a man give in exchange for his life?' echoes 'no man can ransom his brother or give to God the price of his life, for the ransom of their life is costly.' The futility of buying back one's soul with wealth is the shared logic, sharpened by 'gains the whole world but forfeits his life.'", "contested": false},
+      {"source": "Job 2:4", "type": "echo", "confidence": "low", "note": "'Skin for skin! All that a man has he will give for his life' resonates with the rhetorical 'what will a man give in exchange for his life?' — the supreme value placed on life. Faint, possibly coincidental proverbial overlap.", "contested": true},
+      {"source": "Zechariah 14:5", "type": "echo", "confidence": "medium", "note": "'With his angels' / 'in the glory of his Father' resonates with 'the LORD my God will come, and all the holy ones with him,' a theophany of the divine coming with the heavenly host that informs the parousia imagery.", "contested": false},
+      {"source": "Jeremiah 17:10", "type": "echo", "confidence": "medium", "note": "'I the LORD search the heart... to give every man according to his ways, according to the fruit of his deeds' is a further OT recompense text reinforcing the Psalm 62 / Proverbs 24 citation of judgment according to works.", "contested": false},
+      {"source": "Sirach 35:22-24", "type": "echo", "confidence": "low", "note": "The deuterocanonical 'he will repay to man according to his deeds' continues the Second Temple development of the recompense formula behind 16:27, attesting the currency of the idea in Jesus' milieu.", "contested": true},
+      {"source": "Ezekiel 18:20", "type": "echo", "confidence": "low", "note": "Individual accountability — each judged for his own conduct, 'the soul who sins shall die' — undergirds the 'render to everyone according to his deeds' principle. Faint, conceptual.", "contested": true}
+    ]
+  }
+]
