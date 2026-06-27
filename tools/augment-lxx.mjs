@@ -23,6 +23,8 @@ const CURATED = [
   "Psalm 8:2",         // Matt 21:16 — LXX "praise" (αἶνον) vs Hebrew "strength"
   "Isaiah 29:13",      // Matt 15:8-9 — LXX "in vain… teaching commandments of men" vs Hebrew "fear taught by men"
   "Psalm 51:4",        // Rom 3:4 — LXX "prevail when you are judged" (passive νικήσῃς ἐν τῷ κρίνεσθαι) vs Hebrew "blameless when you judge"
+  "Proverbs 11:31",    // 1 Pet 4:18 — LXX "if the righteous is scarcely saved" (μόλις σῴζεται) vs Hebrew "repaid on the earth"
+  "Proverbs 3:34",     // 1 Pet 5:5 (also James 4:6) — LXX "God opposes the proud" (ὑπερηφάνοις ἀντιτάσσεται) vs Hebrew "he mocks the mockers"
 ];
 const stripParen = (s) => s.replace(/\s*\(.*?\)\s*/g, " ").replace(/\s+/g, " ").trim();
 const isCurated = (src) => CURATED.some((c) => src.startsWith(c));
@@ -30,7 +32,7 @@ const cap = (t) => (t.length <= 480 ? t : t.slice(0, 480).replace(/\s+\S*$/, "")
 
 let attached = 0;
 const log = [];
-for (const f of ["hebrews", "revelation", "matthew", "romans"]) {
+for (const f of ["hebrews", "revelation", "matthew", "romans", "1-peter"]) {
   const d = JSON.parse(readFileSync(`/Users/wilsonpruitt/catena/data/${f}.json`, "utf8"));
   for (const p of d.pericopes) for (const e of p.echoes) {
     if (e.lxxText) delete e.lxxText; // idempotent

@@ -1,0 +1,261 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-3",
+    "echoes": [
+      {
+        "source": "Psalm 34:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"if indeed you have tasted that the Lord is gracious\" (2:3) closely reworks Psalm 34:8 LXX (33:9), \"taste and see that the Lord is good (chrēstos).\" The verb 'tasted' plus the divine predicate is a strong verbal borrowing; the wordplay chrēstos/Christos prepares the turn to the living stone. Psalm 34 recurs across 1 Peter (cf. 3:10-12 quoting Ps 34:12-16), raising recurrence and volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:6-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"long for the pure milk of the Word\" (2:2) picks up the 'word' (logos/rhēma) by which the readers were reborn (1:23-25, where Isa 40:6-8 is just quoted); the abiding word of God is the nourishment metaphor here, an echo carried over from the immediately preceding citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:4-10",
+    "echoes": [
+      {
+        "source": "Isaiah 28:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"Behold, I lay in Zion a chief cornerstone, chosen, and precious: He who believes in him will not be disappointed\" (2:6) is a formula-introduced citation (\"it is contained in Scripture\") of Isaiah 28:16 LXX. Verbatim: tithēmi en Siōn lithon... eklekton entimon, and the believer not being put to shame. The keywords 'chosen/precious' also reach back to v.4-5 ('chosen by God, precious').",
+        "contested": false
+      },
+      {
+        "source": "Psalm 118:22",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"The stone which the builders rejected, has become the chief cornerstone\" (2:7) is a verbatim quotation of Psalm 118:22 LXX (117:22). Part of the stacked stone-testimonia catena; the same text is a primary early-Christian Christological proof (cf. Mark 12:10; Acts 4:11). 'Rejected'/'builders' ties to the rejection theme of v.4.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 8:14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"a stone of stumbling, and a rock of offense\" (2:8) quotes Isaiah 8:14, lithos proskommatos kai petra skandalou. Third member of the stone catena, applied to the disobedient who stumble at the word; combined here (as in Rom 9:33) with Isa 28:16.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 19:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"a royal priesthood... a holy nation\" (2:9) draws directly on Exodus 19:6 LXX, basileion hierateuma kai ethnos hagion, the Sinai vocation of Israel now applied to the church. High volume; the priesthood theme also undergirds v.5 ('holy priesthood... spiritual sacrifices').",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:20-21",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"a chosen race... a people for God's own possession, that you may proclaim the excellence of him\" (2:9) is woven from Isaiah 43:20-21 LXX, 'my chosen race (genos eklekton)... my people whom I preserved to declare my excellencies (aretas).' The distinctive phrase 'proclaim the excellencies/aretas' is verbatim from Isa 43:21 and not from Exod 19, marking this as a separate source fused into the title-collage.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 19:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"a people for God's own possession\" (2:9) renders laos eis peripoiēsin, echoing the 'peculiar treasure/possession' (laos periousios / segullah) of Exodus 19:5; reinforces the Sinai covenant frame alongside Exod 19:6, and resonant with Mal 3:17 / Isa 43:21.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 2:23",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"who in time past were no people, but now are God's people, who had not obtained mercy, but now have obtained mercy\" (2:10) reworks Hosea 2:23 (LXX 2:25), 'I will say to Not-my-people, You are my people' and 'I will have mercy on Not-pitied.' The double not-people/people and not-mercy/mercy antithesis is the signature of Hosea, also taken up in Rom 9:25.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 1:9-10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"were no people, but now are God's people\" (2:10) also draws on Hosea 1:9-10, the naming of Lo-ammi ('not my people') and the reversal 'you are sons of the living God.' Companion source to Hos 2:23 supplying the 'not a people' title; high recurrence within the Hosea reversal oracle.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 8:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"coming to him, a living stone, rejected indeed by men, but chosen by God\" (2:4) anticipates and conditions the catena: the 'rejected by men / chosen by God' contrast frames the stone testimonia of vv.6-8 and the figural identification of Christ as the temple cornerstone before any is formally cited.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 28:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"chosen by God, precious\" (2:4) pre-echoes Isaiah 28:16's eklekton entimon ('chosen and precious'), the very words cited in v.6; Peter introduces the catena's keywords narratively before quoting, a deliberate framing device.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 118:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"rejected indeed by men\" (2:4) anticipates 'the stone which the builders rejected' of Ps 118:22 (v.7); apodedokimasmenon shares the rejection motif, weaving the psalm into the opening description of Christ as living stone.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 28:16",
+        "type": "figural",
+        "confidence": "high",
+        "note": "\"as living stones, are built up as a spiritual house, to be a holy priesthood, to offer up spiritual sacrifices\" (2:5) is a typological reading of the Zion-stone oracle: believers become the new temple founded on Christ the cornerstone, a priesthood offering spiritual (not Levitical) sacrifices. The figural new-temple/new-Israel construal organizes the whole pericope.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 118:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"For you who believe therefore is the honor\" (2:7) plays on Isa 28:16's 'precious/honor' (entimon/timē) as the antithesis to the builders' rejection of Ps 118:22, binding the two quotations into a single believe/disbelieve contrast.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:11-12",
+    "echoes": [
+      {
+        "source": "Genesis 23:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"I beg you as foreigners and pilgrims\" (2:11) echoes the sojourner self-designation paroikos kai parepidēmos of Genesis 23:4 LXX (Abraham), also Psalm 39:12 (LXX 38:13). Reinforces the letter's elect-exile theme (1:1, 1:17); the patriarchal alien status is figurally applied to the diaspora church.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 39:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"foreigners and pilgrims\" (2:11) also recalls Psalm 39:12 (LXX 38:13), 'I am a sojourner (paroikos) with you and a pilgrim (parepidēmos), as all my fathers were' — the precise LXX pairing of both nouns, supplying the alien-on-earth posture.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 10:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"they may by your good works... glorify God in the day of visitation\" (2:12) uses 'day of visitation' (hēmera episkopēs), the LXX phrase of Isaiah 10:3 ('what will you do in the day of visitation?'); the Gentiles' eventual glorifying of God when God visits frames the eschatological reckoning behind honorable conduct.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 52:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"having good behavior among the nations, so in that of which they speak against you\" (2:12) inverts Isaiah 52:5 LXX, 'my name is continually blasphemed among the nations (ethnesin)' — where Israel's conduct caused God's name to be reviled, the church's good works among the nations cause it to be glorified.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 36:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"glorify God\" through the witness of conduct 'among the nations' (2:12) resonates with Ezekiel 36:23, God sanctifying his name profaned among the nations so that the nations know him; a faint thematic parallel to the vindication-of-the-name motif.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:13-17",
+    "echoes": [
+      {
+        "source": "Proverbs 24:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Fear God. Honor the king\" (2:17) closely mirrors Proverbs 24:21 LXX, 'Fear God, my son, and the king (phobou ton theon... kai basilea)' — the paired imperatives toward God and king are a near-verbatim wisdom borrowing structuring the closing quatrain.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 8:2-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Submission 'to the king as supreme' and to governors (2:13-14) reflects the wisdom counsel to keep the king's command (Eccl 8:2-5); a faint thematic backdrop to honoring civil authority.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.5",
+    "ch": 2,
+    "ref": "2:18-25",
+    "echoes": [
+      {
+        "source": "Isaiah 53:9",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"who did not sin, 'neither was deceit found in his mouth'\" (2:22) quotes Isaiah 53:9 LXX, 'he did no lawlessness, nor was deceit (dolos) found in his mouth.' Verbatim citation of the Servant; anchors the Christ-as-suffering-Servant exemplum.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"when he was cursed, didn't curse back. When he suffered, didn't threaten\" (2:23) interprets Isaiah 53:7, 'he was afflicted yet opened not his mouth; like a lamb led to slaughter... he opens not his mouth.' The Servant's silent non-retaliation is the model for unjustly suffering servants.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"who his own self bore our sins in his body on the tree\" (2:24) draws on Isaiah 53:4 LXX, 'he bears our sins (houtos tas hamartias hēmōn pherei),' fused with 53:12. The vicarious sin-bearing is the theological core of the Servant application.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"bore our sins in his body\" (2:24) also reflects Isaiah 53:12, 'he bore the sins of many (autos hamartias pollōn anēnegken)' — the verb anapherō ('bore/bore up') matches 53:12 LXX, making this a distinct source-clause alongside 53:4.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:5",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"by whose stripes you were healed\" (2:24) is a near-verbatim citation of Isaiah 53:5 LXX, 'by his bruise (tō mōlōpi autou) we were healed.' Distinctive rare word mōlōps marks high volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"For you were going astray like sheep; but now have returned\" (2:25) reworks Isaiah 53:6 LXX, 'all we like sheep have gone astray (planēthēmen).' The verb 'gone astray' + 'sheep' is verbatim from the Servant song; the 'returned' supplies the gospel reversal.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 34:11-16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"returned to the Shepherd and Overseer of your souls\" (2:25) draws on the divine-shepherd oracle of Ezekiel 34, where God himself seeks and gathers the scattered sheep; the straying-sheep/returning-to-shepherd movement of Isa 53:6 is completed with Ezekiel's restoring shepherd imagery.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 23:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"the Shepherd... of your souls\" (2:25) faintly recalls the Lord-as-shepherd of Psalm 23:1; a thematic resonance of God's pastoral care behind the title applied to Christ.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"that we, having died to sins, might live to righteousness\" (2:24) resonates with Isaiah 53:11, the Servant who 'makes many righteous (dikaiōsai dikaion)'; the righteousness outcome of sin-bearing parallels the Servant's justifying work.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The pattern of patient unjust suffering held up as example (2:19-21) reflects the despised-and-rejected Servant of Isaiah 53:3, conditioning the whole exemplum before the formal citations begin.",
+        "contested": true
+      }
+    ]
+  }
+]

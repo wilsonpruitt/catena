@@ -3242,7 +3242,8 @@
           "confidence": "low",
           "text": "Surely he mocks the mockers, but he gives grace to the humble.",
           "note": "'God resists the proud but gives grace to the humble' undergirds 'associate with the humble; do not be high-minded' (12:16); the humility motif is the same wisdom orientation James and 1 Peter also draw from this verse.",
-          "contested": true
+          "contested": true,
+          "lxxText": "The Lord resists the proud; but he gives grace to the humble."
         },
         {
           "source": "Sirach 7:34",

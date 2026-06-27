@@ -1,0 +1,1358 @@
+{
+  "slug": "1-peter",
+  "name": "1 Peter",
+  "subtitle": "A Consolation Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "First Peter writes to “elect exiles of the dispersion,” and it consoles them in the words of Israel’s own scriptures. To a church under pressure Peter hands the Old Testament as comfort and identity: the suffering of Christ told almost entirely in the Servant Song of Isaiah 53, the new people named with the titles of Sinai (“a chosen race, a royal priesthood, a holy nation”), the rejected stone of the Psalms made the cornerstone, and Proverbs and Psalm 34 turned into counsel for endurance. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where Peter follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.0",
+      "ch": 1,
+      "ref": "1:1-2",
+      "text": "Peter, an apostle of Jesus Christ, to the chosen ones who are living as foreigners in the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, according to the foreknowledge of God the Father, in sanctification of the Spirit, that you may obey Jesus Christ and be sprinkled with his blood: Grace to you and peace be multiplied.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 28:25",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh will cause you to be struck before your enemies. You will go out one way against them, and will flee seven ways before them. You will be tossed back and forth among all the kingdoms of the earth.",
+          "note": "'Dispersion' (diaspora) is the LXX term for Israel scattered among the nations as covenant curse; Peter recasts the addressees' geographic scatter across Asia Minor as the eschatological diaspora of God's people. High thematic coherence; recurrence of diaspora language across the Deuteronomic curses.",
+          "altSource": "Deuteronomy 30:4"
+        },
+        {
+          "source": "Isaiah 11:12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He will set up a banner for the nations, and will assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.",
+          "note": "The gathering of the 'dispersed of Judah from the four corners' supplies the restoration backdrop to which 'elect exiles of the dispersion' alludes; faint verbal contact via diaspora, strong thematic coherence with Isaian return-from-exile.",
+          "contested": true
+        },
+        {
+          "source": "2 Maccabees 1:27",
+          "type": "echo",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "Prayer to 'gather together our dispersion' shows Second Temple use of diaspora as a theological-not-merely-geographic category, the same move Peter makes; Second Temple recurrence supports the reading though no verbal borrowing beyond the term.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 23:4",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“I am a stranger and a foreigner living with you. Give me a possession of a burying-place with you, that I may bury my dead out of my sight.”",
+          "note": "Abraham's self-description as a 'stranger and sojourner' (paroikos) is the patriarchal template for the resident-alien identity Peter assigns his readers; the same paroikos/parepidemos word-pair recurs in 1 Peter 2:11. Volume modest, recurrence within the letter high.",
+          "altSource": "Psalm 39:12"
+        },
+        {
+          "source": "Leviticus 25:23",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“‘The land shall not be sold in perpetuity, for the land is mine; for you are strangers and live as foreigners with me.",
+          "note": "'You are strangers and sojourners with me' grounds Israel's tenancy on God's land; Peter universalizes the sojourner status. Faint verbal echo through the sojourner vocabulary, coherent with the letter's pilgrim ecclesiology.",
+          "contested": true
+        },
+        {
+          "source": "1 Chronicles 29:15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For we are strangers before you, and foreigners, as all our fathers were. Our days on the earth are as a shadow, and there is no remaining.",
+          "note": "David's 'we are strangers before you and sojourners, as all our fathers were' is a near-formulaic sojourner confession standing behind 1:1 and 1:17; low volume, supports recurrence.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 32:8-9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "When the Most High gave to the nations their inheritance, when he separated the children of men, he set the bounds of the peoples according to the number of the children of Israel. For Yahweh’s portion is his people. Jacob is the lot of his inheritance.",
+          "note": "Election theology—the Most High apportioning peoples and taking Jacob as his allotted portion—underlies 'chosen according to the foreknowledge of God the Father'; figural/thematic rather than verbal.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 24:7-8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He took the book of the covenant and read it in the hearing of the people, and they said, “All that Yahweh has spoken will we do, and be obedient.” Moses took the blood, and sprinkled it on the people, and said, “Look, this is the blood of the covenant, which Yahweh has made with you concerning all these words.”",
+          "note": "'Sanctification... that you may obey... and be sprinkled with his blood' fuses the two halves of Sinai covenant ratification: Israel's pledge 'all that the LORD has spoken we will do and obey' (24:7) and Moses sprinkling the blood of the covenant on the people (24:8). High volume via the obey+blood-sprinkling sequence; thematic coherence with covenant inauguration.",
+          "altSource": "Exodus 24:3"
+        },
+        {
+          "source": "Numbers 19:18-21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "A clean person shall take hyssop, dip it in the water, and sprinkle it on the tent, on all the vessels, on the persons who were there, and on him who touched the bone, or the slain, or the dead, or the grave. The clean person shall sprinkle on the unclean on the third day, and on the seventh day. On the seventh day, he shall purify him. He shall wash his clothes and bathe himself in water, and shall be clean at evening. But the man who shall be unclean, […]",
+          "note": "The sprinkling that purifies the unclean (water of the red-heifer ash) is a secondary purification background for 'sprinkled with his blood'; lower volume than Exodus 24, contested as the primary referent.",
+          "contested": true
+        },
+        {
+          "source": "Ezekiel 36:25-27",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I will sprinkle clean water on you, and you shall be clean: from all your filthiness, and from all your idols, will I cleanse you. I will also give you a new heart, and I will put a new spirit within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. I will put my Spirit within you, and cause you to walk in my statutes, and you shall keep my ordinances, and do them.",
+          "note": "'I will sprinkle clean water on you... and put my Spirit within you' joins sprinkling with the gift of the Spirit—exactly Peter's pairing of 'sanctification of the Spirit' and 'sprinkled with his blood.' Strong thematic coherence; sprinkling+Spirit recurrence.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 8:30",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Moses took some of the anointing oil, and some of the blood which was on the altar, and sprinkled it on Aaron, on his garments, and on his sons, and on his sons’ garments with him, and sanctified Aaron, his garments, and his sons, and his sons’ garments with him.",
+          "note": "Moses sprinkling blood to consecrate the priests supports the priestly-consecration overtone of 'sanctification... sprinkled with his blood,' anticipating the royal priesthood of 2:9. Faint, figural.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 6:25",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Then king Darius wrote to all the peoples, nations, and languages, who dwell in all the earth: Peace be multiplied to you.",
+          "note": "'Peace be multiplied to you' (also Daniel 4:1) is the verbatim Aramaic-letter greeting Peter expands to 'grace and peace be multiplied.' Distinctive verbal borrowing of the 'be multiplied' epistolary formula.",
+          "altSource": "Daniel 4:1"
+        }
+      ]
+    },
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:3-12",
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy became our father again to a living hope through the resurrection of Jesus Christ from the dead, to an incorruptible and undefiled inheritance that doesn’t fade away, reserved in Heaven for you, who by the power of God are guarded through faith for a salvation ready to be revealed in the last time. Wherein you greatly rejoice, though now for a little while, if need be, you have been put to grief in various trials, that the proof of your faith, which is more precious than gold that perishes even though it is tested by fire, may be found to result in praise, glory, and honor at the revelation of Jesus Christ— whom not having known you love; in whom, though now you don’t see him, yet believing, you rejoice greatly with joy unspeakable and full of glory— receiving the result of your faith, the salvation of your souls. Concerning this salvation, the prophets sought and searched diligently, who prophesied of the grace that would come to you, searching for who or what kind of time the Spirit of Christ, which was in them, pointed to, when he predicted the sufferings of Christ, and the glories that would follow them. To them it was revealed, that not to themselves, but to you, they ministered these things, which now have been announced to you through those who preached the Good News to you by the Holy Spirit sent out from heaven; which things angels desire to look into.",
+      "echoes": [
+        {
+          "source": "Psalm 41:13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Blessed be Yahweh, the God of Israel, from everlasting and to everlasting! Amen and amen.",
+          "note": "'Blessed be the LORD, the God of Israel' is the berakah doxology Peter Christianizes as 'Blessed be the God and Father of our Lord Jesus Christ.' Distinctive opening-blessing form recurring across the Psalter's book-seams.",
+          "altSource": "Psalm 72:18"
+        },
+        {
+          "source": "1 Chronicles 29:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Therefore David blessed Yahweh before all the assembly; and David said, “You are blessed, Yahweh, the God of Israel our father, forever and ever.",
+          "note": "David's 'Blessed are you, O LORD, the God of Israel our father' supplies both the eulogy form and the Father-language behind 1:3; coherent with the inheritance theme that follows (29:11-16).",
+          "altSource": "Genesis 24:27"
+        },
+        {
+          "source": "Psalm 51:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions.",
+          "note": "'According to your great mercy' echoes the Psalter's 'according to the abundance of your mercy'; low volume but a fixed liturgical collocation.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 16:5-6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh assigned my portion and my cup. You made my lot secure. The lines have fallen to me in pleasant places. Yes, I have a good inheritance.",
+          "note": "'The LORD is my portion and my inheritance... a goodly heritage' reframes inheritance from land to God himself, the move behind an 'inheritance kept in heaven.' Thematic coherence high; the imperishable heavenly inheritance transposes the Levitical land-allotment.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 18:20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh said to Aaron, “You shall have no inheritance in their land, neither shall you have any portion among them. I am your portion and your inheritance among the children of Israel.",
+          "note": "The priests have no land-inheritance because 'I am your portion and inheritance'; Peter's heavenly, unfading inheritance figurally fulfills this priestly pattern (cf. royal priesthood, 2:9). Figural, low verbal volume.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom of Solomon 5:15-16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But the righteous live forever, And in the Lord is their reward, And the care for them with the Most High. Therefore will they receive the crown of royal dignity And the diadem of beauty from the Lord’s hand; Because with his right hand will he cover them, And with his arm will he shield them.",
+          "note": "'The righteous live forever... they will receive a glorious crown... from the Lord's hand' parallels the imperishable, heaven-reserved inheritance and the 'praise, glory, and honor' of 1:7; Second Temple thematic coherence.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 17:3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "The refining pot is for silver, and the furnace for gold, but Yahweh tests the hearts.",
+          "note": "'The crucible is for silver and the furnace for gold, but the LORD tests hearts' is the proverbial matrix for faith 'tested by fire... more precious than gold.' High thematic coherence; gold-tested-by-fire is a stock wisdom topos Peter applies to faith.",
+          "altSource": "Psalm 66:10"
+        },
+        {
+          "source": "Zechariah 13:9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I will bring the third part into the fire, and will refine them as silver is refined, and will test them like gold is tested. They will call on my name, and I will hear them. I will say, ‘It is my people;’ and they will say, ‘Yahweh is my God.’”",
+          "note": "'I will refine them as one refines silver and test them as gold is tested,' set in an eschatological remnant-purification, supplies the trial-as-refinement frame of 1:6-7; verbal contact (refine/test, gold) plus eschatological coherence.",
+          "altSource": "Malachi 3:3"
+        },
+        {
+          "source": "Job 23:10",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "But he knows the way that I take. When he has tried me, I shall come out like gold.",
+          "note": "'When he has tested me, I shall come forth as gold' is the closest first-person analogue: testing through suffering yielding vindicated, gold-like faith. Strong thematic coherence, moderate volume."
+        },
+        {
+          "source": "Sirach 2:1-6",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "'My child, when you come to serve the Lord, prepare yourself for testing... for gold is tested in the fire, and those found acceptable in the furnace of humiliation.' The fullest pre-Christian template: discipleship + fiery testing + gold + acceptance, mirroring 1:6-7. Second Temple recurrence and high thematic coherence.",
+          "contested": true,
+          "altSource": "Sirach 2:5"
+        },
+        {
+          "source": "Wisdom of Solomon 3:5-6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "And having borne a little chastening, they will receive great good; Because God made trial of them, and found them worthy of himself. As gold in the furnace he proved them, And as a whole burnt offering he accepted them.",
+          "note": "'Having been disciplined a little... like gold in the furnace he tried them' joins brief affliction ('a little while', cf. 1:6) with gold-furnace testing of the righteous souls; strong thematic coherence with 1:6-9."
+        },
+        {
+          "source": "Daniel 12:8-9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I heard, but I didn’t understand: then I said, my lord, what shall be the issue of these things? He said, Go your way, Daniel; for the words are shut up and sealed until the time of the end.",
+          "note": "Daniel 'heard but did not understand' and sought the meaning, told the words were 'sealed until the time of the end'—the paradigm for prophets who 'searched diligently... what time the Spirit pointed to' (1:10-11). Distinctive prophet-seeks-yet-defers motif.",
+          "altSource": "Daniel 8:15"
+        },
+        {
+          "source": "Amos 3:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Surely the Lord Yahweh will do nothing, unless he reveals his secret to his servants the prophets.",
+          "note": "'The Lord GOD does nothing without revealing his secret to his servants the prophets' undergirds 'to them it was revealed' that they served a later generation (1:12); thematic, low verbal volume.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 53:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "After the suffering of his soul, he will see the light and be satisfied. My righteous servant will justify many by the knowledge of himself; and he will bear their iniquities.",
+          "note": "'The sufferings of Christ and the glories that follow' (1:11) tracks the Servant's affliction-then-vindication arc (Isaiah 52:13-53:12); Peter's signature suffering/glory pattern, faint here but recurrent in the letter.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:13-21",
+      "text": "Therefore prepare your minds for action, be sober and set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ— as children of obedience, not conforming yourselves according to your former lusts as in your ignorance, but just as he who called you is holy, you yourselves also be holy in all of your behavior; because it is written, “You shall be holy; for I am holy.” If you call on him as Father, who without respect of persons judges according to each man’s work, pass the time of your living as foreigners here in reverent fear: knowing that you were redeemed, not with corruptible things, with silver or gold, from the useless way of life handed down from your fathers, but with precious blood, as of a faultless and pure lamb, the blood of Christ; who was foreknown indeed before the foundation of the world, but was revealed at the end of times for your sake, who through him are believers in God, who raised him from the dead, and gave him glory; so that your faith and hope might be in God.",
+      "echoes": [
+        {
+          "source": "Exodus 12:11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "This is how you shall eat it: with your belt on your waist, your shoes on your feet, and your staff in your hand; and you shall eat it in haste: it is Yahweh’s Passover.",
+          "note": "'Gird up the loins of your mind' literalizes the Passover posture—'your loins girded, your sandals on, in haste'—readiness for imminent deliverance, fitting the redemption-by-the-lamb imagery of 1:18-19. High volume on the distinctive idiom plus contextual Passover coherence.",
+          "altSource": "Job 38:3"
+        },
+        {
+          "source": "Job 38:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Brace yourself like a man, for I will question you, then you answer me!",
+          "note": "'Gird up your loins like a man' (also 40:7) is the summons to brace for an encounter with God; supplies the metaphorical (mental readiness) sense Peter intends. Moderate verbal volume; the idiom recurs as a call to resolve.",
+          "altSource": "Jeremiah 1:17"
+        },
+        {
+          "source": "Jeremiah 1:17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“You therefore put your belt on your waist, arise, and speak to them all that I command you. Don’t be dismayed at them, lest I dismay you before them.",
+          "note": "'Gird up your loins; stand and speak' commissions the prophet to fearless action; reinforces the gird-loins call but is a secondary witness to the idiom. Low distinctiveness.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 11:44-45",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "For I am Yahweh your God. Sanctify yourselves therefore, and be holy; for I am holy: neither shall you defile yourselves with any kind of creeping thing that moves on the earth. For I am Yahweh who brought you up out of the land of Egypt, to be your God. You shall therefore be holy, for I am holy.",
+          "note": "Formula-marked citation ('because it is written, You shall be holy, for I am holy'). Leviticus 11:44-45 supplies the holiness ground anchored in the exodus ('I am the LORD who brought you up out of Egypt to be your God'), matching Peter's redemption framing. Highest volume—explicit quotation.",
+          "altSource": "Leviticus 19:2"
+        },
+        {
+          "source": "Leviticus 19:2",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "“Speak to all the congregation of the children of Israel, and tell them, ‘You shall be holy; for I, Yahweh your God, am holy.",
+          "note": "'You shall be holy, for I the LORD your God am holy' is the most verbally exact source of 1:16 and heads the Holiness Code chapter Peter draws on repeatedly (love of neighbor, impartiality). Co-primary with Leviticus 11:44-45.",
+          "altSource": "Leviticus 20:7"
+        },
+        {
+          "source": "Deuteronomy 10:17",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For Yahweh your God, he is God of gods, and Lord of lords, the great God, the mighty, and the awesome, who doesn’t respect persons, nor takes reward.",
+          "note": "'The God of gods... who is not partial and takes no bribe' is the locus classicus for 'judges impartially, without respect of persons' (1:17). Distinctive 'shows no partiality' formula; high thematic coherence.",
+          "altSource": "2 Chronicles 19:7"
+        },
+        {
+          "source": "Psalm 62:12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Also to you, Lord, belongs loving kindness, for you reward every man according to his work.",
+          "note": "'You repay each according to his work' supplies the second half of 1:17 (judges 'according to each one's work'); a fixed retributive formula. Moderate volume, recurs widely.",
+          "altSource": "Proverbs 24:12"
+        },
+        {
+          "source": "Jeremiah 17:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I, Yahweh, search the mind, I try the heart, even to give every man according to his ways, according to the fruit of his doings.",
+          "note": "'I the LORD... give to each according to his ways, according to the fruit of his deeds' parallels the judge-by-works formula; secondary witness, low distinctiveness.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 35:12-13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Think not to corrupt with gifts; for he will not receive them: And set not your mind on an unrighteous sacrifice; For the Lord is judge, And with him is no respect of persons. He will not accept any person against a poor man; And he will listen to the prayer of him that is wronged.",
+          "note": "'The Lord is judge, and with him there is no partiality' shows the impartial-judge formula in Second Temple piety, supporting the recurrence of 1:17's idea; minimal verbal borrowing.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 52:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For thus says Yahweh, “You were sold for nothing; and you shall be redeemed without money.”",
+          "note": "'You were sold for nothing, and you shall be redeemed without money' stands behind 'redeemed, not with silver or gold' (1:18)—redemption explicitly not monetary. Distinctive silver/gold-vs-true-redemption contrast.",
+          "altSource": "Isaiah 52:9"
+        },
+        {
+          "source": "Exodus 6:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Therefore tell the children of Israel, ‘I am Yahweh, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with an outstretched arm, and with great judgments:",
+          "note": "'I will redeem you with an outstretched arm' is the exodus redemption verb Peter applies to ransom 'from the futile ways inherited from your fathers'—a new exodus from ancestral bondage. Thematic coherence high.",
+          "altSource": "Deuteronomy 7:8"
+        },
+        {
+          "source": "Jeremiah 16:19",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh, my strength, and my stronghold, and my refuge in the day of affliction, to you shall the nations come from the ends of the earth, and shall say, Our fathers have inherited nothing but lies, vanity and things in which there is no profit.",
+          "note": "'Our fathers have inherited nothing but lies, worthless things (vanity) in which there is no profit' closely matches 'the futile ways inherited from your fathers' (1:18)—ancestral idolatry as vanity. Notable verbal contact (inherited+vain+fathers).",
+          "altSource": "Jeremiah 10:3"
+        },
+        {
+          "source": "Exodus 12:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Your lamb shall be without defect, a male a year old. You shall take it from the sheep, or from the goats:",
+          "note": "'Your lamb shall be without blemish, a male a year old' is the Passover-lamb specification behind 'a lamb without blemish or spot' (1:19), reinforcing the redemption/exodus matrix of the pericope. High volume on the without-blemish lamb.",
+          "altSource": "Leviticus 22:19-20"
+        },
+        {
+          "source": "Isaiah 53:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He was oppressed, yet when he was afflicted he didn’t open his mouth. As a lamb that is led to the slaughter, and as a sheep that before its shearers is mute, so he didn’t open his mouth.",
+          "note": "'Like a lamb that is led to the slaughter... he opened not his mouth' supplies the suffering-Servant lamb whose blood ransoms; Peter fuses Passover lamb with Isaian Servant (cf. the dense Isaiah 53 citation in 2:22-25). High thematic coherence and recurrence in the letter."
+        },
+        {
+          "source": "Leviticus 22:19-20",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "that you may be accepted, you shall offer a male without defect, of the bulls, of the sheep, or of the goats. But whatever has a defect, that you shall not offer; for it shall not be acceptable for you.",
+          "note": "The sacrificial requirement that an offering be 'without blemish... no defect' generalizes the spotless-lamb language of 1:19 across the cult. Supports volume of the blemish-free motif."
+        },
+        {
+          "source": "Isaiah 52:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, my servant shall deal wisely, he shall be exalted and lifted up, and shall be very high.",
+          "note": "'My servant shall be exalted and lifted up' grounds 'raised him from the dead and gave him glory' (1:21)—the Servant's vindication. Faint, figural, but coherent with Peter's suffering-then-glory pattern.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "ch": 1,
+      "ref": "1:22-25",
+      "text": "Seeing you have purified your souls in your obedience to the truth through the Spirit in sincere brotherly affection, love one another from the heart fervently: having been born again, not of corruptible seed, but of incorruptible, through the word of God, which lives and remains forever. For, “All flesh is like grass, and all of man’s glory like the flower in the grass. The grass withers, and its flower falls; but the Lord’s word endures forever.” This is the word of Good News which was preached to you.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "'Love one another earnestly from the heart' (1:22) draws on the Holiness Code command 'you shall love your neighbor as yourself'—the same Leviticus 19 chapter Peter quotes for holiness in 1:16. Recurrence within the source chapter supports the link though Peter rephrases.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 12:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I heard the man clothed in linen, who was above the waters of the river, when he held up his right hand and his left hand to heaven, and swore by him who lives forever that it shall be for a time, times, and a half; and when they have made an end of breaking in pieces the power of the holy people, all these things shall be finished.",
+          "note": "'Living and abiding word of God' resonates with oaths by 'him who lives forever'; faint, the enduring/living quality is better anchored in the Isaiah 40 citation that follows.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 40:6-8",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "The voice of one saying, “Cry!” One said, “What shall I cry?” “All flesh is like grass, and all its glory is like the flower of the field. The grass withers, the flower fades, because Yahweh’s breath blows on it. Surely the people are like grass. The grass withers, the flower fades; but the word of our God stands forever.”",
+          "note": "Verbatim, formula-introduced citation ('For, All flesh is like grass... the grass withers, the flower falls, but the word of the Lord endures forever'). Peter quotes the LXX of Isaiah 40:6-8 to ground the imperishable seed/word; highest volume. Isaiah's word-of-comfort frames the whole exile-and-restoration ecclesiology of the letter."
+        },
+        {
+          "source": "Psalm 103:15-16",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "As for man, his days are like grass. As a flower of the field, so he flourishes. For the wind passes over it, and it is gone. Its place remembers it no more.",
+          "note": "'As for man, his days are like grass; he flourishes like a flower of the field; the wind passes over it and it is gone' is a parallel grass/flower-frailty topos reinforcing the Isaiah 40 quotation. Moderate volume; same withering-flower imagery.",
+          "altSource": "Job 14:2"
+        },
+        {
+          "source": "Isaiah 51:12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“I, even I, am he who comforts you: who are you, that you are afraid of man who shall die, and of the son of man who shall be made as grass;",
+          "note": "'Why are you afraid of mortal man... who fades like grass?' is a nearby Isaian grass-frailty saying within the same comfort-of-Zion section, supporting the Isaiah 40 recurrence. Low distinctiveness on its own.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 90:5-6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You sweep them away as they sleep. In the morning they sprout like new grass. In the morning it sprouts and springs up. By evening, it is withered and dry.",
+          "note": "Humanity 'like grass that is renewed in the morning... in the evening it fades and withers' is another grass-mortality witness underlining the perishable-vs-enduring contrast of 1:23-25. Faint, thematic.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "ch": 2,
+      "ref": "2:1-3",
+      "text": "Putting away therefore all wickedness, all deceit, hypocrisies, envies, and all evil speaking, as newborn babies, long for the pure milk of the Word, that with it you may grow, if indeed you have tasted that the Lord is gracious:",
+      "echoes": [
+        {
+          "source": "Psalm 34:8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Oh taste and see that Yahweh is good. Blessed is the man who takes refuge in him.",
+          "note": "\"if indeed you have tasted that the Lord is gracious\" (2:3) closely reworks Psalm 34:8 LXX (33:9), \"taste and see that the Lord is good (chrēstos).\" The verb 'tasted' plus the divine predicate is a strong verbal borrowing; the wordplay chrēstos/Christos prepares the turn to the living stone. Psalm 34 recurs across 1 Peter (cf. 3:10-12 quoting Ps 34:12-16), raising recurrence and volume."
+        },
+        {
+          "source": "Isaiah 40:6-8",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The voice of one saying, “Cry!” One said, “What shall I cry?” “All flesh is like grass, and all its glory is like the flower of the field. The grass withers, the flower fades, because Yahweh’s breath blows on it. Surely the people are like grass. The grass withers, the flower fades; but the word of our God stands forever.”",
+          "note": "\"long for the pure milk of the Word\" (2:2) picks up the 'word' (logos/rhēma) by which the readers were reborn (1:23-25, where Isa 40:6-8 is just quoted); the abiding word of God is the nourishment metaphor here, an echo carried over from the immediately preceding citation.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "ch": 2,
+      "ref": "2:4-10",
+      "text": "coming to him, a living stone, rejected indeed by men, but chosen by God, precious. You also, as living stones, are built up as a spiritual house, to be a holy priesthood, to offer up spiritual sacrifices, acceptable to God through Jesus Christ. Because it is contained in Scripture, “Behold, I lay in Zion a chief cornerstone, chosen, and precious: He who believes in him will not be disappointed.” For you who believe therefore is the honor, but for those who are disobedient, “The stone which the builders rejected, has become the chief cornerstone,” and, “a stone of stumbling, and a rock of offense.” For they stumble at the word, being disobedient, to which also they were appointed. But you are a chosen race, a royal priesthood, a holy nation, a people for God’s own possession, that you may proclaim the excellence of him who called you out of darkness into his marvelous light: who in time past were no people, but now are God’s people, who had not obtained mercy, but now have obtained mercy.",
+      "echoes": [
+        {
+          "source": "Isaiah 28:16",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Therefore thus says the Lord Yahweh, “Behold, I lay in Zion for a foundation a stone, a tried stone, a precious cornerstone of a sure foundation. He who believes shall not act hastily.",
+          "note": "\"Behold, I lay in Zion a chief cornerstone, chosen, and precious: He who believes in him will not be disappointed\" (2:6) is a formula-introduced citation (\"it is contained in Scripture\") of Isaiah 28:16 LXX. Verbatim: tithēmi en Siōn lithon... eklekton entimon, and the believer not being put to shame. The keywords 'chosen/precious' also reach back to v.4-5 ('chosen by God, precious')."
+        },
+        {
+          "source": "Psalm 118:22",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "The stone which the builders rejected has become the head of the corner.",
+          "note": "\"The stone which the builders rejected, has become the chief cornerstone\" (2:7) is a verbatim quotation of Psalm 118:22 LXX (117:22). Part of the stacked stone-testimonia catena; the same text is a primary early-Christian Christological proof (cf. Mark 12:10; Acts 4:11). 'Rejected'/'builders' ties to the rejection theme of v.4."
+        },
+        {
+          "source": "Isaiah 8:14",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "He will be a sanctuary, but for both houses of Israel, he will be a trap and a snare for the inhabitants of Jerusalem.",
+          "note": "\"a stone of stumbling, and a rock of offense\" (2:8) quotes Isaiah 8:14, lithos proskommatos kai petra skandalou. Third member of the stone catena, applied to the disobedient who stumble at the word; combined here (as in Rom 9:33) with Isa 28:16."
+        },
+        {
+          "source": "Exodus 19:6",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "and you shall be to me a kingdom of priests, and a holy nation.’ These are the words which you shall speak to the children of Israel.”",
+          "note": "\"a royal priesthood... a holy nation\" (2:9) draws directly on Exodus 19:6 LXX, basileion hierateuma kai ethnos hagion, the Sinai vocation of Israel now applied to the church. High volume; the priesthood theme also undergirds v.5 ('holy priesthood... spiritual sacrifices')."
+        },
+        {
+          "source": "Isaiah 43:20-21",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "The animals of the field shall honor me, the jackals and the ostriches; because I give water in the wilderness and rivers in the desert, to give drink to my people, my chosen, the people which I formed for myself, that they might declare my praise.",
+          "note": "\"a chosen race... a people for God's own possession, that you may proclaim the excellence of him\" (2:9) is woven from Isaiah 43:20-21 LXX, 'my chosen race (genos eklekton)... my people whom I preserved to declare my excellencies (aretas).' The distinctive phrase 'proclaim the excellencies/aretas' is verbatim from Isa 43:21 and not from Exod 19, marking this as a separate source fused into the title-collage."
+        },
+        {
+          "source": "Exodus 19:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Now therefore, if you will indeed obey my voice, and keep my covenant, then you shall be my own possession from among all peoples; for all the earth is mine;",
+          "note": "\"a people for God's own possession\" (2:9) renders laos eis peripoiēsin, echoing the 'peculiar treasure/possession' (laos periousios / segullah) of Exodus 19:5; reinforces the Sinai covenant frame alongside Exod 19:6, and resonant with Mal 3:17 / Isa 43:21.",
+          "contested": true
+        },
+        {
+          "source": "Hosea 2:23",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "I will sow her to me in the earth; and I will have mercy on her who had not obtained mercy; and I will tell those who were not my people, ‘You are my people;’ and they will say, ‘My God!’”",
+          "note": "\"who in time past were no people, but now are God's people, who had not obtained mercy, but now have obtained mercy\" (2:10) reworks Hosea 2:23 (LXX 2:25), 'I will say to Not-my-people, You are my people' and 'I will have mercy on Not-pitied.' The double not-people/people and not-mercy/mercy antithesis is the signature of Hosea, also taken up in Rom 9:25."
+        },
+        {
+          "source": "Hosea 1:9-10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He said, “Call his name Lo-Ammi; for you are not my people, and I will not be yours. Yet the number of the children of Israel will be as the sand of the sea, which can’t be measured nor numbered; and it will come to pass that, in the place where it was said to them, ‘You are not my people,’ they will be called ‘sons of the living God.’",
+          "note": "\"were no people, but now are God's people\" (2:10) also draws on Hosea 1:9-10, the naming of Lo-ammi ('not my people') and the reversal 'you are sons of the living God.' Companion source to Hos 2:23 supplying the 'not a people' title; high recurrence within the Hosea reversal oracle."
+        },
+        {
+          "source": "Isaiah 8:14",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "He will be a sanctuary, but for both houses of Israel, he will be a trap and a snare for the inhabitants of Jerusalem.",
+          "note": "\"coming to him, a living stone, rejected indeed by men, but chosen by God\" (2:4) anticipates and conditions the catena: the 'rejected by men / chosen by God' contrast frames the stone testimonia of vv.6-8 and the figural identification of Christ as the temple cornerstone before any is formally cited.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 28:16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Therefore thus says the Lord Yahweh, “Behold, I lay in Zion for a foundation a stone, a tried stone, a precious cornerstone of a sure foundation. He who believes shall not act hastily.",
+          "note": "\"chosen by God, precious\" (2:4) pre-echoes Isaiah 28:16's eklekton entimon ('chosen and precious'), the very words cited in v.6; Peter introduces the catena's keywords narratively before quoting, a deliberate framing device."
+        },
+        {
+          "source": "Psalm 118:22",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The stone which the builders rejected has become the head of the corner.",
+          "note": "\"rejected indeed by men\" (2:4) anticipates 'the stone which the builders rejected' of Ps 118:22 (v.7); apodedokimasmenon shares the rejection motif, weaving the psalm into the opening description of Christ as living stone.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 28:16",
+          "type": "figural",
+          "confidence": "high",
+          "text": "Therefore thus says the Lord Yahweh, “Behold, I lay in Zion for a foundation a stone, a tried stone, a precious cornerstone of a sure foundation. He who believes shall not act hastily.",
+          "note": "\"as living stones, are built up as a spiritual house, to be a holy priesthood, to offer up spiritual sacrifices\" (2:5) is a typological reading of the Zion-stone oracle: believers become the new temple founded on Christ the cornerstone, a priesthood offering spiritual (not Levitical) sacrifices. The figural new-temple/new-Israel construal organizes the whole pericope."
+        },
+        {
+          "source": "Psalm 118:22",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The stone which the builders rejected has become the head of the corner.",
+          "note": "\"For you who believe therefore is the honor\" (2:7) plays on Isa 28:16's 'precious/honor' (entimon/timē) as the antithesis to the builders' rejection of Ps 118:22, binding the two quotations into a single believe/disbelieve contrast.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "ch": 2,
+      "ref": "2:11-12",
+      "text": "Beloved, I beg you as foreigners and pilgrims, to abstain from fleshly lusts, which war against the soul; having good behavior among the nations, so in that of which they speak against you as evildoers, they may by your good works, which they see, glorify God in the day of visitation.",
+      "echoes": [
+        {
+          "source": "Genesis 23:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“I am a stranger and a foreigner living with you. Give me a possession of a burying-place with you, that I may bury my dead out of my sight.”",
+          "note": "\"I beg you as foreigners and pilgrims\" (2:11) echoes the sojourner self-designation paroikos kai parepidēmos of Genesis 23:4 LXX (Abraham), also Psalm 39:12 (LXX 38:13). Reinforces the letter's elect-exile theme (1:1, 1:17); the patriarchal alien status is figurally applied to the diaspora church.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 39:12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Hear my prayer, Yahweh, and give ear to my cry. Don’t be silent at my tears. For I am a stranger with you, a foreigner, as all my fathers were.",
+          "note": "\"foreigners and pilgrims\" (2:11) also recalls Psalm 39:12 (LXX 38:13), 'I am a sojourner (paroikos) with you and a pilgrim (parepidēmos), as all my fathers were' — the precise LXX pairing of both nouns, supplying the alien-on-earth posture.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 10:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "What will you do in the day of visitation, and in the desolation which will come from afar? To whom will you flee for help? Where will you leave your wealth?",
+          "note": "\"they may by your good works... glorify God in the day of visitation\" (2:12) uses 'day of visitation' (hēmera episkopēs), the LXX phrase of Isaiah 10:3 ('what will you do in the day of visitation?'); the Gentiles' eventual glorifying of God when God visits frames the eschatological reckoning behind honorable conduct.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 52:5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“Now therefore, what do I do here,” says Yahweh, “seeing that my people are taken away for nothing? Those who rule over them mock,” says Yahweh, “and my name continually all the day is blasphemed.",
+          "note": "\"having good behavior among the nations, so in that of which they speak against you\" (2:12) inverts Isaiah 52:5 LXX, 'my name is continually blasphemed among the nations (ethnesin)' — where Israel's conduct caused God's name to be reviled, the church's good works among the nations cause it to be glorified.",
+          "contested": true
+        },
+        {
+          "source": "Ezekiel 36:23",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will sanctify my great name, which has been profaned among the nations, which you have profaned in their midst; and the nations shall know that I am Yahweh, says the Lord Yahweh, when I shall be sanctified in you before their eyes.",
+          "note": "\"glorify God\" through the witness of conduct 'among the nations' (2:12) resonates with Ezekiel 36:23, God sanctifying his name profaned among the nations so that the nations know him; a faint thematic parallel to the vindication-of-the-name motif.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.4",
+      "ch": 2,
+      "ref": "2:13-17",
+      "text": "Therefore subject yourselves to every ordinance of man for the Lord’s sake: whether to the king, as supreme; or to governors, as sent by him for vengeance on evildoers and for praise to those who do well. For this is the will of God, that by well-doing you should put to silence the ignorance of foolish men: as free, and not using your freedom for a cloak of wickedness, but as bondservants of God. Honor all men. Love the brotherhood. Fear God. Honor the king.",
+      "echoes": [
+        {
+          "source": "Proverbs 24:21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "My son, fear Yahweh and the king. Don’t join those who are rebellious:",
+          "note": "\"Fear God. Honor the king\" (2:17) closely mirrors Proverbs 24:21 LXX, 'Fear God, my son, and the king (phobou ton theon... kai basilea)' — the paired imperatives toward God and king are a near-verbatim wisdom borrowing structuring the closing quatrain."
+        },
+        {
+          "source": "Ecclesiastes 8:2-5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I say, “Keep the king’s command!” because of the oath to God. Don’t be hasty to go out of his presence. Don’t persist in an evil thing, for he does whatever pleases him, for the king’s word is supreme. Who can say to him, “What are you doing?” Whoever keeps the commandment shall not come to harm, and his wise heart will know the time and procedure.",
+          "note": "Submission 'to the king as supreme' and to governors (2:13-14) reflects the wisdom counsel to keep the king's command (Eccl 8:2-5); a faint thematic backdrop to honoring civil authority.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.5",
+      "ch": 2,
+      "ref": "2:18-25",
+      "text": "Servants, be in subjection to your masters with all fear; not only to the good and gentle, but also to the wicked. For it is commendable if someone endures pain, suffering unjustly, because of conscience toward God. For what glory is it if, when you sin, you patiently endure beating? But if, when you do well, you patiently endure suffering, this is commendable with God. For to this you were called, because Christ also suffered for us, leaving you an example, that you should follow his steps, who did not sin, “neither was deceit found in his mouth.” Who, when he was cursed, didn’t curse back. When he suffered, didn’t threaten, but committed himself to him who judges righteously; who his own self bore our sins in his body on the tree, that we, having died to sins, might live to righteousness; by whose stripes you were healed. For you were going astray like sheep; but now have returned to the Shepherd and Overseer of your souls.",
+      "echoes": [
+        {
+          "source": "Isaiah 53:9",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "They made his grave with the wicked, and with a rich man in his death; although he had done no violence, neither was any deceit in his mouth.",
+          "note": "\"who did not sin, 'neither was deceit found in his mouth'\" (2:22) quotes Isaiah 53:9 LXX, 'he did no lawlessness, nor was deceit (dolos) found in his mouth.' Verbatim citation of the Servant; anchors the Christ-as-suffering-Servant exemplum."
+        },
+        {
+          "source": "Isaiah 53:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He was oppressed, yet when he was afflicted he didn’t open his mouth. As a lamb that is led to the slaughter, and as a sheep that before its shearers is mute, so he didn’t open his mouth.",
+          "note": "\"when he was cursed, didn't curse back. When he suffered, didn't threaten\" (2:23) interprets Isaiah 53:7, 'he was afflicted yet opened not his mouth; like a lamb led to slaughter... he opens not his mouth.' The Servant's silent non-retaliation is the model for unjustly suffering servants."
+        },
+        {
+          "source": "Isaiah 53:4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Surely he has borne our sickness, and carried our suffering; yet we considered him plagued, struck by God, and afflicted.",
+          "note": "\"who his own self bore our sins in his body on the tree\" (2:24) draws on Isaiah 53:4 LXX, 'he bears our sins (houtos tas hamartias hēmōn pherei),' fused with 53:12. The vicarious sin-bearing is the theological core of the Servant application."
+        },
+        {
+          "source": "Isaiah 53:12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Therefore will I divide him a portion with the great, and he shall divide the plunder with the strong; because he poured out his soul to death, and was numbered with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.",
+          "note": "\"bore our sins in his body\" (2:24) also reflects Isaiah 53:12, 'he bore the sins of many (autos hamartias pollōn anēnegken)' — the verb anapherō ('bore/bore up') matches 53:12 LXX, making this a distinct source-clause alongside 53:4."
+        },
+        {
+          "source": "Isaiah 53:5",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "But he was pierced for our transgressions. He was crushed for our iniquities. The punishment that brought our peace was on him; and by his wounds we are healed.",
+          "note": "\"by whose stripes you were healed\" (2:24) is a near-verbatim citation of Isaiah 53:5 LXX, 'by his bruise (tō mōlōpi autou) we were healed.' Distinctive rare word mōlōps marks high volume."
+        },
+        {
+          "source": "Isaiah 53:6",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "All we like sheep have gone astray. Everyone has turned to his own way; and Yahweh has laid on him the iniquity of us all.",
+          "note": "\"For you were going astray like sheep; but now have returned\" (2:25) reworks Isaiah 53:6 LXX, 'all we like sheep have gone astray (planēthēmen).' The verb 'gone astray' + 'sheep' is verbatim from the Servant song; the 'returned' supplies the gospel reversal."
+        },
+        {
+          "source": "Ezekiel 34:11-16",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For thus says the Lord Yahweh: Behold, I myself, even I, will search for my sheep, and will seek them out. As a shepherd seeks out his flock in the day that he is among his sheep that are scattered abroad, so will I seek out my sheep; and I will deliver them out of all places where they have been scattered in the cloudy and dark day. I will bring them out from the peoples, and gather them from the countries, and will bring them into their own land; and I […]",
+          "note": "\"returned to the Shepherd and Overseer of your souls\" (2:25) draws on the divine-shepherd oracle of Ezekiel 34, where God himself seeks and gathers the scattered sheep; the straying-sheep/returning-to-shepherd movement of Isa 53:6 is completed with Ezekiel's restoring shepherd imagery."
+        },
+        {
+          "source": "Psalm 23:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh is my shepherd: I shall lack nothing.",
+          "note": "\"the Shepherd... of your souls\" (2:25) faintly recalls the Lord-as-shepherd of Psalm 23:1; a thematic resonance of God's pastoral care behind the title applied to Christ.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 53:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "After the suffering of his soul, he will see the light and be satisfied. My righteous servant will justify many by the knowledge of himself; and he will bear their iniquities.",
+          "note": "\"that we, having died to sins, might live to righteousness\" (2:24) resonates with Isaiah 53:11, the Servant who 'makes many righteous (dikaiōsai dikaion)'; the righteousness outcome of sin-bearing parallels the Servant's justifying work.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 53:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He was despised, and rejected by men; a man of suffering, and acquainted with disease. He was despised as one from whom men hide their face; and we didn’t respect him.",
+          "note": "The pattern of patient unjust suffering held up as example (2:19-21) reflects the despised-and-rejected Servant of Isaiah 53:3, conditioning the whole exemplum before the formal citations begin.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.1",
+      "ch": 3,
+      "ref": "3:1-7",
+      "text": "In the same way, wives, be in subjection to your own husbands; so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word; seeing your pure behavior in fear. Let your beauty be not just the outward adorning of braiding the hair, and of wearing jewels of gold, or of putting on fine clothing; but in the hidden person of the heart, in the incorruptible adornment of a gentle and quiet spirit, which is in the sight of God very precious. For this is how the holy women before, who hoped in God also adorned themselves, being in subjection to their own husbands: as Sarah obeyed Abraham, calling him lord, whose children you now are, if you do well, and are not put in fear by any terror. You husbands, in the same way, live with your wives according to knowledge, giving honor to the woman, as to the weaker vessel, as being also joint heirs of the grace of life; that your prayers may not be hindered.",
+      "echoes": [
+        {
+          "source": "Genesis 18:12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Sarah laughed within herself, saying, “After I have grown old will I have pleasure, my lord being old also?”",
+          "note": "Sarah's submission and her calling Abraham 'lord' (kyrios in LXX) is the explicit verbal anchor for 3:6 'as Sarah obeyed Abraham, calling him lord.' In Genesis 18:12 Sarah laughs and says 'after I am grown old shall I have pleasure, my lord (kyrios) being old also.' Peter borrows the LXX address-title 'kyrios' as the proof-text for the submissive yet honored wife."
+        },
+        {
+          "source": "Genesis 12:1-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Now Yahweh said to Abram, “Get out of your country, and from your relatives, and from your father’s house, to the land that I will show you. I will make of you a great nation. I will bless you and make your name great. You will be a blessing. I will bless those who bless you, and I will curse him who curses you. All of the families of the earth will be blessed in you.”",
+          "note": "'Whose children you now are' (3:6) extends the Abrahamic-promise logic: Gentile believing wives become daughters of Sarah/children of the Abrahamic covenant, echoing the promise that Abraham would father a people. Faint and dependent on the Sarah link.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 21:6-7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Sarah said, “God has made me laugh. Everyone who hears will laugh with me.” She said, “Who would have said to Abraham, that Sarah would nurse children? For I have borne him a son in his old age.”",
+          "note": "Sarah as the matriarch who 'hoped in God' and bore Isaac in old age informs the portrait of 'the holy women before who hoped in God' (3:5). Thematic, not verbal.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 31:30",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Charm is deceitful, and beauty is vain; but a woman who fears Yahweh, she shall be praised.",
+          "note": "'Charm is deceitful and beauty is vain, but a woman who fears the LORD is to be praised' undergirds the contrast in 3:3-4 between outward adornment (braided hair, gold, fine clothing) and the inner adornment of 'a gentle and quiet spirit' fearing God. Strong thematic coherence with the Proverbs ideal of the praiseworthy woman.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 3:18-24",
+          "type": "echo",
+          "confidence": "low",
+          "text": "In that day the Lord will take away the beauty of their anklets, the headbands, the crescent necklaces, the earrings, the bracelets, the veils, the headdresses, the ankle chains, the sashes, the perfume bottles, the charms, the signet rings, the nose rings, the fine robes, the capes, the cloaks, the purses, the hand mirrors, the fine linen garments, the tiaras, and the shawls. It shall happen that instead of sweet spices, there shall be rottenness; […]",
+          "note": "Isaiah's catalogue of women's outward finery — braided/ornamental hair, jewelry, fine garments — that God will strip away may color Peter's list of external adornments in 3:3. Faint, list-of-finery parallel.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 1:27",
+          "type": "echo",
+          "confidence": "low",
+          "text": "God created man in his own image. In God’s image he created him; male and female he created them.",
+          "note": "'Joint heirs of the grace of life' (3:7), with husband and wife as co-heirs, faintly echoes the equal-dignity creation of male and female in the image of God. Disputed and thematic only.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.2",
+      "ch": 3,
+      "ref": "3:8-12",
+      "text": "Finally, be all like-minded, compassionate, loving as brothers, tender hearted, courteous, not rendering evil for evil, or insult for insult; but instead blessing; knowing that to this were you called, that you may inherit a blessing. For, “He who would love life, and see good days, let him keep his tongue from evil, and his lips from speaking deceit. Let him turn away from evil, and do good. Let him seek peace, and pursue it. For the eyes of the Lord are on the righteous, and his ears open to their prayer; but the face of the Lord is against those who do evil.”",
+      "echoes": [
+        {
+          "source": "Psalm 34:12-16",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Who is someone who desires life, and loves many days, that he may see good? Keep your tongue from evil, and your lips from speaking lies. Depart from evil, and do good. seek peace, and pursue it. Yahweh’s eyes are toward the righteous. His ears listen to their cry. Yahweh’s face is against those who do evil, to cut off their memory from the earth.",
+          "note": "The longest OT quotation in 1 Peter (3:10-12) reproduces Psalm 34:12-16 (LXX 33:13-17) nearly verbatim: 'He who would love life and see good days, let him keep his tongue from evil... let him turn away from evil and do good, let him seek peace and pursue it. For the eyes of the Lord are on the righteous and his ears open to their prayer, but the face of the Lord is against those who do evil.' Psalm 34 saturates 1 Peter (cf. 2:3 'you have tasted that the Lord is good' = Ps 34:8); Peter mines it as a charter for the righteous-suffering community. Formal quotation, no introductory formula but verbatim citation."
+        },
+        {
+          "source": "Proverbs 17:13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Whoever rewards evil for good, evil shall not depart from his house.",
+          "note": "'Whoever returns evil for good, evil will not depart from his house' lies behind 3:9 'not rendering evil for evil.' The non-retaliation ethic of repaying evil with blessing draws on the wisdom prohibition of returning evil."
+        },
+        {
+          "source": "Proverbs 20:22",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Don’t say, “I will pay back evil.” Wait for Yahweh, and he will save you.",
+          "note": "'Do not say, I will repay evil; wait for the LORD and he will deliver you' directly grounds the non-retaliation command of 3:9 ('not rendering evil for evil... but instead blessing'), entrusting vindication to God rather than self."
+        },
+        {
+          "source": "Leviticus 19:18",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "'You shall not take vengeance or bear a grudge... but love your neighbor as yourself' underlies the cluster of 3:8-9 — brotherly love, tender-heartedness, and refusal to retaliate. The love-command tradition stands behind the communal virtue list.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 12:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will bless those who bless you, and I will curse him who curses you. All of the families of the earth will be blessed in you.”",
+          "note": "'That you may inherit a blessing' (3:9) sounds the Abrahamic blessing-inheritance theme — those who bless rather than curse inherit the promised blessing. Faint, thematic.",
+          "contested": true
+        },
+        {
+          "source": "Zechariah 8:16-17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "These are the things that you shall do: speak every man the truth with his neighbor. Execute the judgment of truth and peace in your gates, and let none of you devise evil in your hearts against his neighbor, and love no false oath: for all these are things that I hate,” says Yahweh.",
+          "note": "'Speak the truth to one another... do not devise evil in your hearts... love no false oath' parallels the call to keep the tongue from evil and lips from deceit (3:10) and to seek peace (3:11). Faint, may be mediated through Psalm 34.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.3",
+      "ch": 3,
+      "ref": "3:13-17",
+      "text": "Now who is he who will harm you, if you become imitators of that which is good? But even if you should suffer for righteousness’ sake, you are blessed. “Don’t fear what they fear, neither be troubled.” But sanctify the Lord God in your hearts; and always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you, with humility and fear: having a good conscience; that, while you are spoken against as evildoers, they may be disappointed who curse your good way of life in Christ. For it is better, if it is God’s will, that you suffer for doing well than for doing evil.",
+      "echoes": [
+        {
+          "source": "Isaiah 8:12-13",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "“Don’t say, ‘A conspiracy!’ concerning all about which this people say, ‘A conspiracy!’ neither fear their threats, nor be terrorized. Yahweh of Armies is who you must respect as holy. He is the one you must fear. He is the one you must dread.",
+          "note": "1 Peter 3:14-15 quotes Isaiah 8:12-13: 'Do not fear what they fear, neither be troubled (Isa 8:12), but sanctify the LORD of hosts (Isa 8:13)' — Peter christologizes it to 'sanctify the Lord [Christ] God in your hearts.' The Isaianic 'do not fear, do not be in dread, but the LORD of hosts him you shall regard as holy' becomes the charter for fearless witness under hostility. Formal quotation woven into the exhortation."
+        },
+        {
+          "source": "Isaiah 8:14-15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He will be a sanctuary, but for both houses of Israel, he will be a trap and a snare for the inhabitants of Jerusalem. Many will stumble over it, fall, be broken, be snared, and be captured.”",
+          "note": "The immediately following Isaianic 'stone of stumbling and rock of offense' (echoed in 1 Pet 2:8) suggests Peter has the whole Isaiah 8 context in view; the suffering-righteous who fear God not man inhabit that sanctuary-vs-stumbling frame. Contextual echo.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 34:14",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Depart from evil, and do good. seek peace, and pursue it.",
+          "note": "'Be zealous for / imitators of that which is good' and 'suffer for righteousness' sake' (3:13-14) continue the Psalm 34 program just quoted ('depart from evil and do good'); the do-good ethic flows directly out of the citation, a recurrence binding the pericopes.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 50:7-9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For the Lord Yahweh will help me; therefore I have not been confounded: therefore have I set my face like a flint, and I know that I shall not be disappointed. He is near who justifies me; who will bring charges against me? Let us stand up together: who is my adversary? Let him come near to me. Behold, the Lord Yahweh will help me; who is he who shall condemn me? Behold, all they shall wax old as a garment, the moth shall eat them up.",
+          "note": "The Servant's confident 'the Lord GOD helps me... who will declare me guilty?' parallels 3:13 'who is he who will harm you, if you become imitators of that which is good?' — vindication of the righteous sufferer. Faint, thematic.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.4",
+      "ch": 3,
+      "ref": "3:18-22",
+      "text": "Because Christ also suffered for sins once, the righteous for the unrighteous, that he might bring you to God; being put to death in the flesh, but made alive in the spirit; in which he also went and preached to the spirits in prison, who before were disobedient, when God waited patiently in the days of Noah, while the ship was being built. In it, few, that is, eight souls, were saved through water. This is a symbol of baptism, which now saves you—not the putting away of the filth of the flesh, but the answer of a good conscience toward God, through the resurrection of Jesus Christ, who is at the right hand of God, having gone into heaven, angels and authorities and powers being made subject to him.",
+      "echoes": [
+        {
+          "source": "Genesis 6:1-8",
+          "type": "figural",
+          "confidence": "high",
+          "text": "When men began to multiply on the surface of the ground, and daughters were born to them, God’s sons saw that men’s daughters were beautiful, and they took any that they wanted for themselves as wives. Yahweh said, “My Spirit will not strive with man forever, because he also is flesh; so his days will be one hundred twenty years.” The Nephilim were in the earth in those days, and also after that, when God’s sons came in to men’s daughters and had children […]",
+          "note": "The flood narrative is invoked typologically: 'the days of Noah while the ship was being built' (3:20). Peter reads the wickedness and judgment of the antediluvian world (Gen 6) as the backdrop against which the ark/baptism deliverance is the antitype (antitypos, 3:21). The flood's saving-through-water becomes the type fulfilled in baptism — explicitly figural."
+        },
+        {
+          "source": "Genesis 7:1-24",
+          "type": "figural",
+          "confidence": "high",
+          "text": "Yahweh said to Noah, “Come with all of your household into the ship, for I have seen your righteousness before me in this generation. You shall take seven pairs of every clean animal with you, the male and his female. Of the animals that are not clean, take two, the male and his female. Also of the birds of the sky, seven and seven, male and female, to keep seed alive on the surface of all the earth. In seven days, I will cause it to rain on the earth for […]",
+          "note": "'Few, that is, eight souls, were saved through water' (3:20) cites the ark deliverance of Genesis 7 (Noah, his wife, three sons and their wives = eight). The salvation 'through water' is the explicit antitype of baptism in 3:21 — the flood-water that destroyed the disobedient world saves the elect remnant in the ark. Typological/figural reading of the flood as baptism."
+        },
+        {
+          "source": "Genesis 8:1-22",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth. The waters subsided. The deep’s fountains and the sky’s windows were also stopped, and the rain from the sky was restrained. The waters continually receded from the earth. After the end of one hundred fifty days the waters decreased. The ship rested in the seventh month, on the seventeenth day of the month, on Ararat’s […]",
+          "note": "God's 'waiting patiently in the days of Noah' (3:20) reflects the long patience while the ark was built and the flood receded (Gen 8); the divine forbearance toward the disobedient generation undergirds the patience motif. Recurrence within the Noah cycle."
+        },
+        {
+          "source": "Genesis 6:3",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh said, “My Spirit will not strive with man forever, because he also is flesh; so his days will be one hundred twenty years.”",
+          "note": "'My Spirit shall not abide in man forever... his days shall be 120 years' — the limited span of divine patience before the flood — directly informs '(God) waited patiently in the days of Noah' (3:20), the period of forbearance before judgment.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 6:11-13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The earth was corrupt before God, and the earth was filled with violence. God saw the earth, and saw that it was corrupt, for all flesh had corrupted their way on the earth. God said to Noah, “I will bring an end to all flesh, for the earth is filled with violence through them. Behold, I will destroy them and the earth.",
+          "note": "The 'disobedient' spirits/generation 'who before were disobedient in the days of Noah' (3:19-20) echo the corruption and violence that filled the earth (Gen 6:11-13). Faint, depends on identifying the 'spirits in prison' with the Noahic generation.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 6:1-4",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "When men began to multiply on the surface of the ground, and daughters were born to them, God’s sons saw that men’s daughters were beautiful, and they took any that they wanted for themselves as wives. Yahweh said, “My Spirit will not strive with man forever, because he also is flesh; so his days will be one hundred twenty years.” The Nephilim were in the earth in those days, and also after that, when God’s sons came in to men’s daughters and had children […]",
+          "note": "The 'sons of God' who transgressed before the flood (Gen 6:1-4) feed the Second-Temple Watchers tradition (1 Enoch) widely thought to lie behind 'the spirits in prison' to whom Christ preached (3:19). Contested: whether the spirits are fallen angels (Watchers) or the human dead of Noah's generation.",
+          "contested": true,
+          "altSource": "1 Enoch 6-16"
+        },
+        {
+          "source": "Isaiah 53:11-12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "After the suffering of his soul, he will see the light and be satisfied. My righteous servant will justify many by the knowledge of himself; and he will bear their iniquities. Therefore will I divide him a portion with the great, and he shall divide the plunder with the strong; because he poured out his soul to death, and was numbered with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.",
+          "note": "'Christ also suffered for sins once, the righteous for the unrighteous' (3:18) draws on the Servant who 'bore the sin of many' and 'the righteous one, my servant, shall make many to be accounted righteous.' The vicarious righteous-for-unrighteous formula extends 1 Peter's sustained use of Isaiah 53 (cf. 2:22-25)."
+        },
+        {
+          "source": "Isaiah 52:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, my servant shall deal wisely, he shall be exalted and lifted up, and shall be very high.",
+          "note": "The Servant who is 'exalted and lifted up' parallels the exaltation of the suffering-then-glorified Christ 'at the right hand of God, having gone into heaven' (3:22). Faint, part of the Isaiah 52-53 Servant arc.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 110:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh says to my Lord, “Sit at my right hand, until I make your enemies your footstool for your feet.”",
+          "note": "'Who is at the right hand of God' (3:22) cites the enthronement formula of Psalm 110:1 'Sit at my right hand until I make your enemies your footstool.' The subjection of 'angels and authorities and powers' to the exalted Christ realizes the footstool-of-enemies motif. The most-cited royal psalm for Christ's exaltation."
+        },
+        {
+          "source": "Psalm 16:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For you will not leave my soul in Sheol, neither will you allow your holy one to see corruption.",
+          "note": "'Put to death in the flesh, but made alive in the spirit' (3:18) and Christ's descent/proclamation faintly echo the Psalm of resurrection hope ('you will not abandon my soul to Sheol'), a text early Christians applied to Christ's vindication from death. Faint, thematic.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 7:13-14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I saw in the night visions, and behold, there came with the clouds of the sky one like a son of man, and he came even to the ancient of days, and they brought him near before him. There was given him dominion, and glory, and a kingdom, that all the peoples, nations, and languages should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.",
+          "note": "The exaltation of the suffering one to heavenly dominion over 'angels and authorities and powers' (3:22) recalls the Son of Man given everlasting dominion and all powers subjected to him. Faint, thematic cosmic-subjection parallel.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.1",
+      "ch": 4,
+      "ref": "4:1-6",
+      "text": "Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind; for he who has suffered in the flesh has ceased from sin; that you no longer should live the rest of your time in the flesh for the lusts of men, but for the will of God. For we have spent enough of our past time doing the desire of the Gentiles, and having walked in lewdness, lusts, drunken binges, orgies, carousings, and abominable idolatries. They think it is strange that you don’t run with them into the same excess of riot, blaspheming: who will give account to him who is ready to judge the living and the dead. For to this end the Good News was preached even to the dead, that they might be judged indeed as men in the flesh, but live as to God in the spirit.",
+      "echoes": [
+        {
+          "source": "Isaiah 53:4-12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Surely he has borne our sickness, and carried our suffering; yet we considered him plagued, struck by God, and afflicted. But he was pierced for our transgressions. He was crushed for our iniquities. The punishment that brought our peace was on him; and by his wounds we are healed. All we like sheep have gone astray. Everyone has turned to his own way; and Yahweh has laid on him the iniquity of us all. He was oppressed, yet when he was afflicted he didn’t […]",
+          "note": "\"Christ suffered for us in the flesh\" (4:1) reprises the Suffering Servant who suffered/bore in his body, the controlling christological frame of 1 Peter (cf. 2:21-25). Sets up the believer's call to share that mindset."
+        },
+        {
+          "source": "Isaiah 59:17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He put on righteousness as a breastplate, and a helmet of salvation on his head; and he put on garments of vengeance for clothing, and was clad with zeal as a mantle.",
+          "note": "\"Arm yourselves\" (hoplisasthe, 4:1) may echo the divine warrior who puts on righteousness/salvation as armor; the military arming metaphor recurs in early Christian paraenesis. Faint and disputed.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom of Solomon 14:22-27",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "The vice catalog of 4:3 (lewdness, drunken binges, orgies, \"abominable idolatries\") follows the Hellenistic-Jewish topos that Gentile idolatry breeds sexual and social corruption, classically developed in Wisdom's indictment of idol-worship. Deuterocanonical.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 18:24-30",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“‘Don’t defile yourselves in any of these things: for in all these the nations which I am casting out before you were defiled. The land was defiled: therefore I punished its iniquity, and the land vomited out her inhabitants. You therefore shall keep my statutes and my ordinances, and shall not do any of these abominations; neither the native-born, nor the stranger who lives as a foreigner among you; (for all these abominations have the men of the land […]",
+          "note": "\"Abominable idolatries\" (4:3) and the catalog of \"desire of the Gentiles\" recall the Holiness Code's warning against the abominations of the nations that defile the land; shared abomination-of-the-Gentiles framing. Thematic, contested.",
+          "contested": true
+        },
+        {
+          "source": "Hosea 4:11-14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Prostitution, wine, and new wine take away understanding. My people consult with their wooden idol, and answer to a stick of wood. Indeed the spirit of prostitution has led them astray, and they have been unfaithful to their God. They sacrifice on the tops of the mountains, and burn incense on the hills, under oaks and poplars and terebinths, because its shade is good. Therefore your daughters play the prostitute, and your brides commit adultery. I will […]",
+          "note": "Drunkenness, whoredom, and idolatry chained together as the religion of the nations parallels the moral logic of the 4:3 vice list. Faint.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 96:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "before Yahweh; for he comes, for he comes to judge the earth. He will judge the world with righteousness, the peoples with his truth.",
+          "note": "God \"ready to judge the living and the dead\" (4:5) draws on the OT confession that the LORD comes to judge the earth/the peoples; cf. Psalm 98:9. Generic judgment-theophany echo.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 18:25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Be it far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn’t the Judge of all the earth do right?”",
+          "note": "\"Him who is ready to judge\" (4:5) reflects the standing title of God as Judge of all the earth who renders account. Faint topical echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.2",
+      "ch": 4,
+      "ref": "4:7-11",
+      "text": "But the end of all things is near. Therefore be of sound mind, self-controlled, and sober in prayer. And above all things be earnest in your love among yourselves, for love covers a multitude of sins. Be hospitable to one another without grumbling. As each has received a gift, employ it in serving one another, as good managers of the grace of God in its various forms. If anyone speaks, let it be as it were the very words of God. If anyone serves, let it be as of the strength which God supplies, that in all things God may be glorified through Jesus Christ, to whom belong the glory and the dominion forever and ever. Amen.",
+      "echoes": [
+        {
+          "source": "Ezekiel 7:2-6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You, son of man, thus says the Lord Yahweh to the land of Israel, An end: the end has come on the four corners of the land. Now is the end on you, and I will send my anger on you, and will judge you according to your ways; and I will bring on you all your abominations. My eye shall not spare you, neither will I have pity; but I will bring your ways on you, and your abominations shall be in your midst: and you shall know that I am Yahweh. Thus says the […]",
+          "note": "\"The end of all things is near\" (4:7) strongly recalls Ezekiel's emphatic oracle, \"An end! The end has come... the end is upon you,\" the prophetic announcement of imminent eschatological judgment. Shared end (telos) language and nearness."
+        },
+        {
+          "source": "Proverbs 10:12",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Hatred stirs up strife, but love covers all wrongs.",
+          "note": "\"Love covers a multitude of sins\" (4:8) verbatim-quotes Proverbs 10:12 (\"love covers all transgressions\"), closer to the Hebrew/proverbial sense than LXX. Foundational maxim of the pericope; cf. James 5:20."
+        },
+        {
+          "source": "Isaiah 58:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Isn’t it to distribute your bread to the hungry, and that you bring the poor who are cast out to your house? When you see the naked, that you cover him; and that you not hide yourself from your own flesh?",
+          "note": "The call to hospitality (4:9) and stewardship of gifts toward one another resonates with the prophetic ideal of sharing bread and shelter with the needy. Thematic, faint.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 17:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He who covers an offense promotes love; but he who repeats a matter separates best friends.",
+          "note": "\"He who covers a transgression seeks love\" offers a near-parallel proverb to 4:8, reinforcing the love-covers-sin tradition; possible secondary source alongside Proverbs 10:12.",
+          "contested": true,
+          "altSource": "Proverbs 10:12"
+        }
+      ]
+    },
+    {
+      "id": "4.3",
+      "ch": 4,
+      "ref": "4:12-19",
+      "text": "Beloved, don’t be astonished at the fiery trial which has come upon you, to test you, as though a strange thing happened to you. But because you are partakers of Christ’s sufferings, rejoice; that at the revelation of his glory you also may rejoice with exceeding joy. If you are insulted for the name of Christ, you are blessed; because the Spirit of glory and of God rests on you. On their part he is blasphemed, but on your part he is glorified. For let none of you suffer as a murderer, or a thief, or an evil doer, or a meddler in other men’s matters. But if one of you suffers for being a Christian, let him not be ashamed; but let him glorify God in this matter. For the time has come for judgment to begin with the household of God. If it begins first with us, what will happen to those who don’t obey the Good News of God? “If it is hard for the righteous to be saved, what will happen to the ungodly and the sinner?” Therefore let them also who suffer according to the will of God in doing good entrust their souls to him, as to a faithful Creator.",
+      "echoes": [
+        {
+          "source": "Proverbs 27:21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The crucible is for silver, and the furnace for gold; but man is refined by his praise.",
+          "note": "The \"fiery trial... to test you\" (4:12) draws on the wisdom/prophetic metaphor of the crucible refining metal as God tests his people; cf. the smelting imagery the verse shares with Proverbs 17:3."
+        },
+        {
+          "source": "Malachi 3:2-3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“But who can endure the day of his coming? And who will stand when he appears? For he is like a refiner’s fire, and like launderer’s soap; and he will sit as a refiner and purifier of silver, and he will purify the sons of Levi, and refine them as gold and silver; and they shall offer to Yahweh offerings in righteousness.",
+          "note": "The refining fire that purifies (4:12) echoes the Lord's coming as a refiner's fire who purges the sons of Levi; this same Malachi context (judgment beginning at the temple) also feeds 4:17."
+        },
+        {
+          "source": "Zechariah 13:9",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I will bring the third part into the fire, and will refine them as silver is refined, and will test them like gold is tested. They will call on my name, and I will hear them. I will say, ‘It is my people;’ and they will say, ‘Yahweh is my God.’”",
+          "note": "\"I will bring the third part through the fire, and will refine them as silver is refined, and try them as gold\" closely parallels the testing-by-fire of God's remnant in 4:12. Strong thematic and verbal coherence."
+        },
+        {
+          "source": "Psalm 66:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For you, God, have tested us. You have refined us, as silver is refined.",
+          "note": "\"You, God, have tested us; you have refined us as silver is refined\" supplies the same trial-as-refining figure behind 4:12. Faint, one of several refining texts.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 11:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The Spirit of Yahweh will rest on him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of Yahweh.",
+          "note": "\"The Spirit of glory and of God rests on you\" (4:14) reworks \"the Spirit of the LORD shall rest upon him\" (the messianic endowment), transferring the resting Spirit from the Messiah to the reproached believer. Verbal \"rests/Spirit\" link."
+        },
+        {
+          "source": "Psalm 89:50-51",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Remember, Lord, the reproach of your servants, how I bear in my heart the taunts of all the mighty peoples, With which your enemies have mocked, Yahweh, with which they have mocked the footsteps of your anointed one.",
+          "note": "Being \"insulted for the name of Christ\" (4:14) evokes the psalmist bearing the reproach of God's servants and of the LORD's anointed; shared reproach-for-the-name motif. Cf. Psalm 69:9.",
+          "contested": true,
+          "altSource": "Psalm 69:9"
+        },
+        {
+          "source": "Ezekiel 9:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "kill utterly the old man, the young man and the virgin, and little children and women; but don’t come near any man on whom is the mark: and begin at my sanctuary. Then they began at the old men that were before the house.",
+          "note": "\"Judgment to begin with the household of God\" (4:17) draws directly on the command to begin the slaughter \"at my sanctuary,\" i.e., judgment commencing with God's own house before the wider world. Core source for the verse's logic."
+        },
+        {
+          "source": "Jeremiah 25:29",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For, behold, I begin to work evil at the city which is called by my name; and should you be utterly unpunished? You shall not be unpunished; for I will call for a sword on all the inhabitants of the earth, says Yahweh of Armies.",
+          "note": "\"I begin to bring evil on the city which is called by my name, and should you go utterly unpunished?\" supplies the a fortiori structure of 4:17 (if it begins with us, what of the disobedient?). Strong conceptual parallel."
+        },
+        {
+          "source": "Malachi 3:1-5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Behold, I send my messenger, and he will prepare the way before me; and the Lord, whom you seek, will suddenly come to his temple; and the messenger of the covenant, whom you desire, behold, he comes!” says Yahweh of Armies. “But who can endure the day of his coming? And who will stand when he appears? For he is like a refiner’s fire, and like launderer’s soap; and he will sit as a refiner and purifier of silver, and he will purify the sons of Levi, and […]",
+          "note": "The Lord suddenly coming to his temple to judge begins purifying judgment at the house of God (4:17), reinforcing Ezekiel 9; the same passage's refining fire underlies 4:12."
+        },
+        {
+          "source": "Amos 3:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“You only have I chosen of all the families of the earth. Therefore I will punish you for all of your sins.”",
+          "note": "\"You only have I known... therefore I will punish you\" expresses the same principle that election intensifies rather than exempts from judgment, undergirding 4:17. Thematic.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 11:31",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Behold, the righteous shall be repaid in the earth; how much more the wicked and the sinner!",
+          "note": "\"If it is hard for the righteous to be saved, what will happen to the ungodly and the sinner?\" (4:18) cites Proverbs 11:31 in its LXX form verbatim (the LXX renders the Hebrew as a saved/scarcely-saved a fortiori). Formula-cited proverb.",
+          "lxxText": "If the righteous scarcely be saved, where shall the ungodly and the sinner appear?"
+        },
+        {
+          "source": "Psalm 31:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Into your hand I commend my spirit. You redeem me, Yahweh, God of truth.",
+          "note": "\"Entrust their souls to him\" (4:19) echoes \"Into your hand I commit my spirit,\" the psalm of committing oneself to God amid suffering (also on Christ's lips, Luke 23:46). Verbal commit-to-God parallel."
+        },
+        {
+          "source": "Isaiah 43:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But now thus says Yahweh who created you, Jacob, and he who formed you, Israel: “Don’t be afraid, for I have redeemed you. I have called you by your name. You are mine.",
+          "note": "\"A faithful Creator\" (4:19) draws on the prophetic confession of God as the faithful Creator and Redeemer of his people who can be trusted in trial. Faint, supports the entrusting-to-Creator theme.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.1",
+      "ch": 5,
+      "ref": "5:1-4",
+      "text": "I exhort the elders among you, as a fellow elder, and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed. Shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily, not for dishonest gain, but willingly; neither as lording it over those entrusted to you, but making yourselves examples to the flock. When the chief Shepherd is revealed, you will receive the crown of glory that doesn’t fade away.",
+      "echoes": [
+        {
+          "source": "Ezekiel 34:1-16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh’s word came to me, saying, Son of man, prophesy against the shepherds of Israel, prophesy, and tell them, even to the shepherds, Thus says the Lord Yahweh: Woe to the shepherds of Israel who feed themselves! Shouldn’t the shepherds feed the sheep? You eat the fat, and you clothe yourself with the wool, you kill the fatlings; but you don’t feed the sheep. You haven’t strengthened the diseased, neither have you healed that which was sick, neither […]",
+          "note": "The command to 'shepherd the flock of God,' with the rebuke of leaders who lord it over and feed themselves rather than the sheep, draws directly on Ezekiel 34's oracle against the shepherds of Israel who fed themselves and ruled harshly, and on God's promise to shepherd his flock himself. The motifs of oversight, not domineering, and the contrast of true vs. self-serving shepherds are densely shared."
+        },
+        {
+          "source": "Jeremiah 23:1-4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Woe to the shepherds who destroy and scatter the sheep of my pasture! says Yahweh. Therefore thus says Yahweh, the God of Israel, against the shepherds who feed my people: You have scattered my flock, and driven them away, and have not visited them; behold, I will visit on you the evil of your doings, says Yahweh. I will gather the remnant of my flock out of all the countries where I have driven them, and will bring them again to their folds; and they […]",
+          "note": "Jeremiah's woe against shepherds who destroy and scatter the sheep, and God's promise to set faithful shepherds over the flock who will tend them, supplies the same prophetic shepherd critique standing behind the charge to elders to tend God's flock rightly."
+        },
+        {
+          "source": "Psalm 23:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh is my shepherd: I shall lack nothing.",
+          "note": "The Lord-as-shepherd image and the flock's care undergird the 'chief Shepherd' designation; the underlying Davidic shepherd theology resonates even if not verbally borrowed.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 40:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "He will feed his flock like a shepherd. He will gather the lambs in his arm, and carry them in his bosom. He will gently lead those who have their young.",
+          "note": "'He will feed his flock like a shepherd, gathering the lambs in his arms' colors the tender-shepherd ideal that the elders are to embody and that the chief Shepherd fulfills."
+        },
+        {
+          "source": "Zechariah 11:4-17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus says Yahweh my God: “Feed the flock of slaughter. Their buyers slaughter them, and go unpunished. Those who sell them say, ‘Blessed be Yahweh, for I am rich;’ and their own shepherds don’t pity them. For I will no more pity the inhabitants of the land,” says Yahweh; “but, behold, I will deliver the men everyone into his neighbor’s hand, and into the hand of his king. They will strike the land, and out of their hand I will not deliver them.” So I fed […]",
+          "note": "The worthless shepherd who does not care for the flock furnishes another prophetic backdrop for the warning against shepherding for dishonest gain rather than the sheep's good.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 27:16-17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Let Yahweh, the God of the spirits of all flesh, appoint a man over the congregation, who may go out before them, and who may come in before them, and who may lead them out, and who may bring them in; that the congregation of Yahweh not be as sheep which have no shepherd.”",
+          "note": "The prayer for a leader so the congregation 'be not as sheep without a shepherd' lies behind the biblical pattern of appointed shepherds over God's people that the elders here continue.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 12:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Those who are wise shall shine as the brightness of the expanse; and those who turn many to righteousness as the stars forever and ever.",
+          "note": "The promise that the wise 'shall shine... like the stars forever' parallels the imperishable 'crown of glory' awarded the faithful shepherds at the chief Shepherd's revealing.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom of Solomon 5:16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "The righteous receiving 'a glorious crown' and 'beautiful diadem' from the Lord's hand parallels the unfading crown of glory, a Second Temple development of the reward motif.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.2",
+      "ch": 5,
+      "ref": "5:5-11",
+      "text": "Likewise, you younger ones, be subject to the elder. Yes, all of you clothe yourselves with humility, to subject yourselves to one another; for “God resists the proud, but gives grace to the humble.” Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time; casting all your worries on him, because he cares for you. Be sober and self-controlled. Be watchful. Your adversary, the devil, walks around like a roaring lion, seeking whom he may devour. Withstand him steadfast in your faith, knowing that your brothers who are in the world are undergoing the same sufferings. But may the God of all grace, who called you to his eternal glory by Christ Jesus, after you have suffered a little while, perfect, establish, strengthen, and settle you. To him be the glory and the power forever and ever. Amen.",
+      "echoes": [
+        {
+          "source": "Proverbs 3:34",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Surely he mocks the mockers, but he gives grace to the humble.",
+          "note": "'God resists the proud, but gives grace to the humble' is a near-verbatim citation of Proverbs 3:34 LXX (which reads 'God' for MT 'he'/'the Lord'), introduced with proverbial authority; the same LXX form is quoted at James 4:6.",
+          "lxxText": "The Lord resists the proud; but he gives grace to the humble."
+        },
+        {
+          "source": "Job 22:29",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "When they cast down, you shall say, ‘be lifted up.’ He will save the humble person.",
+          "note": "'When they are cast down... the humble person he saves' (LXX: God 'will save the one of lowly eyes') feeds the humility-then-exaltation logic of 'humble yourselves... that he may exalt you.'",
+          "contested": true
+        },
+        {
+          "source": "Exodus 3:19-20",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I know that the king of Egypt won’t give you permission to go, no, not by a mighty hand. I will reach out my hand and strike Egypt with all my wonders which I will do in its midst, and after that he will let you go.",
+          "note": "'The mighty hand of God' is the fixed exodus idiom for God's powerful, delivering action (the 'mighty hand' that brought Israel out of Egypt); here it frames the suffering exiles' submission under and rescue by that same hand."
+        },
+        {
+          "source": "Deuteronomy 4:34",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Or has God tried to go and take a nation for himself from the midst of another nation, by trials, by signs, by wonders, by war, by a mighty hand, by an outstretched arm, and by great terrors, according to all that Yahweh your God did for you in Egypt before your eyes?",
+          "note": "The recurrent Deuteronomic formula of God acting 'by a mighty hand and an outstretched arm' establishes 'the mighty hand of God' as a deliverance idiom underlying 5:6."
+        },
+        {
+          "source": "Ezekiel 20:34",
+          "type": "echo",
+          "confidence": "low",
+          "text": "and I will bring you out from the peoples, and will gather you out of the countries in which you are scattered, with a mighty hand, and with an outstretched arm, and with wrath poured out;",
+          "note": "'I will bring you out... with a mighty hand' applies the exodus 'mighty hand' to a restoration-from-exile context, fitting 1 Peter's address to elect exiles under God's hand.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 55:22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Cast your burden on Yahweh, and he will sustain you. He will never allow the righteous to be moved.",
+          "note": "'Casting all your worries on him, because he cares for you' closely renders 'Cast your burden on the Lord, and he will sustain you' (LXX Ps 54:23), the clearest scriptural source for the anxiety-casting exhortation."
+        },
+        {
+          "source": "Psalm 37:5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Commit your way to Yahweh. Trust also in him, and he will do this:",
+          "note": "'Commit your way to the Lord; trust in him, and he will act' offers a parallel trust-and-cast-upon-God motif reinforcing Psalm 55:22 behind 5:7.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 22:13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "They open their mouths wide against me, lions tearing prey and roaring.",
+          "note": "The enemies 'open wide their mouths at me, like a ravening and roaring lion' supplies the 'roaring lion seeking to devour' image for the devil; the suffering-righteous-one context of Psalm 22 fits the persecuted readers."
+        },
+        {
+          "source": "Job 1-2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God, and turned away from evil. There were born to him seven sons and three daughters. His possessions also were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household; so that this man was the greatest of all the children of the east. His sons went and held a feast in the […]",
+          "note": "'The satan' as the accusing adversary who roams the earth (Job 1:7; 2:2) and tests the righteous stands behind 'your adversary, the devil, walks around... seeking whom he may devour,' and behind the call to withstand him steadfast in faith."
+        },
+        {
+          "source": "Proverbs 28:15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As a roaring lion or a charging bear, so is a wicked ruler over helpless people.",
+          "note": "'Like a roaring lion or a charging bear is a wicked ruler over a poor people' contributes the roaring-lion image of a predatory oppressor, apt for the persecuting power the devil energizes.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 7:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "lest they tear apart my soul like a lion, ripping it in pieces, while there is no one to deliver.",
+          "note": "'Lest like a lion they tear my soul apart' adds to the stock of lament psalms portraying the enemy as a devouring lion behind 5:8.",
+          "contested": true
+        },
+        {
+          "source": "Zechariah 3:1-2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He showed me Joshua the high priest standing before Yahweh’s angel, and Satan standing at his right hand to be his adversary. Yahweh said to Satan, “Yahweh rebuke you, Satan! Yes, Yahweh who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”",
+          "note": "Satan standing to accuse the high priest, and the Lord rebuking him, reinforces the adversary/accuser background to the devil whom believers are to resist.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 6:16-24",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Then the king commanded, and they brought Daniel, and cast him into the den of lions. The king spoke and said to Daniel, Your God whom you serve continually, he will deliver you. A stone was brought, and laid on the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that nothing might be changed concerning Daniel. Then the king went to his palace, and passed the night fasting; neither were instruments of music […]",
+          "note": "Daniel's faithful endurance in the lions' den, delivered by God, is a possible typological resonance for steadfastly withstanding the roaring lion amid suffering.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.3",
+      "ch": 5,
+      "ref": "5:12-14",
+      "text": "Through Silvanus, our faithful brother, as I consider him, I have written to you briefly, exhorting, and testifying that this is the true grace of God in which you stand. She who is in Babylon, chosen together with you, greets you; and so does Mark, my son. Greet one another with a kiss of love. Peace be to you all who are in Christ Jesus. Amen.",
+      "echoes": [
+        {
+          "source": "Jeremiah 51:6-8",
+          "type": "figural",
+          "confidence": "medium",
+          "text": "Flee out of the midst of Babylon, and save every man his life; don’t be cut off in her iniquity: for it is the time of Yahweh’s vengeance; he will render to her a recompense. Babylon has been a golden cup in Yahweh’s hand, who made all the earth drunken: the nations have drunk of her wine; therefore the nations are mad. Babylon is suddenly fallen and destroyed: wail for her; take balm for her pain, if so be she may be healed.",
+          "note": "'She who is in Babylon' uses Babylon as a cryptonym for Rome, the imperial power; Jeremiah's oracles against Babylon as the place of exile and judgment supply the typology by which the church in Rome is figured as God's people in 'Babylon.'"
+        },
+        {
+          "source": "Daniel 1-4",
+          "type": "figural",
+          "confidence": "medium",
+          "text": "In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon to Jerusalem, and besieged it. The Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God; and he carried them into the land of Shinar to the house of his god: and he brought the vessels into the treasure house of his god. The king spoke to Ashpenaz the master of his eunuchs, that he should bring in some of the children of […]",
+          "note": "Daniel's depiction of faithful exiles living under Babylon's empire establishes 'Babylon' as the type of the dominating pagan power among whom the elect sojourn, supporting the Babylon=Rome cryptonym."
+        },
+        {
+          "source": "Psalm 137:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "By the rivers of Babylon, there we sat down. Yes, we wept, when we remembered Zion.",
+          "note": "'By the rivers of Babylon... we wept' crystallizes Babylon as the archetypal land of exile, resonating with 1 Peter's framing of its readers as elect exiles greeted from 'Babylon.'"
+        },
+        {
+          "source": "Isaiah 13:1-22",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The burden of Babylon, which Isaiah the son of Amoz saw: Set up a banner on the bare mountain! Lift up your voice to them! Wave your hand, that they may go into the gates of the nobles. I have commanded my consecrated ones; yes, I have called my mighty men for my anger, even my proudly exulting ones. The noise of a multitude is in the mountains, as of a great people; the noise of an uproar of the kingdoms of the nations gathered together! Yahweh of Armies […]",
+          "note": "Isaiah's burden against Babylon contributes to the prophetic Babylon-as-doomed-imperial-power tradition that makes Babylon an apt cryptonym for Rome.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

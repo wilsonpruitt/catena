@@ -1,0 +1,47 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-6",
+    "echoes": [
+      {"source": "Isaiah 53:4-12", "type": "allusion", "confidence": "medium", "note": "\"Christ suffered for us in the flesh\" (4:1) reprises the Suffering Servant who suffered/bore in his body, the controlling christological frame of 1 Peter (cf. 2:21-25). Sets up the believer's call to share that mindset.", "contested": false},
+      {"source": "Isaiah 59:17", "type": "echo", "confidence": "low", "note": "\"Arm yourselves\" (hoplisasthe, 4:1) may echo the divine warrior who puts on righteousness/salvation as armor; the military arming metaphor recurs in early Christian paraenesis. Faint and disputed.", "contested": true},
+      {"source": "Wisdom of Solomon 14:22-27", "type": "allusion", "confidence": "medium", "note": "The vice catalog of 4:3 (lewdness, drunken binges, orgies, \"abominable idolatries\") follows the Hellenistic-Jewish topos that Gentile idolatry breeds sexual and social corruption, classically developed in Wisdom's indictment of idol-worship. Deuterocanonical.", "contested": false},
+      {"source": "Leviticus 18:24-30", "type": "echo", "confidence": "low", "note": "\"Abominable idolatries\" (4:3) and the catalog of \"desire of the Gentiles\" recall the Holiness Code's warning against the abominations of the nations that defile the land; shared abomination-of-the-Gentiles framing. Thematic, contested.", "contested": true},
+      {"source": "Hosea 4:11-14", "type": "echo", "confidence": "low", "note": "Drunkenness, whoredom, and idolatry chained together as the religion of the nations parallels the moral logic of the 4:3 vice list. Faint.", "contested": true},
+      {"source": "Psalm 96:13", "type": "echo", "confidence": "low", "note": "God \"ready to judge the living and the dead\" (4:5) draws on the OT confession that the LORD comes to judge the earth/the peoples; cf. Psalm 98:9. Generic judgment-theophany echo.", "contested": true},
+      {"source": "Genesis 18:25", "type": "echo", "confidence": "low", "note": "\"Him who is ready to judge\" (4:5) reflects the standing title of God as Judge of all the earth who renders account. Faint topical echo.", "contested": true}
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:7-11",
+    "echoes": [
+      {"source": "Ezekiel 7:2-6", "type": "allusion", "confidence": "medium", "note": "\"The end of all things is near\" (4:7) strongly recalls Ezekiel's emphatic oracle, \"An end! The end has come... the end is upon you,\" the prophetic announcement of imminent eschatological judgment. Shared end (telos) language and nearness.", "contested": false},
+      {"source": "Proverbs 10:12", "type": "quotation", "confidence": "high", "note": "\"Love covers a multitude of sins\" (4:8) verbatim-quotes Proverbs 10:12 (\"love covers all transgressions\"), closer to the Hebrew/proverbial sense than LXX. Foundational maxim of the pericope; cf. James 5:20.", "contested": false},
+      {"source": "Isaiah 58:7", "type": "echo", "confidence": "low", "note": "The call to hospitality (4:9) and stewardship of gifts toward one another resonates with the prophetic ideal of sharing bread and shelter with the needy. Thematic, faint.", "contested": true},
+      {"source": "Proverbs 17:9", "type": "echo", "confidence": "low", "note": "\"He who covers a transgression seeks love\" offers a near-parallel proverb to 4:8, reinforcing the love-covers-sin tradition; possible secondary source alongside Proverbs 10:12.", "contested": true, "altSource": "Proverbs 10:12"}
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:12-19",
+    "echoes": [
+      {"source": "Proverbs 27:21", "type": "allusion", "confidence": "medium", "note": "The \"fiery trial... to test you\" (4:12) draws on the wisdom/prophetic metaphor of the crucible refining metal as God tests his people; cf. the smelting imagery the verse shares with Proverbs 17:3.", "contested": false},
+      {"source": "Malachi 3:2-3", "type": "allusion", "confidence": "medium", "note": "The refining fire that purifies (4:12) echoes the Lord's coming as a refiner's fire who purges the sons of Levi; this same Malachi context (judgment beginning at the temple) also feeds 4:17.", "contested": false},
+      {"source": "Zechariah 13:9", "type": "echo", "confidence": "medium", "note": "\"I will bring the third part through the fire, and will refine them as silver is refined, and try them as gold\" closely parallels the testing-by-fire of God's remnant in 4:12. Strong thematic and verbal coherence.", "contested": false},
+      {"source": "Psalm 66:10", "type": "echo", "confidence": "low", "note": "\"You, God, have tested us; you have refined us as silver is refined\" supplies the same trial-as-refining figure behind 4:12. Faint, one of several refining texts.", "contested": true},
+      {"source": "Isaiah 11:2", "type": "allusion", "confidence": "medium", "note": "\"The Spirit of glory and of God rests on you\" (4:14) reworks \"the Spirit of the LORD shall rest upon him\" (the messianic endowment), transferring the resting Spirit from the Messiah to the reproached believer. Verbal \"rests/Spirit\" link.", "contested": false},
+      {"source": "Psalm 89:50-51", "type": "echo", "confidence": "low", "note": "Being \"insulted for the name of Christ\" (4:14) evokes the psalmist bearing the reproach of God's servants and of the LORD's anointed; shared reproach-for-the-name motif. Cf. Psalm 69:9.", "contested": true, "altSource": "Psalm 69:9"},
+      {"source": "Ezekiel 9:6", "type": "allusion", "confidence": "high", "note": "\"Judgment to begin with the household of God\" (4:17) draws directly on the command to begin the slaughter \"at my sanctuary,\" i.e., judgment commencing with God's own house before the wider world. Core source for the verse's logic.", "contested": false},
+      {"source": "Jeremiah 25:29", "type": "allusion", "confidence": "medium", "note": "\"I begin to bring evil on the city which is called by my name, and should you go utterly unpunished?\" supplies the a fortiori structure of 4:17 (if it begins with us, what of the disobedient?). Strong conceptual parallel.", "contested": false},
+      {"source": "Malachi 3:1-5", "type": "allusion", "confidence": "medium", "note": "The Lord suddenly coming to his temple to judge begins purifying judgment at the house of God (4:17), reinforcing Ezekiel 9; the same passage's refining fire underlies 4:12.", "contested": false},
+      {"source": "Amos 3:2", "type": "echo", "confidence": "low", "note": "\"You only have I known... therefore I will punish you\" expresses the same principle that election intensifies rather than exempts from judgment, undergirding 4:17. Thematic.", "contested": true},
+      {"source": "Proverbs 11:31", "type": "quotation", "confidence": "high", "note": "\"If it is hard for the righteous to be saved, what will happen to the ungodly and the sinner?\" (4:18) cites Proverbs 11:31 in its LXX form verbatim (the LXX renders the Hebrew as a saved/scarcely-saved a fortiori). Formula-cited proverb.", "contested": false},
+      {"source": "Psalm 31:5", "type": "allusion", "confidence": "medium", "note": "\"Entrust their souls to him\" (4:19) echoes \"Into your hand I commit my spirit,\" the psalm of committing oneself to God amid suffering (also on Christ's lips, Luke 23:46). Verbal commit-to-God parallel.", "contested": false},
+      {"source": "Isaiah 43:1", "type": "echo", "confidence": "low", "note": "\"A faithful Creator\" (4:19) draws on the prophetic confession of God as the faithful Creator and Redeemer of his people who can be trusted in trial. Faint, supports the entrusting-to-Creator theme.", "contested": true}
+    ]
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-4",
+    "echoes": [
+      {
+        "source": "Ezekiel 34:1-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The command to 'shepherd the flock of God,' with the rebuke of leaders who lord it over and feed themselves rather than the sheep, draws directly on Ezekiel 34's oracle against the shepherds of Israel who fed themselves and ruled harshly, and on God's promise to shepherd his flock himself. The motifs of oversight, not domineering, and the contrast of true vs. self-serving shepherds are densely shared.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 23:1-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's woe against shepherds who destroy and scatter the sheep, and God's promise to set faithful shepherds over the flock who will tend them, supplies the same prophetic shepherd critique standing behind the charge to elders to tend God's flock rightly.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 23:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Lord-as-shepherd image and the flock's care undergird the 'chief Shepherd' designation; the underlying Davidic shepherd theology resonates even if not verbally borrowed.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 40:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He will feed his flock like a shepherd, gathering the lambs in his arms' colors the tender-shepherd ideal that the elders are to embody and that the chief Shepherd fulfills.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 11:4-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The worthless shepherd who does not care for the flock furnishes another prophetic backdrop for the warning against shepherding for dishonest gain rather than the sheep's good.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 27:16-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prayer for a leader so the congregation 'be not as sheep without a shepherd' lies behind the biblical pattern of appointed shepherds over God's people that the elders here continue.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise that the wise 'shall shine... like the stars forever' parallels the imperishable 'crown of glory' awarded the faithful shepherds at the chief Shepherd's revealing.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 5:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The righteous receiving 'a glorious crown' and 'beautiful diadem' from the Lord's hand parallels the unfading crown of glory, a Second Temple development of the reward motif.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:5-11",
+    "echoes": [
+      {
+        "source": "Proverbs 3:34",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'God resists the proud, but gives grace to the humble' is a near-verbatim citation of Proverbs 3:34 LXX (which reads 'God' for MT 'he'/'the Lord'), introduced with proverbial authority; the same LXX form is quoted at James 4:6.",
+        "contested": false
+      },
+      {
+        "source": "Job 22:29",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'When they are cast down... the humble person he saves' (LXX: God 'will save the one of lowly eyes') feeds the humility-then-exaltation logic of 'humble yourselves... that he may exalt you.'",
+        "contested": true
+      },
+      {
+        "source": "Exodus 3:19-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The mighty hand of God' is the fixed exodus idiom for God's powerful, delivering action (the 'mighty hand' that brought Israel out of Egypt); here it frames the suffering exiles' submission under and rescue by that same hand.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:34",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The recurrent Deuteronomic formula of God acting 'by a mighty hand and an outstretched arm' establishes 'the mighty hand of God' as a deliverance idiom underlying 5:6.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 20:34",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will bring you out... with a mighty hand' applies the exodus 'mighty hand' to a restoration-from-exile context, fitting 1 Peter's address to elect exiles under God's hand.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 55:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Casting all your worries on him, because he cares for you' closely renders 'Cast your burden on the Lord, and he will sustain you' (LXX Ps 54:23), the clearest scriptural source for the anxiety-casting exhortation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 37:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Commit your way to the Lord; trust in him, and he will act' offers a parallel trust-and-cast-upon-God motif reinforcing Psalm 55:22 behind 5:7.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 22:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The enemies 'open wide their mouths at me, like a ravening and roaring lion' supplies the 'roaring lion seeking to devour' image for the devil; the suffering-righteous-one context of Psalm 22 fits the persecuted readers.",
+        "contested": false
+      },
+      {
+        "source": "Job 1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The satan' as the accusing adversary who roams the earth (Job 1:7; 2:2) and tests the righteous stands behind 'your adversary, the devil, walks around... seeking whom he may devour,' and behind the call to withstand him steadfast in faith.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 28:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Like a roaring lion or a charging bear is a wicked ruler over a poor people' contributes the roaring-lion image of a predatory oppressor, apt for the persecuting power the devil energizes.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 7:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Lest like a lion they tear my soul apart' adds to the stock of lament psalms portraying the enemy as a devouring lion behind 5:8.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 3:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Satan standing to accuse the high priest, and the Lord rebuking him, reinforces the adversary/accuser background to the devil whom believers are to resist.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 6:16-24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's faithful endurance in the lions' den, delivered by God, is a possible typological resonance for steadfastly withstanding the roaring lion amid suffering.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:12-14",
+    "echoes": [
+      {
+        "source": "Jeremiah 51:6-8",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'She who is in Babylon' uses Babylon as a cryptonym for Rome, the imperial power; Jeremiah's oracles against Babylon as the place of exile and judgment supply the typology by which the church in Rome is figured as God's people in 'Babylon.'",
+        "contested": false
+      },
+      {
+        "source": "Daniel 1-4",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Daniel's depiction of faithful exiles living under Babylon's empire establishes 'Babylon' as the type of the dominating pagan power among whom the elect sojourn, supporting the Babylon=Rome cryptonym.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 137:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'By the rivers of Babylon... we wept' crystallizes Babylon as the archetypal land of exile, resonating with 1 Peter's framing of its readers as elect exiles greeted from 'Babylon.'",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 13:1-22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's burden against Babylon contributes to the prophetic Babylon-as-doomed-imperial-power tradition that makes Babylon an apt cryptonym for Rome.",
+        "contested": true
+      }
+    ]
+  }
+]

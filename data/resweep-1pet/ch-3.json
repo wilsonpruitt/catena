@@ -1,0 +1,227 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-7",
+    "echoes": [
+      {
+        "source": "Genesis 18:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Sarah's submission and her calling Abraham 'lord' (kyrios in LXX) is the explicit verbal anchor for 3:6 'as Sarah obeyed Abraham, calling him lord.' In Genesis 18:12 Sarah laughs and says 'after I am grown old shall I have pleasure, my lord (kyrios) being old also.' Peter borrows the LXX address-title 'kyrios' as the proof-text for the submissive yet honored wife.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 12:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whose children you now are' (3:6) extends the Abrahamic-promise logic: Gentile believing wives become daughters of Sarah/children of the Abrahamic covenant, echoing the promise that Abraham would father a people. Faint and dependent on the Sarah link.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 21:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Sarah as the matriarch who 'hoped in God' and bore Isaac in old age informs the portrait of 'the holy women before who hoped in God' (3:5). Thematic, not verbal.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 31:30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Charm is deceitful and beauty is vain, but a woman who fears the LORD is to be praised' undergirds the contrast in 3:3-4 between outward adornment (braided hair, gold, fine clothing) and the inner adornment of 'a gentle and quiet spirit' fearing God. Strong thematic coherence with the Proverbs ideal of the praiseworthy woman.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 3:18-24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's catalogue of women's outward finery — braided/ornamental hair, jewelry, fine garments — that God will strip away may color Peter's list of external adornments in 3:3. Faint, list-of-finery parallel.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Joint heirs of the grace of life' (3:7), with husband and wife as co-heirs, faintly echoes the equal-dignity creation of male and female in the image of God. Disputed and thematic only.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:8-12",
+    "echoes": [
+      {
+        "source": "Psalm 34:12-16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The longest OT quotation in 1 Peter (3:10-12) reproduces Psalm 34:12-16 (LXX 33:13-17) nearly verbatim: 'He who would love life and see good days, let him keep his tongue from evil... let him turn away from evil and do good, let him seek peace and pursue it. For the eyes of the Lord are on the righteous and his ears open to their prayer, but the face of the Lord is against those who do evil.' Psalm 34 saturates 1 Peter (cf. 2:3 'you have tasted that the Lord is good' = Ps 34:8); Peter mines it as a charter for the righteous-suffering community. Formal quotation, no introductory formula but verbatim citation.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 17:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Whoever returns evil for good, evil will not depart from his house' lies behind 3:9 'not rendering evil for evil.' The non-retaliation ethic of repaying evil with blessing draws on the wisdom prohibition of returning evil.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 20:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Do not say, I will repay evil; wait for the LORD and he will deliver you' directly grounds the non-retaliation command of 3:9 ('not rendering evil for evil... but instead blessing'), entrusting vindication to God rather than self.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You shall not take vengeance or bear a grudge... but love your neighbor as yourself' underlies the cluster of 3:8-9 — brotherly love, tender-heartedness, and refusal to retaliate. The love-command tradition stands behind the communal virtue list.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 12:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'That you may inherit a blessing' (3:9) sounds the Abrahamic blessing-inheritance theme — those who bless rather than curse inherit the promised blessing. Faint, thematic.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 8:16-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Speak the truth to one another... do not devise evil in your hearts... love no false oath' parallels the call to keep the tongue from evil and lips from deceit (3:10) and to seek peace (3:11). Faint, may be mediated through Psalm 34.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:13-17",
+    "echoes": [
+      {
+        "source": "Isaiah 8:12-13",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "1 Peter 3:14-15 quotes Isaiah 8:12-13: 'Do not fear what they fear, neither be troubled (Isa 8:12), but sanctify the LORD of hosts (Isa 8:13)' — Peter christologizes it to 'sanctify the Lord [Christ] God in your hearts.' The Isaianic 'do not fear, do not be in dread, but the LORD of hosts him you shall regard as holy' becomes the charter for fearless witness under hostility. Formal quotation woven into the exhortation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 8:14-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The immediately following Isaianic 'stone of stumbling and rock of offense' (echoed in 1 Pet 2:8) suggests Peter has the whole Isaiah 8 context in view; the suffering-righteous who fear God not man inhabit that sanctuary-vs-stumbling frame. Contextual echo.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 34:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Be zealous for / imitators of that which is good' and 'suffer for righteousness' sake' (3:13-14) continue the Psalm 34 program just quoted ('depart from evil and do good'); the do-good ethic flows directly out of the citation, a recurrence binding the pericopes.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 50:7-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant's confident 'the Lord GOD helps me... who will declare me guilty?' parallels 3:13 'who is he who will harm you, if you become imitators of that which is good?' — vindication of the righteous sufferer. Faint, thematic.",
+        "contested": true
+      },
+      {
+        "source": "Matthew 5:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Blessed are those who are persecuted for righteousness' sake' is verbally and thematically mirrored in 3:14 'if you should suffer for righteousness' sake, you are blessed.' A beatitude tradition echo (NT, but a recognized intertext); included for the macarism parallel.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:18-22",
+    "echoes": [
+      {
+        "source": "Genesis 6:1-8",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The flood narrative is invoked typologically: 'the days of Noah while the ship was being built' (3:20). Peter reads the wickedness and judgment of the antediluvian world (Gen 6) as the backdrop against which the ark/baptism deliverance is the antitype (antitypos, 3:21). The flood's saving-through-water becomes the type fulfilled in baptism — explicitly figural.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 7:1-24",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Few, that is, eight souls, were saved through water' (3:20) cites the ark deliverance of Genesis 7 (Noah, his wife, three sons and their wives = eight). The salvation 'through water' is the explicit antitype of baptism in 3:21 — the flood-water that destroyed the disobedient world saves the elect remnant in the ark. Typological/figural reading of the flood as baptism.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 8:1-22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God's 'waiting patiently in the days of Noah' (3:20) reflects the long patience while the ark was built and the flood receded (Gen 8); the divine forbearance toward the disobedient generation undergirds the patience motif. Recurrence within the Noah cycle.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 6:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'My Spirit shall not abide in man forever... his days shall be 120 years' — the limited span of divine patience before the flood — directly informs '(God) waited patiently in the days of Noah' (3:20), the period of forbearance before judgment.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 6:11-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'disobedient' spirits/generation 'who before were disobedient in the days of Noah' (3:19-20) echo the corruption and violence that filled the earth (Gen 6:11-13). Faint, depends on identifying the 'spirits in prison' with the Noahic generation.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 6:1-4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'sons of God' who transgressed before the flood (Gen 6:1-4) feed the Second-Temple Watchers tradition (1 Enoch) widely thought to lie behind 'the spirits in prison' to whom Christ preached (3:19). Contested: whether the spirits are fallen angels (Watchers) or the human dead of Noah's generation.",
+        "contested": true,
+        "altSource": "1 Enoch 6-16"
+      },
+      {
+        "source": "Isaiah 53:11-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Christ also suffered for sins once, the righteous for the unrighteous' (3:18) draws on the Servant who 'bore the sin of many' and 'the righteous one, my servant, shall make many to be accounted righteous.' The vicarious righteous-for-unrighteous formula extends 1 Peter's sustained use of Isaiah 53 (cf. 2:22-25).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant who is 'exalted and lifted up' parallels the exaltation of the suffering-then-glorified Christ 'at the right hand of God, having gone into heaven' (3:22). Faint, part of the Isaiah 52-53 Servant arc.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 110:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Who is at the right hand of God' (3:22) cites the enthronement formula of Psalm 110:1 'Sit at my right hand until I make your enemies your footstool.' The subjection of 'angels and authorities and powers' to the exalted Christ realizes the footstool-of-enemies motif. The most-cited royal psalm for Christ's exaltation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 16:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Put to death in the flesh, but made alive in the spirit' (3:18) and Christ's descent/proclamation faintly echo the Psalm of resurrection hope ('you will not abandon my soul to Sheol'), a text early Christians applied to Christ's vindication from death. Faint, thematic.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The exaltation of the suffering one to heavenly dominion over 'angels and authorities and powers' (3:22) recalls the Son of Man given everlasting dominion and all powers subjected to him. Faint, thematic cosmic-subjection parallel.",
+        "contested": true
+      }
+    ]
+  }
+]
