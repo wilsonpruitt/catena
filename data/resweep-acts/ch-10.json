@@ -1,0 +1,80 @@
+[
+  {
+    "id": "10.1",
+    "ch": 10,
+    "ref": "10:1-8",
+    "echoes": [
+      { "source": "Tobit 12:12", "type": "allusion", "confidence": "high", "note": "Cornelius's prayers and alms 'have gone up for a memorial before God' closely matches Raphael's words that he presented Tobit's and Sarah's prayers as a memorial before the Holy One. Volume is strong (the technical idea of an angel presenting a God-fearer's prayers/alms as a 'memorial' before God) and the satisfaction is high, since Cornelius is precisely the pious almsgiver Tobit holds up as model.", "contested": false },
+      { "source": "Leviticus 2:2", "type": "allusion", "confidence": "medium", "note": "The 'memorial' (azkarah) language — the portion of the offering that ascends as a pleasing memorial 'before the LORD' — supplies the cultic background for prayers and alms 'going up for a memorial before God,' reframing Cornelius's piety as an acceptable sacrifice. Thematic coherence is high; verbal volume moderate.", "contested": false },
+      { "source": "Sirach 35:6-9", "type": "echo", "confidence": "medium", "note": "Ben Sira teaches that the offering of the righteous and the gift of alms ascend and are remembered before the Most High; the same sapiential link between generous almsgiving and acceptance/memory before God informs the portrait of Cornelius. Plausible given the Septuagintal-Jewish piety setting.", "contested": true },
+      { "source": "Psalm 141:2", "type": "echo", "confidence": "medium", "note": "Cornelius prays at the ninth hour (the hour of the evening sacrifice); the psalm's 'let my prayer be set forth as incense, the lifting up of my hands as the evening sacrifice' frames prayer ascending at the sacrificial hour, coherent with prayers that 'have gone up' before God.", "contested": true },
+      { "source": "Daniel 9:20-21", "type": "echo", "confidence": "medium", "note": "Daniel prays and an angel (Gabriel) comes to him 'at the time of the evening offering'; Cornelius prays at the ninth hour and an angel of God appears. The pattern of angelic visitation at the hour of prayer/sacrifice is figurally echoed.", "contested": true },
+      { "source": "Genesis 22:11", "type": "echo", "confidence": "low", "note": "The angel addressing 'Cornelius!' and his fearful 'What is it, Lord?' faintly echoes the OT pattern of God/angel calling a name and the human responding (Abraham, Samuel). Low volume; offered maximally.", "contested": true },
+      { "source": "Psalm 112:9", "type": "echo", "confidence": "low", "note": "The God-fearer who 'has given to the poor' whose righteousness endures matches the devout, alms-giving, God-fearing Cornelius. Thematic only, no verbal borrowing.", "contested": true }
+    ]
+  },
+  {
+    "id": "10.2",
+    "ch": 10,
+    "ref": "10:9-16",
+    "echoes": [
+      { "source": "Leviticus 11:1-47", "type": "allusion", "confidence": "high", "note": "The sheet contains 'all kinds of four-footed animals, wild animals, reptiles, and birds' — exactly the taxonomic categories of Leviticus 11's clean/unclean legislation — and Peter's refusal ('common or unclean') invokes its core distinction. The command 'kill and eat' and the verdict 'what God has cleansed' directly engage and overturn this law. Volume, recurrence, and coherence all high.", "contested": false },
+      { "source": "Deuteronomy 14:3-21", "type": "allusion", "confidence": "high", "note": "The Deuteronomic restatement of the food laws (clean/unclean beasts, birds, swarming things; 'you shall not eat any abomination') is the parallel legislative source for Peter's scruple about eating the unclean. High coherence; included alongside Leviticus 11 as the second pillar of the dietary code.", "contested": false },
+      { "source": "Ezekiel 4:14", "type": "allusion", "confidence": "high", "note": "Peter's 'Not so, Lord; for I have never eaten anything that is common or unclean' verbally mirrors Ezekiel's protest 'I have never defiled myself... neither has anything abominable/unclean come into my mouth.' Distinctive shared form (prophet's emphatic refusal of unclean food to a divine command). High volume.", "contested": false },
+      { "source": "Genesis 6:19-20", "type": "echo", "confidence": "low", "note": "The gathering of every kind of beast, creeping thing, and bird (the ark inventory by 'kinds') is faintly echoed in the sheet's comprehensive menagerie 'of the earth' descending from heaven. Figural, low volume.", "contested": true },
+      { "source": "Genesis 1:24-26", "type": "echo", "confidence": "low", "note": "The creation categories — beasts, creeping things, birds — underlie the threefold listing in the vision; the divine pronouncement that all is now clean recalls the original 'very good' creation. Thematic/figural only.", "contested": true }
+    ]
+  },
+  {
+    "id": "10.3",
+    "ch": 10,
+    "ref": "10:17-23",
+    "echoes": [
+      { "source": "Ezekiel 3:24", "type": "echo", "confidence": "low", "note": "The Spirit speaking to Peter and directing him to 'arise, get down, and go... for I have sent them' faintly parallels the prophetic pattern of the Spirit entering and commanding the prophet to go. Low volume; no distinctive wording.", "contested": true }
+    ]
+  },
+  {
+    "id": "10.4",
+    "ch": 10,
+    "ref": "10:24-33",
+    "echoes": [
+      { "source": "Daniel 10:5-6", "type": "allusion", "confidence": "medium", "note": "Cornelius recounts that during his fast at the ninth hour 'a man stood before me in bright clothing' — the angelophany described as a man in dazzling/bright garments matches Daniel's vision of a man clothed in shining apparel appearing during a period of fasting and prayer. Coherent verbal and situational overlap.", "contested": false },
+      { "source": "Tobit 12:16-22", "type": "echo", "confidence": "medium", "note": "Cornelius falls at Peter's feet to worship and Peter raises him: 'Stand up! I myself am also a man' — the refusal-of-veneration scene echoes Raphael's correction of Tobit and Tobias, redirecting worship from the messenger to God. Here transposed to a human apostle. Thematic coherence high.", "contested": true },
+      { "source": "Leviticus 11:1-47", "type": "echo", "confidence": "medium", "note": "Peter's 'it is unlawful for a Jew to associate with one of another nation, but God has shown me not to call any man unholy or unclean' transfers the clean/unclean categories of the dietary law (and its boundary-keeping function) to persons; recurrence of the Levitical theme from 10:9-16 within the chapter.", "contested": false },
+      { "source": "Daniel 9:3", "type": "echo", "confidence": "low", "note": "Cornelius's 'I was fasting until this hour, and at the ninth hour I prayed' echoes Daniel's seeking God 'by prayer and supplications, with fasting' as the disposition that precedes angelic revelation. Faint.", "contested": true }
+    ]
+  },
+  {
+    "id": "10.5",
+    "ch": 10,
+    "ref": "10:34-43",
+    "echoes": [
+      { "source": "Deuteronomy 10:17", "type": "allusion", "confidence": "high", "note": "'God doesn't show favoritism' (ou prosopolemptes) directly restates the Deuteronomic confession that God 'regards not persons (does not lift the face) nor takes a bribe.' Distinctive theological formula; the basis for the whole Gentile-inclusion argument. High volume and coherence.", "contested": false },
+      { "source": "2 Chronicles 19:7", "type": "allusion", "confidence": "medium", "note": "Jehoshaphat's charge that 'with the LORD our God there is no iniquity, nor respect of persons, nor taking of gifts' is a second locus of the 'no partiality' formula informing v34. Recurrence strengthens the allusion.", "contested": false },
+      { "source": "Isaiah 52:7", "type": "allusion", "confidence": "high", "note": "'Preaching good news of peace' (euangelizomenos eirenen) reproduces the herald who 'publishes peace, brings good tidings' on the mountains. The gospel-of-peace formula in v36 is drawn from this servant-song herald text. High volume.", "contested": false },
+      { "source": "Isaiah 57:19", "type": "echo", "confidence": "medium", "note": "'Peace, peace, to him that is far off, and to him that is near' undergirds the proclamation of peace now extended to the far-off Gentiles in Cornelius's house; coherent with the chapter's inclusion theme.", "contested": true },
+      { "source": "Nahum 1:15", "type": "echo", "confidence": "low", "note": "'Behold upon the mountains the feet of him that brings good tidings, that publishes peace' is a parallel herald-of-peace text reinforcing the Isaianic background of v36.", "contested": true },
+      { "source": "Psalm 107:20", "type": "echo", "confidence": "low", "note": "'The word which he sent to the children of Israel' faintly echoes 'he sent his word and healed them,' apt given the immediate reference to Jesus 'healing all who were oppressed.' Low volume.", "contested": true },
+      { "source": "Isaiah 61:1", "type": "allusion", "confidence": "high", "note": "'God anointed him with the Holy Spirit and with power, who went about doing good' reflects 'the Spirit of the Lord GOD is upon me, because the LORD has anointed me' to bring good news and release. The Spirit-anointing summary of Jesus' ministry draws on this servant text. High coherence.", "contested": false },
+      { "source": "Isaiah 42:1", "type": "echo", "confidence": "medium", "note": "'My chosen, in whom my soul delights; I have put my Spirit upon him' supports v38's portrait of the Spirit-endowed servant and v41's 'witnesses chosen before by God.' Thematic coherence high; verbal moderate.", "contested": true },
+      { "source": "Deuteronomy 21:22-23", "type": "allusion", "confidence": "high", "note": "'Whom they also killed, hanging him on a tree' (kremasantes epi xylou) deliberately invokes the law that a man 'hanged on a tree' is accursed of God and must be taken down. The xylon language is the distinctive Deuteronomic marker. High volume.", "contested": false },
+      { "source": "Hosea 6:2", "type": "echo", "confidence": "medium", "note": "'God raised him up the third day' resonates with 'on the third day he will raise us up, that we may live before him.' A recurrent NT third-day intertext; figural/typological with moderate verbal touch.", "contested": true },
+      { "source": "Genesis 18:25", "type": "echo", "confidence": "low", "note": "Jesus 'appointed by God as the Judge of the living and the dead' echoes the title 'Judge of all the earth.' Thematic.", "contested": true },
+      { "source": "Psalm 98:9", "type": "echo", "confidence": "low", "note": "'He comes to judge the earth... the world with righteousness, and the peoples with equity' undergirds the designation of the risen one as eschatological Judge in v42.", "contested": true },
+      { "source": "Jeremiah 31:34", "type": "echo", "confidence": "medium", "note": "'Everyone who believes in him will receive remission of sins' to which 'all the prophets testify' echoes the new-covenant promise 'I will forgive their iniquity, and remember their sin no more,' the prophetic witness to forgiveness Peter invokes. Coherent.", "contested": true },
+      { "source": "Isaiah 33:24", "type": "echo", "confidence": "low", "note": "'The people that dwell therein shall be forgiven their iniquity' is among the prophetic texts of forgiveness that 'all the prophets testify' to in v43. Faint, offered maximally.", "contested": true }
+    ]
+  },
+  {
+    "id": "10.6",
+    "ch": 10,
+    "ref": "10:44-48",
+    "echoes": [
+      { "source": "Joel 2:28-29", "type": "allusion", "confidence": "high", "note": "'The gift of the Holy Spirit was also poured out on the Gentiles' fulfills 'I will pour out my Spirit upon all flesh' — the same Joel oracle already cited at Pentecost (recurrence within Acts), now extended to 'all flesh' inclusive of Gentiles. High coherence; the pouring-out language is distinctive.", "contested": false },
+      { "source": "Isaiah 44:3", "type": "echo", "confidence": "medium", "note": "'I will pour my Spirit upon your seed' provides a parallel outpouring-of-the-Spirit promise reinforcing the Joel intertext behind v45. Moderate verbal overlap.", "contested": true },
+      { "source": "Ezekiel 39:29", "type": "echo", "confidence": "low", "note": "'I have poured out my Spirit upon the house of Israel' is a further prophetic pour-out text in the background of the Spirit falling on the hearers. Faint.", "contested": true },
+      { "source": "Isaiah 32:15", "type": "echo", "confidence": "low", "note": "'Until the Spirit be poured upon us from on high' contributes to the prophetic expectation of the Spirit's outpouring realized here on the Gentiles.", "contested": true },
+      { "source": "Genesis 11:1-9", "type": "echo", "confidence": "low", "note": "The Gentiles 'speaking in other languages and magnifying God' figurally reverses Babel's scattering of tongues, with diverse speech now uniting in praise. Typological, no verbal borrowing.", "contested": true }
+    ]
+  }
+]

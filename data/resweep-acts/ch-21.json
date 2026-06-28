@@ -1,0 +1,252 @@
+[
+  {
+    "id": "21.1",
+    "ch": 21,
+    "ref": "21:1-6",
+    "echoes": [
+      {
+        "source": "1 Kings 8:54",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul and the Tyrian disciples kneel on the beach to pray as Solomon kneels at the dedication of the temple; the gesture of kneeling for solemn prayer recalls the OT posture of supplication. Verbal volume is low (a common gesture), but the deliberate corporate kneeling at a moment of parting and danger gives the scene a liturgical coloring; thematically coherent with Israel's prayer postures.",
+        "contested": true,
+        "altSource": "Ezra 9:5"
+      },
+      {
+        "source": "Daniel 6:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Kneeling for prayer as a marked act of piety before adversity echoes Daniel kneeling three times a day; the connection is gestural rather than verbal, low volume, but coheres with the motif of prayer in the face of coming persecution.",
+        "contested": true
+      },
+      {
+        "source": "Amos 3:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The disciples warn Paul 'through the Spirit' not to go up to Jerusalem, reflecting the prophetic principle that the Lord reveals coming events to his servants; faint thematic resonance with prophetic foreknowledge rather than a verbal borrowing.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.2",
+    "ch": 21,
+    "ref": "21:7-9",
+    "echoes": [
+      {
+        "source": "Joel 2:28-29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Philip's four virgin daughters 'who prophesied' enact Joel's promise that in the last days sons and daughters shall prophesy — the prophecy Peter cited programmatically at Pentecost (Acts 2). Strong thematic coherence and recurrence within Acts make this a deliberate narrative demonstration of the Joel oracle's fulfillment; verbal volume rests on the shared key term 'prophesy' applied specifically to daughters.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 15:20",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Female prophets are a recognized OT category — Miriam 'the prophetess' leads Israel; Philip's prophesying daughters stand in this line of Spirit-gifted women. Thematic coherence is good though there is no verbal borrowing of the Miriam scene specifically.",
+        "contested": true,
+        "altSource": "Judges 4:4"
+      },
+      {
+        "source": "2 Kings 22:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Huldah the prophetess, consulted as an authoritative oracle, is part of the OT pattern of recognized women prophets that Luke evokes by noting the daughters' prophetic activity; recurrence of the female-prophet motif (cf. also Isaiah 8:3, Nehemiah 6:14) supports the link, though purely thematic.",
+        "contested": true,
+        "altSource": "Isaiah 8:3"
+      }
+    ]
+  },
+  {
+    "id": "21.3",
+    "ch": 21,
+    "ref": "21:10-14",
+    "echoes": [
+      {
+        "source": "Jeremiah 13:1-11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Agabus takes Paul's belt and binds his own feet and hands as an enacted oracle ('Thus says the Holy Spirit'), the classic prophetic sign-act. Jeremiah's linen loincloth/belt sign is the closest parallel both in the use of a belt/girdle as the symbolic object and in the dramatized word; high thematic coherence and notable verbal overlap in the belt as the medium of the sign.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 4:1-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Ezekiel is bound with cords and lies bound to bear Israel's siege as a sign-act; Agabus's self-binding to portray Paul's coming bondage belongs to the same genre of embodied prophecy. Strong thematic coherence with the bound-prophet enacting another's fate; the binding motif gives solid volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 20:2-4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah walks naked and barefoot as a sign of coming captivity 'into the hands' of a foreign power, just as Agabus's sign foretells Paul being delivered 'into the hands of the Gentiles.' Same sign-act genre with a captivity-to-foreigners content; high coherence, the verbal volume carried by the handed-over-to-Gentiles outcome.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 11:29-31",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Ahijah tears his new garment into pieces as a prophetic sign of the kingdom's division — another instance of an enacted oracle using a garment/cloth object, supporting the sign-act background of Agabus, though less verbally specific than Jeremiah or Isaiah.",
+        "contested": true,
+        "altSource": "Jeremiah 27:2"
+      },
+      {
+        "source": "Jeremiah 28:10-11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The yoke/bond sign-acts of Jeremiah (and Hananiah's counter-sign) belong to the same prophetic-symbol tradition of binding to dramatize coming subjugation; recurrence of the bondage-sign motif reinforces the genre Agabus invokes.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 3:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The companions' resigned 'The Lord's will be done' closely matches Eli's 'It is the LORD; let him do what seems good to him' upon hearing an oracle of doom — submission to a revealed and unwelcome divine word. Strong thematic coherence and a near-formulaic verbal parallel of pious resignation.",
+        "contested": false,
+        "altSource": "2 Samuel 15:26"
+      },
+      {
+        "source": "1 Samuel 3:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Repeated to flag the wider OT formula of submission to divine will (cf. 2 Samuel 15:26, David: 'let him do to me as seems good to him'); the recurrence of this stock phrase of acceptance strengthens the figural reading of the disciples' words.",
+        "contested": true,
+        "altSource": "2 Samuel 15:26"
+      },
+      {
+        "source": "Amos 3:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The prophetic-disclosure formula 'Thus says the Holy Spirit' adapts the standard messenger formula 'Thus says the LORD' (pervasive in the prophets), grounding Agabus in OT prophetic speech; high recurrence of the formula across the prophets, low verbal specificity to any single text.",
+        "contested": true,
+        "altSource": "Jeremiah 2:2"
+      }
+    ]
+  },
+  {
+    "id": "21.4",
+    "ch": 21,
+    "ref": "21:15-26",
+    "echoes": [
+      {
+        "source": "Numbers 6:13-21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The four men under a vow whom Paul joins, purifying himself, paying their expenses, and completing the days of purification 'until the offering was offered,' enacts the Nazirite completion rite: shaving the head and presenting offerings at the end of the vow. High thematic coherence and strong verbal volume on shaving, purification days, and the concluding offering.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 6:1-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The opening Nazirite legislation defines the vow and its requirements that the four men have taken; Paul's sponsorship presupposes the whole statute, making the broader chapter directly in view alongside the completion subsection.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 6:9-12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The provision for purification when a vow is interrupted/defiled underlies the act of 'purifying' oneself with the men; thematically coherent with Paul's ritual purification before entering the temple, though the text emphasizes completion more than defilement.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 17:9-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The charge that Paul teaches Jews 'not to circumcise their children' invokes the Abrahamic covenant of circumcision; the dispute over Mosaic customs and circumcision presupposes this foundational statute. Strong thematic coherence; verbal volume on circumcision of children/offspring.",
+        "contested": false,
+        "altSource": "Leviticus 12:3"
+      },
+      {
+        "source": "Numbers 25:11-13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The thousands 'zealous for the law' echo the OT ideal of zeal for the LORD's commandments embodied by Phinehas, whose zeal won a covenant of priesthood; the language of zeal for the law (cf. 1 Kings 19:10, Elijah) frames the Jerusalem believers' concern. Thematic coherence with the zeal motif, no direct quotation.",
+        "contested": true,
+        "altSource": "1 Kings 19:10"
+      },
+      {
+        "source": "Leviticus 17:10-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "James's restated decree that Gentile believers abstain from blood and from things strangled rests on the Holiness Code's prohibition of eating blood, applied to resident aliens as well as Israel. Strong thematic coherence with the apostolic council's grounding in Leviticus 17-18; verbal volume on blood.",
+        "contested": false,
+        "altSource": "Genesis 9:4"
+      },
+      {
+        "source": "Leviticus 17:8-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The prohibition against idol-food in the decree ('keep themselves from food offered to idols') draws on Leviticus 17's strictures on sacrifices and on the sojourner, the resident-alien legislation widely seen as the source pool for the apostolic decree; coherent though the idol-food element also rests on broader Pentateuchal idolatry law.",
+        "contested": true,
+        "altSource": "Exodus 34:15"
+      },
+      {
+        "source": "Leviticus 18:6-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The decree's prohibition of sexual immorality (porneia) corresponds to the Holiness Code's catalogue of forbidden unions, the fourth item commonly traced to Leviticus 18, especially as binding on the resident alien (Lev 18:26). Thematic coherence with the council's Levitical basis.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.5",
+    "ch": 21,
+    "ref": "21:27-36",
+    "echoes": [
+      {
+        "source": "Ezekiel 44:7-9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The charge that Paul 'brought Greeks into the temple, and has defiled this holy place' directly engages Ezekiel's denunciation of admitting uncircumcised foreigners into the sanctuary, profaning God's house. Strong thematic coherence with the temple-defilement-by-Gentiles accusation; this is the conceptual basis of the soreg barrier the crowd believes was breached.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 1:51",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The lethal seriousness of the crowd ('trying to kill him') over an outsider entering sacred precincts reflects the Pentateuchal death sanction against the unauthorized approaching the sanctuary; thematic background to the temple's exclusion zones, low verbal volume.",
+        "contested": true,
+        "altSource": "Numbers 18:7"
+      },
+      {
+        "source": "Lamentations 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The tumult in the temple courts, seizing and dragging Paul out, and the doors immediately shut faintly evoke the OT scenes of the sanctuary overrun and its gates violated; atmospheric resonance only, no verbal borrowing.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 18:17-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The crowd brands Paul the man who teaches 'against the people, and the law, and this place,' casting him as a troubler of Israel — the same accusation Ahab levels at Elijah ('troubler of Israel'). Faint thematic parallel of the faithful prophet charged with subverting the nation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.6",
+    "ch": 21,
+    "ref": "21:37-40",
+    "echoes": [
+      {
+        "source": "Exodus 4:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's request to address the hostile crowd, beckoning for silence before a defense, faintly recalls the OT pattern of the divinely commissioned spokesman who must speak to a resistant people; the connection is typological and weak, with no verbal borrowing.",
+        "contested": true
+      },
+      {
+        "source": "Nehemiah 13:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's speaking 'in the Hebrew language' to the people signals covenant identity and the language of Israel; Nehemiah's concern over loss of the language of Judah supplies a faint thematic backdrop to Hebrew speech as a marker of belonging, though no quotation is involved.",
+        "contested": true
+      }
+    ]
+  }
+]

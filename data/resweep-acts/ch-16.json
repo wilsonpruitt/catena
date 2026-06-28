@@ -1,0 +1,79 @@
+[
+  {
+    "id": "16.1",
+    "ch": 16,
+    "ref": "16:1-5",
+    "echoes": [
+      { "source": "Genesis 17:9-14", "type": "allusion", "confidence": "medium", "note": "Paul circumcises Timothy 'because of the Jews.' The act invokes the Abrahamic covenant of circumcision as the enduring sign of belonging to the covenant people; Luke presents it as missionary accommodation rather than salvific necessity, but the gesture is unintelligible apart from this foundational statute.", "contested": false },
+      { "source": "Exodus 12:48", "type": "echo", "confidence": "low", "note": "The Passover rule that an uncircumcised man may not partake, while the circumcised foreigner becomes 'as one born in the land,' frames Timothy (son of a Jewess, Greek father) as a borderline figure regularized by circumcision so he can move freely among Jews. Thematic resonance; no verbal borrowing.", "contested": true },
+      { "source": "Exodus 18:20", "type": "echo", "confidence": "low", "note": "Delivering 'the decrees... to keep' which the apostles and elders ordained echoes the Mosaic pattern of transmitting statutes and ordinances for the people to keep; the apostolic council functions as a new authoritative legislature. Structural/lexical resonance (statutes delivered to be kept).", "contested": true },
+      { "source": "Exodus 1:7", "type": "echo", "confidence": "low", "note": "'The assemblies... increased in number daily' recalls the Septuagintal language of Israel multiplying and increasing greatly in Egypt (cf. Genesis 1:28); a recurring Lukan growth-formula casting the church as the multiplying covenant people.", "contested": true }
+    ]
+  },
+  {
+    "id": "16.2",
+    "ch": 16,
+    "ref": "16:6-10",
+    "echoes": [
+      { "source": "Genesis 46:2-4", "type": "allusion", "confidence": "medium", "note": "God speaks to Israel/Jacob 'in visions of the night,' directing his movement to a new land ('I will go down with thee') with assurance of divine purpose. The Macedonian vision in the night that redirects Paul's journey across into Europe shares the genre (night vision) and function (divine redirection of geography) closely.", "contested": false },
+      { "source": "Exodus 13:21", "type": "echo", "confidence": "low", "note": "The Spirit twice forbidding and not allowing the missionaries' chosen routes, then steering them, echoes the pillar of cloud and fire guiding Israel's route step by step; divine micromanagement of the missionary itinerary as a new wilderness leading. Thematic only.", "contested": true },
+      { "source": "Genesis 15:1", "type": "echo", "confidence": "low", "note": "'A vision appeared to Paul in the night' uses the stock revelatory idiom of the word/vision of the LORD coming in the night; Abram's night vision is the paradigm of God commissioning through nocturnal revelation. Generic verbal resonance.", "contested": true },
+      { "source": "Daniel 2:19", "type": "echo", "confidence": "low", "note": "Mystery 'revealed in a night vision' as the medium of divine disclosure; faint Septuagintal parallel for night-vision revelation that resolves a course of action.", "contested": true }
+    ]
+  },
+  {
+    "id": "16.3",
+    "ch": 16,
+    "ref": "16:11-15",
+    "echoes": [
+      { "source": "Proverbs 31:22", "type": "echo", "confidence": "low", "note": "Lydia, a 'seller of purple' whose household and hospitality she manages, evokes the capable woman of Proverbs 31 whose clothing is purple and who trades in fine cloth; a wealthy, industrious, God-honoring matron. Suggestive characterization, no quotation.", "contested": true },
+      { "source": "Exodus 25:4", "type": "echo", "confidence": "low", "note": "Purple as the prized textile of the tabernacle offerings; Lydia's trade in purple carries an aura of dignity and devoted craft. Lexical (purple) only.", "contested": true },
+      { "source": "Deuteronomy 30:6", "type": "allusion", "confidence": "medium", "note": "'The Lord opened her heart to listen' is the divine-initiative idiom of the LORD circumcising/opening the heart so that Israel will hear and obey; conversion is portrayed as God's sovereign opening of the heart, the inward counterpart to covenant circumcision. Thematic coherence strong.", "contested": false },
+      { "source": "Psalm 119:18", "type": "echo", "confidence": "low", "note": "'Open thou mine eyes, that I may behold wondrous things' as the prayer-paradigm for God enabling perception of his word; Lydia's opened heart to attend to Paul's words is its narrative fulfillment. Conceptual parallel.", "contested": true }
+    ]
+  },
+  {
+    "id": "16.4",
+    "ch": 16,
+    "ref": "16:16-24",
+    "echoes": [
+      { "source": "Deuteronomy 18:10-12", "type": "allusion", "confidence": "high", "note": "The slave girl has a 'spirit of divination' (Greek: a python spirit) and earns money by fortune-telling. The Mosaic legislation expressly bans divination, soothsaying, and consulting spirits as abominations among the nations Israel dispossesses; Paul's exorcism enacts the abolition of precisely this pagan practice. Strong thematic and conceptual coherence with the core prohibition.", "contested": false },
+      { "source": "Leviticus 19:31", "type": "allusion", "confidence": "medium", "note": "'Regard not them that have familiar spirits, neither seek after wizards.' The girl's mantic spirit is the very category Israel is forbidden to consult; Paul's command silences and casts out the source. Reinforces the divination-prohibition cluster.", "contested": false },
+      { "source": "Leviticus 20:6", "type": "echo", "confidence": "medium", "note": "The penalty against souls turning after mediums and familiar spirits; the pericope dramatizes the divine verdict on a profit-driven mantic spirit. Thematic recurrence within the Holiness Code's ban on spiritism.", "contested": false },
+      { "source": "1 Samuel 28:7-19", "type": "echo", "confidence": "low", "note": "The medium of Endor as the canonical narrative instance of a woman trafficking in a familiar/divining spirit; the Philippian slave girl is its degraded Greco-Roman counterpart, here exposed and dispossessed. Narrative-typological resonance.", "contested": true },
+      { "source": "Genesis 14:18-20", "type": "allusion", "confidence": "medium", "note": "The spirit's cry that these are servants of 'the Most High God' (El Elyon) uses the divine title introduced by Melchizedek, God Most High, maker of heaven and earth; a Gentile-context title for the one true God now proclaimed (ironically) by a pagan spirit. Lexical-theological link to the El Elyon title-tradition.", "contested": false },
+      { "source": "Daniel 3:26", "type": "echo", "confidence": "low", "note": "'Servants of the Most High God' is the Septuagintal acclamation applied to Shadrach, Meshach, and Abednego by a pagan king; the slave girl's confession echoes this Gentile recognition of servants of God Most High. Verbal parallel to the title.", "contested": true },
+      { "source": "Jeremiah 20:2", "type": "allusion", "confidence": "medium", "note": "The prophet Jeremiah is beaten and put in the stocks for proclaiming God's word; Paul and Silas, beaten with rods and fastened in stocks in the inner prison, replay the persecuted-prophet-in-stocks pattern. Strong situational coherence (beating + stocks for the word).", "contested": false },
+      { "source": "Genesis 39:20", "type": "echo", "confidence": "low", "note": "Joseph, falsely accused, is cast into the prison where the king's prisoners are bound, yet the LORD is with him; the righteous servant unjustly imprisoned and divinely vindicated prefigures Paul and Silas. Typological resonance setting up the deliverance.", "contested": true },
+      { "source": "Deuteronomy 25:2-3", "type": "echo", "confidence": "low", "note": "The Mosaic regulation of judicial beating by a fixed number of stripes ('many stripes' laid on them) supplies the legal-cultural backdrop for the flogging, though here the Roman magistrates' beating is lawless. Conceptual link to the stripes motif.", "contested": true },
+      { "source": "Job 13:27", "type": "echo", "confidence": "low", "note": "'Thou puttest my feet in the stocks' as the poetic image of constraint by an adversary; the securing of Paul and Silas's feet in the stocks resonates with this Joban idiom of the afflicted righteous (cf. Job 33:11). Lexical (feet in stocks).", "contested": true }
+    ]
+  },
+  {
+    "id": "16.5",
+    "ch": 16,
+    "ref": "16:25-34",
+    "echoes": [
+      { "source": "Psalm 107:14-16", "type": "allusion", "confidence": "high", "note": "God 'brought them out of darkness... and brake their bands in sunder,' for 'he hath broken the gates of brass, and cut the bars of iron in sunder.' The midnight earthquake that opens all the prison doors and looses everyone's bonds is the narrative enactment of this thanksgiving for the imprisoned whom God frees. Strong volume and thematic coherence; the controlling subtext for the deliverance.", "contested": false },
+      { "source": "Psalm 146:7", "type": "allusion", "confidence": "medium", "note": "'The LORD looseth the prisoners' as a signature of God's saving character; the loosing of every prisoner's bonds dramatizes this divine attribute. Direct thematic match.", "contested": false },
+      { "source": "Psalm 119:62", "type": "allusion", "confidence": "medium", "note": "'At midnight I will rise to give thanks unto thee.' Paul and Silas praying and singing hymns to God 'about midnight' closely matches the psalmist's nocturnal praise of the righteous sufferer who blesses God at the very hour of distress.", "contested": false },
+      { "source": "Job 35:10", "type": "echo", "confidence": "low", "note": "'God my maker, who giveth songs in the night' as the wisdom theme of praise amid darkness; the midnight hymns of the prisoners embody songs given in the night. Conceptual parallel.", "contested": true },
+      { "source": "Psalm 18:7", "type": "echo", "confidence": "medium", "note": "'The earth shook and trembled; the foundations also of the hills moved and were shaken' in God's deliverance of his servant from enemies; the 'great earthquake' shaking 'the foundations of the prison' is the theophanic-rescue earthquake of the Davidic deliverance psalm. Lexical (foundations shaken) and thematic.", "contested": false },
+      { "source": "Exodus 19:18", "type": "echo", "confidence": "low", "note": "The quaking of Sinai at God's descent supplies the theophany-as-earthquake background; the prison earthquake signals God's powerful presence. Thematic resonance, generic earthquake-theophany.", "contested": true },
+      { "source": "Isaiah 45:2", "type": "echo", "confidence": "low", "note": "'I will break in pieces the gates of brass, and cut in sunder the bars of iron' (to Cyrus); a second prophetic instance of God shattering prison/city barriers, reinforcing the Psalm 107 gate-breaking motif behind the opened doors. Recurrence of the broken-barriers theme.", "contested": true },
+      { "source": "Isaiah 42:7", "type": "echo", "confidence": "low", "note": "The Servant's commission 'to bring out the prisoners from the prison, and them that sit in darkness out of the prison house'; the liberation of the jailer's prisoners realizes this servant-mission imagery. Thematic.", "contested": true },
+      { "source": "Psalm 30:11", "type": "echo", "confidence": "low", "note": "'Thou hast turned for me my mourning into dancing'; the jailer who was about to kill himself ends 'rejoicing greatly with all his household,' the reversal-into-joy pattern of the deliverance psalms. Conceptual resonance for the turn from despair to rejoicing.", "contested": true }
+    ]
+  },
+  {
+    "id": "16.6",
+    "ch": 16,
+    "ref": "16:35-40",
+    "echoes": [
+      { "source": "1 Samuel 1:17", "type": "echo", "confidence": "low", "note": "'Go in peace' is the stock Hebrew dismissal-blessing (cf. Exodus 4:18; Judges 18:6); the jailer's 'go in peace' to the released prisoners carries this benedictory idiom. Lexical formula only.", "contested": true },
+      { "source": "Proverbs 28:1", "type": "echo", "confidence": "low", "note": "'The wicked flee when no man pursueth: but the righteous are bold as a lion.' The magistrates who were 'afraid when they heard that they were Romans' and came begging, while Paul stands boldly on his rights, illustrates this wisdom reversal of fear between the unjust and the vindicated righteous. Thematic.", "contested": true },
+      { "source": "Genesis 41:14", "type": "echo", "confidence": "low", "note": "Joseph brought out of the prison and publicly vindicated before the authorities; Paul's insistence that the magistrates themselves come and bring them out continues the unjustly-imprisoned-then-honorably-released pattern. Typological resonance closing the prison sequence.", "contested": true },
+      { "source": "Esther 9:1-3", "type": "echo", "confidence": "low", "note": "The reversal in which fear of the formerly oppressed falls upon the officials and rulers who had moved against them; the Philippian magistrates' fear and capitulation echoes this peripeteia of vindication. Faint thematic link.", "contested": true }
+    ]
+  }
+]

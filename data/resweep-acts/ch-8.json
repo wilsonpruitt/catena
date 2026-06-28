@@ -1,0 +1,235 @@
+[
+  {
+    "id": "8.1",
+    "ch": 8,
+    "ref": "8:1-3",
+    "echoes": [
+      {
+        "source": "Genesis 50:10-11",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "The 'devout men' who 'lamented greatly' over Stephen recall the formulaic 'great and very sore lamentation' of the patriarchs over the dead (mourning for Jacob at the threshing floor of Atad). Volume rests on the doubled mourning vocabulary; thematic coherence is moderate (burial of a righteous man with public lament). The link is generic Septuagintal funerary idiom rather than a targeted citation.",
+        "contested": true
+      },
+      {
+        "source": "2 Chronicles 35:24-25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Great public lamentation over a slain righteous one parallels the mourning over Josiah, where 'all Judah and Jerusalem mourned' and laments were established. Thematic coherence (a community grieving the death of a faithful figure) is present; verbal volume is faint. Plausibility is low since no distinctive wording is shared.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 26:33",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The believers 'scattered abroad throughout the regions of Judea and Samaria' evokes the covenantal scattering language ('I will scatter you among the nations'), here ironically reversed so that dispersion becomes the engine of mission. The scattering motif recurs across Deuteronomy and the Prophets, lending thematic recurrence; but Luke gives it a salvific rather than punitive sense, weakening the direct correspondence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.2",
+    "ch": 8,
+    "ref": "8:4-8",
+    "echoes": [
+      {
+        "source": "Isaiah 35:5-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Philip's healings—'many who had been paralyzed and lame were healed'—enact the eschatological restoration promised in Isaiah, where 'the lame man shall leap as a hart.' Volume is moderate (shared 'lame' healing imagery), recurrence is strong across Isaiah and Luke-Acts as a sign of the inbreaking kingdom, and thematic coherence is high: the signs authenticate the proclamation of the Christ. The link is conceptual rather than a quotation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Philip 'proclaimed' the Christ and the multitudes responded with 'great joy,' echoing the herald who publishes good tidings of peace and salvation. Thematic coherence (good news bringing joy to a city) is present; verbal volume is low and mediated through Luke's general euangelizo vocabulary.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 17:24-29",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The evangelization of 'the city of Samaria' figurally reverses the region's origin as a syncretistic resettlement after the Assyrian exile, where transplanted peoples 'feared the LORD and served their own gods.' No verbal borrowing; the coherence is historical-typological—the place of compromised worship now receives the pure word with joy.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.3",
+    "ch": 8,
+    "ref": "8:9-13",
+    "echoes": [
+      {
+        "source": "Deuteronomy 18:10-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Simon's practice of 'sorcery' that 'amazed the people of Samaria' stands against the Torah's explicit ban on the diviner, soothsayer, enchanter, and sorcerer. Thematic coherence is strong (forbidden magic confronted by the true word of God), and the sorcery vocabulary recurs in the prophetic polemic; volume is conceptual rather than lexical.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 47:9-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Simon's long-standing 'sorceries' by which he held the people in thrall recall the impotent 'multitude of thy sorceries' and 'enchantments' of Babylon, which cannot save before the power of God. Recurrence of the sorcery-versus-God contrast is notable; verbal volume is faint and the correspondence is thematic.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 7:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Simon, the magician overawed by genuine 'signs and great miracles,' loosely typifies Pharaoh's sorcerers whose arts are outmatched by the signs of God. Thematic coherence (true wonders eclipsing magic) is moderate; there is no shared wording, so the link is a faint figural resonance.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.4",
+    "ch": 8,
+    "ref": "8:14-17",
+    "echoes": [
+      {
+        "source": "Joel 2:28-29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Samaritans' reception of the Holy Spirit through the apostles' prayer and laying on of hands extends the outpouring of the Spirit 'upon all flesh' programmatic for Acts. Recurrence within Luke-Acts (cited at Pentecost) is strong; here the volume is faint—no direct verbal contact—so the connection is a thematic continuation rather than a fresh allusion.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 27:18-23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The apostles 'laid their hands on them' and they received the Spirit, recalling the commissioning gesture by which Moses laid hands on Spirit-filled Joshua. Thematic coherence (laying on of hands conveying authority and Spirit) is moderate; the rite is widely attested in the Torah, so volume and distinctiveness are low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.5",
+    "ch": 8,
+    "ref": "8:18-24",
+    "echoes": [
+      {
+        "source": "Deuteronomy 29:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Peter's diagnosis that Simon is 'in the gall of bitterness' draws directly on the Deuteronomic warning against the apostate heart that is 'a root that beareth gall and wormwood.' Volume is high (the distinctive 'gall'/bitterness collocation), thematic coherence is exact (a covenant member whose heart turns from God), giving a strong verbal allusion.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 58:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Peter says Simon is in the 'bondage of iniquity'—literally a 'bond' or 'chain'—echoing Isaiah's call to 'loose the bands of wickedness' and undo every yoke. Volume is moderate (the bond-of-wickedness phrase), and thematic coherence is strong: sin as binding fetters from which one must repent. The correspondence is verbal-conceptual.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 78:37",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter's verdict that Simon's 'heart isn't right before God' resonates with the Psalm's indictment that Israel's 'heart was not right with him.' The 'heart not right' idiom is distinctive enough to register; recurrence of the motif across the Psalter is broad, lowering specificity. Volume is moderate, coherence high.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 12:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Simon has 'neither part nor lot in this matter,' echoing the inheritance language denying the outsider a 'part nor inheritance' among the covenant people. The 'part nor lot/inheritance' formula recurs widely (cf. the Levites' portion), giving thematic recurrence; here it pronounces exclusion for one whose heart is corrupt.",
+        "contested": true
+      },
+      {
+        "source": "Lamentations 3:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'gall of bitterness' image may also draw on Lamentations' '(he) hath filled me with bitterness, he hath made me drunken with wormwood,' reinforcing the gall-and-wormwood pairing behind Peter's words. Listed as a secondary witness to the same idiom; verbal volume overlaps with the primary Deuteronomy allusion.",
+        "contested": true,
+        "altSource": "Lamentations 3:19"
+      }
+    ]
+  },
+  {
+    "id": "8.6",
+    "ch": 8,
+    "ref": "8:25-31",
+    "echoes": [
+      {
+        "source": "Isaiah 56:3-5",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The Ethiopian 'eunuch' brought into the people of God figurally fulfills Isaiah's promise that the eunuch who keeps covenant will be given 'a name better than of sons and of daughters' within God's house. The correspondence is typological with strong thematic coherence (an excluded class welcomed); fittingly, the eunuch is reading the very scroll of Isaiah. Verbal volume is low, but the structural irony is pointed and the placement makes the allusion deliberate.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 23:1",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The eunuch's prior exclusion is defined by the Torah's ruling that one 'wounded in the stones' shall not 'enter into the congregation of the LORD.' Luke's account quietly overturns this barrier; the coherence is high as the legal foil against which the eunuch's incorporation is read. No verbal borrowing, so the link is typological/figural.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 68:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "An Ethiopian official coming to worship and returning home a believer answers the psalm's vision that 'Ethiopia shall soon stretch out her hands unto God.' Thematic coherence is strong (Ethiopia turning to the true God) and the motif recurs in prophetic universalism; verbal volume is modest, making this a probable thematic allusion.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 3:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The eunuch as a worshiper coming 'from beyond the rivers of Ethiopia' to bring offering echoes Zephaniah's promise that 'from beyond the rivers of Ethiopia my suppliants... shall bring mine offering.' Recurrence with Psalm 68 strengthens the Ethiopia-to-Zion theme; volume is faint and the link is conceptual.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 10:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "A high official of a southern queen ('Candace, queen of the Ethiopians,' steward of her treasure) journeying toward Jerusalem loosely recalls the Queen of Sheba's pilgrimage with her treasures to hear wisdom. Thematic coherence (foreign royalty seeking the God of Israel) is moderate; correspondence is associative, not verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.7",
+    "ch": 8,
+    "ref": "8:32-35",
+    "echoes": [
+      {
+        "source": "Isaiah 53:7-8",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The scroll the eunuch reads is quoted verbatim from the Septuagint of the Suffering Servant: 'He was led as a sheep to the slaughter; as a lamb before his shearer is dumb, so he openeth not his mouth. In his humiliation his judgment was taken away...' Volume is maximal (sustained, explicit citation), and Philip's exposition makes the christological coherence the hinge of the pericope. This is the chapter's flagship quotation.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "8.8",
+    "ch": 8,
+    "ref": "8:36-40",
+    "echoes": [
+      {
+        "source": "1 Kings 18:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "After the baptism 'the Spirit of the Lord caught Philip away,' echoing the Elijah tradition in which 'the Spirit of the LORD shall carry thee whither I know not.' Volume is strong on the distinctive 'Spirit of the LORD carrying off' a prophet, recurrence within the Elijah/Elisha cycle is notable, and thematic coherence (a Spirit-driven prophetic figure transported) is high.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 2:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Philip's sudden removal also recalls the sons of the prophets' fear that 'the Spirit of the LORD hath taken up [Elijah], and cast him upon some mountain.' Reinforces the Elijah-typology behind Philip's translation; volume and coherence parallel the 1 Kings 18 link, the two together making the prophetic-rapture allusion firm.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 3:12-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Spirit 'lifting up' and bearing away the prophet matches Ezekiel's experience that 'the Spirit took me up, and... carried me away.' Recurrence of Spirit-transport language across the prophets strengthens the motif; verbal volume here is moderate, the link best classed as a supporting echo to the Elijah allusions.",
+        "contested": true,
+        "altSource": "Ezekiel 8:3"
+      }
+    ]
+  }
+]

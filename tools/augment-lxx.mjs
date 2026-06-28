@@ -25,6 +25,9 @@ const CURATED = [
   "Psalm 51:4",        // Rom 3:4 — LXX "prevail when you are judged" (passive νικήσῃς ἐν τῷ κρίνεσθαι) vs Hebrew "blameless when you judge"
   "Proverbs 11:31",    // 1 Pet 4:18 — LXX "if the righteous is scarcely saved" (μόλις σῴζεται) vs Hebrew "repaid on the earth"
   "Proverbs 3:34",     // 1 Pet 5:5 (also James 4:6) — LXX "God opposes the proud" (ὑπερηφάνοις ἀντιτάσσεται) vs Hebrew "he mocks the mockers"
+  "Amos 9:11",         // Acts 15:16-17 — LXX "that the rest of mankind may seek the Lord" vs Hebrew "possess the remnant of Edom" (James's whole ruling)
+  "Habakkuk 1:5",      // Acts 13:41 — LXX "behold, you despisers" (καταφρονηταί) vs Hebrew "look among the nations"
+  "Amos 5:25",         // Acts 7:42-43 — LXX "Moloch… the star Rephan… beyond Babylon" vs Hebrew "Sikkuth… Kaiwan… beyond Damascus"
 ];
 const stripParen = (s) => s.replace(/\s*\(.*?\)\s*/g, " ").replace(/\s+/g, " ").trim();
 const isCurated = (src) => CURATED.some((c) => src.startsWith(c));
@@ -32,7 +35,7 @@ const cap = (t) => (t.length <= 480 ? t : t.slice(0, 480).replace(/\s+\S*$/, "")
 
 let attached = 0;
 const log = [];
-for (const f of ["hebrews", "revelation", "matthew", "romans", "1-peter"]) {
+for (const f of ["hebrews", "revelation", "matthew", "romans", "1-peter", "acts"]) {
   const d = JSON.parse(readFileSync(`/Users/wilsonpruitt/catena/data/${f}.json`, "utf8"));
   for (const p of d.pericopes) for (const e of p.echoes) {
     if (e.lxxText) delete e.lxxText; // idempotent

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "22.1",
+    "ch": 22,
+    "ref": "22:1-5",
+    "echoes": [
+      { "source": "1 Kings 19:10", "type": "allusion", "confidence": "medium", "note": "Paul's self-description as 'zealous for God' (v3) echoes Elijah's signature self-defense, 'I have been very zealous for the LORD' — the OT idiom of cultic zeal that justified violence against deviants, which Paul applies to his persecuting career. Coherent with the chapter's portrait of misdirected zeal; verbal contact via 'zealous.'", "contested": false, "altSource": "1 Kings 19:14" },
+      { "source": "Numbers 25:11-13", "type": "echo", "confidence": "low", "note": "Phinehas' zeal that turned away wrath is the paradigm of violent piety standing behind 'zealous for God, even as you all are' — the very zealotry that drove Paul to bind men and women. Thematic only, no verbal borrowing; contested as background rather than allusion.", "contested": true },
+      { "source": "Exodus 3:15", "type": "echo", "confidence": "low", "note": "'the law of our fathers' (v3), anticipating 'the God of our fathers' in v14, draws on the patriarchal-covenant formula whose anchor is Exodus 3:15. Faint here; the formula lands more fully in the Ananias speech.", "contested": true },
+      { "source": "Deuteronomy 33:4", "type": "echo", "confidence": "low", "note": "'instructed according to the strict tradition of the law of our fathers' rests on the Mosaic law as the ancestral inheritance of Israel; Deut 33:4 ('the law Moses commanded, the inheritance of the assembly of Jacob') supplies the conception. Background, contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "22.2",
+    "ch": 22,
+    "ref": "22:6-11",
+    "echoes": [
+      { "source": "Genesis 22:11", "type": "allusion", "confidence": "medium", "note": "The doubled vocative 'Saul, Saul' (v7) follows the OT pattern of urgent divine address by repeated name — 'Abraham, Abraham' at the binding of Isaac. The form signals a theophanic call/redirection. Recurs across the OT call narratives below.", "contested": false },
+      { "source": "Exodus 3:4", "type": "allusion", "confidence": "medium", "note": "'Moses, Moses' from the burning bush is the closest formal parallel: a doubled-name call out of blinding/luminous divine presence that commissions the hearer. Strong thematic and formal coherence with Paul's vocation-by-theophany.", "contested": false },
+      { "source": "1 Samuel 3:10", "type": "echo", "confidence": "medium", "note": "'Samuel, Samuel' — doubled-name nocturnal call of the prophet who must learn the LORD's identity ('Speak, for your servant hears') just as Paul asks 'Who are you, Lord?' Reinforces the recurrence of the call-form.", "contested": false },
+      { "source": "Ezekiel 1:28", "type": "allusion", "confidence": "medium", "note": "The overwhelming light/glory before which Paul 'fell to the ground' (v7) reproduces Ezekiel's response to 'the appearance of the likeness of the glory of the LORD' — 'I fell on my face.' Theophanic glory + prostration is the shared structure inaugurating prophetic commission.", "contested": false },
+      { "source": "Daniel 10:8-9", "type": "allusion", "confidence": "medium", "note": "Daniel's vision: he alone sees it, his companions flee in terror, his strength fails, he falls to the ground at the voice — closely matching v7-9 where the light fells Paul, his companions see the light and are afraid but do not grasp the voice. Notable volume.", "contested": false, "altSource": "Daniel 8:17-18" },
+      { "source": "Deuteronomy 28:28-29", "type": "echo", "confidence": "low", "note": "Covenant-curse blindness ('the LORD will strike you with blindness... you shall grope at noonday') resonates with Paul struck sightless 'about noon' (v6, 11), led by the hand. Ironic inversion — judgment-blindness becomes the threshold of conversion. Contested verbal link via 'noon'/'blindness.'", "contested": true }
+    ]
+  },
+  {
+    "id": "22.3",
+    "ch": 22,
+    "ref": "22:12-16",
+    "echoes": [
+      { "source": "Exodus 3:15", "type": "allusion", "confidence": "medium", "note": "Ananias' 'The God of our fathers has appointed you' (v14) deploys the patriarchal covenant title fixed at the burning bush ('the God of your fathers... my name forever'), grounding Paul's commission in Israel's God. Verbal formula and thematic coherence.", "contested": false },
+      { "source": "Isaiah 53:11", "type": "allusion", "confidence": "medium", "note": "'to see the Righteous One' (v14) draws on the Servant who 'shall make many to be accounted righteous,' titled the righteous one; the Suffering Servant title is applied christologically to the one Paul is to witness. Coheres with the chapter's commissioning frame.", "contested": false, "altSource": "Jeremiah 23:5" },
+      { "source": "Joel 2:32", "type": "allusion", "confidence": "medium", "note": "'calling on the name of the Lord' (v16) quotes the Joel formula ('everyone who calls on the name of the LORD shall be saved'), already programmatic in Acts; here bound to baptism and the washing away of sins. Clear verbal contact.", "contested": false },
+      { "source": "Isaiah 1:16", "type": "echo", "confidence": "low", "note": "'wash away your sins' (v16) echoes 'Wash yourselves, make yourselves clean, remove the evil of your deeds' — the prophetic call to cleansing. Verbal overlap on 'wash'; thematic coherence with repentance.", "contested": false },
+      { "source": "Ezekiel 36:25", "type": "echo", "confidence": "low", "note": "'I will sprinkle clean water on you, and you shall be clean from all your uncleannesses' supplies the cultic-cleansing background for baptismal washing-away of sins. Contested as direct echo versus shared motif.", "contested": true }
+    ]
+  },
+  {
+    "id": "22.4",
+    "ch": 22,
+    "ref": "22:17-21",
+    "echoes": [
+      { "source": "Isaiah 6:1-8", "type": "allusion", "confidence": "high", "note": "Paul's temple vision in a trance, seeing the Lord and being sent (v17-21), maps onto Isaiah's temple theophany and commission ('I saw the Lord... Whom shall I send?... Go'). Setting (temple), visionary mode, sending command, and a hardened audience that 'will not receive' all converge — a deliberate prophetic-call form.", "contested": false },
+      { "source": "Isaiah 49:6", "type": "allusion", "confidence": "high", "note": "'I will send you out far from here to the Gentiles' (v21) reprises the Servant's mandate to be 'a light to the nations, that my salvation may reach to the end of the earth.' Acts elsewhere quotes this verse for the Gentile mission; here it shapes the climactic sending. High thematic coherence and recurrence.", "contested": false },
+      { "source": "Isaiah 49:1", "type": "allusion", "confidence": "medium", "note": "The Servant's call ('The LORD called me from the womb... Listen, O coastlands, from far away') underlies both Paul's vocation-by-vision and the 'far away' geography of v21. Recurs with Jer 1:5 as the womb-call topos behind Pauline self-understanding.", "contested": false },
+      { "source": "Jeremiah 1:5-7", "type": "allusion", "confidence": "medium", "note": "Jeremiah's appointment as 'a prophet to the nations' with the divine 'to all to whom I send you, you shall go' is the classic prophetic commission form mirrored in 'I will send you out... to the Gentiles' (v21). Strong formal coherence.", "contested": false },
+      { "source": "Ezekiel 3:7", "type": "echo", "confidence": "medium", "note": "The Lord's warning 'they will not receive testimony concerning me from you' (v18) reproduces Ezekiel's sending to a people who 'will not be willing to listen to you' — the prophet rejected by his own. Thematic and near-verbal.", "contested": false },
+      { "source": "Isaiah 66:19", "type": "echo", "confidence": "low", "note": "'I will send survivors... to the nations... to the coastlands far away, who have not heard my fame' anchors the sending-to-distant-Gentiles motif of v21. Contested as direct echo versus shared Isaianic mission theme.", "contested": true }
+    ]
+  },
+  {
+    "id": "22.5",
+    "ch": 22,
+    "ref": "22:22-29",
+    "echoes": [
+      { "source": "Job 2:12", "type": "echo", "confidence": "medium", "note": "The crowd 'threw dust into the air' (v23) as a gesture of extreme distress/outrage parallels Job's friends who 'sprinkled dust on their heads toward heaven.' Shared mourning/protest ritual; visible volume.", "contested": false, "altSource": "2 Samuel 16:13" },
+      { "source": "Lamentations 2:10", "type": "echo", "confidence": "low", "note": "The elders of Zion 'have cast dust on their heads' in grief — the OT dust gesture standing behind the mob's throwing of dust. Contested; one of several dust-ritual parallels.", "contested": true },
+      { "source": "Ezekiel 27:30", "type": "echo", "confidence": "low", "note": "Mourners 'cast dust on their heads' over Tyre — another instance of the dust-throwing convention informing v23. Faint, contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "22.6",
+    "ch": 22,
+    "ref": "22:30",
+    "echoes": []
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-4",
+    "echoes": [
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The apostles 'proclaimed in Jesus the resurrection from the dead'; the conceptual rooting of bodily resurrection in Israel's Scripture points most clearly to Daniel 12:2, the OT's clearest resurrection text and the locus the Sadducees (named here as objecting) famously denied. No verbal borrowing — thematic only — but Luke's framing of the Sadducee dispute presupposes this scriptural background.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 26:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "A secondary OT resurrection text ('your dead shall live') that, with Daniel 12:2, supplies the scriptural matrix for the apostolic resurrection preaching the Sadducees here oppose. Faint, no lexical overlap; included for maximal coverage.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:5-12",
+    "echoes": [
+      {
+        "source": "Psalm 118:22",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verse 11 directly quotes Ps 118:22 (LXX 117:22), 'the stone which the builders rejected has become the head of the corner,' applied to the crucified-and-raised Jesus and turned polemically on 'you, the builders' (the rulers). High Volume (near-verbatim citation), high Recurrence (the rejected-stone testimonium pervades early Christian usage), and strong Thematic Coherence (rejection-then-vindication mirrors crucifixion-resurrection).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 28:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'stone' Christology in v.11 draws on the broader OT stone complex; Isa 28:16's precious cornerstone laid in Zion frequently fuses with Ps 118:22 in early Christian testimonia. No direct citation here, but the cornerstone vocabulary and foundation-of-salvation logic (leading into v.12) cohere with Isaiah's tested stone.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:34-35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's stone, cut without hands, that shatters the kingdoms and fills the earth, belongs to the same messianic stone-testimonia cluster; the contrast between human builders' rejection and God's exaltation of the stone resonates faintly with Daniel's God-given stone overturning earthly powers. Contested, no verbal link.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 45:21-22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Verse 12, 'there is salvation in none other... no other name... by which we must be saved,' echoes Isaiah's exclusivist monotheism of salvation: 'there is no other God besides me, a righteous God and a Savior; there is none besides me... be saved, all the ends of the earth.' The 'none other / no other' salvation formula maps onto Isaiah's 'none besides me.'",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:32",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Verse 12's stress that salvation comes only through 'the name' echoes Joel 2:32 (LXX 3:5), 'everyone who calls on the name of the LORD shall be saved' — the same name-and-salvation linkage Peter cited at Pentecost (Acts 2:21), now narrowed to the name of Jesus. Thematic coherence is strong; the recurrence in Acts strengthens the link.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 43:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I, even I, am the LORD, and besides me there is no savior' reinforces the exclusive-salvation claim of v.12. A faint reinforcing echo within the same Isaianic monotheism-of-salvation field as Isa 45:21-22; included for maximal coverage.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:13-22",
+    "echoes": [
+      {
+        "source": "Psalm 118:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The rulers' inability to deny the 'notable miracle' yet their determination to suppress it (vv.16-18) continues the irony of the just-quoted rejected stone (v.11): the builders go on rejecting despite the manifest vindication standing before them in the healed man. A narrative echo of the immediately preceding citation rather than a fresh source.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 4:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter's principle in v.19, that obeying God rather than men must be judged 'in the sight of God,' resonates faintly with the Deuteronomic insistence on listening to God alone; the obey-God-not-men theme is biblical but here lacks any verbal anchor. Marked low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:23-31",
+    "echoes": [
+      {
+        "source": "Exodus 20:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The prayer's address in v.24, 'you who made the heaven, the earth, the sea, and all that is in them,' is the fourfold creation formula of Exod 20:11 (the Sabbath commandment) almost verbatim in the LXX. High Volume on the formula; strong coherence as the appeal to the Creator-Sovereign grounds the appeal against earthly rulers that follows.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 146:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Psalm 146:6 (LXX 145:6), 'who made heaven and earth, the sea, and all that is in them,' is verbally as close as Exod 20:11 to v.24 and is a doxological-prayer use of the formula, making it an especially apt parallel for this corporate prayer. Strong Volume and coherence; offered alongside Exod 20:11.",
+        "contested": false
+      },
+      {
+        "source": "Nehemiah 9:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Nehemiah's communal prayer, 'you have made heaven... the earth and all that is on it, the seas and all that is in them,' is another instance of the creation formula embedded in corporate prayer addressed to 'you, even you, are LORD alone' — closely matching this assembly's prayer opening 'O Lord, you are God.' Strong thematic fit; verbal overlap shared with the wider formula.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:1-2",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verses 25-26 quote Psalm 2:1-2 verbatim (LXX), 'Why did the nations rage... the kings of the earth took their stand, and the rulers gathered together against the Lord and against his Christ,' explicitly attributed to David and then applied in vv.27-28 to Herod, Pilate, Gentiles and Israel arrayed against the anointed Jesus. Maximal Volume, high Recurrence (Ps 2 is a core messianic testimonium), high coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Verse 27's designation of Jesus as the one 'whom you anointed' presses the same Psalm 2 just cited, where the LORD's 'Christ/anointed' (v.2) is the begotten Son (v.7). The anointing language extends the Psalm 2 citation into the prayer's interpretation. Recurrence within the immediate context strengthens it.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 61:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your holy servant Jesus, whom you anointed' (v.27) may also evoke Isa 61:1, 'the Spirit of the Lord is upon me, because he has anointed me,' the Servant's Spirit-anointing for proclamation — coherent with the anointed-Servant motif but without verbal borrowing here. Low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 52:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The repeated title 'your holy servant (pais) Jesus' (vv.27, 30) draws on the Isaianic Servant (Isa 52:13, 'behold, my servant'), the LXX pais being the term Acts applies to Jesus. Conceptual servant-Christology rather than citation; low confidence, contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 37:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Hezekiah's prayer ('O LORD... you are God... you have made heaven and earth,' Isa 37:16 / 2 Kgs 19:15) is a near-structural model for this prayer: address God as sole Creator, then lay enemies' threats before him and ask for deliverance and a vindicating sign (cf. v.29, 'look at their threats'). A formal/typological echo of the threatened-people's prayer-to-the-Creator pattern.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 46:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Verse 28, the rulers did only 'whatever your hand and your council foreordained to happen,' echoes Isaiah's God whose 'counsel shall stand' and who declares the end from the beginning (Isa 46:10). The pairing of God's sovereign 'counsel/will' overruling hostile human action coheres tightly with the prayer's theology.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 7:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The plea in v.30 that 'signs and wonders' be done evokes the fixed Exodus pairing of 'signs and wonders' worked by God's outstretched hand against Pharaoh (Exod 7:3 and throughout). Combined with 'stretch out your hand,' the language casts the apostolic mission in a new-Exodus, divine-deliverance key.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 6:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Signs and wonders' (v.30) is the recurrent Deuteronomic shorthand for the LORD's Exodus deliverance (Deut 6:22; cf. 26:8, 34:11). A reinforcing echo of the same Exodus-deliverance vocabulary; low and contested alongside Exod 7:3.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 19:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Verse 31, 'the place was shaken where they were gathered,' echoes the Sinai theophany where the whole mountain trembled greatly at God's descent (Exod 19:18). The shaking as a sign of God's answering presence and the Spirit-filling that follows cohere with theophanic precedent.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 6:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The shaking of 'the place' (the praying assembly) after the prayer also recalls Isa 6:4, where the thresholds/foundations of the temple shook at the divine voice amid the seraphic praise. A theophanic shaking echo; low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 114:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ps 114:7's call for the earth to 'tremble at the presence of the Lord' supplies the wider biblical motif of creation quaking before God; the shaken place in v.31 participates in this theophany-tremor field. Faint, no verbal link.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.5",
+    "ch": 4,
+    "ref": "4:32-37",
+    "echoes": [
+      {
+        "source": "Deuteronomy 15:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Verse 34, 'neither was there among them any who lacked,' closely echoes Deut 15:4 LXX, 'there shall be no poor/needy among you,' the Deuteronomic ideal of the covenant community in which God's blessing eliminates poverty. Luke presents the Jerusalem community's common purse as the fulfillment of this Torah promise — strong thematic coherence and notable verbal overlap on 'no one lacked / no poor.'",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The believers being 'of one heart and soul' (v.32) faintly recalls the Shema's 'with all your heart and with all your soul' (Deut 6:5); here the heart-and-soul language describes communal unity rather than love of God. A lexical resonance only, low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 32:39",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'One heart and one soul' (v.32) may echo the new-covenant promise of Jer 32:39 (LXX 39:39), 'I will give them one heart and one way,' where God grants the restored people a unified heart. The Spirit-given unity of the believers coheres with this restoration promise. Low, contested.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 18:20",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The closing note that Barnabas, 'a Levite' (v.36), sold his field and laid the proceeds at the apostles' feet plays ironically against Num 18:20, where Levites were to have no landed inheritance because the LORD was their portion. Barnabas's divestment of a field embodies that Levitical landlessness in the new community. Typological/ironic, no verbal borrowing.",
+        "contested": true
+      }
+    ]
+  }
+]

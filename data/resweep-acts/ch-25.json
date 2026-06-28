@@ -1,0 +1,41 @@
+[
+  {
+    "id": "25.1",
+    "ch": 25,
+    "ref": "25:1-5",
+    "echoes": [
+      { "source": "Psalm 37:32", "type": "echo", "confidence": "low", "note": "The chief priests press Festus to summon Paul to Jerusalem while 'plotting to kill him on the way' (v.3). The psalter's portrait of the wicked who 'watches the righteous and seeks to slay him' supplies the scriptural type of the ambush against the innocent man; verbal contact is slight, so this is a thematic echo rather than a quotation, and contested.", "contested": true },
+      { "source": "Psalm 10:8-9", "type": "echo", "confidence": "low", "note": "The lying-in-wait imagery (the wicked 'lurks... to seize the poor') matches the planned roadside ambush of Paul. A stock motif of the persecuted-righteous psalms; flagged contested for low volume.", "contested": true },
+      { "source": "Jeremiah 11:19", "type": "allusion", "confidence": "low", "note": "Jeremiah, a prophet brought as a lamb to slaughter against whom his enemies 'devise devices,' is the classic prophetic prototype of the messenger targeted by a covert plot. Luke's Paul stands in this Jeremianic line of the rejected prophet; the link is figural-thematic, contested.", "contested": true },
+      { "source": "Psalm 71:10-11", "type": "echo", "confidence": "low", "note": "Enemies who 'take counsel together' against the righteous, saying God has forsaken him so they may pursue and seize him, parallel the priests' conspiracy. Faint, contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "25.2",
+    "ch": 25,
+    "ref": "25:6-12",
+    "echoes": [
+      { "source": "Psalm 35:11", "type": "allusion", "confidence": "medium", "note": "'Malicious witnesses rise up; they ask me of things I know not.' The Jews bring 'many and grievous charges which they could not prove' (v.7) — precisely the false, unsubstantiated accusation the persecuted-righteous psalmist faces. The strongest of the chapter's faint OT resonances; the unprovable-charge motif recurs through Luke's passion-and-trial pattern, giving it some thematic coherence. Still an echo rather than a citation.", "contested": false },
+      { "source": "Psalm 27:12", "type": "echo", "confidence": "low", "note": "'False witnesses have risen against me, breathing out violence.' Reinforces the accused-but-innocent posture of Paul before the tribunal. Contested, low volume.", "contested": true },
+      { "source": "Deuteronomy 19:15-18", "type": "echo", "confidence": "low", "note": "Paul's insistence that no one can simply 'give him up' without a true case (v.11), and his demand to be tried where charges can be tested, resonates with the Torah's law of witnesses and diligent inquiry into accusation. The principle surfaces explicitly in Festus' own summary (v.16); here it is the implied legal backdrop. Contested.", "contested": true },
+      { "source": "Psalm 7:8-9", "type": "echo", "confidence": "low", "note": "Paul submits himself to judgment, willing to die if guilty but appealing for vindication if innocent (vv.10-11), echoing the psalmist's plea 'judge me, O LORD, according to my righteousness.' Faint, contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "25.3",
+    "ch": 25,
+    "ref": "25:13-22",
+    "echoes": [
+      { "source": "Deuteronomy 19:15-18", "type": "allusion", "confidence": "medium", "note": "Festus states the Roman rule that one is not handed over 'before the accused has met the accusers face to face, and has had opportunity to make his defense' (v.16). This due-process principle — confrontation of accuser and accused, diligent inquiry — directly mirrors Deuteronomy's law of witnesses, so that Roman custom is narrated in terms a Scripture-shaped reader recognizes. Thematic, not verbal quotation.", "contested": false },
+      { "source": "Susanna 1:48-53", "type": "echo", "confidence": "low", "note": "The deuterocanonical Susanna dramatizes the same conviction — that no one should be condemned without examination and testing of the accusers — which Festus voices. A loose thematic parallel within the Jewish wisdom-and-justice tradition; contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "25.4",
+    "ch": 25,
+    "ref": "25:23-27",
+    "echoes": [
+      { "source": "Psalm 2:2", "type": "echo", "confidence": "low", "note": "Paul, the witness to the risen Christ, stands before a king (Agrippa), a governor (Festus), and the assembled rulers 'with great pomp.' The scene faintly evokes the psalm's kings and rulers gathered before the LORD's anointed and his messengers — a motif Acts has already cited at 4:25-26. Figural and contested; no verbal borrowing.", "contested": true }
+    ]
+  }
+]

@@ -2,11 +2,13 @@ import type { Book } from "@/lib/types";
 import hebrews from "./hebrews.json";
 import revelation from "./revelation.json";
 import matthew from "./matthew.json";
+import acts from "./acts.json";
 import romans from "./romans.json";
 import onePeter from "./1-peter.json";
 
 export const BOOKS: Book[] = [
   matthew as Book,
+  acts as Book,
   romans as Book,
   hebrews as Book,
   onePeter as Book,

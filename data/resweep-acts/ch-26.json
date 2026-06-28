@@ -1,0 +1,249 @@
+[
+  {
+    "id": "26.1",
+    "ch": 26,
+    "ref": "26:1-3",
+    "echoes": []
+  },
+  {
+    "id": "26.2",
+    "ch": 26,
+    "ref": "26:4-8",
+    "echoes": [
+      {
+        "source": "Genesis 22:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul stands trial 'for the hope of the promise made by God to our fathers.' The covenant promise to the patriarchs — that in Abraham's seed all nations would be blessed — is the substance of that hope. Acts repeatedly anchors the promise to the patriarchs (cf. Acts 3:25; 13:32-33), and the language 'made to our fathers' points back to the Genesis covenant cycle.",
+        "contested": false,
+        "altSource": "Genesis 12:3"
+      },
+      {
+        "source": "Genesis 49:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Our twelve tribes, earnestly serving night and day, hope to attain' it. The 'twelve tribes' is the constitutive self-designation of restored Israel, rooted in the blessing of Jacob's sons; Paul presents the resurrection hope as the goal of the whole covenant people.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Why is it judged incredible with you, if God does raise the dead?' Daniel 12:2 is the clearest OT statement of bodily resurrection ('many of those who sleep in the dust shall awake'), the very Pharisaic hope Paul defends here and the hope shared by the twelve tribes.",
+        "contested": false,
+        "altSource": "Isaiah 26:19"
+      },
+      {
+        "source": "Ezekiel 37:1-14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The resurrection hope of v.8 resonates with Ezekiel's vision of the dry bones revived — Israel's national hope cast as God raising the dead, which dovetails with Paul's framing of resurrection as the consummation of the covenant promise to the tribes.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "26.3",
+    "ch": 26,
+    "ref": "26:9-11",
+    "echoes": []
+  },
+  {
+    "id": "26.4",
+    "ch": 26,
+    "ref": "26:12-15",
+    "echoes": [
+      {
+        "source": "Exodus 3:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The doubled vocative 'Saul, Saul' from heaven mirrors the theophanic double-address by which God calls his chosen agents — 'Moses, Moses' from the burning bush. The pattern (light/fire, voice, prostration, commission) frames Paul's conversion as a prophetic call-narrative.",
+        "contested": false,
+        "altSource": "Genesis 22:11"
+      },
+      {
+        "source": "1 Samuel 3:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Samuel, Samuel' — the doubled name by which the LORD summons the boy Samuel to prophetic service reinforces the call-form behind 'Saul, Saul,' another reluctant or unwitting hearer drafted into divine commission.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 1:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul and his companions 'had all fallen to the earth' before a heavenly light and then heard a voice — exactly Ezekiel's response to the glory of the LORD: 'I fell upon my face, and I heard a voice of one that spoke.' The vision-then-voice sequence is the prophetic theophany template.",
+        "contested": false,
+        "altSource": "Daniel 8:17-18"
+      },
+      {
+        "source": "Daniel 10:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Daniel falls in a deep sleep with his face to the ground at the blinding appearance of the heavenly man, then is addressed and raised — the same overwhelmed prostration before a radiant figure that Paul reports on the Damascus road.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 30:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'light from the sky, brighter than the sun' faintly recalls the eschatological intensification of light in Isaiah, where the light of the sun is sevenfold in the day of restoration — supernatural radiance as a sign of God's saving intervention.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 32:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'It is hard for you to kick against the goads' is a proverb of Greek provenance, but some hear an echo of Jeshurun who 'kicked' against the LORD after being fattened — futile rebellion against God by the well-fed. The verbal link is slight and the source debated.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "26.5",
+    "ch": 26,
+    "ref": "26:16-18",
+    "echoes": [
+      {
+        "source": "Ezekiel 2:1-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'But arise, and stand on your feet' verbally reproduces the LORD's words to Ezekiel ('Son of man, stand upon your feet, and I will speak to you... I send you to the children of Israel'). The commission of Paul is cast as a prophetic sending in Ezekiel's idiom.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 10:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The heavenly messenger tells the prostrate Daniel to 'stand upright' to receive a revelation — the same raising-up-to-be-commissioned motif behind 'stand on your feet, for I have appeared to you for this purpose.'",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 1:7-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Delivering you from the people, and from the Gentiles, to whom I send you' closely tracks Jeremiah's call: 'to all that I shall send you, you shall go... be not afraid of their faces: for I am with you to deliver you.' Both the sending and the promise of rescue are drawn from the prophet's commission.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'To open their eyes, that they may turn from darkness to light' is lifted from the Servant's mandate: 'to open the blind eyes, to bring out the prisoners from the prison, and them that sit in darkness out of the prison house.' Paul's mission is the Servant's mission extended.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Turn from darkness to light' echoes Isaiah 42:16, 'I will make darkness light before them' — the LORD leading the blind by a way they knew not, the same darkness-to-light transformation Paul is sent to effect.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'To appoint you a servant and a witness' draws on the Servant Song's 'Behold my servant... I have put my Spirit upon him; he shall bring forth judgment to the Gentiles.' Paul is appointed a servant in the Servant's pattern, with a Gentile commission.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A witness... of the things which you have seen' echoes 'You are my witnesses, says the LORD, and my servant whom I have chosen' — the conjunction of 'servant' and 'witness' in Paul's call matches Isaiah's pairing exactly.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 35:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'To open their eyes' resonates with the eschatological promise 'then the eyes of the blind shall be opened' — the restoration of sight as a sign of God's coming salvation, here applied to spiritual illumination of Jews and Gentiles.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 9:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Turn from darkness to light' recalls 'the people that walked in darkness have seen a great light; they that dwell in the land of the shadow of death, upon them has the light shined' — the prophetic image of light dawning on those in darkness.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 61:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The cluster 'open their eyes... receive remission of sins' faintly recalls the Servant-Anointed's mission to proclaim liberty to captives and opening of the prison — release and forgiveness as the substance of the sent one's task.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom 5:5",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "'An inheritance among those who are sanctified' echoes the deuterocanonical 'how is he numbered among the children of God, and his lot is among the saints (holy ones)' — the lot/inheritance among the sanctified as the believer's destiny.",
+        "contested": true,
+        "altSource": "Deuteronomy 33:3-4"
+      }
+    ]
+  },
+  {
+    "id": "26.6",
+    "ch": 26,
+    "ref": "26:19-23",
+    "echoes": [
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Saying nothing but what the prophets and Moses said would happen' invokes Moses as a witness to the coming Christ; the Mosaic promise of a prophet 'like me' whom Israel must heed stands behind the appeal to 'Moses' as testifying to the suffering and risen Messiah.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:3-5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'How the Christ must suffer' rests on the Suffering Servant — 'a man of sorrows... wounded for our transgressions.' The necessity of the Messiah's suffering, which Paul says the prophets foretold, is grounded chiefly in this song.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'How the Christ must suffer, and how, by the resurrection of the dead' pairs suffering with vindication, matching 'he shall see of the travail of his soul... my righteous servant shall justify many' — the Servant's anguish followed by life and fruitfulness.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'He would be first to proclaim light both to these people and to the Gentiles' draws directly on 'I will also give you for a light to the Gentiles, that you may be my salvation unto the end of the earth' — the same Servant text Paul cites programmatically at Acts 13:47.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Light both to these people and to the Gentiles' echoes 'I will give you for a covenant of the people, for a light of the Gentiles' — the Servant as light to both Israel and the nations, exactly Paul's twofold audience.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:1-3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Proclaim light... to the Gentiles' resonates with Zion's dawning glory drawing the nations: 'the Gentiles shall come to your light' — the eschatological light to which the nations are summoned, here realized in the risen Christ's proclamation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 16:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'By the resurrection of the dead, he would be first' rests on 'you will not leave my soul in Sheol; neither will you allow your holy one to see corruption' — the psalm Acts uses (2:27-31; 13:35) to prove the Messiah's resurrection.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "26.7",
+    "ch": 26,
+    "ref": "26:24-32",
+    "echoes": []
+  }
+]

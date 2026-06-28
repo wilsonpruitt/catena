@@ -1,0 +1,249 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-4",
+    "echoes": [
+      {
+        "source": "Exodus 19:16-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Sinai theophany supplies the dominant template: a sound from heaven, fire descending on the assembly, and the whole 'house' shaken/filled echo the thunder, fire, and trembling mountain when YHWH descended in fire and the trumpet-sound grew loud (Exod 19:16-19). Volume is carried structurally (sound + fire + divine descent on the gathered people) more than by shared vocabulary. Recurrence is strong: Luke repeatedly frames the Spirit's coming as a new covenantal endowment. Thematic coherence is very high, since Pentecost (Weeks) was associated in Second Temple/rabbinic tradition with the Sinai law-giving, making Acts 2 a Spirit-Sinai counterpart. History of interpretation overwhelmingly reads Pentecost as a Sinai antitype.",
+        "contested": false,
+        "altSource": "Exodus 24:17"
+      },
+      {
+        "source": "Genesis 11:1-9",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Babel reversal: at Babel one language is confused and humanity scattered; at Pentecost the Spirit enables many tongues that gather scattered nations into mutual comprehension. Verbal volume is low/absent, but the structural correspondence (languages, scattering vs. ingathering) is a classic typological inversion. Thematic coherence is high given the immediately following nations-list (vv.9-11). Recurrence: Luke's universalizing program (gospel to all nations) reinforces the figure. Widely noted in history of interpretation as the undoing of Babel; the satisfaction of reading it this way is considerable.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:28-29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The outpouring of the Spirit enacted here is precisely what Peter will name as Joel's prophecy in vv.16-21; the narrative event (all filled with the Spirit, all speaking/prophesying) is the fulfillment Joel foretold of the Spirit poured 'on all flesh.' High thematic coherence and explicit recurrence within the same chapter. Volume in vv.1-4 is event-level rather than verbal, but the link is interpretively certain because Luke makes it explicit a few verses later.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:24-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "When the Spirit rests on the seventy elders they prophesy, and Moses wishes 'that all the LORD's people were prophets, that the LORD would put his Spirit on them.' Acts 2 reads as the realization of that wish: the Spirit democratized onto the whole community, who immediately prophesy/speak. Moderate volume (shared motif of Spirit-induced prophecy distributed across many), strong thematic coherence, recurrence via Joel which itself develops the Numbers ideal.",
+        "contested": false,
+        "altSource": "Joel 2:28-29"
+      },
+      {
+        "source": "1 Kings 19:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah's Horeb theophany pairs wind and fire as accompaniments of divine presence, a constellation reused here (wind-like sound, fire-like tongues). Faint, carried by shared theophanic imagery rather than wording; contested because the Sinai/Exodus material is the more direct source and the elements function differently (there God is not in the wind/fire).",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 37:9-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The life-giving rûaḥ/breath/wind that comes and animates the people resonates with the wind-like sound that fills the house and empowers the disciples. Low verbal volume in the Greek, but the Spirit-as-wind giving new life is thematically coherent with the inauguration of the renewed community; contested as a deliberate echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:5-13",
+    "echoes": [
+      {
+        "source": "Genesis 10:1-32",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The roll-call of peoples 'from every nation under heaven' (Parthians, Medes, Elamites, etc., vv.9-11) functions as a New Testament Table of Nations, recalling the Genesis 10 enumeration of the descendants of Noah scattered across the earth. The motif of representative nations gathered echoes the primeval mapping of humanity; thematic coherence high, verbal overlap modest (proper-name catalogue form). Pairs with the Babel figure of vv.1-4.",
+        "contested": false,
+        "altSource": "Genesis 11:1-9"
+      },
+      {
+        "source": "Deuteronomy 2:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The phrase 'peoples under the whole heaven' supplies the universalizing idiom behind 'every nation under heaven' (v.5). Faint, formulaic; contested as a specific source since the expression is common LXX phrasing.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 11:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's eschatological ingathering of the dispersed of Israel/Judah from Egypt, Cush, Elam, Shinar, and the coastlands anticipates the gathering of diaspora Jews 'from every nation' to Jerusalem. The geographic spread of the returnees parallels the list of nations here. Low volume, plausible thematic coherence with a restoration-of-the-dispersed reading; contested.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:28-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The crowd's marveling that each hears the disciples 'speaking in our own tongues the mighty works of God' realizes Joel's promised universal prophesying poured out on all flesh; the mockery of drunkenness (v.13) sets up Peter's Joel citation directly. Recurrence within the chapter is explicit; thematic coherence high.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:14-21",
+    "echoes": [
+      {
+        "source": "Joel 2:28-32",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formal, formula-marked citation ('this is what was spoken through the prophet Joel,' v.16) reproducing Joel 2:28-32 (LXX 3:1-5) at high verbal volume: pouring out the Spirit on all flesh, sons/daughters prophesying, young men visions, old men dreams, servants and handmaids, wonders in heaven and signs on earth, blood/fire/smoke, sun to darkness and moon to blood before the great day of the Lord, and whoever calls on the name of the Lord shall be saved. Luke's 'in the last days' adapts Joel's 'afterward.' The anchor quotation of the chapter; maximal on all three auditable tests.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 19:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'smoke' (kapnos) among the apocalyptic signs (v.19) may resonate with the smoke of Sinai where 'the mountain was wholly in smoke' at the theophany, reinforcing the Sinai-Pentecost frame. Low volume and the wording is governed by Joel; contested.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 4:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Before the great and notable day of the Lord' overlaps the Malachi expectation of the great and dreadful day of the LORD; the phrase is shared eschatological idiom that Joel and Malachi both carry. Faint and mediated through Joel; contested as an independent source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:22-28",
+    "echoes": [
+      {
+        "source": "Psalm 16:8-11",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formal citation introduced by 'David says concerning him' (v.25), reproducing Psalm 16:8-11 (LXX 15:8-11) at very high verbal volume: 'I saw the Lord always before me... at my right hand... my heart was glad, my tongue rejoiced, my flesh will dwell in hope, you will not abandon my soul to Hades nor let your Holy One see corruption; you made known to me the ways of life.' The corruption/incorruption clause is the load-bearing proof, expounded in vv.29-31. Maximal on all tests; recurrence reinforced by the same psalm in Acts 13.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 18:4-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Freed him from the agony/pangs of death' (v.24) uses ōdines thanatou, the LXX rendering of the 'cords/pangs of death' surrounding the psalmist (Ps 18:4-5; 2 Sam 22:5-6), where God delivers from Sheol. Low-to-moderate verbal volume on the death-pangs phrase; thematic coherence with deliverance from death is strong, but the wording is a stock LXX idiom (also Ps 116:3), so contested.",
+        "contested": true,
+        "altSource": "Psalm 116:3"
+      }
+    ]
+  },
+  {
+    "id": "2.5",
+    "ch": 2,
+    "ref": "2:29-36",
+    "echoes": [
+      {
+        "source": "Psalm 110:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formal citation introduced by 'he says himself' (v.34), reproducing Psalm 110:1 (LXX 109:1) at high verbal volume: 'The Lord said to my Lord, Sit at my right hand until I make your enemies a footstool for your feet.' Used to prove the exaltation/enthronement that David did not himself attain. Maximal on volume; recurrence is very high (most-cited OT verse in the NT) and thematic coherence with the resurrection-exaltation argument is exact.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 132:11",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'God had sworn with an oath to him that of the fruit of his body (loins)... he would set one on his throne' (v.30) is a near-verbatim echo of Psalm 132:11 LXX (God's sworn oath to David, 'of the fruit of your body I will set upon your throne'). High verbal volume in the oath-and-throne clause; thematic coherence with the Davidic-messianic argument is exact. Functions as an embedded citation alongside the Nathan oracle.",
+        "contested": false,
+        "altSource": "2 Samuel 7:12-13"
+      },
+      {
+        "source": "2 Samuel 7:12-13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Davidic covenant promise that God would raise up David's offspring and establish his kingdom/throne forever underlies 'God had sworn... that he would raise up the Christ to sit on his throne' (v.30). Strong thematic coherence and recurrence (the Nathan oracle is foundational to NT messianism); volume mediated through Ps 132. Paired with Ps 132:11 as the basis of David's prophetic foresight.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 2:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'David both died and was buried, and his tomb is with us to this day' (v.29) draws on the notice that David 'slept with his fathers and was buried in the city of David' (1 Kgs 2:10), the historical premise of the argument that Psalm 16 cannot ultimately refer to David. Moderate verbal volume (death-and-burial formula), high thematic coherence as the hinge of Peter's exegesis.",
+        "contested": false,
+        "altSource": "1 Kings 2:10"
+      },
+      {
+        "source": "Psalm 16:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Peter re-cites the climactic line of Psalm 16 in vv.31 ('neither was his soul left in Hades, nor did his flesh see corruption') as the resolved exposition of the quotation given in vv.25-28. Direct re-quotation at high volume; recurrence within the pericope is the structural point of the argument.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "2.6",
+    "ch": 2,
+    "ref": "2:37-41",
+    "echoes": [
+      {
+        "source": "Joel 2:32",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The promise is to you and to your children and to all who are far off, as many as the Lord our God will call to himself' (v.39) picks up Joel's closing clause ('whoever calls on the name of the Lord... among the survivors whom the Lord calls'), already quoted in v.21. The 'as many as the Lord shall call' is a deliberate verbal echo of Joel's remnant 'whom the Lord calls.' Moderate volume, strong recurrence (re-using the just-cited oracle), high coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 57:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'To all who are far off' (tois eis makran, v.39) echoes Isaiah's 'Peace, peace, to the far and to the near' (Isa 57:19 LXX, 'those far off and those near'), an OT idiom for the inclusion of the distant/diaspora and, ultimately, the nations. Moderate verbal volume on the 'far off' phrase; thematic coherence with Acts' universal mission is high. Reused in NT reconciliation language elsewhere, supporting recurrence.",
+        "contested": false,
+        "altSource": "Isaiah 57:19"
+      },
+      {
+        "source": "Deuteronomy 32:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Save yourselves from this crooked generation' (v.40) draws on the Song of Moses' indictment of Israel as 'a perverse and crooked generation' (Deut 32:5, skolias), the standard LXX phrase for covenant-faithless Israel. Moderate verbal volume (genea skolia), strong thematic coherence as a call to separate from the faithless generation.",
+        "contested": false,
+        "altSource": "Deuteronomy 32:20"
+      },
+      {
+        "source": "Zechariah 12:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Being 'cut to the heart' (katenygēsan, v.37) on recognizing the one they crucified resonates with Zechariah's promise that they will 'look on him whom they pierced' and mourn. Low verbal volume (different roots), but thematic coherence (contrition over the slain/pierced one) is suggestive; contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.7",
+    "ch": 2,
+    "ref": "2:42-47",
+    "echoes": [
+      {
+        "source": "Deuteronomy 15:4-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The community 'had all things in common... and distributed to all, as any had need' (vv.44-45) realizes the Deuteronomic ideal that 'there shall be no poor among you' if Israel obeys, with goods shared so none lacks. Moderate volume via the 'need/no poor' motif; thematic coherence high, and Luke develops it again in Acts 4:34 ('there was not a needy person'), echoing Deut 15 directly, which supplies recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 23:15-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The whole chapter unfolds on the Feast of Weeks/Pentecost (Lev 23:15-21, fifty days from Passover, with firstfruits offered), and the harvest of 'about three thousand souls' added (v.41) reads as the firstfruits of the eschatological harvest gathered on that very feast. Low verbal volume; calendrical and firstfruits-harvest coherence is the basis; contested as deliberate allusion.",
+        "contested": true,
+        "altSource": "Exodus 23:16"
+      },
+      {
+        "source": "Malachi 3:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The devout, fearing community joined in fellowship and praise, growing daily, faintly recalls the remnant who 'feared the LORD and spoke with one another,' written in the book of remembrance. Very faint, thematic-coherence-only; contested.",
+        "contested": true
+      }
+    ]
+  }
+]

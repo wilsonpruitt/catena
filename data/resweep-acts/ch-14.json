@@ -1,0 +1,256 @@
+[
+  {
+    "id": "14.1",
+    "ch": 14,
+    "ref": "14:1-7",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Lord 'testified to the word of his grace, granting signs and wonders to be done by their hands' (v3). The pair 'signs and wonders' (sēmeia kai terata) is the fixed Septuagintal idiom for the Exodus deliverance, where the Lord 'showed signs and wonders' against Egypt. Thematic Coherence is strong (divine attestation of the messenger); Volume rests on the set two-word phrase. Plausibility high: Luke saturates Acts with Exodus-shaped signs-and-wonders language.",
+        "contested": false,
+        "altSource": "Exodus 7:3"
+      },
+      {
+        "source": "Deuteronomy 34:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Reinforces the 'signs and wonders' idiom by tying it specifically to a commissioned human agent (Moses 'whom the Lord sent to do all the signs and wonders'), paralleling miracles done 'by their hands.' Recurrence within the Pentateuch supports the topos; Volume is faint on its own. Contested as a distinct source rather than part of the broader Exodus signs-and-wonders cluster.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 24:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The plot to 'mistreat and stone them' (v5) presupposes the Torah's mode of execution by stoning, carried out by the community and its rulers. Volume low (no verbal borrowing), but the legal practice underlies the narrative threat. Contested: the link is conceptual to the institution of stoning rather than to this verse specifically.",
+        "contested": true,
+        "altSource": "Deuteronomy 17:5"
+      }
+    ]
+  },
+  {
+    "id": "14.2",
+    "ch": 14,
+    "ref": "14:8-13",
+    "echoes": [
+      {
+        "source": "Isaiah 35:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The man 'a cripple from his mother's womb, who never had walked' is healed and 'leaped up and walked' (vv8-10). Isaiah's eschatological promise, 'then shall the lame man leap (halletai) as a hart,' supplies the rare verb and the lame-restored motif. Volume high (distinctive 'leap' for a healed lame man); Thematic Coherence strong (the dawning age of restoration enacted among the nations); Recurrence good (Isa 35 is a programmatic restoration text echoed across Luke-Acts).",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 2:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's command 'Stand upright on your feet!' (v10) echoes the prophetic summons 'Son of man, stand upon your feet, and I will speak with you.' Volume rests on the shared imperative to stand on the feet; Thematic Coherence moderate (a word of power that raises a prostrate/incapable person). Contested whether Luke intends a prophetic-call resonance or merely a healing command.",
+        "contested": true,
+        "altSource": "Ezekiel 3:24"
+      },
+      {
+        "source": "Psalm 115:4-8",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The crowd cries 'The gods have come down to us in the likeness of men' and the priest of Zeus prepares oxen and garlands (vv11-13). The psalm's mockery of idols 'the work of men's hands' frames the scene's irony: the living agents of God are taken for the lifeless gods of the nations. Volume nil (no verbal contact); the link is typological-thematic, exposing pagan idolatry. Contested as an intended echo.",
+        "contested": true,
+        "altSource": "Psalm 135:15-18"
+      }
+    ]
+  },
+  {
+    "id": "14.3",
+    "ch": 14,
+    "ref": "14:14-18",
+    "echoes": [
+      {
+        "source": "Exodus 20:11",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The summons to turn to 'the living God, who made the sky and the earth and the sea, and all that is in them' (v15) reproduces the Sabbath-commandment formula 'the Lord made the heaven and the earth, the sea, and all that is in them.' Volume very high (the full four-membered creation list verbatim); Thematic Coherence strong (Creator vs. the 'vain things' of idolatry). The clearest scriptural backbone of the Lystra speech.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 146:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Parallel source for v15: the Lord 'who made the heaven and the earth, the sea, and all that is in them,' here explicitly tied to the 'living' God who keeps faith and provides. Volume very high (same creation catalogue); Thematic Coherence strong (God as faithful provider, matching v17's rains and food). Likely conflated with Exod 20:11 in the speech's monotheistic appeal.",
+        "contested": false
+      },
+      {
+        "source": "Nehemiah 9:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezra's prayer, 'You are the Lord alone; you have made heaven... the earth... the seas, and all that is in them, and you preserve them all,' is the great post-exilic monotheistic confession built on the same creation list and joined to providential preservation, both present in vv15-17. Volume moderate (creation catalogue plus preservation); Recurrence supports the formula's currency in Second Temple worship.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 95:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The sea is his, for he made it, and his hands formed the dry land' undergirds v15's pairing of sea and earth as the Creator's work and stands behind the call to worship the true God rather than idols. Volume moderate; Thematic Coherence high (creation as ground for worship, against false gods).",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'In the beginning God made the heaven and the earth' is the headwater of the heaven-and-earth creation language deployed in v15. Volume moderate (foundational phrasing) but diffuse, since the speech follows the fuller Exod/Ps liturgical lists rather than Genesis directly. Recurrence very high across Scripture.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The exhortation to 'turn from these vain things' (mataia, v15) draws on the prophetic-Pentateuchal label for idols as 'vanities' that 'provoked me with their vanities/no-gods.' Volume moderate (mataia is the LXX term for idols); Thematic Coherence strong (idols as empty nothings opposed to the living God). Contested only as to which idol-vanity text is primary.",
+        "contested": false,
+        "altSource": "Jeremiah 2:5"
+      },
+      {
+        "source": "Jeremiah 14:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Are there any among the vanities (idols) of the nations that can cause rain? ... it is you, O Lord our God,' directly ties the 'vain things' of v15 to the rain-giving of v17: the nations' idols cannot give rain, but the living God does. Volume moderate but precise (vanities + rain), making this an unusually apt double-link. Thematic Coherence very high.",
+        "contested": false
+      },
+      {
+        "source": "Jonah 2:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Those who regard vain idols (mataia) forsake their own mercy' adds Recurrence to the 'vain things' (v15) idol-vocabulary in a Gentile setting (Nineveh/sailors), apt to a speech to pagans. Volume faint (single shared term). Contested as a discrete source within the broad idol-vanity cluster.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 5:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The living God' (v15) is a fixed OT epithet distinguishing the true God from idols; Deut 5:26 ('the voice of the living God') is a Pentateuchal anchor. Volume moderate (set title); Thematic Coherence high (living God vs. dead idols, the speech's thesis). Recurrence very high across the OT.",
+        "contested": false,
+        "altSource": "Joshua 3:10"
+      },
+      {
+        "source": "Psalm 81:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'who in the generations gone by allowed all the nations to walk in their own ways' (v16) echoes God giving Israel 'up to their own hearts' lusts, and they walked in their own counsels.' Volume moderate (the idiom of being let to walk in one's own ways); Thematic Coherence strong (divine forbearance/handing-over of the nations). Contested between this and the Deut 32 nations-allotment tradition.",
+        "contested": true,
+        "altSource": "Deuteronomy 32:8"
+      },
+      {
+        "source": "Deuteronomy 11:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'he... gave you rains from the sky and fruitful seasons' (v17) reflects the covenant promise 'I will give the rain of your land in its season, the early and the latter rain, that you may gather in your grain.' Volume high (rain given in due season → harvest); Thematic Coherence strong (God's good gifts as witness). A core text for the natural-revelation argument.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 26:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I will give you rain in its season, and the land shall yield its produce' parallels the rains and 'fruitful seasons' of v17. Volume moderate; Recurrence reinforces the Pentateuchal rain-blessing topos alongside Deut 11:14.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 5:24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Let us fear the Lord our God, who gives rain, both the early and the latter, in its season, who keeps for us the appointed weeks of the harvest' is the closest prophetic parallel to v17's rains and 'fruitful seasons.' Volume high (rain in season + fixed harvest seasons); Thematic Coherence strong (creation's seasons as a witness summoning to fear/turn to God).",
+        "contested": false
+      },
+      {
+        "source": "Psalm 65:9-13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The psalm of God visiting the earth with rain, enriching it, crowning the year with bounty so the valleys 'shout for joy,' matches v17's rains, fruitful seasons, and resulting 'food and gladness.' Volume moderate (rain → fertility → joy sequence); Thematic Coherence high (providence evoking gladness).",
+        "contested": false
+      },
+      {
+        "source": "Psalm 147:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'who covers the heaven with clouds, who prepares rain for the earth, who makes grass to grow on the mountains' echoes v17's rains-from-heaven-producing-food. Volume moderate; Recurrence supports the providence-praise tradition.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 104:14-15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God brings forth food from the earth and 'wine that gladdens the heart of man... and bread that strengthens man's heart' closely matches v17's 'filling our hearts with food and gladness.' Volume moderate-to-high (food + gladness of heart); Thematic Coherence strong (creation's provision as joy-giving witness).",
+        "contested": false
+      },
+      {
+        "source": "Psalm 4:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You have put gladness in my heart, more than in the time their grain and wine increased' overlaps v17's 'filling our hearts with... gladness' linked to harvest abundance. Volume faint (gladness in the heart + grain/wine); contested as distinct from Ps 104.",
+        "contested": true
+      },
+      {
+        "source": "Job 5:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'who gives rain on the earth, and sends water on the fields' adds Recurrence to the rain-as-divine-gift motif of v17. Volume faint (general statement); contested as an intended source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.4",
+    "ch": 14,
+    "ref": "14:19-20",
+    "echoes": [
+      {
+        "source": "Numbers 15:35-36",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul is stoned and 'dragged out of the city' (v19), reflecting the Torah practice of taking the condemned 'outside the camp' to be stoned. Volume moderate (stoning + expulsion from the community space); Thematic Coherence moderate (Paul suffers the prophet's/martyr's fate at the city's edge). Contested between this and Lev 24.",
+        "contested": true,
+        "altSource": "Leviticus 24:14"
+      },
+      {
+        "source": "2 Chronicles 24:21",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The stoning of Paul, left for dead yet rising (vv19-20), stands in the typological line of God's messengers stoned for their witness, exemplified by Zechariah son of Jehoiada, stoned 'in the court of the house of the Lord.' Volume nil verbally; the link is the figural pattern of the persecuted prophet. Plausibility good given Luke's persecuted-witness theme; contested as an intended allusion.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 34:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Many are the afflictions of the righteous, but the Lord delivers him out of them all' fits Paul's stoning and immediate rising (vv19-20), anticipating the explicit 'many afflictions' of v22. Volume faint; contested as a deliberate echo here rather than a general providence motif.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.5",
+    "ch": 14,
+    "ref": "14:21-28",
+    "echoes": [
+      {
+        "source": "Numbers 11:16-17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'When they had appointed elders for them in every assembly' (v23) reflects the foundational appointment of elders to share leadership of God's people, where Moses gathers seventy elders to bear the burden with him. Volume moderate (institution of elders for the community); Thematic Coherence strong (ordered leadership over the people of God). Contested between this and the Exod 18 model.",
+        "contested": true,
+        "altSource": "Exodus 18:21"
+      },
+      {
+        "source": "Psalm 34:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'through many afflictions we must enter into the Kingdom of God' (v22) restates the wisdom that 'many are the afflictions of the righteous, but the Lord delivers him out of them all.' Volume moderate (the phrase 'many afflictions'); Thematic Coherence strong (suffering as the path of the faithful toward deliverance).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "figural",
+        "confidence": "low",
+        "note": "God 'had opened a door of faith to the nations' (v27) realizes the Servant's mandate to be 'a light to the nations, that you may be my salvation to the end of the earth,' a programmatic Gentile-mission text in Luke-Acts (cf. Acts 13:47). Volume nil here (no verbal contact in v27); the link is the figural fulfillment of the nations' inclusion. Contested as an echo within this verse specifically.",
+        "contested": true
+      }
+    ]
+  }
+]

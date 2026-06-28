@@ -1,0 +1,254 @@
+[
+  {
+    "id": "12.1",
+    "ch": 12,
+    "ref": "12:1-5",
+    "echoes": [
+      {
+        "source": "Exodus 12:14-20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Luke explicitly times the arrest 'during the days of unleavened bread' and intends to bring Peter out 'after the Passover,' anchoring the whole episode in the Exodus 12 festival calendar. The verbal marker (azuma / pascha) is direct, and the placement is deliberate: the coming deliverance of Peter is staged against the festival commemorating Israel's deliverance.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 1:8-22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "A hostile king 'stretching out his hand' against God's people, killing them, and seeking to suppress the growing community recalls Pharaoh's campaign against Israel. The figural pairing (tyrant vs. people on the eve of Passover) is reinforced by the chapter's later 'grew and multiplied' (cf. Exod 1:7). Thematic coherence is strong though verbal volume is low.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 21:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your hand will find out all your enemies' — the idiom of the royal hand reaching out to seize. Faint lexical resonance with 'stretched out his hands'; offered as a contested possibility for the persecuting-hand motif.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.2",
+    "ch": 12,
+    "ref": "12:6-11",
+    "echoes": [
+      {
+        "source": "Exodus 12:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The angel's commands — 'Get dressed and put on your sandals... Put on your cloak' — closely mirror the Passover instruction to eat 'with your waist girded, your sandals on your feet,' ready to depart in haste. Given the explicit Passover setting (12:3-4), the verbal volume and thematic coherence make this the keystone allusion: Peter's release is a re-enacted exodus.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 107:10-16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Such as sat in darkness... bound in affliction and iron... he brought them out of darkness, and broke their chains in pieces. He has broken the gates of bronze, and cut the bars of iron asunder.' Striking convergence with the dark cell, the chains falling off, and the iron gate opening. High thematic coherence and notable volume for the prison-deliverance imagery.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 6:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'My God has sent his angel, and has shut the lions' mouths' parallels Peter's confession, 'the Lord has sent out his angel and delivered me.' Both feature a righteous man condemned by a king, divinely rescued by an angel overnight, with near-identical 'God sent his angel' formula. Recurrence of the angelic-deliverance type is strong.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 34:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The angel of the LORD encamps around those who fear him, and delivers them.' The pairing of 'angel of the Lord' with 'delivers' matches Peter's two-fold language exactly in theme. Moderate volume, high coherence with the rescue motif.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 19:5-7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "An angel rouses the sleeping prophet Elijah by touch — 'he touched him, and said, Arise' — paralleling the angel who 'struck Peter on the side, and woke him up, saying, Stand up quickly.' Shared scene-grammar of angelic touch-and-rouse; verbal volume modest.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 18:8-10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jethro blesses the LORD who 'delivered you out of the hand of Pharaoh... out of the hand of the Egyptians.' Peter's 'delivered me out of the hand of Herod' reuses the classic exodus 'out of the hand of [the king]' deliverance idiom, reinforcing the Passover framing.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 146:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The LORD looses the prisoners... opens the eyes of the blind.' Part of the cluster of psalmic prisoner-release imagery (with Ps 107, 116) reinforcing the recurrence test for divine liberation of the bound.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 116:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You have loosed my bonds.' Faint echo within the prisoner-release cluster; low volume, offered maximally.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 13:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The pillar of fire that 'gave them light' to go by night faintly anticipates the 'light shone in the cell' guiding Peter's nighttime departure — a light-by-night deliverance motif keyed to the exodus.",
+        "contested": true
+      },
+      {
+        "source": "2 Maccabees 3:24-28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Angelic intervention against an intruder in the temple treasury exemplifies the deuterocanonical angelic-rescue/judgment type that frames Acts 12 as a whole; faint, offered for recurrence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.3",
+    "ch": 12,
+    "ref": "12:12-17",
+    "echoes": [
+      {
+        "source": "Tobit 5:4-22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The community's reaction 'It is his angel' presupposes a Second-Temple guardian-angel belief whose narrative roots include Raphael accompanying Tobias. No verbal borrowing, but a conceptual background echo for the angel-as-double notion.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 18:1-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The motif of disbelief and laughter/incredulity at an unexpected, joyful announcement (Sarah at the door of the tent) faintly mirrors the gathered believers calling Rhoda 'crazy' and refusing to credit the good news. Very faint; offered maximally.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.4",
+    "ch": 12,
+    "ref": "12:18-19",
+    "echoes": [
+      {
+        "source": "Daniel 6:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The reversal whereby those who guarded/accused the rescued righteous man are themselves put to death parallels Darius casting Daniel's accusers to the lions after his deliverance. The guards executed in Herod's place reflect the same ironic-substitution pattern.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 14:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "After the Passover/exodus deliverance, the pursuing soldiers perish; the death of Herod's squads following Peter's escape faintly continues the exodus typology (deliverance of the people, destruction of the captor's forces).",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.5",
+    "ch": 12,
+    "ref": "12:20-23",
+    "echoes": [
+      {
+        "source": "2 Maccabees 9:5-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The death of the proud persecutor Antiochus Epiphanes — struck by God, his body breeding worms, rotting while still alive, finally acknowledging he is mortal not divine — is the closest model for Herod 'eaten by worms' for failing to 'give God the glory.' Shared distinctive elements (proud king, worm-affliction, divine smiting, refusal/recognition of mortality) give high volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 28:2-10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Set precisely against Tyre and Sidon, this oracle condemns the prince of Tyre who said 'I am a god, I sit in the seat of God,' declaring he is a man and not a god, struck dead by judgment. The crowd's 'voice of a god, and not of a man!' and Herod's instant death make this a pointed, geographically apt allusion (Tyre/Sidon supply context, 12:20).",
+        "contested": false
+      },
+      {
+        "source": "Daniel 4:30-33",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Nebuchadnezzar's self-glorifying speech ('Is not this great Babylon, which I have built...') is immediately answered by a voice from heaven and divine humbling. The pattern of a king's prideful public oration met by sudden God-sent affliction for failing to honor God strongly parallels Herod's throne speech and stroke.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 5:20-23",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Belshazzar is condemned because he 'lifted up himself' and did not glorify 'the God in whose hand your breath is.' The explicit charge against Herod — 'he didn't give God the glory' — matches Daniel's indictment of the king who withholds glory from God.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 14:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The taunt over the fallen king of Babylon: 'the maggot is spread under you, and worms cover you.' The worm-judgment on a king who exalted himself 'above the stars of God' resonates with Herod's worm-eaten death for usurping divine honors.",
+        "contested": false
+      },
+      {
+        "source": "Judith 16:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Lord Almighty will take vengeance on them in the day of judgment; he will send fire and worms into their flesh.' Deuterocanonical worm-and-fire judgment language for the enemies of God supports the recurrence of the worm-death motif as divine punishment.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 42:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I am the LORD... my glory I will not give to another.' Undergirds the explicit rationale 'he didn't give God the glory'; God's jealousy for his glory is the principle Herod violates by accepting acclamation as a god.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 10:9-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Why is earth and ashes proud?'... God 'casts down the thrones of rulers, and sets up the meek' and afflicts the proud — a wisdom meditation on the downfall of arrogant kings that thematically frames Herod's enthroned pride and sudden fall.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 5:9-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Tyre's dependence on Israelite/royal grain supply (Hiram's people fed from Solomon's stores) supplies the background to 'their country depended on the king's country for food' (12:20). A historical-cultural echo rather than a textual citation.",
+        "contested": true
+      },
+      {
+        "source": "2 Maccabees 9:8-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Specifically: Antiochus 'thought he could command the waves of the sea... and weigh the high mountains in a balance' yet 'worms swarmed out of his body' and his flesh decayed. The juxtaposition of god-like presumption with worm-infested collapse is the sharpest single parallel to Herod's fate and may be cited distinctly within the 2 Macc 9 unit.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "12.6",
+    "ch": 12,
+    "ref": "12:24-25",
+    "echoes": [
+      {
+        "source": "Exodus 1:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The children of Israel were fruitful, and increased abundantly, and multiplied' — set immediately after Pharaoh's failed oppression, exactly as 'the word of God grew and multiplied' caps Herod's failed persecution. The exodus-typology of Acts 12 makes this growth-after-tyrant verbal echo deliberate.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The creation mandate 'be fruitful and multiply' supplies the underlying 'grow and multiply' diction that Luke applies to the word of God, personifying it as a living, increasing entity.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 55:10-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's word that goes forth and does not return empty but accomplishes and prospers undergirds the notion of the 'word of God' itself growing and multiplying as an active force; thematic rather than verbal.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "19.1",
+    "ch": 19,
+    "ref": "19:1-7",
+    "echoes": [
+      { "source": "Joel 2:28-29", "type": "allusion", "confidence": "medium", "note": "The Spirit comes upon the twelve disciples and they prophesy and speak in other tongues. Joel's promise of the outpoured Spirit producing prophecy (Volume: shared Spirit-prophecy idiom; Recurrence: this is Luke's programmatic Pentecost text from Acts 2, re-applied here to a 'second Pentecost' at Ephesus; Thematic Coherence: strong, the Spirit poured on believers issuing in prophetic speech). Satisfaction: the Ephesian episode reads as a deliberate echo of the Joel fulfillment Luke announced in Acts 2.", "contested": false },
+      { "source": "Numbers 11:25-29", "type": "echo", "confidence": "medium", "note": "When the Spirit rests on the seventy elders they prophesy; here the Spirit comes and the twelve prophesy. The corporate, derivative bestowal of the Spirit producing immediate prophecy is a close conceptual match (Volume: moderate; Recurrence: Luke elsewhere draws on Numbers 11 Moses/spirit motifs; Coherence: high). Moses' wish that all the Lord's people were prophets stands behind Luke's spreading-Spirit theology.", "contested": true },
+      { "source": "Numbers 27:18-23", "type": "echo", "confidence": "low", "note": "Paul lays his hands on the disciples and the Spirit comes; Moses lays hands on Joshua, a man in whom is the Spirit, transferring authority. The laying-on-of-hands-to-convey-Spirit gesture has its primary OT root here (with Deut 34:9). Low volume, contested as it may simply be a fixed cultic gesture.", "contested": true },
+      { "source": "Deuteronomy 34:9", "type": "echo", "confidence": "low", "note": "Joshua was full of the spirit of wisdom because Moses had laid his hands on him; here laying on of hands conveys the Spirit. Reinforces the Mosaic hand-laying/Spirit-transfer pattern. Low volume, contested.", "contested": true },
+      { "source": "1 Samuel 10:6", "type": "echo", "confidence": "low", "note": "The Spirit of the Lord rushes upon Saul and he prophesies, turned into another man; here the Spirit comes and the disciples prophesy. A stock OT pattern of Spirit-onset producing ecstatic prophecy. Contested, faint verbal contact.", "contested": true },
+      { "source": "Isaiah 40:3", "type": "echo", "confidence": "low", "note": "Paul explains John's baptism as preparatory, pointing to the Coming One. John's whole ministry is grounded in the Isaian voice preparing the way; this verse explicitly recalls the forerunner role. Faint here since the verbal weight is minimal in this pericope.", "contested": true }
+    ]
+  },
+  {
+    "id": "19.2",
+    "ch": 19,
+    "ref": "19:8-10",
+    "echoes": [
+      { "source": "Ezekiel 3:7", "type": "allusion", "confidence": "medium", "note": "Paul preaches boldly in the synagogue until some are hardened and disobedient, speaking evil of the Way; Ezekiel is told the house of Israel will not listen because they are hard of forehead and stubborn of heart. The hardened-hearer motif of the prophet's rejected word is strongly coherent (Volume: shared hardening/refusal language; Recurrence: Luke uses Israel-hardening as a structuring theme in Acts; Coherence: high).", "contested": true },
+      { "source": "Isaiah 6:9-10", "type": "echo", "confidence": "medium", "note": "The hardening of those who hear the word, leading the messenger to turn elsewhere, echoes Isaiah's commission to a people whose heart is made fat and will not understand. Luke cites this text explicitly in Acts 28 as the climactic interpretation of Jewish unbelief, making it a recurring lens here. Coherence high; verbal contact in this pericope is allusive.", "contested": true },
+      { "source": "Daniel 2:44", "type": "echo", "confidence": "low", "note": "Paul reasons and persuades about the Kingdom of God for three months. Daniel's God of heaven who sets up an everlasting kingdom is a chief OT source of the kingdom-of-God language. Faint, since the phrase is summary. Contested.", "contested": true },
+      { "source": "Isaiah 55:11", "type": "echo", "confidence": "low", "note": "Over two years all who lived in Asia heard the word of the Lord; Isaiah's word that goes out and does not return empty but accomplishes its purpose underlies Luke's repeated 'the word spread/grew' refrain. Faint here, fuller at 19:20. Contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "19.3",
+    "ch": 19,
+    "ref": "19:11-12",
+    "echoes": [
+      { "source": "2 Kings 13:21", "type": "echo", "confidence": "medium", "note": "Cloths that had touched Paul's body heal the sick and expel spirits; mere contact with Elisha's bones revives a dead man. The motif of healing power mediated through physical contact with a holy person (even at a remove) is a strong conceptual parallel to the Elisha cycle (Volume: shared contact-healing logic; Recurrence: Luke models Paul/Peter on Elijah-Elisha; Coherence: high).", "contested": true },
+      { "source": "2 Kings 4:29-35", "type": "echo", "confidence": "low", "note": "Elisha sends his staff (an extension of himself) ahead to heal, then heals by bodily contact; here objects from Paul's body carry healing virtue. The mediating-object pattern links the two. Low volume, contested.", "contested": true },
+      { "source": "2 Kings 2:8", "type": "echo", "confidence": "low", "note": "Elijah's mantle, a garment of the holy man, works miracle when applied; Paul's handkerchiefs and aprons function similarly as charged garments. Faint, contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "19.4",
+    "ch": 19,
+    "ref": "19:13-17",
+    "echoes": [
+      { "source": "Exodus 20:7", "type": "echo", "confidence": "low", "note": "Jewish exorcists invoke the name of the Lord Jesus illegitimately and are violently humiliated; the prohibition against taking the divine name in vain stands behind the danger of wielding a holy name without authorization. Conceptual, low verbal contact. Contested.", "contested": true },
+      { "source": "Psalm 34:3", "type": "echo", "confidence": "low", "note": "The outcome is that the name of the Lord Jesus is magnified; the psalmist's call to magnify the Lord and exalt his name supplies the idiom. Faint, formulaic. Contested.", "contested": true },
+      { "source": "1 Samuel 5:1-5", "type": "echo", "confidence": "low", "note": "The evil spirit overpowers the would-be exorcists who flee naked and wounded, exposing the impotence of those who presume on holy power; compare the humiliation of Dagon falling before the ark when the holy is mishandled by outsiders. Figural parallel of the sacred overpowering presumptuous handlers. Faint, contested.", "contested": true },
+      { "source": "Malachi 1:11", "type": "echo", "confidence": "low", "note": "Fear falls and the name of the Lord is magnified among Jews and Greeks alike; Malachi's vision of the Lord's name being great among the nations resonates with the name being exalted across ethnic lines at Ephesus. Faint, contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "19.5",
+    "ch": 19,
+    "ref": "19:18-20",
+    "echoes": [
+      { "source": "Deuteronomy 18:10-12", "type": "allusion", "confidence": "high", "note": "Magicians publicly renounce and burn their books of magical arts; Deuteronomy names sorcery, divination, and the practice of magic as detestable abominations to be purged from Israel. The repudiation of magic is the precise behavior the law demands (Volume: strong thematic match of magic-renunciation; Recurrence: Luke repeatedly opposes the gospel to magic, Simon in ch.8, Bar-Jesus in ch.13; Coherence: high). The book-burning enacts the Deuteronomic purge.", "contested": false },
+      { "source": "Exodus 22:18", "type": "allusion", "confidence": "medium", "note": "The destruction of magical practice at Ephesus enacts the law's severe stance against sorcery, you shall not permit a sorceress to live. The Ephesians do not kill but burn the apparatus, yet the abolition of magic from the believing community is the same impulse. Coherence high; allusive.", "contested": true },
+      { "source": "Leviticus 19:31", "type": "echo", "confidence": "medium", "note": "Believers turn from magical arts; Leviticus forbids turning to mediums and wizards lest one be defiled. The conversion-from-occult theme coheres strongly. Contested in that no single phrase is quoted.", "contested": true },
+      { "source": "Isaiah 47:9-13", "type": "echo", "confidence": "medium", "note": "Babylon's abundance of sorceries and enchantments cannot save her and will be burned like stubble; here the magicians' costly books (50,000 pieces of silver) are burned, the impotence of magic exposed before the word. A pointed figural parallel of magic consumed by fire. Contested.", "contested": true },
+      { "source": "Micah 5:12", "type": "echo", "confidence": "low", "note": "I will cut off sorceries from your hand, and you shall have no more soothsayers; the eschatological cleansing of magic from God's people is enacted at Ephesus. Faint, contested.", "contested": true },
+      { "source": "Proverbs 28:13", "type": "echo", "confidence": "low", "note": "Believers come confessing and declaring their deeds; whoever confesses and forsakes his sins obtains mercy. The open confession-and-renunciation pattern coheres. Faint, contested.", "contested": true },
+      { "source": "Isaiah 55:11", "type": "echo", "confidence": "low", "note": "So the word of the Lord grew mightily and prevailed; Isaiah's effectual word that accomplishes God's purpose underlies Luke's growth refrain. Faint, formulaic. Contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "19.6",
+    "ch": 19,
+    "ref": "19:21-22",
+    "echoes": [
+      { "source": "Daniel 2:44", "type": "echo", "confidence": "low", "note": "Paul resolves in the spirit on a journey culminating at Jerusalem and Rome, the imperial center; Daniel's vision of God's kingdom set up in the days of the Gentile empires gives a backdrop to the gospel's march toward Rome. Very faint, contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "19.7",
+    "ch": 19,
+    "ref": "19:23-27",
+    "echoes": [
+      { "source": "Isaiah 44:9-20", "type": "allusion", "confidence": "high", "note": "Demetrius's silversmiths make shrines of Artemis, and Paul has taught that gods made with hands are no gods; Isaiah's great satire on the craftsman who fashions an idol with his own hands and then worships it is the controlling OT polemic (Volume: strong, the made-with-hands idol-craftsman is the shared center; Recurrence: idol-polemic recurs across Isaiah and the Psalms which Luke knows; Coherence: very high, the economic self-interest of the idol-trade mirrors Isaiah's irony). Plausibility and satisfaction: this is the classic prophetic mockery of manufactured deity.", "contested": false },
+      { "source": "Jeremiah 10:1-16", "type": "allusion", "confidence": "high", "note": "Idols are the work of the craftsman's hands, silver and gold, decked and unable to act; the silversmith is put to shame by his idols. Demetrius the silver craftsman and his guild embody exactly this trade. Strong thematic and lexical coherence (silver, craftsman, the work of human hands). Plausible and satisfying as the source of Paul's 'no gods made with hands.'", "contested": false },
+      { "source": "Jeremiah 16:20", "type": "allusion", "confidence": "medium", "note": "Can man make gods for himself? Such are no gods. Paul's words that they are no gods which are made with hands stand remarkably close to Jeremiah's rhetorical denial. Volume high for the specific phrase; contested only because it is a stock prophetic commonplace.", "contested": true },
+      { "source": "Psalm 115:4-8", "type": "allusion", "confidence": "high", "note": "Their idols are silver and gold, the work of men's hands; those who make them become like them. The silver-shrine trade and the made-with-hands charge directly invoke this psalm's idol-satire. Strong coherence and recurrence (paired with Ps 135).", "contested": false },
+      { "source": "Psalm 135:15-18", "type": "allusion", "confidence": "medium", "note": "The idols of the nations are silver and gold, the work of men's hands, mouths that cannot speak; a near-twin of Ps 115 reinforcing the made-with-hands polemic against the silver Artemis shrines. Coherence high.", "contested": true },
+      { "source": "Wisdom 13:10-19", "type": "allusion", "confidence": "high", "note": "Deuterocanonical satire on the artisan who shapes a worthless image and prays to it for his livelihood; Demetrius openly admits the cult is his source of wealth (v.25). Wisdom's link between idol-craft and economic dependence on dead images is the closest ancient parallel to the silversmiths' protest. Strong coherence; Luke and Paul plausibly stand in this Hellenistic-Jewish idol-polemic tradition.", "contested": false },
+      { "source": "Wisdom 14:8", "type": "echo", "confidence": "medium", "note": "Cursed is the idol and the one who made it; the made object and its maker condemned together. Coheres with the indictment of the manufactured Artemis. Contested.", "contested": true },
+      { "source": "Wisdom 15:7-13", "type": "allusion", "confidence": "medium", "note": "The potter/craftsman who molds gods for gain, knowing he sins, caring only for profit; Demetrius's frank appeal to profit from the shrine-trade matches Wisdom's portrait of the mercenary idol-maker. Strong thematic coherence; contested as one of several overlapping idol texts.", "contested": true },
+      { "source": "Isaiah 46:6-7", "type": "echo", "confidence": "medium", "note": "They lavish gold and weigh out silver, hire a goldsmith to make a god, then bow down; it cannot move or save. The silversmith hiring out his craft to make a deity matches Demetrius's guild. Coherence high; contested among the cluster.", "contested": true },
+      { "source": "Habakkuk 2:18-19", "type": "echo", "confidence": "medium", "note": "What profit is an idol when its maker has shaped it, a teacher of lies, woe to him who says to wood Awake; the futility of the crafted image the maker trusts. Coheres with the made-with-hands theme. Contested.", "contested": true },
+      { "source": "Deuteronomy 4:28", "type": "echo", "confidence": "low", "note": "There you will serve gods, the work of men's hands, wood and stone, which neither see nor hear; the made-with-hands formula. Faint, contested, part of the cluster.", "contested": true }
+    ]
+  },
+  {
+    "id": "19.8",
+    "ch": 19,
+    "ref": "19:28-34",
+    "echoes": [
+      { "source": "1 Kings 18:26-29", "type": "echo", "confidence": "medium", "note": "The crowd cries Great is Artemis of the Ephesians with one voice for about two hours; the prophets of Baal call on their god from morning until noon, O Baal hear us, raving in vain while no one answers. The prolonged, frenzied, futile invocation of a powerless deity is a striking figural parallel exposing the impotence of the idol (Volume: shared marathon-cry of pagan devotees; Coherence: high). Satisfaction: Luke's reader hears the Carmel irony behind the Ephesian shouting.", "contested": true },
+      { "source": "Psalm 2:1", "type": "echo", "confidence": "low", "note": "The whole city is thrown into uproar and rushes together in confusion; why do the nations rage and the peoples plot in vain. The raging Gentile mob set against the Lord's work fits the psalm's tumult of the nations. Faint, contested.", "contested": true },
+      { "source": "Exodus 32:17-19", "type": "echo", "confidence": "low", "note": "A confused mass shouting and surging in devotion to a false god recalls the noise of the camp at the golden calf, a tumult of idolatrous celebration. Figural and faint. Contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "19.9",
+    "ch": 19,
+    "ref": "19:35-41",
+    "echoes": [
+      { "source": "Isaiah 44:9-20", "type": "echo", "confidence": "low", "note": "The town clerk appeals to the image of Artemis that fell from heaven (Diopetes); Isaiah's satire that the idol is in truth a manufactured object stands in tension with the civic claim of a heaven-fallen image, underscoring the irony Luke wants the reader to feel. Faint here, fuller at 19:23-27. Contested.", "contested": true },
+      { "source": "Psalm 65:7", "type": "echo", "confidence": "low", "note": "The town clerk quiets and stills the roaring multitude; only God stills the roaring of the seas and the tumult of the peoples. A faint figural touch on the stilling of crowd-tumult. Contested.", "contested": true },
+      { "source": "Proverbs 29:11", "type": "echo", "confidence": "low", "note": "The clerk urges them to be quiet and do nothing rash; a wise man holds back the fool's outburst of anger. Faint sapiential resonance. Contested.", "contested": true }
+    ]
+  }
+]

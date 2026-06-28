@@ -1,0 +1,71 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-11",
+    "echoes": [
+      { "source": "Joshua 7:1", "type": "figural", "confidence": "high", "note": "The Achan narrative is the controlling template. The verb 'kept back part' (nosphizomai, vv. 2-3) is the same rare term LXX Joshua 7:1 uses for Achan's appropriation of devoted spoil. As Israel's first sin after entering the land brings death into the new covenant community amid divine judgment, so Ananias' withholding brings death into the first days of the Spirit-filled church. Volume, thematic coherence, and recurrence (the lexical link) all converge; the typology is widely recognized.", "contested": false },
+      { "source": "Joshua 7:21", "type": "allusion", "confidence": "high", "note": "Achan confesses he 'coveted' and 'hid' the silver and a portion of the spoil — the precise act of secret retention that Ananias and Sapphira repeat with the price of the land. The shared motif of concealed appropriation of what was set apart strengthens the figural reading.", "contested": false },
+      { "source": "Joshua 7:25", "type": "figural", "confidence": "medium", "note": "Achan and his household are destroyed; the whole assembly witnesses the judgment. The death of a couple acting in concert and the spread of 'great fear' over the assembly (vv. 5, 11) mirror the corporate purgation of sin in the camp.", "contested": false },
+      { "source": "2 Kings 5:20-27", "type": "allusion", "confidence": "medium", "note": "Gehazi secretly takes money Elisha had refused, lies about it, and is struck with judgment. The pattern — covetous secret acquisition of money in the holy sphere, a prophet who discerns the hidden deceit, and a curse falling immediately — closely parallels Peter's exposure of Ananias and Sapphira.", "contested": false },
+      { "source": "Leviticus 10:1-2", "type": "figural", "confidence": "medium", "note": "Nadab and Abihu offer unauthorized fire at the inauguration of priestly worship and are struck dead on the spot, with the surrounding community charged to revere God's holiness. The sudden lethal judgment at the foundational moment of a new cultic order, producing awe, is typologically akin.", "contested": false },
+      { "source": "Numbers 16:31-33", "type": "echo", "confidence": "low", "note": "Korah, Dathan, and Abiram are swallowed in sudden death for violating the divinely ordered community, instilling fear in all Israel. A faint analogue of immediate corporate-purgative judgment.", "contested": true },
+      { "source": "1 Chronicles 21:1", "type": "allusion", "confidence": "medium", "note": "'Satan stood up against Israel and incited David' supplies the only clear OT instance of Satan inciting a sin within the covenant people; Peter's 'why has Satan filled your heart' (v. 3) draws on this conception of satanic instigation prompting an act against God.", "contested": true },
+      { "source": "Psalm 95:9", "type": "allusion", "confidence": "medium", "note": "'When your fathers tested me' frames Israel's wilderness rebellion as 'tempting' the LORD. Peter charges Sapphira with agreeing 'to tempt the Spirit of the Lord' (v. 9), language drawn from the wilderness testing tradition.", "contested": false },
+      { "source": "Deuteronomy 6:16", "type": "allusion", "confidence": "low", "note": "'You shall not test the LORD your God' is the legal locus of the prohibition Sapphira violates; reinforces the 'tempt the Spirit' motif.", "contested": true },
+      { "source": "Exodus 17:2", "type": "echo", "confidence": "low", "note": "Massah, the paradigm of 'testing' the LORD at the waters; faint background to v. 9's 'tempt the Spirit of the Lord.'", "contested": true },
+      { "source": "Zechariah 5:3-4", "type": "echo", "confidence": "low", "note": "The flying scroll is a curse that 'enters the house' of the thief and the false swearer and consumes it; a faint thematic analogue to a deadly curse falling on a deceitful householding couple.", "contested": true }
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:12-16",
+    "echoes": [
+      { "source": "Exodus 7:3", "type": "allusion", "confidence": "medium", "note": "'Signs and wonders' (sēmeia kai terata, v. 12) is the fixed Septuagintal idiom for the LORD's mighty acts in Egypt. Its application to the apostles casts their ministry as a new exodus-scale display of divine power among the people.", "contested": false },
+      { "source": "Deuteronomy 6:22", "type": "allusion", "confidence": "medium", "note": "'The LORD showed signs and wonders, great and grievous, against Egypt' — a recurrent Deuteronomic formula behind Acts' summary that 'many signs and wonders were done among the people.'", "contested": false },
+      { "source": "1 Kings 7:6", "type": "figural", "confidence": "low", "note": "Solomon's portico (stoa) gives the apostles' gathering place its name (v. 12); the Solomonic temple architecture grounds the new community in the continuity of Israel's sanctuary.", "contested": true },
+      { "source": "2 Kings 13:21", "type": "echo", "confidence": "low", "note": "Healing power transmitted through mere contact with Elisha's bones offers a precedent for healing mediated by Peter's passing shadow (v. 15) — power so abundant it operates at the margins of the prophet's person.", "contested": true },
+      { "source": "Isaiah 35:5-6", "type": "echo", "confidence": "low", "note": "The eschatological healing of all the afflicted — the sick made whole — stands behind the summary that the crowds 'were all healed' (v. 16) as a sign of the dawning age of restoration.", "contested": true }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:17-26",
+    "echoes": [
+      { "source": "Jeremiah 7:2", "type": "allusion", "confidence": "medium", "note": "'Stand in the gate of the LORD's house and proclaim there this word' parallels the angel's commission, 'Go stand and speak in the temple to the people all the words of this life' (v. 20). The prophetic charge to stand in the temple and declare the full message is the model.", "contested": false },
+      { "source": "Jeremiah 26:2", "type": "allusion", "confidence": "medium", "note": "'Stand in the court of the LORD's house and speak... all the words I command you; do not omit a word' — closely matches the angel's instruction to speak 'all the words of this life,' and the ensuing arrest-and-trial scene mirrors Jeremiah's temple trial.", "contested": false },
+      { "source": "Psalm 146:7", "type": "echo", "confidence": "low", "note": "'The LORD sets the prisoners free' — the angelic jailbreak (vv. 19-23) enacts the psalm's portrait of God liberating the captive.", "contested": true },
+      { "source": "Genesis 19:11", "type": "echo", "confidence": "low", "note": "The angels at Sodom deliver and confound; the angel of the Lord opening sealed prison doors while guards remain unaware (vv. 19, 23) is a faint analogue of angelic deliverance amid baffled custodians.", "contested": true }
+    ]
+  },
+  {
+    "id": "5.4",
+    "ch": 5,
+    "ref": "5:27-32",
+    "echoes": [
+      { "source": "Deuteronomy 21:22-23", "type": "quotation", "confidence": "high", "note": "'Hanging him on a tree' (v. 30) draws directly on the law that a man executed and hung 'on a tree' is under God's curse. Acts deliberately uses xylon ('tree/wood'), the LXX term, to characterize the crucifixion in the categories of this statute. High volume and clear verbal dependence.", "contested": false },
+      { "source": "Daniel 3:16-18", "type": "figural", "confidence": "medium", "note": "Shadrach, Meshach, and Abednego refuse the king's command to disobey God, declaring they will serve God whatever the cost — the paradigm for 'We must obey God rather than men' (v. 29).", "contested": false },
+      { "source": "Daniel 6:10", "type": "figural", "confidence": "medium", "note": "Daniel defies the royal decree to continue worshiping God, modeling principled obedience to God over human authority, the stance Peter articulates in v. 29.", "contested": false },
+      { "source": "Exodus 3:15", "type": "allusion", "confidence": "medium", "note": "'The God of our fathers' (v. 30) is the self-designation revealed to Moses at the bush, anchoring the apostolic proclamation in the covenant identity of Israel's God.", "contested": false },
+      { "source": "Psalm 118:16", "type": "allusion", "confidence": "medium", "note": "'The right hand of the LORD is exalted' lies behind 'God exalted him with his right hand' (v. 31); Psalm 118 is a primary early-church resource for the vindication of the rejected one.", "contested": false },
+      { "source": "Psalm 110:1", "type": "allusion", "confidence": "medium", "note": "The enthronement 'at the right hand' of God underwrites the exaltation of Jesus 'with his right hand' as Prince and Savior (v. 31), the dominant NT proof-text for the session.", "contested": false },
+      { "source": "Joshua 10:26", "type": "echo", "confidence": "low", "note": "The execution of enemy kings by hanging on trees illustrates the legal practice behind Deut 21 invoked in v. 30; a secondary witness to 'hanging on a tree.'", "contested": true },
+      { "source": "Isaiah 55:7", "type": "echo", "confidence": "low", "note": "The call to return for abundant pardon stands faintly behind 'to give repentance to Israel and remission of sins' (v. 31).", "contested": true }
+    ]
+  },
+  {
+    "id": "5.5",
+    "ch": 5,
+    "ref": "5:33-42",
+    "echoes": [
+      { "source": "Proverbs 21:30", "type": "allusion", "confidence": "medium", "note": "'There is no wisdom, no understanding, no counsel against the LORD' is the maxim underlying Gamaliel's principle: if the work is of God it cannot be overthrown, and resisting it is fighting against God (vv. 38-39).", "contested": false },
+      { "source": "Isaiah 8:10", "type": "allusion", "confidence": "medium", "note": "'Take counsel together, but it will come to nothing; speak a word, but it will not stand, for God is with us' directly parallels Gamaliel's 'if this counsel is of men it will be overthrown, but if of God you cannot overthrow it' (vv. 38-39).", "contested": false },
+      { "source": "Psalm 33:10-11", "type": "allusion", "confidence": "medium", "note": "'The LORD brings the counsel of the nations to nothing... the counsel of the LORD stands forever' is the theological axis of Gamaliel's test distinguishing human schemes (which collapse, like Theudas and Judas, vv. 36-37) from God's enduring purpose.", "contested": false },
+      { "source": "2 Maccabees 7:19", "type": "allusion", "confidence": "medium", "note": "Of the persecuting king it is warned that he will not escape, 'for he has undertaken to fight against God' (theomachein) — the deuterocanonical source for Gamaliel's climactic 'you would be found even to be fighting against God' (v. 39).", "contested": false },
+      { "source": "Isaiah 53:3", "type": "echo", "confidence": "low", "note": "The Servant 'despised and rejected' faintly informs the apostles 'rejoicing that they were counted worthy to suffer dishonor for the name' (v. 41), participating in the pattern of the suffering righteous.", "contested": true },
+      { "source": "2 Maccabees 6:30", "type": "echo", "confidence": "low", "note": "Eleazar endures scourging with joy for the sake of obedience; a faint background to the apostles rejoicing after being beaten (vv. 40-41).", "contested": true }
+    ]
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-5",
+    "echoes": [
+      {
+        "source": "Joel 2:28-32",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The risen Jesus tells the apostles to wait for 'the promise of the Father' and the baptism 'in the Holy Spirit not many days from now.' Volume: no verbal quotation yet, but the conceptual content (an outpouring of the Spirit on God's people in the last days) maps directly onto Joel. Recurrence: decisive — Luke makes this same Joel text the explicit hermeneutical key at Pentecost (Acts 2:16-21), so the 'promise' here is programmatic foreshadowing. Thematic coherence: high; the whole opening frames the Spirit as eschatological gift. History of interpretation broadly reads the 'promise of the Father' as Joel's Spirit-pouring. Confidence high on Recurrence and Coherence even though the immediate Volume is thematic.",
+        "contested": false,
+        "altSource": "Isaiah 44:3"
+      },
+      {
+        "source": "Ezekiel 36:26-27",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Spirit 'put within' God's people to enable obedience is the other great prophetic promise standing behind 'the promise of the Father.' Volume is low (no shared wording in translation), but Thematic Coherence is strong: Ezekiel's interiorized Spirit is the renewal-of-Israel hope that the apostles' question in v.6 presupposes. Recurrence modest. Honestly faint relative to Joel, hence echo/medium.",
+        "contested": true,
+        "altSource": "Isaiah 32:15"
+      },
+      {
+        "source": "Exodus 24:18",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Jesus appears and teaches 'over a period of forty days.' Volume: only the numeral, so verbal borrowing is minimal — this is a figural/typological link, not a citation. Thematic coherence: forty-day periods of divine revelation and preparation recur with Moses on Sinai (Exod 24:18; 34:28), Israel's wilderness, and Elijah (1 Kgs 19:8); Luke evokes a charged interval of instruction before a covenantal threshold. Recurrence: Luke uses forty-day patterning elsewhere (Jesus' temptation, Luke 4:2). Marked figural because the correspondence is structural, not lexical.",
+        "contested": true,
+        "altSource": "1 Kings 19:8"
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:6-8",
+    "echoes": [
+      {
+        "source": "Isaiah 49:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You will be witnesses... to the uttermost parts of the earth' closely tracks the Servant's commission to be 'a light to the nations, that you may be my salvation to the end of the earth.' Volume: the phrase 'to the end(s) of the earth' is a distinctive LXX echo (heos eschatou tes ges). Recurrence: strong — Luke cites Isa 49:6 explicitly at Acts 13:47 and alludes again, making it a structural thesis statement for the book. Thematic coherence: very high; this verse programs Acts' whole geographic movement. A leading candidate in the history of interpretation for the key to Acts.",
+        "contested": false,
+        "altSource": "Isaiah 43:10"
+      },
+      {
+        "source": "Isaiah 43:10-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You will be witnesses to me' echoes the Lord's words to Israel, 'You are my witnesses... and my servant whom I have chosen.' Volume: the witness-language is distinctive and combined with election (the apostles 'whom he had chosen,' v.2). Recurrence: the witness motif saturates Acts. Thematic coherence: high; Israel's vocation to testify to the one God is transferred to the apostles. Overlaps with Isa 49:6 in the same Isaianic Servant matrix.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'It isn't for you to know times or seasons (chronous e kairous) which the Father has set within his own authority' echoes Daniel's 'he changes times and seasons (kairous kai chronous)... he reveals deep and hidden things.' Volume: the paired words 'times and seasons' are a distinctive doublet shared with LXX Daniel. Thematic coherence: high; both texts locate the calendar of the kingdom in God's sovereign reserve. Recurrence: 'times and seasons' as a fixed pair recurs in Jewish apocalyptic. Solid mid-level link.",
+        "contested": false
+      },
+      {
+        "source": "Amos 9:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The apostles' question, 'are you now restoring the kingdom to Israel?', sits atop the prophetic hope of the rebuilt 'booth of David' that the remnant and the nations might seek the Lord. Volume: no shared wording here. Recurrence: notable — Luke quotes Amos 9:11-12 at the Jerusalem council (Acts 15:16-17) precisely to interpret how the restored Davidic kingdom includes the nations, which is exactly the tension between v.6 (Israel) and v.8 (the earth). Thematic coherence good; low confidence because the link is conceptual and back-referenced rather than verbal here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:9-11",
+    "echoes": [
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'A cloud received him out of their sight,' and the angels promise he 'will come back in the same way.' Volume: the cloud as the vehicle of the exalted Son of Man is the distinctive Danielic image (one 'coming with the clouds of heaven'). Luke reverses and reaffirms the trajectory — ascent now, return on clouds later. Recurrence: strong in Luke-Acts' Son-of-Man Christology (Luke 21:27; 22:69). Thematic coherence high; the cloud signals heavenly enthronement, the very kingship the disciples asked about in v.6.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 2:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus 'was taken up' while the apostles 'looked steadfastly into the sky,' patterned on Elijah taken up to heaven as Elisha watched ('if you see me as I am taken from you...'). Volume: shared motif of a witnessed bodily assumption, the gaze of the successor(s), and the transfer of spirit/Spirit immediately afterward (Elisha's double portion ~ the apostles' Spirit-baptism). Recurrence: Luke deliberately uses Elijah-Elisha typology throughout (e.g., Luke 9:51, 9:61-62). Thematic coherence very high; the disciples' Spirit-empowerment in v.8 mirrors Elisha's inheritance. A staple of the history of interpretation.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 14:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The ascension and promised return occur at/over the Mount of Olives (named in v.12), the very mountain on which 'the feet of the Lord' will stand on the eschatological day of his coming. Volume: low verbal overlap, but the geography is pointed and the angels' 'will come back in the same way' resonates with Zechariah's theophanic return to that mountain. Thematic coherence strong; recurrence modest. The setting makes this more than coincidental, hence echo/medium.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 5:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' bodily removal to heaven faintly recalls Enoch, who 'walked with God, and he was not, for God took him' (LXX: 'God translated him'). Volume: low; only the shared motif of a righteous one taken without ordinary death. Recurrence: Enoch/assumption traditions were live in Second Temple Judaism. Coherence modest. Included as a faint, contested member of the 'assumption of the righteous' background alongside Elijah.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:12-14",
+    "echoes": [
+      {
+        "source": "Numbers 35:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The distance from Olivet is 'a Sabbath day's journey,' a halakhic measure derived from the limits set around the Levitical cities and the camp (cf. the 2,000-cubit reckoning) and the Sabbath-rest command. Volume: the phrase reflects later legal interpretation rather than a quotation, but its scriptural root is the camp/city boundary measures. Thematic coherence modest. Faint, halakhic background note.",
+        "contested": true,
+        "altSource": "Exodus 16:29"
+      },
+      {
+        "source": "Zechariah 14:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The explicit naming of 'the mountain called Olivet' reinforces the eschatological resonance of the Mount of Olives as the place of the Lord's coming (Zech 14:4). Volume low (toponym only). Recurrence: Olivet frames both ascension and the Lukan passion. Coherence ties back to the return promised in v.11. Listed at low confidence as a topographic echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:15-20",
+    "echoes": [
+      {
+        "source": "Psalm 69:25",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Explicitly introduced: 'it is written in the book of Psalms, Let his habitation be made desolate; let no one dwell therein.' Volume: a formal, formula-marked quotation with high verbal correspondence to LXX Ps 68:26 (genetheto he epaulis autou eremos). Recurrence: Psalm 69 is among the most-cited psalms in the NT and recurs in Luke's passion theology as a psalm of the righteous sufferer. Thematic coherence high; the betrayer's 'habitation' made desolate justifies vacating Judas' office. Textbook quotation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 109:8",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The second member of Peter's catena: 'Let another take his office (ten episkopen autou laboi heteros),' verbatim from LXX Ps 108:8. Volume: very high, a direct formula-marked citation. Thematic coherence: decisive — it supplies the warrant for electing a replacement apostle in vv.21-26. Recurrence: Psalm 109 is an imprecatory psalm against a treacherous adversary, read figurally of Judas. Unambiguous quotation.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 23:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Peter says 'the Holy Spirit spoke before by the mouth of David' the scripture about Judas. This inspiration formula echoes David's own claim, 'The Spirit of the Lord spoke by me, and his word was on my tongue.' Volume: shared the-Spirit-spoke-through-David formula. Thematic coherence high; it grounds the Davidic psalter as prophetic of Judas. Recurrence: Luke repeatedly attributes the Psalms to David's Spirit-inspired prophecy (e.g., Acts 2:30; 4:25).",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 11:12-13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Judas 'obtained a field with the reward for his wickedness,' and the place becomes 'the field of blood.' Volume: the field-bought-with-blood-money and the potter/field motif track Zechariah's thirty pieces of silver cast to the potter in the house of the Lord. Recurrence: Matthew makes the Zechariah link explicit; Luke's version is more allusive. Thematic coherence good — the betrayal price defiles a field. Mid-level because Luke's wording diverges from Zechariah's.",
+        "contested": true,
+        "altSource": "Jeremiah 32:6-9"
+      },
+      {
+        "source": "2 Maccabees 9:5-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Judas 'falling headlong, his body burst open, and all his intestines gushed out' — a death-of-the-wicked topos closely matching the gruesome end of Antiochus IV, whose bowels were wracked and whose body rotted, a divine judgment on a persecutor. Volume: distinctive shared motif of the betrayer's body bursting/entrails as visible verdict. Thematic coherence high; deuterocanonical and permitted as a source. Recurrence: the 'horrible death of the persecutor' is a Hellenistic-Jewish topos (cf. Wisdom). Medium.",
+        "contested": true,
+        "altSource": "Wisdom 4:19"
+      },
+      {
+        "source": "2 Samuel 17:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Judas as the counselor-turned-traitor of Jesus faintly recalls Ahithophel, David's trusted counselor who betrayed him and then died by his own hand. Volume: low (Luke reports a different mode of death than the Matthean hanging); the link is typological — the betrayer of the anointed king meets a self-inflicted, ignominious end. Recurrence: Ahithophel was widely read as a type of the traitor, and Psalm 69/109 imprecations were associated with such figures. Coherence good but verbal volume slight, hence echo/low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:21-26",
+    "echoes": [
+      {
+        "source": "1 Samuel 16:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The prayer addresses God as 'You, Lord, who know the hearts of all,' invoking the divine heart-knower who chooses leaders against human appearances — the very principle of Samuel's anointing of David ('the Lord looks on the heart'). Volume: the kardiognostes (heart-knower) idea is distinctive and Luke coins/repeats it (Acts 15:8). Thematic coherence high; God, not the lots alone, selects the apostle. Recurrence good.",
+        "contested": false,
+        "altSource": "1 Kings 8:39"
+      },
+      {
+        "source": "Proverbs 16:33",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'They drew lots... and the lot fell on Matthias.' Volume: the procedure directly enacts the proverb, 'The lot is cast into the lap, but its every decision is from the Lord' — the conceptual warrant for using lots to discern the divine choice. Thematic coherence very high; the casting of lots is framed (by the preceding prayer) as God's verdict, exactly Proverbs' theology of the lot. Recurrence: lot-casting for sacred appointment recurs across the OT (Lev 16:8; Josh 18:10; 1 Chr 24-26). Strong link.",
+        "contested": false,
+        "altSource": "Leviticus 16:8"
+      },
+      {
+        "source": "Numbers 27:15-23",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "After the leader's departure to heaven (Moses/Jesus), a successor is formally installed so the community is not 'as sheep without a shepherd' — Moses asks the Lord, 'who knows the spirits of all flesh,' to appoint a man, and Joshua is set in office. Volume: low verbal overlap, but note the striking parallel to v.24's heart/spirit-knower address. This is primarily a figural/structural correspondence: a divinely designated succession to preserve the leadership of the twelve. Thematic coherence high; the number-twelve restoration of Israel is at stake. Marked figural.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 27:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The qualification that the candidate 'accompanied us all the time that the Lord Jesus went in and out among us' echoes the idiom for leadership over Israel, 'who shall go out before them and come in before them' (of Joshua's commissioning). Volume: the 'go in and out' idiom is distinctive Septuagintal leadership language. Coherence reinforces the succession theme of the pericope. Low because the phrase is a common idiom (cf. Deut 31:2; 1 Sam 18:13).",
+        "contested": true,
+        "altSource": "Deuteronomy 31:2"
+      },
+      {
+        "source": "Psalm 41:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The summary of Judas as one who 'received his portion in this ministry' yet 'fell away' (v.17, 25) faintly recalls the table-companion who betrays — 'my own familiar friend... who ate of my bread, has lifted up his heel against me.' Volume: low here (Luke does not quote it), but the betrayer-among-the-intimates frame coheres. Recurrence: this psalm is cited of Judas elsewhere in the gospel tradition. Faint, contested.",
+        "contested": true
+      }
+    ]
+  }
+]

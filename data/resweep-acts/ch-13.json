@@ -1,0 +1,131 @@
+[
+  {
+    "id": "13.1",
+    "ch": 13,
+    "ref": "13:1-3",
+    "echoes": [
+      { "source": "Numbers 8:10", "type": "echo", "confidence": "low", "note": "The laying on of hands to set apart Barnabas and Saul for service echoes the Levitical rite where Israel lays hands on the Levites to consecrate them for the Lord's work. Verbal overlap is slight (a shared gesture rather than wording), but the thematic coherence of commissioning for sacred service is strong. Plausibility high given Luke's pervasive use of Pentateuchal cultic practice.", "contested": true },
+      { "source": "Numbers 27:18-23", "type": "echo", "confidence": "low", "note": "Moses lays hands on Joshua to commission him for a divinely appointed task before the assembly, the closest narrative analogue to commissioning two leaders by hand-laying after the Spirit designates them. Recurrence of the hand-laying-for-mission motif strengthens the link, though no verbal citation.", "contested": true },
+      { "source": "Deuteronomy 9:9", "type": "echo", "confidence": "low", "note": "Fasting as preparation for receiving divine direction recalls Moses' wilderness fasting before God. Faint, generic; included for maximal coverage.", "contested": true }
+    ]
+  },
+  {
+    "id": "13.2",
+    "ch": 13,
+    "ref": "13:4-12",
+    "echoes": [
+      { "source": "Deuteronomy 18:10-11", "type": "allusion", "confidence": "medium", "note": "Elymas the magos/false prophet embodies precisely the sorcery and divination Deuteronomy forbids in Israel; Luke frames the confrontation as the true word of God against the prohibited mantic arts. Thematic coherence high, verbal overlap conceptual rather than lexical.", "contested": false },
+      { "source": "Deuteronomy 13:1-5", "type": "echo", "confidence": "low", "note": "The 'false prophet' (pseudoprophetes) who seeks to turn the proconsul aside from the faith answers to the Deuteronomic false prophet who tries to seduce Israel away from the Lord; the verb 'turn aside' resonates with Deut 13's leading astray.", "contested": true },
+      { "source": "Hosea 14:9", "type": "allusion", "confidence": "medium", "note": "Paul's charge of 'perverting the straight ways of the Lord' inverts Hosea's closing maxim that 'the ways of the LORD are right (straight)' and the righteous walk in them while transgressors stumble. The straight-ways imagery is a recognizable prophetic idiom; volume moderate.", "contested": true },
+      { "source": "Proverbs 10:9", "type": "echo", "confidence": "low", "note": "'He who perverts his ways will be found out' supplies the wisdom background for condemning one who makes crooked the straight paths of the Lord. Faint, idiomatic.", "contested": true },
+      { "source": "Genesis 19:11", "type": "allusion", "confidence": "medium", "note": "Elymas struck with mist and darkness, groping for someone to lead him, closely parallels the men of Sodom struck with blindness so they could not find the door, a divine judgment-blinding. Strong narrative recurrence with 2 Kings 6 below.", "contested": true },
+      { "source": "2 Kings 6:18", "type": "allusion", "confidence": "medium", "note": "Elisha prays and the Aramean army is struck blind by the prophet's word, the OT type for a man of God blinding an enemy of the Lord's purpose; the prophet-induced judicial blindness is the operative pattern behind Paul's act.", "contested": true },
+      { "source": "Deuteronomy 28:28-29", "type": "echo", "confidence": "low", "note": "The covenant curse of blindness, groping at noonday as the blind grope in darkness, supplies the language of Elymas groping for a guide. Thematic coherence with judgment-blinding; verbal echo of groping.", "contested": true },
+      { "source": "Exodus 9:3", "type": "echo", "confidence": "low", "note": "'The hand of the Lord is upon you' echoes the recurring Exodus formula of the LORD's hand falling in judgment (e.g., upon Pharaoh's livestock and Egypt). A stock OT idiom for divine striking; volume low.", "contested": true },
+      { "source": "1 Samuel 5:6", "type": "echo", "confidence": "low", "note": "'The hand of the LORD was heavy' upon the Philistines is another instance of the judgment-hand idiom behind 'the hand of the Lord is on you.' Generic, included for breadth.", "contested": true }
+    ]
+  },
+  {
+    "id": "13.3",
+    "ch": 13,
+    "ref": "13:13-16",
+    "echoes": [
+      { "source": "Nehemiah 8:1-8", "type": "echo", "confidence": "low", "note": "The synagogue pattern of reading the Law and the Prophets followed by exhortation reflects the post-exilic public reading of the Law with exposition; Luke's scene presupposes this liturgical inheritance. Background rather than citation.", "contested": true },
+      { "source": "Psalm 78:1", "type": "echo", "confidence": "low", "note": "Paul's opening summons, 'Men of Israel, and you who fear God, listen,' echoes the Asaphite call to the people to give ear, the conventional opening of a historical recital (as the sermon then becomes). Faint formulaic resonance.", "contested": true }
+    ]
+  },
+  {
+    "id": "13.4",
+    "ch": 13,
+    "ref": "13:17-22",
+    "echoes": [
+      { "source": "Deuteronomy 7:6-8", "type": "allusion", "confidence": "high", "note": "'The God of this people Israel chose our fathers' restates Deuteronomy's foundational election theology, that the LORD set his love on and chose the patriarchs and their seed. Strong thematic coherence and clear conceptual borrowing opening the historical resume.", "contested": false },
+      { "source": "Deuteronomy 10:15", "type": "echo", "confidence": "medium", "note": "'The LORD set his affection on your fathers to love them and chose their descendants' is a near-synonymous parallel to the election of the fathers; reinforces the choosing language. Recurrence strengthens the Deuteronomic source pool.", "contested": false },
+      { "source": "Exodus 6:1", "type": "allusion", "confidence": "medium", "note": "Deliverance from Egypt 'with a strong hand' undergirds Paul's 'with uplifted arm he led them out.' The Exodus deliverance formula is unmistakable here.", "contested": false },
+      { "source": "Exodus 6:6", "type": "quotation", "confidence": "high", "note": "'I will redeem you with an outstretched arm' supplies the exact 'uplifted/high arm' (brachion hypselos) by which God led Israel out of Egypt. High-volume verbal borrowing of a fixed Exodus formula.", "contested": false },
+      { "source": "Deuteronomy 4:34", "type": "allusion", "confidence": "medium", "note": "God's taking a nation out of Egypt 'by a mighty hand and an outstretched arm and great terrors' is the canonical Deuteronomic exodus formula behind 'with uplifted arm he led them out.' Reinforces Exod 6:6.", "contested": false },
+      { "source": "Exodus 1:7", "type": "echo", "confidence": "low", "note": "'He made the people great (exalted them) during their stay in Egypt' echoes the multiplication of Israel in Egypt, who grew exceedingly numerous. Conceptual; the LXX verb differs.", "contested": true },
+      { "source": "Psalm 105:23-24", "type": "allusion", "confidence": "medium", "note": "Israel sojourning in Egypt where 'the LORD made his people very fruitful, and made them stronger than their foes' closely matches 'exalted the people during their stay as aliens in Egypt.' This psalm is itself a historical recital paralleling Paul's, raising recurrence.", "contested": false },
+      { "source": "Exodus 16:35", "type": "echo", "confidence": "medium", "note": "'The forty years in the wilderness' draws on the canonical forty-year wandering during which Israel ate manna. Stock chronological datum but verbally precise.", "contested": false },
+      { "source": "Numbers 14:33-34", "type": "allusion", "confidence": "medium", "note": "The forty years in the wilderness as the span of God's bearing with a rebellious generation supplies both the number and the note of divine forbearance ('he put up with them'). Strong thematic coherence.", "contested": false },
+      { "source": "Deuteronomy 1:31", "type": "allusion", "confidence": "medium", "note": "'The LORD your God carried (bore) you as a father carries his son' lies behind the well-attested variant 'he bore/nursed them' for forty years; even in the 'put up with them' reading, Deut 1:31's wilderness-forbearance is the matrix. Textual-critical note: etropophoresen vs etrophophoresen.", "contested": true },
+      { "source": "Psalm 95:10", "type": "echo", "confidence": "medium", "note": "'For forty years I loathed that generation' supplies the forty-years-plus-divine-toleration motif behind God 'putting up with them' in the wilderness. Recurrence with Numbers 14.", "contested": false },
+      { "source": "Deuteronomy 7:1", "type": "quotation", "confidence": "high", "note": "'When he had destroyed seven nations in the land of Canaan' directly quotes the Deuteronomic catalogue of the 'seven nations greater and mightier than you' the LORD casts out before Israel. Distinctive numeral 'seven nations' is verbatim.", "contested": false },
+      { "source": "Joshua 24:11", "type": "allusion", "confidence": "medium", "note": "Joshua's recital of the nations of Canaan delivered into Israel's hand and the land given as inheritance parallels Paul's compression; Josh 24 is itself a covenant historical resume, raising recurrence.", "contested": false },
+      { "source": "Joshua 14:1-2", "type": "allusion", "confidence": "medium", "note": "'He gave them their land for an inheritance' restates the apportioning of Canaan as inheritance by lot. Thematic coherence high; standard conquest language.", "contested": false },
+      { "source": "Deuteronomy 1:8", "type": "echo", "confidence": "low", "note": "The land sworn to the fathers given for possession underlies 'he gave them their land for an inheritance.' Generic land-gift formula.", "contested": true },
+      { "source": "Psalm 78:55", "type": "echo", "confidence": "medium", "note": "'He drove out nations before them and apportioned them for an inheritance' compresses conquest-plus-inheritance exactly as Paul does, within another historical psalm. Recurrence reinforces.", "contested": false },
+      { "source": "Judges 2:16", "type": "allusion", "confidence": "high", "note": "'After that he gave them judges' directly summarizes the book of Judges' refrain that the LORD raised up judges to deliver Israel. Clear thematic and verbal correspondence.", "contested": false },
+      { "source": "1 Samuel 3:20", "type": "allusion", "confidence": "medium", "note": "'until Samuel the prophet' fixes the transition point at Samuel, recognized from Dan to Beersheba as a prophet of the LORD, the last of the judges. Distinctive named figure.", "contested": false },
+      { "source": "1 Samuel 8:5", "type": "allusion", "confidence": "high", "note": "'Then they asked for a king' directly recalls Israel's demand to Samuel, 'appoint a king to judge us like all the nations.' Strong verbal and narrative correspondence.", "contested": false },
+      { "source": "1 Samuel 12:13", "type": "echo", "confidence": "medium", "note": "'Here is the king you have chosen, for whom you asked' reinforces the request-for-a-king motif. Recurrence within the same Samuel narrative.", "contested": false },
+      { "source": "1 Samuel 10:21", "type": "allusion", "confidence": "high", "note": "Saul son of Kish 'of the tribe of Benjamin' is drawn from the selection-by-lot narrative naming Saul of the tribe of Benjamin and the family of Kish. Distinctive named details.", "contested": false },
+      { "source": "1 Samuel 9:1-2", "type": "allusion", "confidence": "medium", "note": "The introduction of Kish the Benjamite and his son Saul, a choice young man, supplies the 'Saul the son of Kish, a man of the tribe of Benjamin.' Reinforces 10:21.", "contested": false },
+      { "source": "1 Samuel 15:23", "type": "allusion", "confidence": "medium", "note": "'When he had removed him' alludes to the LORD's rejection of Saul as king ('you have rejected the word of the LORD, he has rejected you from being king'). Thematic coherence high.", "contested": false },
+      { "source": "1 Samuel 16:1", "type": "allusion", "confidence": "medium", "note": "God's word to Samuel, 'I have rejected Saul... I have provided for myself a king,' bridges the removal of Saul and the raising up of David. Reinforces the removal-then-David sequence.", "contested": false },
+      { "source": "1 Samuel 16:12-13", "type": "allusion", "confidence": "high", "note": "'He raised up David to be their king' draws on the anointing of David at Bethlehem, whom the LORD designates and Samuel anoints. Distinctive narrative behind the David accession.", "contested": false },
+      { "source": "1 Samuel 13:14", "type": "quotation", "confidence": "high", "note": "'A man after my own heart, who will do all my will' quotes Samuel's verdict to Saul that the LORD has sought out 'a man after his own heart' to be ruler. The 'man after my heart' phrase is verbatim; this is the controlling source of the composite citation.", "contested": false },
+      { "source": "Psalm 89:20", "type": "quotation", "confidence": "high", "note": "'I have found David my servant; with my holy oil I have anointed him' supplies the opening clause 'I have found David,' fused with 1 Sam 13:14 into Paul's composite testimony. Verbal borrowing of 'I have found David.'", "contested": false },
+      { "source": "1 Samuel 16:7", "type": "echo", "confidence": "low", "note": "'The LORD looks on the heart' undergirds the 'man after my heart' verdict, reinforcing the heart-language of David's election. Conceptual support for the composite quotation.", "contested": true },
+      { "source": "Isaiah 44:28", "type": "echo", "confidence": "low", "note": "'who will do all my will/pleasure' resembles the LORD's word that Cyrus 'shall fulfill all my purpose'; some see the third clause of Paul's composite drawn from this anointed-agent idiom. Faint and contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "13.5",
+    "ch": 13,
+    "ref": "13:23-25",
+    "echoes": [
+      { "source": "2 Samuel 7:12", "type": "allusion", "confidence": "high", "note": "'From this man's seed God has brought salvation to Israel according to his promise' rests on the Davidic covenant promise that God will raise up David's seed after him and establish his kingdom. The promise-to-David seed theology is the backbone of the verse.", "contested": false },
+      { "source": "Psalm 132:11", "type": "allusion", "confidence": "medium", "note": "'The LORD swore to David... one of the fruit of your body I will set on your throne' supplies the sworn promise of a descendant, reinforcing the seed-of-David savior. Recurrence with 2 Sam 7.", "contested": false },
+      { "source": "Isaiah 11:1", "type": "echo", "confidence": "low", "note": "The shoot from the stump of Jesse, a messianic seed of David, contributes to the seed-of-David savior expectation. Conceptual messianic background.", "contested": true },
+      { "source": "Malachi 3:1", "type": "echo", "confidence": "low", "note": "John's preparatory preaching before the Coming One echoes the messenger sent ahead to prepare the way of the Lord. Faint; the forerunner motif is operative.", "contested": true },
+      { "source": "Isaiah 40:3", "type": "echo", "confidence": "low", "note": "John's preparatory role and self-effacement before the one who comes after resonate with the wilderness voice preparing the way of the LORD. Background to the Baptist tradition rather than a citation here.", "contested": true }
+    ]
+  },
+  {
+    "id": "13.6",
+    "ch": 13,
+    "ref": "13:26-31",
+    "echoes": [
+      { "source": "Psalm 105:6", "type": "echo", "confidence": "low", "note": "Address to 'children of the stock of Abraham' echoes the covenant designation 'offspring of Abraham his servant,' situating the hearers within the elect line. Idiomatic.", "contested": true },
+      { "source": "Genesis 17:7", "type": "echo", "confidence": "low", "note": "'Children of the stock of Abraham' rests on the covenant with Abraham and his seed; the word of salvation comes first to the covenant heirs. Generic covenant background.", "contested": true },
+      { "source": "Isaiah 53:9", "type": "allusion", "confidence": "medium", "note": "That they 'found no cause for death' yet had him killed and 'laid in a tomb' resonates with the Servant who had done no violence yet was assigned a grave; the innocence-then-burial pattern is the Servant Song's. Thematic coherence medium-high.", "contested": true },
+      { "source": "Deuteronomy 21:22-23", "type": "allusion", "confidence": "high", "note": "'They took him down from the tree' draws on the law that a man hanged on a tree must be taken down the same day, a text Luke and Paul repeatedly attach to the crucifixion. Distinctive 'tree' (xylon) language and the taking-down detail.", "contested": false },
+      { "source": "Psalm 22:16-18", "type": "echo", "confidence": "low", "note": "The condemnation and execution of the innocent one with the connivance of rulers faintly recalls the lament psalm of the suffering righteous appropriated for the passion. Contested, low volume here.", "contested": true }
+    ]
+  },
+  {
+    "id": "13.7",
+    "ch": 13,
+    "ref": "13:32-37",
+    "echoes": [
+      { "source": "Genesis 12:3", "type": "echo", "confidence": "low", "note": "'The promise made to the fathers' includes the Abrahamic blessing-to-the-nations promise now declared fulfilled. Background to the promise theology of the verse.", "contested": true },
+      { "source": "2 Samuel 7:12-14", "type": "allusion", "confidence": "medium", "note": "The 'promise made to the fathers' that God has fulfilled by raising Jesus centers on the Davidic covenant, especially 'I will be his father and he shall be my son,' which dovetails with the Ps 2 citation. Reinforces the father-son sonship theme.", "contested": false },
+      { "source": "Psalm 2:7", "type": "quotation", "confidence": "high", "note": "'You are my Son; today I have begotten you' is quoted verbatim as the second-psalm proof that God raised up Jesus. Explicit formula citation ('as it is written in the second psalm'); maximal volume.", "contested": false },
+      { "source": "Isaiah 55:3", "type": "quotation", "confidence": "high", "note": "'I will give you the holy and sure blessings/mercies of David' (ta hosia Dauid ta pista) is quoted to prove the resurrection-incorruption, linking the everlasting covenant mercies promised to David to the risen Christ. Explicit LXX citation.", "contested": false },
+      { "source": "Psalm 16:10", "type": "quotation", "confidence": "high", "note": "'You will not allow your Holy One to see corruption/decay' is quoted ('in another psalm') as the climactic resurrection proof-text, then argued to apply to Jesus and not David. Verbatim LXX quotation; the linchpin of the resurrection argument.", "contested": false },
+      { "source": "1 Kings 2:10", "type": "allusion", "confidence": "medium", "note": "'David... fell asleep and was laid with his fathers and saw decay' draws on the notice that David slept with his fathers and was buried in the city of David, grounding Paul's argument that David did see corruption. Distinctive 'slept with his fathers' idiom.", "contested": false },
+      { "source": "Psalm 89:3-4", "type": "echo", "confidence": "low", "note": "The sworn covenant with David ('I will establish your seed forever') reinforces the 'sure mercies of David' applied to the imperishable risen one. Recurrence with Isa 55:3 covenant language.", "contested": true }
+    ]
+  },
+  {
+    "id": "13.8",
+    "ch": 13,
+    "ref": "13:38-41",
+    "echoes": [
+      { "source": "Isaiah 53:11", "type": "echo", "confidence": "low", "note": "'Everyone who believes is justified' faintly recalls the Servant who 'shall make many to be accounted righteous,' the OT seed of justification language. Conceptual, contested.", "contested": true },
+      { "source": "Habakkuk 1:5", "type": "quotation", "confidence": "high", "note": "'Behold, you scoffers, and wonder, and perish; for I work a work in your days, a work you will not believe though one declares it' is quoted verbatim (LXX, 'scoffers/despisers') as the prophetic warning closing the sermon. Explicit citation, maximal volume.", "contested": false }
+    ]
+  },
+  {
+    "id": "13.9",
+    "ch": 13,
+    "ref": "13:42-52",
+    "echoes": [
+      { "source": "Isaiah 49:6", "type": "quotation", "confidence": "high", "note": "'I have set you as a light for the Gentiles, that you should bring salvation to the uttermost parts of the earth' is quoted verbatim (LXX) as the Lord's commission justifying the turn to the Gentiles. Explicit Servant-Song citation; maximal volume.", "contested": false },
+      { "source": "Isaiah 42:6", "type": "echo", "confidence": "medium", "note": "'A light for the Gentiles' also stands in the first Servant Song ('I will give you... for a light to the nations'), reinforcing the light-to-the-nations commission Paul cites. Recurrence with Isa 49:6.", "contested": false },
+      { "source": "Deuteronomy 32:21", "type": "echo", "confidence": "low", "note": "The Jews 'filled with jealousy' contradicting the word, leading to the turn toward the Gentiles, faintly enacts the Song of Moses' principle that God provokes Israel to jealousy by a non-people, a motif Paul develops elsewhere. Contested here.", "contested": true },
+      { "source": "Nehemiah 5:13", "type": "echo", "confidence": "low", "note": "Shaking off the dust of the feet against the city as a sign-act of rejection has loose kinship with prophetic shaking-out gestures of repudiation (Nehemiah shaking out his lap against covenant-breakers). Very faint; the gesture is more dominical instruction than OT citation.", "contested": true }
+    ]
+  }
+]

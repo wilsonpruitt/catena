@@ -1,0 +1,47 @@
+[
+  {
+    "id": "11.1",
+    "ch": 11,
+    "ref": "11:1-18",
+    "echoes": [
+      { "source": "Leviticus 11:1-47", "type": "allusion", "confidence": "high", "note": "The vision's core conflict — a divine command to 'kill and eat' four-footed animals, creeping things, and birds, and Peter's refusal because 'nothing unholy or unclean has ever entered into my mouth' — directly engages the Levitical taxonomy of clean and unclean creatures. Volume is high (the whole pericope turns on these dietary categories); recurrence is strong (the sister account in Acts 10 and the parallel here); thematic coherence is high. The narrative reads the Levitical food law figurally, the abolition of the clean/unclean boundary dramatizing the inclusion of Gentiles.", "contested": false },
+      { "source": "Deuteronomy 14:3-21", "type": "allusion", "confidence": "medium", "note": "The Deuteronomic restatement of the clean/unclean animal law stands behind Peter's scruple alongside Leviticus 11. Lower volume than Leviticus (no distinctive verbal pickup unique to Deuteronomy), but the same legal substrate the vision overturns.", "contested": false },
+      { "source": "Ezekiel 4:14", "type": "allusion", "confidence": "high", "note": "Peter's protest, 'Not so, Lord, for nothing unholy or unclean has ever entered into my mouth,' closely echoes Ezekiel's own protest at the command to eat defiling food: 'I have not eaten of that which dies of itself... neither came there abominable flesh into my mouth.' The verbal and situational parallel (prophet objecting to a divine eating-command on grounds of lifelong purity) is striking; this is a strong allusion, perhaps the model for Peter's words.", "contested": false },
+      { "source": "Genesis 6:19-20", "type": "echo", "confidence": "medium", "note": "The vision's catalogue — 'four-footed animals of the earth, wild animals, creeping things, and birds of the sky' — recalls the ordered creaturely classes gathered to the ark (beasts after their kind, creeping things, fowl). The taxonomic phrasing echoes the Genesis flood inventory of all flesh; thematic coherence is moderate (universal scope of living kinds), volume modest.", "contested": true },
+      { "source": "Genesis 1:24-26", "type": "echo", "confidence": "low", "note": "The triad of earth-beasts, creeping things, and birds also recalls the creation account's enumeration of the living creatures over which humanity is given dominion. A faint echo: the categories are generic and shared with the flood narrative, so attribution to Genesis 1 specifically is weak.", "contested": true },
+      { "source": "Joel 2:28-29", "type": "allusion", "confidence": "medium", "note": "Peter's report that 'the Holy Spirit fell on them, even as on us at the beginning' frames Gentile Spirit-reception by the same Joel oracle invoked at Pentecost ('I will pour out my Spirit on all flesh'). The 'all flesh' universality of Joel undergirds the argument that the same gift is now given to Gentiles; medium volume, high thematic coherence with the chapter's inclusion theme.", "contested": false },
+      { "source": "Ezekiel 36:25-27", "type": "echo", "confidence": "low", "note": "The pairing of cleansing ('What God has cleansed, don't you call unclean') with the gift of the Spirit recalls Ezekiel's promise to sprinkle clean water and put a new Spirit within the people. A figural resonance — purification and Spirit-bestowal joined — rather than a verbal borrowing.", "contested": true },
+      { "source": "Isaiah 56:3-8", "type": "echo", "confidence": "low", "note": "Jerusalem's verdict that 'God has also granted to the Gentiles repentance to life' coheres with Isaiah's vision of foreigners joined to the LORD and gathered to his house. A thematic echo of Gentile incorporation; no verbal link, so confidence is low.", "contested": true }
+    ]
+  },
+  {
+    "id": "11.2",
+    "ch": 11,
+    "ref": "11:19-21",
+    "echoes": [
+      { "source": "Ezra 7:9", "type": "allusion", "confidence": "medium", "note": "'The hand of the Lord was with them, and a great number believed' takes up the recurrent Hebrew idiom of the LORD's hand being upon a person for blessing and success, prominent in Ezra ('the good hand of his God upon him'). Recurrence of this idiom across the OT is high (Ezra 7:6, 7:28, 8:18); thematic coherence (divine empowerment of mission) is strong; volume moderate.", "contested": false },
+      { "source": "1 Kings 18:46", "type": "echo", "confidence": "low", "note": "'The hand of the LORD was on Elijah' is another instance of the same idiom of divine enablement. A faint echo contributing to the recurrence of the 'hand of the Lord' motif rather than a specific source.", "contested": true }
+    ]
+  },
+  {
+    "id": "11.3",
+    "ch": 11,
+    "ref": "11:22-26",
+    "echoes": [
+      { "source": "Deuteronomy 10:20", "type": "echo", "confidence": "medium", "note": "Barnabas's exhortation 'that with purpose of heart they should remain near to (cleave to) the Lord' echoes the Deuteronomic and Joshuanic charge to 'cleave unto the LORD your God' with the whole heart. Thematic coherence high (covenant loyalty of heart); verbal resonance on cleaving/holding fast; moderate volume.", "contested": false },
+      { "source": "Joshua 22:5", "type": "echo", "confidence": "medium", "note": "Joshua's farewell command to love the LORD, walk in his ways, and 'cleave unto him' with all the heart and soul stands behind the same 'purpose of heart... remain near to the Lord' exhortation. Reinforces the recurrence of the OT cleaving-to-the-Lord formula.", "contested": false },
+      { "source": "Isaiah 65:15", "type": "echo", "confidence": "low", "note": "'The disciples were first called Christians in Antioch' may faintly resonate with Isaiah's promise that the LORD's servants 'shall be called by another name.' A contested, low-volume figural echo of the giving of a new name to God's people; no verbal borrowing.", "contested": true }
+    ]
+  },
+  {
+    "id": "11.4",
+    "ch": 11,
+    "ref": "11:27-30",
+    "echoes": [
+      { "source": "Genesis 41:53-57", "type": "allusion", "confidence": "medium", "note": "Agabus's Spirit-given prediction of 'a great famine all over the world' and the disciples' decision to lay up relief beforehand follows the Joseph pattern: a famine 'over all the face of the earth,' foreknown by divine revelation, met by provident gathering and distribution of food. Thematic coherence is high (prophetic foreknowledge of famine answered by organized relief); the typological link of foresight-then-provision is the strongest of several prophet-and-famine resonances.", "contested": false },
+      { "source": "1 Kings 17:1", "type": "echo", "confidence": "medium", "note": "Agabus standing up to declare a coming famine follows the prophet-announces-famine type set by Elijah, who declares the drought and dearth before Ahab. Recurrence of the motif (prophet foretelling famine) is its main support; no verbal borrowing, so figural/echo rather than quotation.", "contested": false },
+      { "source": "2 Kings 8:1", "type": "echo", "confidence": "low", "note": "Elisha's announcement of a coming famine 'upon the land seven years' is a further instance of the OT prophet-and-famine pattern that Agabus's prophecy continues. A low-volume contributor to recurrence.", "contested": true },
+      { "source": "Genesis 45:5-11", "type": "echo", "confidence": "low", "note": "The sending of relief 'to the brothers who lived in Judea' by the hands of Barnabas and Saul faintly recalls Joseph's provision of food and life-preservation for his brothers during the famine. A figural echo of famine relief sent to one's brethren; modest thematic coherence, no verbal link.", "contested": true }
+    ]
+  }
+]

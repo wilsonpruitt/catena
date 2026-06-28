@@ -1,0 +1,170 @@
+[
+  {
+    "id": "6.1",
+    "ch": 6,
+    "ref": "6:1-7",
+    "echoes": [
+      {
+        "source": "Numbers 11:16-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The apostles, overwhelmed by the burden of the word plus table-service, delegate to appointed assistants who are 'full of the Spirit' — closely paralleling Moses, who cannot bear the people alone and has the LORD distribute his spirit upon seventy elders appointed to share the load. The structural logic (leader unwilling/unable to do all, helpers commissioned, Spirit operative) is the same. Thematic coherence high; volume moderate (no direct citation).",
+        "contested": false
+      },
+      {
+        "source": "Exodus 18:21-22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jethro's counsel: Moses is to 'select capable men' of integrity and set them over the people to relieve him of a burden too heavy to carry alone, so he can attend to the weightier matters. Acts 6 mirrors the delegation pattern — 'select from among you... men of good report' set 'over this business' so the Twelve keep to prayer and the word. Recurs with the Numbers 11 motif of shared leadership.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 1:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses: 'Choose wise, understanding, and reputable men from your tribes, and I will appoint them as your heads.' The triad wise / known-reputable / appointed maps tightly onto Acts 6:3 ('men of good report, full of wisdom, whom we may appoint'). The LXX vocabulary of selecting reputable, wise men gives real verbal volume here.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 34:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Joshua was 'full of the spirit of wisdom, for Moses had laid his hands on him,' and so was commissioned to lead. Acts 6 fuses the same two elements — men 'full of the Spirit and of wisdom' who are commissioned when the apostles 'laid their hands on them.' Strong thematic coherence and good verbal volume (spirit + wisdom + laying on of hands as ordination).",
+        "contested": false
+      },
+      {
+        "source": "Numbers 27:18-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses commissions Joshua, 'a man in whom is the Spirit,' by laying his hand(s) on him before the assembly and the priest. The setting-apart-by-imposition-of-hands of a Spirit-filled man for office is the same ritual gesture used in Acts 6:6, reinforcing the Moses/Joshua succession typology behind the appointment of the seven.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 8:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Levites are set apart for the service of the tabernacle when the people 'lay their hands' on them. Since the seven are appointed precisely to 'serve tables' (a ministry of practical service), the Levitical consecration-by-handlaying for service may stand faintly behind the scene, but the verbal contact is thin and the Joshua-commissioning texts are the nearer parallel.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 31:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Bezalel is 'filled with the Spirit of God, with wisdom' for the work of the sanctuary — the same pairing of Spirit and wisdom for a hands-on ministry of service that qualifies the seven (6:3, 6:5). Faint, but it belongs to a recurring OT pattern of Spirit+wisdom equipping for divinely assigned work.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 1:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Israel 'was fruitful... and multiplied and grew exceedingly mighty.' Acts 6:7's growth refrain ('the word of God increased and the number of the disciples multiplied... exceedingly') deliberately reuses Septuagintal multiplication language, casting the church's expansion as a new Exodus-style flourishing of God's people. Recurrence is strong: this refrain runs through Acts.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The creation mandate to 'be fruitful and multiply' is the headwater of the OT multiplication idiom that Acts 6:7 redeploys for the growing community. Diffuse rather than pointed; the proximate model is the Exodus growth language, but the Genesis blessing stands behind it.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 10:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The LORD 'executes justice for the orphan and the widow.' The presenting crisis of Acts 6 is widows being neglected in the daily distribution; the church's corrective embodies Torah's persistent demand that the covenant community secure justice for widows. Thematic, not verbal.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 22:22-24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall not afflict any widow' under threat of God's anger. The neglect of the Hellenist widows is exactly the failure Torah warns against, and the apostles' swift remedy reflects this covenantal obligation. Faint background to the social problem rather than a textual citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.2",
+    "ch": 6,
+    "ref": "6:8-15",
+    "echoes": [
+      {
+        "source": "Exodus 34:29-35",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Stephen's face appears to the council 'like the face of an angel' — the most pointed Moses-typology in the chapter, recalling how Moses' face shone after speaking with God on Sinai so that the people were struck by its radiance. The irony is deliberate: those accusing Stephen of blaspheming Moses behold on him the very Mosaic glory. Strong thematic coherence; the heavenly luminosity motif gives it volume.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 34:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses is remembered for 'all the signs and wonders' the LORD sent him to do. Stephen, 'full of grace and power, performed great wonders and signs' (6:8), continuing the Moses-and-prophet pattern Acts assigns to its Spirit-filled witnesses. Recurs as a fixed Lukan idiom; coherent with the broader Moses framing of the trial.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 7:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I will multiply my signs and wonders in the land of Egypt' — the foundational Exodus pairing of 'signs and wonders' that Acts 6:8 reuses for Stephen's ministry. Together with Deut 34:11 it locates Stephen in the line of Mosaic authentication by mighty deeds.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 24:11-16",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The law of the blasphemer: one who blasphemes the Name is brought before the assembly, witnesses are involved, and the offender is stoned outside the camp. Stephen is charged with 'blasphemous words' (6:11, 6:13) and will be stoned (ch. 7). Little verbal borrowing, but the legal-typological frame — blasphemy accusation issuing in stoning — is precisely this statute, which the trial scene self-consciously invokes.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 22:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall not blaspheme God, nor curse a ruler of your people.' This is among the texts grounding the very category of the blasphemy charge leveled against Stephen ('blasphemous words against Moses and God,' 6:11). Background to the legal accusation rather than a quoted source.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 35:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Malicious witnesses rise up; they ask me of things I do not know.' The 'false witnesses' suborned against Stephen (6:13) reprise the lament-psalm motif of the righteous sufferer assailed by lying accusers. Thematic coherence strong within Luke's righteous-martyr portrait; verbal contact moderate.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 27:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'False witnesses have risen against me, and they breathe out violence.' Reinforces the same psalmic pattern as Ps 35:11 — the persecuted righteous one surrounded by perjurers — directly mirrored in the false witnesses set up against Stephen.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 19:16-19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Torah's procedure for the 'malicious witness' who testifies falsely against another. The deliberate suborning of 'false witnesses' (6:13) is an inversion of this very law — the council perverts the witness-procedure Deuteronomy designed to protect the innocent. Legal-thematic resonance.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Decalogue's prohibition 'you shall not bear false witness against your neighbor.' The engineering of false testimony against Stephen is a flat violation of this command — diffuse background rather than a cited text, but part of the false-witness cluster.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 26:6-11",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Jeremiah prophesies that the LORD will make the temple 'like Shiloh' and the city a desolation; priests, prophets, and people seize him, demand his death, and put him on trial for speaking against 'this place.' Acts 6:13-14 charges Stephen with saying Jesus 'will destroy this place' — the prophet-on-trial-for-predicting-the-temple's-fall pattern is strikingly congruent. Little verbal borrowing, strong typological satisfaction.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 7:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I will do to the house that is called by my name... as I did to Shiloh' — Jeremiah's temple sermon announcing the sanctuary's destruction. The accusation that Stephen said Jesus 'will destroy this holy place' echoes this prophetic threat against the temple, situating Stephen among prophets who relativized the sanctuary's permanence.",
+        "contested": false
+      }
+    ]
+  }
+]
