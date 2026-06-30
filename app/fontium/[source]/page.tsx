@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allDossierSlugs, getDossier, type DossOcc } from "@/lib/sources";
 import { allChapterSlugs } from "@/lib/trajectory";
+import { canonicalBook } from "@/lib/echoes";
 import { sourceSlug } from "@/lib/slug";
 import { TYPE_META, CONFIDENCE_INK, CONFIDENCE_LABEL, ORDER, ACCENT } from "@/lib/echoes";
 import type { EchoType, Confidence } from "@/lib/types";
@@ -48,7 +49,7 @@ export default async function SourcePage({
     occ: d.occ.filter((o) => o.type === t),
   })).filter((g) => g.occ.length > 0);
 
-  const chapterSlug = d.chapter ? sourceSlug(`${d.book} ${d.chapter}`) : "";
+  const chapterSlug = d.chapter ? sourceSlug(`${canonicalBook(d.book)} ${d.chapter}`) : "";
   const readHref = chapterSlug && READER_SLUGS.has(chapterSlug) ? `/fontium/read/${chapterSlug}` : null;
 
   return (

@@ -8,13 +8,15 @@
 import { BOOKS } from "@/data/books";
 import type { Book } from "./types";
 import { NT_ABBR, parse } from "./fontium";
-import { sourceBook } from "./echoes";
+import { sourceBook, canonicalBook } from "./echoes";
 import { sourceSlug } from "./slug";
 import { allDossierSlugs } from "./sources";
-import chaptersData from "@/data/ot-chapters.json";
+import webChapters from "@/data/ot-chapters.json";
+import deuteroChapters from "@/data/ot-chapters-deutero.json";
 
 type RawChapter = { book: string; chapter: number; ref: string; verses: [number, string][] };
-const CHAPTERS = chaptersData as unknown as Record<string, RawChapter>;
+// Protestant WEB chapters + the deuterocanon fetched from the WEB Apocrypha.
+const CHAPTERS = { ...webChapters, ...deuteroChapters } as unknown as Record<string, RawChapter>;
 
 export type TOcc = {
   ntSlug: string;
@@ -68,7 +70,7 @@ function build() {
     const abbr = NT_ABBR[b.name] || b.name.slice(0, 3);
     for (const p of b.pericopes)
       for (const e of p.echoes) {
-        const ob = sourceBook(e.source);
+        const ob = canonicalBook(sourceBook(e.source));
         const { chapter, verse } = parse(e.source);
         if (!chapter) continue;
         const slug = sourceSlug(`${ob} ${chapter}`);

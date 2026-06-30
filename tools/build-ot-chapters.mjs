@@ -5,7 +5,7 @@
 //   node --import tsx tools/build-ot-chapters.mjs   (or: npx tsx tools/...)
 import { readFileSync, writeFileSync } from "node:fs";
 import { BOOKS } from "../data/books.ts";
-import { sourceBook } from "../lib/echoes.ts";
+import { sourceBook, canonicalBook } from "../lib/echoes.ts";
 import { sourceSlug } from "../lib/slug.ts";
 
 const web = JSON.parse(readFileSync("tools/web.json", "utf8"));
@@ -25,7 +25,7 @@ const wanted = new Set();
 for (const b of BOOKS)
   for (const p of b.pericopes)
     for (const e of p.echoes) {
-      const ob = sourceBook(e.source);
+      const ob = canonicalBook(sourceBook(e.source));
       if (NTNAMES.has(ob)) continue;
       const m = e.source.replace(/–/g, "-").match(/^(.+?)\s+(\d+)/);
       if (!m) continue;

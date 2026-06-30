@@ -63,6 +63,20 @@ export function sourceBook(source: string): string {
   return source.replace(/\s+\d.*$/u, "").trim() || source;
 }
 
+// Collapse the corpus's own naming variants to one canonical book name, so the
+// same biblical book resolves to a single chapter-reader slug regardless of how
+// an individual echo wrote it (e.g. "Wisdom" and "Wisdom of Solomon").
+const BOOK_CANON: Record<string, string> = {
+  Wisdom: "Wisdom of Solomon",
+  "Song of Solomon": "Song of Songs",
+  Canticles: "Song of Songs",
+  Qoheleth: "Ecclesiastes",
+  "1 Enoch /": "1 Enoch",
+};
+export function canonicalBook(name: string): string {
+  return BOOK_CANON[name.trim()] ?? name.trim();
+}
+
 export function chipLabel(e: Echo): string {
   const g = TYPE_META[e.type].glyph;
   return `${g ? g + " " : ""}${e.source}${e.contested ? " ?" : ""}`;
