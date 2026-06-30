@@ -1,0 +1,301 @@
+[
+  {
+    "id": "8.1",
+    "ch": 8,
+    "ref": "8:1-3",
+    "echoes": [
+      {
+        "source": "Exodus 33:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's \"if anyone loves God, the same is known by him\" inverts the human-knows-God expectation toward God's prior knowing, echoing the LORD's word to Moses, \"I know you by name.\" The motif of God's elective knowledge of a person is the Septuagintal idiom Paul draws on; the verbal link is the divine \"knowing\" of the favored one. Coherence is strong with Paul's wider theology of being foreknown.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"You have found favor in my sight, and I know you by name\" supplies the same pattern of God knowing the one who loves/serves him that Paul reuses to relativize human knowledge. Recurrence with Exod 33:12 strengthens the case for a Mosaic backdrop. Marked echo rather than quotation because Paul reworks it into a general maxim.",
+        "contested": false
+      },
+      {
+        "source": "Nahum 1:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"The LORD is good... and he knows those who take refuge in him\" parallels Paul's \"is known by him,\" the divine knowing of those who love God. The thematic coherence is real but the volume is faint and the wording divergent. Offered as a plausible secondary resonance.",
+        "contested": true,
+        "altSource": "Psalm 1:6"
+      },
+      {
+        "source": "Psalm 1:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"The LORD knows the way of the righteous\" is the wisdom-tradition counterpart to Paul's claim that the one who loves God is known by him. Faint volume; offered as a candidate for the OT idiom of God's saving knowledge of the righteous. Contested because no verbal contact beyond the verb \"know.\"",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah contrasts boasting in wisdom with knowing the LORD, exactly Paul's move against knowledge that \"puffs up.\" Paul cites this passage explicitly at 1 Cor 1:31, making its availability and recurrence in this letter strong, so the contrast of human gnosis vs. knowing/being known by God plausibly stands behind 8:1-3 as well. Coherence with Paul's anti-boasting theme is high.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "8.2",
+    "ch": 8,
+    "ref": "8:4-6",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"There is no God but one\" (v.4) and \"to us there is one God\" (v.6) directly rework the Shema, \"the LORD our God, the LORD is one.\" Paul splits the one kyrios-theos confession into \"one God, the Father\" and \"one Lord, Jesus Christ,\" a christological re-reading of the foundational monotheistic creed. High volume, high coherence, and the Shema's universal availability make this the controlling OT text of the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Shema's command to love the LORD continues into Paul's framing, linking 8:3 (\"if anyone loves God\") to the one-God confession of 8:4-6. The pairing of loving God and confessing one God reproduces the Deuteronomic sequence. Marked as echo since v.5 is implied by Paul's use of the whole Shema unit.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:35",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"The LORD is God; there is no other besides him\" is the explicit monotheistic formula Paul restates as \"there is no other God but one.\" The negation \"no other\" matches closely. High volume and direct coherence with the chapter's argument that idols are nothing.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:39",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"The LORD is God in heaven above and on the earth beneath; there is no other\" supplies both the exclusive monotheism and the heaven/earth merism Paul uses in v.5 (\"in the heavens or on earth\"). The spatial double phrase strengthens the link beyond generic monotheism. Coherence high.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"I am the first and the last; besides me there is no God\" is a prime Deutero-Isaianic monotheistic declaration that Paul condenses into \"no God but one.\" Isaiah 40-48 is Paul's deep well for monotheism-against-idolatry, supplying both the creed and the idol polemic of this chapter. High recurrence across Isaiah strengthens availability.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Is there a God besides me? There is no Rock; I know not any\" reinforces the exclusive monotheism Paul affirms in v.4. Part of the same oracle as 44:6, contributing to a cumulative Isaianic backdrop. Echo rather than quotation due to paraphrase.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 45:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"I am the LORD, and there is no other; besides me there is no God\" is among the clearest sources for Paul's \"no God but one.\" The repeated Isaianic \"none besides me\" formula directly grounds the confession of v.4. High volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 115:4-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The classic idol-polemic — idols are silver and gold, the work of human hands, that cannot see, speak, or act — underwrites Paul's \"no idol is anything in the world.\" Psalm 115 reduces idols to nothing, exactly Paul's premise. The chapter's whole \"food sacrificed to idols\" logic rests on this conviction of idols' non-existence; high coherence and recurrence with the Isaianic polemic.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 135:15-18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "A near-doublet of Psalm 115's idol satire (idols of silver and gold, work of human hands, mouths that cannot speak) reinforcing that idols are nothing. Recurrence with Ps 115 raises the volume of the idols-as-nothing theme behind v.4. Echo because Paul does not quote, only assumes the conclusion.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:9-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's extended mockery of the idol-maker who fashions a god from a leftover log establishes that an idol \"is nothing in the world,\" the very phrase-idea Paul uses in v.4. This is the locus classicus of idol-nothingness in the prophets and coheres tightly with Paul's argument. Allusion rather than quotation since Paul presupposes its conclusion.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 10:3-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"They are like a scarecrow... they cannot speak... neither is it in them to do good\" — idols as powerless non-entities supports Paul's denial that any idol is anything. Part of the same prophetic idol-polemic stream as Isaiah 44 and Psalm 115. Faint-to-moderate volume; flagged as a recurring tradition.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 2:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Have we not all one Father? Has not one God created us?\" supplies Paul's distinctive pairing of one God with fatherhood and creation (\"one God, the Father, of whom are all things\") in v.6. The combination of \"one Father\" and \"one God\" who creates is rare and matches Paul's formulation closely. Coherence with the Shema-expansion is strong.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 10:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"The LORD your God is God of gods and Lord of lords\" stands behind Paul's concession in v.5 that there are \"many gods and many lords\" while affirming the one God and one Lord. The god-of-gods/lord-of-lords formula frames the polemic of relative vs. true deity. Echo, since Paul redeploys rather than cites it.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 136:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Give thanks to the God of gods... the Lord of lords\" parallels Paul's \"many gods and many lords\" / \"one God... one Lord\" antithesis in vv.5-6. Faint verbal contact through the gods/lords pairing; offered as a secondary resonance to Deut 10:17. Contested because the link is conceptual.",
+        "contested": true,
+        "altSource": "Deuteronomy 10:17"
+      },
+      {
+        "source": "Zechariah 14:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"The LORD will be king over all the earth; on that day the LORD will be one and his name one\" is an eschatological echo of the Shema that, like Paul, projects the one-LORD confession onto all reality. Coheres with Paul's universalizing \"of whom are all things\" in v.6. Echo, marked for its Shema reworking.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 45:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"God is in you only, and there is no other, no god besides him\" reinforces the exclusive-monotheism cluster behind v.4. Faint additional witness within Isaiah's monotheistic oracles. Low volume; included for the maximal sweep.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 8:22-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's \"one Lord... through whom are all things\" assigns to Christ the mediating role of Wisdom present at creation, by whom all things were made. The Wisdom-as-agent-of-creation tradition stands behind Paul's christological reworking of the Shema in v.6. Contested and faint, since the link is conceptual mediation rather than wording.",
+        "contested": true,
+        "altSource": "Wisdom of Solomon 7:22-8:1"
+      },
+      {
+        "source": "Wisdom of Solomon 13:1-9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Hellenistic-Jewish polemic against those who, knowing the works of creation, fail to know the one God, paralleling Paul's contrast of true knowledge with idolatry. As Second-Temple idol-critique it is squarely available to Paul and his diaspora congregation. Echo of the deuterocanonical natural-theology argument behind vv.4-6.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 14:12-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom traces idolatry to human invention and names idols empty objects of misplaced worship, supporting Paul's \"no idol is anything.\" Available Second-Temple background to the chapter's premise. Faint volume; included to mark the recurring deuterocanonical idol-critique.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's \"one God, the Father, of whom are all things\" and \"one Lord... through whom are all things\" presuppose the creation account's one Creator of all. The creation-of-all-things motif grounds the monotheism of v.6. Faint, generic link, marked low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.3",
+    "ch": 8,
+    "ref": "8:7-8",
+    "echoes": [
+      {
+        "source": "Leviticus 17:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prohibition of sacrifices to goat-demons frames the Israelite anxiety about idol-food that Paul's \"weak\" still feel as \"consciousness of the idol.\" The defilement-by-idol-association logic of vv.7 draws on the Levitical sense that idolatrous sacrifice pollutes. Faint and conceptual; included for the defilement theme.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 1:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Daniel \"resolved not to defile himself\" with the king's food associated with idolatry, the paradigmatic Second-Temple case of conscience over defiling pagan food. This is the closest scriptural analogue to the \"weak\" conscience \"defiled\" by idol-food in v.7. Coherence high; the diaspora food-defilement motif is directly available.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 1:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Polluted food\" offered on the altar links idol/improper offering with defilement, paralleling the \"defiled\" conscience over idol-food in v.7. Faint verbal contact through defiled food; offered as a secondary resonance to Daniel 1:8. Contested.",
+        "contested": true,
+        "altSource": "Daniel 1:8"
+      },
+      {
+        "source": "Tobit 1:10-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Tobit abstains from the food of the Gentiles, the same Second-Temple scruple over defilement by pagan food that animates the \"weak\" of v.7. Available deuterocanonical parallel to the conscience-and-food anxiety. Low volume, included for the maximal sweep.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 16:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"The LORD looks on the heart\" stands behind Paul's claim that \"food will not commend us to God\" (v.8) — outward consumption does not determine standing before God, who weighs the heart. Conceptual coherence with Paul's relativizing of food; faint wording. Contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 50:8-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God declares he has no need of sacrificial food (\"I will not accept a bull... do I eat the flesh of bulls?\"), grounding Paul's claim that food neither commends nor diminishes us before God (v.8). The prophetic critique that God is not won by eating coheres with Paul's argument. Faint volume; marked low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.4",
+    "ch": 8,
+    "ref": "8:9-13",
+    "echoes": [
+      {
+        "source": "Leviticus 19:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"You shall not put a stumbling block before the blind\" is the foundational Torah text for Paul's warning that liberty must not become \"a stumbling block to the weak\" (v.9). The stumbling-block image and the protection of the vulnerable are taken straight from the Holiness Code. High coherence; the weak stand in for the blind as those liable to be tripped.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 14:3-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel condemns those who \"set up their idols in their hearts and put the stumbling block of their iniquity before their faces,\" uniquely joining idols and stumbling block — exactly Paul's combination of idol-food and the stumbling block to the weak (vv.9-13). The conjunction of these two motifs is distinctive and strengthens the allusion. Coherence high.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 7:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wealth become \"the stumbling block of their iniquity\" that defiles supplies the Ezekielian stumbling-block idiom Paul reuses in v.9. Recurrence with Ezek 14:3-4 supports an Ezekielian source for the metaphor. Faint independent volume; low.",
+        "contested": true,
+        "altSource": "Ezekiel 14:3-4"
+      },
+      {
+        "source": "Isaiah 8:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The LORD becomes \"a stone of offense and a rock of stumbling\" — the prophetic stumbling-stone tradition that informs Paul's stumbling-block language in vv.9,13. Conceptual, with the term shared; Paul applies it ethically to causing the weak to fall. Contested, low volume.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 2:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The priests have \"caused many to stumble by your instruction,\" linking flawed teaching/knowledge to the stumbling of others, paralleling how the \"knowledge\" of the strong causes the weak to stumble (vv.10-11). Thematic coherence with Paul's critique of knowledge without love. Faint volume; low.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 19:17-18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The command not to sin against your neighbor but to love him stands behind Paul's charge that wounding the weak brother's conscience is to \"sin against the brothers\" (v.12). Paul's love-of-neighbor logic governing this chapter draws on the Holiness Code's brother/neighbor ethic. Coherence strong with the love-builds-up theme of 8:1.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 4:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Am I my brother's keeper?\" and the blood of the brother crying out frame Paul's insistence that the strong are responsible for the brother who perishes (v.11). The motif of culpability for a brother's destruction resonates faintly with Cain. Conceptual; included for the maximal sweep.",
+        "contested": true
+      }
+    ]
+  }
+]

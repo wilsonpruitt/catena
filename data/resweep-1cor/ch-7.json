@@ -1,0 +1,299 @@
+[
+  {
+    "id": "7.1",
+    "ch": 7,
+    "ref": "7:1-7",
+    "echoes": [
+      {
+        "source": "Genesis 2:24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The mutual conjugal claim Paul articulates (neither spouse has authority over their own body) presupposes the one-flesh union of Gen 2:24, the foundational text Paul cites explicitly in the prior pericope (6:16). Coherence is high because Paul's entire marriage theology in this letter rests on the Genesis joining; the body-language of belonging to one another extends that figure. Volume is moderate since no words are shared, but recurrence in the immediate context strengthens it.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 21:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's insistence that the husband render to the wife her due 'affection' (conjugal duty) and that neither defraud the other echoes the Torah's protection of a wife's marital rights in Ex 21:10, where a man may not diminish her food, clothing, or conjugal rights (onah). Second-Temple and rabbinic readings made onah a fixed marital obligation; coherence with Paul's reciprocal duty-language is strong. Volume is low (no quotation) but the legal concept is distinctive and available.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 19:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul permits temporary abstinence 'by consent for a season, that you may give yourselves to prayer'—the only sanctioned reason to interrupt conjugal duty—which mirrors Moses' command before Sinai to abstain from sexual relations to be ready to meet God ('do not go near a woman'). The pattern of cultic abstinence preparatory to encounter with God is the available precedent. Coherence is high; volume rests on the shared logic rather than wording, so confidence is medium.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The pairing of communal fasting/prayer with the temporary suspension of marital intimacy faintly recalls Joel's summons in which even bride and bridegroom leave their chamber for the solemn assembly. The link is thematic (devotion overriding the marriage bed for a set time) rather than verbal. Contested and faint; the cultic-abstinence motif may equally derive from Ex 19.",
+        "contested": true,
+        "altSource": "Exodus 19:15"
+      },
+      {
+        "source": "Job 1:9-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul warns that prolonged abstinence may let Satan tempt them 'because of your lack of self-control,' invoking the Adversary as a tester of human fidelity—the role the satan plays in Job 1-2. Availability is secure (the satan as tester is a Second-Temple commonplace). Volume is low and the figure is generic, so the echo is faint and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.2",
+    "ch": 7,
+    "ref": "7:8-9",
+    "echoes": [
+      {
+        "source": "Proverbs 6:27-28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's maxim 'better to marry than to burn' uses the fire-of-desire image that Proverbs deploys for illicit passion ('Can a man carry fire in his bosom and his clothes not be burned?'). The metaphor of sexual desire as a consuming fire is the available sapiential trope. Volume is low (a single shared image, not a citation), and Paul's turn is positive (marriage as remedy), so the echo is faint and contested.",
+        "contested": true,
+        "altSource": "Sirach 23:16-17"
+      },
+      {
+        "source": "Sirach 23:16-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira describes the man of burning lust (the 'hot soul' kindled like a fire) who will not stop till consumed, the deuterocanonical development of desire-as-fire that lies behind Paul's 'better to marry than to burn.' Availability and coherence with Paul's self-control theme are good; volume is low. Contested as a faint conceptual echo rather than allusion.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.3",
+    "ch": 7,
+    "ref": "7:10-11",
+    "echoes": [
+      {
+        "source": "Genesis 2:24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's dominical prohibition of divorce ('the wife not leave her husband... the husband not leave his wife') is grounded in the one-flesh permanence of Gen 2:24, the very text Jesus cited against divorce in the tradition Paul invokes ('not I, but the Lord'). Coherence is high; the indissolubility logic flows directly from the Genesis joining. Volume is conceptual rather than verbal, hence medium.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 2:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's command that spouses not separate echoes the prophetic denunciation of divorce in Mal 2:16 ('I hate divorce, says the Lord'), the strongest OT statement against putting away one's wife. Coherence is high with Paul's appeal to the Lord's authority on marital permanence. Volume is thematic, not lexical; the prophetic source is available and distinctive, so confidence is medium.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.4",
+    "ch": 7,
+    "ref": "7:12-16",
+    "echoes": [
+      {
+        "source": "Ezra 9:1-2",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Paul reverses the logic of Ezra-Nehemiah's covenant purity crisis: there the 'holy seed' was defiled by mixed marriage and foreign wives had to be put away, whereas Paul declares the unbelieving spouse sanctified and the children holy, so the believer must not separate. The figural inversion presupposes the Ezra paradigm of holiness-by-contagion through marriage. Coherence and availability are high; this is a deliberate counter-reading, hence figural.",
+        "contested": true,
+        "altSource": "Nehemiah 13:23-27"
+      },
+      {
+        "source": "Malachi 2:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's concern that the children of a mixed marriage are 'holy' rather than 'unclean' resonates with Mal 2:15, where God seeks 'godly offspring' from the marriage union as the reason for fidelity. The shared interest in the covenantal status of children of marriage gives coherence; volume is low and the connection conceptual. Contested as a faint background echo.",
+        "contested": true
+      },
+      {
+        "source": "Haggai 2:11-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's sanctification language assumes holiness is communicable through the marriage bond (the unbelieving spouse is made holy, the children holy), inverting the priestly ruling in Hag 2:11-13 that uncleanness spreads by contact but holiness does not. The cultic transmission-of-holiness/defilement framework is the available conceptual matrix. Volume is low and the link contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 52:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The contrast of 'unclean' versus 'holy' applied to the household faintly recalls the holiness/uncleanness boundary language of Isa 52:1 ('no more shall the uncircumcised and the unclean enter you'). The link is lexical-thematic only (clean/unclean, holy) and very faint; contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 34:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's closing principle that 'God has called us in peace' (permitting separation when the unbeliever departs) echoes the sapiential-psalmic imperative to 'seek peace and pursue it.' The peace motif is generic and available; volume is low. Contested and faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.5",
+    "ch": 7,
+    "ref": "7:17-24",
+    "echoes": [
+      {
+        "source": "Deuteronomy 10:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's relativizing of physical circumcision ('Circumcision is nothing, and uncircumcision is nothing, but the keeping of the commandments of God') stands in the prophetic-Deuteronomic tradition that subordinates the bodily rite to the 'circumcision of the heart' and obedience (Deut 10:16). Coherence is high: Paul keeps the command-keeping while voiding the flesh-mark, exactly the Deuteronomic move. Volume is conceptual; the source is distinctive and available.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's claim that what counts is keeping God's commandments, not the circumcised flesh, draws on Deut 30:6, where the Lord himself circumcises the heart so that Israel will love and obey him—internalized obedience displacing the external sign. Coherence with Paul's argument is strong. Recurrence of the heart-circumcision motif across Deuteronomy and the prophets reinforces availability; medium confidence.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 4:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's command to 'circumcise yourselves to the Lord, remove the foreskin of your hearts' is part of the prophetic tradition that makes literal circumcision insufficient apart from obedience—the background to Paul's 'circumcision is nothing.' Coherence and availability are high; the link is thematic rather than verbal, hence allusion at medium confidence.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 9:25-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jer 9:25-26 announces judgment on those 'circumcised yet uncircumcised' in heart, lumping circumcised Israel with the uncircumcised nations—dissolving the very distinction Paul flattens ('neither circumcision nor uncircumcision counts'). The distinctive prophetic leveling of the two states is the available precedent. Coherence is high; volume conceptual, medium confidence.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 12:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's summation that 'the keeping of the commandments of God' is the one thing that counts closely matches Qoheleth's epilogue: 'Fear God and keep his commandments, for this is the whole duty of man.' The phrase 'keep the commandments' is shared and the sapiential reduction-to-essentials coheres with Paul's move. Volume is moderate but the phrase is common in the LXX, so the echo is real yet contested.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 25:42",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's 'You were bought with a price; do not become bondservants of men' rests on the Levitical principle that Israelites are God's own servants ('they are my servants, whom I brought out of Egypt; they shall not be sold as slaves'), so their ultimate ownership belongs to God, not human masters. Coherence with Paul's slave/free argument is strong. The redemption-from-slavery theology is distinctive and available; medium confidence.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 52:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's redemption formula 'you were bought with a price' inverts Isa 52:3, 'you were sold for nothing, and you shall be redeemed without money'—the prophetic image of God reclaiming his enslaved people. The buying/redeeming-from-bondage motif coheres exactly with Paul's exhortation to slaves and freedmen. Volume is conceptual; the distinctive redemption language makes it a plausible allusion at medium confidence.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 25:55",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The premise that the redeemed belong to God and therefore should not become slaves of men ('to me the people of Israel are servants') reinforces 7:23 and is part of the same Jubilee slave-law complex as Lev 25:42. Listed as a faint, recurring background echo to the bought-with-a-price logic; contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.6",
+    "ch": 7,
+    "ref": "7:25-31",
+    "echoes": [
+      {
+        "source": "Ecclesiastes 1:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's declaration that 'the mode of this world passes away' and his counsel to hold possessions loosely echo Qoheleth's vision of generations and the world in ceaseless passing under the sun, where buying, weeping, and rejoicing are all hevel. Coherence is high: the 'as though not' detachment from marriage, mourning, joy, and commerce mirrors Ecclesiastes' relativizing of all worldly engagements. Volume is thematic; medium.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:6-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's claim that 'the present form of this world is passing away' stands in the prophetic tradition of Isa 40:6-8, where 'all flesh is grass' and the world's glory withers while God's word stands—the contrast of transient world and enduring divine order that grounds Paul's eschatological detachment. Coherence and availability are high. Volume conceptual; medium confidence.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 39:5-6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's 'those who buy as though they did not possess' and the fleeting 'form of this world' closely match Ps 39:6: 'man goes about as a shadow; he heaps up wealth and does not know who will gather it.' The shared image of buying/possessing as vain because life and world are transient is distinctive. Coherence with Paul's 'as though not' is strong; medium.",
+        "contested": true
+      },
+      {
+        "source": "Zephaniah 1:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's sense that 'the time has grown short' and 'distress is upon us' echoes the prophetic announcement that the Day of the Lord is near and at hand (Zeph 1:7, 14), with its imminence relativizing ordinary life and commerce. Availability is secure; volume is low and the imminence motif is widespread, so the specific echo is contested.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 3:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's catalogue 'those who weep as though they did not weep, those who rejoice as though they did not rejoice' faintly recalls Qoheleth's 'a time to weep and a time to laugh,' the sapiential relativizing of the emotional seasons of life. The link is thematic and the wording diverges; faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's reference to the present 'distress' and the foreshortened time may draw on Danielic expectation of a time of unparalleled distress before the end (Dan 12:1) and the apocalyptic notion of an appointed time cut short. Availability is good in a Second-Temple frame; volume is low and generic, so this is a faint contested echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.7",
+    "ch": 7,
+    "ref": "7:32-35",
+    "echoes": [
+      {
+        "source": "Psalm 55:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's wish that believers be 'free from cares' (anxieties) and devoted to the Lord faintly echoes the psalmic counsel to 'cast your burden on the Lord.' The anxiety/care language is generic, and Paul's point (undistracted devotion) is his own; the echo is faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 27:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's ideal of attending to the Lord 'without distraction'—the unmarried devoted to the things of the Lord—resonates with the psalmist's single desire 'to dwell in the house of the Lord all the days of my life, to gaze upon his beauty.' The undivided-devotion motif coheres; volume is low and conceptual. Contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.8",
+    "ch": 7,
+    "ref": "7:36-38",
+    "echoes": [
+      {
+        "source": "Sirach 42:9-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's scenario of a man anxious about his virgin (daughter or betrothed) 'past the flower of her age' and deciding whether to give her in marriage closely matches Ben Sira's portrait of the father's sleepless anxiety over an unmarried daughter, lest she pass her prime and not be given away. The shared cultural concern—a guardian's responsibility over a maturing virgin's marriage—is distinctive and available. Coherence is strong; medium confidence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.9",
+    "ch": 7,
+    "ref": "7:39-40",
+    "echoes": [
+      {
+        "source": "Genesis 2:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's rule that 'a wife is bound by law as long as her husband lives' but is freed at his death restates the lifelong one-flesh bond of Gen 2:24 in legal terms. Coherence with Paul's recurrent use of the Genesis joining throughout the chapter is good; volume here is conceptual and the legal formulation generic, so the echo is faint.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 30:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's statement that a widow 'is free to be married to whomever she desires' parallels the Torah's treatment of the widow as released from the binding obligations she bore while her husband lived (Num 30:9, where a widow's vow stands precisely because she is no longer under a husband). The shared legal logic of the husband's death releasing the wife from binding is the available background; faint and contested.",
+        "contested": true
+      }
+    ]
+  }
+]

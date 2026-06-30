@@ -7,6 +7,7 @@ import luke from "./luke.json";
 import john from "./john.json";
 import acts from "./acts.json";
 import romans from "./romans.json";
+import firstCorinthians from "./1-corinthians.json";
 import onePeter from "./1-peter.json";
 
 export const BOOKS: Book[] = [
@@ -16,6 +17,7 @@ export const BOOKS: Book[] = [
   john as Book,
   acts as Book,
   romans as Book,
+  firstCorinthians as Book,
   hebrews as Book,
   onePeter as Book,
   revelation as Book,

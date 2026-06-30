@@ -1,0 +1,339 @@
+[
+  {
+    "id": "13.1",
+    "ch": 13,
+    "ref": "13:1",
+    "echoes": [
+      {
+        "source": "Psalm 150:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'clanging cymbal' (kymbalon alalazon) draws on the temple cymbals of the psalm's call to praise God with 'loud clashing cymbals.' Paul ironically inverts liturgical worship: cymbals were sanctioned only as accompaniment to true praise, so love-less ecstatic speech is mere noise, the percussion without the worship. Verbal and conceptual links give this high volume.",
+        "contested": false
+      },
+      {
+        "source": "1 Chronicles 15:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "David appoints Levites with instruments, including cymbals, to raise sounds of joy in temple worship. Paul's 'clanging cymbal' presupposes this fixed liturgical role of the cymbal in Israelite praise; without love the sound is emptied of its cultic meaning. Recurrence of the cymbal across the Chronicler strengthens availability.",
+        "contested": false
+      },
+      {
+        "source": "1 Chronicles 15:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Heman, Asaph, and Ethan sound bronze cymbals; the noun chalkos/'bronze' resonates with Paul's 'sounding brass' (chalkos echon). The pairing of brass and cymbal in one verse-pair (sounding brass, clanging cymbal) mirrors the Chronicler's pairing of bronze cymbals in temple music, though the link is faint.",
+        "contested": true
+      },
+      {
+        "source": "1 Chronicles 15:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "All Israel brings up the ark with the sound of cymbals amid shouting (the verb cognate to alalazo). Paul's alalazon ('clanging') echoes the loud cultic shout/cymbal-clash of Israel's processional worship, here drained of substance when love is absent.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 8:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Tongues of angels' presupposes the OT picture of angels (here 'a little lower than the angels/elohim') as a class of glorious heavenly beings whose speech surpasses human. The motif of angelic language is developed in Second-Temple texts; the canonical seedbed is the angelic praise tradition.",
+        "contested": true
+      },
+      {
+        "source": "Testament of Job 48-50",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Job's daughters receive cords enabling them to speak 'the dialect of angels' in hymnic praise. This pseudepigraphon attests the precise Second-Temple notion of distinct 'tongues of angels' that Paul invokes, supplying availability for his otherwise unparalleled phrase. Cited as cultural background, not a quoted source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.2",
+    "ch": 13,
+    "ref": "13:2",
+    "echoes": [
+      {
+        "source": "Zechariah 4:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'So as to remove mountains' echoes the oracle to Zerubbabel, 'Who are you, O great mountain? Before Zerubbabel you shall become a plain,' where the mountain of obstacle is leveled not by might but by God's Spirit. The mountain-as-impediment removed by divine power coheres with Paul's faith that 'removes mountains.' Volume is moderate; the saying also circulated in dominical tradition.",
+        "contested": true,
+        "altSource": "Isaiah 54:10"
+      },
+      {
+        "source": "Isaiah 40:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Every mountain and hill shall be made low' supplies the eschatological image of mountains brought down before the coming of God. Paul's hyperbole of faith leveling mountains coheres with this prophetic flattening of obstacles, though the link is thematic rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:34-35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The stone cut without hands shatters the image and becomes a great mountain; the chapter's idiom of mysteries (raza) revealed undergirds Paul's 'know all mysteries.' The mountain motif here is faint, but Daniel's apocalyptic disclosure of 'mysteries' is the strongest OT seedbed for Paul's mysteria language.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Know all mysteries and all knowledge' draws on Daniel's 'God in heaven who reveals mysteries,' the Aramaic raze that becomes the technical term for apocalyptic secrets. Paul's pairing of mysteries with prophetic gift coheres with Daniel's revealer-of-secrets, the principal OT source for the mystery-vocabulary.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "13.3",
+    "ch": 13,
+    "ref": "13:3",
+    "echoes": [
+      {
+        "source": "Daniel 3:19-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Give my body to be burned' evokes Shadrach, Meshach, and Abednego handing over their bodies to the fiery furnace rather than worship the image. The willing surrender of the body to flames as the supreme act of devotion supplies the model Paul deems worthless without love. Strong thematic coherence with martyr-by-fire piety.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 3:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The king praises the three who 'yielded up their bodies' rather than serve any god but their own; the LXX phrasing of surrendering the body parallels Paul's paradoso to soma mou. This sharpens the furnace allusion: bodily self-surrender is praiseworthy, yet Paul says even this profits nothing without love.",
+        "contested": true
+      },
+      {
+        "source": "2 Maccabees 7:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The seven brothers are tortured and burned in pans for refusing apostasy, the paradigmatic deuterocanonical martyrdom by fire. Paul's 'give my body to be burned' coheres with this celebrated martyr-narrative of bodily immolation, a readily available exemplum in his milieu. Volume moderate, recurrence high in martyr tradition.",
+        "contested": false
+      },
+      {
+        "source": "4 Maccabees 7:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Eleazar likened to one consumed by fire yet conquering through reason and piety; the pseudepigraphal celebration of burning martyrdom as the height of virtue reinforces the cultural availability of Paul's burnt-body topos. Cited as background to the burning-as-supreme-sacrifice motif.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 22:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Dole out all my goods to feed the poor' resonates with the OT praise of the one who shares bread with the poor and is blessed. Paul concedes the highest almsgiving, yet subordinates it to love; the link to the wisdom ideal of generosity to the poor is thematic and faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.4",
+    "ch": 13,
+    "ref": "13:4-7",
+    "echoes": [
+      {
+        "source": "Exodus 34:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Love is patient' (makrothymei) and 'kind' renders the LXX self-description of the LORD as 'slow to anger (makrothymos) and abounding in steadfast love.' Paul transposes the covenant attributes of God's character onto agape, so that the hymn portrays love with the very predicates of the divine name. High volume, strong coherence: the Exodus formula is the foundational OT portrait of patient, faithful love.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 145:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The LORD is gracious and merciful, slow to anger and great in steadfast love' restates the Exodus formula and grounds Paul's 'love is patient and kind.' Its liturgical recurrence (Pss 86:15; 103:8; Joel 2:13; Jonah 4:2) gives the patient-and-kind pairing strong availability and volume as a fixed description of covenant love.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 10:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Love covers all offenses' (versus hatred that stirs strife) underwrites Paul's 'love takes no account of evil' and 'bears all things.' The proverb's antithesis of love that overlooks wrongs against hate that provokes maps directly onto Paul's list of what love is not (provoked, resentful). The covering/non-reckoning of evil is a strong conceptual parallel.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 8:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Do not devise evil in your hearts against one another... for all these things I hate' coheres with 'love takes no account of evil' and 'does not rejoice in unrighteousness.' Zechariah pairs the rejection of inward malice with truth-telling (8:16), matching Paul's contrast of evil-plotting against rejoicing in the truth.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 17:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Whoever covers an offense seeks love, but he who repeats a matter separates friends' parallels love that 'takes no account of evil' and 'bears all things.' The wisdom ideal of not rehearsing wrongs is a close conceptual match for Paul's non-reckoning love, reinforcing the Prov 10:12 covering-motif.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 32:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Blessed is the one to whom the LORD imputes no iniquity' supplies the accounting idiom behind 'love takes no account of evil' (ou logizetai to kakon). Just as God's blessing rests on not-reckoning sin, Paul's love refuses to keep a ledger of wrongs; the logizomai/non-imputation link gives moderate verbal warrant.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 14:29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever is slow to anger has great understanding, but he who is hasty of spirit exalts folly' coheres with love that 'is not provoked' (ou paroxynetai). The wisdom valorization of slow anger against quick temper supports Paul's portrait, though without specific verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 16:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Pride goes before destruction, a haughty spirit before a fall' undergirds love that 'doesn't brag, is not proud' (ou physioutai). The wisdom condemnation of arrogance is the broad OT seedbed for Paul's anti-boasting predicates, a thematic rather than verbal echo.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 7:22-24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The hymn to Wisdom enumerates her attributes (kindly, loving the good, beneficent, unhindered) in a rhetorical catalogue strikingly like Paul's catalogue of love's attributes. As a Second-Temple model of personified virtue praised by predicate-lists, it offers availability for the form and ethos of Paul's encomium to agape.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 10:6-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira warns against bearing a grudge, against arrogance, and against the insolence (hyperephania) that God hates. The cluster of grudge-bearing, pride, and rude insolence parallels Paul's love that is 'not proud,' 'doesn't behave inappropriately,' and 'resentful,' giving deuterocanonical wisdom support for the vice-list love negates.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.5",
+    "ch": 13,
+    "ref": "13:6",
+    "echoes": [
+      {
+        "source": "Proverbs 24:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Do not rejoice when your enemy falls' parallels love that 'doesn't rejoice in unrighteousness.' The wisdom prohibition of malicious joy at another's wrong/downfall is a close conceptual match for Paul's chairei... ou epi te adikia, supporting the contrast with rejoicing in the truth.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 51:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You delight in truth in the inward being' resonates with love that 'rejoices with the truth' (synchairei te aletheia). The OT pairing of God's delight in truth over against iniquity supports Paul's antithesis of unrighteousness and truth, though the verbal contact is loose.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.6",
+    "ch": 13,
+    "ref": "13:7",
+    "echoes": [
+      {
+        "source": "Proverbs 10:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Bears all things' (panta stegei) reprises the love-covers-all-offenses motif: stego ('cover/bear in silence') overlaps with the proverb's love that covers transgressions. The recurrence of the covering-language across 13:5 and 13:7 strengthens the link to the Proverbs source for love's forbearance.",
+        "contested": false
+      },
+      {
+        "source": "Lamentations 3:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'It is good to wait quietly for the salvation of the LORD' coheres with love that 'hopes all things, endures all things' (panta hypomenei). The OT ideal of patient, hopeful endurance under affliction supplies the disposition Paul ascribes to love, a thematic echo of waiting-hope.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 27:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Wait for the LORD; be strong, and let your heart take courage' parallels love that 'hopes all things, endures all things.' The recurring OT summons to hopeful endurance and waiting on God undergirds Paul's panta elpizei, panta hypomenei as the posture of covenant trust.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.7",
+    "ch": 13,
+    "ref": "13:8-12",
+    "echoes": [
+      {
+        "source": "Numbers 12:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Then face to face' draws on the LORD speaking with Moses 'mouth to mouth, clearly and not in dark speech (di' ainigmaton)'; Paul's 'in a mirror, dimly (en ainigmati)' uses the very LXX word from Numbers. The contrast of riddling/indirect sight now versus direct, unmediated vision then is grounded precisely in the Mosaic prerogative. High volume by the shared ainigma term.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The LORD used to speak to Moses face to face (prosopon kata prosopon), as one speaks to a friend' supplies Paul's exact phrase 'face to face' for the eschatological vision. The Mosaic privilege of direct divine encounter becomes the eschatological norm Paul anticipates, a strong verbal and conceptual link.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 34:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'No prophet has arisen since like Moses, whom the LORD knew face to face' reinforces the face-to-face idiom as the unique mode of unmediated knowledge of God. Paul universalizes this Mosaic singularity to all believers 'then,' so the prophetic incompleteness of 13:9 yields to Mosaic immediacy.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 32:30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jacob names Peniel, 'for I have seen God face to face (eidon... prosopon pros prosopon), and yet my life is preserved.' The patriarchal precedent of surviving a face-to-face vision of God feeds the OT 'face to face' tradition Paul invokes for final beatific sight. Recurrence of the idiom across Genesis-Deuteronomy strengthens availability.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 139:1-6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Then I will know fully, even as I was also fully known' echoes the psalmist's confession that the LORD has searched and known him completely, his sitting and rising, his thoughts and ways, a knowledge 'too wonderful' to attain. Paul's epignosomai kathos kai epegnosthen inverts the asymmetry: now God knows me fully; then I will know likewise. Strong coherence with the OT theme of being exhaustively known by God.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 1:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Before I formed you in the womb I knew you' contributes to the OT motif of God's prior, exhaustive knowledge of the person that underlies 'even as I was fully known' (epegnosthen). The divine foreknowing of the individual coheres with Paul's claim to be already fully known by God, a faint supporting echo.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 7:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom is 'a spotless mirror (esoptron) of the working of God.' Paul's 'we see in a mirror' (di' esoptrou) shares the rare mirror-as-medium-of-divine-knowledge image; the deuterocanonical sapiential mirror supplies availability for Paul's epistemological metaphor of indirect present sight.",
+        "contested": true
+      },
+      {
+        "source": "Job 28:12-23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Where shall wisdom be found?'—it is hidden, known fully only to God who sees the ends of the earth. The wisdom poem's contrast of human partial knowledge against God's complete knowing coheres with Paul's 'we know in part' giving way to full knowledge, a thematic echo of the limits of present human cognition.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.8",
+    "ch": 13,
+    "ref": "13:13",
+    "echoes": [
+      {
+        "source": "Habakkuk 2:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The righteous shall live by his faith(fulness)' supplies the OT root of Paul's enduring 'faith' (pistis) in the triad faith-hope-love that 'remains.' The prophetic grounding of life in abiding faith coheres with Paul's claim that faith abides into the eschaton, a thematic rather than verbal echo.",
+        "contested": true
+      },
+      {
+        "source": "Micah 6:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'To do justice, and to love kindness (chesed), and to walk humbly with your God' offers an OT triad of enduring religious requirements culminating in covenant love. The form of a compressed triad whose summit is love/chesed loosely anticipates Paul's faith-hope-love crowned by the greatest, love. Faint formal echo.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-2",
+    "echoes": [
+      {
+        "source": "Leviticus 18:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's phrase 'one has his father's wife' verbally echoes the Levitical incest prohibition 'the nakedness of thy father's wife thou shalt not uncover.' High Volume (distinctive 'father's wife' formula) and strong Coherence with Paul's argument that the church surpasses even Gentile mores; the Holiness Code is the controlling intertext for the whole chapter.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 18:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The immediately preceding verse frames the offense as uncovering 'the nakedness of thy father,' the broader Holiness-Code matrix from which 18:8 follows. Coherent with Paul's sense of a violation more fundamental than a single statute, though 18:8 is the closer verbal match.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 20:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The capital-sanction parallel to 18:8: 'the man that lieth with his father's wife... both of them shall surely be put to death.' Its death penalty undergirds Paul's demand that the man 'be removed from among you,' linking the prohibition to communal expulsion. High Recurrence across Lev 18 and 20.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 27:20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Cursed be he that lieth with his father's wife' — the Deuteronomic curse-list naming the identical offense in nearly identical words. Strong Volume and Coherence; the covenantal curse motivates Paul's grief and call for removal rather than the Corinthians' boasting.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 22:30",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A man shall not take his father's wife, nor discover his father's skirt' (LXX/Heb 23:1) restates the same prohibition in legislative form. Medium confidence because it overlaps Lev 18:8 and 27:20; included for Recurrence within the Torah's repeated condemnation of this exact union.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:3-5",
+    "echoes": [
+      {
+        "source": "Job 2:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Deliver such a one to Satan for the destruction of the flesh' echoes the Lord handing Job over to the Satan 'in thine hand; but save his life' — affliction of the body permitted while the person is ultimately preserved. The structure of bodily harm under satanic agency with a saving limit gives moderate Coherence; the verbal link is conceptual rather than lexical.",
+        "contested": true
+      },
+      {
+        "source": "Job 1:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The first delivery of Job's possessions into the Satan's power ('all that he hath is in thy power') reinforces the same handing-over schema. Low confidence and contested, included for Recurrence within the Job prologue's distinctive 'deliver to the Satan' motif behind Paul's formula.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 6:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The destruction of the flesh, that the spirit may be saved' may faintly resonate with the flesh/spirit duality of 'my spirit shall not always strive with man, for that he also is flesh.' Faint and contested; offered for Availability within Israel's anthropology of mortal flesh versus enduring spirit.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:6-8",
+    "echoes": [
+      {
+        "source": "Exodus 12:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'A little yeast leavens the whole lump... purge out the old yeast' draws directly on the Passover command to 'put away leaven out of your houses,' on pain of being 'cut off from Israel.' High Volume and Coherence: Paul reads the literal de-leavening as figural for purging the immoral man, and the cutting-off sanction matches 5:13.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 12:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Seven days shall there be no leaven found in your houses' supplies the totality of leaven-removal behind 'leavens the whole lump' and 'purge out the old yeast.' Strong Recurrence within the Passover legislation that controls the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 12:8",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Christ, our Passover, has been sacrificed' figurally identifies Jesus with the paschal lamb 'roast with fire, and unleavened bread' eaten that night. High Volume and Coherence: the lamb's sacrifice is the ground for keeping the feast 'with the unleavened bread of sincerity,' a paradigmatic figural reading of Exodus 12.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 12:6",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The command that 'the whole assembly of Israel shall kill it' (the lamb) at twilight underlies 'Christ our Passover has been sacrificed.' Coherent with Paul's communal frame; the slaying of the paschal victim is the figural type fulfilled.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 13:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Unleavened bread shall be eaten... neither shall there be leaven seen with thee in all thy quarters' parallels 'keep the feast... with the unleavened bread of sincerity and truth.' Strong Coherence: the Feast of Unleavened Bread is the explicit referent of Paul's 'let us keep the feast.'",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 16:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Thou shalt eat no leavened bread with it; seven days... even the bread of affliction' provides the Deuteronomic form of the unleavened-bread feast Paul invokes. High Recurrence alongside Exodus 12-13; reinforces the festal command behind 5:8.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 16:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'There shall be no leaven seen with thee in all thy coast seven days' restates the total purge of leaven during the feast. Medium confidence because it duplicates Exod 13:7; included for Recurrence of the leaven-removal command.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 23:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Thou shalt keep the feast of unleavened bread... as I commanded thee' is a further iteration of the festal command Paul reworks in 'let us keep the feast.' Low confidence, offered for Availability and Recurrence within the Pentateuch's repeated feast legislation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.4",
+    "ch": 5,
+    "ref": "5:9-13",
+    "echoes": [
+      {
+        "source": "Deuteronomy 17:7",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Put away the wicked man from among yourselves' quotes the Deuteronomic expulsion formula 'so thou shalt put the evil away from among you,' here closing the idolatry/false-witness statute. Highest Volume in the chapter (verbatim LXX clause) and capstone Coherence: the literal de-leavening of 5:7 is realized as covenantal purging of the offender.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 19:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'So shalt thou put the evil away from among you' recurs in the law of the false witness, one of several Deuteronomic occurrences of the formula Paul cites. Medium confidence as a parallel source for the same refrain; strong Recurrence supports its availability behind 5:13.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 22:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'So shalt thou put evil away from among you' concludes the sexual-purity statute on a bride found unchaste — thematically apt since Paul applies the formula to a sexual offender. Coherent pairing of the expulsion refrain with sexual sin strengthens the link.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 22:24",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "The same 'put away evil from among you' caps the adultery law of vv.23-24, another sexual-sin instance of the refrain. Low confidence given heavy overlap with the other occurrences; listed for Recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 24:7",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "'So shalt thou put evil away from among you,' closing the law against man-stealing, is a further occurrence of the formula Paul draws on. Low confidence; included to document the full Recurrence pattern across Deuteronomy that establishes 5:13 as a stock covenantal citation.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 13:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'So shalt thou put the evil away from the midst of thee,' closing the law against the idolatrous prophet, is especially apt since Paul's vice-list in 5:10-11 leads with idolaters. The idolatry context gives this occurrence of the refrain heightened Coherence with Paul's argument.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Not to associate... not even eat with such a person' faintly recalls the blessed man who walks 'not in the counsel of the ungodly' — separation from the wicked as the mark of the righteous community. Faint and contested; offered for the broad wisdom motif of avoiding fellowship with sinners.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 13:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He that toucheth pitch shall be defiled therewith' expresses the Second-Temple wisdom logic that contact with the wicked contaminates, undergirding Paul's 'have no company' and the leaven imagery. Low confidence, contested; valid by Availability as a deuterocanonical analogue to the contagion of sin.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 18:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Those who are outside, God judges' resonates with Abraham's 'Shall not the Judge of all the earth do right?' — God as the universal judge over outsiders while the community judges its own. Faint, contested echo of the divine-judge motif.",
+        "contested": true
+      }
+    ]
+  }
+]

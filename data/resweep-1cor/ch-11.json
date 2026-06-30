@@ -1,0 +1,180 @@
+[
+  {
+    "id": "11.1",
+    "ch": 11,
+    "ref": "11:2-16",
+    "echoes": [
+      {
+        "source": "Genesis 1:26-27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's claim that man 'is the image and glory of God' (v.7) draws directly on the creation of humanity in God's image and likeness. The Greek eikon echoes LXX Gen 1:26-27. High volume and coherence; Paul reasons from the creation account to gender relations in worship.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:18-23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Verses 8-9 ('man is not from woman, but woman from man... neither was man created for the woman, but woman for the man') paraphrase the formation of woman from Adam's rib and as a helper fit for him. Explicit appeal to the order of creation; very high volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The framing of man as formed first and woman 'from man' (v.8) presupposes the prior molding of Adam from the dust in Gen 2:7, the immediate context of the woman's formation. Faint and dependent on the larger Gen 2 narrative already in view.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 6:1-4",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "The enigmatic 'because of the angels' (v.10) has long been read against the sons of God who took human women, implying that uncovered women in worship could provoke angelic lust. A major interpretive option but contested; volume is low since Paul gives no quotation, only the cryptic phrase.",
+        "contested": true,
+        "altSource": "1 Enoch 6-7"
+      },
+      {
+        "source": "Psalm 138:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "An alternative reading of 'because of the angels' (v.10) is that angels are present at communal worship (cf. praising God 'before the gods/angels'), so propriety must be maintained in their sight. Faint, contested, and one of several competing explanations.",
+        "contested": true,
+        "altSource": "Deuteronomy 32:8"
+      },
+      {
+        "source": "1 Enoch 6-7",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Second-Temple Watcher tradition (1 Enoch 6-7) elaborates Gen 6's angelic descent and lust for women, the most likely backdrop if 'the angels' (v.10) refers to fallen watchers. Availability is secure; recurrence in early Christian reception (Tertullian) supports it, but it remains contested.",
+        "contested": true,
+        "altSource": "Genesis 6:1-4"
+      }
+    ]
+  },
+  {
+    "id": "11.2",
+    "ch": 11,
+    "ref": "11:17-22",
+    "echoes": [
+      {
+        "source": "Deuteronomy 16:11-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's rebuke that the rich shame 'those who have nothing' at the common meal (v.22) coheres with the Torah's repeated insistence that festal eating include the poor, the stranger, the widow. Faint thematic echo rather than a specific citation; no verbal overlap.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 5:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The picture of some drunken while others go hungry at the assembly (vv.21-22) recalls prophetic woes against feasting and drunkenness that ignore covenant obligation. Low volume; a moral-prophetic resonance, not a quotation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.3",
+    "ch": 11,
+    "ref": "11:23-26",
+    "echoes": [
+      {
+        "source": "Exodus 24:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'This cup is the new covenant in my blood' (v.25) fuses Moses' words at Sinai, 'the blood of the covenant,' with covenant-inauguration sacrifice. High volume via the covenant+blood pairing and strong coherence; the Supper is presented as a covenant-ratifying meal.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:31",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The phrase 'the new covenant' (v.25) is verbatim from Jeremiah's promise of a new covenant (LXX Jer 38:31). Highest volume of any echo here; Jesus' cup-word interprets the Supper as the inauguration of Jeremiah's promised covenant.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 12:1-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The institution 'on the night in which he was betrayed' (v.23) over bread and cup is set within the Passover frame; the memorial meal ('in memory of me') echoes the Passover's perpetual remembrance. Coherence is strong, though the verbal overlap is thematic rather than quoted.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 12:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Do this in memory of me' (vv.24-25) mirrors the Passover ordinance that the day be a 'memorial' (zikkaron / LXX mnemosynon) kept perpetually. The memorial-meal logic transfers from Exodus to the Lord's Supper.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 9:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'By the blood of your covenant I have set your prisoners free' is one possible background for 'the new covenant in my blood' (v.25), linking covenant blood to liberation. Faint and secondary to Exodus 24/Jeremiah 31; low volume.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The body 'which is for you' and proclaiming the Lord's death (vv.24, 26) may echo the Servant who 'poured out his soul to death' and bore others' sin. Low volume, contested; resonance is conceptual rather than verbal in this passage.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.4",
+    "ch": 11,
+    "ref": "11:27-34",
+    "echoes": [
+      {
+        "source": "Psalm 26:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Let a man examine himself' (v.28) echoes the psalmist's plea, 'Examine me, O Lord, and prove me; test my heart and my mind.' Self-scrutiny before approaching God is the shared logic; medium volume given the verbal field of testing/proving.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 139:23-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The call to self-examination before the cup (v.28) coheres with 'Search me, O God, and know my heart... see if there is any wicked way in me.' Recurrence of the examine-the-heart motif in the Psalter supports the echo.",
+        "contested": false
+      },
+      {
+        "source": "Lamentations 3:40",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Let us search and try our ways, and turn again to the Lord' parallels Paul's 'if we discerned ourselves, we wouldn't be judged' (v.31). The self-examination-averts-judgment logic is closely coherent with Lamentations' penitential exhortation.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 8:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'When we are judged, we are punished by the Lord' (v.32) draws on the covenant principle that the Lord disciplines his people 'as a man disciplines his son.' The corrective (not condemnatory) character of the chastening matches Paul's point.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 3:11-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Being 'punished by the Lord' so as not to be condemned (v.32) echoes 'do not despise the Lord's discipline... for the Lord reproves him whom he loves.' Strong coherence with the fatherly-discipline theme; medium volume.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 12:8-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The instruction to 'wait for one another' and eat at home if hungry (vv.33-34) may faintly echo the ordered, communal eating of the Passover within households. Low volume and contested; primarily a practical instruction.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 11:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The idea that God's people are tested/disciplined as a father admonishes while the wicked are condemned (vv.31-32) parallels Wisdom's contrast of the Lord chastening Israel in mercy versus judging the ungodly in wrath. Deuterocanonical resonance; low volume, contested.",
+        "contested": true
+      }
+    ]
+  }
+]

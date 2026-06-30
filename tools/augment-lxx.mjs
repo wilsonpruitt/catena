@@ -40,7 +40,7 @@ const cap = (t) => (t.length <= 480 ? t : t.slice(0, 480).replace(/\s+\S*$/, "")
 
 let attached = 0;
 const log = [];
-for (const f of ["hebrews", "revelation", "matthew", "mark", "luke", "john", "romans", "1-peter", "acts"]) {
+for (const f of ["hebrews", "revelation", "matthew", "mark", "luke", "john", "romans", "1-corinthians", "1-peter", "acts"]) {
   const d = JSON.parse(readFileSync(`/Users/wilsonpruitt/catena/data/${f}.json`, "utf8"));
   for (const p of d.pericopes) for (const e of p.echoes) {
     if (e.lxxText) delete e.lxxText; // idempotent

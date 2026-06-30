@@ -1,0 +1,241 @@
+[
+  {
+    "id": "12.1",
+    "ch": 12,
+    "ref": "12:1-3",
+    "echoes": [
+      {
+        "source": "Psalm 115:4-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul recalls the Corinthians being led to 'mute idols' (eidola aphona), echoing the psalm's taunt that the nations' idols are silver and gold, the work of human hands, with mouths that cannot speak. The motif of the idol's speechlessness contrasted with the living God is a fixed OT polemic, and the verbal link (mouths/speech) gives this strong volume.",
+        "contested": false
+      },
+      {
+        "source": "Habakkuk 2:18-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The dumb idol that cannot teach, the woe to one who says to a mute stone 'Awake,' undergirds Paul's phrase 'mute idols.' Habakkuk stresses that there is no breath/spirit in the idol, which sharpens Paul's contrast with the speaking, Spirit-empowered confession 'Jesus is Lord' that follows.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 46:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Isaiah mocks the idol that is carried, set in place, and cannot move or answer when cried to; it does not save. Paul's image of being 'led away to mute idols, however you might be led' coheres with this picture of a powerless, voiceless god, reinforcing the speech/no-speech antithesis.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 135:15-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "A close parallel to Psalm 115, again ridiculing idols with mouths that do not speak and no breath in their mouths. Its recurrence in the same idol-polemic tradition raises the volume of the 'mute idols' echo, though the verbal contact is generic.",
+        "contested": true,
+        "altSource": "Psalm 115:4-7"
+      },
+      {
+        "source": "Joel 2:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's claim that only by the Holy Spirit can one confess 'Jesus is Lord' anticipates the chapter's pneumatology, faintly resting on the promise that God will pour out his Spirit on all flesh so that they prophesy. The connection is thematic (Spirit-enabled speech) rather than verbal here.",
+        "contested": true,
+        "altSource": "Numbers 11:25-29"
+      }
+    ]
+  },
+  {
+    "id": "12.2",
+    "ch": 12,
+    "ref": "12:4-6",
+    "echoes": [
+      {
+        "source": "Joel 2:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'varieties of gifts, but the same Spirit' poured out on the community reflects the eschatological outpouring of one Spirit producing diverse manifestations (sons, daughters, old, young prophesying and dreaming). The one-Spirit/many-recipients structure coheres tightly with Joel's vision, which Paul elsewhere cites for the Spirit's universal distribution.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:25-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God takes of the one Spirit on Moses and distributes it among the seventy elders, who then prophesy; Moses wishes all the Lord's people were prophets. This is the paradigmatic OT scene of one Spirit apportioned to many for varied ministry, mapping onto Paul's 'same Spirit... various kinds of service.'",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Spirit of the Lord resting as a sevenfold endowment (wisdom, understanding, counsel, might, knowledge, fear) on the messianic shoot offers a precedent for one Spirit yielding plural gifts. The catalog form is suggestive, though Paul's list differs in content.",
+        "contested": true,
+        "altSource": "Joel 2:28"
+      }
+    ]
+  },
+  {
+    "id": "12.3",
+    "ch": 12,
+    "ref": "12:7-11",
+    "echoes": [
+      {
+        "source": "Isaiah 11:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's enumeration of Spirit-gifts beginning with 'word of wisdom' and 'word of knowledge' echoes the messianic Spirit of wisdom, understanding, counsel, and knowledge. Both passages catalog distinct charisms flowing from a single divine Spirit, giving coherence to the allusion even where the lists do not match item-for-item.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:25-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Spirit distributed by God among many recipients, each prophesying, anticipates Paul's 'distributing to each one separately as he desires.' The sovereign apportioning of one Spirit to diverse people for prophecy and service is the structural backbone shared with the Mosaic narrative.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Prophecy as the signature gift of the poured-out Spirit ('your sons and daughters shall prophesy') stands behind Paul's list, which prominently includes prophecy. The eschatological democratization of the Spirit coheres with Paul's 'to each one is given the manifestation of the Spirit.'",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:21-23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel praises God who gives wisdom to the wise and knowledge to those who have understanding, and reveals deep and hidden things. The pairing of God-given 'wisdom' and 'knowledge' as revelatory gifts faintly parallels Paul's first two charisms, though no verbal citation is made.",
+        "contested": true,
+        "altSource": "Isaiah 11:2"
+      },
+      {
+        "source": "Exodus 31:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God fills Bezalel with the Spirit of God in wisdom, understanding, knowledge, and all craftsmanship for the tabernacle. This is the OT prototype of the Spirit equipping individuals with specific skill-gifts for the building of God's dwelling, resonating with Paul's Spirit-distributed abilities for the body's upbuilding.",
+        "contested": true,
+        "altSource": "Isaiah 11:2"
+      },
+      {
+        "source": "Wisdom of Solomon 7:22-23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom describes the spirit of wisdom as manifold (poikilos), intelligent, all-powerful, pervading all spirits, distributing benefits. The notion of one Spirit with manifold operations apportioned among many coheres with Paul's 'various kinds of gifts... the one and the same Spirit works all,' making a Second-Temple sapiential backdrop plausible.",
+        "contested": true,
+        "altSource": "Isaiah 11:2"
+      }
+    ]
+  },
+  {
+    "id": "12.4",
+    "ch": 12,
+    "ref": "12:12-13",
+    "echoes": [
+      {
+        "source": "Joel 2:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Being 'all given to drink into one Spirit' and 'baptized in one Spirit' draws on the imagery of the Spirit poured out on all flesh regardless of status (sons, daughters, slaves). Joel's leveling of social distinctions in the Spirit's outpouring coheres with Paul's 'whether Jews or Greeks, whether bond or free.'",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God promises to pour water on the thirsty and his Spirit upon the offspring, joining the images of drinking/water and Spirit-outpouring. Paul's distinctive phrase 'all given to drink into one Spirit' coheres strongly with this water-Spirit fusion in the prophetic promise of renewal.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God puts his one Spirit within the reconstituted people so that a scattered, divided house becomes one living body. The creation of a unified people animated by God's Spirit faintly underlies Paul's 'in one Spirit we were all baptized into one body.'",
+        "contested": true,
+        "altSource": "Isaiah 44:3"
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The one body formed and animated by the breath/Spirit of God offers a creational template for Paul's one Spirit constituting one living body. The link is figural rather than verbal, but Paul's body-and-Spirit pairing resonates with the animating-breath motif.",
+        "contested": true,
+        "altSource": "Ezekiel 37:14"
+      }
+    ]
+  },
+  {
+    "id": "12.5",
+    "ch": 12,
+    "ref": "12:14-20",
+    "echoes": [
+      {
+        "source": "Psalm 139:13-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalmist marvels that God formed and knit together his members in the womb, framing the body as God's deliberate composition. Paul's repeated 'God has set the members, each one of them, in the body, just as he desired' coheres with this picture of divinely intended bodily arrangement, though the genre and vocabulary differ.",
+        "contested": true,
+        "altSource": "Genesis 2:7"
+      },
+      {
+        "source": "Genesis 1:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's purposeful arrangement of each member 'just as he desired,' with each part necessary, faintly echoes the creation account in which God orders distinct parts and pronounces the whole very good. The connection is thematic (divine sovereign design) rather than lexical.",
+        "contested": true,
+        "altSource": "Psalm 139:13-16"
+      }
+    ]
+  },
+  {
+    "id": "12.6",
+    "ch": 12,
+    "ref": "12:21-26",
+    "echoes": [
+      {
+        "source": "Psalm 139:14-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wisdom of how the body's members are formed and held in mutual dependence echoes the psalm's wonder at the body's intricate making. Paul's claim that God 'composed the body together' so members care for one another coheres with the psalm's sense of a divinely integrated body.",
+        "contested": true,
+        "altSource": "Genesis 2:7"
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The command to love one's neighbor as oneself, grounding Israel's mutual solidarity, faintly underlies Paul's vision that members 'have the same care for one another' and suffer and rejoice together. The body imagery dramatizes the covenant ethic of corporate mutual care.",
+        "contested": true,
+        "altSource": "Psalm 139:14-16"
+      }
+    ]
+  },
+  {
+    "id": "12.7",
+    "ch": 12,
+    "ref": "12:27-31",
+    "echoes": [
+      {
+        "source": "Numbers 11:25-29",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "God's appointment of designated, Spirit-endowed offices in the assembly ('first apostles, second prophets, third teachers') recalls Moses' divinely appointed seventy who share the Spirit for leadership. Both depict God ordering a structured ministry among his people through the one Spirit.",
+        "contested": true,
+        "altSource": "Joel 2:28"
+      },
+      {
+        "source": "Joel 2:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Prophets ranked among God's appointed in the assembly continues the chapter's reliance on Joel's outpoured-Spirit prophecy. The placement of prophecy as a settled, God-given office among the people coheres with the eschatological community of prophets Joel envisions.",
+        "contested": true,
+        "altSource": "Numbers 11:25-29"
+      },
+      {
+        "source": "Jeremiah 1:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's sovereign appointing and ordering of those he commissions ('I appointed you a prophet to the nations') faintly resonates with Paul's 'God has set some in the assembly.' The divine setting/appointing of ministers links the two, though no verbal citation is present.",
+        "contested": true,
+        "altSource": "Numbers 11:25-29"
+      }
+    ]
+  }
+]

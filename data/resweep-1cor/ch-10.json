@@ -1,0 +1,388 @@
+[
+  {
+    "id": "10.1",
+    "ch": 10,
+    "ref": "10:1-5",
+    "echoes": [
+      {
+        "source": "Exodus 13:21-22",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The pillar of cloud leading Israel is the referent of 'our fathers were all under the cloud.' High volume and availability; Paul reads the wilderness narrative typologically, making the cloud a figure of the divine covering shared by all. Coherence with the baptismal reading of v.2 confirms the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 14:19-20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The angel-and-cloud standing between Egypt and Israel at the sea supplies the dual cloud/sea imagery Paul fuses in vv.1-2. Recurrence of the cloud motif and its narrative pairing with the sea-crossing make this a strong contributor to 'under the cloud.'",
+        "contested": false
+      },
+      {
+        "source": "Numbers 9:15-23",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The cloud covering the tabernacle and regulating Israel's movements reinforces the 'under the cloud' language as a sustained guiding-presence motif, not a single event. Lower volume than Exodus 13 but adds recurrence to the cloud tradition Paul draws on.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 105:39",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He spread a cloud for a covering' summarizes the Exodus cloud in a single liturgical line that may stand closer to Paul's compressed phrasing than the narrative itself. The psalm's recital of wilderness mercies (cloud, sea, manna, water from the rock) parallels Paul's own catalogue, suggesting a psalmic mediation of the tradition.",
+        "contested": true,
+        "altSource": "Exodus 13:21-22"
+      },
+      {
+        "source": "Exodus 14:21-22",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'All passed through the sea' directly invokes the Red Sea crossing on dry ground between walls of water. High volume and availability; Paul makes the crossing a type of baptism (v.2), the controlling figural reading of the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 16:4-35",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The manna is the 'spiritual food' all ate. The chapter's wilderness frame and Paul's emphasis on 'the same' food for all point to the daily bread from heaven. He reads it figurally as sacramental nourishment prefiguring Christ.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 78:24-25",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He rained down manna... grain of heaven... bread of the mighty' interprets the manna as heavenly bread, close to Paul's 'spiritual food.' The psalm's theological reading of the wilderness gifts coheres with Paul's, making it a plausible mediating source alongside Exodus 16.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 8:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Man does not live by bread alone... but by every word' interprets the manna as more than physical sustenance, supporting Paul's 'spiritual' qualifier. Moderate volume; the Deuteronomic theology of manna as God-given instruction coheres with Paul's sacramental reading.",
+        "contested": true,
+        "altSource": "Exodus 16:4-35"
+      },
+      {
+        "source": "Exodus 17:6",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Water struck from the rock at Horeb is the 'spiritual drink.' High volume; combined with Numbers 20 it grounds 'the Rock was Christ.' Paul's figural identification of the rock with Christ depends on these water-from-rock episodes.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 20:7-11",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The second water-from-rock event at Meribah supplies the geographic span (beginning and end of the wilderness) that fuels the haggadic 'rock that followed them.' Recurrence of two rock-events at opposite ends of the journey underlies the moving-rock tradition Paul presupposes.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 78:15-16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He split rocks... brought streams... waters run down like rivers' poeticizes the water-from-rock miracle and may inform 'drank of a spiritual rock.' The psalm's abundance language coheres with Paul's claim that all drank the same drink.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 105:41",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He opened the rock, and water gushed out; it flowed through the desert like a river' depicts water following Israel through the wilderness, the nearest scriptural seed of the 'rock that followed them.' Strong coherence with the moving-water tradition Paul assumes.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Rock, his work is perfect' establishes the Song of Moses' titular use of 'the Rock' (haTsur) for God, the theological backbone of 'the Rock was Christ.' Paul's identification trades on this divine-Rock title, not merely the water episodes.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Forsook God... scoffed at the Rock of his salvation' continues the Song's Rock-title for God amid the very apostasy Paul is warning against. Recurrence within the Song he draws on elsewhere in the chapter (vv.17,21) strengthens the link.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You forgot the Rock that bore you' adds the begetting-Rock image to the divine-Rock cluster. Low volume on its own, but it belongs to the Song of Moses substratum that pervades 1 Cor 10's rock and demon language.",
+        "contested": true,
+        "altSource": "Deuteronomy 32:4"
+      },
+      {
+        "source": "Deuteronomy 32:30-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Their Rock had sold them... their rock is not as our Rock' juxtaposes Israel's God-Rock against the enemies' rock, sharpening the Rock title. Faint here but coheres with Paul's polemical use of Deut 32 across the chapter.",
+        "contested": true,
+        "altSource": "Deuteronomy 32:4"
+      },
+      {
+        "source": "Numbers 14:29-30",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Your dead bodies shall fall in this wilderness' is the source of 'they were overthrown in the wilderness' (v.5). High volume and verbal coherence with kateströthēsan; the wilderness-generation's exclusion is Paul's typological warning to the Corinthians.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 14:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD was not able to bring this people in... he slaughtered them in the wilderness' supplies the 'God was not well pleased' / 'overthrown' theme. Coherence with v.5's divine displeasure motif.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 78:31",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The anger of God came up against them... and struck down... the young men of Israel' poeticizes the wilderness destruction Paul invokes in v.5. The psalm's wilderness-judgment recital parallels Paul's whole catalogue.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 95:10-11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Forty years... they shall not enter my rest' expresses God's displeasure with the wilderness generation, matching 'God was not well pleased.' A liturgical summary of the very judgment Paul applies typologically.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "10.2",
+    "ch": 10,
+    "ref": "10:6-10",
+    "echoes": [
+      {
+        "source": "Numbers 11:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The rabble had a strong craving... who will give us meat to eat?' grounds 'we should not lust after evil things, as they also lusted' (v.6). The verb epethymēsan echoes the craving narrative; coherence with the wilderness-craving judgment.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:34",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Kibroth-hattaavah, 'the graves of craving,' names the place where the people who lusted were buried, the etiological seed of Paul's 'lust after evil things.' High coherence with v.6's craving-and-death pattern.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 106:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'They lusted exceedingly in the wilderness, and tested God in the desert' compactly pairs lust and testing, both of which Paul enumerates (vv.6,9). The psalm's wilderness-sin catalogue is a likely template for Paul's list.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 32:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The people sat down to eat and drink, and rose up to play' is quoted verbatim (v.7) from the golden-calf episode, marked 'as it is written.' Highest volume; the calf is Paul's paradigm of idolatry feasting, directly relevant to the idol-meat question.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 32:1-6",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The golden-calf narrative as a whole supplies 'neither be idolaters, as some of them were' (v.7). The calf is the controlling type of idolatrous communal feasting that frames Paul's argument about meals offered to idols.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 25:1-9",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The Baal-Peor apostasy, where Israel committed sexual immorality with Moabite women and a plague killed many, is the type behind v.8. High volume and coherence; Paul's 23,000 reworks the Numbers death toll for his warning against porneia.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 25:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Numbers reports 24,000 dead 'in one day'; Paul's 'twenty-three thousand fell in one day' alludes to this figure, the difference being a known harmonization crux. The 'in one day' phrase strengthens the verbal tie even as the number varies.",
+        "contested": true,
+        "altSource": "Exodus 32:28"
+      },
+      {
+        "source": "Numbers 21:5-6",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The fiery serpents sent because the people spoke against God supply 'perished by the serpents' (v.9). High volume; the serpent plague is the type for testing God/Christ, directly named by Paul.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 78:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They tested God in their heart by asking food' offers the 'test' vocabulary Paul uses in v.9. Faint, but coheres with the psalmic wilderness-testing tradition behind his catalogue.",
+        "contested": true,
+        "altSource": "Numbers 21:5-6"
+      },
+      {
+        "source": "Numbers 16:41-49",
+        "type": "figural",
+        "confidence": "high",
+        "note": "After Korah, the congregation grumbled against Moses and Aaron and a plague (stopped by the destroyer/atonement) killed 14,700, the type behind 'neither grumble... perished by the destroyer' (v.10). High coherence between the grumbling-then-plague pattern and Paul's clause.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 14:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'All the people of Israel grumbled against Moses and Aaron' supplies the murmuring motif that ends in wilderness death. Plausible alongside Num 16 as the referent for 'as some of them also grumbled.'",
+        "contested": true,
+        "altSource": "Numbers 16:41-49"
+      },
+      {
+        "source": "Exodus 12:23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD will not allow the destroyer to enter' names ha-mashchit, 'the destroyer,' the agent Paul invokes in v.10. The Passover destroyer is reapplied to the wilderness-grumbling judgment, supplying Paul's exact figure.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "10.3",
+    "ch": 10,
+    "ref": "10:11-13",
+    "echoes": [
+      {
+        "source": "Numbers 14:37",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The death of the faithless spies 'by a plague before the LORD' caps the wilderness judgments Paul says 'happened to them by way of example' (v.11). Faint summary tie reinforcing the typological frame, not a specific verbal echo.",
+        "contested": true,
+        "altSource": "Deuteronomy 28:15"
+      },
+      {
+        "source": "Deuteronomy 8:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Remember the whole way the LORD led you... to test you' frames the wilderness as instructive testing, coherent with 'written for our admonition' and the temptation theme of v.13. Low volume; offered for the didactic-wilderness coherence.",
+        "contested": true,
+        "altSource": "Deuteronomy 8:3"
+      },
+      {
+        "source": "Deuteronomy 7:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Know that the LORD your God is the faithful God' underlies 'God is faithful' (v.13). The covenant-faithfulness predicate is a Deuteronomic commonplace Paul likely draws on for assurance amid testing.",
+        "contested": true,
+        "altSource": "Deuteronomy 32:4"
+      }
+    ]
+  },
+  {
+    "id": "10.4",
+    "ch": 10,
+    "ref": "10:14-22",
+    "echoes": [
+      {
+        "source": "Leviticus 7:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The peace/fellowship offering whose flesh the offerer eats grounds 'those who eat the sacrifices participate in the altar' (v.18). The shared-meal logic of the well-being offering is Paul's analogy for koinonia at the altar.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 7:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Every male among the priests may eat of it... it is most holy' establishes that eating the sacrifice joins one to the altar's holiness, the premise of v.18. Coherence with Paul's participation argument.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 14:23-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Eating the tithe and sacrifices 'before the LORD' as a covenant meal supports Paul's table-of-the-Lord/participation theme (vv.18,21). Faint; offered for the sacrificial-meal coherence rather than verbal contact.",
+        "contested": true,
+        "altSource": "Leviticus 7:15"
+      },
+      {
+        "source": "Deuteronomy 32:17",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'They sacrificed to demons, not God' (Song of Moses) is the source of 'the things which the Gentiles sacrifice, they sacrifice to demons, and not to God' (v.20), near-verbatim. High volume; the Song's demon-sacrifice charge is the scriptural warrant for Paul's whole idol-meat verdict.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 106:37",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'They sacrificed their sons and daughters to demons' parallels Deut 32:17 and reinforces 'sacrifice to demons' (v.20). The psalm's wilderness-and-conquest demon-sacrifice motif coheres with Paul's reading; a likely secondary source.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'They have made me jealous with what is no god' is the direct backdrop to 'do we provoke the Lord to jealousy?' (v.22). Recurrence within the Song of Moses (with v.17) and verbal contact on jealousy/provocation make this a strong, deliberate echo.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The LORD, whose name is Jealous, is a jealous God' grounds the jealousy logic of v.22 and ties the idolatry warning to the covenant's first commandment. Coheres with the jealous-God theology Paul presses against idol feasts.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:39",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'There is no god beside me' / unmatched divine power may color 'Are we stronger than he?' (v.22). Faint, but consistent with Paul's sustained use of the Song of Moses in this section.",
+        "contested": true,
+        "altSource": "Deuteronomy 32:21"
+      },
+      {
+        "source": "Malachi 1:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The table of the LORD' as the altar offers the only OT 'table of the Lord' phrase behind v.21's 'table of the Lord.' Low volume and uncertain, but the unique idiom warrants noting.",
+        "contested": true,
+        "altSource": "Malachi 1:12"
+      }
+    ]
+  },
+  {
+    "id": "10.5",
+    "ch": 10,
+    "ref": "10:23-30",
+    "echoes": [
+      {
+        "source": "Psalm 24:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The earth is the LORD's, and its fullness' is quoted verbatim (v.26) and repeated at v.28 as the warrant that all food is clean for the believer. Highest volume; the creation-belongs-to-God claim is Paul's decisive ground for eating market meat.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 50:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The world is mine, and its fullness' restates the same creation-ownership claim as Ps 24:1 and could stand behind v.26's wording. Lower probability given the near-exact match to Ps 24:1, but noted for the shared 'fullness' idiom.",
+        "contested": true,
+        "altSource": "Psalm 24:1"
+      }
+    ]
+  },
+  {
+    "id": "10.6",
+    "ch": 10,
+    "ref": "10:31-33",
+    "echoes": [
+      {
+        "source": "Isaiah 43:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Everyone... whom I created for my glory' may inform 'do all to the glory of God' (v.31). Faint and thematic; offered for the creation-for-God's-glory coherence behind Paul's doxological maxim.",
+        "contested": true,
+        "altSource": "Psalm 24:1"
+      }
+    ]
+  }
+]

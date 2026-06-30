@@ -1,0 +1,260 @@
+[
+  {
+    "id": "15.1",
+    "ch": 15,
+    "ref": "15:1-11",
+    "echoes": [
+      {
+        "source": "Isaiah 53:5-6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's creedal 'Christ died for our sins according to the Scriptures' (v.3) draws on the Servant who is 'wounded for our transgressions' and on whom the LORD lays 'the iniquity of us all.' Volume is moderate (no verbatim quotation) but coherence is high: the vicarious sin-bearing death is the only OT text supplying the formula, and Isaiah 53 was a primary resurrection-era proof-text. Availability is secure.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:8-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Servant 'cut off out of the land of the living,' 'numbered with the transgressors,' who 'bore the sin of many,' and is afterward vindicated ('he shall see... he shall prolong his days') undergirds the death-burial-vindication shape of the kerygma in vv.3-5. Recurrence: Paul appeals to Isaiah 53 elsewhere (Rom 4:25; 10:16). The 'according to the Scriptures' refrain points here for the death.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'After two days he will revive us; on the third day he will raise us up' is the strongest single OT candidate for 'raised on the third day according to the Scriptures' (v.4), since no other text gives a third-day resurrection. Targumic/rabbinic tradition read Hosea 6:2 of resurrection, supporting availability. Contested because Paul never cites it explicitly and the LXX wording differs.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 16:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You will not abandon my soul to Sheol, nor let your holy one see corruption' was the apostolic resurrection proof-text (Acts 2:27; 13:35) and plausibly stands behind 'raised on the third day according to the Scriptures.' Coherence with the burial-then-raising sequence (vv.4) is good; volume is low here since Paul does not quote it. Marked echo, not quotation.",
+        "contested": true
+      },
+      {
+        "source": "Jonah 1:17",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'Three days and three nights in the belly of the fish' is a possible scriptural warrant for the third-day timing, read figurally of death and deliverance (cf. Matt 12:40). Volume and recurrence in Paul are nil, so this is a faint, contested figural reading offered only because the 'according to the Scriptures' for the third day demands OT grounding.",
+        "contested": true,
+        "altSource": "Hosea 6:2"
+      }
+    ]
+  },
+  {
+    "id": "15.2",
+    "ch": 15,
+    "ref": "15:12-19",
+    "echoes": [
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The argument turns on whether 'the dead are raised'; the language of those 'fallen asleep' (v.18) who would 'perish' if there is no resurrection echoes Daniel's 'many who sleep in the dust of the earth shall awake.' Volume is faint and the verse is more clearly invoked later (v.52), so this is a low echo flagging the second-temple resurrection hope animating the whole section.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "15.3",
+    "ch": 15,
+    "ref": "15:20-28",
+    "echoes": [
+      {
+        "source": "Genesis 2:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Since death came by man... as in Adam all die' (vv.21-22) presupposes the Eden narrative where the LORD warns 'in the day you eat of it you shall surely die,' the origin of death through the first man. Coherence is very high: the Adam-Christ antithesis is the structural spine of the chapter and recurs at Rom 5:12-21.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You are dust, and to dust you shall return' supplies the mortality that 'in Adam all die' (v.22) names and that the resurrection reverses. The dust motif resurfaces explicitly at vv.47-49, giving recurrence within the chapter and securing coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 8:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'He put all things in subjection under his feet' is quoted verbatim in v.27 (LXX Ps 8:7) and expounded as proof that death too must be subjected. Volume is maximal (explicit citation with formula 'for'), and Paul's exegetical attention to 'all things' confirms intentional use. The psalm's 'son of man' enthroned over creation is read christologically.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 110:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He must reign until he has put all his enemies under his feet' (v.25) fuses Ps 8:6 with 'Sit at my right hand until I make your enemies your footstool.' The 'enemies under feet' and 'reign until' wording is distinctively Ps 110, the NT's most-cited verse; coherence and recurrence are strong, making this a deliberate conflated allusion.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 23:10-11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Christ the first fruits' (vv.20,23) draws on the sheaf of firstfruits waved before the LORD as the pledge of the full harvest. The cultic firstfruits image (cf. Exod 23:19; Deut 26:1-11) coheres with Paul's logic that Christ's rising guarantees the believers' harvest; volume is conceptual rather than verbal, hence echo.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "15.4",
+    "ch": 15,
+    "ref": "15:29-34",
+    "echoes": [
+      {
+        "source": "Isaiah 22:13",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Let us eat and drink, for tomorrow we die' is quoted verbatim in v.32 from Isaiah's oracle against Jerusalem's fatalistic revelers. Volume is maximal; Paul deploys it as the logical conclusion of a world without resurrection, matching Isaiah's context of those who ignore the coming judgment. Secure quotation.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 4:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Some have no knowledge of God' (v.34) echoes Hosea's indictment 'there is no... knowledge of God in the land' (cf. Hos 4:6, 'my people are destroyed for lack of knowledge'). The prophetic charge of ignorance of God as moral failure coheres with Paul's shaming rebuke; verbal overlap on 'knowledge of God' supports a medium-confidence allusion.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 6:16-24",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'I fought with beasts at Ephesus' (v.32) may be read figurally against Daniel cast among the lions and delivered, the paradigm of the righteous sufferer rescued from beasts. Volume is low and Paul's phrase is likely metaphorical for human adversaries, so this is a faint figural echo of the deliverance-from-beasts tradition.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 22:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Save me from the mouth of the lion' belongs to the righteous-sufferer's plea to be rescued from beasts, a possible backdrop to 'I fought with beasts at Ephesus' (v.32). The echo is faint and contested, offered alongside Daniel 6 as the Septuagintal language of beastly threat surrounding the persecuted faithful.",
+        "contested": true,
+        "altSource": "Daniel 6:16-24"
+      },
+      {
+        "source": "Proverbs 13:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The maxim 'Evil companionships corrupt good morals' (v.33) is a Greek proverb (Menander, Thais), but its sense mirrors 'the companion of fools will suffer harm.' Availability as Scripture is the issue: the wording is Hellenistic, so this is a low, contested echo of the wisdom theme rather than a citation of Proverbs.",
+        "contested": true,
+        "altSource": "Menander, Thais (non-OT)"
+      }
+    ]
+  },
+  {
+    "id": "15.5",
+    "ch": 15,
+    "ref": "15:35-49",
+    "echoes": [
+      {
+        "source": "Genesis 2:7",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The first man, Adam, became a living soul' (v.45) quotes Gen 2:7 LXX ('the man became a living soul') verbatim, adding 'first' and 'Adam' to set up the antithesis with the 'last Adam' as life-giving spirit. Volume is maximal with citation formula 'it is written'; this is the chapter's anchoring OT text for the two-Adam anthropology.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The first man is of the earth, made of dust' (v.47) re-reads Gen 2:7, where God forms the man 'of the dust of the ground.' The dust/earth motif distinguishes the earthly Adam from 'the Lord from heaven'; recurrence within vv.45-49 confirms deliberate exegetical use beyond the v.45 citation.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Those who are made of dust' bearing 'the image of the man of dust' (vv.48-49) recalls 'dust you are, and to dust you shall return,' the mortality stamped on Adam's line. It reinforces the Gen 2:7 dust language with the death-sentence of Eden, giving the contrast its weight of perishability.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:26-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'As we have borne the image of those made of dust, let us also bear the image of the heavenly' (v.49) invokes the creation of humanity 'in the image of God,' now patterned after the heavenly Man. The image (eikon) language is distinctively Gen 1:26-27 (cf. 5:3); coherence with Paul's Adam Christology supports a medium allusion.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The graded 'glory' of sun, moon, and differing stars applied to the resurrection body (vv.40-42) echoes 'those who are wise shall shine like the brightness of the firmament, and those who turn many to righteousness like the stars.' Daniel's astral imagery of the risen righteous gives the star-glory analogy its resurrection coherence; verbal overlap on stars/glory grounds the allusion.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'To each seed a body of its own' and the distinct kinds of flesh (vv.38-39) faintly echo the creation account where plants bear seed 'each according to its kind' and creatures are made by kinds. The echo is conceptual, supporting Paul's argument that God assigns distinct bodies; volume is low, hence a faint echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "15.6",
+    "ch": 15,
+    "ref": "15:50-58",
+    "echoes": [
+      {
+        "source": "Isaiah 25:8",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Death is swallowed up in victory' (v.54) quotes Isaiah's eschatological banquet oracle, 'he will swallow up death forever.' Paul follows a reading (cf. Theodotion/Aquila) giving 'in victory'; the citation formula 'then shall come to pass the word that is written' marks maximal volume. The text is the OT charter for death's defeat.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 13:14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Death, where is your sting? Hades, where is your victory?' (v.55) quotes Hosea's taunt, 'O Death, where are your plagues? O Sheol, where is your destruction?' (LXX). Volume is high (verbatim apostrophe to Death), and Paul fuses it with Isaiah 25:8 to climax the resurrection argument. Secure quotation.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The dead will be raised incorruptible, and we will be changed' (v.52) draws on 'many who sleep in the dust shall awake, some to everlasting life.' The sleep-then-awake resurrection schema and the transformation of the raised cohere with Daniel's two-outcome resurrection; recurrence of the 'sleep' motif (vv.6,18,51) supports the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 27:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'At the last trumpet... the trumpet will sound' (v.52) echoes the eschatological 'great trumpet' that gathers the scattered to worship. The trumpet as signal of the end-time ingathering of God's people coheres with the resurrection summons; among trumpet texts this is the most eschatologically specific, hence medium.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Blow the trumpet in Zion... for the day of the LORD is coming' is part of the prophetic Day-of-the-LORD trumpet tradition behind 'the last trumpet' (v.52). Volume is low and the motif is diffuse across several prophets, so this is a faint echo alongside Isaiah 27:13 and Zechariah 9:14.",
+        "contested": true,
+        "altSource": "Isaiah 27:13"
+      },
+      {
+        "source": "Zechariah 9:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Lord GOD will sound the trumpet' in the theophanic deliverance oracle contributes to the eschatological-trumpet background of v.52. The echo is faint and one of several trumpet texts; included to map the cluster of OT trumpet imagery Paul compresses into 'the last trumpet.'",
+        "contested": true,
+        "altSource": "Isaiah 27:13"
+      },
+      {
+        "source": "Exodus 19:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Sinai theophany 'trumpet blast' that summons Israel before God may stand at the headwaters of the eschatological trumpet of v.52. Volume is low and the link is typological rather than verbal, so this is a faint echo of the trumpet-of-divine-presence tradition.",
+        "contested": true,
+        "altSource": "Isaiah 27:13"
+      },
+      {
+        "source": "Wisdom of Solomon 3:1-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'This mortal must put on immortality' (vv.53-54) resonates with the deuterocanonical hope that 'the souls of the righteous... their hope is full of immortality.' Availability as second-temple text is secure; the verbal link on immortality (athanasia) is real but the conceptual frame differs (Paul stresses bodily transformation), so a low, contested echo.",
+        "contested": true
+      }
+    ]
+  }
+]

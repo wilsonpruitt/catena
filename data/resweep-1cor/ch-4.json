@@ -1,0 +1,185 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-5",
+    "echoes": [
+      {
+        "source": "Daniel 2:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's claim that the Lord at his coming 'will bring to light the hidden things of darkness' echoes Daniel's praise that God 'reveals the deep and secret things; he knows what is in the darkness, and the light dwells with him.' The pairing of God revealing hidden things and darkness/light is verbally and conceptually close, and Daniel is a primary Second-Temple locus for divine disclosure of mysteries (mystērion), the very term Paul uses in v.1.",
+        "contested": false
+      },
+      {
+        "source": "Job 12:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He uncovers deep things out of darkness, and brings out to light the shadow of death' supplies the same image Paul deploys: God exposing what is concealed in darkness. The verbal coherence (darkness brought to light) supports an echo, though the motif is widespread enough to be one of several converging texts rather than a single quotation.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 12:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Qoheleth's conclusion that 'God will bring every work into judgment, with every secret thing, whether good or evil' parallels Paul's eschatological judgment that discloses the heart's hidden counsels so each receives praise. The shared structure of a final divine assize over hidden things gives this echo coherence with Paul's argument against premature human judgment.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I, Yahweh, search the mind, I try the heart, even to give every man according to his ways' grounds Paul's insistence that the Lord—not the Corinthians—judges, weighing hidden motives and rendering each his due. The heart-searching God who recompenses by inward reality coheres tightly with v.5's revelation of the counsels of the hearts.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 90:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You have set our iniquities before you, our secret sins in the light of your face' offers the secret-sins-exposed-to-divine-light motif underlying v.5. The echo is faint and one of a cluster, but it reinforces the heart-exposure theme; marked low for limited verbal volume.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 139:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalm's God who searches and knows the psalmist, discerning his thoughts from afar, underlies Paul's confidence that the Lord alone reads the hidden counsels of the heart. A diffuse echo in the same heart-searching tradition as Jeremiah 17:10; low for lack of distinctive wording.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:6-7",
+    "echoes": [
+      {
+        "source": "Proverbs 3:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Don't be wise in your own eyes' resonates with Paul's warning against being 'puffed up' beyond 'the things which are written.' The wisdom tradition's caution against self-inflated wisdom coheres with Paul's deflation of Corinthian boasting, though no verbal quotation is present.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's command not to glory in wisdom, might, or riches but only in the Lord stands behind Paul's challenge in v.7: 'What do you have that you didn't receive? Why do you boast?' Paul elsewhere quotes this Jeremiah passage in the same letter (1:31), strengthening recurrence; here the un-derivative boasting Paul attacks is precisely the self-glory Jeremiah forbids.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 8:17-18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses' warning that Israel must not say 'My power and the might of my hand has gotten me this wealth,' but remember it is the Lord who gives the power, matches Paul's logic that everything is received, leaving no ground for boasting. The gift-not-achievement theme coheres closely with v.7.",
+        "contested": false
+      },
+      {
+        "source": "1 Chronicles 29:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "David's prayer, 'all things come from you, and of your own have we given you,' captures the received-gift theology of v.7. A thematic echo of creaturely receipt undercutting self-glory; low because the connection is conceptual rather than verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:8-13",
+    "echoes": [
+      {
+        "source": "Psalm 44:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'For your sake we are killed all day long; we are counted as sheep for the slaughter' underlies Paul's depiction of the apostles displayed 'like men sentenced to death,' a spectacle suffering for the gospel. Paul cites this very psalm in Romans 8:36, evidencing recurrence and a settled reading of the righteous-as-condemned motif.",
+        "contested": false
+      },
+      {
+        "source": "Lamentations 3:45",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You have made us an offscouring and refuse in the middle of the peoples' is verbally the closest OT analogue to Paul's 'we are made as the filth of the world, the dirt wiped off by all' (v.13). The rare offscouring/refuse imagery applied to a suffering people of God gives this high volume and coherence with Paul's catalogue of abasement.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 109:25",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I have become a reproach to them; when they see me, they shake their head' matches the reviling and defaming the apostles endure (vv.12-13) as the righteous-sufferer treated with contempt. Coheres with the lament-psalm pattern of the persecuted righteous that shapes Paul's hardship list.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Servant 'despised and rejected by men,' held of no account, stands behind Paul's portrait of apostolic dishonor, weakness, and being scorned as fools and scum. The figural assimilation of apostles to the Suffering Servant pattern is coherent with Paul's Christ-conformed weakness, though no direct citation occurs.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 50:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant who gives his back to the smiters and does not hide from shame and spitting parallels the beaten, reviled apostles who bless when cursed (vv.11-12). A faint figural echo within the Servant-suffering field; low for absence of distinctive shared wording.",
+        "contested": true
+      },
+      {
+        "source": "Job 12:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Job, 'a laughingstock to his neighbor,' the just man mocked, anticipates the apostles made 'fools for Christ's sake' and a spectacle (vv.9-10). The Joban figure of the righteous turned object of derision coheres with Paul's reversal motif; faint and one of several wisdom echoes.",
+        "contested": true
+      },
+      {
+        "source": "Lamentations 3:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I have become a derision to all my people, their song all day long' reinforces the reviled-and-defamed apostle of vv.12-13 within the same Lamentations matrix that supplies the offscouring image of v.13. Low individually but strengthens the Lamentations recurrence.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's 'we toil, working with our own hands' (v.12) faintly recalls the post-Edenic sentence of labor by the sweat of the brow. A diffuse echo of toil-as-creaturely-lot; low confidence and likely incidental.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:14-21",
+    "echoes": [
+      {
+        "source": "Proverbs 13:24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He who spares the rod hates his son, but he who loves him disciplines him diligently' undergirds Paul's father-to-children stance closing with the choice 'Shall I come to you with a rod, or in love?' (vv.14-21). The paternal-discipline rod is drawn from Proverbs' instruction tradition and coheres with Paul calling them his beloved children.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 22:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The rod of discipline drives' folly far from a child reinforces the rod-of-paternal-correction image of v.21. A secondary wisdom echo alongside Proverbs 13:24; low because the single Proverbs locus already carries the allusion.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The messianic 'rod of iron' with which the king may break the nations could color Paul's threatened apostolic 'rod' (v.21), framing his authority in quasi-royal terms. Contested and faint: the immediate background is paternal/wisdom discipline, not royal judgment, so the Psalm 2 register is a possible overtone at best.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 30:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He who loves his son will cause him to feel the rod often' restates the loving-father-with-rod ethic Paul invokes in v.21, evidencing the motif's currency in Second-Temple wisdom. Low and deuterocanonical, but it corroborates the availability of the disciplining-rod topos to Paul.",
+        "contested": true,
+        "altSource": "Proverbs 13:24"
+      }
+    ]
+  }
+]

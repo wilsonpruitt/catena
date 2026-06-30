@@ -1,0 +1,207 @@
+[
+  {
+    "id": "14.1",
+    "ch": 14,
+    "ref": "14:1-5",
+    "echoes": [
+      {
+        "source": "Numbers 11:29",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's wish that 'you all' would prophesy (14:5) echoes Moses' cry, 'Would that all the LORD's people were prophets, that the LORD would put his Spirit on them!' Both texts democratize prophecy against a restrictive view, and both tie prophecy to the bestowal of the Spirit. The coherence with Joel's poured-out-Spirit hope strengthens the link, though Paul does not cite Moses verbatim.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:28-29",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The whole chapter's premise that ordinary believers prophesy when the Spirit comes draws on Joel's promise that sons, daughters, and servants will prophesy in the last days. Availability is secure (a foundational restoration text) and the theme recurs across Acts 2 and Paul; the echo is thematic rather than verbal here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.2",
+    "ch": 14,
+    "ref": "14:6-12",
+    "echoes": [
+      {
+        "source": "Numbers 10:1-10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The trumpet that gives 'an uncertain sound' so that no one prepares for war (14:8) draws on the silver trumpets of Numbers 10, whose distinct blasts signal assembly, march, and battle. The whole rationale of Paul's analogy—that a sound must be intelligible to function—depends on the OT institution where a clear trumpet-call summons Israel to war and worship. Volume and coherence are strong.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The trumpet 'for war' and alarm imagery (14:8) coheres with Joel's command to 'Blow the trumpet in Zion; sound an alarm,' the paradigmatic intelligible warning-blast. The link reinforces the Numbers trumpet motif but is secondary; Paul's point about distinct sounds matches the prophetic alarm-trumpet's purpose of rousing the people.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 150:3-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The lifeless instruments giving voice—pipe and harp (14:7)—recall the catalog of worship instruments in Psalm 150, where trumpet, harp, and pipe sound praise. The connection is faint and topical (musical instruments) rather than argumentative, and Paul's point is the opposite (sound without distinction is useless), so this is a contested, low-volume echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.3",
+    "ch": 14,
+    "ref": "14:13-19",
+    "echoes": [
+      {
+        "source": "Psalm 47:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's resolve to 'sing with the spirit and sing with the understanding also' (14:15) faintly echoes the Psalmist's 'sing praises with understanding' (maskil), the OT ideal of intelligent, comprehending praise. Volume is low and the verbal overlap rests on the Greek of the LXX, but the coherence with Paul's whole emphasis on the mind in worship makes it plausible.",
+        "contested": true
+      },
+      {
+        "source": "Nehemiah 8:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The congregational 'Amen' at the giving of thanks (14:16) reflects the liturgical practice exemplified when Ezra blessed the LORD and 'all the people answered, Amen, Amen,' lifting their hands. The motif of the assembly's responsive Amen is an OT/Second-Temple liturgical convention Paul assumes; the echo is institutional rather than a citation.",
+        "contested": true
+      },
+      {
+        "source": "1 Chronicles 16:36",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The corporate 'Amen' sealing thanksgiving (14:16) also parallels 'all the people said, Amen, and praised the LORD' at David's psalm of thanks. Together with Nehemiah 8 and the Psalter's doxological Amens this establishes the availability of the responsive-Amen practice; a faint, contested echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.4",
+    "ch": 14,
+    "ref": "14:20-25",
+    "echoes": [
+      {
+        "source": "Isaiah 28:11-12",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Paul formally cites this as 'in the law it is written': 'By men of strange languages and by the lips of strangers I will speak to this people, and even so they will not hear me, says the Lord' (14:21). Isaiah threatens that God will address mocking Judah through the unintelligible speech of Assyrian conquerors—a judgment of incomprehension—which Paul applies to tongues as a sign for unbelievers. The volume is maximal and the citation explicit, though Paul's wording diverges from both MT and LXX.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 33:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The motif of a foreign people 'of an obscure speech that you cannot comprehend, stammering in a tongue you cannot understand' undergirds Paul's theology of unintelligible foreign tongues as a sign of judgment (14:21-22). It coheres with the Isaiah 28 citation as part of the prophet's strange-tongues-as-judgment complex, supplying the conceptual frame even if Paul quotes 28:11-12 directly.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 45:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The outsider's confession that 'God is among you indeed' (14:25) echoes Isaiah's prophecy that the nations will bow down and confess of Israel, 'God is in you only, and there is no other God.' Both involve Gentiles falling down and acknowledging the true God's presence among his people; the eschatological-pilgrimage frame matches Paul's scene of conviction precisely.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 8:23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The unbeliever convicted and declaring God's presence (14:25) draws on Zechariah's vision that ten men from the nations will grasp a Jew's garment, saying, 'We will go with you, for we have heard that God is with you.' The shared element—an outsider's confession 'God is with/among you'—aligns with Paul's portrait of prophecy drawing in the unbeliever to worship.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:47",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Nebuchadnezzar's falling and confession to Daniel—'Truly your God is God of gods and Lord of kings, a revealer of mysteries'—parallels the unbeliever falling on his face when 'the secrets of his heart are revealed' (14:25). Both pair the disclosure of hidden things with a pagan ruler's prostration and confession of the true God; the revelation-of-secrets motif strengthens the coherence.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 16:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "That prophecy lays bare 'the secrets of his heart' (14:25) reflects the conviction that the LORD looks not on outward appearance but 'on the heart.' The OT premise that God alone discerns the hidden heart underwrites Paul's claim that prophetic speech exposes inner secrets; a thematic echo rather than a citation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 44:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'God knows the secrets of the heart' supplies the same conviction behind 14:25—the disclosure of hidden things by divine knowledge. Volume is low and the link general, but it reinforces the OT availability of the searched-heart theme alongside 1 Samuel 16:7 and Psalm 139.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 45:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The unbeliever 'will fall down on his face and worship God' (14:25) coheres with Isaiah's oracle that 'to me every knee shall bow,' the prophetic vision of universal prostration before the LORD. Faint and contested, but part of the same Isaiah 45 confession-of-the-nations complex Paul is drawing on.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.5",
+    "ch": 14,
+    "ref": "14:26-33",
+    "echoes": [
+      {
+        "source": "Genesis 1:1-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "That 'God is not a God of confusion but of peace' (14:33) coheres with the creation account, where God orders the formless and void into structured cosmos. The theology that God's nature opposes chaos draws on the Genesis ordering of creation, though Paul makes no verbal citation; a thematic, contested echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 45:18-19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God 'did not create the earth a chaos (tohu)' but formed it to be inhabited and 'did not speak in secret'—a striking pairing of order against chaos with the call to intelligible divine speech that matches both Paul's anti-confusion principle and his demand for understandable worship (14:33, cf. 14:9). The conjunction of these two motifs in the same Isaiah 45 chapter Paul is already mining strengthens the coherence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.6",
+    "ch": 14,
+    "ref": "14:34-36",
+    "echoes": [
+      {
+        "source": "Genesis 3:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The command that wives 'be in subjection, as the law also says' (14:34) is widely understood to invoke Genesis 3:16, 'your desire shall be for your husband, and he shall rule over you,' the only Torah text grounding wifely subordination. Since Paul cites no chapter, this is the most plausible referent of 'the law,' and it coheres with his appeal to Genesis order elsewhere; volume rests on the allusion to the rule-over-her clause.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:21-24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The law' grounding women's submission (14:34) may alternatively reach back to the creation-order of woman from man, which Paul invokes for headship elsewhere. The echo is faint and the referent disputed, but the Genesis 2 sequence is a candidate for the Torah basis Paul assumes.",
+        "contested": true,
+        "altSource": "Genesis 3:16"
+      },
+      {
+        "source": "Numbers 30:3-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Torah's regulation of a wife's vows under her husband's authority offers a possible legal basis for 'as the law also says' regarding wifely subjection (14:34). It is a faint, contested candidate; most read 'the law' as Genesis 3:16, but the vow-law shows the OT availability of wifely submission to the husband's authority.",
+        "contested": true,
+        "altSource": "Genesis 3:16"
+      }
+    ]
+  },
+  {
+    "id": "14.7",
+    "ch": 14,
+    "ref": "14:37-40",
+    "echoes": [
+      {
+        "source": "Isaiah 2:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's rebuke, 'Was it from you that the word of God went out?' (14:36) faintly plays on the prophetic conviction that 'out of Zion shall go forth the law, and the word of the LORD from Jerusalem'—the word originates from God's chosen center, not from the Corinthians. The link is allusive and contested, but it underlies Paul's claim that the divine word is not theirs to originate.",
+        "contested": true
+      }
+    ]
+  }
+]

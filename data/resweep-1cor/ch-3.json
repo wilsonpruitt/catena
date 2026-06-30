@@ -1,0 +1,233 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-4",
+    "echoes": [
+      {
+        "source": "Isaiah 28:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's contrast of milk for 'babies in Christ' versus solid food evokes Isaiah's taunt about teaching knowledge to those weaned from milk and just drawn from the breasts. Both passages use infancy and weaning as a figure for spiritual immaturity and incapacity to receive deeper instruction. Coherence with Paul's pedagogical-maturity theme is strong, and Isaiah 28 is recurrent in this letter's milieu of prophetic critique, though the verbal link rests on the shared milk/infancy metaphor rather than direct citation.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 32:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Song of Moses likens teaching/doctrine to rain and dew dropping as nourishment, a nutritive metaphor for instruction that may underlie Paul's feeding imagery (milk/meat). The connection is thematic rather than verbal and is faint; Isaiah 28:9 is the stronger weaning parallel. Marked low and contested for the nourishment-as-teaching figure only.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 9:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom's invitation to eat her bread and drink her wine frames spiritual instruction as food and drink, resonating faintly with Paul's milk/solid-food pedagogy. Given chapter 3's larger wisdom-versus-folly argument, the sapiential feeding motif coheres, but the link is diffuse and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:5-9",
+    "echoes": [
+      {
+        "source": "Isaiah 5:1-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul calls the Corinthians 'God's farming/field,' and the Song of the Vineyard is the paradigmatic OT figure of God's people as a cultivated planting that God tends and from which he expects fruit. The agricultural-people metaphor, with God as the one who ultimately gives growth, coheres with Paul's planting/watering argument. Availability and coherence are strong; the allusion is conceptual, since Paul does not cite the vineyard text directly.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 61:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah names the redeemed 'oaks of righteousness, the planting of the LORD, that he may be glorified.' Paul's image of the church as God's planting that God himself grows for his glory closely matches this 'planting of the LORD' motif. The shared theology that God, not the human planter, is the agent of growth strengthens coherence; the link is allusive rather than quoted.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 1:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's commission pairs the verbs to build and to plant (and to pluck up and break down) as the dual metaphor for God's work through the prophet. Paul fuses exactly these two figures in 3:9 ('God's farming, God's building'), suggesting dependence on the prophetic building-and-planting idiom. The recurrence of this paired metaphor in Jeremiah (1:10; 24:6; 31:28) makes the echo coherent.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 24:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God promises to 'build them and not pull down, plant them and not pluck up,' the same build/plant pairing applied to the restored people. It reinforces the Jeremianic source-pool behind Paul's 'building/farming' fusion in 3:9 but is a secondary witness to the idiom rather than a distinct allusion. Marked low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 80:8-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalm depicts Israel as a vine God planted, transplanted, and tends, another instance of the God-as-cultivator/people-as-planting figure standing behind Paul's 'God's farming.' It is a faint, recurrent background witness rather than a specific source, so it is marked low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:10-15",
+    "echoes": [
+      {
+        "source": "Isaiah 28:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul as 'wise master builder' lays a foundation that no one can replace, echoing Isaiah's word that God lays in Zion a tested, precious cornerstone as foundation. The foundation-laying imagery and the singular God-given foundation cohere strongly; Isaiah 28:16 is a stock messianic foundation text in early Christian usage. The allusion is conceptual here, more explicitly cited elsewhere in the NT.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Day's fire that 'tests what sort of work each man's work is' draws on Malachi's refiner's fire that purifies and assays metal, separating the genuine from the dross. Paul's gold/silver tested by fire on the Day matches the refiner-and-assayer imagery and the eschatological day of judgment. Coherence with the testing/refining motif is strong.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Malachi's coming Day burns like an oven and consumes the wicked as stubble, leaving neither root nor branch. Paul's contrast of fire-resistant materials versus 'wood, hay, stubble' burned up on the Day strongly evokes this stubble-consuming day of fire. The shared 'stubble burned on the Day' image makes this a coherent allusion.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 13:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God brings a third through the fire, refining them as silver and testing them as gold is tested. Paul's 'tested by fire,' with the survivor saved 'but as through fire' (3:15), coheres with Zechariah's image of passing through refining fire and being purified rather than destroyed. The refine-as-silver/test-as-gold language reinforces the metallurgical testing motif.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 17:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The crucible for silver and furnace for gold, with the LORD testing hearts, supplies the proverb that God assays human worth by fire. Paul's 'fire itself will test what sort of work each man's work is' applies this assaying principle to deeds at the Day. The shared furnace/testing logic gives medium coherence.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's vision of the Ancient of Days with a stream of fire issuing before the throne at judgment may color Paul's 'the Day... revealed in fire.' The link is to the eschatological fire-of-judgment topos rather than a specific verbal borrowing, so it is faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "1 Chronicles 29:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "David's gathering of gold, silver, and precious/costly stones for the temple supplies the very building-materials triad Paul ranks as fire-resistant (gold, silver, costly stones). If Paul's 'building' is the temple (3:16-17), the materials catalogue echoes temple-construction lists. Faint and contested, since such triads are commonplace.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:16-17",
+    "echoes": [
+      {
+        "source": "Exodus 25:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God commands a sanctuary 'that I may dwell among them,' the foundational text for the divine indwelling presence. Paul transfers this dwelling to the community: 'you are a temple of God, and God's Spirit lives in you.' The figural relocation of God's tabernacling presence into the church coheres strongly with the dwelling-among-them promise.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 8:10-13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "At Solomon's dedication the glory-cloud fills the house so the LORD dwells in it; Solomon builds a house for God to inhabit forever. Paul's claim that God's Spirit dwells in the temple-community figurally re-applies the indwelling glory of the Jerusalem temple. The temple-as-dwelling-of-God theology supplies coherent background.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel's restoration promise, 'My dwelling place shall be with them... I will be their God and they shall be my people,' projects God's sanctuary into the eschatological community. Paul's church-as-temple indwelt by the Spirit realizes this promised dwelling-with-the-people, making the allusion coherent with Second-Temple temple-eschatology.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's warrant 'for God's temple is holy' draws on the Levitical holiness principle ('You shall be holy, for I the LORD am holy') as applied to sanctuary space. The holiness predicate grounding the warning against defilement coheres with the temple's sanctity, though the link is conceptual and faint.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 8:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel's vision of abominations defiling the sanctuary, provoking God to depart and judge, parallels Paul's warning that whoever destroys/defiles God's temple, God will destroy. The threat that desecrating the holy place brings divine destruction supplies a thematic echo, marked low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.5",
+    "ch": 3,
+    "ref": "3:18-20",
+    "echoes": [
+      {
+        "source": "Job 5:13",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Paul cites 'it is written, He has taken the wise in their craftiness,' a near-verbatim quotation of Eliphaz's words in Job 5:13 (the only OT occurrence of this saying). The formula 'for it is written' marks it as explicit Scripture citation. Volume, distinctiveness, and the introductory formula make this a high-confidence quotation; notably Paul follows the Hebrew sense rather than the LXX rendering.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 94:11",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Paul's 'And again, The Lord knows the reasoning of the wise, that it is worthless' quotes Psalm 94:11 (LXX 93:11), with 'the wise' substituted for the psalm's 'man' to fit the wisdom argument. The chained 'and again' citation formula and close verbal correspondence make this a high-confidence quotation. The deliberate adaptation ('the wise' for 'man') is a known Pauline tailoring of the source.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Isaiah declares that the wisdom of the wise shall perish and the discernment of the discerning be hidden, the prophetic plank already cited at 1 Cor 1:19 and standing behind 'the wisdom of this world is foolishness with God.' Its recurrence in the letter's wisdom polemic gives this echo coherence within 3:18-20, reinforcing the divine overturning of human wisdom.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 8:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah taunts that the wise are put to shame, having rejected the LORD's word, so 'what wisdom is in them?' This coheres with Paul's call to become a fool to be wise and the futility of the wise, but the link is thematic and faint relative to the explicit Job and Psalm citations. Marked low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.6",
+    "ch": 3,
+    "ref": "3:21-23",
+    "echoes": [
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jeremiah forbids the wise, mighty, and rich to boast, allowing boasting only in knowing the LORD; Paul's 'let no one boast in men' applies this anti-boasting principle (already quoted at 1 Cor 1:31). Its recurrence in the letter and coherence with the wisdom-and-boasting theme support a medium echo, redirecting boasting from human teachers to God.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's catalogue 'all things are yours... the world... things present, things to come' may evoke the creation mandate of dominion over all things now restored to those who belong to Christ. The link is to the figural inheritance/dominion theme rather than a verbal citation, so it is faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 8:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalm's 'you have put all things under his feet' undergirds the early Christian conviction that all things belong to those in Christ. Paul's 'all things are yours' may draw on this dominion-over-all-things theology, but the connection is diffuse and contested here, lacking verbal markers in this pericope.",
+        "contested": true
+      }
+    ]
+  }
+]

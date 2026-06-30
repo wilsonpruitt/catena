@@ -1,0 +1,151 @@
+[
+  {
+    "id": "16.1",
+    "ch": 16,
+    "ref": "16:1-4",
+    "echoes": [
+      {
+        "source": "Deuteronomy 16:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul directs each one to save 'as he may prosper'—an almost verbatim conceptual match to Deuteronomy's pilgrim-feast rule that each give 'as he is able, according to the blessing of the LORD your God which he has given you.' The volume is high at the level of the proportional-giving principle, and the festal-collection setting (cf. Pentecost in v.8) increases coherence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 23:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The weekly setting-aside of gifts on the first day evokes the agricultural firstfruits/ingathering offerings of the festal calendar. The link is thematic (sanctified periodic giving) rather than verbal, so volume is low and it is partly carried by Paul's later 'firstfruits' language in v.15.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 3:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Honor the LORD with your substance and with the firstfruits of all your produce' undergirds Paul's appeal to set aside wealth for sacred use. Verbal contact is faint and the proverb is one of several wisdom sources for proportional generosity, so confidence stays low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.2",
+    "ch": 16,
+    "ref": "16:5-9",
+    "echoes": [
+      {
+        "source": "Hosea 2:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's 'a great and effective door has opened to me' may draw on the prophetic 'door of hope' that the LORD opens for renewed mission. The metaphor of a divinely-opened door for fruitful action has OT antecedents, but the contact is conceptual not verbal and the open-door image is broadly diffuse, so it is contested.",
+        "contested": true,
+        "altSource": "Psalm 78:23"
+      }
+    ]
+  },
+  {
+    "id": "16.3",
+    "ch": 16,
+    "ref": "16:10-12",
+    "echoes": []
+  },
+  {
+    "id": "16.4",
+    "ch": 16,
+    "ref": "16:13-14",
+    "echoes": [
+      {
+        "source": "Psalm 31:24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Be strong, and let your heart take courage, all you who wait for the LORD' is the closest verbal and structural parallel to Paul's paired imperatives 'be courageous, be strong.' Volume is high (LXX andrizesthe/krataiousthe vocabulary matches), and the exhortation-to-the-faithful setting gives strong coherence.",
+        "contested": false
+      },
+      {
+        "source": "Joshua 1:6-9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The repeated divine charge 'be strong and courageous' to Joshua is the canonical fountainhead of the formula Paul echoes. The LXX renders it with the same andrizou/ischye verbs Paul uses, giving high volume and strong recurrence across the courage-tradition.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 31:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses' twofold 'be strong and courageous' to Israel and to Joshua belongs to the same exhortation cluster, sharing LXX vocabulary with Paul's imperatives. It is one of several courage-formula texts, so it ranks just below the Joshua/Psalm 31 parallels in distinctiveness.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 10:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Joab's battle exhortation 'Be strong, and let us be courageous for our people' supplies the martial coloring of 'act like men' (andrizesthe). The military-valor sense reinforces coherence with Paul's call to firm faith, though it is one node in a recurring formula.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 27:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Wait for the LORD; be strong, and let your heart take courage' is a near-twin of Psalm 31:24 and feeds the same exhortation tradition Paul reuses. High recurrence within the Psalter strengthens the case, though it overlaps heavily with the Psalm 31 parallel.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "16.5",
+    "ch": 16,
+    "ref": "16:15-18",
+    "echoes": [
+      {
+        "source": "Deuteronomy 26:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Calling the household of Stephanas 'the firstfruits of Achaia' applies the Deuteronomic firstfruits rite—the first of the produce consecrated to God—figurally to the first converts of a region. Volume rests on the loaded term 'firstfruits' (aparche), and the consecration-of-the-first logic gives genuine coherence.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 3:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The firstfruits-to-God motif of Proverbs reinforces Paul's honorific use of 'firstfruits' for the Stephanas household and their dedicated service. The link is thematic and secondary to the Deuteronomic rite, so confidence is low.",
+        "contested": true,
+        "altSource": "Exodus 23:19"
+      }
+    ]
+  },
+  {
+    "id": "16.6",
+    "ch": 16,
+    "ref": "16:19-21",
+    "echoes": []
+  },
+  {
+    "id": "16.7",
+    "ch": 16,
+    "ref": "16:22-24",
+    "echoes": [
+      {
+        "source": "Deuteronomy 27:15-26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's 'let him be accursed' (anathema) on whoever does not love the Lord reflects the Deuteronomic covenant-curse liturgy, where the assembly pronounces 'cursed' on covenant-breakers. The setting—a closing covenantal sanction against the disloyal—gives coherence, though the conceptual rather than verbal contact keeps it medium.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Maranatha / Come, Lord!' invokes the eschatological coming of the Lord, of which Malachi's 'the Lord whom you seek will suddenly come to his temple' is a prime OT expectation. The contact is thematic (the awaited advent that judges the disloyal), pairing naturally with the preceding curse, so it is offered low and contested.",
+        "contested": true,
+        "altSource": "Psalm 96:13"
+      },
+      {
+        "source": "Psalm 96:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He comes to judge the earth' frames the Lord's advent that Paul's Maranatha petitions, joining curse and coming in a judgment horizon. Diffuse OT advent-language and absence of verbal markers keep this faint and contested.",
+        "contested": true,
+        "altSource": "Malachi 3:1"
+      }
+    ]
+  }
+]

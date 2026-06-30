@@ -1,0 +1,285 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-3",
+    "echoes": [
+      {
+        "source": "Exodus 19:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The address to those 'sanctified... called to be saints' transfers Israel's vocation as a 'holy nation' set apart for God to the Corinthian assembly. The lexical pairing of calling and holiness coheres thematically with the Sinai constitution of a consecrated people; the volume is modest because Paul cites no formula, but the figural availability of Exodus 19 to a Jewish reader is high.",
+        "contested": true,
+        "altSource": "Leviticus 11:44-45"
+      },
+      {
+        "source": "Leviticus 11:44-45",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Sanctified in Christ Jesus, called to be saints' echoes the Holiness Code refrain 'be holy, for I am holy,' in which Israel's status as God's set-apart people is grounded in God's own holiness. Recurrence is strong across Leviticus 19-20, and the thematic coherence of consecration as gift-and-summons fits Paul's idiom of being made holy in Christ.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 4:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The phrase 'called holy' (kalein hagion) for the eschatological remnant in Zion resonates with 'called to be saints.' The verbal link is suggestive in the LXX, but the volume is faint and the motif is widely diffused, so it is offered only as a contested resonance.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:32",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'All who call on the name of our Lord Jesus Christ in every place' reworks Joel's 'everyone who calls on the name of the LORD shall be saved,' transferring the divine Name to Jesus. Volume is high (distinctive idiom 'call on the name'), recurrence strong in Paul (Rom 10:13), and the eschatological-salvation theme coheres tightly with the surrounding 'day of the Lord' language.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 4:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The idiom 'call on the name of the LORD' first appears at the dawn of worship in Genesis 4:26 and runs through the patriarchal narratives (Gen 12:8; 13:4). It supplies the deep semantic background for Paul's phrase, though Joel is the proximate and more specific source.",
+        "contested": true,
+        "altSource": "Genesis 12:8"
+      },
+      {
+        "source": "Psalm 116:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The cultic act of 'calling on the name of the LORD' in the thanksgiving psalter underlies the worship-language of 'all who call on the name.' Recurrence within the Psalms is notable, but the volume here is faint relative to the Joel allusion that controls the phrase.",
+        "contested": true
+      },
+      {
+        "source": "Zephaniah 3:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zephaniah's promise that the nations will 'call on the name of the LORD' with one accord matches Paul's universalizing 'in every place, both theirs and ours.' The thematic coherence of an ingathered people invoking the Name is good, but the verbal contact is light and the motif overlaps with Joel.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:4-9",
+    "echoes": [
+      {
+        "source": "Amos 5:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The repeated 'day of our Lord Jesus Christ' (v.8) draws on the prophetic 'day of the LORD' tradition, of which Amos is the classic warning text. Thematic coherence is strong: Paul reframes the eschatological day as the point of vindication 'blameless,' and the recurrence of yom YHWH across the prophets gives the motif high availability.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:31",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The day of our Lord' as the eschatological revelation aligns with Joel's 'great and terrible day of the LORD,' the same chapter Paul has just drawn on in v.2. The internal recurrence (Joel within the immediate context) strengthens the case for a Joel-shaped horizon, though the phrase is generic enough to be merely traditional.",
+        "contested": true
+      },
+      {
+        "source": "Zephaniah 1:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zephaniah's 'great day of the LORD is near' is among the most concentrated 'day of the LORD' oracles and feeds the same prophetic reservoir behind v.8. The volume is low because Paul names no specific feature of Zephaniah's day, but the motif's availability is high.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Who can stand when he appears?'—the day that tests and refines—coheres with Paul's hope that the Corinthians be 'confirmed... blameless in the day.' The forensic-purgative coloring of being found unblamable resonates, but the connection is thematic rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 7:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'God is faithful, through whom you were called' (v.9) echoes the covenant formula that 'the LORD your God is the faithful God who keeps covenant.' Volume is good on the distinctive predicate 'faithful' applied to God as the guarantor of a calling, and the covenant-keeping theme coheres with Paul's assurance of preservation to the end.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Song of Moses names God 'faithful (pistos) and without iniquity,' a likely LXX source for Paul's 'God is faithful.' Recurrence of the divine epithet pistos in Deuteronomy supports availability, though the phrase had become a settled liturgical commonplace.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:10-17",
+    "echoes": [
+      {
+        "source": "Deuteronomy 1:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's plea that they be 'perfected together in the same mind and the same judgment,' against 'contentions,' faintly recalls Moses' appointment of wise leaders to adjudicate strife among a quarreling people. The thematic coherence (concord versus faction) is reasonable, but verbal contact is slight and the appeal to unity is a general topos.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 133:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'How good and pleasant it is when brothers dwell in unity' supplies a scriptural ideal of fraternal concord behind Paul's exhortation that 'brothers' avoid divisions. The resonance is thematic and the term 'brothers' is shared, but the volume is faint and the motif diffuse.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:18-25",
+    "echoes": [
+      {
+        "source": "Isaiah 29:14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verse 19 quotes with formula ('it is written') Isaiah 29:14 LXX: 'I will destroy the wisdom of the wise, and the discernment of the discerning I will thwart/bring to nothing.' Volume is maximal (verbatim citation), and the thematic coherence is exact: God's overturning of human sagacity is the engine of Paul's whole cross-versus-wisdom argument.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 19:11-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Where is the wise?' (v.20) recalls the taunt against Egypt's counselors: 'Where then are your wise men?... let them tell.' The interrogative form mocking discredited sages is distinctive, and recurrence within Isaiah's wisdom-polemic strengthens coherence with Paul's rhetorical questions about the wise of this age.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 33:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Where is the scribe? Where is the one who weighed?' supplies the closest LXX template for Paul's triad 'Where is the wise? Where is the scribe? Where is the debater?' The naming of the 'scribe (grammateus)' is the load-bearing verbal link, and the context of a vanished officialdom after divine deliverance coheres with Paul's point.",
+        "contested": false
+      },
+      {
+        "source": "Job 12:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Job's hymn declares that God 'leads counselors away stripped and makes fools of judges,' overturning the wisdom of the prudent (cf. Job 12:20, 'he takes away the discernment of the elders'). The thematic coherence with God 'making foolish the wisdom of this world' is strong, and the recurrence of the divine reversal-of-sages motif supports a real echo.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:25",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Frustrating the signs of liars and making fools of diviners, turning wise men back and making their knowledge foolish'—this Deutero-Isaiah oracle nearly paraphrases v.20's 'Hasn't God made foolish the wisdom of this world?' The verbal cluster (wise/foolish/knowledge) is dense and the polemic against pretended wisdom coheres tightly.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 8:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The wise men shall be put to shame... they have rejected the word of the LORD, and what wisdom is in them?' parallels Paul's claim that the world's wisdom failed to know God. The shaming of the wise and the linkage of wisdom to receiving God's word cohere, though the verbal contact is moderate.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 8:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A stumbling block to Jews' (v.23) draws on Isaiah's image of the LORD as 'a stone of stumbling and a rock of offense' to the houses of Israel. Volume is good on the distinctive 'stumbling/offense' lexeme, recurrence is strong in Paul (Rom 9:33), and the irony of God's saving act becoming an obstacle to Israel coheres precisely.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 28:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'tested stone' laid in Zion, paired in Pauline usage with Isaiah 8:14, underlies the 'stumbling block' of v.23 and the foundation-stone motif of the proclaimed Christ. The connection is figural and mediated through Paul's wider stone testimonia rather than directly verbal here.",
+        "contested": true,
+        "altSource": "Psalm 118:22"
+      },
+      {
+        "source": "Habakkuk 1:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I am doing a work in your days that you would not believe if told' offers a scriptural template for God accomplishing salvation through means the wise reject as incredible. The thematic coherence with the cross as God's unbelievable 'good pleasure' is suggestive, but the verbal link is faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:26-31",
+    "echoes": [
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verse 31 quotes with formula ('as it is written') Jeremiah 9:24 LXX: 'Let the one who boasts boast in the Lord.' Volume is maximal, and the surrounding verses (Jer 9:23, 'let not the wise boast in his wisdom, nor the mighty in his might') govern Paul's entire argument that the wise, mighty, and noble have no ground for boasting before God.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 9:23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The triad of v.26—'not many wise, not many mighty, not many noble'—directly mirrors Jeremiah 9:23's catalogue 'let not the wise boast in his wisdom, the mighty in his might, the rich in his riches.' The recurrence is structural: Paul builds the catalogue (vv.26-29) precisely to set up the Jeremiah citation in v.31, so the allusion and quotation are a single sustained engagement.",
+        "contested": false
+      },
+      {
+        "source": "Judges 7:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God reduces Gideon's army 'lest Israel boast... saying, My own hand has saved me'—the paradigm of God choosing weakness so that 'no flesh should boast' (v.29). The thematic coherence is precise (election of the weak to negate human self-glory), and the Gideon narrative supplies a recurrent OT pattern of God shaming the strong through the few.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 3:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God's promise to leave 'a people humble and lowly' who take refuge in the LORD's name coheres with God choosing 'the lowly things of the world and the things that are despised.' The remnant of the low and despised as the locus of salvation matches Paul's reversal, and 'name of the LORD' links back to the chapter's calling-language.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 2:7-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Hannah's song—'the LORD makes poor and rich, brings low and exalts; he raises the poor from the dust... to make them sit with princes'—is the canonical hymn of divine status-reversal underlying vv.27-28. Thematic coherence is high and the motif recurs (cf. Ps 113:7), giving strong availability for Paul's exaltation of the low and lowering of the high.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Having quoted Isaiah 29:14 at v.19, Paul continues its logic here: God destroys the wisdom of the wise by choosing the foolish 'to shame the wise.' The recurrence of the same Isaianic oracle across the unit (criterion of recurrence) confirms that the wisdom-reversal of vv.27-28 is still being read through Isaiah 29.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 23:5-6",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Christ 'made to us... righteousness' (v.30) figurally realizes Jeremiah's messianic Branch named 'The LORD is our righteousness.' The distinctive predication of righteousness to the Davidic deliverer coheres with Paul's compressed christological list, and the title's availability in messianic exegesis supports a deliberate figural reading.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 8:22-31",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Christ 'made to us wisdom from God' (v.30) draws on the personified Wisdom present with God at creation. The wisdom-Christology of vv.24, 30 coheres with the Wisdom tradition, and recurrence in Second-Temple Wisdom literature (Sir 24; Wis 7) makes the identification of Christ with God's Wisdom a well-attested move.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 7:25-26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Wisdom as 'a breath of the power of God... a pure emanation of his glory' offers the nearest Second-Temple background for Christ as 'the power of God and the wisdom of God' (v.24) 'made to us wisdom from God.' Availability is strong (deuterocanonical Wisdom was current), and the fusion of power and wisdom in a single divine agency coheres precisely.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 24:1-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Sirach's hymn of Wisdom seeking a dwelling among God's people supports the wisdom-Christology of vv.24, 30, where Christ becomes the locus of God's wisdom for believers. The thematic link to personified Wisdom is real, but the verbal volume is faint relative to Proverbs 8 and Wisdom 7.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 45:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In the LORD all the offspring of Israel shall be justified and shall glory'—pairing justification with glorying/boasting in the LORD—anticipates the v.30-31 link between Christ as righteousness and boasting 'in the Lord.' The conjunction of being made righteous and boasting only in God coheres, though Jeremiah 9 remains the explicit source.",
+        "contested": true
+      }
+    ]
+  }
+]

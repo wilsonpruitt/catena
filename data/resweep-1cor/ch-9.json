@@ -1,0 +1,251 @@
+[
+  {
+    "id": "9.1",
+    "ch": 9,
+    "ref": "9:1-2",
+    "echoes": [
+      {
+        "source": "Isaiah 8:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul calls the Corinthians 'the seal (sphragis) of my apostleship' (v.2), the validating proof of his commission. Isaiah's 'bind up the testimony, seal the teaching among my disciples' supplies a faint scriptural backdrop for a sealed witness that authenticates a prophetic commission. Volume is low and verbal contact slight; offered as a coherent echo within the prophetic-validation stream.",
+        "contested": true,
+        "altSource": "Song of Solomon 8:6"
+      }
+    ]
+  },
+  {
+    "id": "9.2",
+    "ch": 9,
+    "ref": "9:3-7",
+    "echoes": [
+      {
+        "source": "Deuteronomy 20:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Who plants a vineyard and does not eat of its fruit?' (v.7) draws on the Deuteronomic exemption, 'who has planted a vineyard and not enjoyed its fruit? Let him go home,' the principle that the laborer is entitled to the produce of his own work. Coherence is strong: Paul argues the worker rightly partakes of his labor's yield, and the vineyard image is the same. Medium volume by motif rather than wording.",
+        "contested": true,
+        "altSource": "Deuteronomy 28:30"
+      },
+      {
+        "source": "Proverbs 27:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Whoever tends a fig tree will eat its fruit, and he who guards his master will be honored' coheres tightly with Paul's paired questions about the vinedresser eating the fruit and the shepherd drinking the milk (v.7): the one who works enjoys the produce. The proverb's join of tending-and-eating to honoring-a-master maps onto Paul's case for apostolic support. Medium volume by theme.",
+        "contested": true,
+        "altSource": "Deuteronomy 20:6"
+      },
+      {
+        "source": "Proverbs 27:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'There will be enough goats' milk for your food, for the food of your household' supplies a wisdom backdrop to 'who feeds a flock and does not drink of the flock's milk?' (v.7). The flock-yields-milk-as-the-keeper's-food motif coheres with Paul's point, though verbal contact is faint; a low-volume echo within the same proverbial cluster as 27:18.",
+        "contested": true,
+        "altSource": "Proverbs 27:18"
+      },
+      {
+        "source": "Deuteronomy 28:30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall plant a vineyard but not enjoy its fruit' (a covenant curse) supplies the inverse of the natural expectation Paul invokes: that the planter ordinarily eats the fruit. A faint recurrence within the Deuteronomic vineyard-fruit stream, contested against the closer exemption of Deut 20:6.",
+        "contested": true,
+        "altSource": "Deuteronomy 20:6"
+      },
+      {
+        "source": "Numbers 18:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The principle that the Levite is given the tithe 'in return for the service that they do' anticipates Paul's argument that the apostolic soldier/vinedresser/shepherd is entitled to support for his labor (vv.4-7). Faint at this point and developed more fully at vv.13-14; cited here for the laborer-deserves-his-keep coherence.",
+        "contested": true,
+        "altSource": "Deuteronomy 25:4"
+      }
+    ]
+  },
+  {
+    "id": "9.3",
+    "ch": 9,
+    "ref": "9:8-10",
+    "echoes": [
+      {
+        "source": "Deuteronomy 25:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Paul cites the law of Moses verbatim with a citation formula, 'You shall not muzzle an ox while it treads out the grain' (v.9, LXX ou phimoseis boun aloonta), as scriptural warrant for the worker's right to support. An unambiguous, high-volume quotation, then daringly reapplied ('Is it for the oxen that God cares, or for our sake?') to apostolic maintenance.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 6:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Come to her as one who plows and sows, and wait for her good fruits' supplies a Second-Temple parallel to Paul's 'the plowman ought to plow in hope, and the thresher to thresh in hope of partaking' (v.10). The plow-sow-in-expectation-of-fruit topos and the very pairing of plowing with hopeful harvest cohere closely; medium volume, strengthening availability of the agricultural-hope figure.",
+        "contested": true,
+        "altSource": "Deuteronomy 25:4"
+      },
+      {
+        "source": "Proverbs 22:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wisdom theme that the diligent worker rightly looks for his portion offers a faint backdrop to 'the thresher threshes in hope of partaking of the crop' (v.10). Low volume and no verbal contact; included as a coherent wisdom echo of the laborer's just expectation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.4",
+    "ch": 9,
+    "ref": "9:11-12",
+    "echoes": [
+      {
+        "source": "Sirach 7:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Honor the priest... give him his portion as you are commanded' parallels Paul's claim that those who sow spiritual things may reap material support (v.11) and have 'a right over you' (v.12). The reciprocity of material provision for sacred ministry coheres, though Paul develops the temple analogy explicitly only at v.13. Low volume, anticipatory echo.",
+        "contested": true,
+        "altSource": "Numbers 18:8"
+      }
+    ]
+  },
+  {
+    "id": "9.5",
+    "ch": 9,
+    "ref": "9:13-14",
+    "echoes": [
+      {
+        "source": "Numbers 18:8-20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Those who serve around sacred things eat from the things of the temple' (v.13) directly invokes the priestly-portion legislation of Num 18, where the LORD gives Aaron and his sons the offerings 'as a portion' to eat. High volume and strong coherence: Paul reasons from the temple economy to the gospel-worker's right to a living. The most secure source for the temple-eats-of-the-temple principle.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:1-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The Levitical priests... shall eat the LORD's food offerings as their inheritance' supplies the parallel statute that the ministers of the altar live from the altar, exactly Paul's second clause, 'those who wait on the altar have their portion with the altar' (v.13). Recurrence of the priests-live-from-the-sanctuary rule across Numbers and Deuteronomy strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 6:16-18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Levitical rules assigning the priests their share of the grain, sin, and guilt offerings ('Aaron and his sons shall eat it... it is most holy') furnish the cultic detail behind 'eat from the things of the temple' and 'have their portion with the altar' (v.13). Medium volume; supplements the headline Num 18 / Deut 18 statutes with the offering-portion mechanics.",
+        "contested": true,
+        "altSource": "Numbers 18:8-20"
+      },
+      {
+        "source": "Leviticus 7:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Every male among the priests may eat of it... it is most holy' (the guilt offering) reinforces the altar-servants-share-the-altar logic of v.13b. A faint recurrence within the Levitical priestly-portion stream, contested against the fuller Num 18 / Deut 18 basis.",
+        "contested": true,
+        "altSource": "Deuteronomy 18:1-3"
+      },
+      {
+        "source": "Numbers 18:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You may eat it in any place... it is your reward for your service' tightly matches Paul's reasoning that ministerial service earns a livelihood (vv.13-14). A low-volume echo gathered with the broader Num 18 portion legislation.",
+        "contested": true,
+        "altSource": "Numbers 18:8-20"
+      }
+    ]
+  },
+  {
+    "id": "9.6",
+    "ch": 9,
+    "ref": "9:15-18",
+    "echoes": [
+      {
+        "source": "Jeremiah 20:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Necessity is laid on me; woe to me if I do not preach the gospel!' (v.16) closely echoes Jeremiah's compulsion: 'If I say I will not mention him... there is in my heart as it were a burning fire... and I cannot.' Both depict an inescapable divine constraint to proclaim despite the cost. Strong coherence with Paul's stewardship-not-of-his-own-will (v.17); high volume by the prophet-compelled-to-speak motif.",
+        "contested": true,
+        "altSource": "Amos 3:8"
+      },
+      {
+        "source": "Amos 3:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The lion has roared; who will not fear? The Lord GOD has spoken; who can but prophesy?' supplies the prophetic axiom of irresistible commission underlying Paul's 'necessity is laid on me' (v.16). Recurrence of the compelled-to-prophesy theme across Amos and Jeremiah strengthens availability; medium volume, contested against the closer inner-compulsion of Jer 20:9.",
+        "contested": true,
+        "altSource": "Jeremiah 20:9"
+      },
+      {
+        "source": "Jeremiah 1:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prophet sent under orders ('to all to whom I send you, you shall go, and whatever I command you, you shall speak') offers a faint backdrop to Paul's 'stewardship entrusted to me... not of my own will' (v.17). Low volume; a coherent echo of the commissioned-and-bound prophet.",
+        "contested": true,
+        "altSource": "Jeremiah 20:9"
+      },
+      {
+        "source": "Isaiah 55:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Come, buy and eat... without money and without price' faintly resonates with Paul's resolve to 'present the gospel free of charge' (v.18). The free-offer-of-divine-bounty motif coheres, but verbal contact is slight; offered as a low-volume figural echo of grace given without cost.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.7",
+    "ch": 9,
+    "ref": "9:19-23",
+    "echoes": [
+      {
+        "source": "Isaiah 52:13-53:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's voluntary self-enslavement, 'though free from all, I made myself a servant to all, that I might win the more' (v.19), and his becoming weak with the weak to save some (v.22) faintly echo the Servant who makes himself nothing to bring many to righteousness ('by his knowledge shall the righteous one make many to be accounted righteous'). Low volume and no verbal citation; a coherent figural echo of the self-giving servant who saves the many.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.8",
+    "ch": 9,
+    "ref": "9:24-27",
+    "echoes": [
+      {
+        "source": "Wisdom 4:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'It wears a crown and celebrates triumph, having won the contest for prizes that are undefiled' supplies the nearest Jewish parallel to Paul's athletic imagery of the race, the prize, and the 'imperishable crown' (vv.24-25). The contest-for-an-undefiled-crown topos coheres directly with Paul's incorruptible wreath versus the corruptible; medium volume, securing availability of the figure within Second-Temple thought.",
+        "contested": true,
+        "altSource": "Wisdom 5:16"
+      },
+      {
+        "source": "Wisdom 5:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The righteous... will receive a glorious crown and a beautiful diadem from the hand of the Lord' parallels Paul's imperishable victor's crown awarded to the disciplined runner (v.25). A coherent recurrence of the eschatological-crown-for-the-righteous motif, contested against the closer athletic-contest language of Wisdom 4:2.",
+        "contested": true,
+        "altSource": "Wisdom 4:2"
+      },
+      {
+        "source": "Ecclesiastes 9:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The race is not to the swift, nor the battle to the strong' forms a wisdom counterpoint to Paul's exhortation that 'all run, but one receives the prize; so run that you may obtain' (v.24). Paul invokes the same race-and-prize frame Qoheleth relativizes; a faint, possibly deliberate echo with reversed force. Low volume.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 4:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom 'will place on your head a graceful garland; she will bestow on you a beautiful crown' offers a faint sapiential backdrop to the victor's crown of vv.25-26 and to the self-discipline ('I discipline my body') that wins it. Low volume; included as a coherent wisdom echo of the crown-as-reward-for-self-mastery.",
+        "contested": true,
+        "altSource": "Wisdom 4:2"
+      },
+      {
+        "source": "4 Maccabees 17:11-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The martyr-contest imagery ('truly divine was the contest... virtue was the umpire, the prize was incorruptibility in long-lasting life... the world and humanity were the spectators') is a striking Second-Temple parallel to Paul's stadium, self-control, prize, and incorruptible crown (vv.24-27). Cited as availability evidence for the athletic-contest-for-incorruption topos; low volume, contested as a possibly later or independent development.",
+        "contested": true,
+        "altSource": "Wisdom 4:2"
+      }
+    ]
+  }
+]
