@@ -3,8 +3,12 @@ import type { CSSProperties } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allDossierSlugs, getDossier, type DossOcc } from "@/lib/sources";
+import { allChapterSlugs } from "@/lib/trajectory";
+import { sourceSlug } from "@/lib/slug";
 import { TYPE_META, CONFIDENCE_INK, CONFIDENCE_LABEL, ORDER, ACCENT } from "@/lib/echoes";
 import type { EchoType, Confidence } from "@/lib/types";
+
+const READER_SLUGS = new Set(allChapterSlugs());
 
 const FONT_URL =
   "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;0,500&display=swap";
@@ -44,6 +48,9 @@ export default async function SourcePage({
     occ: d.occ.filter((o) => o.type === t),
   })).filter((g) => g.occ.length > 0);
 
+  const chapterSlug = d.chapter ? sourceSlug(`${d.book} ${d.chapter}`) : "";
+  const readHref = chapterSlug && READER_SLUGS.has(chapterSlug) ? `/fontium/read/${chapterSlug}` : null;
+
   return (
     <div style={S.root}>
       <link rel="stylesheet" href={FONT_URL} />
@@ -70,6 +77,11 @@ export default async function SourcePage({
               <div style={S.lxxLabel}>The Greek the author follows</div>
               <p style={S.lxxText}>{d.lxxText}</p>
             </div>
+          )}
+          {readHref && (
+            <Link href={readHref} style={S.readLink}>
+              ⛓ Read {d.book} {d.chapter} forward — the whole chapter and its afterlife →
+            </Link>
           )}
         </section>
 
@@ -156,6 +168,7 @@ const S: Record<string, CSSProperties> = {
   lxxBlock: { marginTop: 14, paddingTop: 12, borderTop: "1px dashed #c9b99a" },
   lxxLabel: { fontFamily: "'Cormorant Garamond', serif", fontSize: 11.5, fontWeight: 600, letterSpacing: 1, textTransform: "uppercase", color: "#a8675c", marginBottom: 6 },
   lxxText: { fontSize: 16, lineHeight: 1.65, color: "#4a3d30", margin: 0, fontStyle: "italic" },
+  readLink: { display: "inline-block", marginTop: 14, color: ACCENT, textDecoration: "none", fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: 14.5, fontWeight: 600, letterSpacing: 0.5, borderBottom: `1px dotted ${ACCENT}`, paddingBottom: 1 },
   lede: { fontSize: 15.5, lineHeight: 1.7, color: "#4a3d30", marginBottom: 30 },
   group: { marginBottom: 30 },
   groupHead: { fontFamily: "'Cormorant Garamond', serif", fontSize: 23, fontWeight: 600, color: "#2c2418", letterSpacing: 1, margin: "0 0 4px", display: "flex", alignItems: "baseline", gap: 10 },
