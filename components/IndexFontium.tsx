@@ -106,6 +106,9 @@ export default function IndexFontium({ data }: { data: Fontium }) {
           <Link href="/fontium/map" className="fontium-home" style={S.spineLink}>
             ⛓ View the spine →
           </Link>
+          <Link href="/fontium/threads" className="fontium-home" style={S.spineLink}>
+            Woven together →
+          </Link>
           <Link href="/fontium/data" className="fontium-home" style={S.spineLink}>
             Open data →
           </Link>
