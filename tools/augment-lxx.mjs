@@ -30,6 +30,7 @@ const CURATED = [
   "Amos 5:25",         // Acts 7:42-43 — LXX "Moloch… the star Rephan… beyond Babylon" vs Hebrew "Sikkuth… Kaiwan… beyond Damascus"
   "Isaiah 40:3-5",     // Luke 3:4-6 — LXX "all flesh shall see the salvation of God" vs Hebrew "the glory… shall see it together"
   "Isaiah 61:1",       // Luke 4:18 — LXX "recovery of sight to the blind" (ἀνάβλεψιν τυφλοῖς) vs Hebrew "opening of the prison to the bound"
+  "Proverbs 22:8",     // 2 Cor 9:7 — LXX adds "God loves a cheerful and liberal man" (absent from the Hebrew); Paul's "God loves a cheerful giver"
 ];
 const stripParen = (s) => s.replace(/\s*\(.*?\)\s*/g, " ").replace(/\s+/g, " ").trim();
 // Prefix match, but the prefix must end on a verse boundary — not in the middle
@@ -40,7 +41,7 @@ const cap = (t) => (t.length <= 480 ? t : t.slice(0, 480).replace(/\s+\S*$/, "")
 
 let attached = 0;
 const log = [];
-for (const f of ["hebrews", "revelation", "matthew", "mark", "luke", "john", "romans", "1-corinthians", "1-peter", "acts"]) {
+for (const f of ["hebrews", "revelation", "matthew", "mark", "luke", "john", "romans", "1-corinthians", "2-corinthians", "1-peter", "acts"]) {
   const d = JSON.parse(readFileSync(`/Users/wilsonpruitt/catena/data/${f}.json`, "utf8"));
   for (const p of d.pericopes) for (const e of p.echoes) {
     if (e.lxxText) delete e.lxxText; // idempotent

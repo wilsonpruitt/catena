@@ -1,0 +1,198 @@
+[
+  {
+    "id": "9.1",
+    "ch": 9,
+    "ref": "9:1-5",
+    "echoes": [
+      {
+        "source": "Genesis 33:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul calls the collection a 'generous gift' using eulogia (blessing/bounty), the same Septuagintal idiom by which Jacob presses his 'blessing' (gift) on Esau. The lexical overlap is suggestive rather than demonstrable, since eulogia-as-present is a stock LXX usage available to Paul. Coherence is moderate: Paul frames almsgiving as a transferable blessing, exactly the Genesis nuance.",
+        "contested": true,
+        "altSource": "1 Samuel 25:27; 2 Kings 5:15"
+      },
+      {
+        "source": "Proverbs 11:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's contrast between a gift given 'as a matter of generosity, and not of greediness (pleonexia)' anticipates the wisdom antithesis between the open hand that grows richer and the withholding that brings want. Volume is faint here because the proverbial sowing language proper surfaces in 9:6, but the generosity/covetousness polarity is already in view. Marked contested as a generic sapiential register.",
+        "contested": true,
+        "altSource": "Proverbs 21:26"
+      }
+    ]
+  },
+  {
+    "id": "9.2",
+    "ch": 9,
+    "ref": "9:6-7",
+    "echoes": [
+      {
+        "source": "Proverbs 11:24-26",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's maxim that sparing sowing yields sparing reaping while bountiful sowing yields bountiful reaping closely tracks the wisdom paradox 'one gives freely, yet grows all the richer; another withholds what he should give, and only suffers want.' Coherence is strong since both texts treat almsgiving under an agricultural-recompense logic, and the bountiful-eye blessing of 22:9 reinforces availability. Volume is high at the conceptual level even though Paul does not quote verbatim.",
+        "contested": false,
+        "altSource": "Proverbs 19:17"
+      },
+      {
+        "source": "Proverbs 22:8-9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The sowing-and-reaping figure plus the 'bountiful eye' that is blessed for giving bread to the poor (22:8-9) supplies both halves of Paul's argument here and into v.7. The LXX expansion of 22:8 ('God blesses a cheerful man and a giver') is the most probable direct source of 'God loves a cheerful giver,' giving high recurrence and coherence across vv.6-7. Availability is secure since Paul cites Proverbs elsewhere.",
+        "contested": false,
+        "altSource": "Proverbs 22:8"
+      },
+      {
+        "source": "Proverbs 22:8",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The clause 'God loves a cheerful giver' has no Hebrew counterpart but matches the Septuagintal plus to Proverbs 22:8b, 'God blesses a cheerful man and a giver,' nearly word for word in vocabulary (hilaron, didonta/doten). The verbal volume is high enough that most commentators treat this as Paul's source rather than free composition. The shift from 'blesses' to 'loves' is the only material variation.",
+        "contested": false,
+        "altSource": "Deuteronomy 15:10 LXX"
+      },
+      {
+        "source": "Deuteronomy 15:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's prohibition of giving 'grudgingly or under compulsion' echoes the Deuteronomic command to give to the poor 'and your heart shall not be grudging when you give,' with the promise that the LORD will bless you for it. Coherence is strong because both texts attach divine favor to ungrudging almsgiving. Volume is moderate; the shared idea of the un-grudging heart is distinctive enough to exceed a commonplace.",
+        "contested": false,
+        "altSource": "Deuteronomy 15:7-11"
+      },
+      {
+        "source": "Sirach 35:8-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ben Sira's instruction to glorify the Lord with a generous gift, give 'with a cheerful eye/face,' and not to be sparing because the Lord repays is a strikingly close Second-Temple parallel to Paul's cheerful, ungrudging giver. Availability and coherence are high; recurrence is supported by Sirach's wider almsgiving theology. Marked medium since Paul's nearer verbal source remains Proverbs 22:8 LXX.",
+        "contested": true,
+        "altSource": "Sirach 35:9-11 (LXX 32)"
+      },
+      {
+        "source": "Hosea 10:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The prophetic summons to 'sow for yourselves righteousness, reap steadfast love' supplies the moralized sowing/reaping pattern Paul deploys, where the harvest is a moral-spiritual yield, not mere produce. Coherence is strong with v.10's 'fruits of your righteousness,' and recurrence within the chapter strengthens the case. Volume is moderate because Hosea's specific righteousness/mercy pairing surfaces more explicitly at v.10.",
+        "contested": false,
+        "altSource": "Hosea 8:7"
+      },
+      {
+        "source": "Job 4:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Eliphaz's observation that 'those who plow iniquity and sow trouble reap the same' is the negative form of Paul's reciprocity principle. The connection is thematic rather than verbal, and the moral valence is inverted (Job warns of bad harvests), so volume and coherence are limited. Included as a maximal flag for the broader OT sowing-reaping topos.",
+        "contested": true,
+        "altSource": "Proverbs 22:8a"
+      },
+      {
+        "source": "Sirach 7:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's 'do not sow in the furrows of injustice, lest you reap them sevenfold' offers a Second-Temple instance of the sowing-reaping recompense Paul assumes. Availability is good but the volume is faint and the link conceptual, since Sirach frames the negative (injustice) while Paul frames generosity positively. Marked contested as background topos rather than source.",
+        "contested": true,
+        "altSource": "Hosea 8:7"
+      }
+    ]
+  },
+  {
+    "id": "9.3",
+    "ch": 9,
+    "ref": "9:8-11",
+    "echoes": [
+      {
+        "source": "Psalm 112:9",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Paul introduces with the formula 'as it is written' and cites Psalm 112:9 (LXX 111:9) verbatim: 'He has scattered abroad, he has given to the poor; his righteousness endures forever.' The verbal volume is maximal and the citation explicit, the clearest OT quotation in the chapter. Coherence is strong: the psalm's generous, God-fearing man models the Corinthians' almsgiving, and 'his righteousness' bridges to v.10's harvest of righteousness.",
+        "contested": false,
+        "altSource": "Psalm 112:9 LXX (111:9)"
+      },
+      {
+        "source": "Isaiah 55:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's description of God as the one 'who supplies seed to the sower and bread for food' draws directly on Isaiah's image of rain that gives 'seed to the sower and bread to the eater,' the only OT verse pairing both phrases. Volume is high through the doubled, distinctive word-pair, and coherence is strong since Isaiah's seed/word fruitfulness underlies Paul's promise that God will multiply the seed. Availability is secure given Paul's heavy use of Isaiah 40-66.",
+        "contested": false,
+        "altSource": "Isaiah 55:10-11"
+      },
+      {
+        "source": "Hosea 10:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The promise to 'increase the fruits of your righteousness' reprises Hosea's 'sow righteousness, reap steadfast love,' where righteousness is precisely the crop. Coherence is strong because Paul fuses the agricultural supply of v.10 with a moral harvest, exactly Hosea's move. Volume is moderate; the phrase 'fruit/harvest of righteousness' is a shared idiom rather than a quotation.",
+        "contested": false,
+        "altSource": "Proverbs 11:30"
+      },
+      {
+        "source": "Proverbs 11:30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's 'fruits of your righteousness' resonates with the wisdom maxim 'the fruit of the righteous is a tree of life,' part of the same sapiential harvest imagery. The link is idiomatic and faint relative to Hosea 10:12, so volume is low and the source contested. Flagged for completeness within the righteousness-as-fruit cluster.",
+        "contested": true,
+        "altSource": "Amos 6:12"
+      },
+      {
+        "source": "Psalm 104:14-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's supplying 'bread for food' (v.10) coheres with the creation psalm's praise of the LORD who brings forth 'food from the earth' and 'bread to strengthen the heart of man.' The thematic overlap of divine provision of bread is real but generic, so volume is faint and the connection contested. Isaiah 55:10 remains the stronger candidate.",
+        "contested": true,
+        "altSource": "Genesis 1:29"
+      },
+      {
+        "source": "Deuteronomy 15:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's assurance that the cheerful giver is 'enriched in everything to all liberality' echoes the Deuteronomic promise that the LORD 'will bless you in all your work' because you give to the poor. Coherence with the chapter's almsgiving theology is good, but the verbal contact is slight, so volume is low. Marked contested as a continuation of the v.7 Deuteronomy stratum.",
+        "contested": true,
+        "altSource": "Proverbs 11:25"
+      },
+      {
+        "source": "Proverbs 11:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The sapiential principle that 'the liberal soul shall be made fat, and he who waters will himself be watered' parallels Paul's promise that giving leads to being 'enriched in everything.' The reciprocal-blessing logic matches, but the link is conceptual and contested rather than verbal. Included as a maximal flag in the generosity-enrichment cluster.",
+        "contested": true,
+        "altSource": "Proverbs 22:9"
+      }
+    ]
+  },
+  {
+    "id": "9.4",
+    "ch": 9,
+    "ref": "9:12-15",
+    "echoes": [
+      {
+        "source": "Isaiah 61:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's repeated 'thanksgivings to God' and the people's glorifying God for the gift resonate with Isaiah's vision of the redeemed bringing praise and being called 'oaks of righteousness... that he may be glorified.' The link is thematic (almsgiving issuing in doxology) rather than verbal, so volume is faint. Flagged because Isaiah supplies the broader glory-and-righteousness horizon of the chapter.",
+        "contested": true,
+        "altSource": "Isaiah 60:21"
+      },
+      {
+        "source": "Sirach 35:10-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's counsel that giving to the Lord is repaid sevenfold and met with a glad face stands behind Paul's claim that the saints' service overflows in 'many givings of thanks to God.' The almsgiving-thanksgiving circuit is a shared Second-Temple pattern, but the contact is conceptual, hence low volume and contested. Reinforces the Sirach stratum already noted at v.7.",
+        "contested": true,
+        "altSource": "Tobit 4:7-11"
+      },
+      {
+        "source": "Tobit 4:7-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Tobit's almsgiving instruction, that giving lays up a good treasure and delivers, supplies a Second-Temple almsgiving theology congruent with Paul's account of the collection as a God-glorifying ministry. The connection is to the wider piety rather than any phrase, so volume is faint and the source contested. Included to map the deuterocanonical background of the collection ethic.",
+        "contested": true,
+        "altSource": "Sirach 29:11-13"
+      },
+      {
+        "source": "Genesis 33:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's climactic 'thanks be to God for his indescribable gift' may extend the eulogia/gift register of the chapter, but no specific OT text underlies the doxology; the divine gift transcends OT precedent by design. The link to Genesis 33:11 is offered only as the chapter-spanning gift idiom. Very low volume; clearly contested.",
+        "contested": true,
+        "altSource": "Psalm 116:12"
+      }
+    ]
+  }
+]

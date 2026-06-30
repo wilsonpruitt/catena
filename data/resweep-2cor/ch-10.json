@@ -1,0 +1,171 @@
+[
+  {
+    "id": "10.1",
+    "ch": 10,
+    "ref": "10:1-6",
+    "echoes": [
+      {
+        "source": "Zechariah 9:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul appeals 'by the humility and gentleness of Christ.' Zechariah's messianic king comes 'humble (meek) and riding on a donkey,' the OT locus most read by early Christians as Christ's defining meekness. The conceptual match (the gentle, lowly Messiah whose authority is non-coercive) gives coherence, but Paul cites no words, so the echo is faint.",
+        "contested": true,
+        "altSource": "Numbers 12:3 (Moses 'very meek'); Isaiah 42:2-3 (servant who will not break a bruised reed)"
+      },
+      {
+        "source": "Isaiah 42:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant 'will not cry out or lift up his voice... a bruised reed he will not break' models the gentleness Paul invokes for Christ. Coherence with Pauline servant-Christology is high, but volume is low and the language is not reproduced, so this is a faint figural backdrop to Christ's 'gentleness.'",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 21:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'A wise man scales the city of the mighty and brings down the stronghold in which they trust' supplies the precise military metaphor Paul redeploys: weapons 'mighty before God to the throwing down of strongholds.' The shared verb-idea (a wise/divine power demolishing the fortress of the proud) gives strong volume and coherence with Paul's contrast of fleshly vs. God-empowered warfare.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 2:11-17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah's oracle that 'the haughty looks of man shall be brought low, and the LORD alone exalted,' targeting 'every one that is proud and lofty' and 'every high tower,' directly underwrites Paul's 'every high thing that is exalted against the knowledge of God.' The shared lexicon of loftiness/exaltation humbled before God gives high volume and thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 25:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The high fortress of your walls he will bring down, lay low, and cast to the ground' couples the very images Paul fuses: high things and strongholds thrown down by God. Recurrence within Isaiah's strongholds-of-pride theme strengthens the case, though Paul names no source.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He has brought down those who dwell on high, the lofty city he lays low, even to the ground' restates the casting-down-the-proud motif undergirding 10:5. The recurrence of Isaiah's lofty-city/stronghold language alongside Isaiah 2 and 25 raises the cumulative likelihood that Paul draws on this prophetic stock imagery.",
+        "contested": true,
+        "altSource": "Isaiah 25:12"
+      },
+      {
+        "source": "Jeremiah 1:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's commission 'to pluck up and to break down, to destroy and to overthrow, to build and to plant' frames prophetic authority as power to demolish and to build — the same dual structure Paul invokes (here the destroying side; the building side surfaces in 10:8). Coherence with Paul's apostolic self-understanding is strong, though the destroying half is generic.",
+        "contested": false
+      },
+      {
+        "source": "Job 40:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's challenge to 'look on everyone who is proud and abase him... tread down the wicked where they stand' matches Paul's casting down of 'every high thing.' The motif of proud heights leveled is shared, but the link is thematic rather than verbal, so the echo is faint.",
+        "contested": true,
+        "altSource": "Psalm 18:27"
+      },
+      {
+        "source": "Psalm 18:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You save a humble people, but haughty eyes you bring down' encapsulates the same reversal — God humbling the lofty — that Paul applies to thoughts 'exalted against the knowledge of God.' Coherence is good but volume low; one of several proud-brought-low texts in the OT stock Paul echoes.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 5:17-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God 'will take his zeal as a panoply' and arm creation as weapons against his foes; this Second-Temple militarization of divine 'weapons' parallels Paul's 'weapons of our warfare... mighty before God.' Availability and coherence support an echo of the divine-armor topos, though Paul's vocabulary differs.",
+        "contested": true,
+        "altSource": "Isaiah 59:17 (the LORD puts on righteousness as a breastplate)"
+      },
+      {
+        "source": "Hosea 4:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's phrase 'the knowledge of God' as the contested prize echoes the prophetic idiom where Israel is destroyed 'for lack of knowledge' of God (cf. Hosea 6:6). The theme coheres with Paul's polemic, but the genitive phrase is common biblical idiom, so the echo is faint and contested.",
+        "contested": true,
+        "altSource": "Isaiah 11:9"
+      }
+    ]
+  },
+  {
+    "id": "10.2",
+    "ch": 10,
+    "ref": "10:7-11",
+    "echoes": [
+      {
+        "source": "1 Samuel 16:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Do you look at things only as they appear in front of your face?' rebukes judgment by outward appearance, the exact contrast of 1 Samuel 16:7: 'man looks on the outward appearance, but the LORD looks on the heart.' The shared appearance/heart antithesis, applied to who truly belongs to Christ, gives strong coherence and volume.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 1:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul defines his Lord-given authority as 'for building you up, and not for casting you down,' directly drawing on Jeremiah's commission 'to build and to plant' over against 'to break down... and to overthrow.' The build-up/tear-down polarity is distinctively Jeremianic and recurs across Jeremiah, giving high volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 24:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will build them up and not tear them down; I will plant them and not pluck them up' is the positive restoration form of Jeremiah's formula that Paul echoes in 'building up, and not casting down.' Recurrence of this exact build/not-tear-down pairing (also 31:28; 42:10) strengthens the allusion's likelihood.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As I watched over them to pluck up and break down... so I will watch over them to build and to plant' is a further occurrence of the Jeremianic build/destroy idiom behind 10:8. Listed for recurrence; lower confidence since 1:10 and 24:6 already carry the allusion.",
+        "contested": true,
+        "altSource": "Jeremiah 1:10"
+      }
+    ]
+  },
+  {
+    "id": "10.3",
+    "ch": 10,
+    "ref": "10:12-18",
+    "echoes": [
+      {
+        "source": "Proverbs 27:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Let another praise you, and not your own mouth; a stranger, and not your own lips' is the proverbial backbone of Paul's argument that self-commendation is worthless and only the one 'whom the Lord commends' is approved (10:18; cf. 10:12). The shared self-praise/another-praises antithesis gives strong volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "10:17 'He who boasts, let him boast in the Lord' is a direct quotation of Jeremiah 9:24 (LXX 9:23), abbreviating the prophet's contrast: not the wise, mighty, or rich, but the one who understands and knows the LORD. The verbatim agreement and Paul's repeated use (also 1 Cor 1:31) make this a secure citation.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 16:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'It isn't he who commends himself who is approved, but whom the Lord commends' rests on the principle that the Lord, not human self-assessment, is the true evaluator — the same divine-versus-human judgment of 1 Samuel 16:7. Coherence with the appearance/heart contrast already invoked in 10:7 reinforces the allusion across the chapter.",
+        "contested": true,
+        "altSource": "Proverbs 27:2"
+      },
+      {
+        "source": "Psalm 16:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's boasting only 'within the boundaries (the measuring-line/sphere) which God appointed to us' echoes the lot/portion language of 'the boundary lines have fallen for me in pleasant places.' The shared notion of a divinely allotted measure or sphere supports a faint echo, though the metaphor is common.",
+        "contested": true,
+        "altSource": "Deuteronomy 32:8 (God fixed the boundaries of the peoples)"
+      },
+      {
+        "source": "Proverbs 25:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Like clouds and wind without rain is a man who boasts of a gift he does not give' parallels Paul's refusal to 'boast in other men's labors' or in work not his own (10:15-16). The shared censure of empty boasting in what one has not done gives thematic coherence, but the link is faint.",
+        "contested": true
+      }
+    ]
+  }
+]

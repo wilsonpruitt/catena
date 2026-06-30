@@ -1,0 +1,411 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-2",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The epistolary salutation 'Grace to you and peace' conjoins gift and shalom in a way that echoes the Aaronic blessing, where YHWH's gracious face and the gift of peace are invoked over Israel. The pairing of favor and peace as a divine bestowal is the priestly benediction's structure, and Paul speaks as one mediating God's blessing to the assembly. Volume is low and the wording is Paul's own formula, so this is a faint liturgical echo rather than a citation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 29:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's wish of 'peace from God' to the gathered saints resonates with the psalm's close, where YHWH gives strength and blesses his people with peace. The thematic coherence is the divine grant of peace to the covenant assembly. The echo is faint and competes with the broader Greco-Roman/Jewish letter convention, hence contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:3-7",
+    "echoes": [
+      {
+        "source": "Isaiah 40:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The titulature 'God of all comfort' who 'comforts us in all our affliction' draws directly on the programmatic 'Comfort, comfort my people' that opens Second Isaiah. The verbal density of comfort-language (parakaleo/paraklēsis) matches Isaiah's nacham/LXX parakaleite, and the consolation of an afflicted people awaiting redemption is the precise thematic field Paul occupies. High volume and recurrence across Isaiah make this the controlling text.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah declares that YHWH 'has comforted his people and will have compassion on his afflicted,' coupling consolation with mercy toward the afflicted exactly as Paul's 'Father of mercies and God of all comfort who comforts us in all our affliction.' The mercy/comfort/affliction triad is distinctive of the Servant-era consolation oracles, satisfying volume and thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah promises that YHWH 'will comfort Zion, will comfort all her waste places,' a refrain of repeated comfort that Paul's piled-up paraklēsis vocabulary mirrors. The pattern of God comforting the desolate so they overflow with gladness coheres with Paul's logic that comfort received is comfort passed on. Recurrence of the comfort motif across Isaiah 51 strengthens availability.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I, even I, am he who comforts you' identifies God himself as the comforter of the afflicted and fearful, which is exactly Paul's confession that we 'are comforted by God.' The emphatic self-identification of God as comforter undergirds the title 'God of all comfort.' Strong thematic coherence and verbal overlap.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 66:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'As one whom his mother comforts, so I will comfort you; you shall be comforted in Jerusalem' supplies the maternal-divine consolation image that Paul universalizes as the 'God of all comfort.' The promise that the comforted will themselves be settled and consoled coheres with Paul's chain of comfort flowing through sufferers to others. High volume of the comfort motif.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Break forth into joy... for YHWH has comforted his people, he has redeemed Jerusalem' ties comfort to redemption and corporate joy, paralleling Paul's link between shared suffering and shared comfort/salvation. The recurrence of the comfort-redemption pairing in Second Isaiah supports availability, though the verbal contact is lighter than 49:13 or 51:12.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The shepherd-God who gathers and gently carries the flock extends the consolation oracle's pastoral tenderness that 'Father of mercies' evokes. The echo is thematic rather than verbal and is subsidiary to the louder 40:1 contact.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 94:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'When the cares of my heart are many, your consolations cheer my soul' offers the closest psalmic parallel to comfort multiplying amid affliction, matching Paul's claim that as sufferings abound so comfort abounds. The psalm's vocabulary of divine consolation (LXX paraklēseis) gives verbal as well as thematic contact.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 34:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'YHWH is near to the brokenhearted and saves the crushed in spirit' coheres with Paul's God who draws near to comfort the afflicted. The psalm belongs to the deliverance-of-the-righteous-sufferer tradition Paul inhabits across the pericope, satisfying thematic coherence though the wording is comfort-adjacent rather than identical.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 119:50",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'This is my comfort in my affliction, that your promise gives me life' fuses comfort, affliction, and life-giving promise in one verse, the same cluster Paul develops here and into 1:9-10. The shared comfort-in-affliction formula gives reasonable volume; the psalm's consolation idiom was readily available in Greek.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 23:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your rod and your staff, they comfort me' provides the archetypal image of divine comfort in the midst of mortal danger, resonating with Paul's comfort amid sufferings. Volume is low and the contact is conceptual, so it is a faint supporting echo.",
+        "contested": true
+      },
+      {
+        "source": "Lamentations 1:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zion's lament 'there is none to comfort her' frames the absence Paul's 'God of all comfort' answers; the consolation oracles of Isaiah respond to exactly this Lamentations cry. The echo works intertextually with Isaiah rather than directly, hence low confidence and contested.",
+        "contested": true,
+        "altSource": "Lamentations 1:16-17"
+      },
+      {
+        "source": "Sirach 2:1-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's counsel that the one who would serve God should prepare for testing and endure affliction, trusting that God will help, parallels Paul's pairing of sufferings with steadfast hope and patient endurance. As a Second-Temple wisdom text it meets availability and offers thematic coherence on suffering-then-comfort, though no verbal quotation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:8-11",
+    "echoes": [
+      {
+        "source": "Isaiah 26:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's confession of trust in 'God who raises the dead' draws on the canonical resurrection hope, of which Isaiah 26:19 ('your dead shall live, the dwellers in the dust shall awake') is a foundational text. Having received 'the sentence of death,' Paul grounds rescue in the God whose signature act is raising the dead, a distinctively Jewish-apocalyptic confession. Strong thematic coherence with the resurrection tradition.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The hope in the God 'who raises the dead' rests on the explicit resurrection promise that 'many who sleep in the dust shall awake.' Daniel is the clearest OT articulation of bodily resurrection and was central to Second-Temple resurrection faith, making it readily available as the conceptual source for Paul's title. High availability and thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 33:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'To deliver their soul from death and keep them alive in famine' matches Paul's 'delivered us out of so great a death, and does deliver,' the same verb-cluster of rescue from death. The psalm's confidence that God delivers from death rather than human strength parallels Paul's refusal to 'trust in ourselves.' Reasonable verbal and thematic contact.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 116:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You have delivered my soul from death, my eyes from tears, my feet from stumbling' is a thanksgiving for rescue from mortal peril that closely tracks Paul's deliverance 'out of so great a death.' Psalm 116 is a deliverance-thanksgiving in which the rescued one calls on God and pays vows publicly, paralleling Paul's expectation of corporate thanksgiving (v. 11). Good thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 18:4-6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The cords of death encompassed me... in my distress I called upon YHWH... and he heard' supplies the deliverance-from-death-through-prayer pattern Paul reproduces: mortal peril, reliance on God, rescue, and the role of supplication (v. 11). Recurrence of this lament-to-rescue schema across the Psalter supports availability.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 30:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'O YHWH, you brought up my soul from Sheol; you restored me to life from among those who go down to the pit' frames rescue from death as a near-resurrection, mirroring Paul's link between deliverance from 'so great a death' and the God who raises the dead. Thematic coherence with the rescue-as-resurrection motif is strong.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 2:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Hannah's confession that 'YHWH kills and makes alive; he brings down to Sheol and raises up' grounds Paul's title 'God who raises the dead' in Israel's earliest doxology of divine life-and-death sovereignty. The bringing-down-then-raising movement matches Paul's death-sentence-then-deliverance experience. Good thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:39",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I kill and I make alive; I wound and I heal, and there is none that can deliver out of my hand' is the Song of Moses' claim of exclusive power over death and rescue, underwriting Paul's confidence in God's deliverance against self-reliance. The kill/make-alive + deliver vocabulary aligns closely. Reasonable volume.",
+        "contested": false
+      },
+      {
+        "source": "Job 5:19-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He will deliver you in six troubles... in famine he will redeem you from death' offers a wisdom statement of repeated divine rescue from death matching Paul's 'delivered... and does deliver... will still deliver.' The triple-tense reliance on future rescue gives thematic coherence, though verbal contact is modest.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 17:5-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The contrast between the cursed who 'trust in man' and the blessed who 'trust in YHWH' undergirds Paul's purpose 'that we should not trust in ourselves but in God.' The trust-not-in-self / trust-in-God antithesis is the conceptual spine here, though Paul does not cite Jeremiah's wording. Faint but coherent.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 44:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will not trust in my bow... but you have saved us from our foes' parallels Paul's renunciation of self-reliance in favor of the God who delivers. Thematic coherence with the not-in-self-but-in-God logic; low volume of verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom 16:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You have power over life and death; you lead down to the gates of Hades and back again' is a Second-Temple statement of God's authority to rescue from death that closely parallels Paul's God who raises the dead and delivers. As deuterocanonical it meets availability and offers a near-resurrection idiom, though verbal contact with Paul is loose.",
+        "contested": true,
+        "altSource": "Tobit 13:2"
+      },
+      {
+        "source": "2 Maccabees 7:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The martyr's hope that 'the King of the universe will raise us up to an everlasting renewal of life' is a Second-Temple confession of God raising the dead amid suffering unto death, the same resurrection faith Paul invokes when under a death sentence. Availability is strong in the martyrological milieu; the contact is conceptual, not verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:12-14",
+    "echoes": [
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's 'boasting' grounded not in 'fleshly wisdom' but in God echoes Jeremiah's oracle that one should not boast in wisdom or might but boast in knowing YHWH. The wisdom-versus-true-boasting antithesis is precisely Jeremiah's, and Paul elsewhere cites this very passage, raising availability. Good thematic coherence despite no full quotation here.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 27:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wisdom counsel against self-boasting ('let another praise you, not your own mouth') informs Paul's careful, conscience-tested form of boasting. The contact is the moral evaluation of boasting rather than verbal, so it remains a faint wisdom echo.",
+        "contested": true
+      },
+      {
+        "source": "Job 27:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I hold fast my righteousness... my heart does not reproach me for any of my days' is the classic appeal to a clear conscience that matches Paul's boast in 'the testimony of our conscience' to integrity of conduct. Job's self-defense by an unaccusing heart provides the closest OT analogue to Paul's conscience-language. Reasonable thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 7:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Judge me, O YHWH, according to my righteousness and the integrity that is in me' parallels Paul's confidence before God in his holiness and sincerity of conduct. The appeal to inward integrity as the basis for vindication is shared, though Paul does not quote the psalm. Faint echo.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Love righteousness... think of the Lord in goodness and seek him in sincerity (haplotēs) of heart' shares Paul's distinctive pairing of 'holiness and sincerity of God.' The sincerity/single-heartedness vocabulary is at home in Hellenistic-Jewish wisdom, satisfying availability; the contact is lexical-thematic rather than a citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:15-22",
+    "echoes": [
+      {
+        "source": "Isaiah 65:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's claim that the promises find their 'Yes' and 'Amen' in Christ 'to the glory of God' draws on Isaiah's 'God of Amen/truth,' where one blesses and swears by the God of truth (LXX/Heb 'God of Amen'). The unusual liturgical 'Amen' tied to God's reliability points to this text as the lexical source for divine faithfulness sealing the promises. High thematic coherence with God's truthfulness.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 7:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Know that YHWH your God is the faithful God who keeps covenant' grounds Paul's 'as God is faithful' and the certainty that all God's promises are confirmed (Yes/Amen). The covenant-keeping faithfulness of God is the theological basis for Paul's argument that his word, mirroring God's, is not equivocating Yes-and-No. Good thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 23:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'God is not a man that he should lie... has he said, and will he not do it?' directly supports Paul's contrast between human fickleness and God's reliable Yes to his promises. The denial of divine vacillation undergirds the Yes/Amen argument. Reasonable verbal-thematic contact on God keeping his word.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 16:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's 'he... anointed us' draws on the anointing tradition in which Samuel anoints David and 'the Spirit of YHWH came mightily upon him.' The conjunction of anointing with the gift of the Spirit (v. 22) maps onto this royal-prophetic anointing pattern. Good thematic coherence between anointing and Spirit-endowment.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 30:25-30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The holy anointing oil that consecrates priests and the tent supplies the consecration imagery behind 'he... anointed us... and gave us the Spirit.' Anointing as a setting-apart for God's service coheres with Paul's claim that God establishes, anoints, and seals believers. Availability is strong though the application is figural.",
+        "contested": false
+      },
+      {
+        "source": "Haggai 2:23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will make you like a signet ring, for I have chosen you' offers the OT 'seal' image of God designating and securing his chosen one, behind Paul's 'who also sealed us.' The signet/seal as a mark of ownership and guaranteed status matches Paul's sealing tied to the Spirit-down-payment. Reasonable thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:28-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will pour out my Spirit on all flesh' is the eschatological Spirit-gift that Paul claims as already given 'in our hearts' as a down payment. The lavish outpouring of the Spirit on God's people in the last days underwrites Paul's arrabon language. Good availability and thematic coherence with Spirit-as-pledge.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:26-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will put my Spirit within you' supplies the promise of the indwelling Spirit that Paul says God 'gave... in our hearts.' The new-covenant gift of an internal Spirit, paired with a new heart, coheres precisely with Paul's sealing and down-payment of the Spirit in the heart. Strong thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:33",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I will put my law within them and write it on their hearts' provides the new-covenant interiorization motif behind Paul's Spirit given 'in our hearts' as guarantee. The heart as the locus of God's confirming work coheres with Paul's establishing/sealing language. Recurrence with Ezekiel 36 strengthens the new-covenant background.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 15:8-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The covenant in which God guarantees his promise to Abraham models the down-payment/pledge logic that the promises are sure and confirmed (Yes/Amen). The arrabon as a first installment securing the whole resonates with God's covenant guarantee. Conceptual rather than verbal, hence low.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 105:8-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He remembers his covenant forever... which he confirmed to Jacob as a statute' restates the reliability of God's promises that Paul affirms as Yes in Christ. The motif of God establishing/confirming his promise to many generations parallels 'establishes us... in Christ.' Faint thematic echo.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 38:17-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The pledge (Heb erabon, the Semitic source of Greek arrabon) Judah leaves with Tamar is the lexical background for Paul's 'down payment of the Spirit.' The shared erabon/arrabon term marks the Spirit as a deposit guaranteeing full payment to come. Contact is lexical-etymological, so low confidence and contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 11:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Spirit of YHWH shall rest upon him' (the anointed messianic shoot) extends the anointing-with-Spirit pattern that Paul applies to believers in Christ ('anointed us... gave us the Spirit'). The messianic anointing background coheres figurally; verbal contact with Paul is light.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 89:34-37",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will not violate my covenant or alter the word that went forth from my lips... his line shall endure forever' affirms God's unalterable, faithful word that Paul echoes in 'God is faithful, our word was not Yes and No.' The non-vacillation of the divine promise coheres with Paul's argument. Faint echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:23-24",
+    "echoes": [
+      {
+        "source": "Job 16:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's solemn 'I call God for a witness to my soul' echoes Job's appeal, 'even now, behold, my witness is in heaven,' invoking God as the guarantor of one's truthfulness. The recourse to God-as-witness in self-defense against suspicion is the shared rhetorical move. Reasonable thematic coherence with the heavenly-witness motif.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 12:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Samuel's 'YHWH is witness against you... that you have found nothing in my hand' is a formal oath calling God to attest the speaker's integrity, paralleling Paul's calling God as witness to his motives. The covenant-lawsuit form of invoking God as witness is well attested and available. Good thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 31:50",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'God is witness between you and me' in the Laban-Jacob covenant supplies the oath-formula of summoning God to witness sincerity of intent, the same form Paul uses. The contact is to the conventional witness-oath rather than to specific wording, hence low and contested.",
+        "contested": true,
+        "altSource": "Genesis 31:53"
+      },
+      {
+        "source": "Deuteronomy 6:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The command to fear God and 'swear by his name' frames the legitimacy of calling God to witness an oath, which Paul does regarding his change of travel plans. The contact is to the sanctioned practice of God-invoking oaths rather than to the verse's wording. Faint echo.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 2:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'YHWH was witness between you' uses the same God-as-witness formula Paul employs to attest the truth of his conduct toward the Corinthians. The prophetic deployment of the witness-oath shows the idiom's availability; verbal contact with Paul is conventional. Low confidence.",
+        "contested": true
+      }
+    ]
+  }
+]

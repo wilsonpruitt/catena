@@ -1,0 +1,219 @@
+[
+  {
+    "id": "6.1",
+    "ch": 6,
+    "ref": "6:1-2",
+    "echoes": [
+      {
+        "source": "Isaiah 49:8",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verbatim LXX citation introduced by 'he says': 'In an acceptable time I listened to you, in a day of salvation I helped you.' Volume is maximal (explicit formula-marked quotation), recurrence high (Isaiah's Servant Songs pervade Paul's ministry self-understanding), coherence strong as Paul reapplies the eschatological 'day of salvation' to the now of gospel proclamation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The immediate Servant-Song context that Paul draws on includes the Servant as light/salvation to the nations; faint contextual echo since Paul's apostolic role mirrors the Servant's commissioning. Volume low (not quoted), but availability and coherence with v.2's quotation support a contextual reading.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.2",
+    "ch": 6,
+    "ref": "6:3-10",
+    "echoes": [
+      {
+        "source": "Psalm 34:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The hardship catalog of the suffering-yet-delivered righteous one ('many are the afflictions of the righteous, but the LORD delivers him out of them all') stands behind Paul's peristasis. Coherence is strong with the righteous-sufferer topos; recurrence high in Paul, though volume is diffuse rather than a marked citation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 118:17-18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'As dying, and behold, we live; as punished, and not killed' closely tracks 'I shall not die, but live... The LORD has chastened me severely, but he has not given me over to death.' Volume moderate (no formula, but distinctive paired antithesis of chastening-yet-not-killed), coherence high with paschal deliverance language Paul applies to apostolic survival.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 119:32",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The motif of endurance and the enlarged heart (anticipating v.11) under affliction has loose verbal contact with the psalmist running the way of commandments 'when you enlarge my heart.' Faint; volume low and the connection is thematic, included for maximal coverage.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 50:6-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant's vindication amid beatings and dishonor ('I gave my back to those who strike... he who vindicates me is near') coheres with Paul's 'by glory and dishonor, by evil report and good report.' Volume low and diffuse, but availability strong given the chapter's Isaiah-49 anchor.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 13:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As poor, yet making many rich; as having nothing, and yet possessing all things' echoes the proverbial paradox 'One pretends to be rich, yet has nothing; another pretends to be poor, yet has great wealth.' Volume low, contested as a possible sapiential commonplace rather than a deliberate citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.3",
+    "ch": 6,
+    "ref": "6:11-13",
+    "echoes": [
+      {
+        "source": "Psalm 119:32",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Our heart is enlarged' / 'be open wide' uses the idiom of the enlarged (widened) heart found in 'I will run the way of your commandments when you enlarge my heart.' Volume low and the metaphor is common, but the shared verb of heart-widening gives a faint, plausible contact.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 11:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's plea against the heart being 'restricted' / led astray by their own affections faintly recalls Deuteronomy's warnings to guard the heart from being deceived. Very faint; included only for maximal coverage and bridges to the holiness summons of vv.14-18.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.4",
+    "ch": 6,
+    "ref": "6:14-15",
+    "echoes": [
+      {
+        "source": "Deuteronomy 22:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Do not be unequally yoked with unbelievers' draws on the law against plowing with an ox and a donkey yoked together as the figural ground of the metaphor heterozygountes. Volume strong (the rare yoking image), coherence high with separation theology, availability secure in Torah.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The holiness-code ban on mixing kinds (breeding cattle of two kinds, mixed seed, mixed garments) underlies the 'unequally yoked' prohibition Paul applies to believers and unbelievers. Coherence high with the Levitical separation logic that governs the whole catena; the LXX heterozyga term in Lev 19:19 verbally anchors the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 5:18-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The antithesis of righteousness vs. lawlessness and light vs. darkness loosely recalls Isaiah's woes on those who 'call darkness light and light darkness.' Volume low; the light/darkness dualism is widespread (cf. Qumran), so this is a contested availability echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.5",
+    "ch": 6,
+    "ref": "6:16",
+    "echoes": [
+      {
+        "source": "Leviticus 26:11-12",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'I will dwell in them, and walk in them; and I will be their God, and they will be my people' fuses Lev 26:12 ('I will walk among you and be your God, and you shall be my people') as the lead text of the catena. Volume maximal (formula-marked 'as God said'), coherence high with the temple-of-the-living-God claim, availability secure.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:27",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The conflated citation also draws Ezekiel's new-covenant promise 'My dwelling place shall be with them, and I will be their God, and they shall be my people'; the 'dwelling/tabernacle among them' language is closer to Ezekiel than Leviticus. A genuine second link of the catena, high volume and coherence within the temple theme.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The adjacent verse promising cleansing from idols ('they shall not defile themselves anymore with their idols') resonates with Paul's 'what agreement has a temple of God with idols?' Volume low, but coherent contextual support for the Ezekiel 37 source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.6",
+    "ch": 6,
+    "ref": "6:17",
+    "echoes": [
+      {
+        "source": "Isaiah 52:11",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Come out from among them, and be separate, says the Lord, touch no unclean thing' quotes 'Depart, depart, go out from there, touch no unclean thing; go out from the midst of her, purify yourselves.' Volume maximal (formula-marked), coherence high with the exodus/return-from-exile separation summons; availability secure.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 20:34",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will receive you' (eisdexomai) matches Ezekiel's promise to gather and receive the people out from the peoples ('I will bring you out... and I will receive you'), supplying the welcome-clause not present in Isaiah 52:11. Volume moderate via the distinctive verb; a real catena link.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 20:41",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The parallel 'I will receive you' in Ezek 20:41 ('I will accept you as a pleasing aroma when I bring you out') reinforces the source of Paul's reception-promise tied to separation from defilement. Coherence high with the holiness/return motif.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 3:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'At that time I will bring you in... I will gather you' offers another gathering/reception promise that may stand behind the welcome clause. Volume low and overlaps with the Ezekiel material; contested but plausible for maximal coverage.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 48:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Go out from Babylon, flee from the Chaldeans' is a parallel exodus-summons in Deutero-Isaiah reinforcing the 'come out and be separate' imperative. Faint and overlapping with 52:11; included as a low-confidence availability echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.7",
+    "ch": 6,
+    "ref": "6:18",
+    "echoes": [
+      {
+        "source": "2 Samuel 7:14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'I will be to you a Father. You will be to me sons and daughters' adapts the Davidic-covenant promise 'I will be his father, and he shall be my son,' pluralized and expanded to the community. Volume high (formula-marked 'says the Lord Almighty'), coherence high as the covenant-sonship climax of the catena.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The plural 'sons and daughters' ('Bring my sons from afar and my daughters from the end of the earth') supplies the gendered expansion absent from 2 Sam 7:14. Volume moderate via the distinctive 'sons and daughters' pairing; a genuine conflated link coherent with the gathering theme of v.17.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I am a father to Israel, and Ephraim is my firstborn' provides the fatherhood-to-the-people motif within the new-covenant chapter Paul elsewhere prizes. Volume moderate, coherence high with the new-covenant framing of 2 Corinthians 3 and this catena.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 1:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'In the place where it was said... 'You are not my people,' it shall be said... 'Sons of the living God'' links the sonship promise to the 'living God' temple language of v.16 and the not-my-people/my-people reversal. Volume moderate, coherence strong; Paul cites this elsewhere (Rom 9:26), raising availability and recurrence.",
+        "contested": true
+      }
+    ]
+  }
+]

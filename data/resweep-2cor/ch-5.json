@@ -1,0 +1,228 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-5",
+    "echoes": [
+      {
+        "source": "Exodus 26:1-30",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'earthly house of our tent' (skenos) plays on the tabernacle/tent (skene) of the wilderness, a man-made dwelling contrasted with the 'house not made with hands.' Volume and coherence are moderate: Paul deliberately sets the impermanent, hand-built tent over against an eternal heavenly dwelling, echoing Israel's portable sanctuary. The earthly-vs-eternal sanctuary contrast is thematically apt.",
+        "contested": true,
+        "altSource": "Wisdom 9:15"
+      },
+      {
+        "source": "Isaiah 38:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Hezekiah laments 'my dwelling is plucked up and removed from me like a shepherd's tent,' the body/life imaged as a collapsible tent that is struck down. Paul's 'earthly house of our tent is dissolved' shares the precise tent-as-mortal-life metaphor and the language of dissolution. Volume is modest but the conceptual match (tent = perishable bodily life) is striking.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 9:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Wisdom: 'a perishable body weighs down the soul, and this earthly tent (geodes skenos) burdens the thoughtful mind.' Paul's 'we who are in this tent do groan, being burdened' (barynomenoi) reproduces both the rare word skenos and the burden motif. High volume and verbal coherence make this the strongest Second-Temple echo in the pericope; availability is secure (Wisdom widely read).",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The dread of being 'found naked' and the desire to be 'clothed' evokes Adam and Eve's discovery of nakedness and their covering after the fall. Paul does not want to be 'unclothed' but further clothed, reversing the shame of Eden's nakedness with a heavenly garment. Coherence with Paul's new-creation theme (5:17) supports the figural reading.",
+        "contested": true,
+        "altSource": "Genesis 3:10-11"
+      },
+      {
+        "source": "Ezekiel 36:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'down payment of the Spirit' as God's pledge guaranteeing future life draws on the prophetic promise that God will put his Spirit within his people. Ezekiel's gift-of-the-Spirit as eschatological assurance coheres with Paul's arrabon, the Spirit given now as surety of the resurrection body. Recurrence: Paul uses the same Spirit-guarantee logic at 1:22.",
+        "contested": true,
+        "altSource": "Joel 2:28"
+      },
+      {
+        "source": "Joel 2:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joel's promise that God will 'pour out my Spirit on all flesh' stands behind the eschatological gift of the Spirit Paul names as down payment. The link is thematic (the Spirit as the marker of the last days) rather than verbal, so volume is low and the connection is contested against Ezekiel's more personal Spirit-indwelling promise.",
+        "contested": true,
+        "altSource": "Ezekiel 36:27"
+      }
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:6-10",
+    "echoes": [
+      {
+        "source": "Habakkuk 2:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'We walk by faith, not by sight' restates the Habakkuk principle that the righteous live by faith/faithfulness, a text Paul cites programmatically elsewhere (Rom 1:17; Gal 3:11). The verbal echo is loose but the theological content—life ordered by trust rather than visible evidence—coheres tightly with Habakkuk's contrast between the proud who rely on sight and the faithful who wait.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 12:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God speaks with Moses 'mouth to mouth, clearly, and not in dark speech,' and Moses 'beholds the form of the LORD'—the privileged sight Paul defers until the believer is 'at home with the Lord.' The faith-now / sight-later structure faintly recalls the Moses-vs-ordinary-prophet distinction. Low volume; contested as a general topos of seeing God rather than a targeted allusion.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 12:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Qoheleth's conclusion that 'God will bring every deed into judgment, with every secret thing, whether good or evil' is closely paralleled by 'each one may receive the things in the body... whether good or bad.' The good/evil pairing and universal accounting are strongly coherent; high volume of shared content makes the judgment-of-deeds echo secure.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 62:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You repay everyone according to what they have done' supplies the recompense logic of the judgment seat where each receives according to deeds. Recurrence is notable: this 'render according to works' formula recurs across the OT (Prov 24:12; Jer 17:10) and Paul invokes it at Rom 2:6, supporting its presence here.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 24:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Will he not repay everyone according to their deeds?'—God who weighs the heart renders to each by works, matching the judgment-seat recompense. The proverb's emphasis that God sees and requites secret action coheres with Paul's 'revealed before the judgment seat.' Part of a recurrent OT recompense cluster behind 5:10.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I the LORD search the heart... to give every man according to his ways, according to the fruit of his deeds.' The heart-searching judge who recompenses deeds undergirds Paul's appearance before Christ's judgment seat. Coherent with the recompense motif and reinforced by recurrence across the OT requital tradition.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:11-15",
+    "echoes": [
+      {
+        "source": "Proverbs 1:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Knowing therefore the fear of the Lord' echoes the wisdom maxim that 'the fear of the LORD is the beginning of knowledge.' Paul grounds his persuasion of others in this reverent fear, coherent with the judgment-seat context just prior. The phrase is a recognizable wisdom formula, supporting a deliberate allusion.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 9:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The fear of the LORD is the beginning of wisdom' is a near-doublet of Prov 1:7 and equally available behind Paul's 'fear of the Lord.' Lower confidence because it adds little beyond the 1:7 echo; flagged for recurrence of the fear-of-the-LORD wisdom topos.",
+        "contested": true,
+        "altSource": "Proverbs 1:7"
+      },
+      {
+        "source": "Isaiah 11:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Spirit of 'the fear of the LORD' rests on the messianic shoot, whose 'delight is in the fear of the LORD.' Paul's 'fear of the Lord,' now possibly Christological (fear of/before Christ as judge), faintly recalls this messianic endowment. Volume is low and the link contested against the plainer wisdom-saying source.",
+        "contested": true,
+        "altSource": "Proverbs 1:7"
+      }
+    ]
+  },
+  {
+    "id": "5.4",
+    "ch": 5,
+    "ref": "5:16-19",
+    "echoes": [
+      {
+        "source": "Isaiah 43:18-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Do not remember the former things... behold, I am doing a new thing' stands directly behind 'the old things have passed away; behold, all things have become new.' The pairing of forgotten old / heralded new with the demonstrative 'behold' gives high verbal volume and coherence; the new-creation announcement is unmistakably Isaianic second-exodus language.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 65:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I create new heavens and a new earth, and the former things shall not be remembered' supplies both the new-creation (kaine ktisis) vocabulary and the 'former things not remembered' formula echoed in 5:17. High coherence: Paul reads being 'in Christ' as participation in Isaiah's promised new creation; strong availability and thematic fit.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 66:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The new heavens and the new earth that I make shall remain before me'—the enduring new creation reinforces the new-creation motif of 5:17. Recurrence within Isaiah's new-creation cluster (43; 65; 66) strengthens the case that Paul draws on this stream, though 65:17 is the closer verbal match.",
+        "contested": true,
+        "altSource": "Isaiah 65:17"
+      },
+      {
+        "source": "Genesis 1:1",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'New creation' (kaine ktisis) figurally recalls the original creation account: being in Christ inaugurates a fresh creative act of God. The link is conceptual and faint, mediated through Isaiah's new-creation language rather than direct verbal contact, so it is marked low and contested.",
+        "contested": true,
+        "altSource": "Isaiah 65:17"
+      }
+    ]
+  },
+  {
+    "id": "5.5",
+    "ch": 5,
+    "ref": "5:20-21",
+    "echoes": [
+      {
+        "source": "Isaiah 52:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The herald announcing peace stands behind Paul's role as 'ambassador' through whom God makes his appeal of reconciliation. The envoy/herald-of-peace motif coheres with the ministry of reconciliation, but the verbal contact is faint, so the echo is marked low.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 16:21-22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He made him to be sin' draws on the Day of Atonement, where Israel's sins are laid on the offering and borne away. The cultic 'made to be sin/sin offering' (LXX often renders the sin offering simply as 'sin,' hamartia) underlies Paul's paradox. Coherence with the atoning-exchange logic of 5:21 supports the sacrificial allusion.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 4:24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The sin offering (hattat / LXX hamartia) is the technical sacrifice 'for sin'; the LXX's use of the same word for both 'sin' and 'sin offering' lets Paul say God made the sinless Christ 'to be sin.' The double sense undergirds the substitutionary exchange, giving medium volume through the shared Greek term.",
+        "contested": true,
+        "altSource": "Leviticus 5:6-7"
+      },
+      {
+        "source": "Isaiah 53:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The LORD has laid on him the iniquity of us all'—the Servant bearing the sin of others is the template for 'he made him to be sin on our behalf.' High coherence with Paul's vicarious exchange and the wider Servant theology of 2 Corinthians; volume of the substitutionary motif is strong.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Servant's life is made 'an offering for sin' (asham / LXX 'sin'), precisely the sacrificial-exchange logic of 'made him to be sin... so that we might become the righteousness of God.' The sin-offering wording and the resulting vindication of 'the many' give high volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The righteous one, my servant, shall make many to be accounted righteous' directly anticipates 'so that we might become the righteousness of God in him.' The righteousness-conferred-on-the-many through the Servant's sin-bearing is a tight thematic and lexical match, the climactic Servant echo behind 5:21.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Servant 'bore the sin of many' and was 'numbered with the transgressors,' supporting the one-for-all sin-bearing exchange of 5:21 (and 'one died for all,' 5:14). Recurrence across Isaiah 53 (vv. 6, 10, 11, 12) strengthens the overall Servant-song dependence of the pericope.",
+        "contested": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "8.1",
+    "ch": 8,
+    "ref": "8:1-7",
+    "echoes": [
+      {
+        "source": "Deuteronomy 15:7-11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's appeal that the Macedonians gave generously out of deep poverty rests on the Deuteronomic open-hand command: do not harden your heart against the poor brother but give freely. The 'fellowship in service to the saints' (v.4) reflects the same covenantal obligation to relieve a needy member of God's people. Coherence with the whole collection theme is high, though the verbal link is thematic rather than lexical.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 11:24-25",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The paradox that the Macedonians' deep poverty 'abounded to the riches of their liberality' (v.2) echoes the wisdom maxim that one who scatters yet increases and the liberal soul is made rich. The generosity-brings-abundance reversal is a recurring sapiential theme Paul draws on through the chapter; volume is modest, coherence strong.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 35:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Macedonians giving 'of their own accord' and begging to share in the collection (vv.3-4) recalls the willing-hearted offering for the tabernacle, where everyone whose heart stirred him brought a freewill gift. The collection-for-the-sanctuary typology underlies Paul's framing of the Jerusalem fund as a sacred offering. Faint and contested as a deliberate echo.",
+        "contested": true,
+        "altSource": "Exodus 25:2"
+      }
+    ]
+  },
+  {
+    "id": "8.2",
+    "ch": 8,
+    "ref": "8:8-12",
+    "echoes": [
+      {
+        "source": "Proverbs 22:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The summons to a willing readiness in giving 'according to what you have' (vv.11-12) resonates with the blessing on the bountiful eye that gives bread to the poor. The wisdom tradition that values the disposition of the giver over the amount stands behind Paul's stress on willingness; the link is thematic and faint.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:2-9",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "The Christological reversal in v.9, 'though he was rich, yet for your sakes he became poor,' may evoke the Servant who, despised and stripped of form, is poured out and yet by his abasement enriches the many. The pattern of voluntary self-impoverishment for others' gain coheres with Isaiah's Servant, but the conceptual frame of pre-existent riches is Pauline rather than verbal Isaianic; contested.",
+        "contested": true,
+        "altSource": "Philippians 2:6-8"
+      }
+    ]
+  },
+  {
+    "id": "8.3",
+    "ch": 8,
+    "ref": "8:13-15",
+    "echoes": [
+      {
+        "source": "Exodus 16:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verse 15 explicitly quotes ('as it is written') the manna narrative: 'He who gathered much had nothing left over, and he who gathered little had no lack.' Paul lifts the LXX wording of the equalizing of the manna to ground his principle of economic equality among the assemblies. Volume, explicit citation formula, and coherence with the equality theme are all maximal.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 25:35-37",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The principle of 'equality' so that one's abundance supplies another's lack (vv.13-14) resonates with the Jubilee/sabbatical ethic of sustaining the impoverished brother without profit. The leveling vision behind Paul's mutual-supply argument is at home in the Holiness Code's economy of need; faint and thematic.",
+        "contested": true,
+        "altSource": "Deuteronomy 15:4"
+      }
+    ]
+  },
+  {
+    "id": "8.4",
+    "ch": 8,
+    "ref": "8:16-24",
+    "echoes": [
+      {
+        "source": "Proverbs 3:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Verse 21, 'Having regard for honorable things, not only in the sight of the Lord, but also in the sight of men,' closely follows LXX Proverbs 3:4, 'provide for good things in the sight of the Lord and of men.' Paul applies the maxim of seeking favor and good repute before God and humans to his transparent handling of the collection. The lexical overlap (good/honorable things; sight of Lord and men) gives high volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 17:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The care to be above blame in administering the gift (v.20), guarding the apostles' reputation, draws on the wisdom concern for the faithful steward who avoids reproach. The administrative-integrity motif is sapiential but the link to any single proverb is diffuse; faint.",
+        "contested": true,
+        "altSource": "Sirach 33:30-31"
+      }
+    ]
+  }
+]

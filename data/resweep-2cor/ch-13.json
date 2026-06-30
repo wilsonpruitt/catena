@@ -1,0 +1,125 @@
+[
+  {
+    "id": "13.1",
+    "ch": 13,
+    "ref": "13:1-4",
+    "echoes": [
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Paul cites the two-or-three-witnesses rule verbatim ('At the mouth of two or three witnesses shall every word be established'), a direct LXX-form quotation governing judicial proof. Volume is maximal: explicit citation formula and near-verbatim wording. Coherence is strong since Paul frames his three visits as the requisite testimony before disciplinary action.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 17:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The same Deuteronomic two-or-three-witnesses principle appears here in a capital-case context, part of the legal tradition Paul invokes. The wording overlaps with Deut 19:15, the primary source, so this is a parallel attestation of the rule rather than the citation's lemma. Recurrence within the Torah strengthens the availability of the witness-tradition.",
+        "contested": false,
+        "altSource": "Deuteronomy 19:15"
+      },
+      {
+        "source": "Numbers 35:30",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Numbers also codifies that a person shall be put to death only on the testimony of witnesses, reinforcing the multi-witness legal tradition Paul deploys. It is a secondary attestation alongside Deut 17:6 rather than the quoted text. The cluster shows the rule's standing as established Torah jurisprudence.",
+        "contested": false,
+        "altSource": "Deuteronomy 19:15"
+      },
+      {
+        "source": "Isaiah 53:1-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Christ 'crucified through weakness, yet he lives through the power of God' echoes the Servant who is afflicted and humbled yet exalted and vindicated by God. Volume is faint and no verbal citation occurs, so the link rests on the conceptual coherence of suffering-then-power. Contested because the weakness/power dialectic is broadly Pauline and not demonstrably keyed to Isaiah here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.2",
+    "ch": 13,
+    "ref": "13:5-10",
+    "echoes": [
+      {
+        "source": "Psalm 26:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's 'Test your own selves, whether you are in the faith. Test your own selves' resonates with the psalmist's 'Examine me, O LORD, and prove me; test my heart and my mind.' Volume is moderate through shared testing/proving vocabulary in the self-scrutiny tradition. Coherence is high since both concern verifying genuine standing before God.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 139:23-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The summons to be searched and tested to see whether any wicked way is present parallels Paul's call to self-examination 'whether you are in the faith.' The introspective testing tradition supplies the conceptual frame for Paul's appeal. No verbal quotation, so this is an allusion within a recurrent biblical motif.",
+        "contested": false
+      },
+      {
+        "source": "Lamentations 3:40",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let us search and try our ways, and turn again to the LORD' supplies a corporate self-examination motif close to Paul's command to test oneself. Volume is faint with no shared diction in Greek, so the echo is thematic. Coherence is supported by the repentance/restoration aim of the surrounding verses (perfecting, doing no evil).",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 17:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The refining pot is for silver... but the LORD tests the hearts' belongs to the wisdom tradition of divine testing that informs Paul's language of approval and being 'reprobate/disqualified' (adokimos). The link is conceptual rather than verbal and competes with the Psalms as a closer source. Marked contested for its faintness.",
+        "contested": true,
+        "altSource": "Psalm 26:2"
+      }
+    ]
+  },
+  {
+    "id": "13.3",
+    "ch": 13,
+    "ref": "13:11-13",
+    "echoes": [
+      {
+        "source": "Numbers 6:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Live in peace, and the God of love and peace will be with you' echoes the Aaronic benediction's 'the LORD... give you peace,' the foundational peace-blessing of Israel. Volume is moderate via the shared peace-and-presence formula closing the letter. Coherence is strong since Paul is pronouncing a farewell blessing, the benediction's native function.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 6:24-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The full priestly blessing (grace/favor, the LORD's face, peace) stands behind Paul's closing of peace and divine presence and anticipates the triune benediction in v.14. The threefold structure of grace, love, and fellowship loosely mirrors the threefold Aaronic form. Marked allusion rather than quotation given the absence of verbatim wording.",
+        "contested": false
+      },
+      {
+        "source": "Judges 6:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The divine title 'the God of love and peace' faintly recalls covenantal peace-name traditions such as Gideon's altar 'The LORD is Peace' (YHWH-shalom). The connection is purely thematic with no verbal overlap, so it is a faint echo. Contested and secondary to the Aaronic blessing as the operative source.",
+        "contested": true,
+        "altSource": "Numbers 6:26"
+      }
+    ]
+  },
+  {
+    "id": "13.4",
+    "ch": 13,
+    "ref": "13:14",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The closing triune benediction ('the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit') functions as Paul's Christianized Aaronic blessing, its threefold grace/presence/peace structure refracted into a threefold divine formula. Volume rests on the shared benedictory genre and triadic shape rather than diction. Coherence is high: a letter-closing priestly-style blessing invoking grace and the divine presence 'with you all.'",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The love of God' draws on the covenant self-revelation of the LORD as abounding in steadfast love (hesed), the wellspring of Israel's confidence in divine favor. The echo is conceptual, supplying the OT substrate for 'love of God,' with no verbal citation. Contested because 'love of God' is a generic Pauline phrase not demonstrably keyed to this text.",
+        "contested": true
+      }
+    ]
+  }
+]

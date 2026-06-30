@@ -1,0 +1,206 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-4",
+    "echoes": [
+      {
+        "source": "Jeremiah 9:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul writes 'with many tears' out of 'much affliction and anguish of heart,' grieving over a community he loves. Jeremiah's wish that his head were waters to weep day and night for his people supplies the prophetic prototype of the leader who weeps over those under his charge. Coherence is strong (Paul's self-presentation as a suffering apostle); volume is low since there is no shared diction.",
+        "contested": true,
+        "altSource": "Psalm 6:6"
+      },
+      {
+        "source": "Psalm 6:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I wrote to you with many tears' resonates with the lament psalmist who floods his bed with weeping. The motif of tears poured out in anguish of heart is a stock Psalter idiom Paul would have internalized. Faint and diffuse, marked low for lack of verbal anchor.",
+        "contested": true,
+        "altSource": "Psalm 42:3"
+      },
+      {
+        "source": "Psalm 25:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Anguish of heart' (v.4) matches the psalmist's 'the troubles of my heart are enlarged.' The Greek thlipsis/synochē kardias language draws on LXX heart-distress vocabulary. Volume is low; recorded as an available Septuagintal coloring of Paul's affliction language.",
+        "contested": true,
+        "altSource": "Psalm 31:9"
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:5-11",
+    "echoes": [
+      {
+        "source": "Isaiah 40:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul urges the church to 'forgive him and comfort (parakaleō) him' lest he be overwhelmed. The comfort/paraklēsis vocabulary that saturates 2 Corinthians is rooted in Isaiah 40's 'Comfort, comfort my people,' the LXX charter text for eschatological consolation. Coherence with the letter's comfort theme is high; verbal echo is real but generic, hence medium.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 69:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The offender risks being 'swallowed up' (katapinō) by excessive sorrow. The lament psalmist prays not to be swallowed by the flood or have the pit close its mouth over him; the verb katapinō is the LXX term for being engulfed/overwhelmed. Volume is moderate through the shared swallowing imagery applied to a person drowning in grief.",
+        "contested": false
+      },
+      {
+        "source": "Lamentations 2:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Swallowed up' (katepothē) is the repeated verb of Lamentations for the Lord engulfing Zion in sorrow. Paul fears the penitent will be similarly engulfed by grief. The figural link is to overwhelming communal sorrow; low because the LXX term is common and the referent differs.",
+        "contested": true,
+        "altSource": "Isaiah 25:8"
+      },
+      {
+        "source": "Job 1:6-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul guards against 'Satan' gaining advantage, 'for we are not ignorant of his schemes.' The figure of ha-satan operating against the faithful, testing and seeking advantage before God, is established in the Job prologue (and Job 2:1-7). Availability and coherence are strong: Satan as the adversarial accuser is a Second-Temple development of this OT scene.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 3:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Satan's 'schemes' to gain advantage echo the satan standing at God's right hand to accuse Joshua the high priest, only to be rebuked. The accuser seeking legal advantage over God's people informs Paul's worry about being outwitted. Medium: thematically apt accuser imagery without verbal overlap.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'We are not ignorant of his schemes (noēmata)' recalls the serpent who was 'more crafty/subtle' than any beast, the archetypal deceiver of God's people. Paul elsewhere (2 Cor 11:3) makes this Eden-craftiness link explicit, raising the recurrence weight here. The scheming-deceiver coherence is strong; verbal volume low.",
+        "contested": false
+      },
+      {
+        "source": "1 Chronicles 21:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Satan 'incited' David to a course that brought ruin, a parade case of the adversary gaining advantage over a leader. Paul's anxiety not to give Satan an opening fits this pattern. Low confidence: thematic only, one of several OT satan-scenes available.",
+        "contested": true,
+        "altSource": "Job 2:1-7"
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:12-13",
+    "echoes": [
+      {
+        "source": "Deuteronomy 28:65",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I had no relief for my spirit' (ouk eschēka anesin tō pneumati) echoes the covenant-curse condition of finding 'no rest for the sole of your foot' and an 'anxious/trembling heart.' Paul's restlessness over Titus is colored by this LXX no-rest idiom. Low: diffuse mood-echo, no quotation.",
+        "contested": true,
+        "altSource": "Lamentations 1:3"
+      },
+      {
+        "source": "Hosea 2:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A door was opened to me in the Lord' may resonate with Hosea's 'door of hope' (petach tiqvah) opened in the wilderness as a gateway to renewed mission. The image of a divinely opened door of opportunity is faint and contested, as the Roman idiom of an 'open door' for preaching may be independent. Marked low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:14-17",
+    "echoes": [
+      {
+        "source": "Leviticus 1:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The sweet aroma (osmē euōdias)' Paul and his ministry spread is the exact LXX sacrificial formula for the burnt offering: 'an offering by fire, a pleasing aroma to the LORD.' Paul casts apostolic ministry as a sacrifice whose fragrance ascends. Volume is high on the set phrase osmē euōdias; medium overall because the phrase recurs across the whole sacrificial system rather than one verse.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 8:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The first 'pleasing aroma' (osmē euōdias) is Noah's offering, which God 'smelled' and was reconciled. Paul's fragrance imagery for a ministry that mediates reconciliation draws on this foundational pleasing-odor scene. Medium: shares the precise LXX formula but is one instance among several aroma texts.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 29:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The ordination ram offered as 'a pleasing aroma, an offering by fire to the LORD' supplies priestly-consecration coloring to Paul's self-presentation as a fragrant offering in service of God. The ordination context coheres with Paul's apostolic vocation. Medium on shared formula.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 20:41",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'As a pleasing aroma I will accept you when I bring you out from the peoples' applies the sacrificial-fragrance formula to God's restored people gathered from the nations. Paul, spreading the aroma 'in every place' among saved and perishing, picks up this universalized, gathering sense of the pleasing odor. Medium.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 1:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'In every place incense is offered to my name, and a pure offering; for my name is great among the nations.' Paul's aroma of the knowledge of God spread 'in every place' strikingly combines fragrant offering + worldwide diffusion among the nations, matching Malachi's vision. Coherence with Paul's Gentile mission is high; medium for the inexact wording.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 24:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Personified Wisdom says she gave forth fragrance 'like cinnamon and aromatic balm... like choice myrrh... like the fragrance of incense in the tabernacle,' spreading her aroma. Paul's 'fragrance of the knowledge of him in every place' transposes Wisdom's self-diffusing aroma onto the knowledge of God in Christ. Strong thematic coherence (fragrance = diffused divine knowledge); medium for deuterocanonical, non-verbal link.",
+        "contested": false
+      },
+      {
+        "source": "Song of Songs 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your anointing oils are fragrant; your name is oil poured out, therefore the maidens love you' offers the erotic-devotional register of a fragrant, beloved name. Paul's aroma of Christ that draws (or repels) may glance at this beloved-name fragrance. Low: evocative but lacks verbal contact and the sacrificial frame dominates.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 11:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul spreads 'the knowledge of him in every place,' which resonates with the eschatological promise that 'the earth shall be full of the knowledge of the LORD.' The universal diffusion of divine knowledge is the shared note. Low/medium: thematic, mediated through the aroma metaphor.",
+        "contested": true,
+        "altSource": "Habakkuk 2:14"
+      },
+      {
+        "source": "Psalm 68:18",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'God always leads us in triumph (thriambeuō)' uses the Roman triumphal-procession image, but its OT analogue is the divine warrior who 'ascended on high, leading captives in your train.' Paul figures himself among those led in God's victory train. Low: the primary background is Greco-Roman, not OT, so this is a faint figural overlay.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 4:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Who is sufficient for these things?' echoes Moses' protest of inadequacy at his call ('I am not eloquent... I am slow of speech'), the paradigm of human insufficiency for a divine commission answered by God's enabling. Paul's rhetorical question and his later 'our sufficiency is from God' (3:5) make the call-narrative resonance coherent. Medium.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Who is sufficient/who can endure it?' (tis estai hikanos / tis hypoisei) matches the prophetic exclamation before the overwhelming Day of the LORD. Paul's 'who is sufficient (hikanos) for these things?' may pick up this LXX idiom of human inadequacy before God's awesome work. Low: shared rhetorical form, divergent context.",
+        "contested": true,
+        "altSource": "Joel 2:11 LXX"
+      },
+      {
+        "source": "Isaiah 1:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul condemns those 'peddling (kapēleuō) the word of God,' the verb for a huckster/tavern-keeper who adulterates wares. Isaiah's indictment 'your wine is mixed with water' (LXX: tavern-keepers diluting wine) is the prophetic image of corrupting/cheapening what is holy for profit. Coherence with Paul's charge of adulterating God's word is good; low because the link is conceptual, not quoted.",
+        "contested": true
+      }
+    ]
+  }
+]

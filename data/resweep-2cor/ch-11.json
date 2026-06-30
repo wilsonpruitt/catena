@@ -1,0 +1,242 @@
+[
+  {
+    "id": "11.1",
+    "ch": 11,
+    "ref": "11:1-6",
+    "echoes": [
+      {
+        "source": "Hosea 2:19-20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's claim to have 'betrothed you to one husband, to present you as a pure virgin to Christ' draws on the prophetic marriage of YHWH to Israel, where God betroths his people to himself in righteousness and faithfulness. Hosea's betrothal language supplies the covenant-marriage logic underwriting Paul's 'godly jealousy.' Volume and coherence are strong since the bride/jealous-husband motif governs the whole pericope.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I am jealous over you with a godly jealousy' invokes the divine attribute that YHWH names his very self ('a jealous God,' literally 'whose name is Jealous'). The jealousy is covenantal: it presupposes the marriage bond and forbids rival lovers, precisely Paul's worry about 'another Jesus.' The conceptual link is dense even without verbatim quotation.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The figure of God espousing a people and the demand for the bride's purity (and the betrayal that follows) is most fully narrated in Ezekiel's allegory of Jerusalem as YHWH's bride. Paul's anxiety that the virgin will be corrupted/seduced coheres with Ezekiel's adultery imagery. Volume is diffuse, so allusion rather than quotation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 54:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Your Maker is your husband' is the clearest single-verse statement of the divine-marriage theme that Paul presupposes when he presents the church as betrothed to Christ. The echo strengthens the coherence of the bride imagery in the pericope, though Paul does not cite it. Recurrence of the motif across Isaiah supports availability.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 62:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As the bridegroom rejoices over the bride, so shall your God rejoice over you' contributes to the eschatological-marriage backdrop of presenting a pure virgin. Volume is low and the wording is not echoed, but the motif is coherent with Paul's betrothal language. Marked low as one strand of a cluster.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:1-13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'As the serpent deceived Eve in his craftiness, so your minds might be corrupted' explicitly names the Eden narrative, where the serpent is more 'crafty/subtle' than any beast and Eve confesses 'the serpent deceived me.' This is a near-quotation of Genesis 3:13 LXX (the verb for deceive) plus 3:1 (craftiness). Volume, coherence, and explicit naming make this the surest OT use in the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Song of Moses links Israel's turning to a foreign god with provoking YHWH to jealousy; Paul's pairing of jealousy with the threat of 'another Jesus' and 'a different spirit' coheres with that covenant-jealousy logic. Volume is faint and the connection is thematic. Flagged low as supporting the jealousy cluster.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.2",
+    "ch": 11,
+    "ref": "11:7-11",
+    "echoes": [
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's refusal of self-commendation and insistence on a 'boasting' rightly grounded (preaching free of charge, love attested by God who 'knows') anticipates the chapter's larger reframing of boasting along the lines of Jeremiah's 'let him who boasts boast in this, that he knows the Lord.' Volume here is low; the motif crystallizes more clearly at v. 30. Marked contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.3",
+    "ch": 11,
+    "ref": "11:12-15",
+    "echoes": [
+      {
+        "source": "Genesis 3:1-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'deceitful workers' who masquerade and the figure of Satan disguising himself extend the Eden serpent's deception introduced in v. 3. The serpent who appears attractive while corrupting coheres with false apostles masquerading as ministers of righteousness. Recurrence of the serpent motif within the chapter strengthens the link.",
+        "contested": false
+      },
+      {
+        "source": "Life of Adam and Eve 9:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Satan masquerades as an angel of light' has its closest extant parallel in the Adam-and-Eve pseudepigrapha, where Satan transforms himself into the brightness/form of an angel to deceive Eve a second time. This Second-Temple tradition explains why Paul attaches the disguise-as-light motif specifically to the serpent/Eve material of v. 3. Availability is plausible for a learned Pharisee; volume is conceptual rather than verbal.",
+        "contested": true,
+        "altSource": "Apocalypse of Moses 17:1-2"
+      },
+      {
+        "source": "Job 1:6-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Satan who moves among the 'sons of God' and operates by accusation and testing supplies the canonical adversary figure Paul names. The notion of Satan as a deceptive agent licensed within the heavenly court loosely coheres, though Job lacks the 'angel of light' disguise. Volume is faint; flagged low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 3:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Satan standing to accuse Joshua the high priest before the angel of the LORD contributes to the canonical portrait of the satan as adversary opposing God's true servants, which Paul reapplies to those opposing his ministry. The link is thematic, not verbal. Marked low/contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 14:12-14",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The 'Day Star/shining one' fallen from heaven who aspired to angelic/divine status was, in later reading, fused with Satan and supplies a figural backdrop for 'an angel of light.' Paul need not intend Isaiah directly, but the shining-but-false image coheres figurally. Availability of the fused tradition is Second-Temple-plausible; flagged low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.4",
+    "ch": 11,
+    "ref": "11:16-21",
+    "echoes": [
+      {
+        "source": "Proverbs 26:4-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's reluctant adoption of the fool's role ('receive me as foolish, that I also may boast a little'; 'answering' opponents on their own terms) plays on wisdom's paradox of whether to answer a fool according to his folly. The interplay of speaking-as-a-fool to expose folly coheres with Proverbs' aphorisms on fools and boasting. Volume is low; thematic only.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 27:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let another praise you, and not your own mouth' is the proverbial wisdom Paul transgresses self-consciously as he boasts 'after the flesh.' His apology for the foolish boast presupposes exactly this sapiential prohibition against self-praise. The echo is conceptual; flagged low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.5",
+    "ch": 11,
+    "ref": "11:22",
+    "echoes": [
+      {
+        "source": "Genesis 17:7-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Are they the seed of Abraham? So am I' appeals to the covenant promise of Abraham's 'seed,' the pedigree of God's elect people. The Abrahamic offspring formula is the foundation of the Hebrew/Israelite identity Paul claims. Volume rests on the loaded covenant term 'seed' rather than a quotation.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 15:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The promise that Abraham's offspring would be innumerable underwrites the privileged status Paul invokes by naming himself 'seed of Abraham.' The verse is the classic charter of the lineage to which the opponents and Paul both lay claim. Coherence is high; verbal volume modest.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 32:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Israelites' derives identity from Jacob's renaming as Israel, the eponymous ancestor of the covenant people Paul claims membership in. The link is etymological/identitarian rather than a textual citation. Marked low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.6",
+    "ch": 11,
+    "ref": "11:23-29",
+    "echoes": [
+      {
+        "source": "Deuteronomy 25:1-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Five times I received forty stripes minus one' presupposes the Torah's limit of forty lashes on a guilty man, with the synagogue practice of stopping at thirty-nine to avoid exceeding the law. The 'forty minus one' is unintelligible apart from this statute. Volume is high through the precise legal number even without quotation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 34:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Many are the afflictions of the righteous, but the LORD delivers him out of them all' frames Paul's catalog of sufferings as the lot of the righteous sufferer whom God preserves. The peristasis list reads as an enactment of this psalmic maxim, coherent with Paul's boast 'in weakness.' Volume is thematic.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 28:48",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The covenant-curse list of serving 'in hunger, thirst, nakedness, and want of all things' supplies the lexical cluster behind Paul's 'hunger and thirst... cold and nakedness.' Paul ironically wears the curse-catalog as apostolic credential. Volume is low and the wording is common to affliction lists; flagged contested.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 20:1-2",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The beating and imprisonment of the persecuted prophet Jeremiah typifies the suffering true messenger over against false prophets, the very contrast Paul presses against the 'super-apostles.' The link is figural, conforming Paul to the prophetic sufferer rather than citing a text. Marked low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 69:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A night and a day in the deep,' perils of waters and being engulfed, resonate with the lament psalmist sinking in deep waters where the floods overwhelm him, a classic image of the righteous sufferer's distress. Volume is faint and the danger is literal for Paul, so flagged low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.7",
+    "ch": 11,
+    "ref": "11:30-33",
+    "echoes": [
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'If I must boast, I will boast of the things that concern my weakness' inverts ordinary boasting along the lines of Jeremiah's oracle that the wise, mighty, and rich must not boast in their strength but only in knowing the LORD. Paul's recurring 'boast in the Lord' motif (cf. 10:17) makes this the controlling subtext for his weakness-boast. Coherence is strong across the letter.",
+        "contested": false
+      },
+      {
+        "source": "Joshua 2:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The escape from Damascus, 'let down in a basket through a window by the wall,' replays Rahab lowering the spies by a rope through her window in the city wall. The shared escape-through-the-wall-window motif suggests Paul casts his flight in the idiom of the rescued/rescuing agent. Volume rests on the distinctive window-and-wall lowering.",
+        "contested": true,
+        "altSource": "1 Samuel 19:12"
+      },
+      {
+        "source": "1 Samuel 19:12",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Michal lets David down through a window so he escapes the king who seeks his life, a close structural parallel to Paul evading King Aretas's governor. The persecuted-servant-lowered-through-a-window motif coheres, though Paul does not cite it. Offered as an alternative/companion source to the Rahab episode; flagged low.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 41:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The God and Father... who is blessed forever more' follows the berakah pattern of the psalter's doxologies ('Blessed be the LORD... forever and ever, Amen'). Paul's eulogy formula is liturgically shaped by such blessings. Volume is formulaic and low; flagged contested.",
+        "contested": true
+      }
+    ]
+  }
+]

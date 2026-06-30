@@ -1,0 +1,289 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-3",
+    "echoes": [
+      {
+        "source": "Exodus 24:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The contrast 'not on tablets of stone' deliberately evokes the stone tablets God gave Moses, which Exodus 24:12 first announces ('the tables of stone, and the law, and the commandment, which I have written'). Volume is high (verbal 'tablets of stone') and the whole chapter is a sustained reading of the Sinai narrative, satisfying coherence and availability.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 31:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's 'tablets of stone written... with the Spirit of the living God' inverts Exodus 31:18, where the two tables of testimony were 'tables of stone, written with the finger of God.' The Spirit/finger-of-God substitution is a precise figural play, and the phrase 'tablets of stone' is near-quotation.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 32:15-16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Exodus 32:15-16 stresses that the tables were 'written on both their sides' and that 'the writing was the writing of God, graven upon the tables.' Paul's antithesis of divine writing on stone versus writing by the Spirit on hearts draws on this stone-tablet imagery; slightly lower volume than 31:18 since the verbal anchor is shared across the cluster.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 34:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Exodus 34:1 ('Hew thee two tables of stone like unto the first') supplies the renewed-covenant tablets that frame the very Exodus 34 narrative Paul exposits across the chapter. Coherence with the chapter's overall theme is strong, though the specific stone-tablet phrase is drawn from the whole cluster.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 31:33",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Written... on tablets of human hearts' echoes Jeremiah 31:33, where God promises to 'put my law in their inward parts, and write it in their hearts.' Recurrence is strong: Paul names a 'new covenant' (3:6) directly from Jer 31:31, making the heart-inscription allusion here mutually reinforcing and high-confidence.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:26",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Hearts of flesh' as the surface of inscription, contrasted with stone, directly takes up Ezekiel 36:26: 'I will take away the stony heart out of your flesh, and I will give you an heart of flesh.' The stone/flesh-heart antithesis is verbally exact and thematically central, scoring high on volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 11:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Ezekiel 11:19 ('I will take the stony heart out of their flesh, and will give them an heart of flesh') is the parallel oracle to 36:26 and joined to the gift of a 'new spirit,' which coheres with Paul's 'Spirit of the living God' writing on hearts of flesh. Recurrence across Ezekiel strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah 17:1 says Judah's sin is 'graven... upon the table of their heart' with a pen of iron — the inverse image of God's good writing on hearts. Paul may echo this 'table of the heart' idiom; volume is modest and the valence is reversed, so it is faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 3:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Proverbs 3:3 urges writing mercy and truth 'upon the table of thine heart,' a sapiential idiom for internalized teaching that Paul's heart-tablet language may draw on. The verbal overlap ('table of the heart') is real but the source is more plausibly the prophetic new-covenant texts, so this is a contested secondary echo.",
+        "contested": true,
+        "altSource": "Jeremiah 31:33"
+      },
+      {
+        "source": "Proverbs 7:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Proverbs 7:3 ('write them upon the table of thine heart') repeats the same sapiential heart-tablet idiom and reinforces its availability in Paul's scriptural vocabulary. Faint and contested for the same reason as 3:3; listed for recurrence of the idiom.",
+        "contested": true,
+        "altSource": "Jeremiah 31:33"
+      },
+      {
+        "source": "Deuteronomy 5:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Deuteronomy 5:22 recalls the Decalogue 'written... in two tables of stone' delivered at Horeb, part of the broad stone-tablet tradition behind Paul's antithesis. Lower volume than the Exodus passages, so a faint corroborating echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:4-6",
+    "echoes": [
+      {
+        "source": "Jeremiah 31:31",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Servants of a new covenant' (3:6) is a direct appropriation of Jeremiah 31:31, the only OT text to name a 'new covenant.' Volume and distinctiveness are very high, and it anchors the heart-writing allusions of 3:3 and the whole chapter's covenant theology.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:33",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The new-covenant promise that the law would be inward 'Spirit not letter' depends on Jeremiah 31:33 ('I will write it in their hearts'). Recurrence with 3:3 and 3:6's covenant language makes this a coherent, high-confidence allusion to the same oracle.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's 'Spirit gives life' against the death-dealing 'letter' draws on Ezekiel 36:27, 'I will put my spirit within you, and cause you to walk in my statutes' — the Spirit internalizing the law. This pairs with Jer 31 to ground the letter/Spirit antithesis and scores high on coherence.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The Spirit gives life' echoes the valley-of-bones promise, Ezekiel 37:14: 'I shall put my spirit in you, and ye shall live.' The life-giving function of the Spirit is verbally and thematically tight, and Ezekiel's spirit-life motif coheres with Paul's new-covenant argument.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Ezekiel 37:5-6 ('I will cause breath/spirit to enter into you, and ye shall live') reinforces the Spirit-vivifies-the-dead imagery behind 'the Spirit gives life.' Recurrence within Ezekiel 37 strengthens the allusion cluster; slightly lower volume than v.14.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The life-giving Spirit/breath that animates dead matter may echo Genesis 2:7, where God breathes the breath of life and man becomes a living soul. Plausible figural backdrop to 'the Spirit gives life,' but volume is low and the Ezekiel new-covenant texts are the nearer source, so contested.",
+        "contested": true,
+        "altSource": "Ezekiel 37:14"
+      },
+      {
+        "source": "Deuteronomy 30:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Deuteronomy 30:6 ('the LORD thy God will circumcise thine heart... that thou mayest live') anticipates the inward, life-giving renewal Paul ascribes to the Spirit over against the letter. A faint coherence-driven echo to the heart-circumcision tradition behind new-covenant interiority.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:7-11",
+    "echoes": [
+      {
+        "source": "Exodus 34:29-30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The children of Israel could not look steadfastly on the face of Moses for the glory of his face' is a close paraphrase of Exodus 34:29-30, where Moses' face shone and Aaron and Israel 'were afraid to come nigh him.' This is the interpretive center of the whole pericope; volume and coherence are maximal.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:35",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Exodus 34:35 ('the children of Israel saw the face of Moses, that the skin of Moses' face shone') supplies the shining-face datum Paul reads as a fading glory. Recurrence across 34:29-35 and verbal overlap ('face of Moses... shone/glory') make this a strong allusion.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The service of death, written engraved on stones' identifies the Mosaic ministry with the stone tablets of the renewed covenant in Exodus 34:1. The 'engraved on stones' phrase links the glory of Moses' face specifically to the inscribed Decalogue, a figural reading of the Exodus 34 tablets.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 31:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Written engraved on stones' recalls the tables 'written with the finger of God' (Exodus 31:18), the same tablets Paul names a 'ministry of death.' Reinforces the stone-tablet motif from 3:3; medium because the stone-tablet phrasing is shared across the Sinai cluster.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 9:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Deuteronomy 9:10 describes 'two tables of stone written with the finger of God' bearing the commandments — the engraved-on-stone law Paul calls the ministry of death/condemnation. A faint corroborating echo of the stone-engraving tradition.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:12-15",
+    "echoes": [
+      {
+        "source": "Exodus 34:33",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Moses, who put a veil on his face' directly cites Exodus 34:33: 'till Moses had done speaking with them, he put a vail on his face.' The veil is the load-bearing image of Paul's argument; verbal volume and coherence are maximal.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:35",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Exodus 34:35 ('Moses put the vail upon his face again, until he went in to speak with him') gives the repeated veiling Paul reinterprets as concealing the glory's end. Recurrence with 34:33 strengthens the allusion; Paul's 'reading of the old covenant' makes the Sinai veil a hermeneutical figure.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Israelites' inability to gaze (v.13, 'wouldn't look steadfastly on the end of that which was passing away') recalls their fear before Moses' shining face in Exodus 34:30. Coherent continuation of the shining-face motif into the veil pericope.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 6:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Their minds were hardened' and a veil 'on their heart' resonate with Isaiah 6:10's hardening of heart so the people cannot perceive — a stock prophetic hardening motif Paul applies to Israel's reading of Moses. Faint and contested, since the immediate frame is the Exodus veil.",
+        "contested": true,
+        "altSource": "Exodus 34:33"
+      },
+      {
+        "source": "Deuteronomy 29:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Deuteronomy 29:4 ('the LORD hath not given you an heart to perceive, and eyes to see... unto this day') parallels Paul's 'until this very day... a veil remains' and 'minds were hardened.' The 'unto this day' obduracy idiom is a plausible faint source; contested against the Exodus veil frame.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.5",
+    "ch": 3,
+    "ref": "3:16-18",
+    "echoes": [
+      {
+        "source": "Exodus 34:34",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Whenever one turns to the Lord, the veil is taken away' rewrites Exodus 34:34: 'when Moses went in before the LORD to speak with him, he took the vail off.' Paul transposes Moses' going-in-to-the-Lord into the believer's turning to the Lord; near-quotation with high volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:35",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'With unveiled face' (3:18) inverts Exodus 34:35, where Israel saw Moses re-veil his shining face; now all believers behold with face unveiled. The veil/unveiled antithesis depends directly on the Exodus 34 veiling scene.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Beholding/seeing the glory of the Lord... transformed into the same image from glory to glory' figurally generalizes Moses' transformation in Exodus 34:29, where his face shone from speaking with the LORD. Paul makes the Sinai theophany the pattern of Christian transfiguration; strong coherence with the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:26-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Transformed into the same image' draws on the creation of humanity 'in the image of God' (Genesis 1:26-27); the glory once on Moses' face is being restored as the divine image in believers. A figural creation/new-creation reading; medium because 'image' could be primarily Christological.",
+        "contested": true,
+        "altSource": "Genesis 5:1"
+      },
+      {
+        "source": "Psalm 8:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Psalm 8:5 ('crowned him with glory and honour') articulates humanity's glory, which Paul sees restored as believers go 'from glory to glory.' A faint thematic echo of the glory-of-the-image tradition; contested and low volume.",
+        "contested": true,
+        "altSource": "Genesis 1:26-27"
+      },
+      {
+        "source": "Exodus 16:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Seeing the glory of the Lord' uses the Exodus theophanic formula 'the glory of the LORD' (e.g., Exodus 16:7; 24:16-17; 40:34-35), the glory that settled on Sinai and the tabernacle. A faint availability echo of the wilderness glory tradition behind Paul's Sinai exposition.",
+        "contested": true,
+        "altSource": "Exodus 24:16"
+      },
+      {
+        "source": "Wisdom of Solomon 7:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As in a mirror' beholding glory and being transformed into the image may echo Wisdom 7:26, where Wisdom is 'the unspotted mirror of the power of God, and the image of his goodness.' A Second-Temple availability echo linking mirror, image, and divine glory; faint and contested.",
+        "contested": true
+      }
+    ]
+  }
+]

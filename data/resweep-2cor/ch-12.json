@@ -1,0 +1,235 @@
+[
+  {
+    "id": "12.1",
+    "ch": 12,
+    "ref": "12:1-6",
+    "echoes": [
+      {
+        "source": "Ezekiel 1:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul opens his account of ascent with the rubric 'visions and revelations of the Lord,' echoing the prophetic-apocalyptic technical language for throne and merkabah experience inaugurated by Ezekiel's 'I saw visions of God' (Ezek 1:1). The recurrence of such opening formulae across Ezekiel and Daniel makes this the native idiom Paul reworks; coherence is high since the whole pericope is a heavenly vision.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The apocalyptic 'visions' frame and the motif of being shown heavenly realities draw on Danielic seer-vision conventions, where Daniel beholds the divine throne 'in the visions of the night.' Faint and generic; flagged because Paul's vocabulary of revelation belongs to the Danielic apocalyptic stream that was available in the Second-Temple period.",
+        "contested": true,
+        "altSource": "1 Enoch 14"
+      },
+      {
+        "source": "Genesis 2:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul says the man was 'caught up into Paradise' (paradeisos), the LXX word for the garden 'God planted in Eden.' The localization of Paradise in the highest heaven is a Second-Temple development from the Eden narrative; volume is moderate because the loaded term Paradise is a direct lexical link to the Genesis garden as rendered by the LXX.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 28:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel's oracle places a figure 'in Eden, the garden of God,' fusing Eden with a glorious cosmic-mountain sanctuary, a trajectory that feeds the heavenly-Paradise of Paul's account. Coherence is strong because Ezekiel already relocates Eden into visionary, throne-adjacent space, the very move Paul presupposes when he equates the third heaven with Paradise.",
+        "contested": true,
+        "altSource": "1 Enoch 32:3"
+      },
+      {
+        "source": "Ezekiel 8:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's repeated uncertainty 'whether in the body or out of the body' and the verb 'caught up' recall prophetic rapture, as when the spirit 'lifted me up between earth and heaven' and brought Ezekiel in visions to Jerusalem. Faint but coherent: the motif of bodily-or-spiritual transport in vision is a prophetic precedent Paul reflexively invokes.",
+        "contested": true,
+        "altSource": "Ezekiel 3:12-14"
+      },
+      {
+        "source": "1 Kings 19:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'unspeakable words which it is not lawful to utter' loosely participates in the OT topos of an ineffable divine encounter, as at Horeb where the LORD passes by in a silence beyond the wind, earthquake, and fire. Very faint and contested; offered only because the apophatic restraint around theophany has OT roots, though Paul's secrecy is closer to apocalyptic sealing conventions.",
+        "contested": true,
+        "altSource": "Daniel 12:4"
+      },
+      {
+        "source": "Exodus 33:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The notion that what was heard 'is not lawful for a man to utter' resonates with the Sinai principle that direct apprehension of God's glory exceeds human bearing ('no man shall see me and live'). Faint; flagged because the unspeakable/unbearable quality of the highest revelation traces to the Mosaic theophany tradition Paul elsewhere engages closely (2 Cor 3).",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.2",
+    "ch": 12,
+    "ref": "12:7-10",
+    "echoes": [
+      {
+        "source": "Numbers 33:55",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'thorn in the flesh' draws on the LXX idiom for a persistent God-permitted affliction, where unexpelled inhabitants become 'thorns in your sides.' Volume and coherence are good: the metaphor of a thorn/goad lodged in the body as an ongoing scourge is precisely the OT figure Paul reworks into a personal torment.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 28:24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel promises Israel relief from 'a pricking brier and a grieving thorn' from hostile neighbors, the same skolops/thorn imagery for a chronic harassment. The recurrence of this exact figure (Num, Josh, Ezek) for a divinely-tolerated irritant strengthens the case that Paul's 'thorn' is biblical metaphor, not merely medical.",
+        "contested": false
+      },
+      {
+        "source": "Joshua 23:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Joshua warns that the remaining nations will be 'scourges in your sides and thorns in your eyes,' pairing thorn with scourge exactly as Paul pairs his thorn with a tormenting 'messenger of Satan.' The combined thorn-and-scourge motif, recurring across the conquest texts, gives strong intertextual coherence to Paul's affliction language.",
+        "contested": false
+      },
+      {
+        "source": "Job 2:6-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's 'messenger of Satan to torment me' closely mirrors the prologue of Job, where the LORD permits the Satan to strike Job's flesh with sore boils. The structural parallel is strong: a faithful servant afflicted in the body by Satan under divine permission for a higher purpose, which frames Paul's theodicy of the thorn.",
+        "contested": false
+      },
+      {
+        "source": "Job 2:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's resolve to 'take pleasure in weaknesses... for Christ's sake' and to receive affliction without rebellion echoes Job's acceptance, 'shall we receive good at the hand of God, and shall we not receive evil?' Coherence is high because both texts make Satanic bodily affliction the arena of tested faithfulness rather than divine abandonment.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 40:29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The divine word 'my power is made perfect in weakness' and 'when I am weak, then am I strong' enact Isaiah's promise that God 'gives power to the faint, and to him who has no might he increases strength.' Volume is moderate but thematic coherence is strong: strength supplied precisely at the point of human exhaustion is Isaiah's consolation reapplied to apostolic suffering.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:31",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's paradox that weakness is the condition of renewed power restates Isaiah's 'they who wait for the LORD shall renew their strength.' Recurrence within the same Isaianic passage (40:29-31) and Paul's documented dependence on Isaiah in 2 Corinthians strengthen the link beyond a generic strength-theme.",
+        "contested": true,
+        "altSource": "Isaiah 40:29"
+      },
+      {
+        "source": "Zechariah 4:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The principle that God's work advances through human weakness rather than human force recalls Zechariah's oracle, 'Not by might, nor by power, but by my Spirit.' Coherence is strong: both deny that strength is the basis of God's accomplishment, locating efficacy in divine power, though Paul's wording is his own.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 73:26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's confession that grace suffices when his own flesh fails echoes the psalmist's 'My flesh and my heart fails, but God is the strength of my heart.' The shared move from bodily failure to God as one's sustaining strength gives good thematic coherence to the grace-in-weakness motif.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 34:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise that grace is sufficient and Christ's power rests on the weak loosely reflects the psalmic conviction that 'the LORD is near to those of a broken heart.' Faint and generic; included because Paul's grace-to-the-afflicted theology participates in the psalter's nearness-to-the-lowly tradition.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 40:34",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The phrase that 'the power of Christ may rest on me' (lit. 'tabernacle/dwell upon me,' episkenoo) faintly evokes the glory that 'filled the tabernacle' and overshadowed it at its consecration. Faint but offered because Paul's verb is cognate to tabernacle/skene, suggesting the indwelling Shekinah-glory now resting on the apostle's weak body.",
+        "contested": true,
+        "altSource": "Numbers 9:18"
+      },
+      {
+        "source": "Isaiah 11:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'power of Christ' resting upon the apostle distantly echoes the Spirit of the LORD that 'shall rest upon' the messianic shoot. Faint; flagged because the resting of divine power/Spirit upon a chosen agent is an Isaianic figure, here transferred from Messiah to the one who bears Christ's power in weakness.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.3",
+    "ch": 12,
+    "ref": "12:11-13",
+    "echoes": [
+      {
+        "source": "Exodus 7:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul appeals to 'signs and wonders and mighty works' as the credentials of an apostle, using the fixed OT formula for God's authenticating acts, as when the LORD multiplied 'my signs and my wonders' in Egypt. Faint but coherent: the sign-and-wonder pairing is the Deuteronomistic vocabulary of divine accreditation that Paul transfers to apostolic ministry.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:34",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The triad 'signs and wonders and mighty works' echoes Deuteronomy's recital of how God took Israel 'by signs, and by wonders... and by a mighty hand.' Recurrence of this credal formula across Deuteronomy strengthens the case that Paul deliberately borrows the language of God's saving demonstrations to mark genuine apostleship.",
+        "contested": true,
+        "altSource": "Deuteronomy 34:11"
+      }
+    ]
+  },
+  {
+    "id": "12.4",
+    "ch": 12,
+    "ref": "12:14-18",
+    "echoes": [
+      {
+        "source": "Proverbs 13:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's maxim 'the parents should save up for the children, not the children for the parents' inverts and applies the proverbial principle that 'a good man leaves an inheritance to his children's children.' Coherence is good because Paul reasons from the accepted wisdom convention of parental provision to justify his refusal to burden his spiritual children.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 19:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The assumption that fathers lay up substance for their offspring also reflects 'house and riches are an inheritance from fathers.' Faint and overlapping with Prov 13:22; included to register the broader wisdom topos of inherited parental provision that undergirds Paul's analogy.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.5",
+    "ch": 12,
+    "ref": "12:19-21",
+    "echoes": [
+      {
+        "source": "Jeremiah 9:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's feared catalog of communal sins (strife, jealousy, anger, slander, whisperings) echoes the prophetic indictments of Israel's social corruption, as in Jeremiah's complaint that the tongue 'speaks deceit... one speaks peaceably to his neighbour with his mouth, but in his heart he lays his wait.' Faint and diffuse, but coherent with the prophetic tradition of cataloguing the sins that fracture the covenant community.",
+        "contested": true,
+        "altSource": "Proverbs 6:16-19"
+      },
+      {
+        "source": "Proverbs 6:16-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's vice-list culminating in one who 'sows discord' parallels the wisdom catalog of things the LORD hates, which ends with 'one who sows discord among brothers' and includes a lying tongue and a false witness. The shared form of an enumerated list of community-destroying sins gives modest coherence, though Paul's specific terms are his own.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 26:41",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's fear that God 'would humble me before you' and that he must mourn over the unrepentant draws on the covenantal pattern wherein the people's 'uncircumcised heart' is humbled until they repent. Faint; flagged because the humbling-then-mourning-over-sin sequence reflects the Levitical/Deuteronomic logic of covenant discipline.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 23:48",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's lament over 'the uncleanness and sexual immorality and lustfulness' of the unrepentant echoes Ezekiel's prophetic language of Israel's lewdness and uncleanness for which the people must be judged and turned. Faint and thematic; included because Paul's grief over sexual impurity in the congregation belongs to the prophetic idiom of denouncing covenantal 'uncleanness.'",
+        "contested": true,
+        "altSource": "Numbers 25:1"
+      }
+    ]
+  }
+]

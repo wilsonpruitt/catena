@@ -1,0 +1,244 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-2",
+    "echoes": [
+      {
+        "source": "Genesis 3:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's 'craftiness' (panourgia) echoes the LXX description of the serpent as panourgos in Genesis 3:1, a link he makes explicit at 2 Cor 11:3. Coherence is decent (Paul's recurring serpent/deception polemic) but volume here is faint, so the verbal contact is best treated as a thematic echo.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 12:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Handling the word of God deceitfully' versus 'manifestation of the truth' replays the wisdom contrast between deceitful counsels and honest speech. The link is generic to the sapiential tradition rather than to a single verse, hence low volume.",
+        "contested": true,
+        "altSource": "Psalm 12:2"
+      }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:3-6",
+    "echoes": [
+      {
+        "source": "Isaiah 6:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'god of this world has blinded the minds' so they cannot see the light recasts Isaiah's hardening commission, where eyes are made blind 'lest they see.' High recurrence in Paul (Rom 11:8) and strong coherence with the veiling theme of ch. 3 support a deliberate allusion.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 29:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Deuteronomy's lament that the LORD had 'not given a heart to know, eyes to see' supplies the unbelief-as-imposed-blindness motif Paul fuses with Isaiah. Paul cites this very verse in Rom 11:8, raising its availability and coherence here.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Servant's task to 'open blind eyes' frames Paul's gospel as the light that should dawn; 42:19's 'blind servant' sharpens the irony of unbelieving blindness. Volume is moderate but coherence with the Isaianic light/blindness cluster Paul is mining is strong.",
+        "contested": true,
+        "altSource": "Isaiah 42:19"
+      },
+      {
+        "source": "Genesis 1:26",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Calling Christ 'the image of God' reads the creation of humanity in God's image figurally, with Christ as the true eikon. The pairing of image (4:4) and the creation of light (4:6) keys the whole pericope to Genesis 1, making this a deliberate new-creation typology.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 7:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Wisdom as 'image of his goodness' and radiance of glory is the Second-Temple lexicon for Christ as 'image of God' and 'glory of Christ.' Availability and coherence are high; volume rests on shared eikon/glory vocabulary rather than a quotation.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:3",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'God who said, Light will shine out of darkness' rewords the creation fiat, presenting conversion as a new act of creation in the heart. The volume is high (clear verbal evocation of the fiat lux) and coherent with the Genesis 1 image motif of 4:4.",
+        "contested": false
+      },
+      {
+        "source": "Habakkuk 2:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The light of the knowledge of the glory of God' closely tracks Habakkuk's promise that the earth will be filled with 'the knowledge of the glory of the LORD.' The triple chain knowledge-glory-LORD is distinctive enough to register as more than coincidence.",
+        "contested": true,
+        "altSource": "Isaiah 11:9"
+      },
+      {
+        "source": "Isaiah 9:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Light shining on those in darkness echoes Isaiah's people who 'walked in darkness' seeing a great light, reinforcing the gospel-as-dawn imagery. Coherent with the Isaianic light theme already in play, though the verbal contact is general.",
+        "contested": true,
+        "altSource": "Isaiah 60:1"
+      },
+      {
+        "source": "Exodus 34:29",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The glory of God in the face of Jesus Christ' continues ch. 3's contrast with the glory on Moses' face, transferring the shining-face motif to Christ. Recurrence from the immediately prior argument makes the Exodus glory narrative the controlling subtext.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:7",
+    "echoes": [
+      {
+        "source": "Lamentations 4:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Precious sons of Zion' reckoned as 'earthen pots, the work of the potter' supplies the exact pairing of priceless worth held in cheap clay vessels that Paul exploits. The treasure/earthen-vessel antithesis gives this strong coherence and notable volume.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The 'clay vessel' housing divine power evokes the human creature formed from dust and animated by God's breath, so the frailty is constitutive of creaturehood. Figural rather than verbal, but it grounds Paul's 'not from ourselves' in the dust-origin of humanity.",
+        "contested": true,
+        "altSource": "Job 10:9"
+      },
+      {
+        "source": "Isaiah 64:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'We are the clay, you our potter' establishes the creature-as-vessel theme that Paul presses to magnify God's power over human weakness. Availability and coherence are strong within Paul's potter/clay usage (Rom 9:21).",
+        "contested": true,
+        "altSource": "Jeremiah 18:6"
+      },
+      {
+        "source": "Job 4:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Those who 'dwell in houses of clay' and are easily crushed parallel the fragility of the clay vessel motif. Volume is faint and the contact is conceptual, so it functions only as a supporting echo.",
+        "contested": true
+      },
+      {
+        "source": "Judges 7:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Gideon's torches hidden in clay jars, broken to flash God's deliverance, joins the light of 4:6 to the clay vessels of 4:7: divine power shines precisely when the fragile jar is shattered. The shared jar+light+power configuration gives this a striking coherence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:8-9",
+    "echoes": [
+      {
+        "source": "Psalm 118:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Struck down, yet not destroyed' closely matches the psalmist's 'the LORD has chastened me severely, but has not given me over to death.' The structure of severe affliction stopped just short of destruction is the same, supplying good volume for the climactic clause.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 37:24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Though he fall, he shall not be utterly cast down, for the LORD upholds his hand' mirrors the not-forsaken/not-destroyed paradox of the righteous sufferer. Coherent with Paul's hardship-catalog theology of divine sustenance.",
+        "contested": true,
+        "altSource": "Psalm 34:19"
+      },
+      {
+        "source": "Deuteronomy 31:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Pursued, yet not forsaken' echoes the covenant assurance that God 'will not leave you nor forsake you.' The phrase is widespread, so volume is low and the link is a general scriptural commonplace.",
+        "contested": true,
+        "altSource": "Psalm 9:10"
+      }
+    ]
+  },
+  {
+    "id": "4.5",
+    "ch": 4,
+    "ref": "4:10-12",
+    "echoes": [
+      {
+        "source": "Psalm 44:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Always delivered to death for Jesus' sake' anticipates the very verse ('we are killed all day long') Paul quotes at Rom 8:36, casting apostolic suffering as the lot of the faithful slain for God. Recurrence in Paul lends the echo weight.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:10",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Carrying 'the putting to death of Jesus' so that 'life may be revealed' loosely figures the Servant whose death yields life and offspring. The contact is thematic and contested, with no verbal tether, hence figural and low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.6",
+    "ch": 4,
+    "ref": "4:13-15",
+    "echoes": [
+      {
+        "source": "Psalm 116:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'I believed, and therefore I spoke' is an explicit citation (introduced by 'according to that which is written') of the LXX of Psalm 115:1 (MT 116:10). The marked quotation formula and verbatim wording make this an unambiguous quotation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He who raised the Lord Jesus will raise us also' draws on the OT hope that 'your dead shall live,' the Scriptural seedbed of bodily resurrection. The link is conceptual and shared with Daniel 12:2, so low volume.",
+        "contested": true,
+        "altSource": "Daniel 12:2"
+      }
+    ]
+  },
+  {
+    "id": "4.7",
+    "ch": 4,
+    "ref": "4:16-18",
+    "echoes": [
+      {
+        "source": "Exodus 33:18",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The 'eternal weight of glory' puns on the Hebrew kabod, which means both 'weight' and 'glory,' the very glory Moses asked to see. Paul's running engagement with the Exodus glory theme (chs. 3-4) makes the wordplay plausible, though no verse is quoted.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 51:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The things which are seen are temporal, but the unseen are eternal' echoes Isaiah's contrast that the heavens and earth 'will vanish away' while God's salvation 'shall be forever.' The transient-visible versus everlasting antithesis aligns well, giving moderate coherence.",
+        "contested": true,
+        "altSource": "Isaiah 40:6"
+      },
+      {
+        "source": "Psalm 103:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'inward man renewed day by day' against the decaying outward man faintly echoes the renewal of youth 'like the eagle's.' The contact is thematic and weak, so it serves only as a low-confidence supporting echo.",
+        "contested": true,
+        "altSource": "Isaiah 40:31"
+      }
+    ]
+  }
+]

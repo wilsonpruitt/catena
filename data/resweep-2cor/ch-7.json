@@ -1,0 +1,152 @@
+[
+  {
+    "id": "7.1",
+    "ch": 7,
+    "ref": "7:1",
+    "echoes": [
+      {
+        "source": "Leviticus 11:44-45",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's call to 'perfect holiness' (cleansing from defilement) draws on the Holiness Code's central formula 'be holy, for I am holy,' which grounds Israel's purity in God's holiness. Coherence is strong with Paul's preceding temple-of-God argument (6:16-18), and the cleansing-for-holiness logic matches Leviticus directly. Volume is moderate since Paul does not quote, but the conceptual fusion of cleansing and consecration is distinctly Levitical.",
+        "contested": false,
+        "altSource": "Leviticus 19:2; Leviticus 20:7-8"
+      },
+      {
+        "source": "Isaiah 1:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Isaiah's prophetic summons 'wash yourselves, make yourselves clean, remove the evil of your deeds' supplies the ethical-cleansing register Paul uses against 'defilement of flesh and spirit.' The echo moves the cultic language of purity into moral self-purification, exactly Isaiah's prophetic move. Recurrence of Isaiah elsewhere in the chapter (49:13 below) strengthens the case for availability and authorial intent.",
+        "contested": true,
+        "altSource": "Jeremiah 4:14"
+      },
+      {
+        "source": "Ezekiel 36:25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel's promise 'I will sprinkle clean water on you, and you shall be clean from all your uncleannesses' is the closest OT antecedent for cleansing from 'all defilement,' especially since 36:26-27 supplies the new-covenant Spirit Paul invokes throughout 2 Cor 3-7. The pairing of cleansing with the Spirit ('defilement of flesh and spirit') coheres tightly with Ezekiel's water-and-Spirit sequence. Volume is moderate; the link rests on shared cleansing-plus-Spirit logic rather than verbal quotation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 24:3-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The temple-ascent question 'who shall stand in his holy place? He who has clean hands and a pure heart' parallels Paul's pairing of bodily and spiritual cleansing as prerequisite for holiness before God. Given the preceding temple imagery (6:16), the figural fit is real but the volume is faint and the language general. Marked low and contested because purity-of-heart language is widespread.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 1:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul completes holiness 'in the fear of God,' the wisdom tradition's foundational posture ('the fear of the LORD is the beginning of knowledge'). The phrase is idiomatic across the OT, so volume is low and recurrence diffuse, but the wisdom resonance is genuine and coheres with Paul's ethical exhortation. Contested because 'fear of God' is a stock biblical idiom rather than a specific citation.",
+        "contested": true,
+        "altSource": "Proverbs 9:10; Psalm 111:10"
+      }
+    ]
+  },
+  {
+    "id": "7.2",
+    "ch": 7,
+    "ref": "7:2-4",
+    "echoes": [
+      {
+        "source": "1 Samuel 12:3-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's threefold self-vindication 'we wronged no one, we corrupted no one, we took advantage of no one' echoes Samuel's farewell defense before Israel ('whom have I wronged? whom have I oppressed? from whose hand have I taken a bribe?'). Both are leaders asserting integrity against a congregation amid suspicion, a strong coherence of setting. Volume is moderate: the rhetorical form of a serial disavowal of exploitation is the shared feature rather than exact wording.",
+        "contested": false,
+        "altSource": "Numbers 16:15"
+      }
+    ]
+  },
+  {
+    "id": "7.3",
+    "ch": 7,
+    "ref": "7:5-7",
+    "echoes": [
+      {
+        "source": "Isaiah 49:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's title for God, 'he who comforts the lowly/downcast,' closely renders Isaiah 49:13 ('the LORD has comforted his people and will have compassion on his afflicted'), part of the Servant-Songs comfort tradition Paul mines throughout 2 Corinthians. The verbal link of God-comforting-the-afflicted is high in volume, and Isaiah's recurrence across the letter (and within this chapter) satisfies availability and recurrence. Coherence is strong: Paul casts his own affliction-and-comfort in Isaian terms.",
+        "contested": false,
+        "altSource": "Isaiah 40:1; Isaiah 66:13"
+      },
+      {
+        "source": "Isaiah 40:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The programmatic 'comfort, comfort my people, says your God' underlies the whole consolation vocabulary of 2 Cor 1-7 and resurfaces here in 'God comforted us.' Recurrence is strong because Paul's repeated paraklesis language draws on Deutero-Isaiah's comfort oracle. Volume here is moderate, since 49:13 is the nearer verbal parallel and 40:1 supplies the broader thematic frame.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 66:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As one whom his mother comforts, so I will comfort you' is part of the same Isaian comfort cluster as 49:13 and may stand behind Paul's God-who-comforts language. Volume is faint and it overlaps heavily with the stronger 49:13 link, so it is marked low and contested. Listed for completeness of the Isaian consolation field.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 113:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God 'who comforts the lowly' resonates with the psalmic motif of God raising the poor from the dust and lifting the needy to sit with princes. The reversal-of-the-lowly theme coheres with Paul's self-description as cast down then comforted, but the volume is low and the link is conceptual rather than verbal. Contested as a general lowliness-exaltation topos.",
+        "contested": true,
+        "altSource": "1 Samuel 2:8"
+      },
+      {
+        "source": "Job 5:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He sets on high those who are lowly, and those who mourn are lifted to safety' parallels Paul's 'God who comforts the lowly' alongside the Corinthians' 'mourning' (7:7). The shared lowly-and-mourning pairing is suggestive, but Job is rarely echoed by Paul and the volume is faint. Marked low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.4",
+    "ch": 7,
+    "ref": "7:8-13",
+    "echoes": [
+      {
+        "source": "Joel 2:12-13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's contrast of 'godly grief that produces repentance' against 'worldly grief that produces death' draws on the prophetic repentance tradition where genuine turning is inward ('return to me with all your heart... rend your hearts and not your garments'). Joel's heart-repentance leading to life coheres with Paul's salvation-bringing sorrow. Volume is moderate and conceptual, resting on the prophetic repentance schema rather than wording.",
+        "contested": true,
+        "altSource": "Hosea 14:1-2"
+      },
+      {
+        "source": "Psalm 51",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The paradigm of godly sorrow yielding repentance unto salvation evokes David's penitential psalm, where 'a broken and contrite heart' is the sacrifice God accepts and the path to restored salvation (51:12, 17). Coherence with Paul's salvific, non-regretted sorrow is strong; volume is moderate since Paul alludes to the penitential pattern rather than quoting. The contrite-heart-unto-restoration logic is the shared structure.",
+        "contested": true,
+        "altSource": "Psalm 38:18"
+      },
+      {
+        "source": "Proverbs 14:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'There is a way that seems right to a man, but its end is the way of death' parallels Paul's 'the sorrow of the world produces death,' the wisdom antithesis of two ways ending in life or death. The death-as-terminus motif coheres, but the volume is faint and the link conceptual. Marked low and contested as a general two-ways topos.",
+        "contested": true,
+        "altSource": "Proverbs 16:25; Deuteronomy 30:15-19"
+      }
+    ]
+  },
+  {
+    "id": "7.5",
+    "ch": 7,
+    "ref": "7:14-16",
+    "echoes": [
+      {
+        "source": "Psalm 2:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Corinthians received Titus 'with fear and trembling,' a phrase whose OT home includes 'serve the LORD with fear, and rejoice with trembling.' Paul uses fear-and-trembling elsewhere as a posture of reverent obedience, so the idiom likely carries a Septuagintal coloring here. Volume is low and the phrase is a stock biblical collocation, so it is marked low and contested.",
+        "contested": true,
+        "altSource": "Exodus 15:16; Isaiah 19:16"
+      }
+    ]
+  }
+]
