@@ -1,0 +1,206 @@
+[
+  {
+    "id": "6.1",
+    "ch": 6,
+    "ref": "6:1-5",
+    "echoes": [
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Bear one another's burdens, and so fulfill the law of Christ\" (v.2) recapitulates Paul's reading of Lev 19:18 as the whole law's summation, already explicit in Gal 5:14. Volume and recurrence within Galatians are high; the burden-bearing of v.2 specifies the neighbor-love command in concrete mutual care. The clearest OT substrate for \"fulfill the law\" here.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 4:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Restoring the one \"caught in some fault\" and mutual responsibility may faintly evoke Cain's \"Am I my brother's keeper?\" as the negative foil. Volume is thin and there is no verbal contact; offered as a contested figural counterpoint to communal accountability.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 24:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Restore such a one\" and the duty not to ignore the stumbling brother resonates with the sapiential charge to rescue those being led to ruin. Coherence with Paul's communal ethic is moderate but verbal availability is weak; marked contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.2",
+    "ch": 6,
+    "ref": "6:6-10",
+    "echoes": [
+      {
+        "source": "Job 4:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Whatever a man sows, that he will also reap\" (v.7) draws on the wisdom maxim of moral retribution stated in Job 4:8, \"those who plow iniquity and sow trouble reap the same.\" The sowing/reaping figure is a stock OT idiom; volume is high and coherence with Paul's flesh-vs-Spirit harvest (v.8) is strong.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 8:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Hosea's \"they sow the wind and reap the whirlwind\" is the prophetic locus for inexorable sowing-reaping judgment, closely matching Gal 6:7-8's certainty that the harvest answers the seed. Recurrence of the agricultural-judgment topos across the prophets supports availability; coherence with reaping corruption is high.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 10:12-13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Hosea 10:12-13 opposes sowing righteousness/steadfast love and reaping accordingly versus plowing iniquity and reaping injustice, the same antithetical structure as Paul's sowing to the flesh vs. to the Spirit (v.8). The two-way harvest imagery makes this among the strongest prophetic substrates for the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 22:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Whoever sows injustice will reap calamity\" supplies the sapiential form of the maxim Paul cites in v.7. Volume is moderate and the proverb belongs to the same cluster as Job 4:8; coherence is high though no single source is quoted verbatim.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 11:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Whoever sows righteousness gets a sure reward\" matches the positive pole of Paul's harvest (\"sows to the Spirit will reap eternal life,\" v.8) and the promise of v.9 that doing good will reap in due season. Part of the wisdom sowing-cluster; offered as a corroborating echo rather than a single source.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 7:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Do not sow in the furrows of injustice, lest you reap them sevenfold\" is the Second-Temple form of the maxim, demonstrating its currency in Paul's milieu (availability). Volume is moderate; it strengthens the case that v.7 cites a proverbial commonplace rather than one prophet.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 11:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"We will reap in due season\" (v.9) may faintly recall the covenant promise of rain and harvest \"in its season\" for obedience. Coherence with eschatological reaping is partial and the verbal link is thin; marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 126:5-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Those who sow in tears shall reap with shouts of joy\" parallels v.9's encouragement not to grow weary because reaping comes in due season if one does not give up. The consolatory sowing-reaping reversal coheres with Paul's exhortation, though there is no verbal citation; contested.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 32:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"God is not mocked\" (v.7) resonates with the Song of Moses' rebuke of the people who treat the LORD with contempt and with the broader OT motif that God will not be derided. Volume is low and no single text is in view; offered as a faint contested backdrop.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.3",
+    "ch": 6,
+    "ref": "6:11-15",
+    "echoes": [
+      {
+        "source": "Isaiah 65:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Neither circumcision... but a new creation\" (v.15) draws on Isaiah's \"new heavens and a new earth,\" the prophetic announcement of God's eschatological re-creation. Recurrence of the new-creation theme across Isaiah and coherence with Paul's crucified-world (v.14) make this the primary OT source for kaine ktisis.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 66:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah 66:22's \"new heavens and new earth\" that shall remain reinforces 65:17 as the scriptural matrix for the abiding \"new creation\" of v.15. The pairing supplies recurrence within Isaiah; coherence with Paul's contrast between old marks-in-the-flesh and new creation is strong.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:18-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Do not remember the former things... I am doing a new thing\" frames the new creation as the displacement of what is old, paralleling Paul's relegation of circumcision/uncircumcision to nothing (v.15). Volume is moderate and the theme is part of Isaiah's new-exodus cluster.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The promise of a \"new heart\" and \"new spirit\" undergirds Paul's interior new-creation reality over against fleshly circumcision (vv.12-15). Coherence with the flesh/Spirit antithesis of the chapter is high, though the language is anthropological rather than cosmic; corroborating echo.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 9:25-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's oracle that God will punish all who are \"circumcised yet uncircumcised\"—Israel being uncircumcised in heart—anticipates Paul's devaluing of fleshly circumcision in favor of inward transformation (vv.12-15). Volume is moderate; the prophetic relativizing of physical circumcision strongly coheres with Paul's argument.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 10:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Circumcise the foreskin of your heart\" supplies the Torah's own move from fleshly to inward circumcision, the trajectory Paul completes with \"new creation\" (v.15). Coherence is high and the motif recurs (Deut 30:6); offered as a corroborating echo of the heart-circumcision tradition.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "6.4",
+    "ch": 6,
+    "ref": "6:16-18",
+    "echoes": [
+      {
+        "source": "Psalm 125:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Peace... on God's Israel\" (v.16) echoes the psalm's closing benediction \"Peace be upon Israel,\" a liturgical blessing Paul redirects to those who walk by the rule of new creation. Volume and the formulaic shape (peace-upon-Israel) are high; coherence with a closing benediction is exact.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 128:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Psalm 128:6 likewise ends \"Peace be upon Israel,\" reinforcing v.16 as a deliberate echo of the Psalter's pilgrimage benediction. Recurrence of the exact phrase across Pss 125 and 128 strengthens availability; Paul invokes the blessing while redefining its recipients.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 6:24-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Aaronic benediction—\"the LORD... give you peace\"—is the liturgical fountainhead for pronouncing peace and mercy upon Israel (v.16). Volume of the peace-blessing motif is high though the verbal contact is thematic; coherence with a closing apostolic blessing is strong.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 9:4-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"I bear the marks of the Lord Jesus branded on my body\" (v.17) evokes the protective mark (taw) set on the foreheads of the faithful who are spared the slaughter. The marking that distinguishes God's own coheres with Paul's stigmata as the true seal over against circumcision; verbal contact is figural but apt.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 44:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's image of one who \"writes on his hand, 'The LORD's,'\" marking belonging to God, parallels Paul's bodily \"marks of Jesus\" (v.17) as a sign of ownership. Coherence with the slave-brand/belonging motif is good; volume is moderate and the link is figural.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 28:36-38",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The high-priestly gold plate engraved \"Holy to the LORD\" worn on the body has been proposed as background for Paul's engraved marks of Jesus (v.17). The cultic-engraving association is suggestive but verbally remote; offered as a contested, low-volume echo.",
+        "contested": true,
+        "altSource": "Ezekiel 9:4-6"
+      },
+      {
+        "source": "Leviticus 19:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Torah's prohibition of cutting marks in the flesh forms an ironic backdrop to Paul's embrace of the \"marks of Jesus\" (v.17) as honorable wounds. The connection is conceptual rather than citational and runs by contrast; marked contested.",
+        "contested": true
+      }
+    ]
+  }
+]

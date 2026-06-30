@@ -1,0 +1,257 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1",
+    "echoes": [
+      {
+        "source": "Leviticus 26:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's 'yoke of bondage/slavery' inverts the exodus formula where God 'broke the bars of your yoke' and made Israel walk upright after Egyptian slavery. Volume is fair (the yoke-of-slavery image is distinctively exodus/covenant) and coheres with Paul's whole exodus-from-law typology in Galatians. The redemptive-liberation logic matches closely.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 25:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Jubilee proclamation of 'liberty (deror) throughout the land' may underlie Paul's stress on the freedom for which Christ liberated. Coherence is real (release from debt-servitude) but volume is faint; the verbal link runs through the LXX language of eleutheria rather than direct citation.",
+        "contested": true,
+        "altSource": "Isaiah 61:1"
+      },
+      {
+        "source": "Isaiah 61:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant's anointing 'to proclaim liberty to the captives' is a Second-Temple touchstone for eschatological release that Paul's freedom language may draw upon. Faint volume and no verbal quotation, but the messianic-liberty theme coheres with Christ as the agent who 'made us free.'",
+        "contested": true,
+        "altSource": "Leviticus 25:10"
+      },
+      {
+        "source": "Jeremiah 28:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah's sign-act of the broken/iron yoke (chs. 27-28) gives the prophetic vocabulary of a yoke as imposed servitude that is broken or re-imposed. Coherence is moderate but recurrence is weak; the image is generic enough that direct dependence is uncertain.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:2-6",
+    "echoes": [
+      {
+        "source": "Genesis 17:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's whole argument about receiving circumcision presupposes the Abrahamic covenant of circumcision as the sign binding one to the law. Availability and volume are strong as the institutional backdrop, even though Paul does not cite the words. The figural reversal (circumcision now profits nothing) depends on the reader knowing this text.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 27:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Being 'a debtor to do the whole law' restates the Deuteronomic curse on everyone who does not confirm all the words of the law to do them, which Paul quotes explicitly at 3:10. Recurrence within Galatians is high, making the echo here coherent and deliberate.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 18:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The demand to 'do the whole law' resonates with the Levitical maxim that the one who does these statutes shall live by them, which Paul cites at 3:12. Volume is moderate but the verbal contact here is thematic rather than lexical.",
+        "contested": true,
+        "altSource": "Deuteronomy 27:26"
+      },
+      {
+        "source": "Habakkuk 2:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Through the Spirit, by faith we wait for the hope of righteousness' recalls the prophetic axiom that the righteous shall live by faith, which Paul cites at 3:11. The faith-righteousness pairing coheres strongly, though here it is allusive rather than quoted.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:7-12",
+    "echoes": [
+      {
+        "source": "Exodus 12:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'A little yeast leavens the whole lump' draws on the Passover/Unleavened Bread command to purge all leaven from the house, where leaven functions as a spreading defilement. Volume and availability are high; the agricultural proverb is freighted with the cultic logic of total removal that fits Paul's warning about the agitators.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 13:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The reinforcing command that no leaven be seen in all your borders during the feast undergirds the same purity image. Recurrence across the Exodus leaven texts strengthens the figural force of contamination spreading through the community.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 23:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's wish that the circumcisers would 'cut themselves off' (mutilate/emasculate) trades on the law excluding the emasculated from the assembly of the LORD, a bitterly ironic inversion: those zealous for circumcision are told to go further and be excluded. Coherence and wordplay are strong though the dependence is contested versus a generic castration gibe.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 8:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The stumbling block of the cross' echoes the prophetic stone of stumbling and rock of offense, a Second-Temple testimony Paul uses elsewhere. Volume is faint here and the link is thematic; the contact may run through shared early-Christian stone testimonia.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.4",
+    "ch": 5,
+    "ref": "5:13-15",
+    "echoes": [
+      {
+        "source": "Leviticus 19:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Paul cites verbatim 'You shall love your neighbor as yourself,' declaring the whole law fulfilled in this one word. This is an explicit LXX quotation with the highest volume and availability; it is the interpretive center of the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 27:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'If you bite and devour one another' echoes the psalmist's enemies who draw near 'to eat up my flesh,' supplying the predatory cannibal imagery for internal strife. Volume is modest and the metaphor is conventional, so dependence is plausible but uncertain.",
+        "contested": true,
+        "altSource": "Micah 3:3"
+      },
+      {
+        "source": "Micah 3:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Micah's indictment of leaders who 'eat the flesh of my people' and tear their skin matches Paul's imagery of mutual consuming as social predation. The prophetic backdrop coheres with the moral charge, though the image is widespread enough to be only an echo.",
+        "contested": true,
+        "altSource": "Psalm 27:2"
+      },
+      {
+        "source": "Proverbs 30:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wisdom portrait of a generation whose teeth are swords 'to devour the poor' reinforces the same devouring-one-another trope. Faint volume; offered as a maximal candidate within the predatory-mouth field.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.5",
+    "ch": 5,
+    "ref": "5:16-18",
+    "echoes": [
+      {
+        "source": "Ezekiel 36:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Walk by the Spirit' and being 'led by the Spirit' echo the new-covenant promise that God will put his Spirit within and cause his people to walk in his statutes. Coherence is strong with Paul's Spirit-versus-law contrast, and availability is high in Second-Temple Spirit-endowment hope.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 143:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let your good Spirit lead me on level ground' supplies the rare motif of the divine Spirit as the agent of moral guidance behind Paul's 'led by the Spirit.' Volume is low but the verbal pairing of Spirit and leading is distinctive.",
+        "contested": true,
+        "altSource": "Isaiah 63:14"
+      },
+      {
+        "source": "Isaiah 63:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The exodus retrospect where the Spirit of the LORD gave Israel rest and led the people gives a prophetic precedent for Spirit-leading. Faint and contested, but it coheres with Paul's exodus-shaped Spirit theology.",
+        "contested": true,
+        "altSource": "Psalm 143:10"
+      }
+    ]
+  },
+  {
+    "id": "5.6",
+    "ch": 5,
+    "ref": "5:19-21",
+    "echoes": [
+      {
+        "source": "Deuteronomy 18:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The vice 'sorcery' (pharmakeia) names a practice condemned in the Deuteronomic catalog of diviners and sorcerers, signaling that Paul's list draws the flesh's works partly from Torah's prohibited paganisms. Coherence with idolatry (next item) strengthens the covenantal framing.",
+        "contested": true,
+        "altSource": "Exodus 22:18"
+      },
+      {
+        "source": "Exodus 20:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Idolatry' as the head of the cultic vices echoes the Decalogue's first/second commandments against other gods and images. Availability and recurrence are high; idolatry is the paradigmatic covenant breach the prophets repeatedly indict.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 4:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Hosea's catalog of swearing, lying, killing, stealing, and adultery breaking out is a prophetic vice-list precedent for Paul's enumerated 'works of the flesh.' The form-critical parallel coheres, though Paul's specific items are largely Hellenistic, so the dependence is a structural echo rather than citation.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 14:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The deuterocanonical vice-catalog spawned by idolatry (bloodshed, deceit, corruption, disorder, sexual confusion) is a close Second-Temple analogue to Paul's idolatry-rooted list. Availability is strong and the genre match is notable, supporting a Hellenistic-Jewish background for the form.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.7",
+    "ch": 5,
+    "ref": "5:22-23",
+    "echoes": [
+      {
+        "source": "Isaiah 32:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'fruit of the Spirit' yielding peace and righteousness recalls Isaiah's vision of the Spirit poured from on high making the wilderness fruitful so that the effect of righteousness is peace. The agricultural Spirit-fruit-peace cluster coheres closely with Paul's metaphor.",
+        "contested": true,
+        "altSource": "Isaiah 11:2"
+      },
+      {
+        "source": "Isaiah 11:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The sevenfold endowment resting on the messianic shoot (wisdom, counsel, knowledge, fear of the LORD) is the OT prototype of Spirit-borne virtue catalogs that Paul's nine-fold list develops. Volume is faint and the items differ, so this is an underlying conceptual echo of Spirit-given character.",
+        "contested": true,
+        "altSource": "Isaiah 32:15"
+      }
+    ]
+  },
+  {
+    "id": "5.8",
+    "ch": 5,
+    "ref": "5:24-26",
+    "echoes": [
+      {
+        "source": "Ezekiel 37:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'If we live by the Spirit' resonates with Ezekiel's promise 'I will put my Spirit in you and you shall live,' the new-covenant linkage of Spirit and resurrection-life. Coherence is good with Paul's Spirit-life theme, though here it is a faint thematic echo without verbal citation.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The pairing of Spirit/breath and life behind 'live by the Spirit' may distantly invoke the creation account where God's breath makes the human a living being, now read pneumatologically. Very faint volume; offered as a maximal figural candidate.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-5",
+    "echoes": [
+      {
+        "source": "Isaiah 53:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'who gave himself for our sins' renders the Servant who bears iniquity; LXX Isa 53:6 'the Lord gave him up for our sins' (paredoken auto tais hamartiais hemon) is verbally close to Paul's 'gave himself for our sins.' Volume is moderate, thematic coherence high (vicarious death), and the Servant is firmly available in Second-Temple use.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The self-giving sin-offering ('when you make his soul an offering for sin') undergirds 'gave himself for our sins.' Coheres with Isa 53:6 as a Servant matrix Paul presupposes; counted distinctly because the offering-language adds the cultic note. Contested only as to which Servant verse is primary.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 6:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'that he might deliver us out of this present evil age' draws on the Exodus deliverance vocabulary (rescue from bondage by God's act). The age-from-which-rescued substitutes for Egypt; faint and figural, but the deliverance verb-frame is a deep OT staple. Marked low/contested as a generic redemption motif.",
+        "contested": true,
+        "altSource": "Deuteronomy 7:8"
+      },
+      {
+        "source": "Numbers 6:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Grace to you and peace' may stylize the Aaronic blessing's pairing of favor ('be gracious') and peace (shalom). The epistolary greeting is Paul's formula, so volume is low, but the grace-and-peace dyad has a plausible priestly-blessing background. Contested as a possible coincidence of common cultic terms.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 41:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'to whom be the glory forever and ever. Amen' reproduces the closing-doxology pattern of the Psalter's book-seams ('Blessed be the LORD... forever and ever. Amen and Amen'). Recurrence across Pss 41, 72, 89, 106 makes the liturgical formula securely available; Paul Christianizes it.",
+        "contested": false,
+        "altSource": "Psalm 106:48"
+      },
+      {
+        "source": "1 Chronicles 29:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "David's ascription 'Yours is the glory... forever' is a candidate liturgical source for the doxology in v.5. Overlaps with the Psalter doxologies; listed for recurrence of the 'the glory belongs to God forever' template. Low because the Psalter forms are the likelier proximate model.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:6-9",
+    "echoes": [
+      {
+        "source": "Exodus 32:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I marvel that you are so quickly deserting' echoes 'they have turned aside quickly out of the way' at the golden calf; LXX uses tachu ('quickly') as Paul does (tacheos). Apostasy-after-deliverance is thematically apt for Galatians, and the speed-of-defection lexeme strengthens the link.",
+        "contested": false,
+        "altSource": "Deuteronomy 9:16"
+      },
+      {
+        "source": "Deuteronomy 13:1-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The hypothetical preacher of a counterfeit message who must be cursed mirrors the prophet/dreamer who urges other gods and is to be purged; even 'an angel from heaven' fits the 'though he gives a sign' test. The death-sentence on the seducer coheres with Paul's anathema.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 27:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'let him be cursed' (anathema/epikataratos) draws the covenant-curse formulary of the Ebal liturgy where the people ratify 'Cursed be' on covenant-breakers. The repeated curse-pronouncement (vv.8-9) mimics the antiphonal recurrence of Deut 27, anchoring availability of the curse-genre.",
+        "contested": false
+      },
+      {
+        "source": "Joshua 6:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The anathema may carry the cherem ('devoted to destruction') sense from Jericho, where what is accursed is set apart for God's judgment and contaminates the camp. Coheres with treating the false gospel as defiling, but the curse-formulary of Deuteronomy is the nearer source, so low/contested.",
+        "contested": true,
+        "altSource": "Joshua 7:12"
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:10",
+    "echoes": [
+      {
+        "source": "1 Samuel 16:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'am I now seeking the favor of men, or of God?' rests on the contrast that man judges by outward appearance while the LORD looks on the heart. The man-versus-God antithesis of approval is thematically coherent with Paul's defense of divine commissioning over human applause.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 53:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'striving to please men' may invert the psalm's scorn that God 'put to shame him who pleased men' (LXX 'God scattered the bones of the man-pleasers'). A faint lexical tie via the rare 'please men' idiom; contested because the wording overlap is slight and the thought is proverbial.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:11-12",
+    "echoes": [
+      {
+        "source": "Jeremiah 23:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's insistence that his gospel is 'not according to man' but by revelation contrasts the true prophetic word with prophets who 'speak a vision of their own heart, not from the mouth of the LORD.' Coheres with the prophetic claim to mediated, not self-generated, message; low because no shared wording.",
+        "contested": true
+      },
+      {
+        "source": "Amos 3:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'it came to me through revelation' fits the prophetic axiom that the Lord reveals his secret (sod) to his servants the prophets. Supports Paul casting his call as prophetic disclosure rather than tradition; faint and thematic only, hence low/contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:13-14",
+    "echoes": [
+      {
+        "source": "Numbers 25:11-13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'being more exceedingly zealous for the traditions of my fathers' while persecuting evokes Phinehas, the paradigm of zeal who slays the covenant-breaker and is rewarded with a covenant. Second-Temple Judaism made Phinehas the model of violent zeal Paul once embodied; thematic coherence high.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 19:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's self-description 'exceedingly zealous' resonates with Elijah's 'I have been very jealous/zealous for the LORD of hosts.' The shared zeal-vocabulary and the persecuting-versus-persecuted reversal make this apt; counted low because Phinehas is the stronger zealot template.",
+        "contested": true,
+        "altSource": "1 Maccabees 2:24-27"
+      },
+      {
+        "source": "1 Maccabees 2:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Mattathias 'acted zealously for the law, as Phinehas did' supplies the deuterocanonical bridge for the zeal-by-violence ideal Paul once held in 'the Jews' religion' (Ioudaismos, a term coined in 2 Macc). Marks availability of the militant-zeal tradition; low as a background, not a quotation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:15-17",
+    "echoes": [
+      {
+        "source": "Jeremiah 1:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'who separated me from my mother's womb, and called me' closely tracks 'before I formed you in the womb I knew you... I appointed you a prophet to the nations.' Volume is high (pre-natal setting-apart plus call plus mission to the nations), and Paul deliberately casts his commission in prophetic-call form.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'set me apart from my mother's womb... called me' matches the Servant's 'the LORD called me from the womb; from the body of my mother he named my name.' The womb-call combination plus the Servant's commission to the nations makes this a primary, high-volume source alongside Jeremiah.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'that I might preach him among the Gentiles' enacts the Servant given 'as a light to the nations' to reach 'the end of the earth.' The Gentile-mission clause is the interpretive payoff of the womb-call allusion and coheres tightly with Paul's apostleship to the nations.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'formed me from the womb to be his servant' reinforces the prenatal commissioning behind v.15 and supplies the servant-role Paul assumes. Distinct from 49:1 in stressing the forming-for-service purpose; medium because it overlaps the same Servant Song.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 19:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's retreat 'into Arabia' (which he later equates with Sinai/Horeb, Gal 4:25) before returning may shadow Elijah's flight to Horeb after his zeal, where the prophet is re-commissioned. A figural prophet-in-the-wilderness resonance; faint and contested, given the geographic note is mainly itinerary.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.7",
+    "ch": 1,
+    "ref": "1:18-20",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'before God, I'm not lying' is an oath/truth-asseveration appealing to God as witness, the practice grounded in swearing 'by his name.' The solemn God-as-witness formula has deep OT roots; low because it is a conventional oath idiom, not a specific citation.",
+        "contested": true,
+        "altSource": "Jeremiah 42:5"
+      }
+    ]
+  },
+  {
+    "id": "1.8",
+    "ch": 1,
+    "ref": "1:21-24",
+    "echoes": [
+      {
+        "source": "Isaiah 49:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'they glorified God in me' echoes the Servant Song's 'you are my servant... in whom I will be glorified,' closing the chapter's sustained engagement with Isaiah 49 begun at v.15. The recurrence of Isa 49 within one pericope strengthens this otherwise faint verbal tie (glorify + 'in me').",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The motif of the once-lowly/opposed servant who comes to be exalted and 'glorified' may color the reversal whereby the persecutor is now cause of glory to God. Coheres with the Servant-glorification theme; low and contested because Isa 49:3 is the nearer match.",
+        "contested": true
+      }
+    ]
+  }
+]

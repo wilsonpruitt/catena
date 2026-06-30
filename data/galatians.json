@@ -1,0 +1,1373 @@
+{
+  "slug": "galatians",
+  "name": "Galatians",
+  "subtitle": "A Freedom Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "To churches tempted back under the law, Paul argues for freedom — and he argues it from the Law itself. The hinge is Abraham, who believed God and was counted righteous before he was ever circumcised, and to whom the promise came that in him all the nations would be blessed. Against that promise Paul sets the law’s own curse — “cursed is everyone who hangs on a tree” — and the prophet’s word that the righteous shall live by faith. Then he reads the household of Abraham as an allegory: Hagar the slave and Sarah the free, two covenants, two Jerusalems, and the command to cast out the slave woman so that the children of promise inherit. The letter ends where it began, in freedom — not the flesh but the Spirit, not the old order but a new creation. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where Paul follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-5",
+      "text": "Paul, an apostle (not from men, neither through man, but through Jesus Christ, and God the Father, who raised him from the dead), and all the brothers who are with me, to the assemblies of Galatia: Grace to you and peace from God the Father, and our Lord Jesus Christ, who gave himself for our sins, that he might deliver us out of this present evil age, according to the will of our God and Father— to whom be the glory forever and ever. Amen.",
+      "echoes": [
+        {
+          "source": "Isaiah 53:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "All we like sheep have gone astray. Everyone has turned to his own way; and Yahweh has laid on him the iniquity of us all.",
+          "note": "'who gave himself for our sins' renders the Servant who bears iniquity; LXX Isa 53:6 'the Lord gave him up for our sins' (paredoken auto tais hamartiais hemon) is verbally close to Paul's 'gave himself for our sins.' Volume is moderate, thematic coherence high (vicarious death), and the Servant is firmly available in Second-Temple use."
+        },
+        {
+          "source": "Isaiah 53:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yet it pleased Yahweh to bruise him. He has caused him to suffer. When you make his soul an offering for sin, he shall see his seed. He shall prolong his days, and the pleasure of Yahweh shall prosper in his hand.",
+          "note": "The self-giving sin-offering ('when you make his soul an offering for sin') undergirds 'gave himself for our sins.' Coheres with Isa 53:6 as a Servant matrix Paul presupposes; counted distinctly because the offering-language adds the cultic note. Contested only as to which Servant verse is primary."
+        },
+        {
+          "source": "Exodus 6:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Therefore tell the children of Israel, ‘I am Yahweh, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with an outstretched arm, and with great judgments:",
+          "note": "'that he might deliver us out of this present evil age' draws on the Exodus deliverance vocabulary (rescue from bondage by God's act). The age-from-which-rescued substitutes for Egypt; faint and figural, but the deliverance verb-frame is a deep OT staple. Marked low/contested as a generic redemption motif.",
+          "contested": true,
+          "altSource": "Deuteronomy 7:8"
+        },
+        {
+          "source": "Numbers 6:25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh make his face to shine on you, and be gracious to you.",
+          "note": "'Grace to you and peace' may stylize the Aaronic blessing's pairing of favor ('be gracious') and peace (shalom). The epistolary greeting is Paul's formula, so volume is low, but the grace-and-peace dyad has a plausible priestly-blessing background. Contested as a possible coincidence of common cultic terms.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 41:13",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Blessed be Yahweh, the God of Israel, from everlasting and to everlasting! Amen and amen.",
+          "note": "'to whom be the glory forever and ever. Amen' reproduces the closing-doxology pattern of the Psalter's book-seams ('Blessed be the LORD... forever and ever. Amen and Amen'). Recurrence across Pss 41, 72, 89, 106 makes the liturgical formula securely available; Paul Christianizes it.",
+          "altSource": "Psalm 106:48"
+        },
+        {
+          "source": "1 Chronicles 29:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yours, Yahweh, is the greatness, the power, the glory, the victory, and the majesty! For all that is in the heavens and in the earth is yours. Yours is the kingdom, Yahweh, and you are exalted as head above all.",
+          "note": "David's ascription 'Yours is the glory... forever' is a candidate liturgical source for the doxology in v.5. Overlaps with the Psalter doxologies; listed for recurrence of the 'the glory belongs to God forever' template. Low because the Psalter forms are the likelier proximate model.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:6-9",
+      "text": "I marvel that you are so quickly deserting him who called you in the grace of Christ to a different “good news”; and there isn’t another “good news.” Only there are some who trouble you, and want to pervert the Good News of Christ. But even though we, or an angel from heaven, should preach to you any “good news” other than that which we preached to you, let him be cursed. As we have said before, so I now say again: if any man preaches to you any “good news” other than that which you received, let him be cursed.",
+      "echoes": [
+        {
+          "source": "Exodus 32:8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "They have turned aside quickly out of the way which I commanded them. They have made themselves a molten calf, and have worshiped it, and have sacrificed to it, and said, ‘These are your gods, Israel, which brought you up out of the land of Egypt.’”",
+          "note": "'I marvel that you are so quickly deserting' echoes 'they have turned aside quickly out of the way' at the golden calf; LXX uses tachu ('quickly') as Paul does (tacheos). Apostasy-after-deliverance is thematically apt for Galatians, and the speed-of-defection lexeme strengthens the link.",
+          "altSource": "Deuteronomy 9:16"
+        },
+        {
+          "source": "Deuteronomy 13:1-5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "If a prophet or a dreamer of dreams arises in your midst you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, “Let us go after other gods” (which you have not known) “and let us serve them”; you shall not listen to the words of that prophet, or to that dreamer of dreams; for Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul. […]",
+          "note": "The hypothetical preacher of a counterfeit message who must be cursed mirrors the prophet/dreamer who urges other gods and is to be purged; even 'an angel from heaven' fits the 'though he gives a sign' test. The death-sentence on the seducer coheres with Paul's anathema."
+        },
+        {
+          "source": "Deuteronomy 27:15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "‘Cursed is the man who makes an engraved or molten image, an abomination to Yahweh, the work of the hands of the craftsman, and sets it up in secret.’ All the people shall answer and say, ‘Amen.’",
+          "note": "'let him be cursed' (anathema/epikataratos) draws the covenant-curse formulary of the Ebal liturgy where the people ratify 'Cursed be' on covenant-breakers. The repeated curse-pronouncement (vv.8-9) mimics the antiphonal recurrence of Deut 27, anchoring availability of the curse-genre."
+        },
+        {
+          "source": "Joshua 6:17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The city shall be devoted, even it and all that is in it, to Yahweh. Only Rahab the prostitute shall live, she and all who are with her in the house, because she hid the messengers that we sent.",
+          "note": "The anathema may carry the cherem ('devoted to destruction') sense from Jericho, where what is accursed is set apart for God's judgment and contaminates the camp. Coheres with treating the false gospel as defiling, but the curse-formulary of Deuteronomy is the nearer source, so low/contested.",
+          "contested": true,
+          "altSource": "Joshua 7:12"
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "ch": 1,
+      "ref": "1:10",
+      "text": "For am I now seeking the favor of men, or of God? Or am I striving to please men? For if I were still pleasing men, I wouldn’t be a servant of Christ.",
+      "echoes": [
+        {
+          "source": "1 Samuel 16:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "But Yahweh said to Samuel, “Don’t look on his face, or on the height of his stature; because I have rejected him: for I see not as man sees; for man looks at the outward appearance, but Yahweh looks at the heart.”",
+          "note": "'am I now seeking the favor of men, or of God?' rests on the contrast that man judges by outward appearance while the LORD looks on the heart. The man-versus-God antithesis of approval is thematically coherent with Paul's defense of divine commissioning over human applause."
+        },
+        {
+          "source": "Psalm 53:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "There they were in great fear, where no fear was, for God has scattered the bones of him who encamps against you. You have put them to shame, because God has rejected them.",
+          "note": "'striving to please men' may invert the psalm's scorn that God 'put to shame him who pleased men' (LXX 'God scattered the bones of the man-pleasers'). A faint lexical tie via the rare 'please men' idiom; contested because the wording overlap is slight and the thought is proverbial.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "ch": 1,
+      "ref": "1:11-12",
+      "text": "But I make known to you, brothers, concerning the Good News which was preached by me, that it is not according to man. For neither did I receive it from man, nor was I taught it, but it came to me through revelation of Jesus Christ.",
+      "echoes": [
+        {
+          "source": "Jeremiah 23:16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus says Yahweh of Armies, Don’t listen to the words of the prophets who prophesy to you: they teach you vanity; they speak a vision of their own heart, and not out of the mouth of Yahweh.",
+          "note": "Paul's insistence that his gospel is 'not according to man' but by revelation contrasts the true prophetic word with prophets who 'speak a vision of their own heart, not from the mouth of the LORD.' Coheres with the prophetic claim to mediated, not self-generated, message; low because no shared wording.",
+          "contested": true
+        },
+        {
+          "source": "Amos 3:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Surely the Lord Yahweh will do nothing, unless he reveals his secret to his servants the prophets.",
+          "note": "'it came to me through revelation' fits the prophetic axiom that the Lord reveals his secret (sod) to his servants the prophets. Supports Paul casting his call as prophetic disclosure rather than tradition; faint and thematic only, hence low/contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:13-14",
+      "text": "For you have heard of my way of living in time past in the Jews’ religion, how that beyond measure I persecuted the assembly of God, and ravaged it. I advanced in the Jews’ religion beyond many of my own age among my countrymen, being more exceedingly zealous for the traditions of my fathers.",
+      "echoes": [
+        {
+          "source": "Numbers 25:11-13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Phinehas, the son of Eleazar, the son of Aaron the priest, has turned my wrath away from the children of Israel, in that he was jealous with my jealousy among them, so that I didn’t consume the children of Israel in my jealousy. Therefore say, ‘Behold, I give to him my covenant of peace. It shall be to him, and to his seed after him, the covenant of an everlasting priesthood, because he was jealous for his God, and made atonement for the children of […]",
+          "note": "'being more exceedingly zealous for the traditions of my fathers' while persecuting evokes Phinehas, the paradigm of zeal who slays the covenant-breaker and is rewarded with a covenant. Second-Temple Judaism made Phinehas the model of violent zeal Paul once embodied; thematic coherence high."
+        },
+        {
+          "source": "1 Kings 19:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He said, “I have been very jealous for Yahweh, the God of Armies; for the children of Israel have forsaken your covenant, thrown down your altars, and slain your prophets with the sword. I, even I only, am left; and they seek my life, to take it away.”",
+          "note": "Paul's self-description 'exceedingly zealous' resonates with Elijah's 'I have been very jealous/zealous for the LORD of hosts.' The shared zeal-vocabulary and the persecuting-versus-persecuted reversal make this apt; counted low because Phinehas is the stronger zealot template.",
+          "contested": true,
+          "altSource": "1 Maccabees 2:24-27"
+        },
+        {
+          "source": "1 Maccabees 2:26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "And he was zealous for the law, even as Phinehas did to Zimri the son of Salu.",
+          "note": "Mattathias 'acted zealously for the law, as Phinehas did' supplies the deuterocanonical bridge for the zeal-by-violence ideal Paul once held in 'the Jews' religion' (Ioudaismos, a term coined in 2 Macc). Marks availability of the militant-zeal tradition; low as a background, not a quotation.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.6",
+      "ch": 1,
+      "ref": "1:15-17",
+      "text": "But when it was the good pleasure of God, who separated me from my mother’s womb, and called me through his grace, to reveal his Son in me, that I might preach him among the Gentiles, I didn’t immediately confer with flesh and blood, nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia. Then I returned to Damascus.",
+      "echoes": [
+        {
+          "source": "Jeremiah 1:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Before I formed you in the belly, I knew you. Before you came out of the womb, I sanctified you. I have appointed you a prophet to the nations.”",
+          "note": "'who separated me from my mother's womb, and called me' closely tracks 'before I formed you in the womb I knew you... I appointed you a prophet to the nations.' Volume is high (pre-natal setting-apart plus call plus mission to the nations), and Paul deliberately casts his commission in prophetic-call form."
+        },
+        {
+          "source": "Isaiah 49:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Listen, islands, to me; and listen, you peoples, from far: Yahweh has called me from the womb; from the bowels of my mother has he made mention of my name:",
+          "note": "'set me apart from my mother's womb... called me' matches the Servant's 'the LORD called me from the womb; from the body of my mother he named my name.' The womb-call combination plus the Servant's commission to the nations makes this a primary, high-volume source alongside Jeremiah."
+        },
+        {
+          "source": "Isaiah 49:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "yes, he says, “It is too light a thing that you should be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give you for a light to the nations, that you may be my salvation to the end of the earth.”",
+          "note": "'that I might preach him among the Gentiles' enacts the Servant given 'as a light to the nations' to reach 'the end of the earth.' The Gentile-mission clause is the interpretive payoff of the womb-call allusion and coheres tightly with Paul's apostleship to the nations."
+        },
+        {
+          "source": "Isaiah 49:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Now says Yahweh who formed me from the womb to be his servant, to bring Jacob again to him, and that Israel be gathered to him (for I am honorable in the eyes of Yahweh, and my God has become my strength);",
+          "note": "'formed me from the womb to be his servant' reinforces the prenatal commissioning behind v.15 and supplies the servant-role Paul assumes. Distinct from 49:1 in stressing the forming-for-service purpose; medium because it overlaps the same Servant Song."
+        },
+        {
+          "source": "1 Kings 19:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He arose, and ate and drank, and went in the strength of that food forty days and forty nights to Horeb the Mount of God.",
+          "note": "Paul's retreat 'into Arabia' (which he later equates with Sinai/Horeb, Gal 4:25) before returning may shadow Elijah's flight to Horeb after his zeal, where the prophet is re-commissioned. A figural prophet-in-the-wilderness resonance; faint and contested, given the geographic note is mainly itinerary.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.7",
+      "ch": 1,
+      "ref": "1:18-20",
+      "text": "Then after three years I went up to Jerusalem to visit Peter, and stayed with him fifteen days. But of the other apostles I saw no one, except James, the Lord’s brother. Now about the things which I write to you, behold, before God, I’m not lying.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 6:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You shall fear Yahweh your God; and you shall serve him, and shall swear by his name.",
+          "note": "'before God, I'm not lying' is an oath/truth-asseveration appealing to God as witness, the practice grounded in swearing 'by his name.' The solemn God-as-witness formula has deep OT roots; low because it is a conventional oath idiom, not a specific citation.",
+          "contested": true,
+          "altSource": "Jeremiah 42:5"
+        }
+      ]
+    },
+    {
+      "id": "1.8",
+      "ch": 1,
+      "ref": "1:21-24",
+      "text": "Then I came to the regions of Syria and Cilicia. I was still unknown by face to the assemblies of Judea which were in Christ, but they only heard: “He who once persecuted us now preaches the faith that he once tried to destroy.” And they glorified God in me.",
+      "echoes": [
+        {
+          "source": "Isaiah 49:3",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "and he said to me, “You are my servant; Israel, in whom I will be glorified.”",
+          "note": "'they glorified God in me' echoes the Servant Song's 'you are my servant... in whom I will be glorified,' closing the chapter's sustained engagement with Isaiah 49 begun at v.15. The recurrence of Isa 49 within one pericope strengthens this otherwise faint verbal tie (glorify + 'in me')."
+        },
+        {
+          "source": "Isaiah 52:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, my servant shall deal wisely, he shall be exalted and lifted up, and shall be very high.",
+          "note": "The motif of the once-lowly/opposed servant who comes to be exalted and 'glorified' may color the reversal whereby the persecutor is now cause of glory to God. Coheres with the Servant-glorification theme; low and contested because Isa 49:3 is the nearer match.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "ch": 2,
+      "ref": "2:1-10",
+      "text": "Then after a period of fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me. I went up by revelation, and I laid before them the Good News which I preach among the Gentiles, but privately before those who were respected, for fear that I might be running, or had run, in vain. But not even Titus, who was with me, being a Greek, was compelled to be circumcised. This was because of the false brothers secretly brought in, who stole in to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage; to whom we gave no place in the way of subjection, not for an hour, that the truth of the Good News might continue with you. But from those who were reputed to be important (whatever they were, it makes no difference to me; God doesn’t show partiality to man)—they, I say, who were respected imparted nothing to me, but to the contrary, when they saw that I had been entrusted with the Good News for the uncircumcision, even as Peter with the Good News for the circumcision (for he who appointed Peter to the apostleship of the circumcision appointed me also to the Gentiles); and when they perceived the grace that was given to me, James and Cephas and John, they who were reputed to be pillars, gave to me and Barnabas the right hand of fellowship, that we should go to the Gentiles, and they to the circumcision. They only asked us to remember the poor—which very thing I was also zealous to do.",
+      "echoes": [
+        {
+          "source": "Genesis 17:9-14",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "God said to Abraham, “As for you, you will keep my covenant, you and your seed after you throughout their generations. This is my covenant, which you shall keep, between me and you and your seed after you. Every male among you shall be circumcised. You shall be circumcised in the flesh of your foreskin. It will be a token of the covenant between me and you. He who is eight days old will be circumcised among you, every male throughout your generations, he […]",
+          "note": "Titus 'was not compelled to be circumcised' presupposes the Abrahamic covenant of circumcision as the entry sign for the people of God. Volume is high (circumcision is the named issue) and availability is secure: Genesis 17 is the foundational text the agitators would invoke. Paul refuses to extend its obligation to Gentile believers."
+        },
+        {
+          "source": "Deuteronomy 10:17",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For Yahweh your God, he is God of gods, and Lord of lords, the great God, the mighty, and the awesome, who doesn’t respect persons, nor takes reward.",
+          "note": "'God doesn't show partiality to man' (v.6) closely echoes the Deuteronomic formula that God 'is not partial and takes no bribe.' Recurrence is strong across the OT (2 Chronicles 19:7; Job 34:19), and the coherence with Paul's leveling of Jew and Gentile standing is exact.",
+          "altSource": "Leviticus 19:15; 2 Chronicles 19:7; Job 34:19"
+        },
+        {
+          "source": "Deuteronomy 15:7-11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "If a poor man, one of your brothers, is with you within any of your gates in your land which Yahweh your God gives you, you shall not harden your heart, nor shut your hand from your poor brother; but you shall surely open your hand to him, and shall surely lend him sufficient for his need, which he lacks. Beware that there not be a base thought in your heart, saying, “The seventh year, the year of release, is at hand”; and your eye be evil against your […]",
+          "note": "'They only asked us to remember the poor' draws on the Torah's central charge to open the hand to the poor brother and that 'the poor will never cease out of the land.' Volume and coherence are high: care for the poor is a covenant obligation Paul gladly affirms as binding on the Gentile mission."
+        },
+        {
+          "source": "Proverbs 19:17",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "He who has pity on the poor lends to Yahweh; he will reward him.",
+          "note": "'Remember the poor' resonates with the wisdom maxim that one who is kind to the poor lends to the LORD. Recurrence within Proverbs (14:21, 14:31, 28:27) strengthens the theme, though the verbal link is thematic rather than lexical.",
+          "altSource": "Proverbs 14:31; Proverbs 28:27"
+        },
+        {
+          "source": "Psalm 41:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Blessed is he who considers the poor. Yahweh will deliver him in the day of evil.",
+          "note": "The blessing on 'the one who considers the poor' offers a Psalter parallel to the Jerusalem charge to remember the poor. The link is thematic, supported by the wide OT recurrence of poverty-care language, but no distinctive wording is shared.",
+          "contested": true,
+          "altSource": "Deuteronomy 15:7-11"
+        },
+        {
+          "source": "Isaiah 49:4",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "But I said, “I have labored in vain, I have spent my strength for nothing and vanity; yet surely the justice due to me is with Yahweh, and my reward with my God.”",
+          "note": "Paul's fear that he 'might be running, or had run, in vain' (v.2) echoes the Servant's lament, 'I have labored in vain, I have spent my strength for nothing.' Coherence with Paul's self-understanding as a Servant-shaped apostle to the nations (Isaiah 49:6) raises this above a stock idiom.",
+          "contested": true,
+          "altSource": "Isaiah 65:23"
+        },
+        {
+          "source": "1 Kings 7:21",
+          "type": "figural",
+          "confidence": "low",
+          "text": "He set up the pillars at the porch of the temple: and he set up the right pillar, and called its name Jachin; and he set up the left pillar, and called its name Boaz.",
+          "note": "Calling James, Cephas, and John 'pillars' may evoke the temple pillars Jachin and Boaz, casting the apostles as load-bearing supports of a new temple-people. The figure is suggestive but the term was also a common honorific, so volume is low.",
+          "contested": true,
+          "altSource": "Proverbs 9:1"
+        },
+        {
+          "source": "Numbers 13:1-2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh spoke to Moses, saying, “Send men, that they may spy out the land of Canaan, which I give to the children of Israel. Of every tribe of their fathers, you shall send a man, every one a prince among them.”",
+          "note": "The 'false brothers... who stole in to spy out our liberty' uses reconnaissance imagery that may faintly recall the spying-out of the land. The verbal touch is the espionage motif; coherence is weak since Paul's spies are hostile infiltrators rather than scouts, so this remains a contested, faint echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "ch": 2,
+      "ref": "2:11-14",
+      "text": "But when Peter came to Antioch, I resisted him to his face, because he stood condemned. For before some people came from James, he ate with the Gentiles. But when they came, he drew back and separated himself, fearing those who were of the circumcision. And the rest of the Jews joined him in his hypocrisy; so that even Barnabas was carried away with their hypocrisy. But when I saw that they didn’t walk uprightly according to the truth of the Good News, I said to Peter before them all, “If you, being a Jew, live as the Gentiles do, and not as the Jews do, why do you compel the Gentiles to live as the Jews do?",
+      "echoes": [
+        {
+          "source": "Leviticus 11:1-47",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh spoke to Moses and to Aaron, saying to them, “Speak to the children of Israel, saying, ‘These are the living things which you may eat among all the animals that are on the earth. Whatever parts the hoof, and is cloven-footed, and chews the cud among the animals, that you may eat. “‘Nevertheless these you shall not eat of those that chew the cud, or of those who part the hoof: the camel, because he chews the cud but doesn’t have a parted hoof, he is […]",
+          "note": "The Antioch dispute over Peter eating with the Gentiles and then drawing back turns on the clean/unclean food and table-purity system. Volume and coherence are high: the dietary code is precisely the barrier that the withdrawal from common meals re-erects between Jew and Gentile.",
+          "altSource": "Deuteronomy 14:3-21"
+        },
+        {
+          "source": "Ezra 9:1-10:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Now when these things were done, the princes drew near to me, saying, “The people of Israel, and the priests and the Levites, have not separated themselves from the peoples of the lands, following their abominations, even those of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites. For they have taken of their daughters for themselves and for their sons, so that the holy seed have […]",
+          "note": "Peter 'drew back and separated himself' from Gentile table fellowship echoes the post-exilic policy of separation from the peoples of the land to preserve covenant purity. Coherence is strong; Paul reads such separation as a betrayal of the gospel's truth rather than fidelity.",
+          "altSource": "Nehemiah 13:1-3"
+        },
+        {
+          "source": "Nehemiah 13:23-27",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "In those days also saw I the Jews who had married women of Ashdod, of Ammon, and of Moab: and their children spoke half in the speech of Ashdod, and could not speak in the Jews’ language, but according to the language of each people. I contended with them, and cursed them, and struck certain of them, and plucked off their hair, and made them swear by God, “You shall not give your daughters to their sons, nor take their daughters for your sons, or for […]",
+          "note": "The separatist withdrawal at Antioch resonates with Nehemiah's enforcement of separation from intermarriage and foreign association. The link is thematic (covenant boundary-keeping) and reinforces the Ezra parallel, though it shares no distinctive vocabulary with Paul.",
+          "contested": true,
+          "altSource": "Ezra 9-10"
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "ch": 2,
+      "ref": "2:15-21",
+      "text": "“We, being Jews by nature, and not Gentile sinners, yet knowing that a man is not justified by the works of the law but through faith in Jesus Christ, even we believed in Christ Jesus, that we might be justified by faith in Christ, and not by the works of the law, because no flesh will be justified by the works of the law. But if, while we sought to be justified in Christ, we ourselves also were found sinners, is Christ a servant of sin? Certainly not! For if I build up again those things which I destroyed, I prove myself a law-breaker. For I, through the law, died to the law, that I might live to God. I have been crucified with Christ, and it is no longer I that live, but Christ living in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me. I don’t make void the grace of God. For if righteousness is through the law, then Christ died for nothing!”",
+      "echoes": [
+        {
+          "source": "Psalm 143:2",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Don’t enter into judgment with your servant, for in your sight no man living is righteous.",
+          "note": "'No flesh will be justified by the works of the law' (v.16) reworks the psalm's plea, 'do not enter into judgment with your servant, for no one living is righteous before you.' The shared 'no one living / no flesh... righteous/justified before God' is verbally close to the LXX and used by Paul as a scriptural axiom (cf. Romans 3:20)."
+        },
+        {
+          "source": "Habakkuk 2:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
+          "note": "'The life I now live in the flesh I live by faith' (v.20) anticipates and draws on 'the righteous shall live by faith,' the verse Paul quotes explicitly at 3:11. Coherence with the letter's core thesis is high and recurrence within Galatians strengthens the case, though here the allusion is woven rather than cited."
+        },
+        {
+          "source": "Jeremiah 1:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, I have this day set you over the nations and over the kingdoms, to pluck up and to break down and to destroy and to overthrow, to build and to plant.”",
+          "note": "'If I build up again those things which I destroyed' (v.18) employs the prophetic pairing of tearing down and building up (Jeremiah's commission 'to break down... and to build'). The imagery is suggestive but the building/destroying word-pair is widespread, so the echo is faint and contested.",
+          "contested": true,
+          "altSource": "Jeremiah 31:28; Jeremiah 24:6"
+        },
+        {
+          "source": "Isaiah 53:5-6",
+          "type": "figural",
+          "confidence": "low",
+          "text": "But he was pierced for our transgressions. He was crushed for our iniquities. The punishment that brought our peace was on him; and by his wounds we are healed. All we like sheep have gone astray. Everyone has turned to his own way; and Yahweh has laid on him the iniquity of us all.",
+          "note": "'The Son of God, who loved me, and gave himself up for me' (v.20) configures Christ's self-surrender along the lines of the Servant 'handed over' for the sins of the people. Coherence with early Christian Servant Christology supports it, but the link is interpretive rather than lexical here.",
+          "contested": true,
+          "altSource": "Isaiah 53:10-12"
+        }
+      ]
+    },
+    {
+      "id": "3.1",
+      "ch": 3,
+      "ref": "3:1-5",
+      "text": "Foolish Galatians, who has bewitched you not to obey the truth, before whose eyes Jesus Christ was openly portrayed among you as crucified? I just want to learn this from you. Did you receive the Spirit by the works of the law, or by hearing of faith? Are you so foolish? Having begun in the Spirit, are you now completed in the flesh? Did you suffer so many things in vain, if it is indeed in vain? He therefore who supplies the Spirit to you, and works miracles among you, does he do it by the works of the law, or by hearing of faith?",
+      "echoes": [
+        {
+          "source": "Deuteronomy 28:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh will strike you with madness, with blindness, and with astonishment of heart.",
+          "note": "Paul's charge that someone has 'bewitched' the Galatians faintly recalls the covenant-curse language of bewilderment and madness in Deut 28:28-29, part of the curses for disobedience that frame this whole chapter. The connection is thematic rather than verbal and rests on the evil-eye/curse motif. Contested and faint.",
+          "contested": true
+        },
+        {
+          "source": "Joel 2:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“It will happen afterward, that I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy. Your old men will dream dreams. Your young men will see visions.",
+          "note": "The reception of the Spirit by hearing of faith evokes the eschatological outpouring of the Spirit promised in Joel 2:28-29, which undergirds Paul's argument that the Spirit is the mark of the new age. Verbal volume is low; the link is conceptual via the promised-Spirit theme that culminates in v.14. Contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.2",
+      "ch": 3,
+      "ref": "3:6-9",
+      "text": "Even as Abraham “believed God, and it was counted to him for righteousness.” Know therefore that those who are of faith, the same are children of Abraham. The Scripture, foreseeing that God would justify the Gentiles by faith, preached the Good News beforehand to Abraham, saying, “In you all the nations will be blessed.” So then, those who are of faith are blessed with the faithful Abraham.",
+      "echoes": [
+        {
+          "source": "Genesis 15:6",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "He believed in Yahweh; and he reckoned it to him for righteousness.",
+          "note": "Verbatim LXX citation: 'Abraham believed God, and it was counted to him for righteousness.' This is the foundational proof-text of Paul's whole justification-by-faith argument, repeated at Romans 4:3 and James 2:23, satisfying recurrence and high volume. Availability and coherence are maximal."
+        },
+        {
+          "source": "Genesis 12:3",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "I will bless those who bless you, and I will curse him who curses you. All of the families of the earth will be blessed in you.”",
+          "note": "The promise 'In you all the nations will be blessed' is drawn from the Abrahamic blessing first given in Gen 12:3. Paul fuses the wording with Gen 18:18 and 22:18; the universal-blessing-of-the-nations formula is the engine of his Gentile-inclusion argument. High volume and coherence."
+        },
+        {
+          "source": "Genesis 18:18",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "since Abraham has surely become a great and mighty nation, and all the nations of the earth will be blessed in him?",
+          "note": "Gen 18:18 LXX reads 'all the nations of the earth will be blessed in him,' supplying the 'all the nations' (panta ta ethne) wording Paul's citation in v.8 matches more closely than Gen 12:3. The conflated citation strengthens recurrence of the blessing-promise."
+        },
+        {
+          "source": "Genesis 22:18",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "All the nations of the earth will be blessed by your seed, because you have obeyed my voice.”",
+          "note": "Gen 22:18 ('in your seed shall all the nations of the earth be blessed') links the nations-blessing to Abraham's 'seed,' which Paul exploits in v.16. The verbal overlap with v.8's citation is strong and the seed-blessing connection is structurally central. High coherence."
+        }
+      ]
+    },
+    {
+      "id": "3.3",
+      "ch": 3,
+      "ref": "3:10-14",
+      "text": "For as many as are of the works of the law are under a curse. For it is written, “Cursed is everyone who doesn’t continue in all things that are written in the book of the law, to do them.” Now that no man is justified by the law before God is evident, for, “The righteous will live by faith.” The law is not of faith, but, “The man who does them will live by them.” Christ redeemed us from the curse of the law, having become a curse for us. For it is written, “Cursed is everyone who hangs on a tree,” that the blessing of Abraham might come on the Gentiles through Christ Jesus; that we might receive the promise of the Spirit through faith.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 27:26",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "‘Cursed is he who doesn’t uphold the words of this law by doing them.’ All the people shall say, ‘Amen.’”",
+          "note": "Verbatim LXX citation: 'Cursed is everyone who doesn't continue in all things written in the book of the law, to do them.' Paul adds 'all' (pasin) emphasizing total obedience. This is a formal proof-text from the Shechem curse-liturgy, high in volume and coherence."
+        },
+        {
+          "source": "Habakkuk 2:4",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
+          "note": "'The righteous will live by faith' cites Hab 2:4, a programmatic text Paul also uses at Romans 1:17 (and Hebrews 10:38), giving strong recurrence. Paul follows a form close to the LXX but drops the possessive pronoun. The faith/life antithesis is the hinge of his argument."
+        },
+        {
+          "source": "Leviticus 18:5",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "You shall therefore keep my statutes and my ordinances; which if a man does, he shall live in them. I am Yahweh.",
+          "note": "'The man who does them will live by them' cites Lev 18:5 (LXX), set in deliberate antithesis to Hab 2:4. Paul reuses the same text at Romans 10:5, establishing recurrence; it embodies the law's do-and-live principle he contrasts with faith. High volume."
+        },
+        {
+          "source": "Deuteronomy 21:23",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "his body shall not remain all night on the tree, but you shall surely bury him the same day; for he who is hanged is accursed of God; that you don’t defile your land which Yahweh your God gives you for an inheritance.",
+          "note": "'Cursed is everyone who hangs on a tree' adapts Deut 21:23 ('cursed by God is everyone hanged on a tree'). Paul abbreviates, omitting 'by God,' to apply the law's own curse to the crucified Christ. The hanged-on-a-tree language is load-bearing for his redemption argument. High coherence."
+        },
+        {
+          "source": "Genesis 12:3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I will bless those who bless you, and I will curse him who curses you. All of the families of the earth will be blessed in you.”",
+          "note": "'That the blessing of Abraham might come on the Gentiles' (v.14) restates the Abrahamic promise of Gen 12:3/18:18/22:18, now realized in Christ. This is the resolution of the citation chain begun in v.8, so the recurrence within the chapter is strong. Allusive recapitulation rather than fresh quotation."
+        },
+        {
+          "source": "Joel 2:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“It will happen afterward, that I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy. Your old men will dream dreams. Your young men will see visions.",
+          "note": "'The promise of the Spirit' (v.14) may echo the prophetic promise of the poured-out Spirit (Joel 2:28-29; cf. Isaiah 44:3; Ezekiel 36:27). Paul does not cite a text, but the eschatological-Spirit-promise tradition stands behind the phrase. Contested and diffuse.",
+          "contested": true,
+          "altSource": "Isaiah 44:3"
+        }
+      ]
+    },
+    {
+      "id": "3.4",
+      "ch": 3,
+      "ref": "3:15-18",
+      "text": "Brothers, speaking of human terms, though it is only a man’s covenant, yet when it has been confirmed, no one makes it void, or adds to it. Now the promises were spoken to Abraham and to his seed. He doesn’t say, “To seeds”, as of many, but as of one, “To your seed”, which is Christ. Now I say this. A covenant confirmed beforehand by God in Christ, the law, which came four hundred thirty years after, does not annul, so as to make the promise of no effect. For if the inheritance is of the law, it is no more of promise; but God has granted it to Abraham by promise.",
+      "echoes": [
+        {
+          "source": "Genesis 13:15",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "for all the land which you see, I will give to you, and to your offspring forever.",
+          "note": "'To your seed' (v.16) cites the recurring promise to Abraham 'and to your seed' in Gen 13:15 (cf. 17:8; 24:7). Paul's argument turns on the singular collective noun 'seed' (sperma) read messianically as Christ. The verbal anchor is exact and central to the pericope."
+        },
+        {
+          "source": "Genesis 17:8",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "I will give to you, and to your seed after you, the land where you are traveling, all the land of Canaan, for an everlasting possession. I will be their God.”",
+          "note": "Gen 17:8 ('to you and to your seed after you') is another occurrence of the singular-seed promise Paul exploits, tied to the everlasting covenant. The recurrence of 'and to your seed' across Genesis is exactly what Paul leverages grammatically. High volume."
+        },
+        {
+          "source": "Genesis 24:7",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Yahweh, the God of heaven, who took me from my father’s house, and from the land of my birth, who spoke to me, and who swore to me, saying, ‘I will give this land to your seed.’ He will send his angel before you, and you shall take a wife for my son from there.",
+          "note": "Gen 24:7 ('to your seed I will give this land') is a further instance of the singular-seed land-promise underlying v.16. Listing these reinforces that Paul's 'not seeds but seed' rests on a real and recurrent Genesis formula. High coherence."
+        },
+        {
+          "source": "Exodus 12:40",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Now the time that the children of Israel lived in Egypt was four hundred thirty years.",
+          "note": "The '430 years' (v.17) between promise and law derives from Exod 12:40 LXX, which dates Israel's sojourn at 430 years. Paul uses the figure to prove the law came later and cannot annul the prior covenant. The specific number makes the allusion strong despite no quoted clause."
+        },
+        {
+          "source": "Genesis 15:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "In that day Yahweh made a covenant with Abram, saying, “To your seed I have given this land, from the river of Egypt to the great river, the river Euphrates:",
+          "note": "Paul's framing of the Abrahamic 'covenant' (diatheke) confirmed by God draws on the covenant-cutting of Gen 15:18 (cf. Gen 17). The covenant concept rather than wording is in view, undergirding the legal analogy of v.15. Faint and conceptual.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.5",
+      "ch": 3,
+      "ref": "3:19-22",
+      "text": "What then is the law? It was added because of transgressions, until the seed should come to whom the promise has been made. It was ordained through angels by the hand of a mediator. Now a mediator is not between one, but God is one. Is the law then against the promises of God? Certainly not! For if there had been a law given which could make alive, most certainly righteousness would have been of the law. But the Scriptures imprisoned all things under sin, that the promise by faith in Jesus Christ might be given to those who believe.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 33:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He said, “Yahweh came from Sinai, and rose from Seir to them. He shone from Mount Paran. He came from the ten thousands of holy ones. At his right hand was a fiery law for them.",
+          "note": "'Ordained through angels' (v.19) reflects the Second-Temple tradition that the law was mediated by angels at Sinai, grounded in Deut 33:2 LXX ('at his right hand angels with him') and reflected in Acts 7:53 and Hebrews 2:2. The angelic-mediation reading is available in the LXX and intertestamental sources. Medium volume.",
+          "altSource": "Psalm 68:17"
+        },
+        {
+          "source": "Psalm 68:17",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "The chariots of God are tens of thousands and thousands of thousands. The Lord is among them, from Sinai, into the sanctuary.",
+          "note": "Ps 68:17 (LXX 67:18), 'the chariots of God are myriads... the Lord among them at Sinai,' contributed to the tradition of angelic hosts at the Sinai law-giving behind v.19. The link is part of a cluster of texts, not a single source; verbal contact is slight. Contested.",
+          "contested": true,
+          "altSource": "Deuteronomy 33:2"
+        },
+        {
+          "source": "Leviticus 18:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall therefore keep my statutes and my ordinances; which if a man does, he shall live in them. I am Yahweh.",
+          "note": "'If there had been a law given which could make alive' (v.21) replays the do-and-live principle of Lev 18:5 cited in v.12, now denied as a means of life. The intra-chapter recurrence of the life-by-law motif makes the allusion coherent though not re-quoted."
+        },
+        {
+          "source": "Psalm 14:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "They have all gone aside. They have together become corrupt. There is no one who does good, no, not one.",
+          "note": "'The Scripture imprisoned all things under sin' (v.22) summarizes the universal-sinfulness verdict Paul elsewhere proves with a catena including Ps 14:1-3 (cf. Rom 3:9-19). No clause is quoted here, but the scriptural confinement-under-sin theme draws on that tradition. Contested and diffuse.",
+          "contested": true,
+          "altSource": "Psalm 143:2"
+        },
+        {
+          "source": "Psalm 143:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Don’t enter into judgment with your servant, for in your sight no man living is righteous.",
+          "note": "Ps 143:2 ('no one living is righteous before you'), which Paul cites at Gal 2:16 and Rom 3:20, stands behind the 'all under sin' verdict of v.22. The echo continues the justification argument from the previous chapter. Faint; offered as an alternative scriptural ground.",
+          "contested": true,
+          "altSource": "Psalm 14:3"
+        }
+      ]
+    },
+    {
+      "id": "3.6",
+      "ch": 3,
+      "ref": "3:23-29",
+      "text": "But before faith came, we were kept in custody under the law, confined for the faith which should afterwards be revealed. So that the law has become our tutor to bring us to Christ, that we might be justified by faith. But now that faith has come, we are no longer under a tutor. For you are all children of God, through faith in Christ Jesus. For as many of you as were baptized into Christ have put on Christ. There is neither Jew nor Greek, there is neither slave nor free man, there is neither male nor female; for you are all one in Christ Jesus. If you are Christ’s, then you are Abraham’s seed and heirs according to promise.",
+      "echoes": [
+        {
+          "source": "Genesis 1:27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "God created man in his own image. In God’s image he created him; male and female he created them.",
+          "note": "'There is neither... male nor female' (v.28) verbally echoes Gen 1:27 LXX 'male and female he created them' (arsen kai thely), the only place this exact pairing occurs. Paul's shift from 'nor/nor' to 'and' marks the deliberate citation; the new creation in Christ relativizes the created distinction. Medium-high volume on the specific phrase."
+        },
+        {
+          "source": "Genesis 13:15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "for all the land which you see, I will give to you, and to your offspring forever.",
+          "note": "'You are Abraham's seed and heirs according to promise' (v.29) recapitulates the singular-seed promise of Gen 13:15/17:8 expounded in v.16, now extended to all who are Christ's. This closes the chapter's inclusio on seed/promise/inheritance with strong intra-chapter recurrence."
+        },
+        {
+          "source": "Genesis 22:18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "All the nations of the earth will be blessed by your seed, because you have obeyed my voice.”",
+          "note": "The heirs-of-promise climax (v.29) realizes the seed-and-nations blessing of Gen 22:18, gathering Gentile believers into Abraham's offspring. It reprises the citation chain (vv.8, 16) and so coheres with the chapter's argument, though without fresh wording. Medium."
+        },
+        {
+          "source": "Isaiah 61:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will greatly rejoice in Yahweh, my soul shall be joyful in my God; for he has clothed me with the garments of salvation, he has covered me with the robe of righteousness, as a bridegroom decks himself with a garland, and as a bride adorns herself with her jewels.",
+          "note": "'Put on Christ' (v.27) may echo the clothing-with-salvation imagery of Isa 61:10 ('he has clothed me with garments of salvation') and the robing motif of Zechariah 3:4. The metaphor of investiture is available in the prophets but the contact is thematic, not verbal. Contested and faint.",
+          "contested": true,
+          "altSource": "Zechariah 3:4"
+        }
+      ]
+    },
+    {
+      "id": "4.1",
+      "ch": 4,
+      "ref": "4:1-7",
+      "text": "But I say that so long as the heir is a child, he is no different from a bondservant, though he is lord of all; but is under guardians and stewards until the day appointed by the father. So we also, when we were children, were held in bondage under the elemental principles of the world. But when the fullness of the time came, God sent out his Son, born to a woman, born under the law, that he might redeem those who were under the law, that we might receive the adoption of children. And because you are children, God sent out the Spirit of his Son into your hearts, crying, “Abba, Father!” So you are no longer a bondservant, but a son; and if a son, then an heir of God through Christ.",
+      "echoes": [
+        {
+          "source": "Genesis 3:15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”",
+          "note": "\"God sent out his Son, born to a woman\" (v.4) faintly evokes the protoevangelium's promise of the woman's seed who undoes the serpent. Coherence with Paul's redemption-of-the-enslaved theme is real but the verbal volume is thin; the phrase 'born of woman' is a common idiom (cf. Job). Marked low and contested.",
+          "contested": true,
+          "altSource": "Job 14:1"
+        },
+        {
+          "source": "Exodus 4:22",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall tell Pharaoh, ‘Thus says Yahweh, Israel is my son, my firstborn,",
+          "note": "The cluster of sonship/adoption/firstborn language (vv.5-7, 'receive the adoption,' 'no longer a bondservant but a son,' 'heir') recalls God's claim 'Israel is my son, my firstborn.' Coherence is high in a redemption-from-bondage argument that runs on Exodus categories; Recurrence of son/heir terms supports it. Verbal volume is moderate, hence allusion not quotation."
+        },
+        {
+          "source": "Hosea 11:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“When Israel was a child, then I loved him, and called my son out of Egypt.",
+          "note": "'Out of Egypt I called my son' supplies the same divine sonship motif undergirding 'God sent out his Son' and the adoption of children. The link is conceptual rather than verbal in Galatians; availability and coherence hold but volume is low. Contested as a deliberate echo.",
+          "contested": true,
+          "altSource": "Exodus 4:22"
+        },
+        {
+          "source": "Exodus 6:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Therefore tell the children of Israel, ‘I am Yahweh, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with an outstretched arm, and with great judgments:",
+          "note": "'That he might redeem those who were under the law' (v.5) draws on the Exodus vocabulary of God redeeming a people from slavery (cf. Exod 6:6, 15:13). The redemption-from-bondage frame coheres tightly with Paul's slave/son contrast, but no single Exodus verse is quoted, so this is a diffuse echo.",
+          "contested": true,
+          "altSource": "Deuteronomy 7:8"
+        }
+      ]
+    },
+    {
+      "id": "4.2",
+      "ch": 4,
+      "ref": "4:8-11",
+      "text": "However at that time, not knowing God, you were in bondage to those who by nature are not gods. But now that you have come to know God, or rather to be known by God, why do you turn back again to the weak and miserable elemental principles, to which you desire to be in bondage all over again? You observe days, months, seasons, and years. I am afraid for you, that I might have wasted my labor for you.",
+      "echoes": [
+        {
+          "source": "Genesis 1:14",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "God said, “Let there be lights in the expanse of sky to divide the day from the night; and let them be for signs to mark seasons, days, and years;",
+          "note": "'You observe days, months, seasons, and years' (v.10) maps onto the creation luminaries appointed 'for signs and for seasons and for days and years,' the calendrical basis of Israel's festal observance Paul deprecates. The four-term sequence is a strong verbal/structural match; coherence with the 'elemental principles' (stoicheia, vv.3,9) reinforces it."
+        },
+        {
+          "source": "Leviticus 23:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Speak to the children of Israel, and tell them, ‘The set feasts of Yahweh, which you shall proclaim to be holy convocations, even these are my set feasts.",
+          "note": "The 'days, months, seasons' Paul names are the appointed feasts, sabbaths, and new moons codified in the festal calendar of Lev 23. Coherence is high since the agitators urge Torah calendar observance; the allusion is to the institution as a whole rather than to a single quoted clause."
+        },
+        {
+          "source": "Isaiah 1:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Bring no more vain offerings. Incense is an abomination to me; new moons, Sabbaths, and convocations: I can’t bear with evil assemblies.",
+          "note": "Paul's wariness of 'new moons and sabbaths' calendar piety echoes Isaiah's prophetic critique of 'new moon and sabbath' observance that God comes to loathe. The polemical stance coheres, but Galatians supplies no shared wording, so this is a faint echo at best.",
+          "contested": true,
+          "altSource": "Hosea 2:11"
+        }
+      ]
+    },
+    {
+      "id": "4.3",
+      "ch": 4,
+      "ref": "4:12-20",
+      "text": "I beg you, brothers, become as I am, for I also have become as you are. You did me no wrong, but you know that because of weakness of the flesh I preached the Good News to you the first time. That which was a temptation to you in my flesh, you didn’t despise nor reject; but you received me as an angel of God, even as Christ Jesus. What was the blessing you enjoyed? For I testify to you that, if possible, you would have plucked out your eyes and given them to me. So then, have I become your enemy by telling you the truth? They zealously seek you in no good way. No, they desire to alienate you, that you may seek them. But it is always good to be zealous in a good cause, and not only when I am present with you. My little children, of whom I am again in travail until Christ is formed in you— but I could wish to be present with you now, and to change my tone, for I am perplexed about you.",
+      "echoes": [
+        {
+          "source": "Malachi 2:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For the priest’s lips should keep knowledge, and they should seek the law at his mouth; for he is the messenger of Yahweh of Armies.",
+          "note": "'You received me as an angel/messenger of God' (v.14) may glance at the messenger-of-the-Lord motif (Mal 2:7; cf. Zech) where a human envoy is welcomed as God's representative. The wording is generic and the link is weak; marked low and contested.",
+          "contested": true,
+          "altSource": "Malachi 3:1"
+        }
+      ]
+    },
+    {
+      "id": "4.4",
+      "ch": 4,
+      "ref": "4:21-23",
+      "text": "Tell me, you that desire to be under the law, don’t you listen to the law? For it is written that Abraham had two sons, one by the handmaid, and one by the free woman. However, the son by the handmaid was born according to the flesh, but the son by the free woman was born through promise.",
+      "echoes": [
+        {
+          "source": "Genesis 16:15",
+          "type": "figural",
+          "confidence": "high",
+          "text": "Hagar bore a son for Abram. Abram called the name of his son, whom Hagar bore, Ishmael.",
+          "note": "'Abraham had two sons, one by the handmaid' (v.22) directly recounts Hagar bearing Ishmael to Abraham. This is the foundational narrative Paul allegorizes; the citation is explicit ('it is written') and figurally load-bearing for the whole pericope."
+        },
+        {
+          "source": "Genesis 21:2",
+          "type": "figural",
+          "confidence": "high",
+          "text": "Sarah conceived, and bore Abraham a son in his old age, at the set time of which God had spoken to him.",
+          "note": "'One by the free woman' born 'through promise' (vv.22-23) recounts Sarah bearing Isaac at the appointed time God had promised. Volume and coherence are maximal; Paul builds the free-woman/promise half of the allegory directly on this Genesis event."
+        },
+        {
+          "source": "Genesis 17:16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I will bless her, and moreover I will give you a son by her. Yes, I will bless her, and she will be a mother of nations. Kings of peoples will come from her.”",
+          "note": "'The son by the free woman was born through promise' (v.23) rests on God's explicit promise that Sarah would bear a son and become 'mother of nations.' Coherence with Paul's promise/flesh antithesis is exact; the promise to Sarah is the textual hinge of the contrast."
+        },
+        {
+          "source": "Genesis 18:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He said, “I will certainly return to you when the season comes round. Behold, Sarah your wife will have a son.” Sarah heard in the tent door, which was behind him.",
+          "note": "The 'born through promise' language (v.23) echoes the annunciation 'I will surely return to you, and Sarah your wife shall have a son.' This is the verbal source of the divine promise of Isaac that Paul treats as paradigmatic; recurrence with 17:16 strengthens it."
+        },
+        {
+          "source": "Genesis 16:1",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Now Sarai, Abram’s wife, bore him no children. She had a handmaid, an Egyptian, whose name was Hagar.",
+          "note": "'The son by the handmaid was born according to the flesh' (v.23) recalls the merely human stratagem of Gen 16, where Sarai gives Hagar to Abram to bear a child by ordinary means. Coherence with Paul's flesh/Spirit antithesis is strong; supplies the 'according to the flesh' pole."
+        }
+      ]
+    },
+    {
+      "id": "4.5",
+      "ch": 4,
+      "ref": "4:24-27",
+      "text": "These things contain an allegory, for these are two covenants. One is from Mount Sinai, bearing children to bondage, which is Hagar. For this Hagar is Mount Sinai in Arabia, and answers to the Jerusalem that exists now, for she is in bondage with her children. But the Jerusalem that is above is free, which is the mother of us all. For it is written, “Rejoice, you barren who don’t bear. Break out and shout, you that don’t travail. For more are the children of the desolate than of her who has a husband.”",
+      "echoes": [
+        {
+          "source": "Isaiah 54:1",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "“Sing, barren, you who didn’t bear; break out into singing, and cry aloud, you who did not travail with child: for more are the children of the desolate than the children of the married wife,” says Yahweh.",
+          "note": "V.27 quotes Isaiah 54:1 almost verbatim (LXX): 'Rejoice, you barren who don't bear... more are the children of the desolate than of her who has a husband.' Highest volume; the barren-now-fruitful Zion is mapped onto the free Jerusalem above and Sarah. Explicit 'it is written.'"
+        },
+        {
+          "source": "Genesis 16:15",
+          "type": "figural",
+          "confidence": "high",
+          "text": "Hagar bore a son for Abram. Abram called the name of his son, whom Hagar bore, Ishmael.",
+          "note": "'One is from Mount Sinai, bearing children to bondage, which is Hagar' (v.24-25) keys the whole covenant typology to the Hagar narrative. The figural identification of Hagar with Sinai/present Jerusalem in slavery is the interpretive core of the pericope."
+        },
+        {
+          "source": "Exodus 19:1",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "In the third month after the children of Israel had gone out of the land of Egypt, on that same day they came into the wilderness of Sinai.",
+          "note": "'One is from Mount Sinai, bearing children to bondage' (v.24) presupposes the Sinai covenant/law-giving (Exod 19-20) which Paul recategorizes as enslaving. Coherence with the two-covenants argument is high; the allusion is to the Sinai event as institution."
+        },
+        {
+          "source": "Isaiah 2:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Many peoples shall go and say, “Come, let’s go up to the mountain of Yahweh, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths.” For out of Zion the law shall go out, and Yahweh’s word from Jerusalem.",
+          "note": "'The Jerusalem that is above is free, the mother of us all' (v.26) draws on the prophetic exaltation of Zion as the mother-city to which nations stream. Conceptual availability is strong (heavenly/eschatological Zion) but Galatians supplies no shared wording, so low/contested.",
+          "contested": true,
+          "altSource": "Isaiah 60:4"
+        },
+        {
+          "source": "Psalm 87:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yes, of Zion it will be said, “This one and that one was born in her”; the Most High himself will establish her.",
+          "note": "The 'Jerusalem above... mother of us all' (v.26) coheres with Zion as the mother of whom it is said 'this one and that one were born in her.' The maternal-Zion motif is apt but verbally faint in Galatians; marked low and contested.",
+          "contested": true,
+          "altSource": "Isaiah 66:8"
+        }
+      ]
+    },
+    {
+      "id": "4.6",
+      "ch": 4,
+      "ref": "4:28-31",
+      "text": "Now we, brothers, as Isaac was, are children of promise. But as then, he who was born according to the flesh persecuted him who was born according to the Spirit, so also it is now. However what does the Scripture say? “Throw out the handmaid and her son, for the son of the handmaid will not inherit with the son of the free woman.” So then, brothers, we are not children of a handmaid, but of the free woman.",
+      "echoes": [
+        {
+          "source": "Genesis 21:2",
+          "type": "figural",
+          "confidence": "high",
+          "text": "Sarah conceived, and bore Abraham a son in his old age, at the set time of which God had spoken to him.",
+          "note": "'We, brothers, as Isaac was, are children of promise' (v.28) identifies believers with Isaac, the son born by promise (Gen 21:1-2). Coherence with the promise/flesh allegory is exact; Isaac is the explicit figural type."
+        },
+        {
+          "source": "Genesis 21:9",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, mocking.",
+          "note": "'He who was born according to the flesh persecuted him who was born according to the Spirit' (v.29) draws on Ishmael 'mocking/playing with' Isaac (Gen 21:9), read in Jewish tradition as persecution. Strong coherence; supplies the persecution motif Paul applies to the agitators."
+        },
+        {
+          "source": "Genesis 21:10",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Therefore she said to Abraham, “Cast out this handmaid and her son! For the son of this handmaid will not be heir with my son, Isaac.”",
+          "note": "V.30 quotes Gen 21:10 (Sarah's words): 'Throw out the handmaid and her son, for the son of the handmaid will not inherit with the son of the free woman.' High verbal volume; the inheritance/exclusion ruling is Paul's clinching scriptural warrant, marked 'what does the Scripture say.'"
+        },
+        {
+          "source": "Genesis 16:15",
+          "type": "figural",
+          "confidence": "high",
+          "text": "Hagar bore a son for Abram. Abram called the name of his son, whom Hagar bore, Ishmael.",
+          "note": "'We are not children of a handmaid, but of the free woman' (v.31) closes the allegory by reasserting the Hagar/Sarah identification. The figural reading of the slave-woman narrative governs the concluding antithesis."
+        }
+      ]
+    },
+    {
+      "id": "5.1",
+      "ch": 5,
+      "ref": "5:1",
+      "text": "Stand firm therefore in the liberty by which Christ has made us free, and don’t be entangled again with a yoke of bondage.",
+      "echoes": [
+        {
+          "source": "Leviticus 26:13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I am Yahweh your God, who brought you out of the land of Egypt, that you should not be their slaves. I have broken the bars of your yoke, and made you go upright.",
+          "note": "Paul's 'yoke of bondage/slavery' inverts the exodus formula where God 'broke the bars of your yoke' and made Israel walk upright after Egyptian slavery. Volume is fair (the yoke-of-slavery image is distinctively exodus/covenant) and coheres with Paul's whole exodus-from-law typology in Galatians. The redemptive-liberation logic matches closely."
+        },
+        {
+          "source": "Leviticus 25:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You shall make the fiftieth year holy, and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee to you; and each of you shall return to his own property, and each of you shall return to his family.",
+          "note": "The Jubilee proclamation of 'liberty (deror) throughout the land' may underlie Paul's stress on the freedom for which Christ liberated. Coherence is real (release from debt-servitude) but volume is faint; the verbal link runs through the LXX language of eleutheria rather than direct citation.",
+          "contested": true,
+          "altSource": "Isaiah 61:1"
+        },
+        {
+          "source": "Isaiah 61:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+          "note": "The Servant's anointing 'to proclaim liberty to the captives' is a Second-Temple touchstone for eschatological release that Paul's freedom language may draw upon. Faint volume and no verbal quotation, but the messianic-liberty theme coheres with Christ as the agent who 'made us free.'",
+          "contested": true,
+          "altSource": "Leviticus 25:10",
+          "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;"
+        },
+        {
+          "source": "Jeremiah 28:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus speaks Yahweh of Armies, the God of Israel, saying, I have broken the yoke of the king of Babylon.",
+          "note": "Jeremiah's sign-act of the broken/iron yoke (chs. 27-28) gives the prophetic vocabulary of a yoke as imposed servitude that is broken or re-imposed. Coherence is moderate but recurrence is weak; the image is generic enough that direct dependence is uncertain.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.2",
+      "ch": 5,
+      "ref": "5:2-6",
+      "text": "Behold, I, Paul, tell you that if you receive circumcision, Christ will profit you nothing. Yes, I testify again to every man who receives circumcision, that he is a debtor to do the whole law. You are alienated from Christ, you who desire to be justified by the law. You have fallen away from grace. For we, through the Spirit, by faith wait for the hope of righteousness. For in Christ Jesus neither circumcision amounts to anything, nor uncircumcision, but faith working through love.",
+      "echoes": [
+        {
+          "source": "Genesis 17:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "This is my covenant, which you shall keep, between me and you and your seed after you. Every male among you shall be circumcised.",
+          "note": "Paul's whole argument about receiving circumcision presupposes the Abrahamic covenant of circumcision as the sign binding one to the law. Availability and volume are strong as the institutional backdrop, even though Paul does not cite the words. The figural reversal (circumcision now profits nothing) depends on the reader knowing this text."
+        },
+        {
+          "source": "Deuteronomy 27:26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "‘Cursed is he who doesn’t uphold the words of this law by doing them.’ All the people shall say, ‘Amen.’”",
+          "note": "Being 'a debtor to do the whole law' restates the Deuteronomic curse on everyone who does not confirm all the words of the law to do them, which Paul quotes explicitly at 3:10. Recurrence within Galatians is high, making the echo here coherent and deliberate."
+        },
+        {
+          "source": "Leviticus 18:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You shall therefore keep my statutes and my ordinances; which if a man does, he shall live in them. I am Yahweh.",
+          "note": "The demand to 'do the whole law' resonates with the Levitical maxim that the one who does these statutes shall live by them, which Paul cites at 3:12. Volume is moderate but the verbal contact here is thematic rather than lexical.",
+          "contested": true,
+          "altSource": "Deuteronomy 27:26"
+        },
+        {
+          "source": "Habakkuk 2:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
+          "note": "'Through the Spirit, by faith we wait for the hope of righteousness' recalls the prophetic axiom that the righteous shall live by faith, which Paul cites at 3:11. The faith-righteousness pairing coheres strongly, though here it is allusive rather than quoted.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.3",
+      "ch": 5,
+      "ref": "5:7-12",
+      "text": "You were running well! Who interfered with you that you should not obey the truth? This persuasion is not from him who calls you. A little yeast grows through the whole lump. I have confidence toward you in the Lord that you will think no other way. But he who troubles you will bear his judgment, whoever he is. But I, brothers, if I still preach circumcision, why am I still persecuted? Then the stumbling block of the cross has been removed. I wish that those who disturb you would cut themselves off.",
+      "echoes": [
+        {
+          "source": "Exodus 12:15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘Seven days you shall eat unleavened bread; even the first day you shall put away yeast out of your houses, for whoever eats leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.",
+          "note": "'A little yeast leavens the whole lump' draws on the Passover/Unleavened Bread command to purge all leaven from the house, where leaven functions as a spreading defilement. Volume and availability are high; the agricultural proverb is freighted with the cultic logic of total removal that fits Paul's warning about the agitators."
+        },
+        {
+          "source": "Exodus 13:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Unleavened bread shall be eaten throughout the seven days; and no leavened bread shall be seen with you, neither shall yeast be seen with you, in all your borders.",
+          "note": "The reinforcing command that no leaven be seen in all your borders during the feast undergirds the same purity image. Recurrence across the Exodus leaven texts strengthens the figural force of contamination spreading through the community."
+        },
+        {
+          "source": "Deuteronomy 23:1",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He who is emasculated by crushing or cutting shall not enter into Yahweh’s assembly.",
+          "note": "Paul's wish that the circumcisers would 'cut themselves off' (mutilate/emasculate) trades on the law excluding the emasculated from the assembly of the LORD, a bitterly ironic inversion: those zealous for circumcision are told to go further and be excluded. Coherence and wordplay are strong though the dependence is contested versus a generic castration gibe.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 8:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He will be a sanctuary, but for both houses of Israel, he will be a trap and a snare for the inhabitants of Jerusalem.",
+          "note": "'The stumbling block of the cross' echoes the prophetic stone of stumbling and rock of offense, a Second-Temple testimony Paul uses elsewhere. Volume is faint here and the link is thematic; the contact may run through shared early-Christian stone testimonia.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.4",
+      "ch": 5,
+      "ref": "5:13-15",
+      "text": "For you, brothers, were called for freedom. Only don’t use your freedom for gain to the flesh, but through love be servants to one another. For the whole law is fulfilled in one word, in this: “You shall love your neighbor as yourself.” But if you bite and devour one another, be careful that you don’t consume one another.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:18",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "Paul cites verbatim 'You shall love your neighbor as yourself,' declaring the whole law fulfilled in this one word. This is an explicit LXX quotation with the highest volume and availability; it is the interpretive center of the pericope."
+        },
+        {
+          "source": "Psalm 27:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "When evildoers came at me to eat up my flesh, even my adversaries and my foes, they stumbled and fell.",
+          "note": "'If you bite and devour one another' echoes the psalmist's enemies who draw near 'to eat up my flesh,' supplying the predatory cannibal imagery for internal strife. Volume is modest and the metaphor is conventional, so dependence is plausible but uncertain.",
+          "contested": true,
+          "altSource": "Micah 3:3"
+        },
+        {
+          "source": "Micah 3:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "who also eat the flesh of my people, and flay their skin from off them, and break their bones, and chop them in pieces, as for the pot, and as flesh within the cauldron.",
+          "note": "Micah's indictment of leaders who 'eat the flesh of my people' and tear their skin matches Paul's imagery of mutual consuming as social predation. The prophetic backdrop coheres with the moral charge, though the image is widespread enough to be only an echo.",
+          "contested": true,
+          "altSource": "Psalm 27:2"
+        },
+        {
+          "source": "Proverbs 30:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "There is a generation whose teeth are like swords, and their jaws like knives, to devour the poor from the earth, and the needy from among men.",
+          "note": "The wisdom portrait of a generation whose teeth are swords 'to devour the poor' reinforces the same devouring-one-another trope. Faint volume; offered as a maximal candidate within the predatory-mouth field.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.5",
+      "ch": 5,
+      "ref": "5:16-18",
+      "text": "But I say, walk by the Spirit, and you won’t fulfill the lust of the flesh. For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, that you may not do the things that you desire. But if you are led by the Spirit, you are not under the law.",
+      "echoes": [
+        {
+          "source": "Ezekiel 36:27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I will put my Spirit within you, and cause you to walk in my statutes, and you shall keep my ordinances, and do them.",
+          "note": "'Walk by the Spirit' and being 'led by the Spirit' echo the new-covenant promise that God will put his Spirit within and cause his people to walk in his statutes. Coherence is strong with Paul's Spirit-versus-law contrast, and availability is high in Second-Temple Spirit-endowment hope."
+        },
+        {
+          "source": "Psalm 143:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Teach me to do your will, for you are my God. Your Spirit is good. Lead me in the land of uprightness.",
+          "note": "'Let your good Spirit lead me on level ground' supplies the rare motif of the divine Spirit as the agent of moral guidance behind Paul's 'led by the Spirit.' Volume is low but the verbal pairing of Spirit and leading is distinctive.",
+          "contested": true,
+          "altSource": "Isaiah 63:14"
+        },
+        {
+          "source": "Isaiah 63:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As the livestock that go down into the valley, the Spirit of Yahweh caused them to rest; so you led your people, to make yourself a glorious name.",
+          "note": "The exodus retrospect where the Spirit of the LORD gave Israel rest and led the people gives a prophetic precedent for Spirit-leading. Faint and contested, but it coheres with Paul's exodus-shaped Spirit theology.",
+          "contested": true,
+          "altSource": "Psalm 143:10"
+        }
+      ]
+    },
+    {
+      "id": "5.6",
+      "ch": 5,
+      "ref": "5:19-21",
+      "text": "Now the works of the flesh are obvious, which are: adultery, sexual immorality, uncleanness, lustfulness, idolatry, sorcery, hatred, strife, jealousies, outbursts of anger, rivalries, divisions, heresies, envyings, murders, drunkenness, orgies, and things like these; of which I forewarn you, even as I also forewarned you, that those who practice such things will not inherit the Kingdom of God.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 18:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "There shall not be found with you anyone who makes his son or his daughter to pass through the fire, one who uses divination, one who practices sorcery, or an enchanter, or a sorcerer,",
+          "note": "The vice 'sorcery' (pharmakeia) names a practice condemned in the Deuteronomic catalog of diviners and sorcerers, signaling that Paul's list draws the flesh's works partly from Torah's prohibited paganisms. Coherence with idolatry (next item) strengthens the covenantal framing.",
+          "contested": true,
+          "altSource": "Exodus 22:18"
+        },
+        {
+          "source": "Exodus 20:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“You shall have no other gods before me.",
+          "note": "'Idolatry' as the head of the cultic vices echoes the Decalogue's first/second commandments against other gods and images. Availability and recurrence are high; idolatry is the paradigmatic covenant breach the prophets repeatedly indict."
+        },
+        {
+          "source": "Hosea 4:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "There is cursing, lying, murder, stealing, and committing adultery; they break boundaries, and bloodshed causes bloodshed.",
+          "note": "Hosea's catalog of swearing, lying, killing, stealing, and adultery breaking out is a prophetic vice-list precedent for Paul's enumerated 'works of the flesh.' The form-critical parallel coheres, though Paul's specific items are largely Hellenistic, so the dependence is a structural echo rather than citation.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom of Solomon 14:25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "And all things confusedly are filled with blood and murder, theft and deceit, Corruption, faithlessness, tumult, perjury,",
+          "note": "The deuterocanonical vice-catalog spawned by idolatry (bloodshed, deceit, corruption, disorder, sexual confusion) is a close Second-Temple analogue to Paul's idolatry-rooted list. Availability is strong and the genre match is notable, supporting a Hellenistic-Jewish background for the form.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.7",
+      "ch": 5,
+      "ref": "5:22-23",
+      "text": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control. Against such things there is no law.",
+      "echoes": [
+        {
+          "source": "Isaiah 32:15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Until the Spirit is poured on us from on high, and the wilderness becomes a fruitful field, and the fruitful field is considered a forest.",
+          "note": "The 'fruit of the Spirit' yielding peace and righteousness recalls Isaiah's vision of the Spirit poured from on high making the wilderness fruitful so that the effect of righteousness is peace. The agricultural Spirit-fruit-peace cluster coheres closely with Paul's metaphor.",
+          "contested": true,
+          "altSource": "Isaiah 11:2"
+        },
+        {
+          "source": "Isaiah 11:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The Spirit of Yahweh will rest on him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of Yahweh.",
+          "note": "The sevenfold endowment resting on the messianic shoot (wisdom, counsel, knowledge, fear of the LORD) is the OT prototype of Spirit-borne virtue catalogs that Paul's nine-fold list develops. Volume is faint and the items differ, so this is an underlying conceptual echo of Spirit-given character.",
+          "contested": true,
+          "altSource": "Isaiah 32:15"
+        }
+      ]
+    },
+    {
+      "id": "5.8",
+      "ch": 5,
+      "ref": "5:24-26",
+      "text": "Those who belong to Christ have crucified the flesh with its passions and lusts. If we live by the Spirit, let’s also walk by the Spirit. Let’s not become conceited, provoking one another, and envying one another.",
+      "echoes": [
+        {
+          "source": "Ezekiel 37:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will put my Spirit in you, and you shall live, and I will place you in your own land: and you shall know that I, Yahweh, have spoken it and performed it, says Yahweh.",
+          "note": "'If we live by the Spirit' resonates with Ezekiel's promise 'I will put my Spirit in you and you shall live,' the new-covenant linkage of Spirit and resurrection-life. Coherence is good with Paul's Spirit-life theme, though here it is a faint thematic echo without verbal citation.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 2:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+          "note": "The pairing of Spirit/breath and life behind 'live by the Spirit' may distantly invoke the creation account where God's breath makes the human a living being, now read pneumatologically. Very faint volume; offered as a maximal figural candidate.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.1",
+      "ch": 6,
+      "ref": "6:1-5",
+      "text": "Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness; looking to yourself so that you also aren’t tempted. Bear one another’s burdens, and so fulfill the law of Christ. For if a man thinks himself to be something when he is nothing, he deceives himself. But let each man test his own work, and then he will take pride in himself and not in his neighbor. For each man will bear his own burden.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "\"Bear one another's burdens, and so fulfill the law of Christ\" (v.2) recapitulates Paul's reading of Lev 19:18 as the whole law's summation, already explicit in Gal 5:14. Volume and recurrence within Galatians are high; the burden-bearing of v.2 specifies the neighbor-love command in concrete mutual care. The clearest OT substrate for \"fulfill the law\" here."
+        },
+        {
+          "source": "Genesis 4:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh said to Cain, “Where is Abel, your brother?” He said, “I don’t know. Am I my brother’s keeper?”",
+          "note": "Restoring the one \"caught in some fault\" and mutual responsibility may faintly evoke Cain's \"Am I my brother's keeper?\" as the negative foil. Volume is thin and there is no verbal contact; offered as a contested figural counterpoint to communal accountability.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 24:11-12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Rescue those who are being led away to death! Indeed, hold back those who are staggering to the slaughter! If you say, “Behold, we didn’t know this”; doesn’t he who weighs the hearts consider it? He who keeps your soul, doesn’t he know it? Shall he not render to every man according to his work?",
+          "note": "\"Restore such a one\" and the duty not to ignore the stumbling brother resonates with the sapiential charge to rescue those being led to ruin. Coherence with Paul's communal ethic is moderate but verbal availability is weak; marked contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.2",
+      "ch": 6,
+      "ref": "6:6-10",
+      "text": "But let him who is taught in the word share all good things with him who teaches. Don’t be deceived. God is not mocked, for whatever a man sows, that he will also reap. For he who sows to his own flesh will from the flesh reap corruption. But he who sows to the Spirit will from the Spirit reap eternal life. Let us not be weary in doing good, for we will reap in due season, if we don’t give up. So then, as we have opportunity, let’s do what is good toward all men, and especially toward those who are of the household of the faith.",
+      "echoes": [
+        {
+          "source": "Job 4:8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "According to what I have seen, those who plow iniquity, and sow trouble, reap the same.",
+          "note": "\"Whatever a man sows, that he will also reap\" (v.7) draws on the wisdom maxim of moral retribution stated in Job 4:8, \"those who plow iniquity and sow trouble reap the same.\" The sowing/reaping figure is a stock OT idiom; volume is high and coherence with Paul's flesh-vs-Spirit harvest (v.8) is strong."
+        },
+        {
+          "source": "Hosea 8:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For they sow the wind, and they will reap the whirlwind. He has no standing grain. The stalk will yield no head. If it does yield, strangers will swallow it up.",
+          "note": "Hosea's \"they sow the wind and reap the whirlwind\" is the prophetic locus for inexorable sowing-reaping judgment, closely matching Gal 6:7-8's certainty that the harvest answers the seed. Recurrence of the agricultural-judgment topos across the prophets supports availability; coherence with reaping corruption is high."
+        },
+        {
+          "source": "Hosea 10:12-13",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground; for it is time to seek Yahweh, until he comes and rains righteousness on you. You have plowed wickedness. You have reaped iniquity. You have eaten the fruit of lies, for you trusted in your way, in the multitude of your mighty men.",
+          "note": "Hosea 10:12-13 opposes sowing righteousness/steadfast love and reaping accordingly versus plowing iniquity and reaping injustice, the same antithetical structure as Paul's sowing to the flesh vs. to the Spirit (v.8). The two-way harvest imagery makes this among the strongest prophetic substrates for the pericope."
+        },
+        {
+          "source": "Proverbs 22:8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He who sows wickedness reaps trouble, and the rod of his fury will be destroyed.",
+          "note": "\"Whoever sows injustice will reap calamity\" supplies the sapiential form of the maxim Paul cites in v.7. Volume is moderate and the proverb belongs to the same cluster as Job 4:8; coherence is high though no single source is quoted verbatim.",
+          "lxxText": "He that sows wickedness shall reap troubles; and shall fully receive the punishment of his deeds. God loves a cheerful and liberal man; but a man shall fully prove the folly of his works."
+        },
+        {
+          "source": "Proverbs 11:18",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Wicked people earn deceitful wages, but one who sows righteousness reaps a sure reward.",
+          "note": "\"Whoever sows righteousness gets a sure reward\" matches the positive pole of Paul's harvest (\"sows to the Spirit will reap eternal life,\" v.8) and the promise of v.9 that doing good will reap in due season. Part of the wisdom sowing-cluster; offered as a corroborating echo rather than a single source."
+        },
+        {
+          "source": "Sirach 7:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "My son, sow not upon the furrows of unrighteousness, And you shall not reap them sevenfold.",
+          "note": "\"Do not sow in the furrows of injustice, lest you reap them sevenfold\" is the Second-Temple form of the maxim, demonstrating its currency in Paul's milieu (availability). Volume is moderate; it strengthens the case that v.7 cites a proverbial commonplace rather than one prophet."
+        },
+        {
+          "source": "Deuteronomy 11:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "that I will give the rain of your land in its season, the former rain and the latter rain, that you may gather in your grain, your new wine, and your oil.",
+          "note": "\"We will reap in due season\" (v.9) may faintly recall the covenant promise of rain and harvest \"in its season\" for obedience. Coherence with eschatological reaping is partial and the verbal link is thin; marked contested.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 126:5-6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Those who sow in tears will reap in joy. He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves.",
+          "note": "\"Those who sow in tears shall reap with shouts of joy\" parallels v.9's encouragement not to grow weary because reaping comes in due season if one does not give up. The consolatory sowing-reaping reversal coheres with Paul's exhortation, though there is no verbal citation; contested.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 32:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Is this the way you repay Yahweh, foolish and unwise people? Isn’t he your father who has bought you? He has made you and established you.",
+          "note": "\"God is not mocked\" (v.7) resonates with the Song of Moses' rebuke of the people who treat the LORD with contempt and with the broader OT motif that God will not be derided. Volume is low and no single text is in view; offered as a faint contested backdrop.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.3",
+      "ch": 6,
+      "ref": "6:11-15",
+      "text": "See with what large letters I write to you with my own hand. As many as desire to look good in the flesh, they compel you to be circumcised; only that they may not be persecuted for the cross of Christ. For even they who receive circumcision don’t keep the law themselves, but they desire to have you circumcised, that they may boast in your flesh. But far be it from me to boast, except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world. For in Christ Jesus neither is circumcision anything, nor uncircumcision, but a new creation.",
+      "echoes": [
+        {
+          "source": "Isaiah 65:17",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“For, behold, I create new heavens and a new earth; and the former things shall not be remembered, nor come into mind.",
+          "note": "\"Neither circumcision... but a new creation\" (v.15) draws on Isaiah's \"new heavens and a new earth,\" the prophetic announcement of God's eschatological re-creation. Recurrence of the new-creation theme across Isaiah and coherence with Paul's crucified-world (v.14) make this the primary OT source for kaine ktisis."
+        },
+        {
+          "source": "Isaiah 66:22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“For as the new heavens and the new earth, which I will make, shall remain before me,” says Yahweh, “so your seed and your name shall remain.",
+          "note": "Isaiah 66:22's \"new heavens and new earth\" that shall remain reinforces 65:17 as the scriptural matrix for the abiding \"new creation\" of v.15. The pairing supplies recurrence within Isaiah; coherence with Paul's contrast between old marks-in-the-flesh and new creation is strong."
+        },
+        {
+          "source": "Isaiah 43:18-19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Don’t remember the former things, and don’t consider the things of old. Behold, I will do a new thing. It springs out now. Don’t you know it? I will even make a way in the wilderness, and rivers in the desert.",
+          "note": "\"Do not remember the former things... I am doing a new thing\" frames the new creation as the displacement of what is old, paralleling Paul's relegation of circumcision/uncircumcision to nothing (v.15). Volume is moderate and the theme is part of Isaiah's new-exodus cluster."
+        },
+        {
+          "source": "Ezekiel 36:26",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I will also give you a new heart, and I will put a new spirit within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh.",
+          "note": "The promise of a \"new heart\" and \"new spirit\" undergirds Paul's interior new-creation reality over against fleshly circumcision (vv.12-15). Coherence with the flesh/Spirit antithesis of the chapter is high, though the language is anthropological rather than cosmic; corroborating echo."
+        },
+        {
+          "source": "Jeremiah 9:25-26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Behold, the days come, says Yahweh, that I will punish all those who are circumcised in uncircumcision: Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all that have the corners of their hair cut off, who dwell in the wilderness; for all the nations are uncircumcised, and all the house of Israel are uncircumcised in heart.",
+          "note": "Jeremiah's oracle that God will punish all who are \"circumcised yet uncircumcised\"—Israel being uncircumcised in heart—anticipates Paul's devaluing of fleshly circumcision in favor of inward transformation (vv.12-15). Volume is moderate; the prophetic relativizing of physical circumcision strongly coheres with Paul's argument."
+        },
+        {
+          "source": "Deuteronomy 10:16",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Circumcise therefore the foreskin of your heart, and be no more stiff-necked.",
+          "note": "\"Circumcise the foreskin of your heart\" supplies the Torah's own move from fleshly to inward circumcision, the trajectory Paul completes with \"new creation\" (v.15). Coherence is high and the motif recurs (Deut 30:6); offered as a corroborating echo of the heart-circumcision tradition."
+        }
+      ]
+    },
+    {
+      "id": "6.4",
+      "ch": 6,
+      "ref": "6:16-18",
+      "text": "As many as walk by this rule, peace and mercy be on them, and on God’s Israel. From now on, let no one cause me any trouble, for I bear the marks of the Lord Jesus branded on my body. The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.",
+      "echoes": [
+        {
+          "source": "Psalm 125:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "But as for those who turn aside to their crooked ways, Yahweh will lead them away with the workers of iniquity. Peace be on Israel.",
+          "note": "\"Peace... on God's Israel\" (v.16) echoes the psalm's closing benediction \"Peace be upon Israel,\" a liturgical blessing Paul redirects to those who walk by the rule of new creation. Volume and the formulaic shape (peace-upon-Israel) are high; coherence with a closing benediction is exact."
+        },
+        {
+          "source": "Psalm 128:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yes, may you see your children’s children. Peace be upon Israel.",
+          "note": "Psalm 128:6 likewise ends \"Peace be upon Israel,\" reinforcing v.16 as a deliberate echo of the Psalter's pilgrimage benediction. Recurrence of the exact phrase across Pss 125 and 128 strengthens availability; Paul invokes the blessing while redefining its recipients."
+        },
+        {
+          "source": "Numbers 6:24-26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "‘Yahweh bless you, and keep you. Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.’",
+          "note": "The Aaronic benediction—\"the LORD... give you peace\"—is the liturgical fountainhead for pronouncing peace and mercy upon Israel (v.16). Volume of the peace-blessing motif is high though the verbal contact is thematic; coherence with a closing apostolic blessing is strong."
+        },
+        {
+          "source": "Ezekiel 9:4-6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh said to him, Go through the midst of the city, through the midst of Jerusalem, and set a mark on the foreheads of the men that sigh and that cry over all the abominations that are done in its midst. To the others he said in my hearing, Go through the city after him, and strike: don’t let your eye spare, neither have pity; kill utterly the old man, the young man and the virgin, and little children and women; but don’t come near any man on whom is […]",
+          "note": "\"I bear the marks of the Lord Jesus branded on my body\" (v.17) evokes the protective mark (taw) set on the foreheads of the faithful who are spared the slaughter. The marking that distinguishes God's own coheres with Paul's stigmata as the true seal over against circumcision; verbal contact is figural but apt.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 44:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "One will say, ‘I am Yahweh’s;’ and another will be called by the name of Jacob; and another will write with his hand ‘to Yahweh,’ and honor the name of Israel.”",
+          "note": "Isaiah's image of one who \"writes on his hand, 'The LORD's,'\" marking belonging to God, parallels Paul's bodily \"marks of Jesus\" (v.17) as a sign of ownership. Coherence with the slave-brand/belonging motif is good; volume is moderate and the link is figural.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 28:36-38",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“You shall make a plate of pure gold, and engrave on it, like the engravings of a signet, ‘HOLY TO YAHWEH.’ You shall put it on a lace of blue, and it shall be on the sash; on the front of the sash it shall be. It shall be on Aaron’s forehead, and Aaron shall bear the iniquity of the holy things, which the children of Israel shall make holy in all their holy gifts; and it shall be always on his forehead, that they may be accepted before Yahweh.",
+          "note": "The high-priestly gold plate engraved \"Holy to the LORD\" worn on the body has been proposed as background for Paul's engraved marks of Jesus (v.17). The cultic-engraving association is suggestive but verbally remote; offered as a contested, low-volume echo.",
+          "contested": true,
+          "altSource": "Ezekiel 9:4-6"
+        },
+        {
+          "source": "Leviticus 19:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“‘You shall not make any cuttings in your flesh for the dead, nor tattoo any marks on you. I am Yahweh.",
+          "note": "The Torah's prohibition of cutting marks in the flesh forms an ironic backdrop to Paul's embrace of the \"marks of Jesus\" (v.17) as honorable wounds. The connection is conceptual rather than citational and runs by contrast; marked contested.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-5",
+    "echoes": [
+      {
+        "source": "Deuteronomy 28:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's charge that someone has 'bewitched' the Galatians faintly recalls the covenant-curse language of bewilderment and madness in Deut 28:28-29, part of the curses for disobedience that frame this whole chapter. The connection is thematic rather than verbal and rests on the evil-eye/curse motif. Contested and faint.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The reception of the Spirit by hearing of faith evokes the eschatological outpouring of the Spirit promised in Joel 2:28-29, which undergirds Paul's argument that the Spirit is the mark of the new age. Verbal volume is low; the link is conceptual via the promised-Spirit theme that culminates in v.14. Contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:6-9",
+    "echoes": [
+      {
+        "source": "Genesis 15:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verbatim LXX citation: 'Abraham believed God, and it was counted to him for righteousness.' This is the foundational proof-text of Paul's whole justification-by-faith argument, repeated at Romans 4:3 and James 2:23, satisfying recurrence and high volume. Availability and coherence are maximal.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 12:3",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The promise 'In you all the nations will be blessed' is drawn from the Abrahamic blessing first given in Gen 12:3. Paul fuses the wording with Gen 18:18 and 22:18; the universal-blessing-of-the-nations formula is the engine of his Gentile-inclusion argument. High volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Gen 18:18 LXX reads 'all the nations of the earth will be blessed in him,' supplying the 'all the nations' (panta ta ethne) wording Paul's citation in v.8 matches more closely than Gen 12:3. The conflated citation strengthens recurrence of the blessing-promise.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Gen 22:18 ('in your seed shall all the nations of the earth be blessed') links the nations-blessing to Abraham's 'seed,' which Paul exploits in v.16. The verbal overlap with v.8's citation is strong and the seed-blessing connection is structurally central. High coherence.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:10-14",
+    "echoes": [
+      {
+        "source": "Deuteronomy 27:26",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verbatim LXX citation: 'Cursed is everyone who doesn't continue in all things written in the book of the law, to do them.' Paul adds 'all' (pasin) emphasizing total obedience. This is a formal proof-text from the Shechem curse-liturgy, high in volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Habakkuk 2:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The righteous will live by faith' cites Hab 2:4, a programmatic text Paul also uses at Romans 1:17 (and Hebrews 10:38), giving strong recurrence. Paul follows a form close to the LXX but drops the possessive pronoun. The faith/life antithesis is the hinge of his argument.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 18:5",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The man who does them will live by them' cites Lev 18:5 (LXX), set in deliberate antithesis to Hab 2:4. Paul reuses the same text at Romans 10:5, establishing recurrence; it embodies the law's do-and-live principle he contrasts with faith. High volume.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 21:23",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Cursed is everyone who hangs on a tree' adapts Deut 21:23 ('cursed by God is everyone hanged on a tree'). Paul abbreviates, omitting 'by God,' to apply the law's own curse to the crucified Christ. The hanged-on-a-tree language is load-bearing for his redemption argument. High coherence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 12:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'That the blessing of Abraham might come on the Gentiles' (v.14) restates the Abrahamic promise of Gen 12:3/18:18/22:18, now realized in Christ. This is the resolution of the citation chain begun in v.8, so the recurrence within the chapter is strong. Allusive recapitulation rather than fresh quotation.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The promise of the Spirit' (v.14) may echo the prophetic promise of the poured-out Spirit (Joel 2:28-29; cf. Isaiah 44:3; Ezekiel 36:27). Paul does not cite a text, but the eschatological-Spirit-promise tradition stands behind the phrase. Contested and diffuse.",
+        "contested": true,
+        "altSource": "Isaiah 44:3"
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:15-18",
+    "echoes": [
+      {
+        "source": "Genesis 13:15",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'To your seed' (v.16) cites the recurring promise to Abraham 'and to your seed' in Gen 13:15 (cf. 17:8; 24:7). Paul's argument turns on the singular collective noun 'seed' (sperma) read messianically as Christ. The verbal anchor is exact and central to the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 17:8",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Gen 17:8 ('to you and to your seed after you') is another occurrence of the singular-seed promise Paul exploits, tied to the everlasting covenant. The recurrence of 'and to your seed' across Genesis is exactly what Paul leverages grammatically. High volume.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 24:7",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Gen 24:7 ('to your seed I will give this land') is a further instance of the singular-seed land-promise underlying v.16. Listing these reinforces that Paul's 'not seeds but seed' rests on a real and recurrent Genesis formula. High coherence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 12:40",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The '430 years' (v.17) between promise and law derives from Exod 12:40 LXX, which dates Israel's sojourn at 430 years. Paul uses the figure to prove the law came later and cannot annul the prior covenant. The specific number makes the allusion strong despite no quoted clause.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 15:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's framing of the Abrahamic 'covenant' (diatheke) confirmed by God draws on the covenant-cutting of Gen 15:18 (cf. Gen 17). The covenant concept rather than wording is in view, undergirding the legal analogy of v.15. Faint and conceptual.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.5",
+    "ch": 3,
+    "ref": "3:19-22",
+    "echoes": [
+      {
+        "source": "Deuteronomy 33:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Ordained through angels' (v.19) reflects the Second-Temple tradition that the law was mediated by angels at Sinai, grounded in Deut 33:2 LXX ('at his right hand angels with him') and reflected in Acts 7:53 and Hebrews 2:2. The angelic-mediation reading is available in the LXX and intertestamental sources. Medium volume.",
+        "contested": false,
+        "altSource": "Psalm 68:17"
+      },
+      {
+        "source": "Psalm 68:17",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Ps 68:17 (LXX 67:18), 'the chariots of God are myriads... the Lord among them at Sinai,' contributed to the tradition of angelic hosts at the Sinai law-giving behind v.19. The link is part of a cluster of texts, not a single source; verbal contact is slight. Contested.",
+        "contested": true,
+        "altSource": "Deuteronomy 33:2"
+      },
+      {
+        "source": "Leviticus 18:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'If there had been a law given which could make alive' (v.21) replays the do-and-live principle of Lev 18:5 cited in v.12, now denied as a means of life. The intra-chapter recurrence of the life-by-law motif makes the allusion coherent though not re-quoted.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 14:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Scripture imprisoned all things under sin' (v.22) summarizes the universal-sinfulness verdict Paul elsewhere proves with a catena including Ps 14:1-3 (cf. Rom 3:9-19). No clause is quoted here, but the scriptural confinement-under-sin theme draws on that tradition. Contested and diffuse.",
+        "contested": true,
+        "altSource": "Psalm 143:2"
+      },
+      {
+        "source": "Psalm 143:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ps 143:2 ('no one living is righteous before you'), which Paul cites at Gal 2:16 and Rom 3:20, stands behind the 'all under sin' verdict of v.22. The echo continues the justification argument from the previous chapter. Faint; offered as an alternative scriptural ground.",
+        "contested": true,
+        "altSource": "Psalm 14:3"
+      }
+    ]
+  },
+  {
+    "id": "3.6",
+    "ch": 3,
+    "ref": "3:23-29",
+    "echoes": [
+      {
+        "source": "Genesis 1:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'There is neither... male nor female' (v.28) verbally echoes Gen 1:27 LXX 'male and female he created them' (arsen kai thely), the only place this exact pairing occurs. Paul's shift from 'nor/nor' to 'and' marks the deliberate citation; the new creation in Christ relativizes the created distinction. Medium-high volume on the specific phrase.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 13:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You are Abraham's seed and heirs according to promise' (v.29) recapitulates the singular-seed promise of Gen 13:15/17:8 expounded in v.16, now extended to all who are Christ's. This closes the chapter's inclusio on seed/promise/inheritance with strong intra-chapter recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The heirs-of-promise climax (v.29) realizes the seed-and-nations blessing of Gen 22:18, gathering Gentile believers into Abraham's offspring. It reprises the citation chain (vv.8, 16) and so coheres with the chapter's argument, though without fresh wording. Medium.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 61:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Put on Christ' (v.27) may echo the clothing-with-salvation imagery of Isa 61:10 ('he has clothed me with garments of salvation') and the robing motif of Zechariah 3:4. The metaphor of investiture is available in the prophets but the contact is thematic, not verbal. Contested and faint.",
+        "contested": true,
+        "altSource": "Zechariah 3:4"
+      }
+    ]
+  }
+]

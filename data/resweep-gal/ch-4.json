@@ -1,0 +1,205 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-7",
+    "echoes": [
+      {
+        "source": "Genesis 3:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"God sent out his Son, born to a woman\" (v.4) faintly evokes the protoevangelium's promise of the woman's seed who undoes the serpent. Coherence with Paul's redemption-of-the-enslaved theme is real but the verbal volume is thin; the phrase 'born of woman' is a common idiom (cf. Job). Marked low and contested.",
+        "contested": true,
+        "altSource": "Job 14:1"
+      },
+      {
+        "source": "Exodus 4:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The cluster of sonship/adoption/firstborn language (vv.5-7, 'receive the adoption,' 'no longer a bondservant but a son,' 'heir') recalls God's claim 'Israel is my son, my firstborn.' Coherence is high in a redemption-from-bondage argument that runs on Exodus categories; Recurrence of son/heir terms supports it. Verbal volume is moderate, hence allusion not quotation.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 11:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Out of Egypt I called my son' supplies the same divine sonship motif undergirding 'God sent out his Son' and the adoption of children. The link is conceptual rather than verbal in Galatians; availability and coherence hold but volume is low. Contested as a deliberate echo.",
+        "contested": true,
+        "altSource": "Exodus 4:22"
+      },
+      {
+        "source": "Exodus 6:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'That he might redeem those who were under the law' (v.5) draws on the Exodus vocabulary of God redeeming a people from slavery (cf. Exod 6:6, 15:13). The redemption-from-bondage frame coheres tightly with Paul's slave/son contrast, but no single Exodus verse is quoted, so this is a diffuse echo.",
+        "contested": true,
+        "altSource": "Deuteronomy 7:8"
+      }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:8-11",
+    "echoes": [
+      {
+        "source": "Genesis 1:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You observe days, months, seasons, and years' (v.10) maps onto the creation luminaries appointed 'for signs and for seasons and for days and years,' the calendrical basis of Israel's festal observance Paul deprecates. The four-term sequence is a strong verbal/structural match; coherence with the 'elemental principles' (stoicheia, vv.3,9) reinforces it.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 23:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'days, months, seasons' Paul names are the appointed feasts, sabbaths, and new moons codified in the festal calendar of Lev 23. Coherence is high since the agitators urge Torah calendar observance; the allusion is to the institution as a whole rather than to a single quoted clause.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 1:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's wariness of 'new moons and sabbaths' calendar piety echoes Isaiah's prophetic critique of 'new moon and sabbath' observance that God comes to loathe. The polemical stance coheres, but Galatians supplies no shared wording, so this is a faint echo at best.",
+        "contested": true,
+        "altSource": "Hosea 2:11"
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:12-20",
+    "echoes": [
+      {
+        "source": "Malachi 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You received me as an angel/messenger of God' (v.14) may glance at the messenger-of-the-Lord motif (Mal 2:7; cf. Zech) where a human envoy is welcomed as God's representative. The wording is generic and the link is weak; marked low and contested.",
+        "contested": true,
+        "altSource": "Malachi 3:1"
+      }
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:21-23",
+    "echoes": [
+      {
+        "source": "Genesis 16:15",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Abraham had two sons, one by the handmaid' (v.22) directly recounts Hagar bearing Ishmael to Abraham. This is the foundational narrative Paul allegorizes; the citation is explicit ('it is written') and figurally load-bearing for the whole pericope.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 21:2",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'One by the free woman' born 'through promise' (vv.22-23) recounts Sarah bearing Isaac at the appointed time God had promised. Volume and coherence are maximal; Paul builds the free-woman/promise half of the allegory directly on this Genesis event.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 17:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The son by the free woman was born through promise' (v.23) rests on God's explicit promise that Sarah would bear a son and become 'mother of nations.' Coherence with Paul's promise/flesh antithesis is exact; the promise to Sarah is the textual hinge of the contrast.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'born through promise' language (v.23) echoes the annunciation 'I will surely return to you, and Sarah your wife shall have a son.' This is the verbal source of the divine promise of Isaac that Paul treats as paradigmatic; recurrence with 17:16 strengthens it.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 16:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The son by the handmaid was born according to the flesh' (v.23) recalls the merely human stratagem of Gen 16, where Sarai gives Hagar to Abram to bear a child by ordinary means. Coherence with Paul's flesh/Spirit antithesis is strong; supplies the 'according to the flesh' pole.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "4.5",
+    "ch": 4,
+    "ref": "4:24-27",
+    "echoes": [
+      {
+        "source": "Isaiah 54:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "V.27 quotes Isaiah 54:1 almost verbatim (LXX): 'Rejoice, you barren who don't bear... more are the children of the desolate than of her who has a husband.' Highest volume; the barren-now-fruitful Zion is mapped onto the free Jerusalem above and Sarah. Explicit 'it is written.'",
+        "contested": false
+      },
+      {
+        "source": "Genesis 16:15",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'One is from Mount Sinai, bearing children to bondage, which is Hagar' (v.24-25) keys the whole covenant typology to the Hagar narrative. The figural identification of Hagar with Sinai/present Jerusalem in slavery is the interpretive core of the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 19:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'One is from Mount Sinai, bearing children to bondage' (v.24) presupposes the Sinai covenant/law-giving (Exod 19-20) which Paul recategorizes as enslaving. Coherence with the two-covenants argument is high; the allusion is to the Sinai event as institution.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 2:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Jerusalem that is above is free, the mother of us all' (v.26) draws on the prophetic exaltation of Zion as the mother-city to which nations stream. Conceptual availability is strong (heavenly/eschatological Zion) but Galatians supplies no shared wording, so low/contested.",
+        "contested": true,
+        "altSource": "Isaiah 60:4"
+      },
+      {
+        "source": "Psalm 87:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'Jerusalem above... mother of us all' (v.26) coheres with Zion as the mother of whom it is said 'this one and that one were born in her.' The maternal-Zion motif is apt but verbally faint in Galatians; marked low and contested.",
+        "contested": true,
+        "altSource": "Isaiah 66:8"
+      }
+    ]
+  },
+  {
+    "id": "4.6",
+    "ch": 4,
+    "ref": "4:28-31",
+    "echoes": [
+      {
+        "source": "Genesis 21:2",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'We, brothers, as Isaac was, are children of promise' (v.28) identifies believers with Isaac, the son born by promise (Gen 21:1-2). Coherence with the promise/flesh allegory is exact; Isaac is the explicit figural type.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 21:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He who was born according to the flesh persecuted him who was born according to the Spirit' (v.29) draws on Ishmael 'mocking/playing with' Isaac (Gen 21:9), read in Jewish tradition as persecution. Strong coherence; supplies the persecution motif Paul applies to the agitators.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 21:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "V.30 quotes Gen 21:10 (Sarah's words): 'Throw out the handmaid and her son, for the son of the handmaid will not inherit with the son of the free woman.' High verbal volume; the inheritance/exclusion ruling is Paul's clinching scriptural warrant, marked 'what does the Scripture say.'",
+        "contested": false
+      },
+      {
+        "source": "Genesis 16:15",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'We are not children of a handmaid, but of the free woman' (v.31) closes the allegory by reasserting the Hagar/Sarah identification. The figural reading of the slave-woman narrative governs the concluding antithesis.",
+        "contested": false
+      }
+    ]
+  }
+]

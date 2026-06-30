@@ -1,0 +1,138 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-10",
+    "echoes": [
+      {
+        "source": "Genesis 17:9-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Titus 'was not compelled to be circumcised' presupposes the Abrahamic covenant of circumcision as the entry sign for the people of God. Volume is high (circumcision is the named issue) and availability is secure: Genesis 17 is the foundational text the agitators would invoke. Paul refuses to extend its obligation to Gentile believers.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 10:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'God doesn't show partiality to man' (v.6) closely echoes the Deuteronomic formula that God 'is not partial and takes no bribe.' Recurrence is strong across the OT (2 Chronicles 19:7; Job 34:19), and the coherence with Paul's leveling of Jew and Gentile standing is exact.",
+        "contested": false,
+        "altSource": "Leviticus 19:15; 2 Chronicles 19:7; Job 34:19"
+      },
+      {
+        "source": "Deuteronomy 15:7-11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'They only asked us to remember the poor' draws on the Torah's central charge to open the hand to the poor brother and that 'the poor will never cease out of the land.' Volume and coherence are high: care for the poor is a covenant obligation Paul gladly affirms as binding on the Gentile mission.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 19:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Remember the poor' resonates with the wisdom maxim that one who is kind to the poor lends to the LORD. Recurrence within Proverbs (14:21, 14:31, 28:27) strengthens the theme, though the verbal link is thematic rather than lexical.",
+        "contested": false,
+        "altSource": "Proverbs 14:31; Proverbs 28:27"
+      },
+      {
+        "source": "Psalm 41:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The blessing on 'the one who considers the poor' offers a Psalter parallel to the Jerusalem charge to remember the poor. The link is thematic, supported by the wide OT recurrence of poverty-care language, but no distinctive wording is shared.",
+        "contested": true,
+        "altSource": "Deuteronomy 15:7-11"
+      },
+      {
+        "source": "Isaiah 49:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's fear that he 'might be running, or had run, in vain' (v.2) echoes the Servant's lament, 'I have labored in vain, I have spent my strength for nothing.' Coherence with Paul's self-understanding as a Servant-shaped apostle to the nations (Isaiah 49:6) raises this above a stock idiom.",
+        "contested": true,
+        "altSource": "Isaiah 65:23"
+      },
+      {
+        "source": "1 Kings 7:21",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Calling James, Cephas, and John 'pillars' may evoke the temple pillars Jachin and Boaz, casting the apostles as load-bearing supports of a new temple-people. The figure is suggestive but the term was also a common honorific, so volume is low.",
+        "contested": true,
+        "altSource": "Proverbs 9:1"
+      },
+      {
+        "source": "Numbers 13:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'false brothers... who stole in to spy out our liberty' uses reconnaissance imagery that may faintly recall the spying-out of the land. The verbal touch is the espionage motif; coherence is weak since Paul's spies are hostile infiltrators rather than scouts, so this remains a contested, faint echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:11-14",
+    "echoes": [
+      {
+        "source": "Leviticus 11:1-47",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Antioch dispute over Peter eating with the Gentiles and then drawing back turns on the clean/unclean food and table-purity system. Volume and coherence are high: the dietary code is precisely the barrier that the withdrawal from common meals re-erects between Jew and Gentile.",
+        "contested": false,
+        "altSource": "Deuteronomy 14:3-21"
+      },
+      {
+        "source": "Ezra 9:1-10:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Peter 'drew back and separated himself' from Gentile table fellowship echoes the post-exilic policy of separation from the peoples of the land to preserve covenant purity. Coherence is strong; Paul reads such separation as a betrayal of the gospel's truth rather than fidelity.",
+        "contested": false,
+        "altSource": "Nehemiah 13:1-3"
+      },
+      {
+        "source": "Nehemiah 13:23-27",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The separatist withdrawal at Antioch resonates with Nehemiah's enforcement of separation from intermarriage and foreign association. The link is thematic (covenant boundary-keeping) and reinforces the Ezra parallel, though it shares no distinctive vocabulary with Paul.",
+        "contested": true,
+        "altSource": "Ezra 9-10"
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:15-21",
+    "echoes": [
+      {
+        "source": "Psalm 143:2",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'No flesh will be justified by the works of the law' (v.16) reworks the psalm's plea, 'do not enter into judgment with your servant, for no one living is righteous before you.' The shared 'no one living / no flesh... righteous/justified before God' is verbally close to the LXX and used by Paul as a scriptural axiom (cf. Romans 3:20).",
+        "contested": false
+      },
+      {
+        "source": "Habakkuk 2:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The life I now live in the flesh I live by faith' (v.20) anticipates and draws on 'the righteous shall live by faith,' the verse Paul quotes explicitly at 3:11. Coherence with the letter's core thesis is high and recurrence within Galatians strengthens the case, though here the allusion is woven rather than cited.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 1:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'If I build up again those things which I destroyed' (v.18) employs the prophetic pairing of tearing down and building up (Jeremiah's commission 'to break down... and to build'). The imagery is suggestive but the building/destroying word-pair is widespread, so the echo is faint and contested.",
+        "contested": true,
+        "altSource": "Jeremiah 31:28; Jeremiah 24:6"
+      },
+      {
+        "source": "Isaiah 53:5-6",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'The Son of God, who loved me, and gave himself up for me' (v.20) configures Christ's self-surrender along the lines of the Servant 'handed over' for the sins of the people. Coherence with early Christian Servant Christology supports it, but the link is interpretive rather than lexical here.",
+        "contested": true,
+        "altSource": "Isaiah 53:10-12"
+      }
+    ]
+  }
+]
