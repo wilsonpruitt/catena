@@ -102,6 +102,9 @@ export default function IndexFontium({ data }: { data: Fontium }) {
         <p style={S.credit}>
           {data.books.length} sources · {data.total} echoes · indexing {data.indexed.join(" & ")}
         </p>
+        <Link href="/fontium/map" className="fontium-home" style={S.spineLink}>
+          ⛓ View the spine — the whole canon&rsquo;s flow, drawn →
+        </Link>
       </header>
 
       <main style={S.main}>
@@ -222,6 +225,7 @@ const S: Record<string, CSSProperties> = {
   rule: { width: 80, height: 1, backgroundColor: "#cf7b6e", margin: "14px auto" },
   subtitle: { fontFamily: "'Cormorant Garamond', serif", fontSize: 18, color: "#cf7b6e", margin: 0, fontStyle: "italic", letterSpacing: 1 },
   credit: { fontSize: 11.5, color: "#9a8c7e", margin: "12px 0 0", letterSpacing: 1 },
+  spineLink: { display: "inline-block", marginTop: 14, color: "#cf7b6e", textDecoration: "none", fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: 14, fontWeight: 600, letterSpacing: 1, transition: "color 0.15s" },
   main: { maxWidth: 880, margin: "0 auto", padding: "36px 24px 80px" },
   lede: { fontSize: 16, lineHeight: 1.7, color: "#4a3d30", marginBottom: 26 },
   filterRow: { display: "flex", alignItems: "center", gap: 8, marginBottom: 22, flexWrap: "wrap" },
