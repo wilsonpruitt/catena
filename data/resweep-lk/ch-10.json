@@ -1,0 +1,381 @@
+[
+  {
+    "id": "10.1",
+    "ch": 10,
+    "ref": "10:1-12",
+    "echoes": [
+      {
+        "source": "Numbers 11:16-17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus appoints seventy and sends them out as bearers of his commissioned authority, evoking the seventy elders on whom God places the spirit that was on Moses. Volume is strong in the precise number seventy and the theme of delegated, Spirit-empowered authority; coherence with Luke's Moses typology (the prophet like Moses, Acts 3) reinforces it.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:24-25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The gathering and dispersal of the seventy who then prophesy parallels the sending two by two and the later joyful report of empowered ministry. Recurrence of the seventy-elders motif within the same Numbers pericope strengthens the linkage to Luke's mission.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 24:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The seventy who ascend with Moses to ratify the covenant supply an alternate or supplementary base for the number seventy as a body of authorized representatives of Israel. Availability and the fixed numeral make it a plausible secondary source alongside Numbers 11.",
+        "contested": true,
+        "altSource": "Numbers 11:16-17"
+      },
+      {
+        "source": "Genesis 10",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The Table of Nations was reckoned in Jewish tradition as seventy (LXX seventy-two) nations, so a seventy(-two)-fold mission figurally anticipates the Gentile harvest, fitting Luke-Acts' universal scope. The textual variant seventy/seventy-two mirrors the MT/LXX count of the nations, a coherence rarely coincidental.",
+        "contested": true,
+        "altSource": "Numbers 11:16-17"
+      },
+      {
+        "source": "Joel 3:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The plentiful harvest needing laborers draws on the prophetic harvest as eschatological ingathering and judgment, where the sickle is put in because the harvest is ripe. The agrarian-eschatological coherence with the kingdom drawing near and the Sodom verdict supports the echo.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 27:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's image of Israel gathered one by one in a threshing harvest offers a salvific (not only judicial) backdrop for the abundant harvest and few laborers. The link is faint, resting on shared harvest-of-the-people imagery rather than verbal contact.",
+        "contested": true,
+        "altSource": "Joel 3:13"
+      },
+      {
+        "source": "Ezekiel 22:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Sending disciples as lambs among wolves inverts Ezekiel's indictment of Israel's leaders as wolves tearing prey, casting the unreceptive towns in the role of predators against God's defenseless agents. The predator-prey coherence and prophetic-judgment context align with Luke's woes that follow.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 3:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zephaniah likewise depicts the city's officials as evening wolves leaving nothing till morning, a stock prophetic figure for rapacious leadership menacing the righteous. The recurrence of the wolf-against-flock trope makes it a plausible faint background to lambs among wolves.",
+        "contested": true,
+        "altSource": "Ezekiel 22:27"
+      },
+      {
+        "source": "Genesis 19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The verdict that it will be more tolerable for Sodom than for the rejecting city invokes the paradigmatic destruction of Sodom as the measure of judgment for inhospitality. Volume and availability are high, and the inhospitality theme coheres exactly with rejecting the sent messengers.",
+        "contested": false
+      },
+      {
+        "source": "Nehemiah 5:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Shaking the dust off as a sign-act against the city recalls prophetic gestures of curse and separation, of which Nehemiah's shaking out his lap is a near analogue. The connection is by gesture-type rather than wording, so it remains faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.2",
+    "ch": 10,
+    "ref": "10:13-16",
+    "echoes": [
+      {
+        "source": "Isaiah 23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The naming of Tyre and Sidon as objects of judgment draws on the classic prophetic oracle against Tyre, here flipped so the Phoenician cities would have repented sooner than the Galilean towns. Availability and the precise city pairing support the allusion to the burden-of-Tyre tradition.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 26-28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel's extended oracles against Tyre (and Sidon) form the deepest reservoir for Tyre and Sidon as archetypes of proud, doomed Gentile power. The pairing and the judgment frame recur strongly enough to count as a deliberate evocation.",
+        "contested": false
+      },
+      {
+        "source": "Joel 3:4-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joel arraigns Tyre and Sidon together for their treatment of God's people, a near-verbal precedent for Luke's paired cities under judgment. The link is secondary to Isaiah/Ezekiel but adds recurrence to the Tyre-Sidon judgment motif.",
+        "contested": true,
+        "altSource": "Isaiah 23"
+      },
+      {
+        "source": "Zechariah 9:2-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zechariah foretells Tyre and Sidon's downfall despite their wisdom and wealth, reinforcing the proverbial doom of the pair. It is a faint contributory echo rather than the primary source.",
+        "contested": true,
+        "altSource": "Ezekiel 26-28"
+      },
+      {
+        "source": "Jonah 3:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Repenting in sackcloth and ashes echoes the Ninevites' (and their king's) repentance, the Bible's signal case of a Gentile city repenting at a prophet's word. The coherence is pointed: pagan cities would have repented, shaming unrepentant Israel.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 9:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Sackcloth and ashes as the posture of contrition appears in Daniel's penitential prayer, part of a recurring biblical idiom for mourning and repentance. It is a stock-phrase echo supplying availability rather than a specific allusion.",
+        "contested": true,
+        "altSource": "Jonah 3:6"
+      },
+      {
+        "source": "Isaiah 14:13-15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Capernaum exalted to heaven yet brought down to Hades closely tracks the taunt over the king of Babylon who said he would ascend to heaven but is brought down to Sheol. Volume is high (near-verbal antithesis of heaven/Hades) and coherence with proud-city judgment is exact.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 28:2-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prince of Tyre's self-exaltation to divine heights and his being cast down to the pit parallels Capernaum's reversal and sits beside the Tyre material just invoked. It is a coherent secondary backdrop to the heaven-to-Hades descent.",
+        "contested": true,
+        "altSource": "Isaiah 14:13-15"
+      }
+    ]
+  },
+  {
+    "id": "10.3",
+    "ch": 10,
+    "ref": "10:17-20",
+    "echoes": [
+      {
+        "source": "Isaiah 14:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Seeing Satan fall like lightning from heaven echoes the Day Star (LXX heosphoros) fallen from heaven in the Babylon taunt, a text read in Second Temple Judaism as the fall of a heavenly rebel. The immediate reuse of Isaiah 14 from the preceding woes strengthens recurrence and coherence.",
+        "contested": true,
+        "altSource": "Ezekiel 28:16-17"
+      },
+      {
+        "source": "Psalm 91:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Authority to tread on serpents and scorpions draws directly on the promise that the faithful will tread on the lion and the serpent, a psalm of protection from all harm. Volume (treading on serpents) and the explicit you-will-not-be-hurt assurance make this the primary base.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 8:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The pairing serpents and scorpions matches Deuteronomy's description of the wilderness of fiery serpents and scorpions through which God led Israel safely. The exact lexical pair (serpents + scorpions) is rare enough to mark this as a deliberate combination with Psalm 91.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:15",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Trampling the serpent and overcoming the power of the enemy figurally fulfills the protoevangelium's enmity between the woman's seed and the serpent whose head is crushed. The serpent-conquest coherence with Satan's fall makes the figural reading apt though it is not verbally explicit.",
+        "contested": true,
+        "altSource": "Psalm 91:13"
+      },
+      {
+        "source": "Exodus 32:32-33",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Rejoicing that your names are written in heaven invokes the divine book from which the unfaithful may be blotted out, first named in Moses' intercession. Volume and the heavenly-register concept are strong, anchoring the saying in the book-of-life tradition.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The eschatological deliverance of everyone found written in the book gives the names-in-heaven motif its end-time, salvific force matching Luke's contrast with mere demonic subjection. Coherence with the resurrection-life horizon supports the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 69:28",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The book of the living, from which the wicked are blotted out and not enrolled among the righteous, supplies the negative counterpart to having one's name written in heaven. It adds recurrence to the heavenly-register tradition.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The book of remembrance written before God for those who fear him is another instance of the heavenly registry of the faithful. It is a faint contributory echo within the same motif cluster.",
+        "contested": true,
+        "altSource": "Exodus 32:32-33"
+      }
+    ]
+  },
+  {
+    "id": "10.4",
+    "ch": 10,
+    "ref": "10:21-24",
+    "echoes": [
+      {
+        "source": "Genesis 14:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Addressing the Father as Lord of heaven and earth echoes Melchizedek's blessing of God Most High, maker of heaven and earth, a creation-sovereignty title. The set phrase heaven and earth and the maker-of-all sense give moderate verbal contact.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Hiding these things from the wise and understanding but revealing them to little children reverses human wisdom in line with Isaiah's threat that the wisdom of the wise shall perish. The pointed wise-and-understanding wording matches Isaiah closely, supporting a deliberate allusion.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:21-23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel praises God who gives wisdom to the wise and reveals deep and hidden things, a revelation-of-mysteries pattern resonant with the Father revealing hidden things to the simple. The link is thematic (divine disclosure of mysteries) rather than verbal, so it stays faint.",
+        "contested": true,
+        "altSource": "Isaiah 29:14"
+      },
+      {
+        "source": "Daniel 7:14",
+        "type": "figural",
+        "confidence": "low",
+        "note": "All things have been delivered to me by my Father figurally aligns with the Son of Man to whom dominion and authority are given. The handing-over-of-all coherence is real but the saying lacks distinctive Danielic vocabulary, so it is a low-confidence figural reading.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 8:30-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The mutual delight of Father and Son and the Father's good pleasure faintly recall Wisdom rejoicing before God and delighting in humanity. The connection rests on the joy-before-God motif and is contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.5",
+    "ch": 10,
+    "ref": "10:25-28",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The lawyer's answer cites the Shema's command to love the Lord your God with all your heart, soul, and strength, the heart of Israel's covenant confession. This is a near-verbatim quotation (Luke adds mind), unmistakable in volume and availability.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "And your neighbor as yourself quotes verbatim the Holiness Code's neighbor-love command, which then drives the Who is my neighbor question. The exact wording and its programmatic role make this a clear quotation.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 18:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Do this, and you will live echoes the Levitical promise that the one who keeps God's statutes shall live by them, framing eternal life as covenant obedience. The do-them-and-live formula is distinctive enough to register as an allusion.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise that God will circumcise the heart so Israel may love the LORD with all heart and soul stands behind the wholehearted love demanded here. It is a faint reinforcing echo of the Deuteronomic love-command cluster.",
+        "contested": true,
+        "altSource": "Deuteronomy 6:5"
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Inherit eternal life draws on the only clear OT promise of everlasting life, where some awake to everlasting life. The phrase supplies the eschatological referent though the contact is conceptual rather than verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.6",
+    "ch": 10,
+    "ref": "10:29-37",
+    "echoes": [
+      {
+        "source": "2 Chronicles 28:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The compassionate Samaritan who binds wounds, anoints with oil, sets the man on his own animal, and brings him to care closely mirrors the men of Samaria who clothed, anointed, carried on donkeys, and brought the Judean captives to Jericho. The cluster of shared details (Samaritans, oil/anointing, animal, conveying the helpless toward Jericho) is too dense to be coincidental.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 21:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The priest passing by on the other side gains its edge from the priestly prohibition against defilement by a corpse, since the victim appeared half dead. The corpse-purity background coheres with the priest's and Levite's avoidance, sharpening the parable's irony.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 19:11-13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The general corpse-impurity law (seven-day uncleanness from touching a dead body) reinforces the ritual motive a priest and Levite might invoke for keeping their distance. It supplies recurrence to the purity rationale behind the passing by.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 6:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The verdict that the neighbor is the one who showed mercy embodies Hosea's I desire mercy and not sacrifice, prioritizing compassion over the cultic scruples of priest and Levite. The mercy-over-cult coherence with the parable's structure supports the allusion.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 1:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Pouring oil and wine on wounds faintly recalls Isaiah's image of wounds not pressed out or softened with oil, the standard idiom for medicinal care. The contact is on the treatment imagery only and remains low-confidence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.7",
+    "ch": 10,
+    "ref": "10:38-42",
+    "echoes": [
+      {
+        "source": "Psalm 27:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Mary's choice of the one thing needful, to sit and hear the Lord's word, resonates with the psalmist's one thing I have asked, to dwell in the LORD's house and gaze on his beauty. The shared one-thing focus on devoted presence before God gives a genuine if non-verbal echo.",
+        "contested": true
+      },
+      {
+        "source": "Lamentations 3:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Mary has chosen the good part faintly evokes the confession the LORD is my portion, the language of choosing God himself as one's allotted share. The portion/part motif is suggestive but the lexical bridge is thin.",
+        "contested": true,
+        "altSource": "Psalm 16:5"
+      },
+      {
+        "source": "Psalm 16:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The LORD as my chosen portion and cup supplies the same theology of God as one's lasting allotment that the good part which will not be taken away expresses. It is a contributory echo within the portion-of-the-LORD tradition.",
+        "contested": true,
+        "altSource": "Lamentations 3:24"
+      },
+      {
+        "source": "Genesis 18:1-8",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Martha's busy hospitality toward the Lord visiting her house figurally recalls Abraham hastening to serve the three visitors at Mamre, the model scene of hospitality to a divine guest. The link is thematic (welcoming and serving the Lord) and faint, hence figural and contested.",
+        "contested": true
+      }
+    ]
+  }
+]

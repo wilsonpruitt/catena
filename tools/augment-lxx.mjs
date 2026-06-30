@@ -28,14 +28,19 @@ const CURATED = [
   "Amos 9:11",         // Acts 15:16-17 — LXX "that the rest of mankind may seek the Lord" vs Hebrew "possess the remnant of Edom" (James's whole ruling)
   "Habakkuk 1:5",      // Acts 13:41 — LXX "behold, you despisers" (καταφρονηταί) vs Hebrew "look among the nations"
   "Amos 5:25",         // Acts 7:42-43 — LXX "Moloch… the star Rephan… beyond Babylon" vs Hebrew "Sikkuth… Kaiwan… beyond Damascus"
+  "Isaiah 40:3-5",     // Luke 3:4-6 — LXX "all flesh shall see the salvation of God" vs Hebrew "the glory… shall see it together"
+  "Isaiah 61:1",       // Luke 4:18 — LXX "recovery of sight to the blind" (ἀνάβλεψιν τυφλοῖς) vs Hebrew "opening of the prison to the bound"
 ];
 const stripParen = (s) => s.replace(/\s*\(.*?\)\s*/g, " ").replace(/\s+/g, " ").trim();
-const isCurated = (src) => CURATED.some((c) => src.startsWith(c));
+// Prefix match, but the prefix must end on a verse boundary — not in the middle
+// of a verse number — so "Isaiah 61:1" matches "Isaiah 61:1-2" but not "Isaiah 61:10".
+const isCurated = (src) =>
+  CURATED.some((c) => src.startsWith(c) && !/\d/.test(src.charAt(c.length)));
 const cap = (t) => (t.length <= 480 ? t : t.slice(0, 480).replace(/\s+\S*$/, "") + " […]");
 
 let attached = 0;
 const log = [];
-for (const f of ["hebrews", "revelation", "matthew", "mark", "romans", "1-peter", "acts"]) {
+for (const f of ["hebrews", "revelation", "matthew", "mark", "luke", "romans", "1-peter", "acts"]) {
   const d = JSON.parse(readFileSync(`/Users/wilsonpruitt/catena/data/${f}.json`, "utf8"));
   for (const p of d.pericopes) for (const e of p.echoes) {
     if (e.lxxText) delete e.lxxText; // idempotent

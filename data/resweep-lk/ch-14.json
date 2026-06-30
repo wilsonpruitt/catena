@@ -1,0 +1,323 @@
+[
+  {
+    "id": "14.1",
+    "ch": 14,
+    "ref": "14:1-6",
+    "echoes": [
+      {
+        "source": "Deuteronomy 22:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' rescue argument — 'which of you, if your son or an ox fell into a well, wouldn't immediately pull him out on a Sabbath?' — draws on the Torah's humane-rescue command not to leave a brother's ox or donkey fallen by the way without lifting it up. The qal-wahomer (how much more a person) presupposes this animal-rescue obligation as available scriptural premise; high coherence with Jesus' wider Sabbath-mercy disputes (Luke 13:15).",
+        "contested": false
+      },
+      {
+        "source": "Exodus 23:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The parallel Torah duty to help even an enemy's donkey lying under its burden reinforces the same fallen-animal-rescue logic Jesus invokes for the well-fallen ox. Recurrence of the rescue motif across Deut 22:4 and Exod 23:5 strengthens availability, though Deut 22:4 is the closer verbal match.",
+        "contested": true,
+        "altSource": "Deuteronomy 22:4"
+      },
+      {
+        "source": "Leviticus 23:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Sabbath-rest command framing the whole conflict ('Is it lawful to heal on the Sabbath?') stands behind the scene; the dropsy healing is staged precisely against the holy-convocation rest prescription. Faint and diffuse — the Sabbath law is assumed background rather than cited.",
+        "contested": true,
+        "altSource": "Exodus 20:8-11"
+      },
+      {
+        "source": "Exodus 20:8-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Decalogue Sabbath command is the legal ground the lawyers and Pharisees presuppose in watching whether Jesus will heal. Coherent with Luke's recurring Sabbath-controversy pattern but only ambiently present here.",
+        "contested": true,
+        "altSource": "Leviticus 23:3"
+      }
+    ]
+  },
+  {
+    "id": "14.2",
+    "ch": 14,
+    "ref": "14:7-11",
+    "echoes": [
+      {
+        "source": "Proverbs 25:6-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The counsel 'do not sit in the best seat... go and sit in the lowest place, so that he may tell you, Friend, move up higher' closely reworks Proverbs 25:6-7: 'do not put yourself forward in the king's presence... for it is better to be told Come up here than to be put lower.' High volume (verbal and structural correspondence), high coherence with Luke's reversal theme; among the strongest sapiential echoes in the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 16:18-19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The concluding maxim 'everyone who exalts himself will be humbled, and whoever humbles himself will be exalted' resonates with the proverb that pride goes before destruction and that it is better to be of a lowly spirit with the poor. Coherent wisdom-of-humility background reinforcing the Prov 25 banquet scene.",
+        "contested": true,
+        "altSource": "Proverbs 29:23"
+      },
+      {
+        "source": "Proverbs 29:23",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'A man's pride will bring him low, but the humble in spirit will obtain honor' supplies the exact exalt/humble inversion of v.11. Recurrence of this antithesis across Proverbs strengthens its availability as the wisdom matrix for Jesus' aphorism.",
+        "contested": true,
+        "altSource": "Proverbs 16:18-19"
+      },
+      {
+        "source": "Ezekiel 21:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prophetic reversal formula 'exalt that which is low, and abase that which is high' parallels the abasement/exaltation of v.11. Faint and contested — the verbal medium is closer to Proverbs, but the prophetic reversal topos adds availability for Luke's broader Magnificat-style theme.",
+        "contested": true,
+        "altSource": "Proverbs 29:23"
+      },
+      {
+        "source": "Sirach 3:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Ben Sira's 'the greater you are, the more you must humble yourself, and you will find favor in the sight of the Lord' is the nearest Second-Temple analogue to Jesus' self-humbling counsel, set likewise in a context of social honor. Deuterocanonical availability and thematic coherence make this a plausible direct echo.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 11:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The wisdom of the humble lifts up his head and seats him among the great' offers a banquet-seating image of humble exaltation strikingly like 'move up higher.' Low confidence and contested given proximity to Prov 25, but the seating-among-the-great motif raises recurrence within the wisdom tradition.",
+        "contested": true,
+        "altSource": "Proverbs 25:6-7"
+      }
+    ]
+  },
+  {
+    "id": "14.3",
+    "ch": 14,
+    "ref": "14:12-14",
+    "echoes": [
+      {
+        "source": "Deuteronomy 14:29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' command to invite those who cannot repay — instead of friends and rich neighbors — recalls the third-year tithe given to the Levite, sojourner, fatherless, and widow 'that the Lord may bless you in all the work of your hands.' The blessing-for-giving-to-the-needy logic ('you will be blessed, because they don't have the resources to repay you') maps onto the Deuteronomic almsgiving promise.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 21:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The guest list 'the poor, the maimed, the lame, the blind' inverts the priestly disqualifications of Lev 21:18 (no blind, lame, or mutilated man may approach the altar) — precisely those bodies barred from priestly table-service are summoned to the eschatological banquet. Figural reversal with strong coherence to Luke's inclusion theme.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 5:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The blind and the lame shall not come into the house' (the Jebusite proverb attached to David's capture of Jerusalem) is the exclusionary saying Jesus' open invitation of the lame and blind overturns. Faint and contested, but coheres with the Lev 21 disqualification reversal as a second exclusion-text being inverted.",
+        "contested": true,
+        "altSource": "Leviticus 21:18"
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You will be repaid in the resurrection of the righteous' presupposes the doctrine of bodily resurrection and reward first articulated in Daniel 12:2, where many who sleep awake, some to everlasting life. Availability of the resurrection-of-the-just hope grounds Jesus' eschatological recompense.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 19:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Whoever is kind to the poor lends to the Lord, and he will repay him for his deed' is the wisdom axiom behind being repaid not by guests but at the resurrection. Strong thematic coherence with the repay-by-God logic of vv.13-14.",
+        "contested": false
+      },
+      {
+        "source": "Tobit 4:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Tobit's almsgiving instruction — give to the poor and do not turn your face away, laying up a good treasure against the day of necessity — parallels Jesus' counsel to give where no repayment is possible. Deuterocanonical availability and coherence with Luke's almsgiving theology (cf. Luke 12:33).",
+        "contested": true,
+        "altSource": "Proverbs 19:17"
+      }
+    ]
+  },
+  {
+    "id": "14.4",
+    "ch": 14,
+    "ref": "14:15-24",
+    "echoes": [
+      {
+        "source": "Isaiah 25:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The exclamation 'Blessed is he who will feast in the Kingdom of God!' and the parable of the great supper draw directly on Isaiah's eschatological banquet on Mount Zion — 'a feast of fat things, a feast of wine on the lees' for all peoples. High volume and coherence: the messianic banquet is the controlling image, and the eventual inclusion of outsiders mirrors Isaiah's 'all peoples.'",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 20:5-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The three excuses parody the Deuteronomic war-exemptions: the man who built a new house (cf. 'I have bought a field'), the man who planted a vineyard, and the man newly betrothed who need not go to battle. The banquet-summons is cast as a holy-war muster the invitees decline, inverting the exemptions into culpable refusals.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 24:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I have married a wife, and therefore I can't come' echoes the exemption granting a newly married man a year free from military service and public duty. The legitimate Torah exemption is repurposed as a self-condemning excuse, sharpening the parody of the war-muster reading.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 1:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Be silent before the Lord God, for the day of the Lord is at hand; the Lord has prepared a sacrifice and consecrated his guests' supplies the motif of a prepared feast/sacrifice with summoned guests on the day of the Lord — matching 'everything is ready now' and the judgment on those who refuse ('none of those men... will taste of my supper').",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 55:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The free invitation 'Come, for everything is ready now' resonates with Isaiah's 'Come, buy and eat... without money and without price.' Faint but coherent with the gratuitous-banquet and the bringing-in of those who would not otherwise come.",
+        "contested": true,
+        "altSource": "Isaiah 25:6"
+      },
+      {
+        "source": "Proverbs 9:1-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Wisdom 'has slaughtered her beasts, mixed her wine, set her table, and sent out her maidens' to call guests — 'Come, eat of my bread.' The sent-servant-summoning-the-invited pattern and the call to the simple closely parallel the great supper's structure and the gathering of the lowly.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 56:3-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The gathering of outsiders — foreigners and eunuchs brought to God's house, 'others besides those already gathered' — anticipates the master sending into highways and hedges to fill the house. Coheres with Luke's Gentile-inclusion trajectory but verbally diffuse.",
+        "contested": true,
+        "altSource": "Isaiah 25:6"
+      },
+      {
+        "source": "1 Samuel 9:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Samuel's sacrificial feast where 'the people will not eat until he comes... afterward those eat who are invited' supplies the formal vocabulary of invited guests waiting on the host's bidding. A faint background to the supper's summons protocol.",
+        "contested": true,
+        "altSource": "Proverbs 9:1-5"
+      }
+    ]
+  },
+  {
+    "id": "14.5",
+    "ch": 14,
+    "ref": "14:25-27",
+    "echoes": [
+      {
+        "source": "Deuteronomy 33:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'If anyone... doesn't disregard his own father, mother, wife, children' echoes the blessing of Levi, who said of father and mother 'I have not seen him,' disowned his brothers and ignored his children — keeping covenant fidelity above kin. The radical preference of covenant loyalty over family ties is the closest scriptural precedent for Jesus' hyperbolic 'hate.'",
+        "contested": false
+      },
+      {
+        "source": "Exodus 32:27-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Levites' ordination by slaying brother, companion, and neighbor at Moses' command — 'each one at the cost of his son and his brother' — is the narrative behind Deut 33:9's praise of Levi. It models the disciple's willingness to set covenant allegiance above family, coherent with Jesus' demand and the cross-bearing that follows.",
+        "contested": true,
+        "altSource": "Deuteronomy 33:9"
+      },
+      {
+        "source": "Micah 7:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Micah's portrait of eschatological family division — son dishonoring father, daughter against mother, 'a man's enemies are the men of his own household' — undergirds Jesus' setting discipleship against the closest kin (and is explicitly cited at Luke 12:53). Recurrence in Luke strengthens its availability here.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 13:6-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The command to show no pity even to a brother, son, daughter, or wife who entices to false worship — placing exclusive devotion to the Lord above the dearest relations — offers a Torah analogue to subordinating family to higher allegiance. Faint and contested, but coheres with the covenant-over-kin theme of Deut 33:9.",
+        "contested": true,
+        "altSource": "Deuteronomy 33:9"
+      }
+    ]
+  },
+  {
+    "id": "14.6",
+    "ch": 14,
+    "ref": "14:28-33",
+    "echoes": [
+      {
+        "source": "Proverbs 24:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The king who 'will not sit down first and consider' before going to war reflects the proverb 'by wise guidance you can wage your war, and in an abundance of counselors there is victory.' The counsel to deliberate before battle is the sapiential ground of Jesus' second illustration about counting the cost.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 20:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Plans are established by counsel; by wise guidance wage war' doubles the counting-the-cost-before-war motif of vv.31-32. Recurrence of this maxim across Proverbs 20:18 and 24:6 strengthens the wisdom-deliberation background of the tower-and-war pair.",
+        "contested": true,
+        "altSource": "Proverbs 24:6"
+      },
+      {
+        "source": "Proverbs 24:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Prepare your work outside... and after that build your house' supplies the prudence-before-building logic behind the tower illustration ('count the cost, to see if he has enough to complete it'). Faint but coherent with the sapiential planning theme.",
+        "contested": true,
+        "altSource": "Proverbs 24:6"
+      },
+      {
+        "source": "Sirach 37:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's 'before every action let counsel go, and before every undertaking deliberation' captures the count-the-cost-first principle of both illustrations. Deuterocanonical availability adds Second-Temple recurrence to the wisdom-deliberation reading.",
+        "contested": true,
+        "altSource": "Proverbs 24:6"
+      }
+    ]
+  },
+  {
+    "id": "14.7",
+    "ch": 14,
+    "ref": "14:34-35",
+    "echoes": [
+      {
+        "source": "Leviticus 2:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Salt is good, but if the salt becomes flat and tasteless...' draws on the covenant-of-salt requirement that every grain offering be seasoned with salt — salt as the indispensable mark of acceptable offering. Saltless disciples 'fit neither for soil nor manure pile' invert the covenant-of-salt's enduring fidelity.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 18:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'covenant of salt forever before the Lord' given to the priests defines salt as a symbol of permanent, unbreakable covenant — the very quality lost when salt goes flat. Coherent with the disqualification-from-covenant-service theme and reinforces Lev 2:13's availability.",
+        "contested": true,
+        "altSource": "Leviticus 2:13"
+      },
+      {
+        "source": "2 Chronicles 13:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Davidic kingship granted 'by a covenant of salt' extends the salt-as-perpetual-covenant idiom that gives Jesus' saltlessness saying its bite. Faint and contested, but adds recurrence to the covenant-of-salt motif across the canon.",
+        "contested": true,
+        "altSource": "Numbers 18:19"
+      },
+      {
+        "source": "Jeremiah 17:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah's curse on the one who trusts in man — dwelling in 'a salt land not inhabited,' barren and uninhabitable — resonates with salt-spoiled ground 'fit neither for the soil nor the manure pile.' Faint figural overlap between barren salt-land and the worthless flat salt thrown out.",
+        "contested": true,
+        "altSource": "Leviticus 2:13"
+      }
+    ]
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-11",
+    "echoes": [
+      {
+        "source": "Isaiah 6:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Peter's reaction, falling at Jesus' knees and crying 'Depart from me, for I am a sinful man,' replays the prophet's response to theophany: confrontation with the holy provokes confession of uncleanness ('Woe is me, for I am a man of unclean lips'). Both join recognition of divine presence to commissioning ('Don't be afraid... you will be catching people'). High volume and coherence with the call-narrative form.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 16:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'catching people alive' commission draws on the prophetic image of God sending fishermen to gather Israel ('I will send for many fishers, and they shall fish them'). The shared metaphor of human fishers as agents of God's ingathering gives volume; the call setting supplies coherence, though Jeremiah's image is originally one of judgment.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 47:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel's temple-river vision teems with fish and stations fishers from Engedi to Eneglaim, a figure of eschatological abundance and life flowing outward. The miraculous superabundant catch may echo this image of overflowing life as a sign of the new creation, though the verbal links are faint.",
+        "contested": true
+      },
+      {
+        "source": "Habakkuk 1:14-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Habakkuk likens people gathered by the conqueror to fish caught in a net and hauled up. The fishers-of-men motif may invert this image of catching for destruction into one of catching for life. Faint and contested; offered for the recurrence of the fish-net-people complex in the prophets.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 18:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Abraham's self-deprecation before the LORD ('I am but dust and ashes') models the creature's recognition of unworthiness in the divine presence, paralleling Peter's 'I am a sinful man.' The motif of the human cowering before manifest holiness is widely attested; low volume here.",
+        "contested": true
+      },
+      {
+        "source": "Judges 6:22-23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Gideon's fear at having seen the angel of the LORD face to face, answered by 'Peace, do not fear,' parallels the theophanic-fear-and-reassurance pattern (Jesus' 'Don't be afraid'). The form is recurrent across call narratives, lending coherence though the link to Luke 5 is general.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:12-16",
+    "echoes": [
+      {
+        "source": "Leviticus 13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'man full of leprosy' invokes the priestly diagnosis of skin disease and the resulting state of ritual uncleanness and exclusion. Luke's scene presupposes this legal world; the leper's plea 'you can make me clean' uses Levitical cleanness language directly.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus' command to 'show yourself to the priest, and offer for your cleansing according to what Moses commanded' explicitly cites the Levitical rite for cleansing the leper (Lev 14:2-32). High volume: a near-direct reference to Mosaic legislation by name.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 5:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Naaman the Syrian's cleansing from leprosy is the paradigmatic OT leprosy-healing and is explicitly invoked by Luke at 4:27, just before this scene. The healing of the leper here coheres with that recently activated narrative; Naaman's restored flesh and the prophet's mediation supply the type.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 12:10-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Miriam's leprosy and Moses' intercessory plea ('Heal her, O God') present another instance where leprosy is removed by divine power at a mediator's word. Recurrence of the leprosy-healing motif gives some coherence, though no verbal contact with Luke.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 7:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The lepers outside Samaria's gate exemplify the social exclusion of the leper that frames Luke's scene. Faint, contextual only.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:17-26",
+    "echoes": [
+      {
+        "source": "Isaiah 43:25",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I, even I, am he who blots out your transgressions for my own sake' grounds the scribes' premise that God alone forgives sins. Jesus' pronouncement of forgiveness, and the controversy it provokes, presuppose this divine prerogative; strong coherence with the second-Isaiah claim that pardon is God's act.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The covenantal self-revelation of the LORD as the one 'forgiving iniquity and transgression and sin' is the foundational scriptural warrant for God's sole authority to pardon. The scribes' objection ('who can forgive sins but God alone?') rests on this confession. Medium volume; thematic rather than verbal.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 103:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Who forgives all your iniquities, who heals all your diseases' yokes forgiveness and healing exactly as Jesus does ('which is easier: your sins are forgiven, or arise and walk?'). The Psalm's pairing supplies the logic that healing demonstrates the authority to forgive.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' self-designation 'the Son of Man has authority on earth to forgive sins' draws on the one like a son of man to whom dominion and authority are given. The claim of authority bound to the Son of Man title gives volume and coherence with the Danielic vision.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 1:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Though your sins be as scarlet, they shall be as white as snow' offers the prophetic promise of divine cleansing of sin that underlies the forgiveness pronounced here. Thematic only; low volume.",
+        "contested": true
+      },
+      {
+        "source": "Micah 7:18-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Who is a God like you, pardoning iniquity... he will subdue our iniquities; and you will cast all their sins into the depths of the sea' echoes the rhetorical 'who can forgive but God?' and the pardon motif. Faint; offered for recurrence of the God-alone-pardons theme.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.4",
+    "ch": 5,
+    "ref": "5:27-32",
+    "echoes": [
+      {
+        "source": "Hosea 6:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I desire mercy and not sacrifice' is the prophetic warrant for Jesus' table-fellowship with tax collectors and sinners against the Pharisees' purity objection. Though the explicit citation appears in Matthew's parallel, the same logic of mercy over ritual separation governs Luke's controversy; medium coherence.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 8:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Is there no balm in Gilead? is there no physician there?' supplies the physician imagery Jesus turns on his critics ('those who are sick need a physician'). The prophetic lament over an unhealed people lends thematic depth; verbal contact is the shared 'physician' figure.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 34:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The LORD as shepherd who seeks the lost, binds the broken, and strengthens the sick coheres with Jesus' coming to call sinners rather than the righteous. The seek-the-sick/lost motif gives some coherence to the mission statement; low volume.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 38:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's praise of the physician, whose healing comes from the Most High, belongs to the Second-Temple physician imagery Jesus deploys. Availability within the deuterocanon; faint and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.5",
+    "ch": 5,
+    "ref": "5:33-39",
+    "echoes": [
+      {
+        "source": "Isaiah 62:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'As the bridegroom rejoices over the bride, so shall your God rejoice over you' supplies the bridegroom imagery by which Jesus interprets the festal joy of his presence as incompatible with fasting. The prophetic figure of God as bridegroom of his people grounds the metaphor; medium coherence.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 2:19-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The LORD's betrothal of Israel 'in righteousness... in lovingkindness' is a primary scriptural source of the divine-bridegroom motif underlying Jesus' saying. The wedding/betrothal frame coheres with the bridegroom-present logic of the fasting question.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:12-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joel's call to fasting and solemn assembly, which summons even 'the bridegroom out of his chamber,' joins fasting and bridegroom imagery in one passage. The juxtaposition makes it a plausible backdrop to Jesus' bridegroom-and-fasting saying, though the use is allusive and faint.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 54:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your Maker is your husband' reinforces the prophetic divine-spouse motif that the bridegroom saying presupposes. Recurrence with Isa 62 and Hosea; low independent volume.",
+        "contested": true
+      },
+      {
+        "source": "Job 32:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Elihu's 'my belly is as wine which has no vent; it is ready to burst like new bottles' is the closest OT parallel to the new-wine-bursting-old-skins parable. Shared imagery of new wine straining fresh versus old skins gives notable volume to the figure.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 13:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Every bottle shall be filled with wine' belongs to the prophetic wineskin imagery and is offered for recurrence of the wineskin figure; the connection to the new/old contrast is thematic and faint.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 9:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A new friend is as new wine; when it is old, you shall drink it with pleasure' uniquely parallels Jesus' closing maxim 'the old is better.' The shared old-wine-is-preferred proverb gives this Second-Temple text real coherence with v.39, though verbal contact is partial.",
+        "contested": true
+      }
+    ]
+  }
+]

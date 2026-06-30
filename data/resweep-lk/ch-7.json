@@ -1,0 +1,254 @@
+[
+  {
+    "id": "7.1",
+    "ch": 7,
+    "ref": "7:1-10",
+    "echoes": [
+      {
+        "source": "2 Kings 5:1-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The healing of a Gentile military officer (Naaman, captain of Aram's army) at a distance through Israel's prophet supplies a strong typological precedent for the centurion whose servant Jesus heals from afar. Naaman's mediated request, his concern about the prophet's coming, and the wonder at faith found outside Israel cohere with Luke's emphasis on the believing Gentile. Recurrence is supported by Luke 4:27, where Jesus himself names Naaman as the paradigm of Gentile favor.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 8:41-43",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Solomon's prayer that the foreigner who hears of God's name and comes toward the temple be answered frames the God-fearing Gentile who loves Israel and builds the synagogue. The elders' plea that the centurion is 'worthy' because 'he loves our nation' echoes the Deuteronomic ideal of the righteous resident foreigner. Faint and thematic rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 56:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The foreigner who joins himself to the LORD, loves his name, and is welcomed into the house of prayer resonates with the synagogue-building centurion. The coherence with Luke's Gentile-inclusion theme is strong even though there is no verbal contact, so this is a faint figural echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.2",
+    "ch": 7,
+    "ref": "7:11-17",
+    "echoes": [
+      {
+        "source": "1 Kings 17:17-24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The raising of the widow of Nain's son is closely modeled on Elijah's raising of the widow of Zarephath's only son. Luke 7:15, 'he gave him to his mother,' reproduces 1 Kings 17:23 LXX nearly verbatim, and the shared motifs (a widow, a dead only son, a city gate, the crowd's recognition of a great prophet) give high volume and coherence. Zarephath lies near Nain's geography of Galilee/Sidon, and the Elijah-typology pervades Luke 7.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:32-37",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Elisha's raising of the Shunammite woman's only son is the second prophetic resurrection paradigm behind Nain. The motif of a single beloved son restored to a grieving mother, and the prophet's bodily proximity to the corpse, reinforce the doubled Elijah/Elisha typology Luke deploys. Recurrence with 7:11-17 is strengthened by Luke 9:8,19 expectations of a returning prophet.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 17:23",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The clause 'and he gave him to his mother' (kai edoken auton te metri autou) matches the LXX of 1 Kings 17:23 word-for-word, making this the strongest verbal anchor for the whole pericope. The near-citation in narrative voice signals deliberate Elijah modeling rather than coincidence.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The crowd's cry 'A great prophet has arisen among us' activates the expectation of an Elijah-like prophet whose coming Malachi promises before the Day of the LORD. Coherence with the deliberate Elijah typology of the resurrection scene makes this more than incidental, though the verbal link is to the popular prophetic-return hope rather than a citation.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 48:1-14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Ben Sira's praise of Elijah explicitly celebrates that he 'raised a corpse from death' (Sir 48:5), the same deed Jesus performs at Nain, making the deuterocanonical encomium a Second-Temple lens that shaped the crowd's prophet-acclamation. Availability and coherence are strong; this clarifies how a first-century audience read raising-the-dead as the signature of an Elijah figure.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The acclamation 'God has visited his people' echoes the language of divine visitation by which Israel recognized God's saving action in the Exodus and was moved to worship. The 'visitation' motif recurs in Luke (1:68, 78; 19:44), giving it thematic recurrence even though no single passage is cited verbatim.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 50:24-25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joseph's promise that 'God will surely visit you' supplies the Septuagintal vocabulary of episkeptomai underlying 'God has visited his people.' The link is one strand in a broader biblical visitation theme rather than a targeted allusion, so confidence is low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.3",
+    "ch": 7,
+    "ref": "7:18-23",
+    "echoes": [
+      {
+        "source": "Isaiah 35:5-6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' answer to John catalogs the eyes of the blind opened, the lame leaping, and the deaf hearing in the precise pattern of Isaiah's vision of God's coming to save. The cluster of signs is verbally and thematically anchored in Isaiah, and Luke arranges them as a deliberate composite of Isaianic salvation oracles. High volume and coherence with Luke's programmatic Isaiah citations.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 61:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The climactic 'the poor have good news preached to them' cites Isaiah 61:1, the same text Jesus reads as his manifesto in Luke 4:18. Its placement as the answer's capstone and its recurrence across Luke make this the interpretive key: Jesus identifies himself as the anointed herald of Isaiah's jubilee.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The dead are raised up' draws on Isaiah's promise that the dead shall live and the dwellers in the dust awake, the only item in Jesus' list not covered by Isaiah 35 or 61. Coherence with the surrounding Isaianic catalog and the immediately preceding Nain resurrection gives strong volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:18-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah 29 pairs the deaf hearing and the blind seeing with the poor and meek rejoicing, supplying a second Isaianic source for the same sign-cluster and reinforcing the composite character of Jesus' reply. Recurrence within Isaiah strengthens the case even if Luke's wording leans more on chs. 35 and 61.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant's task of opening blind eyes and freeing prisoners overlaps the healing-of-the-blind motif and supports reading Jesus' deeds through Isaiah's Servant. Faint relative to chs. 35/61 but coherent with Luke's Servant Christology.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 8:14-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The beatitude 'Blessed is he who finds no occasion for stumbling in me' may invert Isaiah's stone of stumbling on which many fall, casting Jesus as the rock that tests Israel. The connection is conceptual and contested, hanging on the skandalon imagery rather than direct citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.4",
+    "ch": 7,
+    "ref": "7:24-28",
+    "echoes": [
+      {
+        "source": "Malachi 3:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Luke 7:27 cites 'Behold, I send my messenger before your face, who will prepare your way' as written of John, fusing Malachi 3:1 with Exodus 23:20. The explicit 'it is written' formula and verbatim wording make this a high-volume quotation that identifies John as the eschatological forerunner.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 23:20",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The opening 'Behold, I send my messenger before your face' draws its first clause from Exodus 23:20 LXX, blended with Malachi to form the composite citation. The wilderness-guide angel of the Exodus is read typologically as John preparing the way, giving the conflation strong scriptural depth.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:5-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Malachi's promise to send Elijah before the great Day undergirds Jesus' claim that John is 'more than a prophet,' since the same prophetic book that supplies the messenger oracle also identifies him with the returning Elijah. Coherence with the chapter's pervasive Elijah typology raises this above incidental.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 40:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'wilderness' setting where the crowds went out to John, and the language of preparing the way, evoke Isaiah's voice crying in the desert, which Luke applied to John explicitly at 3:4. Its recurrence makes this a coherent background echo for the 'what did you go out into the wilderness to see' question.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "7.5",
+    "ch": 7,
+    "ref": "7:29-35",
+    "echoes": [
+      {
+        "source": "Proverbs 8:32-36",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Wisdom is justified by all her children' personifies divine Wisdom as a mother vindicated by her offspring, drawing on Proverbs' figure of Lady Wisdom who calls and blesses those who heed her. The coherence with Jewish Wisdom-Christology, where Jesus and John are Wisdom's emissaries, supports the allusion, though it is a conceptual rather than verbal link.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 7:27",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The deuterocanonical portrait of Wisdom who in every generation passes into holy souls and makes them friends of God and prophets illuminates 'Wisdom is justified by her children.' This Second-Temple development of personified Wisdom is the most available background for Luke's aphorism, supplying its sense of Wisdom's children as those she sends and saves.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 24:1-22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's hymn of Wisdom inviting her children to eat and drink of her and be filled provides a deuterocanonical model for Wisdom's vindication through those who receive her, set against this generation that refuses both John's fasting and Jesus' feasting. Faint and one of several Wisdom intertexts.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 31:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The marketplace children's complaint 'we piped to you and you did not dance, we mourned and you did not weep' loosely recalls the prophetic imagery of dancing and mourning as the proper responses to God's acts, here refused by an unresponsive generation. The link is thematic and weak.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.6",
+    "ch": 7,
+    "ref": "7:36-50",
+    "echoes": [
+      {
+        "source": "Psalm 51:1-9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The sinful woman's tears and the pronouncement 'her sins, which are many, are forgiven' enact the penitential dynamic of David's great psalm of contrition, where the sinner pleads for mercy and cleansing. Coherence with the forgiveness-and-love theme of the two-debtors parable supports the echo, though it is figural rather than cited.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The anointing of feet faintly recalls the beauty of the feet of the herald of good news, but the connection is tenuous and likely coincidental given the scene's focus on hospitality and forgiveness. Marked low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 16:9-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel's allegory of God washing, anointing with oil, and adorning the unfaithful Jerusalem provides a backdrop of cleansing love extended to the sinner that resonates with the anointing and forgiveness of the sinful woman. The link is thematic and contested.",
+        "contested": true
+      },
+      {
+        "source": "Song of Songs 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The fragrant ointment poured out and the love-language of the anointing scene faintly evoke the perfumed devotion of the Song, a possible figural overtone in early Christian reading of the woman's love. Faint and contested, offered for maximal coverage.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 18:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' rebuke that Simon gave no water for his feet invokes the ancient Near Eastern duty of hospitality typified by Abraham washing the feet of his guests at Mamre. The omitted courtesies (water, kiss, oil) are measured against this hospitality norm, making the echo coherent though not a targeted allusion.",
+        "contested": true
+      },
+      {
+        "source": "Micah 7:18-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The astonished question 'Who is this who even forgives sins?' presupposes the prophetic confession that God alone pardons iniquity and casts sins into the sea, so the scene quietly trades on Israel's conviction that forgiveness is a divine prerogative. The link is conceptual and supports the christological force of the pericope.",
+        "contested": true
+      }
+    ]
+  }
+]

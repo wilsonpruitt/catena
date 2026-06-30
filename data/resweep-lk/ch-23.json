@@ -1,0 +1,487 @@
+[
+  {
+    "id": "23.1",
+    "ch": 23,
+    "ref": "23:1-5",
+    "echoes": [
+      {
+        "source": "Isaiah 53:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus brought before Pilate and accused, answering only the laconic 'So you say.' Luke is sounding the Servant who 'opened not his mouth' before his accusers; the reticence theme recurs through the whole trial sequence (vv. 9, 14). Volume is modest here but coherence with the Servant pattern is high.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 2:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Rulers and the 'whole company' rise up and accuse the one charged with being 'a king,' the Lord's anointed. Acts 4:25-27 explicitly reads Psalm 2 onto exactly this Lukan scene (Herod, Pilate, peoples of Israel gathered against the Christ), confirming the availability and the author's own intertextual habit.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 35:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Malicious witnesses rise up; they ask me of things I know not' — the righteous sufferer falsely accused of crimes (here perverting the nation, forbidding tribute). A stock element of the lament-psalm pattern Luke weaves; faint individually but coherent with the cluster.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "23.2",
+    "ch": 23,
+    "ref": "23:6-12",
+    "echoes": [
+      {
+        "source": "Isaiah 53:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Before Herod Jesus 'gave no answers' though questioned with many words — the clearest Lukan instance of the Servant who, 'as a sheep before its shearers is silent, so he opened not his mouth.' Volume (verbal silence under interrogation) and coherence with the Passion-Servant reading are both strong.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 38:13-14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I am like a deaf man who does not hear, like a mute who does not open his mouth' — the righteous sufferer's deliberate silence before mockers. Reinforces the silence motif alongside Isaiah 53; part of the suffering-psalm matrix Luke deploys.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 22:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Herod with his soldiers 'humiliated him and mocked him,' dressing him in finery as a mock-king. The scorn/mockery of the righteous sufferer ('all who see me mock me') is the Psalm 22 keynote that Luke develops at the cross (vv. 35-37). The Herodian mockery prefigures it.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 2:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Herod and Pilate, formerly enemies, become friends 'that very day' — the kings of the earth and rulers taking counsel together against the Lord's anointed. Acts 4:26-27 names both Herod and Pilate explicitly from Psalm 2:1-2, making this Luke's own reading.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "23.3",
+    "ch": 23,
+    "ref": "23:13-25",
+    "echoes": [
+      {
+        "source": "Isaiah 53:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Pilate three times declares the innocent ('no basis for a charge,' 'nothing worthy of death') yet hands him over — the 'righteous Servant' (Isa 53:11 LXX 'the just one') condemned with the guilty. Luke's triple innocence verdict frames Jesus as the blameless sufferer.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He delivered Jesus up to their will' — 'the Lord laid on him the iniquity of us all' / 'was delivered up' (LXX paradidomi). The handing-over verb knits the narrative to the Servant who is given up for the people; faint at the lexical level in WEB but strong in the Greek tradition.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 16:7-10",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The crowd choosing between two: Barabbas released and Jesus condemned has been read figurally against the Day of Atonement pairing of the goat for the Lord (slain) and the goat released (Azazel/scapegoat). The pairing is structurally suggestive but Luke gives no textual signal; offered as a contested figural reading.",
+        "contested": true,
+        "altSource": "Leviticus 16:21-22"
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "A murderer and insurrectionist (Barabbas) is preferred while the innocent is condemned, anticipating Jesus 'numbered with the transgressors.' The substitution of the guilty for the just resonates with the Servant's vicarious place; faint here, fuller at v. 33.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "23.4",
+    "ch": 23,
+    "ref": "23:26",
+    "echoes": [
+      {
+        "source": "Genesis 22:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The condemned bears the wood of his own death — Isaac 'carried the wood for the burnt offering' as Simon carries the cross 'after Jesus.' The Aqedah typology (beloved son, the wood laid on him) is an old figural reading; Luke gives no explicit marker, so it is offered low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Simon compelled to 'carry' (bastazo/airo) the cross faintly mirrors the Servant who 'bore our griefs and carried our sorrows' — the burden-bearing motif. The verbal link is thin and the literal scene is about Roman compulsion; offered as a faint echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "23.5",
+    "ch": 23,
+    "ref": "23:27-31",
+    "echoes": [
+      {
+        "source": "Hosea 10:8",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'They will begin to tell the mountains, Fall on us, and the hills, Cover us' reproduces Hosea 10:8 ('they shall say to the mountains, Cover us, and to the hills, Fall on us') almost verbatim — a near-quotation of judgment on Israel transferred to Jerusalem's coming destruction. Highest volume in the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 54:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Blessed are the barren, the wombs that never bore, and the breasts that never nursed' inverts the Isaianic 'Sing, O barren one' — but more directly draws on the prophetic topos that in days of judgment childlessness becomes a mercy. Coherent with Luke's Jerusalem-doom oracle; the barren-woman language is availably scriptural.",
+        "contested": true,
+        "altSource": "Isaiah 54:1"
+      },
+      {
+        "source": "Ezekiel 20:47",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'If they do these things in the green tree, what will be done in the dry?' draws on Ezekiel's fire that 'devours every green tree and every dry tree' — judgment that spares neither. The green/dry wood proverb is rooted in this prophetic imagery of indiscriminate burning; coherence is strong.",
+        "contested": false,
+        "altSource": "Ezekiel 17:24"
+      },
+      {
+        "source": "Jeremiah 9:17-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'daughters of Jerusalem' wailing and the call to mourn echo Jeremiah's summons to the mourning-women over a doomed Jerusalem ('teach your daughters wailing'). Thematically apt for Luke's lament oracle; verbal contact is modest.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 12:10-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Mourning by the inhabitants of Jerusalem 'family by family' over the one they pierced may color the weeping daughters of Jerusalem. The link is thematic (Jerusalem's mourning) rather than verbal; offered faintly.",
+        "contested": true
+      },
+      {
+        "source": "Lamentations 2:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'daughter of Jerusalem' weeping over the city's ruin, with infants and sucklings fainting, supplies the lament-over-Zion register Luke evokes. Lamentations is the canonical genre-source for Jerusalem-grief; contact is atmospheric.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 2:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "People hiding 'in the caves of the rocks' from the terror of the Lord in the day of judgment parallels the cry to mountains and hills; a possible secondary source alongside Hosea 10:8 for the day-of-wrath flight motif.",
+        "contested": true,
+        "altSource": "Isaiah 2:10"
+      }
+    ]
+  },
+  {
+    "id": "23.6",
+    "ch": 23,
+    "ref": "23:32-34",
+    "echoes": [
+      {
+        "source": "Isaiah 53:12",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Crucified between 'two criminals' fulfills 'he was numbered with the transgressors' (Isa 53:12), a verse Luke quotes explicitly at 22:37 and here enacts narratively. The 'forgive them' intercession likewise renders the Servant who 'made intercession for the transgressors.' Both Servant clauses converge on this scene with high volume and recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Dividing his garments among them, they cast lots' directly enacts Psalm 22:18, 'they divide my garments among them, and for my clothing they cast lots.' Verbal correspondence is exact; this is the most secure Psalm-22 echo in the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Father, forgive them, for they don't know what they are doing' embodies the Servant who 'bore the sin of many and made intercession for the transgressors.' The dying intercession for the executioners is the narrative form of Isaiah 53:12's final clause; high coherence within Luke's Servant Christology.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 109:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In return for my love they accuse me, but I give myself to prayer' colors the dying intercession 'forgive them.' The righteous sufferer who prays for his persecutors is a psalm topos; faint verbal contact, coherent with the lament cluster.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 50:17-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joseph forgiving brothers who 'did not know' the good God intended frames the 'they know not what they do' ignorance-forgiveness pattern. A thematic Second-Temple resonance (cf. Acts 3:17 'you acted in ignorance'); offered low.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 4:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Forgiveness for those who 'know not what they do' aligns with the Torah category of unintentional/inadvertent sin (sins of ignorance) which is atoneable. Luke may be invoking the legal distinction that makes intercession fitting; faint but available.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "23.7",
+    "ch": 23,
+    "ref": "23:35-38",
+    "echoes": [
+      {
+        "source": "Psalm 22:6-8",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The rulers scoff 'He saved others; let him save himself, if this is the Christ' — a close rendering of Psalm 22:8, 'He trusts in the LORD; let him deliver him, let him rescue him, for he delights in him,' framed by 22:7's mocking head-shakers. Volume and recurrence (Luke's sustained Ps 22 use) make this high.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 69:21",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The soldiers 'offering him vinegar' enacts Psalm 69:21, 'for my thirst they gave me vinegar (sour wine) to drink' — the mocking drink of the righteous sufferer. Direct lexical correspondence (oxos); a core Passion-psalm fulfillment.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 2:17-20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Let us see if his words are true... if the righteous man is God's son, he will help him and deliver him' — the wicked taunting the righteous one to prove divine sonship maps precisely onto 'if this is the Christ of God, his chosen one... save yourself.' Deuterocanonical and demonstrably available, this taunt-of-the-righteous text is a strong source for the mockery's logic.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'the Christ of God, his chosen one' (ho eklektos) echoes Isaiah 42:1, 'my chosen, in whom my soul delights,' the Servant designation Luke favors (cf. the transfiguration 'my Chosen'). The title brings the Servant frame into the mockery scene.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 89:38-39",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's anointed rejected and scorned ('you have renounced... cast off your anointed') resonates with the mocking of the Christ/chosen one. A royal-lament background to the messianic mockery; faint verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 22:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The people stood watching... the rulers scoffed' realizes Psalm 22:7, 'all who see me mock me; they make mouths at me, they wag their heads.' The watching-and-deriding tableau is the psalm's own scene; recurrence with v. 35 mockery is strong.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "23.8",
+    "ch": 23,
+    "ref": "23:39-43",
+    "echoes": [
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The dialogue with the two criminals continues the 'numbered with the transgressors' enactment; the penitent's confession 'this man has done nothing wrong' restates the Servant's innocence (Isa 53:9 'he had done no violence'). Luke turns the transgressor-companions into witnesses to the just sufferer.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'This man has done nothing wrong' echoes 'he had done no violence, neither was any deceit in his mouth' — the criminal's verdict confirms the Servant's blamelessness even among the condemned. Coherent with Luke's innocence motif (vv. 4, 14, 22, 47).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Today you will be with me in Paradise' draws on Isaiah's promise that the LORD will comfort Zion and 'make her wilderness like Eden, her desert like the garden (paradeisos) of the LORD.' The eschatological-Eden 'paradise' is the availably scriptural term Luke uses for restored blessedness.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:8-9",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'Paradise' (paradeisos, the LXX word for the Eden garden) frames Jesus' promise as the regained Eden — readmission to the garden and the tree of life forfeited in Genesis 3. The figural Eden-restoration reading is well grounded in the LXX vocabulary; medium because Luke does not cite Genesis directly.",
+        "contested": false,
+        "altSource": "Genesis 3:23-24"
+      },
+      {
+        "source": "Ezekiel 28:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Eden, the garden of God' (paradeisos in LXX) supplies another availability for the restored-paradise hope. Secondary to the Genesis/Isaiah Eden language; offered as a faint lexical support.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "'Remember me when you come into your Kingdom' invokes the bestowal of an everlasting kingdom on one like a son of man (Dan 7:14). The kingdom-coming hope draws on Danielic enthronement language; thematic rather than verbal here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "23.9",
+    "ch": 23,
+    "ref": "23:44-45",
+    "echoes": [
+      {
+        "source": "Amos 8:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Darkness came over the whole land' at midday fulfills Amos 8:9, 'I will make the sun go down at noon and darken the earth in clear day' — Amos' day-of-the-Lord judgment over mourning Israel. The noon-darkness (sixth hour) verbal and temporal match is strong; the surrounding Amos context (mourning as for an only son, v. 10) reinforces it.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 10:21-22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Darkness over the whole land' recalls the ninth plague, 'thick darkness in all the land of Egypt three days,' a darkness 'that may be felt.' The exodus-plague resonance casts the crucifixion as a moment of judgment/new exodus; coherent though Amos is the closer noon-darkness source.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The sun was darkened' echoes Joel's day-of-the-LORD signs, 'the sun and moon are darkened' (Joel 2:10; 3:15), language Luke himself cites in Acts 2:20. Availability is confirmed by Luke's own use; the cosmic-portent register fits the crucifixion's apocalyptic framing.",
+        "contested": false,
+        "altSource": "Joel 2:31"
+      },
+      {
+        "source": "Exodus 26:31-33",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The veil of the temple was torn in two' presupposes the Exodus curtain (katapetasma) that screens the Holy of Holies. The tearing dramatically signifies access/judgment upon the sanctuary; the cultic referent is unambiguously the Tabernacle/Temple veil of Exodus 26.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 1:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A day of darkness and gloom' as the day of the LORD's wrath supplies further prophetic backing for the noon darkness. Secondary to Amos/Joel; offered as a faint convergent witness.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "23.10",
+    "ch": 23,
+    "ref": "23:46",
+    "echoes": [
+      {
+        "source": "Psalm 31:5",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Father, into your hands I commit my spirit' is a direct quotation of Psalm 31:5, 'into your hand I commit my spirit,' the explicit dying word. Luke makes the righteous sufferer's prayer of trust the climactic utterance, replacing Mark's cry of dereliction; verbatim and unmistakable.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 31:1-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The whole psalm of the trusting righteous sufferer ('you redeem me, O LORD, faithful God,' surrounded by enemies yet committing himself to God) frames the death-cry beyond the single quoted line. Recurrence of Psalm 31's confidence motif throughout Luke's calm passion supports a wider allusion.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 16:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'God of the spirits of all flesh' / the giving-up of spirit may faintly evoke the biblical idiom of the breath/spirit returning to God (cf. Eccl 12:7). Thematic background for the 'breathed his last'; not a specific Lukan target.",
+        "contested": true,
+        "altSource": "Ecclesiastes 12:7"
+      }
+    ]
+  },
+  {
+    "id": "23.11",
+    "ch": 23,
+    "ref": "23:47-49",
+    "echoes": [
+      {
+        "source": "Isaiah 53:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The centurion's verdict 'Certainly this was a righteous man' (dikaios) crowns Luke's Servant-as-righteous-one theme — 'my righteous servant shall make many righteous.' Luke's distinctive dikaios (vs Mark's 'Son of God') points to Isaiah 53:11 LXX; medium-high coherence with the chapter's innocence refrain.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 2:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The vindicated 'righteous man' (dikaios) recalls Wisdom's persecuted just one whom God acknowledges as son. The centurion's confession answers the mockers' Wisdom-styled taunt (v. 35); thematic inclusio rather than quotation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 38:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'All his acquaintances, and the women... stood at a distance, watching' enacts Psalm 38:11, 'my friends and companions stand aloof from my affliction, and my kinsmen stand far off.' The distant-onlookers detail is a precise lament motif of abandonment; strong verbal/situational match.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 12:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The multitudes 'beating their breasts' over the crucified one resonates with the mourning of Zechariah 12:10-12, 'they shall look on him whom they pierced and mourn.' Luke's repentant breast-beating crowd (cf. 18:13) faintly draws on this Jerusalem-mourning prophecy.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 88:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You have caused my companions to shun me' parallels the acquaintances standing at a distance, doubling Psalm 38:11. A secondary lament witness to the friends-kept-far motif; offered low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "23.12",
+    "ch": 23,
+    "ref": "23:50-56",
+    "echoes": [
+      {
+        "source": "Isaiah 53:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Burial by Joseph, a rich council member, in an unused rock-cut tomb realizes Isaiah 53:9, 'they made his grave... with a rich man in his death,' the Servant honored in burial despite dying among criminals. The 'rich and righteous man' and the new tomb make this Luke's enactment of the Servant's burial; high coherence.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 21:22-23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Taking the body down and burying it the same day, before the Sabbath, observes Deuteronomy 21:22-23, 'his body shall not remain all night... you shall bury him the same day,' lest the land be defiled by one 'hanged on a tree.' The same-day burial urgency is governed by this law; strong availability and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:8-10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'On the Sabbath they rested according to the commandment' directly invokes the Decalogue Sabbath law, Exodus 20:10 ('you shall not do any work'). Luke's editorial 'according to the commandment' is an explicit appeal to Torah; the rest also frames the third-day timing.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Sabbath rest after the finished work of the cross resonates figurally with God resting on the seventh day after creation — the new creation's Sabbath repose before resurrection. A theological-figural reading; Luke signals only the commandment, so it is offered low.",
+        "contested": true,
+        "altSource": "Exodus 31:17"
+      },
+      {
+        "source": "Deuteronomy 5:12-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Deuteronomic form of the Sabbath commandment is an equally available source for 'rested according to the commandment.' Listed alongside Exodus 20 as the alternative Decalogue text Luke's phrase could intend.",
+        "contested": false,
+        "altSource": "Exodus 20:8-10"
+      }
+    ]
+  }
+]

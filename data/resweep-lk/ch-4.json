@@ -1,0 +1,238 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-13",
+    "echoes": [
+      {
+        "source": "Deuteronomy 8:2-3",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus' reply 'Man shall not live by bread alone, but by every word of God' quotes Deuteronomy 8:3 (LXX). The forty days of fasting and testing in the wilderness deliberately recapitulate Israel's forty years where God humbled them with hunger and fed them manna 'that he might teach you that man does not live by bread alone.' Maximal Volume and Coherence: the whole temptation is framed as a re-run of Israel's wilderness test.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:13",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'You shall worship the Lord your God, and you shall serve him only' renders Deuteronomy 6:13 (LXX, which adds 'worship/proskyneo' and 'only/mono'). High Volume verbatim citation; the Shema context (Deut 6) anchors the second/third temptation answers in Israel's covenant loyalty.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'You shall not tempt the Lord your God' quotes Deuteronomy 6:16 (LXX), which itself recalls Israel's testing of God at Massah (Exod 17:1-7). Verbatim citation answering the pinnacle temptation; strong Recurrence with the other Deuteronomy quotations in the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 91:11-12",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The devil quotes 'He will put his angels in charge of you... on their hands they will bear you up, lest you dash your foot against a stone' from Psalm 91:11-12 (LXX 90). High Volume verbatim citation, placed in Satan's mouth as a misuse of Scripture; the Deuteronomy reply rebuts it.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The forty-day fast echoes Moses on Sinai, forty days and nights without bread or water (Exod 34:28; cf. Deut 9:9). Coherence with Jesus as new Moses/Israel; Availability strong, though the dominant frame is Israel's forty years rather than Moses' forty days.",
+        "contested": true,
+        "altSource": "1 Kings 19:8"
+      },
+      {
+        "source": "1 Kings 19:8",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Elijah's forty-day fast journey to Horeb is a secondary candidate for the forty-day motif. Lower Volume than the Exodus/Deuteronomy frame, but Luke's special interest in Elijah later in this very chapter (vv.25-26) raises its Coherence.",
+        "contested": true,
+        "altSource": "Exodus 34:28"
+      },
+      {
+        "source": "Genesis 3:1-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus tested over food by the tempter/serpent inverts Adam and Eve's failure under the same kind of test; figural Adam-Christ logic latent in Luke's genealogy ending at Adam (3:38) immediately before. Faint Volume but coherent within Luke's structure.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The devil's offer of 'all the kingdoms of the world... all this authority and their glory' contrasts with the authority, glory, and kingdom rightly given to the one like a son of man in Daniel 7:14. Contested and faint; the irony works only if the Danielic gift of dominion is in view.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:14-15",
+    "echoes": [
+      {
+        "source": "Isaiah 61:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Jesus returned in the power of the Spirit' anticipates the Spirit-anointing announced in the Nazareth quotation that follows (vv.18-19, Isa 61:1). Faint as a standalone allusion here but coherent with Luke's Spirit-Christology drawn from Isaiah.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:16-21",
+    "echoes": [
+      {
+        "source": "Isaiah 61:1-2",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The Nazareth scroll reading 'The Spirit of the Lord is on me, because he has anointed me to preach good news to the poor... release to the captives... recovering of sight to the blind... to proclaim the acceptable year of the Lord' is a formal citation of Isaiah 61:1-2 (LXX). Highest Volume in the chapter; explicitly introduced as 'the book of the prophet Isaiah.'",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 58:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The clause 'to deliver/set at liberty those who are crushed (oppressed)' is spliced in from Isaiah 58:6 (LXX 'aphesei tethrausmenous'), not part of Isa 61. The deliberate conflation of two 'release/aphesis' texts is a recognized Lukan composite citation; high Volume and verbatim LXX wording.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 25:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'To proclaim the acceptable year of the Lord' and 'release/aphesis' evoke the Jubilee of Leviticus 25, when liberty is proclaimed and debts/captives released. Isaiah 61 itself draws on Jubilee language; Luke makes the year-of-release motif programmatic, giving strong Coherence and Availability.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Recovering of sight to the blind' and 'release to the captives' resonate with the Servant's task in Isaiah 42:7 ('to open blind eyes, to bring out prisoners'). Recurrence of the Isaianic Servant/blindness motif strengthens this, though the wording is closest to Isa 61/LXX.",
+        "contested": true,
+        "altSource": "Isaiah 35:5"
+      },
+      {
+        "source": "Isaiah 29:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The opening of blind eyes and hearing of the deaf in Isaiah 29:18 belongs to the cluster of Isaianic restoration texts Luke draws on for sight-to-the-blind. Faint and secondary to Isa 61, but coherent with Luke's Isaianic program.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:22-24",
+    "echoes": [
+      {
+        "source": "Psalm 45:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The crowd's wonder at the 'gracious words which proceeded out of his mouth' faintly echoes Psalm 45:2 (LXX 44:3), 'grace is poured upon your lips.' Low Volume; the verbal overlap (grace + mouth/lips) is suggestive but the connection is contested.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 11:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'No prophet is acceptable in his hometown,' and the townsmen's coming murderous rejection, reflects the prophet-rejected-by-his-own pattern, e.g. Jeremiah's own people of Anathoth seeking his life (Jer 11:21). Faint, pattern-level allusion rather than verbal citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.5",
+    "ch": 4,
+    "ref": "4:25-27",
+    "echoes": [
+      {
+        "source": "1 Kings 17:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'When the sky was shut up three years and six months... a great famine' summarizes Elijah's drought announced in 1 Kings 17:1 (and ended in 18:1). Jesus names the era explicitly ('in the days of Elijah'); high Volume narrative citation.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 17:8-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Elijah was sent... to Zarephath, in the land of Sidon, to a woman who was a widow' directly retells 1 Kings 17:8-16, the widow of Zarephath. Explicit naming of place and figure makes this a high-Volume citation deployed as Gentile-inclusion precedent.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 5:1-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Naaman, the Syrian' cleansed of leprosy by Elisha retells 2 Kings 5:1-14. Named figure and event; high Volume, paired with the Zarephath widow to ground Jesus' point that prophets are sent to Gentiles when Israel rejects them.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "4.6",
+    "ch": 4,
+    "ref": "4:28-30",
+    "echoes": [
+      {
+        "source": "1 Kings 19:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The synagogue's murderous rage and attempt to throw Jesus off the cliff continues the rejected-prophet motif (cf. Israel killing the prophets, 1 Kings 19:10,14). Pattern-level echo reinforcing the Elijah framing just invoked; faint verbal contact.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.7",
+    "ch": 4,
+    "ref": "4:31-37",
+    "echoes": [
+      {
+        "source": "Psalm 16:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The demon's title 'the Holy One of God' (ho hagios tou theou) draws on the OT 'holy one' (LXX hosios) of Psalm 16:10 (LXX 15:10), a text Luke applies messianically in Acts 2:27. Coherence with Lukan Christology; medium because 'Holy One' also has wider OT roots (e.g. consecrated figures).",
+        "contested": true,
+        "altSource": "Judges 13:7"
+      },
+      {
+        "source": "Judges 13:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Holy one of God' may also echo the Nazirite consecration language ('a Nazirite/holy one of God', Judg 13:7 LXX), faintly punning on Jesus 'of Nazareth' in the demon's cry. Faint and contested but available in the LXX tradition.",
+        "contested": true,
+        "altSource": "Psalm 16:10"
+      }
+    ]
+  },
+  {
+    "id": "4.8",
+    "ch": 4,
+    "ref": "4:38-41",
+    "echoes": [
+      {
+        "source": "Malachi 4:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Healings gathered 'when the sun was setting' may evoke Malachi 4:2 (LXX 3:20), 'the sun of righteousness shall rise with healing in its wings.' Faint and contested word-play on sun + healing; Luke's sunset detail is plausibly incidental, hence low confidence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.9",
+    "ch": 4,
+    "ref": "4:42-44",
+    "echoes": [
+      {
+        "source": "Isaiah 61:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I must preach the good news of the Kingdom of God... for this reason I have been sent' echoes the commissioning of the Isaiah 61:1 herald ('he has sent me to preach good news') that opened the chapter. Inclusio-like Recurrence binding the chapter to its Isaianic program; faint as a standalone allusion.",
+        "contested": true
+      }
+    ]
+  }
+]

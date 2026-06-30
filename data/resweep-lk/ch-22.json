@@ -1,0 +1,464 @@
+[
+  {
+    "id": "22.1",
+    "ch": 22,
+    "ref": "22:1-6",
+    "echoes": [
+      {
+        "source": "Exodus 12:1-20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The narrative is dated by 'the feast of unleavened bread, which is called the Passover,' directly invoking the institution of Passover and Unleavened Bread in Exodus 12. The framing controls the whole chapter's typology (the lamb, the meal, the deliverance), giving high volume and thematic coherence as Luke maps Jesus' death onto Israel's foundational redemption.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 16:1-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Deuteronomy's Passover/Unleavened-Bread regulations supply the calendrical language ('the feast of unleavened bread... the Passover') Luke uses to set the scene. Coherent with Luke's interest in Jerusalem-centered, temple-regulated feast observance, though the volume is lower than Exodus 12.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 41:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Satan entering Judas and his secret bargain to betray begins the betrayal-by-an-intimate motif that crystallizes at 22:21 in clear dependence on Psalm 41:9. Here the echo is anticipatory and faint, marked low until the table scene makes it explicit.",
+        "contested": true
+      },
+      {
+        "source": "Job 1:6-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Satan entered into Judas' personifies the accuser/adversary who, in Job 1-2 and Zechariah 3, acts against the faithful with divine permission. The figure of ha-satan as an agent moving human actors gives availability and coherence with Luke's wider Satan theme (cf. 22:31), though the lexical link is thin.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 11:12-13",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Judas being 'glad' to receive money for handing over the shepherd-figure resonates with Zechariah's thirty pieces of silver weighed out for the rejected shepherd. Luke lacks the price detail (unlike Matthew), so the echo is faint and contested, carried mainly by the betrayal-for-silver motif.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "22.2",
+    "ch": 22,
+    "ref": "22:7-13",
+    "echoes": [
+      {
+        "source": "Exodus 12:1-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The day of unleavened bread came, on which the Passover must be sacrificed' and the command to 'prepare the Passover' directly enact Exodus 12's prescription for slaughtering and eating the lamb. High volume and recurrence within Luke 22 make Exodus 12 the controlling subtext for the meal Jesus is about to transform.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 12:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The detail that the Passover is eaten in a furnished room with prepared provisions echoes the Exodus stipulation to eat the roasted lamb with unleavened bread that night. Coherent with the meal's redemptive typology, though the lexical contact is general.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 16:5-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Deuteronomy requires the Passover to be eaten at the place the LORD chooses (Jerusalem), not in private towns; Jesus' insistence on preparing the meal inside the city aligns with this centralization. The coherence with Luke's Jerusalem focus supports a medium-confidence allusion.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "22.3",
+    "ch": 22,
+    "ref": "22:14-20",
+    "echoes": [
+      {
+        "source": "Exodus 12:1-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Last Supper is staged as a Passover meal ('I have earnestly desired to eat this Passover with you'), so the sacrificed lamb of Exodus 12 stands behind the bread-and-cup words. High volume and coherence: Jesus reinterprets the paschal elements around his own body and blood-deliverance.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 24:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'This cup is the new covenant in my blood' depends on Moses' covenant ratification, 'Behold the blood of the covenant which the LORD has made with you,' sprinkled to seal Israel to God. Strong verbal and conceptual contact (blood + covenant) makes this a primary subtext for the cup-word.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:31-34",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The phrase 'the new covenant in my blood' explicitly takes up Jeremiah's promise of a 'new covenant' that the LORD will make with Israel. The adjective 'new' (kainos) keys directly to Jeremiah 31:31, the only OT text promising a covenant so named, giving high volume and distinctiveness.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'My blood, which is poured out for you' echoes the Servant who 'poured out his soul to death' and bore the sin of many. The vicarious 'for you/for many' sense coheres with Isaiah 53's substitutionary suffering, a Servant text Luke cites explicitly at 22:37.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 9:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'By the blood of the covenant I have set your prisoners free' supplies a prophetic combination of covenant-blood and liberation that resonates with Jesus' cup-word. Recurrence of the 'blood of the covenant' phrase (also Exodus 24:8) supports a medium-confidence echo.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'This is my body which is given for you' coheres with the Servant whose life is made 'an offering for sin,' framing Jesus' self-gift as sacrificial. The 'given for' language overlaps the Servant's self-offering, reinforcing the Isaianic atonement subtext of the meal.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 116:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'cup of salvation' lifted with thanksgiving in the Passover Hallel (Ps 116, sung at the meal) may stand behind Jesus' cup of blessing. Availability is strong (Hallel liturgy), but the lexical link is indirect, so the echo is faint.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 12:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Do this in memory of me' transposes the Passover's standing command, 'this day shall be a memorial,' onto the new rite. The memorial (zikkaron) logic of the feast is coherently redirected to Jesus, supporting a deliberate allusion.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "22.4",
+    "ch": 22,
+    "ref": "22:21-23",
+    "echoes": [
+      {
+        "source": "Psalm 41:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The hand of him who betrays me is with me on the table' draws on 'my own familiar friend... who ate my bread, has lifted up his heel against me.' The shared image of betrayal by a table companion gives strong volume and coherence as a Davidic/righteous-sufferer prototype Luke applies to Judas.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 55:12-14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The betrayal by a close companion who shared sweet fellowship ('we took counsel together, and walked to the house of God') reinforces the table-betrayal motif alongside Psalm 41:9. Recurrence of the intimate-betrayer theme in the Psalter supports a medium-confidence echo.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 9:26-27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Son of Man indeed goes, as it has been determined' coheres with Daniel's apocalyptic sense of decreed events ('what is determined shall be done'). The vocabulary of divine determination is faint and could derive from broader Jewish providence-language, so it is marked low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "22.5",
+    "ch": 22,
+    "ref": "22:24-30",
+    "echoes": [
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' conferral of a kingdom and a heavenly banquet table draws on the Son of Man receiving dominion and an everlasting kingdom in Daniel 7. The 'I confer on you a kingdom' language coheres with the Danielic transfer of rule, given Luke's repeated Son-of-Man framing in this chapter.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You will sit on thrones, judging the twelve tribes of Israel' echoes 'the saints of the Most High shall receive the kingdom' and possess it forever. The reign-of-the-saints motif undergirds the apostles' eschatological enthronement, a recurring Danielic theme in Luke 22.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Daniel 7:22's 'judgment was given to the saints of the Most High' supplies the specific note of the saints exercising judgment that Luke renders as the Twelve 'judging the twelve tribes of Israel.' The verbal contact ('judging' + 'saints reign') strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 122:4-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Thrones for judgment' set in Jerusalem for 'the tribes of the LORD' resonates with the apostles' thrones judging the twelve tribes. The combination of thrones + tribes + judgment in a single Psalm gives a coherent and reasonably distinctive subtext.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 49:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The twelve tribes of Israel' as a fixed totality derives from the Jacob/twelve-sons tradition formalized in Genesis 49. This supplies the conceptual backdrop for the restored Israel the Twelve will govern, though it is a stock phrase rather than a pointed citation.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 8:11-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' contrast with kings of the nations who 'lord it over' may echo Samuel's warning about the oppressive ways of kings who 'take' from the people. The critique-of-domineering-rulers theme is coherent but generic, so the echo is faint.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 25:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Eating and drinking 'at my table in my Kingdom' resonates with Isaiah's eschatological feast on the mountain for all peoples. The messianic-banquet image is available and coherent, though the lexical link is loose.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "22.6",
+    "ch": 22,
+    "ref": "22:31-34",
+    "echoes": [
+      {
+        "source": "Amos 9:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Satan asked... that he might sift you as wheat' draws on Amos's image of Israel shaken 'as grain is shaken in a sieve.' The distinctive sifting-in-a-sieve metaphor for testing God's people gives a coherent and fairly specific OT prototype for Peter's trial.",
+        "contested": false
+      },
+      {
+        "source": "Job 1:6-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Satan asked to have you' precisely mirrors the heavenly-court scene where the accuser requests permission to test Job, and God grants it within limits. The structure (Satan demands, God permits, the faithful is tested but not destroyed) maps closely onto Job 1-2, giving strong coherence.",
+        "contested": false
+      },
+      {
+        "source": "Job 2:1-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The second Job council, where Satan again seeks and is granted leave to afflict, reinforces the permitted-testing pattern behind Jesus' intercession for Peter ('I prayed for you, that your faith wouldn't fail'). Recurrence of the accuser-demands motif strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 3:1-2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Satan standing to accuse Joshua the high priest, with the LORD rebuking him, parallels Jesus' protective intercession against Satan's demand for Peter. The accuser-versus-advocate dynamic coheres well with the scene's logic.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "22.7",
+    "ch": 22,
+    "ref": "22:35-38",
+    "echoes": [
+      {
+        "source": "Isaiah 53:12",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus explicitly cites 'He was counted with transgressors' (kai meta anomon elogisthe) as Scripture that 'must still be fulfilled in me.' This is a formal, marked quotation of Isaiah 53:12, the clearest OT citation in the chapter, with maximal volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The surrounding Servant context ('by his knowledge shall the righteous one justify many') reinforces that Jesus reads his impending death through the whole fourth Servant Song, not just the cited line. Recurrence of Isaiah 53 across 22:20 and 22:37 supports the wider echo.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "22.8",
+    "ch": 22,
+    "ref": "22:39-46",
+    "echoes": [
+      {
+        "source": "Psalm 75:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Remove this cup from me' draws on the prophetic 'cup' of God's wrath/judgment, which in Psalm 75:8 the LORD makes the wicked drink to the dregs. The cup as a vessel of divine judgment to be drained gives a coherent OT background for Jesus' prayer.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jerusalem having drunk 'the cup of his wrath... the cup of staggering' supplies the wrath-cup imagery behind Jesus' petition. Coherent with the Gethsemane cup as the suffering Jesus is asked to drink, with reasonable verbal distinctiveness ('cup').",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The LORD's promise to take 'the cup of staggering' out of Jerusalem's hand resonates inversely: Jesus asks the cup be removed yet drinks it. Recurrence of the cup-of-wrath motif across Isaiah 51 strengthens the allusion cluster.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 25:15-16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'cup of the wine of wrath' that the nations must drink and stagger reinforces the OT 'cup' as judgment that Jesus invokes. The widespread prophetic recurrence of this image supports its presence behind the Gethsemane cup.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 19:5-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'An angel from heaven appeared to him, strengthening him' echoes the angel who twice strengthens the despairing Elijah with food for his journey. The angelic-strengthening-of-a-suffering-prophet motif is a coherent and fairly specific prototype.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 10:18-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The heavenly figure who touches and strengthens the exhausted, fearful Daniel ('be strong... and he strengthened me') parallels the angel strengthening Jesus in agony. The vocabulary of an angelic visitor imparting strength to one overwhelmed supports the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 42:5-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' agony and sorrow-unto-prayer resonate with the lament 'why are you cast down, O my soul,' a Davidic distress prototype. Coherent with Luke's righteous-sufferer portrayal, though lexically diffuse and so marked low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "22.9",
+    "ch": 22,
+    "ref": "22:47-53",
+    "echoes": [
+      {
+        "source": "Psalm 41:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Judas, 'one of the twelve,' approaching to kiss Jesus consummates the familiar-friend betrayal already keyed to Psalm 41:9 at 22:21. The recurrence within the chapter strengthens reading the kiss through the table-companion-betrayer subtext.",
+        "contested": true
+      },
+      {
+        "source": "2 Samuel 20:9-10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Joab's treacherous kiss and greeting before killing Amasa supplies a biblical type of the murderous kiss of a feigned friend. The image of betrayal-by-kiss makes this a coherent, fairly specific prototype for Judas.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 55:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'His mouth was smoother than butter, but war was in his heart' captures the hypocrisy of an intimate's deadly greeting that fits Judas's kiss. The echo is thematic rather than verbal, so it is marked low.",
+        "contested": true
+      },
+      {
+        "source": "Job 12:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'This is your hour, and the power of darkness' resonates faintly with OT contrasts of God uncovering deep darkness; the darkness/light dualism is broadly available in the Psalms and Job. The link is thematic and weak.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "22.10",
+    "ch": 22,
+    "ref": "22:54-62",
+    "echoes": [
+      {
+        "source": "Psalm 41:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter's threefold denial, like Judas's betrayal, plays on the failure of an intimate companion, the broader righteous-sufferer-abandoned motif behind Psalm 41:9. The connection is thematic and faint, marked low.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 31:11-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The righteous sufferer shunned and denied by acquaintances ('I am... a reproach... my acquaintances are afraid of me') resonates with Jesus abandoned even by Peter. Luke draws elsewhere on Psalm 31 for the passion, lending some availability, but the link here is diffuse.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 13:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Strike the shepherd, and the sheep will be scattered' undergirds the scattering/failure of the disciples that Peter's denial dramatizes. Luke lacks the explicit shepherd citation (unlike Mark/Matthew), so the echo is faint and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "22.11",
+    "ch": 22,
+    "ref": "22:63-65",
+    "echoes": [
+      {
+        "source": "Isaiah 50:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The mocking, beating, and striking of the blindfolded Jesus enacts the Servant who gave 'my back to those who strike, and my cheeks to those who pull out the beard; I did not hide my face from shame and spitting.' The cluster of striking + insult + the Servant's non-resistance gives strong coherence.",
+        "contested": false
+      },
+      {
+        "source": "Micah 5:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'They will strike the ruler/judge of Israel on the cheek with a rod' supplies a prophetic image of the ruler humiliated by blows that fits the soldiers striking Jesus' face. The smiting-of-the-ruler motif coheres with the mockery scene.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Despised and rejected... and we esteemed him not' resonates with the men insulting and reviling Jesus. Given Isaiah 53's explicit citation at 22:37, the wider Servant context plausibly colors the mockery as well.",
+        "contested": false
+      },
+      {
+        "source": "Lamentations 3:30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let him give his cheek to the one who strikes him; let him be filled with insults' echoes the patient endurance of blows and reproach that Jesus exemplifies. The link is thematic and secondary to Isaiah 50:6, so it is marked low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "22.12",
+    "ch": 22,
+    "ref": "22:66-71",
+    "echoes": [
+      {
+        "source": "Psalm 110:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'From now on the Son of Man will be seated at the right hand of the power of God' takes up 'Sit at my right hand,' the LORD's enthronement of David's lord. The session-at-the-right-hand language is a near-verbatim appropriation of Psalm 110:1, the most cited OT verse in the NT, with high volume.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The title 'the Son of Man' combined with exaltation before the council fuses Psalm 110 with Daniel 7's 'one like a son of man' coming with the clouds to receive dominion. This Daniel-Psalm 110 conflation is recurrent in the passion tradition and coheres with Luke's Son-of-Man Christology.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 80:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let your hand be on the man of your right hand, the son of man whom you made strong' loosely joins 'son of man' with the right-hand of God's favor. The verbal overlap is suggestive but thin, so it is marked low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The council's question 'Are you then the Son of God?' resonates with the royal decree 'You are my Son,' the Davidic sonship Luke applies to Jesus elsewhere. The divine-sonship background is available, though here the link is conceptual rather than cited.",
+        "contested": true
+      }
+    ]
+  }
+]

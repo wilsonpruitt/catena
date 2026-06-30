@@ -1,0 +1,471 @@
+[
+  {
+    "id": "12.1",
+    "ch": 12,
+    "ref": "12:1-3",
+    "echoes": [
+      {
+        "source": "Ecclesiastes 12:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Qoheleth's closing maxim that God will bring every hidden work into judgment coheres with Jesus' apocalyptic disclosure that 'nothing is covered up that will not be revealed.' The wisdom-tradition theme of concealment overturned by divine exposure gives moderate Volume and strong Coherence with the warning against Pharisaic hypocrisy.",
+        "contested": true
+      },
+      {
+        "source": "Job 12:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Job's praise that God 'uncovers deep things out of darkness and brings deep shadow to light' supplies the same imagery of hidden things brought into the light. The verbal overlap (darkness/light, revealing) is suggestive but the motif is widespread, so confidence is low.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 1:30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira warns the hypocrite that the Lord will reveal his secrets and cast him down in the assembly for not coming in fear of the Lord — a close conceptual parallel to leaven/hypocrisy that will be made manifest. Second-Temple Availability and shared hypocrisy theme support a faint echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.2",
+    "ch": 12,
+    "ref": "12:4-7",
+    "echoes": [
+      {
+        "source": "Isaiah 8:12-13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah's oracle—'do not fear what they fear... the LORD of hosts, him you shall regard as holy, let him be your fear'—is the structural template for Jesus' contrast between fearing human killers and fearing the One who can cast into Gehenna. The transfer of fear from men to God is verbally and thematically precise, giving high Volume and Coherence.",
+        "contested": false
+      },
+      {
+        "source": "4 Maccabees 13:14-15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The martyr brothers say 'let us not fear him who thinks he kills' but rather dread the danger of eternal torment for transgressing God's law. This Second-Temple martyrology supplies the exact body-vs-soul, kill-but-fear-God logic and a post-mortem judgment, making it strong Availability for Luke's saying.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 1:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prophetic reassurance 'do not be afraid of them, for I am with you' coheres with Jesus encouraging fearless witness before hostile authorities. The 'fear not' formula is widespread, so this is a faint coherence echo rather than a targeted allusion.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 56:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In God I trust; I will not be afraid. What can flesh do to me?' parallels Jesus' 'don't be afraid of those who kill the body, and after that have no more they can do.' The flesh-can-do-no-more logic is a plausible echo of psalmic confidence.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 14:45",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The oath that not one hair of Jonathan's head shall fall to the ground is the idiomatic source for divine protection imagery behind 'the very hairs of your head are all numbered.' The hair idiom is the link, though Luke intensifies it from preservation to enumeration, so confidence is low.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 147:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God 'gives to the animals their food, and to the young ravens that cry' grounds the providence logic that not one sparrow is forgotten before God. The creature-care theme recurs more fully in 12:24, making this a coherent but light echo here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.3",
+    "ch": 12,
+    "ref": "12:8-12",
+    "echoes": [
+      {
+        "source": "Daniel 7:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Son of Man confessing or denying before 'the angels of God' draws on Daniel's heavenly court where thousands of angels attend and the Son of Man is presented before the Ancient of Days. The Son-of-Man title plus an angelic tribunal gives strong Coherence and apt Availability.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' self-designation 'Son of Man' acting as eschatological acknowledger before God depends on Daniel's exalted Son of Man who receives dominion. This recurs across Luke's Son-of-Man sayings, satisfying Recurrence even where the verbal contact here is the title and heavenly setting.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God's promise to Moses, 'I will be with your mouth and teach you what you shall speak,' is the prototype for 'the Holy Spirit will teach you in that same hour what you must say.' The divine teaching-of-speech-under-trial motif gives good Coherence and clear Availability.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 15:30-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Torah's distinction between forgivable inadvertent sin and the high-handed sin that 'reviles the LORD' and is cut off without forgiveness loosely underlies the unforgivable blasphemy against the Spirit. The defiant-sin-without-pardon concept is the link, so a faint echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.4",
+    "ch": 12,
+    "ref": "12:13-15",
+    "echoes": [
+      {
+        "source": "Exodus 2:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Who made you a ruler and judge over us?'—the Hebrew's rebuke of Moses—is verbally echoed in Jesus' 'Man, who made me a judge or an arbitrator over you?' The near-quotation of the question gives notable Volume, though the speaker roles are inverted, marking it a deliberate echo.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 5:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Whoever loves money will not be satisfied with money'—Qoheleth's verdict on the futility of abundance—coheres directly with 'a man's life doesn't consist of the abundance of the things which he possesses.' The wisdom critique of accumulation supports the warning against covetousness.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 21:15-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Torah law of inheritance division among heirs supplies the legal backdrop for the brother's request to divide the inheritance. It is the unstated Availability rather than an allusion Luke develops, hence low confidence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.5",
+    "ch": 12,
+    "ref": "12:16-21",
+    "echoes": [
+      {
+        "source": "Sirach 11:18-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Ben Sira describes one who grows rich, says 'I have found rest, now I will enjoy my goods,' yet does not know his death is near and must leave them to others. This is the closest Second-Temple template for the rich fool: the inner monologue of ease, the unexpected death, and the unanswered 'whose will they be,' giving very high Volume and Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 2:24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Qoheleth's refrain that there is nothing better than to eat, drink, and find enjoyment underlies the rich fool's 'take your ease, eat, drink, be merry.' Luke ironizes the wisdom counsel by exposing its folly when death intervenes, giving strong thematic Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 8:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I commend enjoyment, for man has nothing better under the sun than to eat and drink and be merry' is virtually quoted in the fool's resolve. The verbal triad eat/drink/be merry makes this a direct verbal source, though Luke subverts it.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 39:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He heaps up wealth and does not know who will gather it' is closely echoed by God's 'the things you have prepared—whose will they be?' The psalm's lament over the futility of hoarding against death gives strong Coherence and good Volume.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's proverb that one who gets riches unjustly will leave them in the midst of his days and prove a fool at his end supplies both the 'fool' verdict and the premature loss of wealth. The shared fool-and-forfeited-riches motif gives notable Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Job 27:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'What is the hope of the godless when God cuts him off, when God takes away his life?' parallels the question posed to the rich man whose soul is required. The taking of the life of the prosperous-but-godless undergirds the parable's verdict.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 49:16-20",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The psalm warns not to fear the rich who lay up wealth, for they carry nothing away at death and perish like the beasts. The 'man in his pomp who does not understand' is a near-portrait of the rich fool, giving good Coherence to 'not rich toward God.'",
+        "contested": true
+      },
+      {
+        "source": "Job 31:24-28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Job's disavowal of making gold his hope reflects the parable's contrast between trusting accumulated wealth and being 'rich toward God.' The trust-in-riches-as-folly theme is a coherent but lighter echo.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 31:1-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's reflections on wealth, sleepless anxiety over riches, and the rare rich man who is blameless complement the parable's critique of storing goods. A faint Second-Temple coherence echo behind the barn-building scheme.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.6",
+    "ch": 12,
+    "ref": "12:22-31",
+    "echoes": [
+      {
+        "source": "Job 38:41",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Who provides for the raven its prey, when its young ones cry to God?' is the direct source of 'Consider the ravens... God feeds them.' The named bird (raven, not a generic fowl) and the divine feeding make this a high-Volume allusion to God's wilderness providence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 147:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God 'gives to the animals their food, and to the young ravens that cry' reinforces the raven providence saying with a second Scripture. The recurrence of the ravens-fed-by-God motif across Job and Psalms strengthens the case (Recurrence).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:6-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'All flesh is grass... the grass withers, the flower fades' is the template for the grass which today exists and tomorrow is cast into the oven. The transience-of-grass imagery is verbally close and thematically apt to the 'little faith' contrast, giving high Volume.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 10:4-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The queen of Sheba's astonishment at Solomon's wealth and splendor stands behind 'even Solomon in all his glory was not arrayed like one of these.' The named figure (Solomon) and his proverbial glory give high Volume; the lilies surpass the richest king of Israel's memory.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 9:3-6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Chronicler's parallel account of Solomon's overwhelming glory before the queen of Sheba supports the 'Solomon in all his glory' reference. Recurrence of the Solomon-splendor tradition across Kings and Chronicles strengthens Availability.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 103:15-16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'As for man, his days are like grass... the wind passes over it and it is gone' echoes the perishable grass clothed by God yet cast into the oven. The grass-as-human-frailty motif coheres with the call not to be anxious.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 104:14-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God who causes grass to grow and brings forth food, wine, and bread supplies the providential clothing-and-feeding logic. A general creation-providence echo behind 'God clothes the grass.'",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 8:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Man does not live by bread alone' coheres with 'life is more than food.' The principle that life exceeds material sustenance is a plausible Torah echo underlying the anti-anxiety teaching.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.7",
+    "ch": 12,
+    "ref": "12:32-34",
+    "echoes": [
+      {
+        "source": "Sirach 29:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Lay up your treasure according to the commandments of the Most High, and it will profit you more than gold' is the closest source for 'make for yourselves... a treasure in the heavens that doesn't fail.' The almsgiving-as-imperishable-treasure logic gives high Volume and Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Tobit 4:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You will be laying up a good treasure for yourself against the day of necessity' directly follows Tobit's exhortation to give alms. The treasure-stored-by-almsgiving theme is a precise Second-Temple parallel to selling possessions and giving to the needy.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 29:10-12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Ben Sira's fuller counsel to spend silver on a brother and store up almsgiving in the chambers of the Most High undergirds the whole purse-that-does-not-grow-old image. Recurrence within Sirach's treasure theology strengthens the allusion.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The kingdom given to the people of the saints of the Most High coheres faintly with 'it is your Father's good pleasure to give you the Kingdom' for the 'little flock.' The granting of the kingdom to a faithful remnant is a coherent but light echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.8",
+    "ch": 12,
+    "ref": "12:35-40",
+    "echoes": [
+      {
+        "source": "Exodus 12:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Passover command to eat 'with your waist girded, your sandals on your feet... in haste' supplies 'let your waist be dressed,' the posture of readiness for the Lord's deliverance/coming. The girded-loins idiom for eschatological vigilance is a strong, apt allusion.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Lord whom you seek will suddenly come to his temple' grounds the sudden, unexpected return of the master for whom the servants watch. The Lord-coming-suddenly motif coheres with both the watchful-servants and the thief-in-the-night sayings.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 18:46",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah 'girded up his loins and ran' is a representative instance of the girded-loins idiom for urgent service. It supports the readiness imagery though Exodus 12 is the primary cultic source.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 62:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The bridegroom-rejoicing imagery of God's eschatological marriage faintly underlies the lord 'returning from the marriage feast.' The wedding-banquet eschatology is a coherent but light echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.9",
+    "ch": 12,
+    "ref": "12:41-48",
+    "echoes": [
+      {
+        "source": "Genesis 39:4-6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Joseph set over Potiphar's whole household, entrusted with everything, is the wisdom prototype of the faithful steward whom the lord sets over his household and, proving faithful, over all he has. The trusted-slave-over-the-house motif gives good Coherence.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 33:24-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's instructions about treatment of slaves—the prudent versus the abusive—loosely cohere with the steward who either feeds the household or beats the menservants. A Second-Temple wisdom backdrop to the parable's master/servant ethics.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 15:27-31",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Torah's graded culpability—lighter for inadvertent sin, heavier for high-handed sin—undergirds 'beaten with many stripes' versus 'few stripes' according to knowledge of the lord's will. The proportional-punishment-by-knowledge principle gives clear Coherence.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 25:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Deuteronomic law limiting and proportioning the number of stripes to the offense supplies the legal idiom behind 'many stripes... few stripes.' Availability for the beating imagery, though not developed verbally.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.10",
+    "ch": 12,
+    "ref": "12:49-53",
+    "echoes": [
+      {
+        "source": "Micah 7:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The son treats the father with contempt, the daughter rises up against her mother, the daughter-in-law against her mother-in-law'—Micah's portrait of social collapse—is virtually quoted in the household divisions of 12:53. The matching kinship triads (father/son, mother/daughter, mother-in-law/daughter-in-law) make this a high-Volume allusion.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Who can endure the day of his coming? For he is like a refiner's fire' grounds 'I came to throw fire on the earth.' The eschatological refining-and-purging fire of the coming Lord gives strong Coherence to Jesus' fire-bringing mission.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The day comes, burning like an oven... it will set them ablaze' reinforces the kindled fire Jesus casts on the earth. Recurrence of Malachi's fire-of-judgment imagery across chapters 3-4 strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 13:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God will 'put this third into the fire, and refine them as one refines silver' divides a remnant by fire and trial. The refining-fire-that-divides motif coheres with both the fire and the division Jesus brings rather than peace.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 11:2-45",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Apocalyptic expectation that the end-times bring conflict rather than tranquility loosely supports Jesus' 'not peace but division.' Faint coherence with the tribulation-before-the-end pattern.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.11",
+    "ch": 12,
+    "ref": "12:54-56",
+    "echoes": [
+      {
+        "source": "1 Kings 18:44-45",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The little cloud rising from the sea heralding heavy rain in Elijah's drought account parallels 'a cloud rising from the west... a shower is coming.' The reading-of-cloud-as-rain-sign offers a faint scriptural precedent for weather discernment.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 11:3-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Qoheleth's observation that 'if the clouds are full of rain, they empty themselves on the earth' and that the wind-watcher fails to act coheres with reading clouds and wind yet failing to read 'this time.' A wisdom echo on weather-signs and discernment.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "12.12",
+    "ch": 12,
+    "ref": "12:57-59",
+    "echoes": [
+      {
+        "source": "Proverbs 25:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Do not hastily bring into court, for what will you do in the end, when your neighbor puts you to shame?' is the wisdom counsel behind settling with your adversary on the way before the magistrate. The avoid-the-courtroom-by-prior-settlement logic gives clear Coherence and apt Availability.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 6:1-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The urgent counsel to free yourself at once from a debt-snare, 'like a gazelle from the hand of the hunter,' coheres with hastening to be released from one's accuser before imprisonment. A wisdom echo on urgent self-extraction from legal/financial peril.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 6:34-35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The implacable creditor/accuser who will accept no ransom parallels the warning that one will not get out 'until you have paid the very last penny.' A faint coherence echo on inescapable debt-satisfaction.",
+        "contested": true
+      }
+    ]
+  }
+]

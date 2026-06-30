@@ -469,7 +469,8 @@
           "type": "figural",
           "confidence": "medium",
           "text": "The voice of one who calls out, “Prepare the way of Yahweh in the wilderness! Make a level highway in the desert for our God. Every valley shall be exalted, and every mountain and hill shall be made low. The uneven shall be made level, and the rough places a plain. Yahweh’s glory shall be revealed, and all flesh shall see it together; for the mouth of Yahweh has spoken it.”",
-          "note": "Beyond the quoted v.3, the whole Isaianic New Exodus / wilderness-highway scene shapes the pericope: comfort after exile, the revealing glory of the Lord, all flesh seeing salvation. The wilderness setting of John's preaching enacts the prophetic return-from-exile pattern."
+          "note": "Beyond the quoted v.3, the whole Isaianic New Exodus / wilderness-highway scene shapes the pericope: comfort after exile, the revealing glory of the Lord, all flesh seeing salvation. The wilderness setting of John's preaching enacts the prophetic return-from-exile pattern.",
+          "lxxText": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make straight the paths of our God. Every valley shall be filled, and every mountain and hill shall be brought low: and all the crooked ways shall become straight, and the rough places plains. And the glory of the Lord shall appear, and all flesh shall see the salvation of God: for the Lord has spoken it."
         },
         {
           "source": "2 Kings 1:8",
@@ -1093,8 +1094,9 @@
           "source": "Isaiah 61:1-3",
           "type": "allusion",
           "confidence": "high",
-          "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound; to proclaim the year of Yahweh’s favor, and the day of vengeance of our God; to comfort all who mourn; to appoint to those who mourn in Zion, to give to them a garland for ashes, the oil of joy for mourning, the garment of praise for […]",
-          "note": "Isaiah's anointed proclaims good news to the poor and comfort to all who mourn; multiple beatitudes (poor, mourning-comforted, righteousness) cluster on this Servant text, which Jesus elsewhere claims."
+          "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound; to proclaim the year of Yahweh’s favor, and the day of vengeance of our God; to comfort all who mourn; to appoint to those who mourn in Zion, to give to them a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of […]",
+          "note": "Isaiah's anointed proclaims good news to the poor and comfort to all who mourn; multiple beatitudes (poor, mourning-comforted, righteousness) cluster on this Servant text, which Jesus elsewhere claims.",
+          "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind; to declare the acceptable year of the Lord, and the day of recompence; to comfort all that mourn; that there should be given to them that mourn in Sion glory instead of ashes, the oil of joy to the mourners, the garment of glory for the spirit of heaviness: and […]"
         },
         {
           "source": "Isaiah 57:15",
@@ -4390,7 +4392,8 @@
           "type": "quotation",
           "confidence": "high",
           "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
-          "note": "'to preach good news to the poor' (anointed Servant) supplies the climactic 'the poor have good news preached to them' — the same verb/theme Jesus claims as his own programmatic mission (cf. Luke 4:18)."
+          "note": "'to preach good news to the poor' (anointed Servant) supplies the climactic 'the poor have good news preached to them' — the same verb/theme Jesus claims as his own programmatic mission (cf. Luke 4:18).",
+          "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;"
         },
         {
           "source": "Isaiah 26:19",

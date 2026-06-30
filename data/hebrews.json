@@ -203,8 +203,9 @@
           "source": "Isaiah 61:1",
           "type": "echo",
           "confidence": "low",
-          "text": "The Lord Yahweh’s Spirit is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
-          "note": "‘Has anointed you with the oil of gladness’ (v. 9) draws on the messianic-anointing register that Isa 61:1 made canonical for the title ‘Christ/anointed.’ Faint, no verbal volume — thematic coherence with the Son's anointing above his fellows."
+          "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+          "note": "‘Has anointed you with the oil of gladness’ (v. 9) draws on the messianic-anointing register that Isa 61:1 made canonical for the title ‘Christ/anointed.’ Faint, no verbal volume — thematic coherence with the Son's anointing above his fellows.",
+          "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;"
         },
         {
           "source": "2 Samuel 23:3",

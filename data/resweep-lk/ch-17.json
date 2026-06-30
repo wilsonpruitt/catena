@@ -1,0 +1,387 @@
+[
+  {
+    "id": "17.1",
+    "ch": 17,
+    "ref": "17:1-4",
+    "echoes": [
+      {
+        "source": "Leviticus 19:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Holiness Code commands 'you shall surely rebuke your neighbor' rather than bear sin against him, the foundational text for fraternal correction that Jesus reproduces almost as a paraphrase ('rebuke him'). High Coherence with the surrounding love-of-neighbor frame and strong recurrence of this verse in Second-Temple reproof ethics give it good standing.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 4:24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Lamech's boast that he is avenged 'seventy-sevenfold' is the numerical foil that Jesus' sevenfold-forgiveness saying (and Matthew's seventy-seven) inverts: unlimited vengeance becomes unlimited pardon. The shared and distinctive sevenfold idiom gives moderate Volume; the figural reversal supplies Coherence.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 31:34",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The new-covenant promise that God will forgive iniquity and remember sin no more underwrites the disciples' obligation to forgive the repentant brother. The link is thematic rather than verbal, so confidence is low, but the forgiveness motif gives Coherence with the pericope.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 14:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel's oracle on a land that 'sins against me' and the prophet's responsibility for warning resonates faintly with the 'if your brother sins' correction logic, but the connection is diffuse and the vocabulary common, so this is a contested faint echo at best.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.2",
+    "ch": 17,
+    "ref": "17:2",
+    "echoes": [
+      {
+        "source": "Jeremiah 51:63",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's sign-act binds a stone to the scroll and casts it into the Euphrates so Babylon will 'sink and not rise,' the closest OT image to a weight sunk in deep water as a figure of irreversible doom. The millstone-and-sea threat shares the distinctive stone-cast-into-water motif of total destruction, giving moderate Volume.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 15:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Song of the Sea says the enemy 'went down into the depths like a stone,' supplying the stone-sinking-in-the-sea imagery of judgment. The verbal overlap (stone, depths of the sea) is suggestive but the motif is widespread, so the echo is faint.",
+        "contested": true
+      },
+      {
+        "source": "Nehemiah 9:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Nehemiah's prayer recalls the pursuers cast 'into the depths, like a stone into mighty waters,' reinforcing the same drowning-by-stone judgment topos. Low Volume and a commonplace image keep this contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.3",
+    "ch": 17,
+    "ref": "17:5-6",
+    "echoes": [
+      {
+        "source": "Zechariah 4:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Zechariah's word that the great 'mountain' shall become a plain before Zerubbabel by the Spirit, not by might, is the canonical pairing of faith with the moving/leveling of an immovable obstacle. The mountain-removed-by-faith logic gives Coherence with 'faith like a mustard seed,' though Luke uses a sycamore-into-sea rather than a mountain, lowering Volume.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 46:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalm's confidence even 'though the mountains be carried into the midst of the sea' supplies the very image of an immovable thing thrown into the sea, here recast as the work of faith. The verbal overlap (uprooted/carried into the sea) is real but the figure is proverbial, so it is faint.",
+        "contested": true
+      },
+      {
+        "source": "Habakkuk 3:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The theophany that scatters the everlasting mountains coheres with the faith-moves-mountains topos behind the uprooted-tree saying. The connection is conceptual and diffuse, so confidence is low.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 54:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's 'the mountains may depart' as a figure of cosmic upheaval feeds the same stock of immovable-object-displaced imagery that the mustard-seed/sycamore saying exploits. Faint and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.4",
+    "ch": 17,
+    "ref": "17:7-10",
+    "echoes": [
+      {
+        "source": "Job 22:2-3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Eliphaz asks whether a man can be profitable to God or whether it is gain to the Almighty that one is righteous, the wisdom premise that human service places God under no obligation. This grounds the 'we are unworthy servants, we have only done our duty' logic; moderate Coherence with the servant parable.",
+        "contested": true
+      },
+      {
+        "source": "Job 35:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Elihu's 'if you are righteous, what do you give him?' states the same theology of non-meritorious obedience underlying the unprofitable-servant saying. Recurrence of the motif across Job strengthens the Availability and Coherence, though there is no verbal quotation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 123:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The image of servants' eyes fixed on the hand of their master, waiting on his command, supplies the master-servant deference picture the parable assumes. Conceptual rather than verbal, hence low confidence.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 25:55",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's claim that the Israelites are his servants whom he brought out of Egypt frames Israel's whole obedience as owed service, the covenantal backdrop to 'we have only done what was our duty.' Faint, diffuse, contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.5",
+    "ch": 17,
+    "ref": "17:11-19",
+    "echoes": [
+      {
+        "source": "2 Kings 5:1-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Naaman narrative — a leprous Syrian foreigner cleansed who returns to the prophet to confess the God of Israel — is the structural template for the lone Samaritan leper who turns back to give thanks. The distinctive convergence of foreigner + leprosy + cleansing + grateful return gives strong Volume and Coherence, and Luke elsewhere cites Naaman explicitly (4:27), confirming Recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 13:45-46",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The leprosy law requires the unclean to dwell apart and cry out, explaining why the ten 'stood at a distance' and lifted their voices. The pericope presupposes this purity legislation as its narrative grammar, giving high Coherence and Availability.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 14:2-4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The cleansed leper must be presented to the priest for inspection and rites of restoration, exactly what Jesus commands: 'Go, show yourselves to the priests.' The direct dependence on the priestly examination law gives high Volume and Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 12:10-15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Miriam's leprosy, exclusion 'outside the camp' for seven days, and restoration by intercession reinforce the segregation-and-cleansing pattern shaping the leper episode. Moderate Coherence; the motif overlaps with the Leviticus laws, so it adds recurrence rather than independent Volume.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 7:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The four lepers at the gate of Samaria who 'stood at the entrance' likewise embody the marginalized-leper-at-a-distance topos and the Samaria setting. Geographic and situational resonance, but no verbal dependence, so low.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 103:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalm's call to 'bless the Lord, O my soul... who heals all your diseases' coheres with the Samaritan's loud-voiced glorifying of God for his healing. Thematic only; faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.6",
+    "ch": 17,
+    "ref": "17:20-21",
+    "echoes": [
+      {
+        "source": "Daniel 2:44",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Daniel's vision that the God of heaven will set up an everlasting kingdom underlies the Pharisees' question of when the Kingdom of God would come and Jesus' redefinition of its arrival. Moderate Volume from the shared 'kingdom of God' eschatology; Daniel is the key Second-Temple source for the expectation Jesus is correcting.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The everlasting dominion given to the one like a son of man frames the kingdom expectation in view; the link is conceptual, anticipating the Son-of-Man material that immediately follows, so it is low here.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 30:11-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Moses insists the commandment is 'not far off... but very near you, in your mouth and in your heart,' a nearness-not-distant idiom that resonates with 'the Kingdom of God is among/within you' rather than 'here' or 'there.' Suggestive but contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.7",
+    "ch": 17,
+    "ref": "17:22-25",
+    "echoes": [
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The title 'the Son of Man' and his sudden, heaven-spanning revelation derive from Daniel's one like a son of man coming with the clouds of heaven. This is the controlling OT source for the entire 'days of the Son of Man' discourse, giving high Volume, Recurrence, and Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 9:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Zechariah's theophany where 'the Lord will appear... his arrow will go out like lightning' supplies the lightning-flash imagery for the Son of Man's day. The distinctive divine-lightning-of-judgment motif gives moderate Volume.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 97:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'His lightnings light up the world' depicts the cosmic, world-illuminating theophany echoed in the lightning that shines from one part of the sky to the other. Common theophanic imagery, so low.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Suffering Servant 'despised and rejected by men' undergirds 'he must suffer many things and be rejected by this generation.' The must-suffer-and-be-rejected formula coheres strongly with Isaiah 53, giving moderate Volume to a figural reading.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.8",
+    "ch": 17,
+    "ref": "17:26-27",
+    "echoes": [
+      {
+        "source": "Genesis 7:6-23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The flood narrative — humanity eating and marrying in oblivious normalcy until Noah enters the ark and the deluge destroys them all — is explicitly invoked ('as in the days of Noah'). Direct named typology gives maximal Volume and Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 6:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The verdict that human wickedness was great and every intention only evil supplies the moral indictment implicit in the days-of-Noah comparison: heedless wickedness met by sudden judgment. Strengthens the Coherence of the flood typology.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "17.9",
+    "ch": 17,
+    "ref": "17:28-30",
+    "echoes": [
+      {
+        "source": "Genesis 19:24-25",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Sodom's destruction by fire and sulfur rained from heaven, with Lot going out on the day of doom, is named directly ('the days of Lot'). The explicit citation of fire-and-brimstone judgment gives maximal Volume and Coherence as the paired type to Noah.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:20-21",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The outcry against Sodom's sin that prompts the divine visitation supplies the moral premise behind the eating-buying-building-as-usual-until-judgment picture. Coheres with the Lot typology and supports its Recurrence.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 29:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The covenant curse describes the land as 'brimstone and salt... like the overthrow of Sodom and Gomorrah,' showing Sodom's fire-and-sulfur as the standard type of sudden total ruin Luke is invoking. Adds Recurrence; faint as an independent source.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 16:49-50",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel's reading of Sodom's sin as prosperous, complacent ease before judgment matches the buying/selling/planting/building complacency Luke emphasizes. Thematic reinforcement, low Volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.10",
+    "ch": 17,
+    "ref": "17:31-33",
+    "echoes": [
+      {
+        "source": "Genesis 19:26",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Remember Lot's wife' explicitly names the woman who looked back and became a pillar of salt, the warning against turning back when fleeing judgment. A direct citation by name gives maximal Volume and Coherence with 'let him not turn back.'",
+        "contested": false
+      },
+      {
+        "source": "Genesis 19:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The angels' command 'do not look behind you... lest you be consumed' is the prohibition Lot's wife violated and the imperative behind 'let him not go down... not turn back.' The flee-without-looking-back instruction is closely reproduced, giving high Volume.",
+        "contested": false
+      },
+      {
+        "source": "Job 2:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The proverb 'all that a man has he will give for his life' resonates faintly with the paradox of seeking to save one's life and losing it; the connection is thematic, not verbal, so low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.11",
+    "ch": 17,
+    "ref": "17:34-35",
+    "echoes": [
+      {
+        "source": "Exodus 11:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The plague on the firstborn 'from the firstborn of Pharaoh to the firstborn of the maidservant who is behind the mill' pairs sleeping/grinding social opposites singled out for judgment, a structural analogue to the two in one bed and two grinding, one taken and one left. Suggestive selective-judgment motif, but no verbal dependence, so low.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Malachi's promise that you will again distinguish 'between the righteous and the wicked' on the day of judgment coheres with the sudden separation of the paired figures, one taken and one left. Thematic and faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.12",
+    "ch": 17,
+    "ref": "17:37",
+    "echoes": [
+      {
+        "source": "Job 39:30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Lord's speech on the eagle/vulture whose young suck up blood and that is wherever the slain are ('where the slain are, there is he') is the clearest source for 'where the body is, there the vultures gather.' The distinctive corpse-and-bird-of-prey proverb gives strong Volume and Coherence with the judgment scene.",
+        "contested": false
+      },
+      {
+        "source": "Habakkuk 1:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Chaldean horsemen who fly 'like an eagle swift to devour' gathering to the prey supply the swooping-bird-of-prey-toward-the-doomed imagery. Moderate Volume; reinforces the judgment-by-gathering-raptors motif.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 39:17-18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The summons to the birds to gather to God's sacrificial slaughter and eat the flesh of the slain provides an eschatological carrion-gathering image very close to the saying's apocalyptic function. Good Coherence with the day-of-judgment context, lowered only by the eagles/vultures vs. generic-birds difference.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 8:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Set the trumpet to your lips! One like an eagle is over the house of the Lord' offers an eagle-as-onrushing-judgment image. Faint and contested, but adds Recurrence to the bird-of-prey-judgment topos.",
+        "contested": true
+      }
+    ]
+  }
+]

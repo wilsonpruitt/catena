@@ -859,7 +859,8 @@
           "confidence": "low",
           "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
           "note": "'Your holy servant Jesus, whom you anointed' (v.27) may also evoke Isa 61:1, 'the Spirit of the Lord is upon me, because he has anointed me,' the Servant's Spirit-anointing for proclamation — coherent with the anointed-Servant motif but without verbal borrowing here. Low and contested.",
-          "contested": true
+          "contested": true,
+          "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;"
         },
         {
           "source": "Isaiah 52:13",
@@ -2976,7 +2977,8 @@
           "type": "allusion",
           "confidence": "high",
           "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
-          "note": "'God anointed him with the Holy Spirit and with power, who went about doing good' reflects 'the Spirit of the Lord GOD is upon me, because the LORD has anointed me' to bring good news and release. The Spirit-anointing summary of Jesus' ministry draws on this servant text. High coherence."
+          "note": "'God anointed him with the Holy Spirit and with power, who went about doing good' reflects 'the Spirit of the Lord GOD is upon me, because the LORD has anointed me' to bring good news and release. The Spirit-anointing summary of Jesus' ministry draws on this servant text. High coherence.",
+          "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;"
         },
         {
           "source": "Isaiah 42:1",
@@ -7498,7 +7500,8 @@
           "confidence": "low",
           "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
           "note": "The cluster 'open their eyes... receive remission of sins' faintly recalls the Servant-Anointed's mission to proclaim liberty to captives and opening of the prison — release and forgiveness as the substance of the sent one's task.",
-          "contested": true
+          "contested": true,
+          "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;"
         },
         {
           "source": "Wisdom 5:5",

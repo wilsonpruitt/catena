@@ -1,0 +1,520 @@
+[
+  {
+    "id": "21.1",
+    "ch": 21,
+    "ref": "21:1-4",
+    "echoes": [
+      {
+        "source": "1 Kings 17:8-16",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The widow of Zarephath gives Elijah her last handful of meal and oil, surrendering all she had to live on, and is then sustained. Luke's poor widow likewise gives 'all she had to live on' (bios), and Luke elsewhere pairs Zarephath's widow with the temple critique (4:25-26). The shared figure of the destitute widow whose total self-gift outweighs the abundance of others gives this real coherence, though there is no verbal quotation.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 12:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jehoiada bores a hole in a chest set beside the altar so the people cast (Greek LXX: emballein) their money into it as the temple treasury. Luke uses the same image of people 'casting in' (ballontas/eballen) their gifts into the temple treasury (gazophylakion), the institution Second-Temple readers would recognize. Availability and the shared treasury vocabulary support a faint echo of the temple-offering institution.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 27:1-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Levitical vow-valuation code scales required offerings to a person's ability, anticipating the principle that the poor are assessed according to their means. Jesus' verdict that the widow gave 'more' precisely because she gave from poverty rather than abundance inverts and fulfills this proportional logic. The connection is thematic and contested rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 24:19-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Deuteronomy repeatedly singles out the widow alongside the orphan and sojourner as the paradigm of the vulnerable whom God watches over. The widow's appearance as the moral exemplar against the rich foregrounds this Torah category. Faint, atmospheric availability rather than a specific citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.2",
+    "ch": 21,
+    "ref": "21:5-6",
+    "echoes": [
+      {
+        "source": "Micah 3:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Micah prophesies that Zion will be plowed as a field and Jerusalem become heaps, the temple mount a wooded height, the classic oracle of the temple's destruction quoted at Jeremiah 26:18. Jesus' prediction that not one stone will be left on another draws directly on this prophetic tradition of the sanctuary leveled for the people's injustice. High coherence with Luke's broader judgment-on-Jerusalem theme.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 26:6, 18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jeremiah threatens to make the temple like Shiloh and the city a curse, citing Micah's Zion-plowed oracle in a temple sermon that nearly costs him his life. Luke frames Jesus' temple-destruction saying in the same setting (teaching in the temple, opposed by leaders), echoing the prophet who foretold the first temple's fall. Strong recurrence of the temple-doom motif.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 7:11-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's temple sermon warns that God will do to this house, called by his name, as he did to Shiloh, because the people made it a den of robbers. Luke has just narrated Jesus quoting Jer 7:11 in the temple cleansing (19:46), so the threatened destruction of the desecrated house carries forward here. Coherence and recurrence within Luke's temple sequence.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 9:7-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Lord warns Solomon that if Israel turns away he will cast off the house he has hallowed and it will become a heap of ruins, an astonishment, with passersby hissing. The admiration of the temple's beautiful stones immediately before the announcement of its fall mirrors this conditional doom on the very house just dedicated. Thematic coherence with the temple-destruction prophecies.",
+        "contested": true
+      },
+      {
+        "source": "Haggai 2:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Haggai promises the latter glory of this house, adorned with the wealth of nations, will exceed the former. The disciples' marveling at the temple's beautiful stones and votive gifts evokes that anticipated splendor, which Jesus then declares doomed. Faint ironic counterpoint rather than citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.3",
+    "ch": 21,
+    "ref": "21:7-11",
+    "echoes": [
+      {
+        "source": "Daniel 2:28-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Daniel speaks of what 'must happen' (dei genesthai) in the latter days, language Jesus reuses verbatim in 'these things must happen first.' Daniel's apocalyptic framework of divinely-decreed end-time events shapes the whole discourse's logic of necessity. Strong verbal coherence with Danielic apocalyptic.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 15:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Azariah's oracle: 'nation was crushed by nation and city by city, for God troubled them with every distress.' Jesus' 'nation will rise against nation, and kingdom against kingdom' is the closest verbal parallel in the OT, framing political chaos as divine eschatological distress. High volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 19:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah's oracle against Egypt: 'I will stir up Egyptians against Egyptians, and they will fight, everyone against his brother and against his neighbor, city against city, kingdom against kingdom.' The kingdom-against-kingdom formula and the picture of internecine collapse map directly onto Jesus' words. Strong verbal recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 13:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "In the Day-of-the-Lord oracle against Babylon, the heavens tremble and the earth is shaken out of its place in God's wrath. Jesus' great earthquakes and 'terrors and great signs from heaven' draw on this Day-of-the-Lord seismic and celestial imagery. Coherence with the prophetic eschatological catalog.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 38:19-22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "In the Gog oracle a great earthquake shakes the land, with pestilence, bloodshed, famine, and signs of God's judgment. The clustering of earthquake, plague, and famine as eschatological signs parallels Jesus' list closely. Recurrence of the standard Day-of-the-Lord disaster catalog.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 14:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jeremiah names sword, famine, and pestilence (plague) as the triad by which God consumes the people, a formula repeated dozens of times in the prophet. Jesus' famines and plagues echo this fixed prophetic triad of covenant curse. Strong recurrence across Jeremiah and Ezekiel.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 11:44",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Rumors and reports of war from east and north alarm the eschatological king and provoke great fury. Jesus' 'when you hear of wars and disturbances, don't be terrified' echoes the apocalyptic motif of unsettling war-reports that must not panic the faithful. Faint Danielic coloring.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:30-31",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Joel promises wonders in heaven and on earth as portents of the Day of the Lord. Jesus' 'great signs from heaven' belongs to this Joel tradition of celestial portents, developed more fully later in the discourse. Coherence with Joel's sign vocabulary.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "21.4",
+    "ch": 21,
+    "ref": "21:12-19",
+    "echoes": [
+      {
+        "source": "Jeremiah 1:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God assures the prophet that kings and officials will fight against him but 'shall not prevail against you, for I am with you to deliver you.' Jesus' promise that adversaries 'will not be able to withstand or to contradict' the wisdom he gives mirrors this prophetic commissioning against hostile authorities. High coherence with the persecuted-prophet pattern.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God tells Moses, 'I will be with your mouth and teach you what you shall speak.' Jesus' 'I will give you a mouth and wisdom' directly evokes this divine endowment of speech to a reluctant spokesman before a hostile king. Strong verbal and situational coherence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:15-16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Lord promises to be with the mouth of both Moses and Aaron and to teach them what to do, the divine-rhetoric motif extended. The doubling of mouth-and-teaching reinforces the Exodus background of God supplying words to those summoned before rulers. Recurrence strengthens the Mosaic echo.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 6:13-16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Daniel is brought before the king and delivered up on account of his fidelity, a model of the faithful Jew arraigned before pagan authority who is nonetheless preserved. Jesus' 'bringing you before kings and governors for my name's sake' as occasion for testimony evokes the Danielic court-confessor tradition. Coherence with Daniel's witness motif.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:25",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The little horn wears out the saints of the Most High, who are given into his hand for a time. Jesus' forecast of persecution, betrayal, and death of his followers fits the Danielic pattern of the saints handed over before final vindication. Recurrence within the apocalyptic source of the discourse.",
+        "contested": false
+      },
+      {
+        "source": "Micah 7:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Micah laments that son dishonors father, daughter rises against mother, and a man's enemies are those of his own household. Jesus' 'you will be handed over even by parents, brothers, relatives, and friends' draws on this prophetic image of eschatological family betrayal. Strong coherence and recurrence in Synoptic tradition.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 14:45",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The people swear that not one hair of Jonathan's head shall fall to the ground, for he has worked with God this day, sparing his life. Jesus' 'not a hair of your head will perish' is a near-verbatim proverbial assurance of divine preservation. High volume on the distinctive idiom.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 14:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The wise woman of Tekoa secures David's oath that 'not one hair of your son shall fall to the ground,' the same idiom of total protection. The recurrence of the hair-of-the-head formula across Samuel reinforces its proverbial status behind Jesus' saying. Coherence with the OT preservation idiom.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 1:52",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Solomon declares that if Adonijah proves worthy, 'not one of his hairs shall fall to the earth.' A third occurrence of the hair-preservation formula, confirming it as a fixed Hebrew idiom Jesus deploys. Faint but corroborating recurrence.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:12-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel is told, 'blessed is he who waits' and to stand in his lot at the end of days, framing endurance as the path to eschatological reward. Jesus' 'by your endurance you will win your lives' resonates with this Danielic call to persevere to the resurrection-end. Thematic coherence with apocalyptic endurance.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.5",
+    "ch": 21,
+    "ref": "21:20-24",
+    "echoes": [
+      {
+        "source": "Daniel 9:26-27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Daniel foretells that after the anointed one is cut off, the people of a coming prince destroy the city and sanctuary, with war and decreed desolations to the end. Jesus' Jerusalem surrounded by armies whose 'desolation is at hand' draws directly on Daniel's desolation-of-the-city oracle, the discourse's structural key. High coherence with the Danielic eremosis.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 8:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Daniel asks how long the vision of the transgression that makes desolate, the sanctuary and host trampled underfoot, will last. Jesus' 'desolation' plus 'Jerusalem trampled by the Gentiles until... fulfilled' fuses this trampling-of-the-sanctuary imagery with a temporal limit. Strong conceptual overlap of trampling and desolation.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 12:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Zechariah pictures all the nations of the earth gathered against Jerusalem, the city made a burdensome stone. Jesus' image of Jerusalem encircled by Gentile armies belongs to this Zion-besieged-by-the-nations tradition. Coherence with the eschatological siege motif, though Zechariah's outcome differs.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 14:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Lord gathers all nations against Jerusalem; the city is taken, houses plundered, and half go into captivity. Jesus' falling by the sword and being led captive into all nations closely tracks Zechariah's siege-and-exile sequence. Strong recurrence of the captivity-of-Jerusalem theme.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 63:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Israel laments that adversaries have trodden down the sanctuary. Jesus' 'Jerusalem will be trampled down by the Gentiles' echoes this lament over the Gentile trampling of the holy place. Coherence with the trodden-sanctuary lament tradition.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:35",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "In the Song of Moses, 'vengeance is mine, and recompense,' the day of calamity that comes upon the faithless. Jesus' 'these are days of vengeance' invokes this Mosaic-covenant lawsuit and its appointed day of retribution. High coherence with the covenant-curse framework.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 9:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Hosea announces, 'the days of punishment (vengeance) have come, the days of recompense have come; Israel shall know it,' against a faithless people. Jesus' phrase 'days of vengeance' is the closest verbal echo, applied likewise to Israel's judgment. Strong volume on the distinctive plural idiom.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 28:49-57",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The covenant curses describe a distant nation swooping like an eagle, besieging the cities, with horrors falling especially on the nursing mother and the tender woman. Jesus' woe to pregnant and nursing women, great distress, sword, and captivity dramatizes these Deuteronomic siege-curses. High coherence and recurrence with the covenant-curse catalog.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 13:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Samaria's guilt brings the sword, infants dashed in pieces and pregnant women ripped open. Jesus' woe to the pregnant and nursing in the day of wrath echoes this prophetic horror of judgment falling on mothers and children. Coherence with the siege-atrocity motif.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 21:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jeremiah foretells Zedekiah and the people falling by the edge of the sword, with no pity, given into the hand of the enemy. Jesus' 'they will fall by the edge of the sword' reproduces the prophet's stock formula for Jerusalem's military doom. Recurrence of the sword-and-captivity language.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 7:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God scatters the disobedient among all the nations, leaving the pleasant land desolate. Jesus' being 'led captive into all the nations' with a desolate Jerusalem echoes this dispersal-and-desolation outcome. Faint coherence with the exile motif.",
+        "contested": true
+      },
+      {
+        "source": "Tobit 14:4-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Tobit foresees Jerusalem and the temple laid desolate for a time until the times are fulfilled, after which the exiles return and the house is rebuilt. Jesus' 'until the times of the Gentiles are fulfilled' shares the structure of a measured desolation with an appointed terminus. Second-Temple availability supports a faint conceptual echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 5:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "In the vineyard song the Lord breaks down the hedge so the vineyard is trampled down. The trampling-down of God's chosen plot resonates with Jerusalem 'trampled by the Gentiles' as the consequence of covenant unfaithfulness. Thematic and faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.6",
+    "ch": 21,
+    "ref": "21:25-28",
+    "echoes": [
+      {
+        "source": "Daniel 7:13-14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Daniel sees 'one like a son of man' coming with the clouds of heaven, given dominion, glory, and a kingdom. Jesus' 'they will see the Son of Man coming in a cloud with power and great glory' is the climactic appropriation of this throne-vision, the most important OT reference in the discourse. Highest volume, recurrence, and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 13:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "In the Day-of-the-Lord oracle the stars, constellations, sun, and moon withhold their light. Jesus' 'signs in the sun, moon, and stars' draws directly on this prophetic darkening of the heavenly bodies. High coherence with the standard cosmic-collapse catalog.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 34:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The host of heaven rots away, the heavens roll up like a scroll, and all their host falls. Jesus' 'powers of the heavens will be shaken' echoes this dissolution of the celestial host on the day of judgment. Strong recurrence within the Day-of-the-Lord tradition.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Joel's day of the Lord: the earth quakes, the heavens tremble, sun and moon darken, the stars withdraw their shining. Jesus' combination of cosmic signs and shaken heavenly powers maps closely onto Joel's portrait. High coherence and recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:30-31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Wonders in the heavens and on earth, the sun turned to darkness and moon to blood before the great and terrible Day. Jesus' celestial signs as harbingers of the coming day belong to this Joel sign-tradition, cited at Acts 2:19-20. Coherence reinforced by Lukan usage.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 17:12-13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah likens the raging nations to the roaring of many waters, the tumult of the seas, before God rebukes them. Jesus' 'anxiety of nations, in perplexity for the roaring of the sea and the waves' fuses the nations' distress with the sea's roar exactly as Isaiah does. Strong conceptual coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 65:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God 'stills the roaring of the seas, the roaring of their waves, and the tumult of the peoples,' linking sea-roar and nations' tumult. Jesus' pairing of the roaring sea with the perplexity of nations echoes this psalmic juxtaposition. Coherence on the distinctive sea-and-nations parallel.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 46:2-3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Though the earth gives way, the mountains fall into the sea, and its waters roar and foam, the faithful need not fear. Jesus' roaring sea and shaken heavens amid which disciples lift up their heads in confidence mirror this psalm of cosmic upheaval and trust. Coherence with the tehom-chaos imagery.",
+        "contested": true
+      },
+      {
+        "source": "Haggai 2:6, 21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God promises 'yet once more I will shake the heavens and the earth, the sea and the dry land,' and the kingdoms. Jesus' shaken 'powers of the heavens' draws on Haggai's eschatological cosmic shaking. Coherence with the shaking-of-creation motif.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 24:19-20",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "In the apocalypse of Isaiah the earth is utterly broken, staggering like a drunkard, its transgression heavy upon it. The men 'fainting for fear' before a reeling cosmos belongs to this Isaian universal-judgment scene. Coherence with the proto-apocalyptic dissolution.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 9:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Lord appears over his people, his arrow goes forth like lightning, marching in the whirlwinds. The theophanic coming with power amid cosmic disturbance faintly colors Jesus' glorious Son-of-Man advent. Faint and atmospheric.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.7",
+    "ch": 21,
+    "ref": "21:29-33",
+    "echoes": [
+      {
+        "source": "Joel 2:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joel's restoration: the fig tree and vine yield their fruit as a sign the land is renewed after the day of the Lord. Jesus' fig tree budding as a sign that the Kingdom is near may echo this prophetic use of the fig tree as harbinger. Faint thematic link to seasonal-sign imagery.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 40:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah declares, 'the grass withers, the flower fades, but the word of our God will stand forever.' Jesus' 'heaven and earth will pass away, but my words will by no means pass away' applies this contrast of transient creation and abiding divine word to his own speech. High coherence on the enduring-word theme.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah: 'the heavens will vanish like smoke, the earth will wear out like a garment... but my salvation will be forever.' The passing of heaven and earth set against an everlasting divine word/salvation is exactly Jesus' antithesis. Strong recurrence within Isaiah of the perishing-cosmos vs. abiding-word motif.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 102:25-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The heavens and earth perish and wear out like a garment, but God remains the same and his years have no end. Jesus' 'heaven and earth will pass away' draws on this psalmic contrast between the perishable creation and the unchanging God/word. Coherence with the creation-perishes tradition.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 34:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The heavens roll up like a scroll and the host falls like a leaf from the fig tree (LXX). The fig-tree image and the passing heavens cluster in Isaiah's judgment, faintly underlying Jesus' fig-tree parable juxtaposed with heaven and earth passing. Faint compositional echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.8",
+    "ch": 21,
+    "ref": "21:34-36",
+    "echoes": [
+      {
+        "source": "Isaiah 24:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah's apocalypse: 'terror and the pit and the snare are upon you, O inhabitant of the earth.' Jesus' warning that the day will come 'like a snare on all those who dwell on the surface of all the earth' reproduces both the snare and the inhabitants-of-the-earth phrasing. High volume on the distinctive double image.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 8:14-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Lord becomes a snare and a trap to the inhabitants of Jerusalem, and many stumble and are taken. The snare that suddenly catches the unprepared resonates with Jesus' sudden snare on the earth-dwellers. Faint recurrence of the snare-of-judgment image.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:1-2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Lord will suddenly come to his temple, and who can stand (endure) the day of his coming? Jesus' call to be watchful so as to be able to 'stand before the Son of Man' on the suddenly-arriving day echoes Malachi's question of who can stand at the Lord's advent. Coherence with the standing-at-judgment motif.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The day comes burning like an oven against the arrogant and evildoers. The sudden, inescapable arrival of 'that day' against the unwary colors Jesus' warning, though the imagery differs. Faint thematic link to the Day-of-the-Lord suddenness.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 24:3-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalm asks who may stand in God's holy place, answering with the clean of hands and pure of heart. Jesus' exhortation to watchful, sober readiness so as to stand before the Son of Man evokes the worthiness-to-stand theme. Faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 23:20-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom warns against being among drunkards and gluttons, for drunkenness and carousing bring poverty and ruin. Jesus' caution that hearts not be weighed down by carousing and drunkenness draws on this sapiential warning against dissipation. Faint wisdom-tradition coloring.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Standing 'before the Son of Man' recalls the Danielic court scene where the saints are vindicated before the one like a son of man given dominion. The closing exhortation ties the paraenesis back to Daniel 7, the discourse's controlling vision. Coherence by inclusio with 21:27.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "21.9",
+    "ch": 21,
+    "ref": "21:37-38",
+    "echoes": [
+      {
+        "source": "Zechariah 14:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "On the Day of the Lord his feet stand on the Mount of Olives, the eschatological theater of judgment and kingship east of Jerusalem. Luke's note that Jesus lodged each night on the Mount of Olives, having just delivered the end-time discourse, faintly invokes this prophetic Olivet locale. Faint geographical-typological echo.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 11:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The glory of the Lord departs the city and rests on the mountain east of Jerusalem (the Mount of Olives). Jesus teaching by day in the temple but withdrawing each night to Olivet, after pronouncing the temple's doom, faintly mirrors the glory's removal to the eastern mount. Very faint and contested.",
+        "contested": true
+      }
+    ]
+  }
+]

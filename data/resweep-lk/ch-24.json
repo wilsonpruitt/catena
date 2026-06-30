@@ -1,0 +1,394 @@
+[
+  {
+    "id": "24.1",
+    "ch": 24,
+    "ref": "24:1-12",
+    "echoes": [
+      {
+        "source": "Daniel 10:5-6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'two men in dazzling clothing' at the tomb echo Daniel's angelic figure clothed in linen with a face/body 'like lightning' and 'like the gleam of beryl.' Luke's verb 'astraptousē' (flashing/dazzling) matches the Danielic theophanic vocabulary for angelic interpreters who appear at moments of eschatological revelation. Volume and coherence are strong; Daniel is Luke's apocalyptic template.",
+        "contested": false
+      },
+      {
+        "source": "2 Maccabees 3:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The two young men of 'splendid' appearance who appear in the Jerusalem temple to Heliodorus furnish a close Second-Temple parallel to Luke's two men in dazzling clothing. The doubling of radiant angelic figures (cf. also 2 Macc 3:33-34) was a recognizable Hellenistic-Jewish topos for divine vindication and intervention. Availability and coherence support it.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The third day rise again' draws on Hosea's 'after two days he will revive us; on the third day he will raise us up,' the most cited prophetic warrant for third-day resurrection in early Christian and rabbinic exegesis. Luke makes the 'third day' a fixed kerygmatic formula (cf. 24:7, 21, 46), and Hosea supplies the schematic Scriptural pattern. Contested as the precise source but high recurrence.",
+        "contested": true,
+        "altSource": "Jonah 1:17"
+      },
+      {
+        "source": "Jonah 1:17",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Jonah's 'three days and three nights' in the fish is invoked elsewhere in the Gospel tradition as the sign of resurrection (the 'sign of Jonah'), and stands behind the third-day pattern Luke repeats here. The link is typological rather than verbal in Luke 24, so confidence is low and the connection is contested.",
+        "contested": true,
+        "altSource": "Hosea 6:2"
+      },
+      {
+        "source": "Genesis 22:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'On the third day Abraham lifted up his eyes' (the Aqedah) was read in early Jewish and Christian tradition as a deliverance-on-the-third-day pattern, the deliverance of the bound son. As a faint contributor to the rabbinic/Christian web of 'third day' rescue texts it may color Luke's formula, though there is no verbal contact. Contested and low volume.",
+        "contested": true,
+        "altSource": "Hosea 6:2"
+      },
+      {
+        "source": "Exodus 19:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Be ready for the third day, for on the third day the LORD will come down' supplies another 'third day' theophany-and-covenant text feeding the Jewish pattern of decisive divine action on the third day. Its contribution to Luke's resurrection formula is figural and faint, lacking verbal correspondence. Marked contested.",
+        "contested": true,
+        "altSource": "Hosea 6:2"
+      },
+      {
+        "source": "Genesis 1:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Luke dates the resurrection to 'the first day of the week' (mia tōn sabbatōn), and early Christian reading saw new-creation overtones in the resurrection on the day light was first made. The echo is figural and depends on canonical placement rather than wording, so confidence is low and it is contested.",
+        "contested": true,
+        "altSource": null
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The angels recall Jesus' words that 'the Son of Man must be delivered up... and the third day rise again.' The Son of Man title and his vindication/exaltation derive from Daniel 7, where the one like a son of man is brought before the Ancient of Days and given dominion. The vindication-after-suffering motif coheres with Luke's whole chapter.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "24.2",
+    "ch": 24,
+    "ref": "24:13-27",
+    "echoes": [
+      {
+        "source": "Genesis 18:1-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The risen Jesus joins the travelers unrecognized and is pressed to stay and share a meal, recalling the LORD/angels appearing to Abraham as a wayfarer who is welcomed with hospitality and food. The pattern of unrecognized divine visitor received with hospitality is a Scriptural type Luke evokes, though there is no verbal quotation. Contested, low volume.",
+        "contested": true,
+        "altSource": "Judges 13"
+      },
+      {
+        "source": "Tobit 5:4-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The angel Raphael travels incognito with Tobias as an unrecognized companion whose true identity is disclosed only at the end (Tob 12). The Emmaus narrative's structure of a hidden divine guide on a journey parallels Tobit's traveling-angel motif, a recognizable Second-Temple type. Faint and structural rather than verbal, hence low and contested.",
+        "contested": true,
+        "altSource": "Genesis 18:1-5"
+      },
+      {
+        "source": "Isaiah 53:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' rebuke that the Christ 'had to suffer these things and enter into his glory' presupposes the Suffering Servant who is 'despised and rejected' yet afterward exalted (Isa 52:13; 53:11-12). Luke roots the necessity (dei) of messianic suffering in the Servant Songs, which he cites explicitly elsewhere (Lk 22:37). Coherence with the chapter's exegetical climax is strong.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22:1-21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The motif of the righteous one who suffers grievously and is then vindicated, which Jesus expounds 'beginning from Moses and all the prophets,' draws on the Passion psalm Luke uses in the crucifixion scene. The suffering-and-glory pattern of Psalm 22 (lament turning to praise/vindication) is a primary text in the Scriptural 'things concerning himself.' Coherence high.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Enter into his glory' echoes the enthronement of the one like a son of man who is given glory and dominion before the Ancient of Days. Luke pairs suffering with glorification, and Daniel 7 supplies the vindicated-and-glorified figure central to his messianic reading. Recurrence across the chapter supports it.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The travelers describe Jesus as 'a prophet mighty in deed and word,' and the exposition 'beginning from Moses' invokes the prophet-like-Moses whom God would raise up and to whom Israel must listen. Luke elsewhere applies this text to Jesus (Acts 3:22; 7:37), making it a likely component of the Mosaic witness here. Coherence and recurrence support medium confidence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The report that the chief priests 'delivered him up to be condemned to death' resonates with the Servant who was 'led like a lamb to the slaughter' and handed over. As part of the Servant subtext Jesus is about to expound, it colors the travelers' summary, though without quotation. Low and somewhat contested.",
+        "contested": true,
+        "altSource": "Psalm 22:1-21"
+      },
+      {
+        "source": "Isaiah 49:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The hope that Jesus 'would redeem Israel' sits within the Servant's mission to restore and redeem Israel before he is given as a light to the nations. Luke's redemption-of-Israel language (cf. Lk 1:68; 2:38) draws on Deutero-Isaiah's restoration vocabulary. Faint here, hence low.",
+        "contested": true,
+        "altSource": null
+      }
+    ]
+  },
+  {
+    "id": "24.3",
+    "ch": 24,
+    "ref": "24:28-35",
+    "echoes": [
+      {
+        "source": "Genesis 3:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Their eyes were opened, and they recognized him' deliberately inverts 'the eyes of both were opened' in Eden, where opened eyes brought shame and exile; here opened eyes at the breaking of bread bring recognition of the risen Lord. The verbal correspondence (eyes opened) plus reversal is a coherent Lukan new-creation motif. Volume is moderate; the allusion is widely recognized.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The shared meal at which the divine guest is recognized recalls the LORD/angels eating with Abraham at Mamre, where hospitality discloses the visitor's identity. The Emmaus meal as the locus of revelation parallels the Mamre table-fellowship type. Structural and faint, so low and contested.",
+        "contested": true,
+        "altSource": "Tobit 12:19"
+      },
+      {
+        "source": "Exodus 12:8",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The breaking of bread that opens their eyes carries Passover/Eucharistic overtones, the meal at which deliverance is remembered and made present. Given Luke's Passover framing of the Last Supper, the Emmaus bread figurally recalls the Passover bread of redemption. Typological rather than verbal, hence low and contested.",
+        "contested": true,
+        "altSource": null
+      },
+      {
+        "source": "2 Kings 6:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elisha's prayer that the servant's eyes be opened to see the unseen heavenly reality offers a parallel for the divinely granted opening of eyes to perceive the risen Christ. The motif of God opening human eyes to spiritual sight is a recurring OT pattern Luke taps. Faint and contested.",
+        "contested": true,
+        "altSource": "Genesis 3:7"
+      },
+      {
+        "source": "Genesis 5:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus 'vanished out of their sight' faintly echoes the sudden removal of righteous figures who are 'taken' by God (Enoch 'was not, for God took him'). As a marker of a translated/heavenly figure no longer subject to ordinary presence, it anticipates the ascension. Very faint, contested.",
+        "contested": true,
+        "altSource": "2 Kings 2:11"
+      }
+    ]
+  },
+  {
+    "id": "24.4",
+    "ch": 24,
+    "ref": "24:36-43",
+    "echoes": [
+      {
+        "source": "Tobit 12:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Raphael's disclosure, 'I appeared to you, but I did not eat or drink; it was a vision that you saw,' frames the Second-Temple assumption that angelic/spirit visitants only seem to eat. Luke counters precisely this by having the risen Jesus eat real food to prove he is 'not a spirit' but has flesh and bones, engaging Tobit's category. Coherence and availability are strong.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus eating broiled fish before them to prove corporeal reality parallels the angels who 'ate' before Abraham at Mamre, the locus classicus for heavenly visitors sharing human food. Luke uses the eating motif as physical proof against the disciples' supposition of a spirit. Recurrence of the 'divine visitor eats' type supports it.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 3:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The disciples suppose they see a disembodied 'spirit' (pneuma), reflecting a current view that the righteous dead exist as souls 'in the hand of God.' Luke's insistence on flesh and bones engages and corrects such a discarnate-soul expectation. Conceptual and faint, so low and contested.",
+        "contested": true,
+        "altSource": null
+      },
+      {
+        "source": "Job 19:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In my flesh I shall see God' anticipates an embodied vindication beyond death that resonates with Luke's emphasis on the risen Jesus' flesh and bones. As a faint OT witness to bodily hope it may color the scene, but there is no verbal contact. Contested, low.",
+        "contested": true,
+        "altSource": null
+      }
+    ]
+  },
+  {
+    "id": "24.5",
+    "ch": 24,
+    "ref": "24:44-49",
+    "echoes": [
+      {
+        "source": "Psalm 22:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "That repentance and forgiveness be proclaimed 'to all the nations' fulfills the Psalter's vision that 'all the ends of the earth shall remember and turn to the LORD,' part of the Writings (psalmoi) Jesus names as bearing witness to him. Luke roots the universal mission in the Psalms he has just cited. Coherence with the tripartite-canon statement supports it.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Servant given 'as a light to the nations, that my salvation may reach to the end of the earth' is the programmatic text behind 'repentance and remission of sins... to all the nations.' Luke quotes Isa 49:6 explicitly at Acts 13:47 and alludes to it at Acts 1:8, making it the key prophetic warrant for the worldwide mission launched here. Volume and recurrence are high.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 2:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Beginning at Jerusalem' enacts the eschatological pattern whereby 'out of Zion shall go forth the law, and the word of the LORD from Jerusalem,' the nations streaming to and the word streaming from Zion. Luke reverses the centripetal pilgrimage into a centrifugal mission from Jerusalem. Coherence is strong.",
+        "contested": false
+      },
+      {
+        "source": "Micah 4:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Micah's parallel oracle that 'the word of the LORD' goes forth 'from Jerusalem' to instruct the nations reinforces the Jerusalem-origin of the universal proclamation. The doubled prophetic witness (with Isa 2:3) strengthens the case that Luke draws on the Zion-mission tradition. Recurrence supports medium.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The herald who proclaims good news of salvation from Zion underlies Luke's commissioning of witnesses to preach forgiveness beginning at Jerusalem. Luke's vocabulary of proclaiming (kēryssō) good news echoes the Isaianic herald, a text central to his mission theology. Coherence good.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:32",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Everyone who calls on the name of the LORD shall be saved... in Jerusalem there shall be those who escape' underwrites repentance/forgiveness proclaimed 'in his name' beginning from Jerusalem. Luke cites Joel 2 at Pentecost (Acts 2:21), making it a strong intertext for the commission. Recurrence in Luke-Acts supports it.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:28",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I send out the promise of my Father on you... until you are clothed with power from on high' anticipates Joel's outpouring of the Spirit on all flesh, which Luke fulfills explicitly at Pentecost (Acts 2:17, quoting Joel). The Spirit as the Father's promise is the bridge from Luke 24 to Acts. Volume and recurrence are high.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 32:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Until the Spirit is poured upon us from on high' supplies the very phrase 'power from on high' (ex hypsous) for the promised Spirit-endowment. Luke's 'clothed with power from on high' draws on this Isaianic image of the Spirit poured out to renew. Verbal contact ('from on high') gives medium-strong confidence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will pour my Spirit upon your descendants' reinforces the promised-Spirit theme of being clothed with power, an OT pattern of the Spirit poured out as gift and blessing. Together with Joel and Isa 32 it forms the cluster behind the Father's promise. Recurrence within the cluster supports it.",
+        "contested": false
+      },
+      {
+        "source": "Judges 6:34",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Clothed with power' (enedysasthe) recalls the idiom that the Spirit of the LORD 'clothed itself with' Gideon, the standard OT metaphor for divine empowerment of a chosen agent. Luke's clothing-with-power language may draw on this Spirit-clothing idiom. Faint verbal idiom, hence low and contested.",
+        "contested": true,
+        "altSource": "Isaiah 32:15"
+      },
+      {
+        "source": "Deuteronomy 31:24-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'All things written in the law of Moses, the prophets, and the psalms... must be fulfilled' names the threefold Hebrew canon (Torah, Prophets, Writings), and the Law of Moses as a written witness placed beside the ark to testify is the Torah pole of that witness. Luke frames the whole of Scripture, beginning with Moses' written law, as testifying to Christ. Coherence with the canon formula supports it.",
+        "contested": true,
+        "altSource": null
+      },
+      {
+        "source": "Sirach Prologue",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The prologue to Sirach repeatedly names 'the Law and the Prophets and the others/the rest of the books,' the earliest explicit witness to the tripartite division of Hebrew Scripture that Luke 24:44 presupposes ('law of Moses, the prophets, and the psalms'). It supplies the Second-Temple canonical framework, not a content-quotation. Availability and coherence support medium.",
+        "contested": true,
+        "altSource": null
+      }
+    ]
+  },
+  {
+    "id": "24.6",
+    "ch": 24,
+    "ref": "24:50-53",
+    "echoes": [
+      {
+        "source": "Sirach 50:20-22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus 'lifted up his hands and blessed them' as he departs reproduces the climactic scene of Simon the high priest who 'lifted up his hands over the whole congregation... to pronounce the blessing of the LORD,' after which the people worship. Luke casts the ascending Jesus as the great high priest performing the Aaronic benediction. Volume, coherence, and the worship response all align strongly.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 9:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Aaron lifted up his hands toward the people and blessed them, and came down' is the priestly prototype for Jesus' parting gesture of lifted hands and blessing. The lifting-hands-to-bless is the defining act of the Aaronic priesthood, which Luke transfers to the ascending Christ. Verbal and gestural correspondence is high.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 6:23-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Aaronic blessing ('The LORD bless you and keep you...') is the content of the priestly benediction Jesus enacts with lifted hands. Luke evokes the priest putting the divine name on the people as the risen Christ blesses them at his departure. Coherence with the Lev/Sirach cluster supports it.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 2:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus 'was carried up into heaven' while his disciples watch, closely paralleling Elijah taken up into heaven before Elisha, whose witnessing disciple then receives a double portion of his spirit. Luke's ascension-then-Spirit sequence is modeled on the Elijah-Elisha succession, and Luke uses Elijah typology throughout. Volume and coherence are high.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 2:9-10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Elisha's request to inherit Elijah's spirit, granted 'if you see me taken,' parallels the disciples who witness Jesus' ascent and then await the promised Spirit. Luke ties the seeing of the departure to the bestowal of the Spirit, mirroring the Elijah-Elisha transfer. Recurrence with the prior verse supports medium.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 47:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'God has gone up with a shout' supplies the enthronement-ascent motif of God ascending to his throne amid praise, fitting the disciples who 'worshiped him and returned... with great joy, praising God.' Luke's ascension-to-worship sequence draws on the Zion enthronement psalms. Coherence with the joyful praise response supports it.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 24:7-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'gates lift up your heads' entry of the King of glory was read in early tradition as the ascent of the exalted Lord into the heavenly sanctuary, paralleling Jesus carried up into heaven. Faint and traditional rather than verbal in Luke, so low and contested.",
+        "contested": true,
+        "altSource": "Psalm 47:5"
+      },
+      {
+        "source": "Genesis 5:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Enoch who 'walked with God, and was not, for God took him' is an OT type of the righteous one assumed into heaven, contributing to the assumption pattern Luke narrates. As one of the canonical assumption figures (with Elijah) it faintly informs the ascension. Low, contested.",
+        "contested": true,
+        "altSource": "2 Kings 2:11"
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The ascent into heaven and the disciples' worship enact the giving of dominion and the service/worship of all peoples to the one like a son of man who comes with the clouds before the Ancient of Days. Luke's exalted Christ receiving worship realizes the Danielic enthronement. Coherence with the Son of Man framing of the chapter supports it.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 9:23-24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "After Aaron's blessing the glory of the LORD appears and the people fall down/worship; Luke's sequence of priestly blessing followed by worship in the temple mirrors this Levitical pattern of blessing-then-glory-then-worship. Structural echo reinforcing the priestly reading, so low and supportive.",
+        "contested": true,
+        "altSource": "Sirach 50:20-22"
+      }
+    ]
+  }
+]

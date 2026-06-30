@@ -1,0 +1,478 @@
+[
+  {
+    "id": "6.1",
+    "ch": 6,
+    "ref": "6:1-5",
+    "echoes": [
+      {
+        "source": "1 Samuel 21:1-6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus explicitly cites David eating the consecrated bread of the Presence when hungry, with his companions. The verbal and narrative dependence is direct (named figure, the showbread, eating what is 'not lawful except for the priests'), satisfying Volume and Availability decisively.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 24:5-9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "This is the legal basis for Jesus' phrase 'which is not lawful to eat except for the priests alone' — Leviticus prescribes the showbread and reserves it for Aaron and his sons. Luke's halakhic argument presupposes this statute, giving high Coherence with the David citation.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:8-11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The whole controversy is over what is 'lawful to do on the Sabbath day,' which presupposes the Decalogue Sabbath command. Jesus' claim that the Son of Man is lord of the Sabbath answers directly to this prohibition of work, a strong thematic echo.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:12-15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Deuteronomic restatement of the Sabbath command frames it humanely (rest, mercy, deliverance), coherent with Jesus' merciful reading of Sabbath law over the plucking of grain. Lower volume than Exodus 20 since Luke does not quote, but the humanitarian rationale is apt.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 23:25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Torah explicitly permits plucking heads of grain by hand from a neighbor's standing crop; the disciples' act is lawful in itself, so the dispute is purely about the Sabbath. This statute is the unspoken Availability that makes the Pharisees' objection narrowly Sabbatarian.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's own Sabbath rest at creation is the root of Sabbath theology behind the pericope and the 'lord of the Sabbath' claim. The connection is theological rather than verbal, so confidence is low and the link is figural-conceptual.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.2",
+    "ch": 6,
+    "ref": "6:6-11",
+    "echoes": [
+      {
+        "source": "Exodus 20:8-11",
+        "type": "echo",
+        "confidence": "high",
+        "note": "A second Sabbath controversy (healing the withered hand) again presupposes the Sabbath commandment; Jesus' question 'is it lawful on the Sabbath to do good?' directly engages the Decalogue prohibition of work. High Coherence with 6:1-5 and Recurrence within the chapter.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 13:4-6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jeroboam's hand withers and is then restored at the prophet's word — the closest OT parallel to a withered (LXX exēranthē) hand being healed. The shared rare motif of a withered-then-restored hand gives moderate Volume despite no quotation.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 30:15-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' antithesis 'to do good or to do harm, to save a life or to kill' echoes the Deuteronomic 'life and good, death and evil' set before Israel. Faint and conceptual, marked low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.3",
+    "ch": 6,
+    "ref": "6:12-16",
+    "echoes": [
+      {
+        "source": "Exodus 24:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses builds an altar with twelve pillars 'according to the twelve tribes of Israel.' Jesus' deliberate choice of twelve from his disciples evokes the constitution of Israel's twelve tribes, an act of eschatological restoration. Moderate Volume; the number twelve is the load-bearing link.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 49:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'twelve tribes of Israel' as the patriarchal sons stand behind the symbolism of the Twelve apostles as a renewed Israel. The connection is typological rather than verbal, so confidence is medium.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 24:12-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus goes up the mountain and spends the night in prayer before constituting the Twelve, recalling Moses ascending the mountain to commune with God before the covenant. The mountain-prayer setting gives a faint figural echo.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 27:16-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Moses asks God to appoint a leader 'over the congregation' so Israel is not 'as sheep without a shepherd'; Jesus' night of prayer before appointing leaders echoes that pattern of God-directed appointment. Low Volume, conceptual only.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.4",
+    "ch": 6,
+    "ref": "6:17-19",
+    "echoes": [
+      {
+        "source": "Isaiah 14:29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Crowds from Tyre and Sidon (Phoenicia) coming to be healed faintly recalls prophetic oracles concerning the nations' turning to Israel's God. The geographic detail evokes the inclusion of Gentile coastlands; low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 11:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Power came out of him and healed them all' loosely recalls the divine spirit/power resting on and going out from a mediator. Faint thematic echo of the OT idea of healing power proceeding from God's anointed.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.5",
+    "ch": 6,
+    "ref": "6:20-23",
+    "echoes": [
+      {
+        "source": "Isaiah 61:1-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The beatitudes for the poor, the mourning (who will laugh/rejoice), and the comforted directly draw on Isaiah's good-news-to-the-poor and comfort-for-mourners, which Luke programmatically makes Jesus' manifesto (cf. Luke 4:18). High Volume, Recurrence in Luke, and strong Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 65:13-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's eschatological reversal — God's servants will eat, rejoice and sing while the wicked hunger, are ashamed and wail — supplies the exact hunger/fullness and weeping/laughing antitheses structuring Luke's blessings and woes. Strong Coherence with the following woes section.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 126:5-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Those who sow in tears shall reap with joyful shouting' is the Psalter's paradigm of weeping turned to joy, matching 'blessed are you who weep now, for you will laugh.' Moderate Volume via shared reversal motif.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 107:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He satisfies the hungry soul with good things' undergirds 'blessed are you who hunger now, for you will be filled.' Coherent with Luke's broader hunger-satisfaction theme (Magnificat, 1:53).",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 36:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Their fathers did the same thing to the prophets' invokes the deuteronomistic tradition of Israel persecuting and killing the prophets, classically summarized in 2 Chronicles 36:16. High Coherence; Luke makes the persecuted-prophet typology explicit.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah's macarism 'blessed is the man who trusts in the LORD' (tree planted by water) stands behind the OT beatitude form Luke adopts. The form-critical background gives a faint but real echo.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 1:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Psalter's opening 'Blessed is the man...' is the fountainhead of the beatitude genre Jesus employs, contrasting two ways with reward/judgment. Genre-level Availability, hence low confidence and figural.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Persecution endured 'for the Son of Man's sake,' with reward in heaven, draws the title and the vindication-of-the-righteous frame from Daniel's heavenly Son of Man. Coherent with Luke's pervasive Son of Man usage.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.6",
+    "ch": 6,
+    "ref": "6:24-26",
+    "echoes": [
+      {
+        "source": "Amos 6:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Woe to those who are at ease... the notable men' — Amos' woe against the complacent rich is the prophetic prototype of Jesus' 'woe to you who are rich.' Shared genre (prophetic woe-oracle) and target (the comfortable wealthy) give moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 65:13-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The full/hungry and laughing/mourning reversals in the woes mirror Isaiah's oracle that the wicked who feast will hunger and those who rejoice will be put to shame and wail. Strong structural Coherence with the beatitudes that precede.",
+        "contested": false
+      },
+      {
+        "source": "Amos 8:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Amos turns feasting and songs into mourning and lamentation, paralleling 'you will mourn and weep' for those who now laugh. Faint thematic echo of prophetic reversal of revelry into grief.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 5:31",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The prophets prophesy falsely... and my people love it so' grounds 'their fathers did the same thing to the false prophets' — popular acclaim is the mark of the false prophet. Coherent with the deuteronomistic false-prophet tradition (cf. Micaiah, 1 Kings 22).",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "6.7",
+    "ch": 6,
+    "ref": "6:27-31",
+    "echoes": [
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Love your enemies' radicalizes and inverts the Holiness Code's 'love your neighbor as yourself,' which forbids vengeance and grudge-bearing. The love-command and its anti-retaliation logic are directly in view; high Coherence with vv.32-36.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 23:4-5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Torah already commands aiding an enemy's straying ox or fallen donkey — concrete enemy-love. This statute is the OT seedbed of 'do good to those who hate you,' giving strong Availability and Volume for the command.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 25:21-22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'If your enemy is hungry, give him bread... ' is the wisdom tradition's enacted enemy-love, closely matching 'do good to those who hate you' and 'give to everyone who asks.' High Coherence with Leviticus 19 and Exodus 23.",
+        "contested": false
+      },
+      {
+        "source": "Tobit 4:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'What you hate, do to no one' is the deuterocanonical negative Golden Rule, the nearest Second-Temple antecedent to 'as you would like people to do to you, do so to them.' Direct conceptual dependence; Availability within the OT/deuterocanon is secure.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 24:29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Do not say, I will do to him as he has done to me' is the proverbial renunciation of retaliation behind 'offer also the other cheek' and not demanding goods back. Moderate Volume; reinforces the anti-lex-talionis thrust.",
+        "contested": false
+      },
+      {
+        "source": "Lamentations 3:30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Let him give his cheek to the one who strikes him; let him be filled with reproach' is a striking verbal parallel to 'to him who strikes you on the cheek, offer also the other.' Notable Volume despite being a lament rather than a command.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 50:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Servant 'gave my back to those who strike, and my cheeks to those who pluck the beard' models nonretaliatory submission to assault, coherent with the cheek-turning saying. Figural link to the Suffering Servant pattern.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 29:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's teaching on lending to a neighbor and showing mercy stands behind 'lend, expecting nothing back.' Faint wisdom-tradition echo of generous lending without calculation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.8",
+    "ch": 6,
+    "ref": "6:32-36",
+    "echoes": [
+      {
+        "source": "Leviticus 19:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Be merciful, even as your Father is merciful' is a deliberate reworking of the Holiness Code's imitatio Dei formula 'be holy, for I the LORD your God am holy.' The imitation-of-God structure is unmistakable; Luke substitutes mercy for holiness. High Volume.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The defining self-revelation 'the LORD, a God merciful and gracious' supplies the content of the Father's mercy that disciples are to imitate, and 'kind toward the unthankful and evil' echoes God's compassion on the undeserving. Strong Coherence with the imitatio Dei.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 103:8-13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The LORD is merciful and gracious... as a father has compassion on his children' joins divine mercy with fatherhood exactly as Luke does ('your Father is merciful'). Moderate Volume reinforcing Exodus 34.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 37:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'All day long he deals graciously and lends' commends the righteous lender who gives freely, undergirding 'lend, expecting nothing back.' Faint wisdom-Psalter echo, low confidence.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 15:7-11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The command to lend generously to the poor 'and your heart shall not be grieved' grounds open-handed lending without expectation of return. Coherent with Luke's generosity ethic; moderate Availability.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "6.9",
+    "ch": 6,
+    "ref": "6:37-38",
+    "echoes": [
+      {
+        "source": "Isaiah 65:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will measure their former work into their bosom' supplies the measure-into-the-lap imagery behind 'good measure... running over, will be given into your bosom.' Faint but specific verbal contact with the lap/bosom measuring motif.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 19:35-36",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Torah's demand for honest measures ('a just ephah') stands behind the just-recompense logic of 'with the measure you measure it will be measured back.' Conceptual echo of measure-for-measure justice.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 19:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Whoever is kind to the poor lends to the LORD, and he will repay' captures the give-and-it-will-be-given reciprocity of v.38. Coherent with the surrounding generosity teaching; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 22:26-27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'With the merciful you show yourself merciful... with the pure you show yourself pure' is the OT measure-for-measure principle of divine requital matching human conduct, behind 'with the measure you measure.' Low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.10",
+    "ch": 6,
+    "ref": "6:39-42",
+    "echoes": [
+      {
+        "source": "Isaiah 56:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Israel's leaders are 'blind watchmen' who cannot see — the prophetic image of blind guides directly informs 'can the blind guide the blind?' Strong Coherence between Jesus' polemic against the Pharisees and Isaiah's blind shepherds.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 9:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Those who guide this people lead them astray, and those who are guided by them are swallowed up' is a close conceptual match to blind guides and their followers both falling into a pit. Moderate Volume on the leaders-lead-astray motif.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 26:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever digs a pit will fall into it' supplies the pit-falling imagery of v.39. Faint proverbial echo, low confidence given how common the motif is.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.11",
+    "ch": 6,
+    "ref": "6:43-45",
+    "echoes": [
+      {
+        "source": "Sirach 27:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The fruit discloses the cultivation of a tree; so the expression of a thought discloses the cultivation of a person's mind' is an almost exact deuterocanonical parallel to 'each tree is known by its own fruit' joined to speech from the heart's abundance. High Volume; nearest Second-Temple antecedent.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I the LORD search the heart... to give every man according to his fruit' fuses heart and fruit imagery exactly as Luke links the good treasure of the heart to good fruit. Coherent with the heart-fruit correspondence.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 27:4-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The wider Sirach passage on sieving (chaff/refuse remaining) and a person revealed by speech, including 'do not praise anyone before he speaks,' undergirds 'out of the abundance of the heart his mouth speaks.' Reinforces the high-confidence v.6 link.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 12:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'From the fruit of his mouth a man is satisfied with good' connects mouth, fruit, and the good a person produces, a faint wisdom echo behind vv.44-45. Low confidence given the commonplace nature of fruit imagery.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.12",
+    "ch": 6,
+    "ref": "6:46-49",
+    "echoes": [
+      {
+        "source": "Ezekiel 13:10-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Ezekiel's wall, daubed without proper foundation, that the LORD breaks down with a flooding rain and storm until it falls, is the closest OT antecedent to the house without foundation swept away by the flood. High Volume and Coherence with the build/collapse imagery.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 10:25",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'When the whirlwind passes, the wicked is no more, but the righteous is established forever' is the proverbial two-outcomes saying behind the wise/foolish builders surviving or collapsing in the storm. Strong wisdom-tradition Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 28:16-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The tested foundation stone in Zion, with judgment as a flooding waters that sweeps away the refuge of lies, supplies the rock-foundation-versus-flood contrast. Moderate Volume; the foundation/flood pairing is apt.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 1:3-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The two-ways conclusion — the righteous established versus the wicked driven away like chaff — frames the wise/foolish builders as the chapter's closing two-ways. Genre-level echo, low confidence.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 7:17-23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The cataclysmic flood that sweeps away all not preserved supplies the eschatological-judgment overtone of the rising stream destroying the foundationless house. Faint figural echo of flood-as-judgment.",
+        "contested": true
+      }
+    ]
+  }
+]

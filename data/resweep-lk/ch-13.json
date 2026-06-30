@@ -1,0 +1,435 @@
+[
+  {
+    "id": "13.1",
+    "ch": 13,
+    "ref": "13:1-5",
+    "echoes": [
+      {
+        "source": "Ezekiel 18:30-32",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' refrain 'unless you repent, you will all perish' restates Ezekiel's prophetic logic that each person bears responsibility and must 'turn and live' lest he die. High Volume in the shared death/repentance vocabulary; strong Coherence with Luke's repentance theme; the prophet is widely available.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 33:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I have no pleasure in the death of the wicked, but that he turn from his way and live' supplies the same individualized call to repentance against assumed corporate judgment. Recurrence of Ezekiel's repent-or-perish motif strengthens the echo alongside 18:30-32.",
+        "contested": false
+      },
+      {
+        "source": "Job 4:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Eliphaz's 'who ever perished, being innocent?' frames the retributive assumption ('worse sinners... because they suffered') that Jesus overturns. Faint and contested, but coherent with the OT debate over suffering as proof of guilt.",
+        "contested": true,
+        "altSource": "Job 8:20"
+      },
+      {
+        "source": "Isaiah 8:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'waters of Shiloah' (Siloam) carry, in Isaiah, judgment imagery for those who reject the gentle stream; the tower 'in Siloam' may faintly evoke the site's prophetic charge. Low Volume and contested; geography may be incidental.",
+        "contested": true,
+        "altSource": "Nehemiah 3:15"
+      }
+    ]
+  },
+  {
+    "id": "13.2",
+    "ch": 13,
+    "ref": "13:6-9",
+    "echoes": [
+      {
+        "source": "Isaiah 5:1-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The owner of a vineyard who comes seeking fruit and finds none, threatening destruction, directly mirrors Isaiah's Song of the Vineyard, the canonical type for Israel's failure to yield justice. High Volume (vineyard + seeking fruit + judgment), strong Coherence, and prime Availability as the standard prophetic indictment.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 8:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'There are no grapes on the vine, nor figs on the fig tree' is Jeremiah's judgment oracle on fruitlessness, pairing the fig tree with the vineyard exactly as Luke does. Strong Volume in the fig-tree/no-fruit collocation and high Coherence with the threat to 'cut it down.'",
+        "contested": false
+      },
+      {
+        "source": "Micah 7:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'There is no cluster to eat; my soul desires the first-ripe fig' voices the same disappointed search for fruit on the fig tree as an image of a faithless people. Medium Volume; recurrence of the fruitless-fig motif across the prophets supports the echo.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 9:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Israel was found 'like the first fruit on the fig tree,' a hope reversed in 9:16 ('they shall bear no fruit'). The fig tree as figure for Israel's fruitfulness-turned-barren coheres tightly with the parable's verdict.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 9:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Ephraim is struck down... they shall bear no fruit' supplies the barrenness-and-judgment outcome that the parable holds in suspense. Coherent with the prophetic fig-tree complex; medium Volume.",
+        "contested": false
+      },
+      {
+        "source": "Habakkuk 3:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Though the fig tree does not blossom, nor fruit be on the vines' shares the fig-and-vine pairing for a season of barrenness. Faint here because Habakkuk's tone is trust amid loss rather than indictment; offered honestly as a low-confidence resonance.",
+        "contested": true
+      },
+      {
+        "source": "Joel 1:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'It has laid waste my vine and splintered my fig tree' joins vine and fig under devastation, the same agrarian pair behind Luke's parable. Low Volume and contested, but recurrence of the vine-fig motif gives it some weight.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 80:8-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The vine brought out of Egypt, now burned and cut down for lack of protection, parallels the threatened destruction of the unfruitful planting. Contested because no fig tree appears, but the vineyard-judgment frame is coherent.",
+        "contested": true,
+        "altSource": "Isaiah 5:1-7"
+      }
+    ]
+  },
+  {
+    "id": "13.3",
+    "ch": 13,
+    "ref": "13:10-17",
+    "echoes": [
+      {
+        "source": "Exodus 20:8-11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Sabbath controversy turns on the Decalogue command to keep the Sabbath holy, which the synagogue ruler invokes ('six days... ought to work'). High Volume and unmistakable Availability; the dispute is intelligible only against this commandment.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:12-15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Deuteronomy's Sabbath form explicitly rests the ox and donkey and frames the day as liberation from bondage, the very logic Jesus deploys ('free his ox or donkey... ought not this woman... be freed'). Strong Coherence: Jesus reads the Sabbath as release, matching Deuteronomy's exodus rationale.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 146:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD raises up those who are bowed down' supplies the precise theological image of the bent woman 'made straight,' identifying Jesus' act with the LORD's characteristic work. Medium Volume; the verbal match (bowed down / raised) is striking.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 145:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD upholds all who fall, and raises up all who are bowed down' doubles the motif of God straightening the bent, reinforcing Psalm 146:8. Recurrence across the Psalter of God raising the bowed strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 17:1-7",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Calling the woman a 'daughter of Abraham' reads her into the Abrahamic covenant of blessing and offspring, asserting her full claim to Sabbath release. Figural rather than verbal, but coherent with Luke's covenant-inclusion theme.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Look to Abraham your father and to Sarah who bore you' invokes Abrahamic descent as ground of restoration, resonant with 'daughter of Abraham.' Low Volume and contested; offered as a possible source for the covenant-daughter language.",
+        "contested": true,
+        "altSource": "Genesis 17:1-7"
+      },
+      {
+        "source": "Job 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Satan afflicting a body with infirmity ('whom Satan had bound eighteen years') recalls Job, where the Adversary inflicts physical disease by divine permission. Low Volume, but the attribution of bodily affliction to Satan has its clearest OT precedent in Job.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.4",
+    "ch": 13,
+    "ref": "13:18-19",
+    "echoes": [
+      {
+        "source": "Daniel 4:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The birds of the sky lodged in its branches' closely echoes Daniel's great tree in which 'the birds of heaven dwelt,' a kingdom-as-tree image. High Volume in the nesting-birds clause and strong Coherence with the Kingdom-of-God comparison.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 4:21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Daniel's interpretation repeats the tree 'in whose branches the birds of heaven lived,' reinforcing the imperial-tree imagery now applied to God's kingdom. Recurrence within Daniel 4 itself strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 17:23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The messianic cedar planted on the mountain, under which 'birds of every sort will nest,' is the prophetic prototype of a small planting that becomes a sheltering tree for the nations. High Coherence: Luke's tiny seed-to-tree growth tracks Ezekiel's promise.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 31:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Assyria as a great cedar 'in whose boughs all the birds of the heavens made their nests' provides another canonical world-tree with nesting birds. Medium Volume; recurrence with Daniel and Ezekiel 17 makes the nesting-birds topos secure.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 104:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'By the streams the birds of the sky have their habitation; they sing among the branches' offers a creation-praise image of birds nesting in branches. Low Volume and likely incidental compared with the prophetic world-tree texts.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.5",
+    "ch": 13,
+    "ref": "13:20-21",
+    "echoes": [
+      {
+        "source": "Genesis 18:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Three measures of flour' matches the three seahs of fine meal Sarah kneads for the three visitors, an unusually specific quantity. Medium Volume; the precise figure suggests deliberate evocation of hospitality/promise to Abraham, though it may simply denote a large baking.",
+        "contested": false
+      },
+      {
+        "source": "Judges 6:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Gideon's ephah of flour for the angelic visitor is another large measure baked at a moment of divine encounter, paralleling the 'three measures.' Low Volume and contested; offered as an alternative quantity-of-flour resonance.",
+        "contested": true,
+        "altSource": "Genesis 18:6"
+      },
+      {
+        "source": "Exodus 12:15-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Leaven's pervasive, hidden spread plays against the Passover law that purges all leaven as corruption, making the Kingdom's leaven a pointed reversal of the usual negative valence. Contested and figural; the parable's positive use of leaven only registers against this background.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.6",
+    "ch": 13,
+    "ref": "13:22-30",
+    "echoes": [
+      {
+        "source": "Psalm 6:8",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Depart from me, all you workers of iniquity' reproduces the psalmist's dismissal of evildoers almost verbatim as the householder's rejection. High Volume (near-exact wording) and strong Availability make this a direct quotation, here on the lips of the eschatological judge.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 107:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The redeemed 'gathered from the lands, from the east and from the west, from the north and from the south' supplies Luke's exact four-direction ingathering ('east, west, north, and south'). High Volume in the matching compass formula and strong Coherence with eschatological gathering.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:5-6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I will bring your offspring from the east... from the west... to the north... and to the south' is the classic restoration oracle of God gathering his people from every direction. High Coherence with the kingdom-feast ingathering of outsiders.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 25:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Reclining at table 'in the Kingdom of God' with Abraham, Isaac, and Jacob evokes Isaiah's eschatological feast 'for all peoples' on the mountain. Medium Volume; the banquet image grounds the seating/dining language and the Gentile inclusion.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'These shall come from afar... from the north and from the west' adds to the prophetic ingathering-from-all-directions tradition behind Luke's east-west-north-south. Recurrence across Isaiah strengthens the directional motif.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 1:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'From the rising of the sun to its setting my name will be great among the nations' anticipates worship gathered from all peoples east to west, coherent with outsiders streaming into the kingdom. Medium Volume; reinforces the Gentile-inclusion theme.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 112:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The wicked... gnashes his teeth and melts away' supplies the OT idiom of teeth-gnashing in frustrated exclusion that Luke fuses with weeping. Medium Volume for the distinctive gnashing-of-teeth phrase applied to the excluded wicked.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 7:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The LORD shut him in' after Noah entered the ark prefigures the master who 'has shut the door,' sealing insiders from outsiders before judgment. Low Volume and contested, but the door-shut-before-judgment pattern is coherent with Luke's warning.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.7",
+    "ch": 13,
+    "ref": "13:31-33",
+    "echoes": [
+      {
+        "source": "2 Chronicles 24:20-22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A prophet cannot perish outside Jerusalem' draws on the tradition of prophets killed in the holy city, exemplified by Zechariah son of Jehoiada stoned in the temple court. Medium Volume; this murdered-prophet text undergirds the saying and the lament that follows.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 26:20-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Uriah son of Shemaiah, a prophet hunted down and killed for his message, illustrates the deadly fate of prophets in Jerusalem behind Jesus' words. Coherent with the prophet-perishing motif; recurrence with 2 Chronicles 24 secures it.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 13:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your prophets are like foxes among ruins' offers an OT precedent for 'fox' as a label of destructive cunning, here aimed at Herod. Low Volume and contested; the fox insult may be proverbial rather than a specific citation.",
+        "contested": true,
+        "altSource": "Song of Solomon 2:15"
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'On the third day he will raise us up' may stand faintly behind 'the third day I complete my mission,' tying Jesus' goal to a resurrection-shaped 'third day.' Contested and low Volume; the numerical phrasing here is more idiomatic than citational.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.8",
+    "ch": 13,
+    "ref": "13:34-35",
+    "echoes": [
+      {
+        "source": "Psalm 118:26",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Blessed is he who comes in the name of the LORD' is quoted verbatim as the cry that will precede Jerusalem's seeing Jesus again. High Volume (direct citation) and strong Availability from the Hallel make this an unambiguous quotation.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 24:21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Jerusalem... that kills the prophets and stones those sent to her' alludes to Zechariah son of Jehoiada, stoned in the temple court at the king's command, the paradigm of the city's murder of God's messengers. High Coherence; stoning-of-the-sent matches the verb precisely.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 26:20-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The killing of the prophet Uriah reinforces the indictment of Jerusalem as a city that slays those sent to it. Recurrence with 2 Chronicles 24 establishes the prophet-killing tradition behind the lament.",
+        "contested": false
+      },
+      {
+        "source": "Nehemiah 9:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'They killed your prophets who had warned them to turn back to you' summarizes the very pattern Jesus laments. Medium Volume; this confessional retrospect is a strong conceptual source for 'kills the prophets.'",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 19:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah's complaint that Israel 'has killed your prophets with the sword' voices the same charge of prophet-slaying. Low Volume relative to the Jerusalem-specific texts, but coherent with the tradition.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 91:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He will cover you with his feathers, and under his wings you will take refuge' is the closest OT image to gathering children 'under her wings,' associating Jesus' maternal longing with God's sheltering protection. High Volume in the under-the-wings refuge motif.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The eagle that 'hovers over its young, spreading out its wings' to bear them models God's parental gathering, paralleling the hen and brood. Medium Volume; the Song of Moses' wing-protection image is a likely source.",
+        "contested": false
+      },
+      {
+        "source": "Ruth 2:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Coming to take refuge 'under the wings' of the LORD supplies the same shelter-under-wings idiom for those gathered to God. Recurrence of the wings-refuge motif across the canon supports the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 17:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Hide me in the shadow of your wings' extends the wing-protection imagery in the Psalter behind the hen-and-brood figure. Low Volume on its own but part of a coherent recurring motif (Pss 36:7; 57:1; 63:7).",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 31:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Like birds hovering, so the LORD of hosts will protect Jerusalem' joins bird-protection imagery specifically to Jerusalem, the very city Jesus longs to shelter. Medium Volume; the Jerusalem-specific bird-shielding tightens the Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 22:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'This house shall become a desolation' supplies the judgment formula behind 'your house is left to you desolate,' spoken against the royal house/temple. High Coherence; the desolation-of-the-house oracle is the prophetic backdrop of the saying.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 12:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I have forsaken my house, I have abandoned my heritage' gives the divine-abandonment sense of 'your house is left to you,' God withdrawing from the temple. High Volume in the forsaken-house motif and strong Coherence with impending desolation.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 9:7-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The warning that the temple will become 'a heap of ruins' and Israel cast off if they forsake the LORD underlies the threat that the house is left desolate. Medium Volume; the conditional house-desolation oracle resonates with Luke's pronouncement.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 69:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'May their camp be a desolation; let no one dwell in their tents' offers an imprecatory desolation formula faintly behind 'left desolate.' Low Volume and contested; the connection is thematic rather than verbal.",
+        "contested": true
+      }
+    ]
+  }
+]

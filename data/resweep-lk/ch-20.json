@@ -1,0 +1,261 @@
+[
+  {
+    "id": "20.1",
+    "ch": 20,
+    "ref": "20:1-8",
+    "echoes": [
+      {
+        "source": "Exodus 2:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The challenge 'by what authority?' / 'who made you ruler?' echoes the perennial Israelite question put to a divinely commissioned but unrecognized agent (Moses rebuffed: 'Who made you a ruler and judge over us?'). Coherent with Luke's Moses-typology of Jesus but volume is faint and the wording is not distinctive.",
+        "contested": true
+      },
+      {
+        "source": "2 Chronicles 36:15-16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The crowd's conviction that 'John was a prophet' whom it would be deadly to dishonor draws on the deuteronomistic theme that God repeatedly sent prophets whom the people rejected, setting up the tenants parable that follows. Volume is moderate; recurrence is strong across the OT prophet-rejection tradition, and it coheres tightly with 20:9-16.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:15-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The framing of John's baptism as 'from heaven' and the people's reckoning of John as a true prophet trades on the Deuteronomic test of the authentic prophet sent by God. Availability and coherence are good, but the link to John specifically is inferential and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.2",
+    "ch": 20,
+    "ref": "20:9-16",
+    "echoes": [
+      {
+        "source": "Isaiah 5:1-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The parable is structurally built on the Song of the Vineyard: a man plants a vineyard, expects its fruit, is disappointed, and the owner finally acts in judgment. Volume is high (the LXX of Isaiah 5:2 supplies 'planted a vineyard' and the verb for letting/hedging), recurrence pervades the vineyard-Israel tradition, and coherence with Luke's polemic against the leaders is total.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 80:8-16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The transplanted vine that God planted and then exposes to ravagers reinforces the vineyard-as-Israel image and the motif of the owner withdrawing protection. Moderate volume; strongly coherent and recurrent with Isaiah 5, though it is the secondary vineyard text behind the parable.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I will send my beloved son' (ton huion mou ton agapeton) verbally echoes the LXX of the Aqedah, where Isaac is the 'beloved son' whom the father gives up. Volume rests on the distinctive phrase agapetos huios, shared with Luke's baptism/transfiguration; coherent with Luke's Son Christology, though some read it merely as 'only/dear son.'",
+        "contested": true
+      },
+      {
+        "source": "Genesis 37:18-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The tenants' deliberation 'Come, let us kill him' over the heir verbally mirrors the brothers' plot against Joseph ('Come now, let us kill him... and we shall see what becomes of his dreams'). The shared conspiratorial formula is suggestive but the wording is conventional and the connection is contested.",
+        "contested": true
+      },
+      {
+        "source": "2 Chronicles 24:20-22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The escalating beating and killing of successive servants (prophets) sent to the vineyard reflects the murder of Zechariah son of Jehoiada and the broader chronicle of slain prophets, the canonical endpoint of prophet-rejection in the Hebrew Bible. Coherent and recurrent with the deuteronomistic theme, supplying the parable's 'servants.'",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 7:25-26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God's persistently sending his servants the prophets 'rising up early,' only to have them met with stiff-necked refusal, underlies the parable's repeated dispatch and abuse of servants. Recurrence is high across Jeremiah's 'servants the prophets' formula; moderate volume and strong coherence.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "20.3",
+    "ch": 20,
+    "ref": "20:17-18",
+    "echoes": [
+      {
+        "source": "Psalm 118:22-23",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Explicit 'what is this that is written' citation: 'The stone which the builders rejected has become the chief cornerstone.' Verbatim LXX quotation (Ps 117:22), highest volume, and a recurrent early-Christian testimonium, perfectly coherent with the rejected-then-vindicated Son of the parable.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 8:14-15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Everyone who falls on that stone will be broken' draws on Isaiah's 'stone of stumbling and rock of offense' on which many shall fall and be broken. Volume is high (shared falling/breaking imagery), it recurs in the NT stone-catena, and it coheres with the judgment turn of v.18.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:34-35",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'It will crush whomever it falls on to dust' echoes the stone cut without hands that strikes the image and grinds it to chaff/dust, scattered like summer threshing. Distinctive crushing-to-powder imagery (Dan 2:44-45 adds the kingdom that shall never be destroyed) gives high volume and strong eschatological coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 28:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The tested cornerstone God lays in Zion belongs to the same stone-testimonia cluster and may inform 'cornerstone' here, reinforcing Psalm 118. Recurrence in the NT stone-catena is strong, but for Luke the Psalm 118 citation carries the load, so the Isaiah 28 contribution is secondary.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.4",
+    "ch": 20,
+    "ref": "20:19-26",
+    "echoes": [
+      {
+        "source": "Genesis 1:26-27",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Whose image (eikon) and inscription?' / 'give to God the things that are God's' plays on the human person as bearer of the divine image: the coin bears Caesar's image, but the human bears God's, owed wholly to God. The eikon wordplay gives moderate volume and the saying coheres with a creation-theology reading widely recognized in interpretation.",
+        "contested": true
+      },
+      {
+        "source": "1 Maccabees 2:68",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Mattathias's charge to 'pay back the Gentiles what they deserve' and the Maccabean refusal to render to pagan kings what belongs to the law of God forms a Second-Temple backdrop to the tribute question's loaded politics. Availability and coherence are plausible but verbal volume is faint and the link is contested.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 24:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Fear the LORD and the king' supplies a wisdom precedent for distinguishing yet ordering obligations to God and to civil authority, coherent with 'give to Caesar... and to God.' Volume is low and the connection is inferential, hence contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.5",
+    "ch": 20,
+    "ref": "20:27-40",
+    "echoes": [
+      {
+        "source": "Deuteronomy 25:5-6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The Sadducees cite 'Moses wrote to us' the levirate law: if a man dies childless his brother must take the wife and raise up offspring for the brother. This is a near-verbatim paraphrase of the Deuteronomic statute, high volume, and load-bearing for the whole dispute.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 38:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Judah's command to Onan to 'raise up offspring for your brother' is the narrative enactment of levirate duty and the closest verbal parallel to 'raise up children for his brother.' Moderate volume, coherent with the Deuteronomy citation as the precedent case the Sadducees invoke.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 3:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus' clinching proof: 'Moses showed at the bush, when he called the Lord the God of Abraham, the God of Isaac, and the God of Jacob.' Verbatim LXX quotation with the bush setting named, highest volume, the keystone of the resurrection argument ('not of the dead but of the living').",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Children of the resurrection... like the angels' draws on Daniel's resurrection hope, where the wise shine like the stars and the dead awake to everlasting life, a key Second-Temple text affirming bodily resurrection over against the Sadducees. Coherent and recurrent in resurrection discourse; moderate volume.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 3:15-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The patriarchal naming 'the God of Abraham, Isaac, and Jacob' as the LORD's everlasting name extends just beyond 3:6 into the surrounding self-revelation, reinforcing the living-God argument. Largely the same citation, so listed as a faint extension rather than a separate echo.",
+        "contested": true
+      },
+      {
+        "source": "1 Enoch 104:4-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The hope that the righteous will become 'companions of the host of heaven' / shine and be made like the angels parallels 'they are like the angels, children of the resurrection.' A pseudepigraphal analogue warranted by the angelomorphic-resurrection motif, but volume is faint and the dependence is contested.",
+        "contested": true
+      },
+      {
+        "source": "4 Maccabees 7:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They live to God, as Abraham, Isaac, and Jacob live' anticipates Jesus' very logic that the patriarchs are alive to God, joined to the Exodus 3:6 naming. A strikingly coherent Second-Temple parallel (also 4 Macc 16:25), though as a likely independent reading of the same text it is marked low/contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.6",
+    "ch": 20,
+    "ref": "20:41-44",
+    "echoes": [
+      {
+        "source": "Psalm 110:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Explicit citation 'David himself says in the book of Psalms, The Lord said to my Lord, Sit at my right hand until I make your enemies your footstool.' Verbatim LXX quotation (Ps 109:1), highest volume, the single most-cited royal psalm in the NT, fully coherent with the Davidic-Lord puzzle.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 7:12-14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The premise that 'the Christ is David's son' rests on the Davidic covenant promise of an everlasting offspring/son for David's throne, which Jesus' question both presupposes and transcends. Coherent and recurrent in messianic expectation; moderate volume as the unstated scriptural basis of 'David's son.'",
+        "contested": false
+      },
+      {
+        "source": "Psalm 132:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The LORD swore to David... one of your own offspring I will set on your throne' is a further scriptural warrant for the 'son of David' messianism the riddle interrogates. Low volume, secondary to 2 Samuel 7, and inferential.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.7",
+    "ch": 20,
+    "ref": "20:45-47",
+    "echoes": [
+      {
+        "source": "Exodus 22:22-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Condemnation of those who 'devour widows' houses' invokes the covenant prohibition against afflicting widows, with God's threat to answer their cry in wrath, grounding the 'greater condemnation.' Recurrence of widow-protection law is strong; moderate volume and tight coherence with Luke's concern for the vulnerable.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 10:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The prophetic woe against those who frame unjust decrees to rob the widow of her right and make the poor their prey parallels scribes who 'devour widows' houses' under a pretense of piety. Coherent with the long-robed religious oppressors here; moderate volume from the shared widow-spoliation indictment.",
+        "contested": false
+      },
+      {
+        "source": "Micah 3:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Micah's denunciation of greedy religious leaders who 'cry Peace' while devouring the people supports the picture of pretense-pious exploiters facing judgment. Low volume; one node in the broad prophetic-injustice tradition behind v.47, hence contested as a specific source.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 24:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The law forbidding the perversion of justice due the widow and the taking of her garment in pledge stands behind the 'widows' houses' charge. Faint volume on its own, listed as part of the Torah widow-protection backdrop alongside Exodus 22:22.",
+        "contested": true
+      }
+    ]
+  }
+]

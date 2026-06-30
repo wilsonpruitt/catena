@@ -1,0 +1,329 @@
+[
+  {
+    "id": "19.1",
+    "ch": 19,
+    "ref": "19:1-10",
+    "echoes": [
+      {
+        "source": "Exodus 22:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Zacchaeus pledges to restore fourfold what he has wrongfully exacted, matching the Torah's penalty of four sheep for a stolen sheep. Luke's specific multiplier 'four times' aligns precisely with the lower of the Exodus restitution scales, signaling Zacchaeus's voluntary embrace of legal restitution beyond mere repayment. High volume and coherence with the conversion-as-restoration theme.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 5:6-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Numbers prescribes that one who wrongs another must confess, restore the principal in full, and add a fifth. Zacchaeus's confession plus voluntary restitution enacts this penitential statute, even exceeding it in the fourfold portion. The coherence of confession-and-restoration makes this a strong background for the verse's logic of repentance.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 12:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Nathan's parable has David decree the rich thief must restore the lamb fourfold, the same multiplier Zacchaeus invokes. The shared fourfold figure tied to a wealthy man's exploitation of the poor gives a narrative echo, though it derives the number from the Exodus statute David applies. Medium confidence as the link is mediated through the legal background.",
+        "contested": true,
+        "altSource": "Exodus 22:1"
+      },
+      {
+        "source": "Ezekiel 34:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Son of Man's mission to 'seek and to save that which was lost' echoes Ezekiel's promise that God himself will seek the lost sheep and bind up the strayed, in contrast to the false shepherds. Luke applies the divine shepherd-search directly to Jesus, with the rare verb pairing seek/lost matching the prophetic oracle. High volume and thematic coherence with Luke's lost-and-found motif.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 34:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel adds that God will 'save' his flock so they shall no more be a prey, reinforcing the seek-and-save pairing of v. 10. The combination of seeking the lost and saving the flock in one oracle undergirds Luke's compressed mission statement. Medium because v. 16 carries the primary verbal weight.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 17:5-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus declares Zacchaeus 'a son of Abraham,' invoking the Abrahamic covenant and its promise of inclusion. The phrase asserts that the despised tax collector belongs to the covenant family, an echo of God's covenant with Abraham and his offspring. Medium volume; the title is idiomatic but covenantally loaded in Luke.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The gathering of the scattered/lost of Israel as a restoration motif faintly underlies 'came to seek and to save that which was lost.' The remnant-gathering theme coheres with Luke's salvation-to-this-house, but the verbal contact is slight. Low confidence; Ezekiel 34 is the stronger source.",
+        "contested": true,
+        "altSource": "Ezekiel 34:16"
+      },
+      {
+        "source": "Micah 4:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Micah's promise to gather 'her that is driven out' and 'the lost' (LXX) supplies another prophetic seeking-the-lost background for v. 10. The image of God assembling the strayed remnant coheres with Jesus's mission statement but is verbally faint beside Ezekiel. Low confidence, marked contested.",
+        "contested": true,
+        "altSource": "Ezekiel 34:16"
+      }
+    ]
+  },
+  {
+    "id": "19.2",
+    "ch": 19,
+    "ref": "19:11-27",
+    "echoes": [
+      {
+        "source": "Ezekiel 17:1-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The parable's transplanting and accountability imagery, where a vassal is set up and judged for fruitfulness, faintly resembles Ezekiel's eagle-and-vine allegory of kingship and rebellion. Both concern a ruler's delegated authority and reckoning, though the minas parable is closer to political memory than to this oracle. Low and contested.",
+        "contested": true,
+        "altSource": "Daniel 7:13-14"
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The nobleman 'went into a far country to receive for himself a kingdom, and to return' evokes the Son of Man approaching the Ancient of Days to receive dominion, kingship, and a returning reign. Luke frames the parable amid expectation that the Kingdom would appear, making the Danielic enthronement-and-return pattern a coherent backdrop. Medium volume given the political-historical surface.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 39:2-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The faithful servant entrusted with much and given authority over cities loosely recalls Joseph's stewardship rewarded with rule over Egypt. The steward-elevated-to-governance pattern coheres but is a common biblical type, so verbal contact is weak. Low confidence, contested.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 23:19-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The master's reproach about not depositing the money to earn interest plays against the Torah's regulation of usury, sharpening the third servant's failure. The interest/banking language gains bite against the Mosaic lending economy, though no quotation is intended. Low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 13:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The contrast between increasing wealth by labor and the unproductive hoarded mina resonates with Proverbs' maxim that wealth gotten by vanity dwindles but he who gathers by labor increases it. The wisdom logic of fruitful versus idle stewardship coheres faintly. Low confidence.",
+        "contested": true
+      },
+      {
+        "source": "2 Chronicles 36:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The citizens' embassy declaring 'We don't want this man to reign over us' echoes the recurrent rejection of the appointed king and rebellion against the suzerain, as when Zedekiah rebelled against the overlord. The rejected-ruler motif coheres with Israel's pattern of refusing God's anointed, but no single text is quoted. Low, contested.",
+        "contested": true,
+        "altSource": "1 Samuel 8:7"
+      },
+      {
+        "source": "1 Samuel 8:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The subjects' refusal of the nobleman's reign recalls Israel's rejection of God as king ('they have rejected me, that I should not reign over them'). The verbal shape 'reign over us / over them' coheres with Luke's theme of rejecting the true king, though the parable's surface is Herodian politics. Low confidence, contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "19.3",
+    "ch": 19,
+    "ref": "19:28-40",
+    "echoes": [
+      {
+        "source": "Zechariah 9:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The entry on a colt amid royal acclamation enacts Zechariah's oracle of the king coming to Zion humble and riding on a colt, the foal of a donkey. Though Luke does not cite the verse explicitly as Matthew does, the colt and the proclaimed king make this the controlling prophetic background. High volume and coherence with Luke's kingship theme.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 49:10-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jacob's blessing on Judah foretells the ruler whose scepter does not depart, binding his colt to the vine, an early messianic colt image. The royal colt of the coming ruler coheres with Luke's enthronement entry and the kingly acclamation. Medium because the contact runs through the colt image rather than direct citation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 118:26",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The crowd cries 'Blessed is the King who comes in the name of the Lord,' quoting the pilgrim blessing of Psalm 118:26 with the added royal title 'the King.' This is a direct verbal citation embedded in the Hallel context of festal approach to the temple. High volume; the quotation is explicit and load-bearing.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 1:33",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Setting the king-to-be on a mount for a processional enthronement recalls Solomon riding David's mule to Gihon to be proclaimed king. The royal mounting and acclamation parallel the Davidic succession ritual, supporting Luke's kingship framing. Medium confidence; the mount differs (colt vs. mule) but the enthronement pattern is strong.",
+        "contested": true,
+        "altSource": "Zechariah 9:9"
+      },
+      {
+        "source": "2 Kings 9:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Spreading garments before the rider evokes the acclamation of Jehu, where the people put their cloaks under him on the steps and proclaimed 'Jehu is king.' The garment-strewing as royal enthronement gesture closely parallels the crowd's act here. Medium volume; the cloak ritual is a recognizable kingship sign.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 148:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The acclamation 'Peace in heaven, and glory in the highest' echoes the heavenly-praise summons of the Psalms to praise the Lord 'in the heights.' The vertical glory-in-the-highest language coheres with the angelic Gloria pattern Luke reprises. Low because it is diffuse liturgical idiom.",
+        "contested": true
+      },
+      {
+        "source": "Habakkuk 2:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus's claim that 'the stones would cry out' if the disciples were silent draws on Habakkuk's woe, where the stone cries out from the wall and the beam answers against injustice. The personified crying stone witnessing truth coheres with the inevitability of acclaiming the coming king. High volume; the crying-stone image is rare and distinctive.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 3:14-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The summons to Zion to rejoice because 'the King of Israel, the Lord, is in your midst' resonates with the rejoicing multitude hailing the coming king at the descent to Jerusalem. The Daughter-of-Zion joy at the king's arrival coheres with Luke's scene. Low confidence; Zechariah 9 is the dominant source.",
+        "contested": true,
+        "altSource": "Zechariah 9:9"
+      }
+    ]
+  },
+  {
+    "id": "19.4",
+    "ch": 19,
+    "ref": "19:41-44",
+    "echoes": [
+      {
+        "source": "Isaiah 29:1-4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The siege oracle against Ariel (Jerusalem), where the Lord encamps against her, raises siege-works, and brings her low so she speaks from the ground, supplies the language of barricade, encirclement, and being dashed to the ground. Luke's weeping prophecy closely tracks this Ariel oracle's imagery of the humbled city. High volume and coherence with the lament form.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 6:6-15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jeremiah commands to 'cast up a mound against Jerusalem' for the siege and indicts the people who 'did not know' and were not ashamed at the time of visitation. Luke's barricade, encirclement, and the charge 'you did not know the time of your visitation' draw directly on this oracle's siege-and-visitation structure. High volume; the visitation language is verbally close.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 10:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's 'what will you do in the day of visitation' undergirds Jesus's reproach that Jerusalem 'did not know the time of your visitation.' The day-of-visitation as a moment of accountability and judgment coheres with Luke's siege lament. Medium; Jeremiah 6 carries the parallel verbal weight.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 137:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The prophecy that enemies 'will dash you and your children within you to the ground' echoes the imprecatory Psalm's image of dashing children against the rock. The dash-children-to-the-ground violence of urban conquest supplies the horror Luke evokes for Jerusalem's fall. Medium; the verb dashing applied to children is distinctive.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 4:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel's sign-act lays siege to a depicted Jerusalem, building siege-works and an iron wall against the city. Luke's 'your enemies will throw up a barricade against you' draws on this prophetic siege-enactment imagery. Medium volume; the barricade/siege-wall is the shared element.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 8:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elisha's tearful prophecy of the coming atrocities, the slain young men and the dashed little ones, parallels Jesus's weeping over the city's foreseen destruction. The weeping prophet foreseeing the slaughter of children coheres with Luke's lament tone. Low; the contact is thematic.",
+        "contested": true,
+        "altSource": "Psalm 137:9"
+      },
+      {
+        "source": "Hosea 13:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Hosea's judgment that Samaria's infants will be dashed in pieces and her pregnant women ripped open supplies another prophetic image of children destroyed in conquest behind 'dash you and your children to the ground.' The atrocity-on-children topos coheres but Hosea concerns Samaria. Low and contested.",
+        "contested": true,
+        "altSource": "Psalm 137:9"
+      },
+      {
+        "source": "Nahum 3:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Nahum's depiction of conquered Thebes, whose little ones 'were dashed in pieces at the head of every street,' is another stock siege-atrocity image standing behind Luke's children-dashed-to-the-ground. The shared conquest-of-a-city horror coheres faintly. Low confidence.",
+        "contested": true,
+        "altSource": "Psalm 137:9"
+      },
+      {
+        "source": "Jeremiah 6:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah declares that at 'the time of their visitation they shall be cast down,' the very phrase Luke turns into the reproach that Jerusalem failed to know its time of visitation. The visitation-as-judgment idiom is a direct conceptual borrowing. Medium, overlapping with the broader Jeremiah 6 siege oracle.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 28:52-57",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The covenant curse foretells the enemy besieging your towns until the high walls fall, with horrors befalling children during the siege. Luke's siege, encirclement, and destruction of the city read as the realization of the Deuteronomic covenant curse for disobedience. Medium; the curse-fulfillment frame coheres strongly with Luke's theology.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 1:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's vision of the land laid waste, cities burned, and Daughter Zion left desolate provides a background for Jerusalem's coming devastation. The desolation-of-Zion motif coheres with Luke's lament but is diffuse. Low confidence.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 9:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's warning that he will cast out Israel and make the temple a heap if they forsake him, leaving passersby astonished, anticipates the destruction Jesus foresees. The conditional ruin-of-house-and-city coheres with the visitation-judgment theme. Low and contested.",
+        "contested": true,
+        "altSource": "Deuteronomy 28:52-57"
+      }
+    ]
+  },
+  {
+    "id": "19.5",
+    "ch": 19,
+    "ref": "19:45-48",
+    "echoes": [
+      {
+        "source": "Isaiah 56:7",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus quotes 'My house shall be a house of prayer' from Isaiah's oracle promising that foreigners' offerings will be accepted in a house of prayer for all peoples. The citation grounds the temple's intended purpose against its corruption. High volume; an explicit, marked quotation introduced by 'it is written.'",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 7:11",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus brands the temple traffickers as making it 'a den of robbers,' quoting Jeremiah's temple sermon that asks whether the Lord's house has become a den of robbers in the people's eyes. The citation imports Jeremiah's threat of the temple's destruction for covenant infidelity. High volume; explicit quotation fused with Isaiah 56:7.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 14:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zechariah's eschatological vision ends with 'there shall be no more a trader (Canaanite) in the house of the Lord,' coheres with Jesus expelling the buyers and sellers from the temple. The purified end-time temple free of commerce supports the cleansing act. Low confidence; the prophetic-cleansing background is suggestive but uncited.",
+        "contested": true,
+        "altSource": "Jeremiah 7:11"
+      },
+      {
+        "source": "Malachi 3:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Malachi foretells the Lord suddenly coming to his temple to purify the sons of Levi and the offerings, an oracle of temple purgation that coheres with Jesus's cleansing entry. The Lord-comes-to-purify-the-temple pattern undergirds the scene though no words are quoted. Low confidence.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 69:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The zeal for God's house that consumes the psalmist faintly informs Jesus's forceful purging of the temple, a connection John makes explicit. In Luke the link is at most an echo of the zealous-for-the-house motif. Low confidence and contested.",
+        "contested": true
+      }
+    ]
+  }
+]

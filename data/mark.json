@@ -32,7 +32,8 @@
           "confidence": "low",
           "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
           "note": "The Servant 'anointed to bring good news' supplies another Isaianic root for Mark's euangelion. Verbal contact is faint here and the link is largely thematic; included for maximal coverage because Mark's Jesus is the Spirit-anointed herald (cf. 1:10).",
-          "contested": true
+          "contested": true,
+          "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;"
         },
         {
           "source": "Psalm 2:7",
@@ -272,7 +273,8 @@
           "confidence": "medium",
           "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound; to proclaim the year of Yahweh’s favor, and the day of vengeance of our God; to comfort all who mourn;",
           "note": "'The time is fulfilled' resonates with Isaiah 61:2's 'the acceptable year of the LORD,' the proclamation of the eschatological jubilee by the Spirit-anointed herald (cf. Jesus' anointing at 1:10). Volume is moderate on the 'favorable/fulfilled time' motif; coherence with the gospel-of-God framing is good, though Mark does not quote it as Luke does.",
-          "contested": true
+          "contested": true,
+          "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind; to declare the acceptable year of the Lord, and the day of recompence; to comfort all that mourn;"
         },
         {
           "source": "Ezekiel 7:7",

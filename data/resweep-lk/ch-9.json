@@ -1,0 +1,444 @@
+[
+  {
+    "id": "9.1",
+    "ch": 9,
+    "ref": "9:1-6",
+    "echoes": [
+      {
+        "source": "2 Kings 4:29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The terse travel-light, single-minded urgency of the mission ('take nothing... salute no one') resonates with Elisha dispatching Gehazi with his staff and the command to greet no one on the road. Coherence with Luke's Elijah/Elisha typology for the prophetic mission is moderate, but the verbal contact is faint and the prop (staff) is inverted, so contested.",
+        "contested": true
+      },
+      {
+        "source": "Nehemiah 5:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Shaking off the dust 'for a testimony against them' enacts a prophetic curse-gesture; Nehemiah shakes out the fold of his garment as a symbolic execration on covenant-breakers. The shared shaking-as-witness logic gives moderate volume; the gesture is a recognizable Second-Temple idiom of repudiation.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Washing the dust of a place from the feet recalls the ancient hospitality of footwashing (Abraham to the three visitors); refusal of hospitality is symmetrically answered by dust-shaking. The connection is thematic and faint, hence contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.2",
+    "ch": 9,
+    "ref": "9:7-9",
+    "echoes": [
+      {
+        "source": "Malachi 4:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The popular guess that 'Elijah had appeared' presupposes Malachi's promise that Elijah returns before the day of the LORD, a live Second-Temple expectation (cf. Sirach 48:10). High coherence with Luke's whole Elijah-return motif and high availability.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The alternative guess, 'one of the old prophets has risen,' draws on the Mosaic promise of a raised-up prophet like Moses and broader expectation of an eschatological prophet. Moderate volume; coherent with Luke's prophet Christology, climaxing in the Transfiguration 'listen to him.'",
+        "contested": false
+      },
+      {
+        "source": "Sirach 48:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Sirach explicitly canonizes the returning-Elijah hope ('ready... to turn the hearts'), the very expectation Herod's informants voice. Deuterocanonical availability strengthens the case that this is the operative cultural script behind v.8.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "9.3",
+    "ch": 9,
+    "ref": "9:10-17",
+    "echoes": [
+      {
+        "source": "2 Kings 4:42-44",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Elisha feeds a hundred men with twenty barley loaves, with the protest 'how can I set this before a hundred?', the command to give, eating, and food left over. The structural parallel (insufficient loaves, servant objection, feeding, surplus) is the closest single antecedent and high in volume and coherence with Luke's Elijah/Elisha matrix.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 16:4-18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Bread provided to a vast crowd in a 'deserted place' (wilderness), gathered and fully satisfied with leftovers measured, evokes the manna narrative. High coherence with the new-Moses wilderness-feeding typology that the very next pericopes (Transfiguration, 'exodus') develop.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:13-22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Moses' despairing 'Where am I to get meat for all this people?' and God's provision in the wilderness underlie the disciples' 'send the multitude away... we are in a deserted place.' The seating in companies recalls Israel's ordered camp; volume and coherence both strong.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 78:19-29",
+        "type": "echo",
+        "confidence": "high",
+        "note": "'Can God prepare a table in the wilderness?'—the psalm's retrospect on manna and quail, where the people 'ate and were well filled,' matches Luke's 'they ate and were all filled.' Strong verbal echo ('filled') and thematic coherence with wilderness provision.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 23:1-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The shepherd seating the flock on grass and spreading a table in the presence of need colors the orderly groups and abundant provision; Mark makes the 'green grass' explicit. Moderate in Luke, where the pastoral detail is muted, so lower volume here.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 27:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The crowd as sheep without a shepherd needing a leader to go before them (Moses' prayer for a successor) frames Jesus' compassion and shepherd-feeding; explicit in Mark's parallel and coherent with Luke's new-Moses theme.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 34:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise of one Davidic shepherd who feeds the scattered flock undergirds the feeding as messianic shepherding. Faint in Luke's spare account; figural and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.4",
+    "ch": 9,
+    "ref": "9:18-20",
+    "echoes": [
+      {
+        "source": "Psalm 2:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Peter's confession 'the Christ of God' names the Anointed One of Psalm 2, the royal son set by God against the nations' rulers. Coherent with the immediately surrounding Herod material and the Transfiguration's 'my Son'; moderate volume by title alone.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The crowd's repeated options—John, Elijah, a risen old prophet—again invoke the Malachi/Sirach returning-Elijah and eschatological-prophet hopes, here set against the true confession. Recurrence within the chapter strengthens it.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "9.5",
+    "ch": 9,
+    "ref": "9:21-27",
+    "echoes": [
+      {
+        "source": "Isaiah 53:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The Son of Man must suffer many things and be rejected' echoes the Servant who is 'despised and rejected of men, a man of sorrows.' High coherence with Luke's passion theology (cf. Luke 22:37 citing Isa 53), strong volume on rejection/suffering.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The title 'Son of Man,' here joined to suffering and to coming 'in his glory' (v.26), draws on Daniel's heavenly figure who receives dominion and glory. Strong availability and coherence; Luke fuses Danielic glory with Isaianic suffering.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 118:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Being 'rejected by the elders, chief priests, and scribes' evokes the stone the builders rejected, which Luke cites explicitly at 20:17. Moderate volume here (no quotation yet) but high coherence with Luke's rejection-vindication pattern.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The third day be raised up' may echo Hosea's 'on the third day he will raise us up,' read messianically in later Jewish tradition. Verbal contact is suggestive but the third-day formula is multiply sourced, so contested and low volume.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Raised up on the third day' and the promise that some will not 'taste death' draw on resurrection/awakening hope crystallized in Daniel. Faint and diffuse; figural support for the resurrection language.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 18:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever desires to save his life will lose it' has a distant gravitational pull toward prophetic life/death covenant choices, but the saying is proverbial and not verbally anchored. Low volume, contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.6",
+    "ch": 9,
+    "ref": "9:28-36",
+    "echoes": [
+      {
+        "source": "Exodus 24:15-18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Going up the mountain, the cloud overshadowing, the glory, the entering into the cloud, and the divine voice replay Moses' Sinai ascent. 'About eight days' may even mirror Exodus 24:16's 'six days... the seventh day.' Very high volume and coherence in Luke's new-Sinai staging.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:29-35",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The altered, shining appearance of Jesus' face directly parallels Moses' face shining after speaking with God on the mountain. Strong verbal/visual volume; Luke uniquely heightens the facial transformation, tightening the Moses typology.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Listen to him' from the cloud quotes the Mosaic 'a prophet like me... him you shall heed,' identifying Jesus as the eschatological prophet-like-Moses. High volume (near-verbatim imperative) and total coherence with Moses' presence on the mount.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'This is my beloved Son' draws on the royal decree 'You are my Son,' fusing enthronement sonship with the Transfiguration glory. High coherence with the chapter's Christ-confession and the baptismal voice Luke echoes.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The heavenly designation of the Son in whom God delights blends the Servant 'my chosen, in whom my soul delights' with the royal Son. Moderate volume in Luke's wording; coherent with the Isaianic-Servant note already sounded in v.22.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:4-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses and Elijah standing together is precisely the Malachi pairing—'remember the law of Moses... I will send Elijah'—epitomizing the Law and the Prophets that witness to Jesus. Strong coherence; their joint appearance is unlikely to be accidental.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The dazzling white clothing ('white as snow,' raiment 'glistering') colors the transfigured glory with the apocalyptic radiance of the Ancient of Days and heavenly beings. Moderate volume via the whiteness motif; coherent with the Danielic Son of Man already in v.26.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 40:34-35",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The overshadowing cloud from which the voice speaks recalls the glory-cloud filling the tabernacle, especially as Peter proposes building 'tents/booths' for the three. The tent/tabernacle-glory linkage gives moderate volume and good coherence.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 14:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter's wish to make three 'booths' may glance at the eschatological Feast of Tabernacles when the nations keep the festival before the King. Faint and dependent on the skene wordplay; contested.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 13:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Moses and Elijah speak of Jesus' 'exodus' he was to accomplish at Jerusalem; the very word frames the passion as a new exodus, with the guiding cloud as a faint backdrop. The 'exodus' lexeme is load-bearing but the pillar-of-cloud link is diffuse.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 19:8-13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Elijah's own theophany on the mountain (Horeb), reached after a fast and meeting God in stillness, undergirds his presence at this mountain revelation. Moderate coherence given Elijah is literally present; volume carried by the mountain-theophany pattern.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "9.7",
+    "ch": 9,
+    "ref": "9:37-43",
+    "echoes": [
+      {
+        "source": "Deuteronomy 32:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'O faithless and perverse generation' quotes the Song of Moses' indictment of a 'perverse and crooked generation,' placing Jesus in Moses' prophetic-judge role just after descending the mountain. High verbal volume and pointed coherence with the new-Moses framing.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:20",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The same Song continues, 'they are a perverse generation, children in whom is no faithfulness,' reinforcing the 'faithless and perverse' double charge. Recurrence within Deuteronomy 32 strengthens the allusion's volume.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 14:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'How long shall I be with you and bear with you?' resonates with God's 'How long will this people despise me... how long will they not believe?' in the wilderness. Faint verbal contact but coherent with the wilderness-generation motif; contested.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 4:34-35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus restoring the convulsed only son and 'giving him back to his father' faintly recalls Elisha raising the Shunammite's son and giving him back. The 'gave him back' gesture (cf. also 1 Kings 17:23) is the load-bearing link; low volume, contested.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 17:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah 'delivered him to his mother'—'see, your son lives'—parallels Jesus giving the healed only child back to his father. Coherent with Luke's Elijah typology (cf. the 'only son' at Nain, 7:12-15) but verbally faint here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.8",
+    "ch": 9,
+    "ref": "9:44-45",
+    "echoes": [
+      {
+        "source": "Isaiah 53:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Son of Man will be delivered up into the hands of men' echoes the Servant whom 'the LORD delivered up' for iniquity (LXX paradidomi). Moderate volume via the handing-over verb; coherent with the Isaianic passion reading begun in v.22.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The recurring 'Son of Man' title keeps the Danielic figure in view even as Luke subverts expectation toward suffering. Recurrence across vv.22, 26, 44 builds cumulative volume.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "9.9",
+    "ch": 9,
+    "ref": "9:46-48",
+    "echoes": [
+      {
+        "source": "1 Samuel 2:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever is least among you all, this one will be great' inverts status as in Hannah's song, where God raises the poor and lowly and seats them with princes—a Lukan reversal motif (cf. Magnificat). Thematic coherence is high but verbal contact faint; contested.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 12:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The valorizing of the least/humblest in a dispute over greatness faintly recalls Moses, 'very meek, above all men,' set over against the leaders' rivalry. Diffuse and figural, hence contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.10",
+    "ch": 9,
+    "ref": "9:49-50",
+    "echoes": [
+      {
+        "source": "Numbers 11:26-29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "John's 'we forbade him, because he doesn't follow with us' replays Joshua's 'My lord Moses, forbid them!' when Eldad and Medad prophesy outside the camp, and Jesus' 'Do not forbid' answers with Moses' 'Would that all the LORD's people were prophets.' Strong structural and verbal parallel (forbid/the Spirit working beyond the inner circle); high coherence with Luke's broader-Spirit theme.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "9.11",
+    "ch": 9,
+    "ref": "9:51-56",
+    "echoes": [
+      {
+        "source": "2 Kings 1:10-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Command fire to come down from the sky... just as Elijah did' explicitly cites Elijah calling down fire on the messengers from Samaria; the Samaritan setting makes the reference exact. High volume (named comparison) and coherence; Jesus' rebuke signals a deliberate contrast with the Elijah model.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 2:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The days were near that he should be taken up' and Jesus 'set his face' draw on Elijah's assumption ('when the LORD was about to take up Elijah') and prophetic resolve. The analepsis/analambano language tightly binds the journey's start to Elijah's ascent; high coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 50:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus 'set his face' resolutely toward Jerusalem echoes the Servant's 'I have set my face like a flint' in obedient suffering. Moderate volume via the face-setting idiom; coherent with the Isaianic Servant strand running through the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 21:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Set your face toward Jerusalem and prophesy' is a recurring prophetic commission idiom that colors Jesus' face-setting as prophetic confrontation. The phrase is multiply attested in Ezekiel, so diffuse and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.12",
+    "ch": 9,
+    "ref": "9:57-62",
+    "echoes": [
+      {
+        "source": "1 Kings 19:19-21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'No one who puts his hand to the plow and looks back' directly engages Elisha's call: found plowing, he asks to kiss his parents farewell before following, and Elijah lets him. Jesus radicalizes the precedent—no looking back, no delayed farewell—making the plowing image and the farewell request unmistakable. Very high volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 19:20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Allow me first to say good-bye to those at my house' nearly quotes Elisha's 'let me kiss my father and mother, and then I will follow you.' The verbal correspondence in the third would-be follower is the strongest single anchor for the Elisha typology here.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 19:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Looking back' as fatal hesitation may glance at Lot's wife, the proverbial backward look that forfeits deliverance. Faint and figural relative to the dominant Elisha frame; contested.",
+        "contested": true
+      },
+      {
+        "source": "Tobit 4:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let me first bury my father' reflects the supreme filial duty of burial dramatized in Tobit, against which Jesus' 'leave the dead to bury their dead' is shockingly subversive. Deuterocanonical availability illuminates the cultural weight Jesus overturns, though it is background rather than a textual echo.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 8:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The birds of the sky have nests, but the Son of Man has no place to lay his head' may faintly invert creation's provision of resting places (the dove finding no rest, then nesting). Very low volume; offered only as a faint figural counterpoint.",
+        "contested": true,
+        "altSource": "Psalm 84:3"
+      }
+    ]
+  }
+]

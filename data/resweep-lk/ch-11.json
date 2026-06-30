@@ -1,0 +1,422 @@
+[
+  {
+    "id": "11.1",
+    "ch": 11,
+    "ref": "11:1-4",
+    "echoes": [
+      {
+        "source": "Ezekiel 36:23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"May your name be kept holy\" (hallowed be your name) echoes God's promise to sanctify his great name profaned among the nations. The eschatological hallowing of the Name is exactly the petition's force, supplying coherence with the kingdom-come request that follows.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"They will sanctify my name... and stand in awe of the God of Israel\" supplies the human-side counterpart of the hallowing petition. Combined with Ezekiel 36:23 this gives recurrence of the sanctify-the-Name motif in the prophets, the petition's most available source.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 22:32",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"You shall not profane my holy name, but I will be hallowed among the children of Israel\" is the legal seed of the later prophetic hope and may stand behind the liturgical formula. Faint and diffuse; flagged as low volume.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 63:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"You, LORD, are our Father\" grounds the direct address \"Our Father.\" Isaiah's fatherhood-of-God language is a primary Second-Temple availability for the prayer's opening invocation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 64:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"You are our Father; we are the clay\" reinforces the address to God as Father. Coherent with 63:16 but adds little independent volume, so marked low.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:44",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Your kingdom come\" draws on the apocalyptic expectation that the God of heaven will set up an everlasting kingdom that shall never be destroyed. Daniel is the chief Second-Temple source for the coming-kingdom hope the petition voices.",
+        "contested": false
+      },
+      {
+        "source": "Obadiah 1:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"The kingdom shall be the LORD's\" anticipates the kingdom petition. A diffuse prophetic background rather than a verbal source; low volume.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 16:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Give us day by day our daily bread\" evokes the manna gathered \"a day's portion every day,\" testing daily dependence on God. The day-by-day rationing of Exodus 16 supplies the petition's coherence; Luke's distinctive \"day by day\" strengthens the link.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 30:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Agur's plea \"feed me with the food that is needful for me\" matches the bread petition's modest sufficiency and may inform the rare word epiousios. A strong thematic and lexical candidate for the source of \"daily bread.\"",
+        "contested": false
+      },
+      {
+        "source": "Sirach 28:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Forgive your neighbor the wrong he has done, and then your sins will be pardoned when you pray\" is the closest Second-Temple parallel to the reciprocal forgiveness clause. The conditional structure (forgive others / be forgiven) coheres tightly with Luke 11:4.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 79:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Deliver us, and forgive our sins, for your name's sake\" combines forgiveness, deliverance, and the Name in one verse, paralleling the prayer's later petitions. Diffuse and contested, but coherent with the whole prayer.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.2",
+    "ch": 11,
+    "ref": "11:5-8",
+    "echoes": [
+      {
+        "source": "Proverbs 3:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Don't say to your neighbor, 'Go, and come again... when you have it by you'\" rebukes the very deferral the sleeping friend voices. A wisdom backdrop to the parable's neighbor-obligation rather than a quotation; low volume.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 18:23-32",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Abraham's persistent intercession with God, importunately pressing request upon request, prefigures the friend's shameless persistence rewarded. Figural rather than verbal; flagged contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.3",
+    "ch": 11,
+    "ref": "11:9-13",
+    "echoes": [
+      {
+        "source": "Proverbs 8:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Those who seek me diligently will find me\" supplies the seek-and-find logic of \"keep seeking and you will find.\" Wisdom's promise of reward to the seeker is the most available source for the ask-seek-knock triad.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 29:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"You shall seek me and find me, when you search for me with all your heart\" is the classic seek-and-find promise undergirding 11:9-10. Its recurrence with Proverbs 8:17 strengthens the case.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"You shall seek the LORD your God, and you shall find him, if you search after him\" is another seek-find promise feeding the same matrix. Adds recurrence but little independent volume; low.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 55:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Seek the LORD while he may be found; call on him while he is near\" parallels the imperative to seek and the promise of access. Diffuse prophetic backdrop, contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 34:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Those who seek the LORD shall not lack any good thing\" coheres with the assurance that the Father gives good gifts to those who ask. A faint sapiential-psalmic echo behind 11:13.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.4",
+    "ch": 11,
+    "ref": "11:14-23",
+    "echoes": [
+      {
+        "source": "Exodus 8:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"If I by the finger of God cast out demons\" directly invokes the Egyptian magicians' confession, \"This is the finger of God,\" before Pharaoh. The phrase ties Jesus' exorcisms to the Exodus power that defeats hostile powers and inaugurates God's reign; high volume and exact verbal correspondence.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 9:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The tablets \"written with the finger of God\" supply the other major OT use of the idiom, framing the finger as God's direct, unmediated agency. Recurrence of the phrase reinforces the Exodus 8:19 allusion behind 11:20.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:24-25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Shall the prey be taken from the mighty... yet the captives of the mighty shall be taken away\" underlies the stronger-one despoiling the armed strong man (11:21-22). The image of plunder reclaimed from a mighty captor is the source of the binding-the-strong-man logic.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"He shall divide the spoil with the strong\" lends the dividing-of-plunder language in 11:22. A faint Servant-song coloring of the strong-man saying; contested and low.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 7:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The enemy who \"whets his sword... and makes ready his weapons\" is a faint backdrop to the strong man \"fully armed\" guarding his goods. Diffuse imagery rather than source; low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.5",
+    "ch": 11,
+    "ref": "11:24-26",
+    "echoes": [
+      {
+        "source": "Isaiah 13:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Desolate places haunted by desert demons (\"wild beasts... satyrs shall dance there\") inform the unclean spirit wandering through \"dry places\" seeking rest. The waterless-wilderness as demonic habitat is the OT backdrop; faint.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 16:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Azazel's goat sent \"into the wilderness\" associates the desert with the locus of impurity/demonic banishment, paralleling the spirit's exile to dry places. Diffuse and contested.",
+        "contested": true
+      },
+      {
+        "source": "Tobit 8:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The demon Asmodeus fleeing to \"the remotest parts of Egypt\" (the desert) where he is bound parallels the unclean spirit traversing waterless regions. A Second-Temple availability for desert-as-demonic-haunt; low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.6",
+    "ch": 11,
+    "ref": "11:27-28",
+    "echoes": [
+      {
+        "source": "Genesis 30:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Leah's \"the daughters will call me happy\" is the OT type of the blessing-cry pronounced over a woman, here transferred to Jesus' mother. A faint formal parallel to the beatitude on the womb; contested.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 28:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Blessed shall be the fruit of your body\" supplies covenant blessing-language on the womb that the woman's exclamation reworks. Diffuse and low volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.7",
+    "ch": 11,
+    "ref": "11:29-32",
+    "echoes": [
+      {
+        "source": "Jonah 1:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"The sign of Jonah\" explicitly names the prophet swallowed by the great fish, the type for the Son of Man's vindication. The Jonah narrative is the controlling intertext of 11:29-30, named directly.",
+        "contested": false
+      },
+      {
+        "source": "Jonah 3:5",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"They repented at the preaching of Jonah\" recounts the Ninevites' belief and repentance in sackcloth. The Ninevites' repentance is cited as the standard that condemns the unrepentant generation (11:32).",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 10:1-10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"The Queen of the South... came from the ends of the earth to hear the wisdom of Solomon\" cites the Queen of Sheba's visit to test Solomon with hard questions. The narrative is summoned directly as a witness against the generation (11:31).",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 9:1-9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Chronicler's parallel account of the queen who came to hear Solomon's wisdom is the doublet source for 11:31. Its recurrence with 1 Kings 10 secures the allusion.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 4:34",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"There came of all peoples to hear the wisdom of Solomon, from all the kings of the earth\" generalizes the nations' coming to Solomon's wisdom that the Queen of the South exemplifies. Supporting background; low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.8",
+    "ch": 11,
+    "ref": "11:33-36",
+    "echoes": [
+      {
+        "source": "Proverbs 20:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"The spirit of man is the lamp of the LORD, searching all the inward parts\" supplies the inner-lamp imagery for \"the lamp of the body is the eye.\" The wisdom equation of lamp and inner illumination grounds 11:34.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 22:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"He who has a generous (good) eye will be blessed\" lies behind the idiom of the \"good eye\" (single/generous) vs. the evil eye (stingy). A Semitic idiom backdrop to 11:34; low but coherent.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 15:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The warning against an \"evil eye\" toward the needy poor supplies the negative pole of the sound/evil eye antithesis. Contested idiomatic background to the dark-body saying.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 18:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"You will light my lamp; the LORD my God will lighten my darkness\" pairs lamp and the dispelling of darkness as in 11:35-36. Faint psalmic coloring; low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.9",
+    "ch": 11,
+    "ref": "11:37-44",
+    "echoes": [
+      {
+        "source": "Micah 6:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"You bypass justice and the love of God\" against punctilious tithing echoes \"to do justly, and to love mercy, and to walk humbly with your God.\" Micah's prophetic priority of justice over ritual is the controlling intertext of the first woe (11:42).",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 27:30",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"The tithe... of the fruit of the tree, is the LORD's\" supplies the legal basis the Pharisees scrupulously extend to mint and rue. The tithing command is the practice being weighed against neglected justice in 11:42.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 6:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"I desire mercy, and not sacrifice\" reinforces the prophetic preference for justice/mercy over cultic precision behind 11:42. Recurs with Micah 6:8 but is not verbally present in Luke; low.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 19:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Whoever touches a grave shall be unclean seven days\" underlies \"you are like hidden graves\" whose walkers contract defilement unknowingly. The purity law about corpse-contact through graves is the precise basis of the woe in 11:44.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 19:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"He who touches the dead body of any man shall be unclean seven days\" supplies the corpse-impurity principle the hidden-grave image exploits. Supports Numbers 19:16; low independent volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.10",
+    "ch": 11,
+    "ref": "11:45-52",
+    "echoes": [
+      {
+        "source": "2 Chronicles 36:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"You build the tombs of the prophets, and your fathers killed them\" rests on the Chronicler's indictment that they \"mocked the messengers of God... and scoffed at his prophets\" until wrath rose. The murdered-prophets theme of 11:47-50 is summarized exactly here.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 4:8-10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"From the blood of Abel\" cites Cain's murder of Abel whose blood \"cries to me from the ground.\" Abel is named as the first martyr, the opening term of the canon-spanning blood-of-the-prophets formula in 11:51.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 24:20-22",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "\"Zachariah, who perished between the altar and the sanctuary\" cites Zechariah son of Jehoiada, stoned \"in the court of the house of the LORD,\" the last martyr in the Hebrew canon's order. Abel-to-Zechariah spans Genesis to Chronicles, naming the whole canon's witness against the generation.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 24:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Zechariah's dying cry \"The LORD see it, and require it\" supplies the requital language \"may be required of this generation\" in 11:50-51. The verbal echo of blood being \"required\" strengthens the Zechariah identification.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 7:25-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's persistent sending of \"all my servants the prophets... yet they did not listen\" prefigures Wisdom's \"I will send to them prophets\" who are killed (11:49). A diffuse Deuteronomistic prophet-rejection pattern; low.",
+        "contested": true
+      },
+      {
+        "source": "2 Chronicles 24:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"He sent prophets to them to bring them again to the LORD... but they would not listen\" parallels Wisdom's sending of prophets who are rejected and slain. Coheres with the Zechariah context of 11:49-51; low.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 9:1-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Personified Wisdom who sends out her maids and issues invitation stands behind \"the wisdom of God said, 'I will send to them prophets'\" (11:49). A faint Wisdom-figure availability for the sending-and-rejection oracle; contested.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 4:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"My people are destroyed for lack of knowledge... you have rejected knowledge\" colors the woe over lawyers who \"took away the key of knowledge\" (11:52). A prophetic backdrop to withheld knowledge; low.",
+        "contested": true
+      }
+    ]
+  }
+]

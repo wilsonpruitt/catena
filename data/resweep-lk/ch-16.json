@@ -1,0 +1,290 @@
+[
+  {
+    "id": "16.1",
+    "ch": 16,
+    "ref": "16:1-8",
+    "echoes": [
+      {
+        "source": "Proverbs 6:6-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The manager's frantic foresight against future destitution ('I have no strength to dig, I am ashamed to beg') inverts the sluggard wisdom of Proverbs, where prudent provision against want is praised. The shared topos of provident foresight versus ruinous idleness gives modest coherence, though no verbal contact; faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 47:13-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joseph as the shrewd steward managing his lord's grain and debtors during scarcity offers a figural backdrop to a manager renegotiating debts of wheat and oil. Coherence is thematic (estate-steward over produce), but the moral valence is opposite and there is no diction overlap, so it is faint and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.2",
+    "ch": 16,
+    "ref": "16:9",
+    "echoes": [
+      {
+        "source": "Proverbs 19:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Make friends by means of unrighteous mammon, so that they may receive you into the eternal tents' coheres tightly with the proverb that lending to the poor lends to the LORD, who repays. The shared logic that present generosity with money secures future, divine reception gives strong coherence with a widely available sapiential maxim.",
+        "contested": false
+      },
+      {
+        "source": "Tobit 4:7-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Tobit's counsel that almsgiving 'lays up a good treasure against the day of necessity' and 'delivers from death' supplies the precise economy Jesus assumes: wealth converted into mercy yields eschatological security. High coherence and Second-Temple availability make this a strong deuterocanonical echo behind 'receive you into the eternal tents.'",
+        "contested": false
+      },
+      {
+        "source": "Sirach 29:8-13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ben Sira urges laying up alms in one's treasury as a deposit that will rescue one from misfortune, framing charity to the poor as deferred self-interest. The volume and coherence with 'make friends... so they may receive you' is high, and Sirach was demonstrably available to Luke's milieu.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 4:27",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Daniel's appeal to Nebuchadnezzar to 'redeem your sins by almsgiving and your iniquities by mercy to the poor' supplies the redemptive-almsgiving theology underlying using mammon to gain eternal welcome. Strong coherence with the verse's logic; the connection is conceptual rather than verbal.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "16.3",
+    "ch": 16,
+    "ref": "16:10-13",
+    "echoes": [
+      {
+        "source": "Sirach 4:8-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The maxim 'faithful in a very little is faithful in much' coheres with Ben Sira's wisdom that integrity in small dealings with the lowly proves character, but the gnomic form is broadly diffused and no single passage controls it. Faint and contested as a specific source.",
+        "contested": true
+      },
+      {
+        "source": "Joshua 24:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'No servant can serve two masters... you cannot serve God and Mammon' echoes the covenantal either/or of choosing whom to serve, the LORD versus rival gods. Coherence with the exclusive-service motif is real but the diction is independent, so it is a faint figural echo at best.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The demand for undivided love of God set against love of money draws on the Shema's totalizing claim ('with all your heart'), which forbids a divided heart. The opposition of single-hearted devotion versus a rival master gives modest coherence; verbal contact is absent, so it is contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.4",
+    "ch": 16,
+    "ref": "16:14-15",
+    "echoes": [
+      {
+        "source": "Proverbs 16:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'That which is exalted among men is an abomination in the sight of God' closely matches the proverb that everyone proud in heart is an abomination to the LORD. Strong verbal and conceptual coherence (the 'abomination'/divine-loathing of human self-exaltation) and high availability support an allusion.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 16:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You justify yourselves before men, but God knows your hearts' rests on Samuel's principle that man looks on outward appearance while the LORD looks on the heart. The contrast of human-facing display versus divine heart-knowledge is a coherent and well-known scriptural axiom.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 21:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Every way of a man is right in his own eyes, but the LORD weighs the hearts' parallels self-justification before men exposed by God's knowledge of hearts. Coherence is high and the sapiential idiom was available, though Proverbs 16:5 and 1 Samuel 16:7 are the closer touchstones.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The LORD who 'searches the heart' to repay each according to his ways undergirds 'God knows your hearts.' The heart-searching-God motif is recurrent in the prophets, giving thematic coherence but no controlling diction here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.5",
+    "ch": 16,
+    "ref": "16:16-17",
+    "echoes": [
+      {
+        "source": "Malachi 4:5-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Law and the Prophets were until John' presupposes the Elijah-figure who marks the close of the prophetic era and the turn to the day of the LORD. Malachi's promise of Elijah before the great day gives coherent, available background to John as the canon's hinge.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Easier for heaven and earth to pass away than for one stroke of the Law to fall' coheres with 'the grass withers... but the word of our God stands forever,' affirming the imperishability of God's word against the transient cosmos. Strong conceptual coherence with a recurrent Isaianic theme.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 119:89",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Forever, O LORD, your word is settled in heaven' parallels the indestructibility of the Law's least stroke. The endurance-of-Torah motif gives thematic coherence, though the saying's imagery of a 'stroke of a pen' is independent.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.6",
+    "ch": 16,
+    "ref": "16:18",
+    "echoes": [
+      {
+        "source": "Deuteronomy 24:1-4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The divorce-and-remarriage saying directly engages the Mosaic certificate-of-divorce legislation, which Jesus reads against the grain by classing remarriage as adultery. Availability and coherence are decisive; this is the legal text the dictum addresses, framed by v.17's claim on the Law.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The prohibition of divorce-and-remarriage as adultery rests on the creational one-flesh union that divorce cannot truly dissolve. The coherence with Genesis is high (Jesus' parallel teaching elsewhere makes the link explicit), supplying the theological ground here.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 2:14-16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Malachi's oracle against faithless divorce ('the LORD hates divorce... she is your companion by covenant') coheres with Jesus' hardening of the marriage bond. The prophetic critique of casual divorce gives recurrent, available support, though no verbal quotation.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "16.7",
+    "ch": 16,
+    "ref": "16:19-21",
+    "echoes": [
+      {
+        "source": "Deuteronomy 15:7-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Lazarus laid 'at the gate' desiring crumbs while the rich man feasts dramatizes the Deuteronomic command not to harden the heart against the poor brother at your gate, for the poor will never cease in the land. High coherence with the covenantal gate-and-poor topos.",
+        "contested": false
+      },
+      {
+        "source": "Job 2:7-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Lazarus 'full of sores' with dogs licking him evokes Job afflicted with sores from sole to crown, scraping himself amid loss. The shared imagery of a body covered in sores as the type of the abject sufferer gives coherent, available background.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 73:3-12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The prospering, sumptuously clothed rich man set against the afflicted poor man echoes the psalmist's scandal at the wicked who are 'always at ease' and 'clothed with violence' while the godly suffer, resolved only at their end. Strong coherence with the reversal-of-fortunes frame that the parable will enact.",
+        "contested": false
+      },
+      {
+        "source": "Amos 6:1-7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The rich man 'clothed in purple and fine linen, feasting in luxury every day' matches Amos' woe on those who lie on ivory beds, eat lambs, and feast while not grieved over ruin, who go first into exile. The prophetic indictment of callous luxury gives recurrent, coherent background.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 21:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever shuts his ear to the cry of the poor will himself cry out and not be heard' anticipates the rich man's later unanswered cry from Hades after ignoring Lazarus at his gate. Coherence with the lex talionis of neglected mercy is real but the link is thematic, not verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.8",
+    "ch": 16,
+    "ref": "16:22-26",
+    "echoes": [
+      {
+        "source": "Genesis 15:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Being 'carried to Abraham's bosom' and the rich man's address 'Father Abraham' draw on the patriarchal hope of being gathered to one's fathers, with Abraham as the paradigmatic destination of the righteous dead. Coherence with the gathered-to-Abraham motif is strong, though 'bosom' as the resting place is Second-Temple development.",
+        "contested": false
+      },
+      {
+        "source": "4 Maccabees 13:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Abraham, Isaac and Jacob will receive us' on the lips of the martyrs supplies the explicit Second-Temple picture of the righteous welcomed by the patriarchs after death, illuminating 'Abraham's bosom.' Availability and coherence with the post-mortem reception motif support the echo.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 66:24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The rich man's torment, flame, and anguish in Hades draws on Isaiah's closing vision of the dead whose fire is not quenched, the canonical seedbed of post-mortem fiery punishment. Coherence with the unquenched-fire judgment is high and the text was widely available.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 21:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's image of the assembly of the wicked as tow set to flame and the broad road of sinners ending in Hades coheres with the flame and fixed-gulf fate of the rich man. The link is thematic to the sapiential fate-of-the-wicked topos rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "1 Enoch 22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Enoch's tour of the hollow places of the dead, where the righteous and wicked are separated by a great division awaiting judgment, parallels the great chasm fixed between Lazarus and the rich man. As pseudepigraphal background to Second-Temple afterlife topography it is warranted but faint and contested.",
+        "contested": true,
+        "altSource": "4 Ezra 7:36-38"
+      }
+    ]
+  },
+  {
+    "id": "16.9",
+    "ch": 16,
+    "ref": "16:27-31",
+    "echoes": [
+      {
+        "source": "Deuteronomy 18:15-19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'They have Moses and the prophets; let them hear them' presses the Deuteronomic demand to heed the words spoken in God's name, with refusal entailing accountability. Coherence with the obligation to 'hear' the authoritative Mosaic word is strong, framing the sufficiency-of-Scripture point.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:11-14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Abraham's verdict that those who will not hear Moses will not be persuaded even by a resurrection coheres with Deuteronomy's insistence that the word is not far off in heaven or beyond reach but near, in mouth and heart, so no extraordinary sign is needed. The sufficiency and nearness of the revealed word grounds the saying.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 17:13-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel's stiff-necked refusal to listen to the LORD's testimony 'by every prophet' despite warnings prefigures brothers who 'will not be persuaded' though warned by Moses and the prophets. The recurrent prophetic-rejection motif gives coherence, but the connection is thematic rather than verbal.",
+        "contested": true
+      }
+    ]
+  }
+]

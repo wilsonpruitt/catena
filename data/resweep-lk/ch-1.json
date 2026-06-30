@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-4",
+    "echoes": [
+      {
+        "source": "Sirach Prologue",
+        "type": "echo",
+        "confidence": "low",
+        "contested": true,
+        "note": "Luke's literary preface (orderly account, careful tracing, dedication) most closely resembles the Greek prefatory conventions of Second-Temple Jewish writers; the grandson's prologue to Sirach offers the nearest scriptural analogue of an author explaining his method and aim. Volume is low (no shared diction) but thematic coherence and availability are strong, so it registers as a genre echo rather than a citation."
+      },
+      {
+        "source": "2 Maccabees 2:19-32",
+        "type": "echo",
+        "confidence": "low",
+        "contested": true,
+        "note": "The epitomist's preface in 2 Maccabees, in which the writer describes condensing and ordering his material for readers' benefit, parallels Luke's claim to have 'traced the course of all things accurately' and written 'in order.' A deuterocanonical, pre-Lukan model for the historiographic-preface form; verbal overlap is slight, so the link is a formal echo only."
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:5-7",
+    "echoes": [
+      {
+        "source": "1 Chronicles 24:10",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'The priestly division of Abijah' names the eighth of the twenty-four courses assigned by lot in 1 Chronicles 24:10. The distinctiveness of the proper name and the technical priestly-rota system give high volume; Luke grounds Zechariah in the precise Chronicler's order, signaling continuity with Israel's temple cult."
+      },
+      {
+        "source": "Exodus 6:23",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "Elizabeth (Elisabet) bears the name of Aaron's wife Elisheba in Exodus 6:23, and Luke explicitly makes her 'of the daughters of Aaron.' The onomastic match plus the priestly-lineage framing is distinctive and deliberate, casting the Baptist's parents as an idealized Aaronic couple."
+      },
+      {
+        "source": "Leviticus 21:7",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "That the priest Zechariah has a wife 'of the daughters of Aaron' reflects the priestly marriage regulations of Leviticus 21:7,13-14, which restrict whom a priest may marry. Thematic coherence with the Aaronic-purity theme is strong; the diction is not quoted, so it functions as a halakhic echo."
+      },
+      {
+        "source": "Genesis 17:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Righteous before God, walking blamelessly in all the commandments' echoes the Lord's charge to Abraham, 'walk before me and be blameless' (Genesis 17:1). The pairing of walking + blamelessness before God is distinctive covenant language, reinforcing the Abrahamic typology that pervades the chapter."
+      },
+      {
+        "source": "Genesis 6:9",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "The double descriptor 'righteous... blameless' matches the verdict on Noah, who was 'a righteous man, blameless' and 'walked with God' (Genesis 6:9). Septuagintal vocabulary (dikaios, amemptos) recurs; the echo enrolls Zechariah and Elizabeth among Scripture's exemplary righteous."
+      },
+      {
+        "source": "Genesis 18:11",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'They both were well advanced in years' and 'Elizabeth was barren' reproduces almost verbatim the description of Abraham and Sarah, who 'were old, advanced in years,' with Sarah barren (Genesis 11:30; 18:11). High volume and recurrence (the motif returns at 1:18, 36) establish the Abraham-Sarah type-scene as the controlling frame."
+      },
+      {
+        "source": "Genesis 11:30",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Elizabeth was barren' directly recalls 'Sarai was barren; she had no child' (Genesis 11:30), the opening of the matriarchal barrenness theme. Shared diction (steira / 'barren') and the no-child clause make this a focused contributor to the type-scene."
+      },
+      {
+        "source": "1 Samuel 1:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "Hannah, who 'had no children' because she was barren (1 Samuel 1:2), is a second barren-mother template standing behind Elizabeth; the Samuel narrative will be quarried repeatedly in the canticles. Recurrence across the chapter strengthens an otherwise moderate-volume link."
+      },
+      {
+        "source": "Judges 13:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "Manoah's wife was 'barren and had no children' (Judges 13:2) before the annunciation of Samson, a Nazirite. Luke's John narrative leans on this Judges 13 type-scene (cf. the Nazirite diction at 1:15), so the barrenness notice here primes that allusion."
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:8-12",
+    "echoes": [
+      {
+        "source": "Exodus 30:7-8",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "Zechariah's duty 'to enter into the temple of the Lord and burn incense' enacts the priestly incense ordinance of Exodus 30:7-8, where Aaron burns incense on the golden altar morning and evening. Distinctive cultic vocabulary (altar of incense, burning) gives high volume; Luke situates the scene in exact Pentateuchal liturgy."
+      },
+      {
+        "source": "Psalm 141:2",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The whole multitude of the people were praying outside at the hour of incense' presupposes the equation of incense with prayer voiced in Psalm 141:2, 'let my prayer be set before you as incense.' Thematic coherence is strong; the link is conceptual rather than verbally quoted."
+      },
+      {
+        "source": "Daniel 9:21",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "Gabriel comes to Daniel 'at the time of the evening oblation' while Daniel prays (Daniel 9:21); here Gabriel appears at the hour of incense amid the people's prayer. The convergence of angel + appointed sacrificial/prayer hour is distinctive and recurs in the Gabriel-naming at 1:19, marking deliberate Danielic patterning."
+      },
+      {
+        "source": "Daniel 8:16",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "The 'angel of the Lord' standing by the altar is, per 1:19, Gabriel, the interpreting angel of Daniel 8:16. Even before he is named, the apocalyptic visitation at the sanctuary is shaped by Daniel; high distinctiveness given Gabriel appears only in Daniel within the canon."
+      },
+      {
+        "source": "Daniel 8:17",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Zacharias was troubled... and fear fell upon him' reproduces Daniel's terror before Gabriel, when Daniel 'was frightened and fell on my face' (Daniel 8:17; cf. 10:7-9). The stock prophetic dread-at-theophany reaction, paired with the Gabriel context, makes this a coherent Danielic allusion."
+      },
+      {
+        "source": "Judges 13:22",
+        "type": "echo",
+        "confidence": "low",
+        "contested": true,
+        "note": "Manoah's fear at the angel ('We will surely die, for we have seen God,' Judges 13:22) is a possible secondary model for Zechariah's terror, given the Samson type-scene already in play. Volume is low and the fear-reaction is conventional, so it is a faint contributing echo."
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:13-17",
+    "echoes": [
+      {
+        "source": "Genesis 17:19",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Your wife Elizabeth will bear you a son, and you shall call his name John' follows the exact pattern of God's promise to Abraham: 'Sarah your wife will bear you a son, and you shall call his name Isaac' (Genesis 17:19). The bear-a-son + name-the-child formula has high volume and anchors the Abrahamic frame."
+      },
+      {
+        "source": "Genesis 16:11",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Your request has been heard... you shall call his name John' replays the angelic birth-announcement to Hagar: 'the Lord has heard your affliction... you shall call his name Ishmael' (Genesis 16:11). The hearing + naming clause is the formal core of the OT annunciation type-scene."
+      },
+      {
+        "source": "Judges 13:3-5",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "The annunciation to a barren wife that she 'will conceive and bear a son' who is to abstain from wine and be set apart from the womb (Judges 13:3-5) is the closest single template for Gabriel's speech, supplying both the structure and the Nazirite content. High volume and tight thematic coherence."
+      },
+      {
+        "source": "1 Samuel 1:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Your request has been heard' echoes Eli's word to Hannah, 'the God of Israel grant your petition that you have asked' (1 Samuel 1:17), followed by the granting of the longed-for son. The petition-heard motif coheres with the Hannah substratum that drives the Magnificat."
+      },
+      {
+        "source": "Numbers 6:3",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'He will drink no wine nor strong drink' quotes the Nazirite statute of Numbers 6:3, which forbids wine and strong drink to the consecrated. The distinctive paired prohibition gives high volume and marks John as a lifelong Nazirite-like figure."
+      },
+      {
+        "source": "Judges 13:4-7",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "The combination 'no wine nor strong drink' plus consecration 'from his mother's womb' matches the angelic command about Samson, who is 'a Nazirite to God from the womb' and whose mother must avoid wine (Judges 13:4-7,14). Both diction and the from-the-womb consecration recur, giving high volume."
+      },
+      {
+        "source": "1 Samuel 1:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "Hannah's vow that no razor and (in the LXX) no wine or strong drink shall touch her son (1 Samuel 1:11) supplies a third Nazirite-from-birth model behind John. Recurrence of the Samuel narrative across the chapter raises an otherwise medium-volume link."
+      },
+      {
+        "source": "Jeremiah 1:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Filled with the Holy Spirit, even from his mother's womb' echoes prophetic pre-natal consecration: 'Before I formed you in the womb I knew you... I appointed you a prophet' (Jeremiah 1:5). Coheres with John's prophetic calling (1:76) and the from-the-womb motif."
+      },
+      {
+        "source": "Isaiah 49:1",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "The Servant 'called from the womb' and named while in his mother's body (Isaiah 49:1,5) provides a further model for John's womb-consecration and prophetic vocation. Thematic coherence is good; verbal overlap is partial, so it reads as a supporting echo."
+      },
+      {
+        "source": "Malachi 4:5-6",
+        "type": "quotation",
+        "confidence": "high",
+        "contested": false,
+        "note": "'In the spirit and power of Elijah, to turn the hearts of the fathers to the children' quotes Malachi 4:5-6 (3:23-24 MT), the promise that Elijah will come before the Day of the Lord 'to turn the hearts of fathers to children.' Near-verbatim citation; the highest-volume OT link in the John oracle."
+      },
+      {
+        "source": "Malachi 3:1",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'To prepare a people prepared for the Lord' and John's going 'before him' draw on Malachi 3:1, the messenger sent to prepare the way before the Lord, fused with the Elijah promise of 4:5-6. Recurrence (cited again at 1:76) confirms Malachi as a structural source."
+      },
+      {
+        "source": "Sirach 48:10",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "Sirach 48:10 already interprets the Elijah promise as being 'to turn the heart of the father to the son' and to restore Israel, mediating Malachi for Second-Temple readers. The verbal closeness to Luke's 'turn the hearts of the fathers to the children' and the eschatological framing make this a strong deuterocanonical allusion."
+      },
+      {
+        "source": "Malachi 2:6",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'He will turn many of the children of Israel to the Lord their God' echoes the ideal of Levi, who 'turned many from iniquity' (Malachi 2:6). The turning-many language reinforces the Malachi matrix already supplying the Elijah oracle."
+      },
+      {
+        "source": "Isaiah 40:3",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": true,
+        "note": "'To prepare a people prepared for the Lord' anticipates the Baptist's later identification with Isaiah 40:3, 'prepare the way of the Lord.' Here the preparation language is more Malachian, so Isaiah 40 is a secondary, partly anticipatory echo."
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:18-20",
+    "echoes": [
+      {
+        "source": "Genesis 15:8",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "Zechariah's 'How can I be sure of this?' replays Abraham's request for a sign, 'O Lord God, how am I to know that I shall possess it?' (Genesis 15:8). The doubting-question to a divine promise of offspring is distinctive and continues the Abraham typology, here in its faltering aspect."
+      },
+      {
+        "source": "Genesis 17:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'For I am an old man, and my wife is well advanced in years' mirrors Abraham's incredulous self-talk: 'Shall a child be born to a man who is a hundred years old?' (Genesis 17:17; cf. 18:11-12). The old-age objection to a birth promise is a coherent Abrahamic echo."
+      },
+      {
+        "source": "Daniel 8:16",
+        "type": "quotation",
+        "confidence": "high",
+        "contested": false,
+        "note": "'I am Gabriel' explicitly names the angel of Daniel 8:16 and 9:21, the only OT figure to bear this name. The self-identification is effectively a citation of the Danielic character, confirming the apocalyptic frame retroactively over the whole scene."
+      },
+      {
+        "source": "Daniel 9:21",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "Gabriel 'who stands in the presence of God' and is 'sent' recalls Daniel 9:21, where Gabriel is dispatched to Daniel at prayer; the sent-to-explain function matches. Recurrence with 1:11,19 makes Daniel 9 a sustained source."
+      },
+      {
+        "source": "Tobit 12:15",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'I am Gabriel, who stands in the presence of God' closely matches Raphael's self-disclosure: 'I am Raphael, one of the seven holy angels who stand and enter before the glory of the Lord' (Tobit 12:15). The standing-in-God's-presence angelology is distinctively Second-Temple and deuterocanonical."
+      },
+      {
+        "source": "Daniel 10:15",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "Zechariah's imposed muteness recalls Daniel's loss of speech before the angelic messenger: 'I turned my face toward the ground and was mute' (Daniel 10:15). The angel-induced dumbness coheres with the Danielic patterning, though Luke's silence is also punitive."
+      },
+      {
+        "source": "Ezekiel 3:26",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": true,
+        "note": "'You will be silent and not able to speak' echoes the Lord's making Ezekiel's tongue cleave so that he is mute until God opens his mouth (Ezekiel 3:26; cf. 24:27, 33:22). The divinely sealed-then-opened mouth (fulfilled at 1:64) is the structural parallel; verbal overlap is moderate."
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:21-25",
+    "echoes": [
+      {
+        "source": "Genesis 30:23",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "Elizabeth's 'the Lord... has taken away my reproach among men' quotes Rachel's words at Joseph's birth: 'God has taken away my reproach' (Genesis 30:23). The distinctive reproach-removed formula upon conceiving after barrenness gives high volume and ties Elizabeth to the matriarchs."
+      },
+      {
+        "source": "1 Samuel 1:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "Hannah's plea that God 'look on the affliction of your handmaid' and grant a child (1 Samuel 1:11) stands behind Elizabeth's sense that 'the Lord... looked at me' to remove her shame. The look-upon-the-barren motif coheres with the pervasive Hannah substratum."
+      },
+      {
+        "source": "Isaiah 54:1-4",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": true,
+        "note": "Isaiah 54 promises the barren woman that she will 'forget the shame... and the reproach... remember no more' (Isaiah 54:1,4). Elizabeth's reproach-removal participates in this prophetic reversal of barren-Israel's disgrace; the link is thematic and figural rather than verbatim."
+      }
+    ]
+  },
+  {
+    "id": "1.7",
+    "ch": 1,
+    "ref": "1:26-33",
+    "echoes": [
+      {
+        "source": "Daniel 9:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The angel Gabriel was sent from God' continues the Danielic Gabriel motif (Daniel 8:16; 9:21), where the same angel is 'sent' to deliver revelation. Recurrence within the chapter, more than fresh volume here, secures the allusion."
+      },
+      {
+        "source": "Isaiah 7:14",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "A 'virgin' (parthenos) of the house of David who will 'conceive... and give birth to a son' and name him directly evokes Isaiah 7:13-14 (LXX), 'the virgin shall conceive and bear a son.' The house-of-David setting plus virgin + conceive + bear + name a son yields high volume and is the controlling messianic citation."
+      },
+      {
+        "source": "Zephaniah 3:14-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Rejoice (chaire)... the Lord is with you' echoes the address to Daughter Zion: 'Rejoice, O Daughter of Zion... the Lord your God is in your midst' (Zephaniah 3:14-17 LXX). The greeting-rejoice + indwelling-Lord pairing casts Mary figurally as Zion; volume is moderate but coherence strong."
+      },
+      {
+        "source": "Zechariah 9:9",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": true,
+        "note": "'Rejoice greatly, O Daughter of Zion' announcing the coming king (Zechariah 9:9) is a second Daughter-Zion 'rejoice' source standing behind Gabriel's chaire. The royal-advent context coheres with the Davidic throne promise that follows; the link competes with Zephaniah 3 and is thus contested."
+      },
+      {
+        "source": "Judges 6:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The Lord is with you' reproduces the angel's salutation to Gideon, 'The Lord is with you, mighty man of valor' (Judges 6:12), within a near-identical commissioning-of-a-deliverer scene including a 'how can this be' objection. The shared formula and scene-type give a coherent allusion."
+      },
+      {
+        "source": "Judges 5:24",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Blessed are you among women' quotes the blessing of Jael, 'Most blessed of women be Jael' (Judges 5:24). The exact superlative-blessing-of-a-woman formula gives high volume; it recurs on Elizabeth's lips at 1:42."
+      },
+      {
+        "source": "Judith 13:18",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "Uzziah blesses Judith, 'Blessed are you... above all women on earth' (Judith 13:18), the closest verbal and contextual parallel to the angel/Elizabeth's beatitude over Mary. A deuterocanonical text celebrating a woman through whom God delivers Israel; high distinctiveness."
+      },
+      {
+        "source": "Genesis 6:8",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'You have found favor with God' uses the Septuagintal idiom of Noah, who 'found favor in the eyes of the Lord' (Genesis 6:8; cf. Exodus 33:17 of Moses). The found-favor formula marks Mary as a chosen recipient of divine grace in the line of Israel's elect."
+      },
+      {
+        "source": "2 Samuel 7:12-16",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'The Lord God will give him the throne of his father David, and he will reign... forever. There will be no end to his Kingdom' is built on the Davidic covenant of 2 Samuel 7:12-16, where God establishes David's offspring and 'his throne forever.' High volume (throne, forever, kingdom, father David) and the foundational role of Nathan's oracle make this the primary source."
+      },
+      {
+        "source": "Isaiah 9:6-7",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'The throne of his father David... no end to his Kingdom' closely echoes Isaiah 9:7, 'of the increase of his government and of peace there will be no end, on the throne of David.' The 'no end' phrase is distinctive and reinforces the messianic-throne reading alongside 2 Samuel 7."
+      },
+      {
+        "source": "Psalm 89:3-4",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "The everlasting Davidic throne is celebrated in Psalm 89:3-4,29,36, 'I will establish your offspring forever, and build your throne for all generations.' Recurrence of the throne-forever covenant language across this Psalm supports the high-volume Davidic cluster here."
+      },
+      {
+        "source": "Daniel 7:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'There will be no end to his Kingdom' resonates with the Son of Man's 'everlasting dominion which shall not pass away, and his kingdom one that shall not be destroyed' (Daniel 7:14). The everlasting, indestructible kingdom motif coheres with the Danielic frame already established by Gabriel."
+      },
+      {
+        "source": "Micah 4:7",
+        "type": "echo",
+        "confidence": "low",
+        "contested": true,
+        "note": "'He will reign over the house of Jacob forever' faintly echoes 'the Lord will reign over them in Mount Zion... forever' (Micah 4:7). The everlasting-reign-over-restored-Israel idea coheres, but the diction is generic and the Davidic sources above are nearer, so this is a low, contested echo."
+      }
+    ]
+  },
+  {
+    "id": "1.8",
+    "ch": 1,
+    "ref": "1:34-38",
+    "echoes": [
+      {
+        "source": "Exodus 40:35",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'The power of the Most High will overshadow (episkiasei) you' uses the verb for the glory-cloud that 'overshadowed' the tent of meeting when the glory of the Lord filled the tabernacle (Exodus 40:35 LXX). The distinctive Shekinah-overshadowing diction frames Mary as the dwelling place of God's presence; high volume."
+      },
+      {
+        "source": "Genesis 1:2",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": true,
+        "note": "'The Holy Spirit will come on you' may echo the Spirit of God hovering over the waters at creation (Genesis 1:2), framing the conception as a new creative act. Thematic coherence is suggestive but verbal overlap is thin, so the link is a contested creation-echo."
+      },
+      {
+        "source": "2 Samuel 7:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The holy one who is born from you will be called the Son of God' draws on the Davidic adoption formula, 'I will be his father, and he shall be my son' (2 Samuel 7:14). Coheres tightly with the throne-of-David promise of 1:32-33, extending the Nathan-oracle source."
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": true,
+        "note": "'Son of God' applied to the messianic king recalls 'You are my Son; today I have begotten you' (Psalm 2:7). The royal son-of-God theme coheres, but the title is mediated through 2 Samuel 7 and is conventional, so Psalm 2 is a contested secondary echo."
+      },
+      {
+        "source": "Genesis 18:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Elizabeth your relative also has conceived a son in her old age... who was called barren' replays the Sarah situation of Genesis 18:11 and the impossible-birth promise. Recurrence of the aged-barren-woman motif (cf. 1:7) sets up the 'nothing impossible' declaration that follows."
+      },
+      {
+        "source": "Genesis 18:14",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'For everything spoken by God is possible' answers the rhetorical question to Abraham and Sarah, 'Is anything too hard (impossible, LXX) for the Lord?' (Genesis 18:14), in the very context of a miraculous conception by an old, barren woman. The verbal and situational match is high-volume and pointed."
+      },
+      {
+        "source": "Jeremiah 32:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Nothing will be impossible with God' also echoes Jeremiah 32:17,27, 'Ah, Lord God!... nothing is too hard for you... is anything too hard for me?' The omnipotence formula reinforces the Genesis 18 source with a prophetic doublet."
+      },
+      {
+        "source": "Job 42:2",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "Job's confession, 'I know that you can do all things, and that no purpose of yours can be thwarted' (Job 42:2 LXX), is a further scriptural articulation of the impossibility-with-God theme Gabriel invokes. A coherent supporting echo of divine omnipotence."
+      },
+      {
+        "source": "1 Samuel 1:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Behold, the handmaid (doule) of the Lord' takes up Hannah's self-designation as 'your handmaid' before the Lord (1 Samuel 1:11). The humble servant-woman posture coheres with the Hannah/Magnificat substratum that crystallizes a few verses later."
+      }
+    ]
+  },
+  {
+    "id": "1.9",
+    "ch": 1,
+    "ref": "1:39-45",
+    "echoes": [
+      {
+        "source": "Genesis 25:22",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'The baby leaped in her womb' recalls the children who 'struggled (leaped) together within' Rebekah (Genesis 25:22 LXX), the one OT scene of pre-natal movement bearing prophetic significance about the elder/younger. The distinctive womb-movement motif gives high volume."
+      },
+      {
+        "source": "Deuteronomy 28:4",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Blessed is the fruit of your womb' quotes the covenant blessing of Deuteronomy 28:4, 'Blessed shall be the fruit of your womb.' The exact fruit-of-the-womb-blessing formula gives high volume and casts Mary's child as the supreme covenant blessing."
+      },
+      {
+        "source": "Judges 5:24",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Blessed are you among women' repeats the Jael blessing of Judges 5:24, now on Elizabeth's lips. Recurrence (cf. 1:28) confirms this as a deliberate, sustained scriptural beatitude pattern."
+      },
+      {
+        "source": "Judith 13:18",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "Elizabeth's acclamation matches Uzziah's blessing of Judith, 'Blessed are you above all women on earth' (Judith 13:18), the nearest verbal parallel for the woman-through-whom-God-delivers beatitude. A strong deuterocanonical recurrence."
+      },
+      {
+        "source": "2 Samuel 6:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": true,
+        "note": "'Why am I so favored, that the mother of my Lord should come to me?' echoes David's awe before the ark: 'How can the ark of the Lord come to me?' (2 Samuel 6:9). With Mary's three-month stay (1:56) paralleling the ark's three months (2 Samuel 6:11), Luke figurally presents Mary as the ark of the new covenant; the reading is widely held but disputed."
+      },
+      {
+        "source": "2 Samuel 6:14-16",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": true,
+        "note": "'The baby leaped in my womb for joy' echoes David's leaping and dancing for joy before the ark (2 Samuel 6:14-16). The cultic joy before the bearer of the Lord's presence supports the Mary-as-ark typology of the pericope; the link is figural and contested."
+      }
+    ]
+  },
+  {
+    "id": "1.10",
+    "ch": 1,
+    "ref": "1:46-50",
+    "echoes": [
+      {
+        "source": "1 Samuel 2:1",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "The Magnificat's opening, 'My soul magnifies the Lord, my spirit has rejoiced in God my Savior,' is modeled directly on Hannah's Song: 'My heart exults in the Lord... I rejoice in your salvation' (1 Samuel 2:1). Hannah's hymn is the structural template for the whole canticle; high volume and strong recurrence."
+      },
+      {
+        "source": "Habakkuk 3:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'My spirit has rejoiced in God my Savior' closely matches 'I will rejoice in the Lord; I will take joy in the God of my salvation' (Habakkuk 3:18 LXX). The rejoice-in-God-my-savior formula is distinctive and reinforces the exultant-prophetic-hymn register."
+      },
+      {
+        "source": "Psalm 35:9",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'My soul shall rejoice in the Lord, exulting in his salvation' (Psalm 35:9) supplies the soul-rejoices-in-salvation diction underlying 1:47. A coherent psalmic echo within the cluster of rejoicing-in-God's-deliverance texts."
+      },
+      {
+        "source": "Isaiah 61:10",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'My soul shall exult in my God' (Isaiah 61:10) within the Spirit-anointed-good-news passage contributes to the rejoicing diction of the canticle's opening. Thematic coherence with eschatological salvation supports the echo."
+      },
+      {
+        "source": "1 Samuel 1:11",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'He has looked at the humble state (tapeinosin) of his handmaid' quotes Hannah's prayer that God would 'look on the affliction (tapeinosin) of your handmaid' (1 Samuel 1:11 LXX). The shared rare-noun + handmaid combination is high-volume and ties the canticle's singer to Hannah."
+      },
+      {
+        "source": "Genesis 29:32",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'He has looked at the humble state' also echoes Leah's 'the Lord has looked upon my affliction' at Reuben's birth (Genesis 29:32 LXX). The look-on-affliction-of-the-lowly motif coheres with the matriarchal reversal theme; a supporting echo to the Hannah primary."
+      },
+      {
+        "source": "Genesis 30:13",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'From now on, all generations will call me blessed' takes up Leah's 'the women will call me blessed' (Genesis 30:13 LXX), spoken at the birth of a son. The call-me-blessed formula is distinctive matriarchal speech, here universalized to all generations."
+      },
+      {
+        "source": "Psalm 111:9",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Holy is his name' quotes Psalm 111:9, 'holy and awesome is his name' (cf. Psalm 99:3). The fixed liturgical predication of the divine name gives high volume; Psalm 111 also feeds the Benedictus (1:68), showing recurrence."
+      },
+      {
+        "source": "Psalm 126:2-3",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'He who is mighty has done great things for me' echoes 'The Lord has done great things for us; we are glad' (Psalm 126:2-3). The great-things-the-Lord-has-done formula is a coherent psalmic source for the canticle's praise."
+      },
+      {
+        "source": "Deuteronomy 10:21",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'He... has done great things for me' also recalls 'He is your praise; he is your God, who has done for you these great and awesome things' (Deuteronomy 10:21). A further great-deeds source coherent with the doxological tone."
+      },
+      {
+        "source": "Psalm 103:17",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'His mercy is for generations of generations on those who fear him' quotes Psalm 103:17, 'the steadfast love of the Lord is from everlasting to everlasting on those who fear him.' The mercy + on-those-who-fear-him + perpetual-generations combination is high-volume and distinctive."
+      },
+      {
+        "source": "Exodus 20:6",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'His mercy is for generations... on those who fear him' echoes the Decalogue's promise of steadfast love 'to thousands of those who love me and keep my commandments' (Exodus 20:6; Deuteronomy 5:10). The covenant mercy-to-generations formula coheres with Psalm 103."
+      }
+    ]
+  },
+  {
+    "id": "1.11",
+    "ch": 1,
+    "ref": "1:51-56",
+    "echoes": [
+      {
+        "source": "Psalm 89:10",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'He has shown strength with his arm. He has scattered the proud' echoes Psalm 89:10, 'you scattered your enemies with your mighty arm.' The arm + scatter combination is distinctive, and Psalm 89 (Davidic covenant) coheres with the chapter's throne themes; high volume."
+      },
+      {
+        "source": "1 Samuel 2:3-4",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'He has scattered the proud in the imagination of their hearts' draws on Hannah's warning, 'Talk no more so very proudly... the bows of the mighty are broken' (1 Samuel 2:3-4). The humbling-of-the-arrogant motif is structurally central to Hannah's Song, the canticle's master text."
+      },
+      {
+        "source": "1 Samuel 2:7-8",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'He has put down princes from their thrones, and has exalted the lowly' directly reworks Hannah: 'The Lord makes poor and makes rich; he brings low and he exalts. He raises up the poor from the dust... to make them sit with princes' (1 Samuel 2:7-8). High volume; the great-reversal heart of the Magnificat."
+      },
+      {
+        "source": "1 Samuel 2:5",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'He has filled the hungry with good things. He has sent the rich away empty' reworks Hannah's 'those who were full have hired themselves out for bread, but the hungry have ceased to hunger' (1 Samuel 2:5). The hungry-filled / sated-emptied antithesis is high-volume and distinctive."
+      },
+      {
+        "source": "Psalm 107:9",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'He has filled the hungry with good things' quotes Psalm 107:9, 'he satisfies the longing soul, and the hungry soul he fills with good things.' Near-verbatim; a strong psalmic doublet to the Hannah hunger-reversal."
+      },
+      {
+        "source": "Job 12:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'He has put down princes from their thrones' echoes Job 12:19, 'he leads priests away stripped and overthrows the mighty.' Job 12's catalogue of God's reversal of the powerful (12:14-25) coheres with the Magnificat's social inversion; a focused supporting allusion."
+      },
+      {
+        "source": "Sirach 10:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'He has put down princes from their thrones' closely matches Sirach 10:14, 'The Lord has cast down the thrones of rulers, and has seated the lowly in their place.' A deuterocanonical near-parallel with the throne-down / lowly-up structure; strong coherence, moderate independent volume."
+      },
+      {
+        "source": "Psalm 113:7-8",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Has exalted the lowly' reflects Psalm 113:7-8, 'He raises the poor from the dust... to make them sit with princes.' Psalm 113 (a Hallel psalm) shares both the lifting-the-lowly motif and its own debt to Hannah; high volume within the reversal cluster."
+      },
+      {
+        "source": "Ezekiel 21:26",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Put down princes from their thrones... exalted the lowly' echoes Ezekiel 21:26, 'exalt that which is low, and abase that which is high.' The abase-the-high / exalt-the-low formula coheres with the inversion theme as a prophetic supporting echo."
+      },
+      {
+        "source": "Isaiah 41:8-9",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'He has given help to Israel, his servant' draws on Isaiah 41:8-9, 'But you, Israel, my servant... whom I have taken... I have chosen you and not cast you off.' The Israel-my-servant designation plus God's helping/upholding (Isaiah 41:10) gives high volume for the canticle's turn to corporate Israel."
+      },
+      {
+        "source": "Psalm 98:3",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'That he might remember mercy' quotes Psalm 98:3, 'He has remembered his steadfast love and faithfulness to the house of Israel.' The remembered-mercy-to-Israel formula is distinctive and rounds off the canticle's covenant-faithfulness theme."
+      },
+      {
+        "source": "Micah 7:20",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'As he spoke to our fathers, to Abraham and his seed forever' echoes Micah 7:20, 'You will show faithfulness to Jacob and steadfast love to Abraham, as you have sworn to our fathers from the days of old.' The mercy-to-Abraham-as-sworn-to-the-fathers structure is high-volume and concludes both hymns (cf. 1:73)."
+      },
+      {
+        "source": "Genesis 17:7",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'To Abraham and his seed forever' takes up the Abrahamic covenant, 'to be God to you and to your offspring after you... an everlasting covenant' (Genesis 17:7; cf. 13:15). The to-Abraham-and-his-seed-forever formula is distinctive covenant language; high volume."
+      },
+      {
+        "source": "Genesis 22:17",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'And his seed forever' also recalls the oath at the Aqedah, 'I will surely multiply your offspring' (Genesis 22:17), the same sworn promise the Benedictus names explicitly at 1:73. A coherent supporting echo binding Magnificat and Benedictus."
+      },
+      {
+        "source": "2 Samuel 6:11",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": true,
+        "note": "'Mary stayed with her about three months' parallels the ark of God remaining 'in the house of Obed-edom... three months' (2 Samuel 6:11). Combined with the ark allusions of 1:43-44, the three-month notice supports the Mary-as-ark typology; figural and contested."
+      }
+    ]
+  },
+  {
+    "id": "1.12",
+    "ch": 1,
+    "ref": "1:57-66",
+    "echoes": [
+      {
+        "source": "Genesis 25:24",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The time that Elizabeth should give birth was fulfilled, and she gave birth to a son' echoes 'When her days to give birth were fulfilled' (Genesis 25:24, Rebekah; cf. 21:1-2, Sarah). The fulfilled-days birth formula situates John's birth within the patriarchal-birth pattern."
+      },
+      {
+        "source": "Genesis 21:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Her neighbors and her relatives... rejoiced with her' recalls Sarah at Isaac's birth, 'God has made laughter for me; everyone who hears will laugh (rejoice) with me' (Genesis 21:6). The community-rejoices-with-the-mother motif coheres with the Isaac typology running through the John narrative."
+      },
+      {
+        "source": "Ruth 4:14-17",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "The neighbor-women's joy and involvement in acclaiming and naming the child echoes Ruth 4:14-17, where 'the women of the neighborhood gave him a name.' The communal naming scene is a coherent supporting echo for 1:58-61."
+      },
+      {
+        "source": "Genesis 17:12",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'On the eighth day, they came to circumcise the child' enacts the Abrahamic covenant requirement, 'He who is eight days old among you shall be circumcised' (Genesis 17:12). The precise eighth-day specification gives high volume and roots John in covenant fidelity."
+      },
+      {
+        "source": "Leviticus 12:3",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "The eighth-day circumcision also fulfills the Levitical statute, 'on the eighth day the flesh of his foreskin shall be circumcised' (Leviticus 12:3). High-volume legal citation reinforcing the family's Torah observance."
+      },
+      {
+        "source": "Judges 13:12",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'What then will this child be?' echoes Manoah's question about Samson, 'What is to be the child's rule of life, and what is he to do?' (Judges 13:12). The wonder-about-the-destined-child question coheres with the Samson birth type-scene already shaping John."
+      },
+      {
+        "source": "1 Kings 18:46",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The hand of the Lord was with him' uses the idiom for prophetic empowerment, e.g. 'the hand of the Lord was on Elijah' (1 Kings 18:46; cf. Ezekiel 1:3; 3:14). Given the explicit Elijah typology of 1:17, the hand-of-the-Lord notice fittingly marks John's prophetic endowment."
+      }
+    ]
+  },
+  {
+    "id": "1.13",
+    "ch": 1,
+    "ref": "1:67-75",
+    "echoes": [
+      {
+        "source": "Psalm 41:13",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Blessed be the Lord, the God of Israel' quotes the berakah formula of Psalm 41:13, 'Blessed be the Lord, the God of Israel, from everlasting to everlasting' (cf. 72:18; 106:48). The fixed liturgical benediction opening gives high volume; it is the canonical doxology closing Books of the Psalter."
+      },
+      {
+        "source": "Psalm 106:48",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Blessed be the Lord, the God of Israel' equally matches Psalm 106:48; Psalm 106 also supplies 1:71-72 (saved from enemies, remembered covenant), so its presence here strengthens recurrence across the Benedictus."
+      },
+      {
+        "source": "Psalm 111:9",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'He has visited and worked redemption for his people' quotes Psalm 111:9, 'He sent redemption to his people; he has commanded his covenant forever.' The redemption-to-his-people + everlasting-covenant pairing (cf. 1:72) gives high volume; Psalm 111 also undergirds 'holy is his name' at 1:49."
+      },
+      {
+        "source": "Exodus 4:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'He has visited (epeskepsato)... his people' echoes the Exodus visitation, 'the Lord had visited the people of Israel' to deliver them (Exodus 4:31; cf. Genesis 50:24-25). The divine-visitation-for-rescue idiom frames the redemption as a new exodus."
+      },
+      {
+        "source": "Psalm 132:17",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Raised up a horn of salvation for us in the house of his servant David' draws on Psalm 132:17, 'There I will make a horn to sprout for David.' The horn + David-my-servant combination is distinctive royal-messianic imagery; high volume."
+      },
+      {
+        "source": "1 Samuel 2:10",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "The 'horn of salvation' echoes Hannah's closing line, 'he will... exalt the horn of his anointed' (1 Samuel 2:10). The horn-of-the-anointed image binds the Benedictus to Hannah's Song as the Magnificat was bound; strong recurrence."
+      },
+      {
+        "source": "Psalm 18:2",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Horn of salvation' also matches David's 'the horn of my salvation' (Psalm 18:2; 2 Samuel 22:3). A coherent Davidic echo within the horn cluster, fitting the in-the-house-of-David context."
+      },
+      {
+        "source": "Psalm 106:10",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Salvation from our enemies, and from the hand of all who hate us' quotes Psalm 106:10, 'he saved them from the hand of the foe and redeemed them from the power of the enemy.' The saved-from-the-hand-of-haters/enemies formula is high-volume and new-exodus in tone."
+      },
+      {
+        "source": "Psalm 18:17",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Salvation from our enemies' echoes 'He delivered me from my strong enemy, from those who hated me' (Psalm 18:17; 2 Samuel 22:18), a Davidic deliverance text coherent with the horn-of-David context."
+      },
+      {
+        "source": "Leviticus 26:42",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'To remember his holy covenant' echoes Leviticus 26:42, 'then I will remember my covenant with Jacob... Isaac... Abraham.' The God-remembers-his-covenant-with-the-patriarchs formula gives high volume and leads directly into the Abraham oath of 1:73."
+      },
+      {
+        "source": "Psalm 106:45",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'To remember his holy covenant' also quotes Psalm 106:45, 'For their sake he remembered his covenant.' Combined with 1:71's debt to Psalm 106:10, this confirms Psalm 106 as a sustained source of the Benedictus."
+      },
+      {
+        "source": "Exodus 2:24",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'To remember his holy covenant' recalls 'God remembered his covenant with Abraham, with Isaac, and with Jacob' at the Exodus (Exodus 2:24). The remembered-covenant-precipitating-deliverance motif coheres with the new-exodus framing."
+      },
+      {
+        "source": "Genesis 22:16-17",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'The oath which he spoke to Abraham, our father' names the sworn promise of Genesis 22:16-17, 'By myself I have sworn... I will surely bless you and multiply your offspring.' The oath-to-Abraham reference is distinctive and high-volume, fulfilling the Magnificat's 'to Abraham and his seed forever' (1:55)."
+      },
+      {
+        "source": "Psalm 105:9",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'The oath which he spoke to Abraham' echoes Psalm 105:9, 'the covenant he made with Abraham, his sworn promise to Isaac.' Psalm 105 rehearses covenant + oath + remembering (105:8-9), tightly coherent with 1:72-73; high volume."
+      },
+      {
+        "source": "Micah 7:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The oath which he spoke to Abraham, our father' recalls Micah 7:20, the steadfast love sworn 'to Abraham... to our fathers from the days of old.' Recurrence with 1:55 (which leans on the same verse) reinforces the Micah source across both canticles."
+      },
+      {
+        "source": "Jeremiah 11:5",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The oath which he spoke to Abraham' echoes Jeremiah 11:5, 'that I may confirm the oath that I swore to your fathers.' The confirm-the-oath-to-the-fathers diction coheres with the covenant-remembrance theme as a supporting echo."
+      },
+      {
+        "source": "Joshua 24:14",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'That we... should serve him without fear, in holiness and righteousness' echoes the covenant summons to 'serve the Lord in sincerity and in faithfulness' (Joshua 24:14). The serve-God-faithfully ideal coheres with the exodus-deliverance-unto-worship logic of 1:74-75."
+      },
+      {
+        "source": "Wisdom 9:3",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": true,
+        "note": "'In holiness and righteousness before him' closely matches Wisdom 9:3, that humankind should 'rule... in holiness and righteousness.' The paired virtue-formula (hosiotes + dikaiosyne) is distinctive and Second-Temple; the link is a strong-coherence but contested deuterocanonical echo."
+      },
+      {
+        "source": "Exodus 4:23",
+        "type": "echo",
+        "confidence": "low",
+        "contested": true,
+        "note": "'Delivered out of the hand of our enemies, should serve him' reflects the exodus pattern 'let my son go that he may serve me' (Exodus 4:23; 8:1), where rescue is for the purpose of worship. The deliverance-unto-service logic coheres, but the diction is generic, so it is a faint echo."
+      }
+    ]
+  },
+  {
+    "id": "1.14",
+    "ch": 1,
+    "ref": "1:76-80",
+    "echoes": [
+      {
+        "source": "Malachi 3:1",
+        "type": "quotation",
+        "confidence": "high",
+        "contested": false,
+        "note": "'You will go before the face of the Lord to prepare his ways' cites Malachi 3:1, 'Behold, I send my messenger, and he will prepare the way before me.' Near-verbatim go-before + prepare-the-way language; recurrence with 1:17 confirms Malachi as the defining text for the Baptist's role."
+      },
+      {
+        "source": "Isaiah 40:3",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'To prepare his ways' draws on Isaiah 40:3, 'prepare the way of the Lord, make straight... a highway,' the prophecy Luke later applies explicitly to John (Luke 3:4). High volume; the prepare-the-way-of-the-Lord motif fuses with Malachi 3:1 here."
+      },
+      {
+        "source": "Jeremiah 31:34",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'To give knowledge of salvation to his people by the remission of their sins' echoes the new covenant of Jeremiah 31:34, 'they shall all know me... I will forgive their iniquity.' The knowledge-of-God + forgiveness-of-sins pairing coheres with the covenant-fulfillment theme of the Benedictus."
+      },
+      {
+        "source": "Psalm 130:7-8",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'Salvation to his people by the remission of their sins' echoes Psalm 130:7-8, 'with him is plentiful redemption. And he will redeem Israel from all his iniquities.' The redeem-Israel-from-its-sins formula is a coherent psalmic source for the forgiveness clause."
+      },
+      {
+        "source": "Malachi 4:2",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'The dawn (anatole) from on high will visit us, to shine on those who sit in darkness' draws on Malachi 4:2, 'the sun of righteousness shall rise, with healing in its wings.' The rising-light-of-salvation imagery, distinctive and eschatological, gives high volume to the anatole metaphor."
+      },
+      {
+        "source": "Numbers 24:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The dawn from on high' plays on the messianic rising-star/sceptre of Numbers 24:17, 'a star shall come out of Jacob' (LXX 'a star shall rise/anatelei'). The anatole wordplay activates this Balaam oracle as a messianic-advent source; moderate volume via the LXX cognate."
+      },
+      {
+        "source": "Zechariah 3:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "The noun anatole ('dawn'/'branch') evokes 'my servant the Branch' (anatole, Zechariah 3:8; 6:12), the Davidic shoot. The double meaning of anatole lets Luke fuse dawn and Davidic-branch messianism; a coherent allusion via shared LXX vocabulary."
+      },
+      {
+        "source": "Zechariah 6:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The dawn (anatole) from on high' specifically echoes Zechariah 6:12, 'Behold, the man whose name is the Branch (anatole)... he shall build the temple of the Lord.' The exact LXX noun for the Davidic Branch strengthens the messianic reading; moderate volume."
+      },
+      {
+        "source": "Jeremiah 23:5",
+        "type": "echo",
+        "confidence": "low",
+        "contested": true,
+        "note": "'The dawn from on high' may also evoke the 'righteous Branch' raised up for David in Jeremiah 23:5 (LXX anatole at 23:5/33:15). The Davidic-branch coherence is good but the link is mediated through Zechariah's clearer anatole usage, so it is a faint contested echo."
+      },
+      {
+        "source": "Isaiah 9:2",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'To shine on those who sit in darkness and the shadow of death' draws on Isaiah 9:2, 'the people who walked in darkness have seen a great light; those who dwelt in the land of deep darkness (shadow of death), on them has light shined.' Distinctive darkness/shadow-of-death + light combination; high volume."
+      },
+      {
+        "source": "Psalm 107:10",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'Those who sit in darkness and the shadow of death' quotes Psalm 107:10, 'some sat in darkness and in the shadow of death,' whom God then delivers (107:14). The verbatim sit-in-darkness-and-shadow-of-death phrase gives high volume."
+      },
+      {
+        "source": "Isaiah 42:7",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'To shine on those who sit in darkness' echoes the Servant's commission 'to bring out... from the prison those who sit in darkness' (Isaiah 42:7). The Servant-as-light-to-those-in-darkness theme coheres with the salvation-dawn imagery."
+      },
+      {
+        "source": "Isaiah 58:8",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The dawn from on high will visit us, to shine' echoes Isaiah 58:8, 'then shall your light break forth like the dawn.' The light-breaks-forth-like-dawn imagery contributes to the anatole metaphor; a coherent supporting echo."
+      },
+      {
+        "source": "Isaiah 60:1-2",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'The dawn... will shine on those who sit in darkness' echoes Isaiah 60:1-2, 'Arise, shine, for your light has come... darkness shall cover the earth... but the Lord will arise upon you.' The light-rising-over-darkness imagery coheres with the eschatological-dawn theme."
+      },
+      {
+        "source": "Isaiah 59:8",
+        "type": "echo",
+        "confidence": "medium",
+        "contested": false,
+        "note": "'To guide our feet into the way of peace' echoes Isaiah 59:8, 'The way of peace they do not know,' the very condition the dawn now reverses. The way-of-peace diction is distinctive enough to register as a focused echo."
+      },
+      {
+        "source": "Psalm 25:9",
+        "type": "echo",
+        "confidence": "low",
+        "contested": true,
+        "note": "'To guide our feet into the way of peace' faintly echoes 'He leads the humble in what is right, and teaches the humble his way' (Psalm 25:9; cf. 25:4). The God-guides-in-the-way motif coheres, but the diction is generic, making this a low contested echo."
+      },
+      {
+        "source": "1 Samuel 2:21",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'The child was growing, and becoming strong in spirit' echoes the refrain about Samuel, 'the child Samuel grew... and grew in the presence of the Lord' (1 Samuel 2:21,26; 3:19). The child-grew summary, tied to the Hannah/Samuel matrix governing the chapter, gives high volume."
+      },
+      {
+        "source": "Judges 13:24-25",
+        "type": "allusion",
+        "confidence": "high",
+        "contested": false,
+        "note": "'The child was growing, and becoming strong in spirit' parallels 'the woman bore a son and called his name Samson. And the young man grew, and the Lord blessed him. And the Spirit of the Lord began to stir him' (Judges 13:24-25). The grew + Spirit notice closes the Samson-style annunciation cycle; high volume."
+      }
+    ]
+  }
+]

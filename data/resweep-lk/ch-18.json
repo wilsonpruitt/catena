@@ -1,0 +1,344 @@
+[
+  {
+    "id": "18.1",
+    "ch": 18,
+    "ref": "18:1-8",
+    "echoes": [
+      {
+        "source": "Sirach 35:14-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Sirach declares the Lord will not ignore the widow's cry nor the supplication of the oppressed, the prayer that pierces the clouds, and that he will not delay nor be patient (slow) until he repays vengeance. Luke fuses the widow figure, the day-and-night crying, the question of God's delay, and the swift vindication, making this the densest Second-Temple background for the parable. High volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 22:22-24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Torah forbids afflicting any widow or orphan, promising that if they cry out God will surely hear and his wrath will burn. This grounds the parable's premise that God vindicates the crying widow, drawing on the covenantal cry-and-hear pattern. Strong availability and coherence with the elect 'crying out day and night.'",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 24:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Deuteronomy commands not to pervert the justice due to the sojourner or fatherless and not to take a widow's garment in pledge. The unjust judge embodies the legal failure this law targets, while God is the true judge who defends the widow's case ('Defend me from my adversary'). Coherent with the legal-vindication theme though more diffuse than Sirach.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Psalm 9-10 (one psalm in LXX) praises God as the one who judges the oppressed, does not forget the cry of the afflicted, and vindicates the poor against the wicked who say God does not see. The widow's plea for vindication and God's avenging of his elect echo this petitionary justice psalm. Medium volume; thematic rather than verbal.",
+        "contested": true,
+        "altSource": "Psalm 10"
+      },
+      {
+        "source": "Habakkuk 2:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Habakkuk promises the vision awaits its appointed time, hastens to the end, will not lie, and 'though it delay, wait for it.' The parable's tension between God's apparent patience/delay and his coming swift vindication, capped by 'when the Son of Man comes,' resonates with this eschatological delay-yet-certain motif. Coherent with Luke's vindication eschatology.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 88",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The lament of crying to God day and night ('day and night I cry before you') supplies the unceasing-prayer language of the elect crying out day and night. The verbal pairing is common in the Psalter but Psalm 88 is its sharpest instance. Low confidence given the formula's diffusion.",
+        "contested": true,
+        "altSource": "Psalm 22"
+      },
+      {
+        "source": "Genesis 18:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Abraham's appeal, 'Shall not the Judge of all the earth do justice?' frames God as the just Judge contrasted here with the unjust human judge. The figural contrast between God-the-just-Judge and the city judge who fears neither God nor man may stand behind Luke's argument a fortiori. Faint and thematic.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.2",
+    "ch": 18,
+    "ref": "18:9-14",
+    "echoes": [
+      {
+        "source": "Psalm 51",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The tax collector's 'God, be merciful to me, a sinner' closely tracks the penitent's plea in Psalm 51, 'Have mercy on me, O God... blot out my transgressions,' the paradigmatic prayer of the contrite sinner. The shared vocabulary of mercy plus self-identification as sinner and the broken-and-contrite heart God accepts make this a strong verbal-thematic echo. High volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 3:34",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The maxim 'God resists the proud but gives grace to the humble' underwrites the closing logion that the self-exalting are humbled and the self-humbling exalted. The Pharisee's proud self-display versus the tax collector's lowliness is precisely this proverb's contrast, and the LXX wording was a standard Second-Temple proof text. Strong coherence with Luke's reversal theme.",
+        "contested": false
+      },
+      {
+        "source": "Job 22:29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Job 22:29 states that when one is brought low he says 'lift up,' for God saves the lowly of eyes, matching both the exaltation-of-the-humble logion and the detail that the tax collector would not lift up his eyes. The eyes-lowered humility detail strengthens the link beyond the common reversal topos. Medium volume.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 21:26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Ezekiel's oracle 'exalt that which is low, and abase that which is high' supplies a prophetic form of the humbled/exalted reversal that concludes the parable. The phrasing is a recognized OT antecedent for Luke's reversal sayings (cf. also 1:52). Thematic rather than verbal-specific here.",
+        "contested": true,
+        "altSource": "Ezekiel 17:24"
+      },
+      {
+        "source": "Isaiah 58:3-7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Isaiah 58 rebukes those who fast yet oppress, contrasting empty self-righteous fasting with the fast God chooses (justice and mercy to the poor). The Pharisee's boast of fasting twice a week and tithing, set against the justified penitent, draws on this prophetic critique of cultic display divorced from righteousness. Coherent with Luke's piety-critique.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 57:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God dwells 'with him who is of a contrite and humble spirit, to revive the heart of the contrite,' which matches why the humbled tax collector goes home justified rather than the proud Pharisee. The contrite/humble spirit that God favors is the theological engine of the parable. Medium coherence.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 35:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Sirach insists that keeping the law and almsgiving outweigh mere sacrifice, a Second-Temple critique of confidence in cultic performance like the Pharisee's. Faint and contested, but coherent with the tithing/fasting boast being insufficient. Low volume.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 24:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The one who may ascend the temple hill is the clean of hands and pure of heart; the two men 'went up into the temple to pray' and only the contrite one is accepted. The temple-ascent and acceptability motif faintly underlies the scene. Low confidence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.3",
+    "ch": 18,
+    "ref": "18:15-17",
+    "echoes": [
+      {
+        "source": "Genesis 48:14-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The patriarch laying hands on and blessing children stands behind Jesus' touching and receiving the babies, a gesture of paternal blessing. The link is gestural and thematic rather than verbal. Low confidence given how common blessing-of-children scenes are.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 131",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalmist's posture of a weaned child, calm and humble, with eyes not raised too high, resonates with receiving the kingdom 'like a little child' as dependent lowliness. Coheres with the surrounding humility theme but verbally faint. Low confidence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.4",
+    "ch": 18,
+    "ref": "18:18-23",
+    "echoes": [
+      {
+        "source": "Exodus 20:12-16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus recites the Decalogue's second table—do not commit adultery, murder, steal, bear false witness, honor father and mother—quoting the commandments nearly verbatim. This is an explicit citation of the Ten Commandments as the answer to inheriting eternal life. Highest volume; direct quotation.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:16-20",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The Deuteronomic recension of the Decalogue is an equally valid source for the cited commandments; Luke's order (adultery, murder, steal, false witness, honor parents) reflects a known sequence in the LXX tradition shared by both Exodus and Deuteronomy. Direct quotation, high volume.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:4-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' 'No one is good except God alone' echoes the Shema's confession of the one God as the sole locus of goodness and uniqueness. The monotheistic premise reframes the ruler's 'Good Teacher.' Medium volume; theological rather than verbal-exact.",
+        "contested": true,
+        "altSource": "Psalm 118"
+      },
+      {
+        "source": "Leviticus 18:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Leviticus' promise that the one who keeps the commandments 'shall live by them' undergirds the link between commandment-keeping and inheriting eternal life that frames the dialogue. This was the standard Second-Temple text connecting Torah obedience and life. Coherent though not quoted.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'sell all and give to the poor' command and the implicit demand of total neighbor-love stand near Leviticus' love-of-neighbor, often paired with the Decalogue in Jesus' teaching. Faint here since Luke does not cite the love command in this pericope. Low confidence.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 24:3-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The question 'what shall I do to inherit eternal life' and the demand for clean conduct loosely recall the entrance-liturgy question 'Who shall ascend?' answered by moral purity. Thematic and faint. Low confidence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.5",
+    "ch": 18,
+    "ref": "18:24-30",
+    "echoes": [
+      {
+        "source": "Genesis 18:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The things impossible with men are possible with God' closely echoes the LORD's word to Sarah, 'Is anything too hard for the LORD?', the foundational OT statement of divine possibility against human impossibility. The salvation of the rich, humanly impossible, is staked on this Abrahamic promise of God's power. High coherence and recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Job 42:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Job's confession 'I know that you can do all things, and no purpose of yours can be thwarted' directly parallels 'what is impossible with men is possible with God.' This is a near-formulaic OT affirmation of divine omnipotence that Luke deploys at the climax of the rich-ruler episode. Strong volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 8:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'If it is marvelous (impossible) in the eyes of the remnant... should it also be marvelous in my eyes? says the LORD' contrasts human impossibility with divine ease, mirroring Luke's antithesis. The eschatological restoration context fits Luke's kingdom-entry theme. Medium volume.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 32:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jeremiah prays 'Ah Lord GOD... nothing is too hard for you,' another standard OT declaration of divine possibility echoed by 'possible with God.' Reinforces the recurrence criterion alongside Genesis 18:14 and Job 42:2. Thematic, near-formulaic.",
+        "contested": true,
+        "altSource": "Jeremiah 32:27"
+      },
+      {
+        "source": "Proverbs 11:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He who trusts in his riches will fall' coheres with the warning that the rich enter the kingdom only with difficulty. Wisdom's critique of riches stands generally behind the camel-and-needle saying. Low volume; no verbal contact.",
+        "contested": true,
+        "altSource": "Proverbs 11:4"
+      }
+    ]
+  },
+  {
+    "id": "18.6",
+    "ch": 18,
+    "ref": "18:31-34",
+    "echoes": [
+      {
+        "source": "Isaiah 53:3-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Everything written by the prophets about the Son of Man will be accomplished'—his being delivered up, mocked, shamefully treated, spit on, scourged, and killed—draws directly on the Suffering Servant who was despised, gave his back to smiters, and was led to slaughter. Luke programmatically reads the passion as the prophesied Servant fate. High coherence; the chief scriptural script for the passion.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 50:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Servant who gave his back to those who struck, his cheeks to those who pulled the beard, and hid not his face from shame and spitting matches Luke's specific list: mocked, shamefully treated, and spit upon. The spitting and shaming details are strikingly verbal. High volume.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The mocking and shameful abuse of the righteous sufferer in Psalm 22 ('all who see me mock me') belongs to the prophetic passion script Luke invokes; Luke's passion narrative later cites this psalm directly. Here it stands among 'all that is written.' Medium volume in this verse, high recurrence in Luke.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The title 'Son of Man,' the figure whose fate the prophets foretell, derives from Daniel's heavenly one given dominion; Luke pairs the suffering with this exalted title pointing toward vindication and resurrection on the third day. The Son of Man designation carries Danielic resonance even in a passion context. Medium coherence.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'On the third day he will raise us up' is widely held to inform the 'on the third day he will rise again' formula of the passion predictions. The third-day vindication motif is a recognized Second-Temple resurrection backdrop. Medium volume; contested verbal link.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 118:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The rejected stone made the cornerstone foreshadows the Son of Man rejected then vindicated/raised, part of the prophetic-fulfillment frame. Faint here since unquoted in this pericope. Low confidence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.7",
+    "ch": 18,
+    "ref": "18:35-43",
+    "echoes": [
+      {
+        "source": "2 Samuel 7:12-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The blind man's confession 'Jesus, Son of David, have mercy on me' invokes the Davidic covenant promise of an everlasting throne to David's offspring, identifying Jesus as the messianic Son of David. The title is the theological hinge of the healing, set en route to Jerusalem. High coherence with Luke's royal Christology.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 35:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Then the eyes of the blind shall be opened' is the signature prophecy of messianic restoration that Luke enacts in the Jericho healing, signaling the in-breaking kingdom. The opening of blind eyes is a programmatic Lukan fulfillment motif (cf. 4:18; 7:22). High volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The eyes of the blind shall see out of obscurity and darkness' adds to the Isaianic cluster promising sight to the blind in the day of restoration, reinforced by Luke's pattern of citing such oracles. Medium volume; part of a recurring Isaianic chain.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Servant is appointed 'to open the eyes that are blind,' tying the blind-man healing to the Servant's commission and complementing the passion's Servant Christology in the prior pericope. Coherent within Luke's Isaianic program. Medium confidence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 146:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD opens the eyes of the blind' attributes sight-giving to God, so that the crowd's praising God when the blind man sees enacts this psalm's confession of God who heals. Coheres with the closing 'glorifying God' and the Davidic-mercy frame. Medium volume.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 89",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Psalm 89's celebration of God's steadfast covenant mercy to David and his line reinforces the 'Son of David, have mercy' plea, linking Davidic sonship with covenant mercy (eleos). Thematic support for the title's mercy resonance. Low volume.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 61:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant anointed to proclaim 'recovery of sight to the blind' (so the LXX, taken up at Luke 4:18) faintly underlies the Jericho restoration as fulfillment of the Jubilee announcement. Faint here, strong in Luke overall. Low confidence.",
+        "contested": true
+      }
+    ]
+  }
+]

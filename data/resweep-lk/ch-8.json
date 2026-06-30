@@ -1,0 +1,362 @@
+[
+  {
+    "id": "8.1",
+    "ch": 8,
+    "ref": "8:1-3",
+    "echoes": [
+      {
+        "source": "2 Kings 4:8-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The women who 'served them from their possessions' faintly recall the wealthy Shunammite woman who provisions and hosts Elisha and his entourage. Coherence is moderate (female patron supporting a prophetic band) but Volume is low and there is no verbal contact, so the echo is contested.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 17:8-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The pattern of women materially sustaining a prophet (the widow of Zarephath feeding Elijah) is a broad scriptural type Luke may activate, but the link is thematic rather than verbal. Marked contested for low Volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.2",
+    "ch": 8,
+    "ref": "8:4-8",
+    "echoes": [
+      {
+        "source": "Isaiah 55:10-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The sower's seed that yields fruit aligns with Isaiah's rain/word that does not return empty but accomplishes God's purpose; Luke's own interpretation (8:11, 'the seed is the word of God') makes the identification of seed with the efficacious divine word, satisfying Coherence and Availability. Volume rests on conceptual rather than verbal correspondence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 26:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaac sowing and reaping a hundredfold in one year ('a hundred times', meah shearim) supplies the exact extraordinary yield figure of 8:8. The shared numeric idiom of blessed harvest gives some Volume, but the allusion is faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 4:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah's 'sow not among thorns' provides the agrarian image of seed choked by thorns (8:7), an established prophetic metaphor for a heart unready for the word. Low Volume but real Coherence with Luke's interpretation.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 10:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Hosea's call to 'sow righteousness, reap steadfast love' and break up fallow ground belongs to the same prophetic sowing topos that frames the parable. Contested; thematic only.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.3",
+    "ch": 8,
+    "ref": "8:9-10",
+    "echoes": [
+      {
+        "source": "Isaiah 6:9-10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus directly cites Isaiah's commission, 'seeing they may not see, and hearing they may not understand,' to explain why he teaches in parables. The verbal dependence is explicit and abbreviated from the LXX, giving maximal Volume, Recurrence (a key NT text), and Availability.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 5:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's 'who have eyes but see not, who have ears but hear not' is a cognate prophetic oracle of judicial obduracy that stands behind the Isaiah 6 citation and reinforces it. Volume is real but secondary to the explicit Isaiah quotation.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 12:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel's 'they have eyes to see but see not, ears to hear but hear not, for they are a rebellious house' is the third member of the prophetic obduracy cluster Luke draws on. Coherence with the seeing/hearing motif is strong; contested only as to whether Luke intends it specifically alongside Isaiah.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 29:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Deuteronomy's 'the LORD has not given you a heart to know, eyes to see, ears to hear' is the wilderness root of the seeing/hearing-but-not idiom. Faint and contested behind the nearer prophetic texts.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.4",
+    "ch": 8,
+    "ref": "8:11-15",
+    "echoes": [
+      {
+        "source": "Isaiah 55:10-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Luke's interpretive key, 'the seed is the word of God' that bears fruit with patience, draws on Isaiah's image of the word that goes forth and accomplishes its purpose like rain on the soil. The explicit identification of seed and word grounds the Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 4:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The thorns that choke the word (8:14) reapply Jeremiah's agrarian warning against sowing among thorns. Low Volume, supporting echo.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 27:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's maxim that the fruit discloses the cultivation of the heart parallels Luke's 'honest and good heart' that holds the word and bears fruit, a Second-Temple wisdom resonance. Contested; thematic.",
+        "contested": true,
+        "altSource": "Sirach 1:1-20"
+      }
+    ]
+  },
+  {
+    "id": "8.5",
+    "ch": 8,
+    "ref": "8:16-18",
+    "echoes": [
+      {
+        "source": "Ecclesiastes 12:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Nothing is hidden that will not be revealed' echoes Qoheleth's conclusion that God will bring every deed into judgment, including every hidden thing. The disclosure-of-the-concealed motif gives genuine Coherence, though Luke's eschatological revelation is broader.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's praise that God 'reveals the deep and hidden things, knowing what is in the darkness, and light dwells with him' supplies the light/revelation-of-the-hidden pairing of 8:16-17. Faint verbal contact; contested.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 6:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The commandment is a lamp and the teaching a light' offers the lamp-as-word imagery for the lit lamp set on a stand, coherent with the surrounding word-of-God context. Low Volume, contested.",
+        "contested": true,
+        "altSource": "Psalm 119:105"
+      }
+    ]
+  },
+  {
+    "id": "8.6",
+    "ch": 8,
+    "ref": "8:19-21",
+    "echoes": [
+      {
+        "source": "Deuteronomy 33:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Levi's prizing of God's word and covenant above kin ('he disregarded his brothers') parallels Jesus' redefinition of family as those who hear and do the word of God. Coherence is real but Volume is faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 6:4-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' criterion, 'those who hear the word of God and do it,' resonates with the Shema's command to hear (shema) and keep God's words in the heart. The hear-and-do pairing is Deuteronomic; contested as a specific allusion.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 33:31-32",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel rebukes those who hear the word but do not do it; Jesus' true family are precisely those who both hear and do. The hearing-versus-doing contrast supplies Coherence; Volume low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.7",
+    "ch": 8,
+    "ref": "8:22-25",
+    "echoes": [
+      {
+        "source": "Psalm 107:23-30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The stilling of the storm closely follows the psalm's mariners who cry to the LORD in the tempest, whereupon 'he made the storm a calm and the waves were stilled' and brought them to harbor. The shared sequence (sea-peril, cry, divine stilling, calm) gives strong Volume and the clearest scriptural template for the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 65:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God 'who stills the roaring of the seas, the roaring of their waves' supplies the precise divine prerogative the disciples wonder at ('who is this that even the winds and water obey him?'). The identification of Jesus with YHWH's sea-mastery is the theological point, giving high Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 89:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You rule the raging of the sea; when its waves rise, you still them' is a near-verbal parallel to Jesus rebuking the raging water (8:24). Reinforces the YHWH-as-sea-ruler matrix; Coherence strong, Volume moderate.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 106:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God 'rebuked the Red Sea and it dried up' supplies the verb of rebuking the sea applied to Jesus' rebuke of wind and water. Exodus-sea overtone; lower Volume, contested as a specific source.",
+        "contested": true
+      },
+      {
+        "source": "Job 38:8-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Creator who set bounds for the sea, saying 'thus far shall you come and no farther,' grounds the disciples' awe that the winds and water obey Jesus. The creational mastery-of-chaos motif gives strong theological Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Jonah 1:4-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The closest narrative analogue: a great storm at sea while the protagonist sleeps in the boat, terrified mariners, and a rousing to address the crisis. Volume from the shared scene (asleep in storm, awakened) is substantial, though Jesus' role inverts Jonah's.",
+        "contested": false
+      },
+      {
+        "source": "Nahum 1:3-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'His way is in the whirlwind and storm... he rebukes the sea and makes it dry' attributes storm-rebuking theophany to YHWH, coherent with Jesus' act. Faint verbal contact; contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 104:6-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Creator's rebuke that sets the waters' bounds belongs to the same chaos-control hymnody behind the scene. Low Volume, supporting echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.8",
+    "ch": 8,
+    "ref": "8:26-39",
+    "echoes": [
+      {
+        "source": "Isaiah 65:1-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's rebellious people 'who sit in tombs and lodge in secret places, who eat swine's flesh' and say 'keep to yourself, do not come near me' map strikingly onto the demoniac among the tombs, the herd of swine, and the man's cry 'what have I to do with you?' The cluster of tombs + swine + repulsion gives notable Volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 65:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The specific verse pairing dwelling among the tombs with eating swine's flesh concentrates the two defining impurities of the scene. Coherence with Luke's Gentile-territory unclean-spirit setting is strong.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 11:7-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The classification of the pig as unclean (do not eat, do not touch its carcass) gives the swine their symbolic charge as fit vessels for unclean spirits in this Gentile region. Coherence is strong even though Luke does not cite the law.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The demons' dread of the 'abyss' (8:31) evokes the primordial deep (LXX abyssos in Gen 1:2) as the place of chaos/restraint; the swine drowning in the lake returns the chaotic powers to the watery abyss. Conceptual, contested.",
+        "contested": true,
+        "altSource": "Job 26:5-6"
+      },
+      {
+        "source": "Psalm 22:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The cry of one tormented, naked, and bound, delivered by God, faintly resonates with the psalmist's plea for rescue from beastly powers; the 'Most High God' title also recurs in the psalms. Low Volume; contested.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 3:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Gentile address of God as 'the Most High God' (8:28) matches the Aramaic court-tale title used by Nebuchadnezzar, a Septuagintal idiom for the God of Israel on pagan lips. Real but minor lexical contact.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.9",
+    "ch": 8,
+    "ref": "8:40-48",
+    "echoes": [
+      {
+        "source": "Leviticus 15:25-30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The woman's twelve-year 'flow of blood' is precisely the chronic discharge (zavah) of Leviticus that renders a woman and all she touches unclean. Luke's scene presupposes this purity legislation: her secret touch and trembling fear of exposure make sense only against the impurity she would transmit. Strong Volume and Availability.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 15:38-39",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'fringe' (kraspedon, tzitzit) she touches is the tassel commanded in Numbers as a reminder of the LORD's commandments. Luke's specific detail of the garment's fringe activates this legal-symbolic object as the locus of healing power.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Malachi's promise that 'the sun of righteousness shall rise with healing in its wings (kanaph)' uses the same word as the garment's 'fringe/corner,' a wordplay long read here: healing flows from the hem of the messianic figure. Coherence is strong though the link rests on the kanaph double sense.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 15:19-23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The broader menstrual-impurity statutes reinforce why anyone touched by the woman, and she by the crowd, incurs uncleanness, sharpening the scandal of her contact with Jesus. Supporting Coherence; lower independent Volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.10",
+    "ch": 8,
+    "ref": "8:49-56",
+    "echoes": [
+      {
+        "source": "1 Kings 17:17-24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Elijah's raising of the widow of Zarephath's son is the prototype Luke evokes: a prophet restores a dead child, here a 'spirit returned' (8:55) echoing the LXX's restoration of the boy's breath. The Elijah/Elisha raising type is programmatic for Luke's Christology.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:18-37",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Elisha's raising of the Shunammite's only child supplies the closest structural parallel: an only/beloved child dies, mourners are excluded, the prophet acts privately and the child revives. Strong narrative Volume and Recurrence in Luke's prophet-typology.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jesus' 'she is not dead but sleeping' draws on the established sleep-as-death metaphor that Daniel crystallizes for resurrection ('those who sleep in the dust of the earth shall awake'). Coherence with Luke's awakening of the girl is good; Volume conceptual.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:32-35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The specific motif of giving the revived child sustenance and the privacy of the act recalls Elisha shutting the door; reinforces the Elisha parallel above. Listed for the closing detail (8:55, give her to eat). Contested as independent.",
+        "contested": true
+      }
+    ]
+  }
+]

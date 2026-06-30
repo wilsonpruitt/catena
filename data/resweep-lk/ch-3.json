@@ -1,0 +1,419 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-2",
+    "echoes": [
+      {
+        "source": "Jeremiah 1:1-2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"The word of God came to John\" replicates the prophetic-call superscription formula of Jeremiah 1:1-2, which likewise dates a prophet's commission by regnal year and names the priestly father. The verbal correspondence (logos egeneto ... epi/pros) and the structural pairing of a dated regnal synchronism with the coming of the word give this high Volume; Luke's deliberate sevenfold dating frame imitates the prophetic-book convention.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 1:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Hosea 1:1 (\"the word of the LORD that came to Hosea ... in the days of\" the kings) is the closest LXX analogue to Luke's construction, anchoring John's call in the classic prophetic-word-reception formula. The combination of named rulers plus the coming of the divine word marks John as a prophet in the canonical mold; recurrence of this formula across the prophets reinforces Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 38:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Then came the word of the LORD to Isaiah\" supplies another instance of the egeneto-logos idiom that Luke draws on for John. Lower Volume than Jeremiah/Hosea since it lacks the dated-superscription shape, but it belongs to the same prophetic word-event pattern available to Luke.",
+        "contested": true,
+        "altSource": "1 Kings 17:2; Jeremiah 1:1-2"
+      },
+      {
+        "source": "Ezekiel 1:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Ezekiel's call (\"the word of the LORD came expressly to Ezekiel ... the son of Buzi the priest\") combines the word-event formula with a named priestly lineage in the wilderness/exile, paralleling John \"son of Zacharias\" the priest in the wilderness. The priest-prophet pairing adds Coherence to Luke's portrait of John as Ezekiel-like prophet.",
+        "contested": true,
+        "altSource": "Jeremiah 1:1-2"
+      },
+      {
+        "source": "1 Maccabees 1:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "1 Maccabees opens its narrative with a precise regnal-year dating of a ruler as historiographical frame, a Second-Temple convention Luke shares in synchronizing John's appearance with Tiberius's fifteenth year. Faint and generic, marked low; the parallel is one of historiographical method rather than verbal echo.",
+        "contested": true,
+        "altSource": "Jeremiah 1:1-2"
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:3-6",
+    "echoes": [
+      {
+        "source": "Isaiah 40:3-5",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Luke gives the fullest NT citation of Isaiah 40:3-5, uniquely extending the quotation through v.5 to \"all flesh shall see the salvation of God,\" following the LXX (which reads \"the salvation of God\" where MT has \"the glory of the LORD\"). The explicit citation formula (\"as it is written in the book of the words of Isaiah\") and verbatim LXX wording give maximal Volume; the extension serves Luke's universal-salvation theme.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The preparing-the-way motif fuses Isaiah 40 with Malachi 3:1 (\"I send my messenger to prepare the way before me\"), the standard conflation underlying the John-as-forerunner tradition. Coherence is strong across the gospel tradition even though Luke here cites only Isaiah by name.",
+        "contested": true,
+        "altSource": "Isaiah 40:3-5"
+      },
+      {
+        "source": "Exodus 23:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Exodus 23:20 LXX (\"I send my angel before you to guard you on the way\") feeds the \"prepare the way\" messenger tradition behind Mark's conflated citation, available to Luke's forerunner theme. Faint here since Luke names only Isaiah; marked low and contested.",
+        "contested": true,
+        "altSource": "Malachi 3:1"
+      },
+      {
+        "source": "Isaiah 52:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"All the ends of the earth shall see the salvation of our God\" (Isaiah 52:10 LXX) closely parallels Luke's extended clause \"all flesh shall see the salvation of God,\" reinforcing the universal-salvation reading. Likely a reinforcing intratextual Isaianic resonance Luke exploits rather than a separate citation; low and contested.",
+        "contested": true,
+        "altSource": "Isaiah 40:5"
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:7-9",
+    "echoes": [
+      {
+        "source": "Isaiah 59:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Offspring of vipers\" draws on the prophetic image of the wicked hatching adders' eggs (Isaiah 59:5), where viper-brood imagery signals deadly, deceitful evildoers under judgment. Coherence with John's judgment oracle is strong; the serpent-progeny metaphor is distinctly prophetic.",
+        "contested": true,
+        "altSource": "Genesis 3:15"
+      },
+      {
+        "source": "Genesis 3:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The \"offspring of vipers\" may evoke the serpent's seed of Genesis 3, casting the unrepentant as children of the primeval serpent in opposition to God. Faint and figural; marked low since the immediate force is prophetic invective rather than a Genesis citation.",
+        "contested": true,
+        "altSource": "Isaiah 59:5"
+      },
+      {
+        "source": "Isaiah 51:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"God is able to raise up children to Abraham from these stones\" plays on Isaiah 51:1-2, which calls Israel to \"look to the rock from which you were hewn ... to Abraham your father,\" the rock-Abraham-descendants nexus John inverts. The shared Abraham-from-stone logic gives this real Volume; possible Hebrew wordplay (banim/abanim, children/stones) strengthens the link.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 10:33-34",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"The axe lies at the root of the trees\" and trees cut down echoes Isaiah 10:33-34, where the LORD lops the boughs and hews down the forest of the arrogant in judgment. The arboreal-judgment imagery and verb of cutting give solid Coherence with John's eschatological warning.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Trees that bear no good fruit being \"cut down and thrown into the fire\" coheres with Malachi 4:1 (3:19 MT), where the day comes burning like an oven, leaving the wicked neither root nor branch. The root/branch and burning-judgment vocabulary reinforce the eschatological-fire theme John develops in v.17.",
+        "contested": true,
+        "altSource": "Isaiah 10:33-34"
+      },
+      {
+        "source": "Ezekiel 15:1-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel's parable of the useless vine fit only for the fire parallels the unfruitful tree consigned to burning. A reinforcing instance of the prophetic fruitless-wood-to-fire judgment topos; low and contested.",
+        "contested": true,
+        "altSource": "Malachi 4:1"
+      },
+      {
+        "source": "Jeremiah 11:16-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah likens Israel to a once-green tree the LORD sets on fire and whose branches are broken for evil done, matching John's unfruitful-tree-cast-into-fire image. Faint reinforcing echo within the prophetic tree-judgment field; low.",
+        "contested": true,
+        "altSource": "Malachi 4:1"
+      },
+      {
+        "source": "Psalm 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The fruit-bearing-tree-versus-judgment contrast inverts Psalm 1's tree that yields fruit in season; John warns that fruitlessness ends in fire. Thematic and faint; the Volume is low and the link is contested.",
+        "contested": true,
+        "altSource": "Isaiah 10:33-34"
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:10-14",
+    "echoes": [
+      {
+        "source": "Micah 6:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "John's practical ethics of justice and mercy (share clothing/food, no extortion, no false accusation) embody Micah 6:8's demand to do justice and love mercy as the true fruit of repentance. The prophetic reduction of repentance to concrete social righteousness gives strong Coherence with John's program.",
+        "contested": true,
+        "altSource": "Isaiah 58:6-7"
+      },
+      {
+        "source": "Isaiah 58:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"He who has two coats, let him give to him who has none ... he who has food\" closely matches Isaiah 58:7's true fast: share bread with the hungry and cover the naked. The verbal pairing of clothing and food for the destitute gives this real Volume as the prophetic template for John's instruction.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 18:5-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel 18's portrait of the righteous man (gives bread to the hungry, covers the naked, takes no usury/extortion, returns the pledge) directly parallels John's checklist of repentant conduct. The catalog of just deeds as the mark of the one who lives gives strong Coherence with John's \"fruits worthy of repentance.\"",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:11-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "John's charges to soldiers and tax collectors not to extort, defraud, or accuse falsely echo the Holiness Code's prohibitions of robbery, fraud, and oppression of the wage-laborer (Lev 19:11-13). A reinforcing legal substratum for John's ethic; low and contested.",
+        "contested": true,
+        "altSource": "Ezekiel 18:5-9"
+      },
+      {
+        "source": "Job 31:16-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Job's oath of innocence (he did not withhold bread from the poor or let any perish for lack of clothing) parallels John's clothing-and-food charity. Part of the wider OT righteousness-as-mercy field; faint and low.",
+        "contested": true,
+        "altSource": "Isaiah 58:6-7"
+      }
+    ]
+  },
+  {
+    "id": "3.5",
+    "ch": 3,
+    "ref": "3:15-18",
+    "echoes": [
+      {
+        "source": "Malachi 3:2-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Coming One who baptizes \"with the Holy Spirit and fire\" and refines/purges directly answers Malachi 3:2-3, where the messenger of the covenant is like a refiner's fire purifying the sons of Levi. The pairing of fire with purgative judgment-and-cleansing gives high Coherence with John's contrast between the mightier one and himself.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The winnowing fork separating wheat from chaff to be burned with unquenchable fire mirrors Malachi 4:1 (3:19 MT), where the day burns like a furnace and the wicked are stubble. The threshing-floor/chaff-versus-grain judgment and the inextinguishable fire give this strong Volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 66:24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Unquenchable fire\" (pyr asbeston) echoes Isaiah 66:24, where the fire upon the rebels' corpses is not quenched, the OT locus for everlasting judgment-fire. The precise eschatological-fire vocabulary gives this real Volume within John's threshing-floor oracle.",
+        "contested": true,
+        "altSource": "Malachi 4:1"
+      },
+      {
+        "source": "Jeremiah 15:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"I have winnowed them with a fan in the gates of the land\" (Jeremiah 15:7) supplies the divine-winnowing image of separating people for judgment that underlies John's fan and threshing floor. The agricultural-judgment metaphor (winnow/scatter the unfaithful) gives solid Coherence.",
+        "contested": true,
+        "altSource": "Malachi 4:1"
+      },
+      {
+        "source": "Joel 2:28-29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise that the Coming One \"will baptize you in the Holy Spirit\" resonates with Joel's outpouring of the Spirit on all flesh, a text Luke develops at Pentecost. Faint here, foreshadowing the Lukan Spirit theme; low and contested as the immediate image is refining fire.",
+        "contested": true,
+        "altSource": "Malachi 3:2-3"
+      },
+      {
+        "source": "Ezekiel 36:25-27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Spirit-baptism that purifies recalls Ezekiel 36:25-27, where God sprinkles clean water and puts a new Spirit within his people. A reinforcing prophetic Spirit-and-cleansing background for the contrast between water and Spirit baptism; low.",
+        "contested": true,
+        "altSource": "Malachi 3:2-3"
+      },
+      {
+        "source": "Isaiah 41:15-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah 41:15-16 makes Israel a threshing sledge that winnows mountains so the wind carries them off, another winnowing-judgment image feeding John's fan and chaff. Faint reinforcing echo within the OT threshing-floor field; low and contested.",
+        "contested": true,
+        "altSource": "Jeremiah 15:7"
+      }
+    ]
+  },
+  {
+    "id": "3.6",
+    "ch": 3,
+    "ref": "3:19-20",
+    "echoes": [
+      {
+        "source": "1 Kings 18:17-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "John reproving Herod for his evil and being imprisoned casts John in the Elijah role confronting a wicked king (and queen Herodias as a Jezebel figure), recalling Elijah's rebuke of Ahab. Coherence with Luke's Elijah typology for John is real but the link here is thematic, not verbal; low.",
+        "contested": true,
+        "altSource": "1 Kings 21:17-24"
+      },
+      {
+        "source": "Leviticus 18:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Herod's offense of taking his brother's wife is the very union forbidden by Leviticus 18:16 / 20:21, the legal basis of John's reproof. The Torah prohibition underlies the charge even though Luke does not cite it; low and contested.",
+        "contested": true,
+        "altSource": "Leviticus 20:21"
+      }
+    ]
+  },
+  {
+    "id": "3.7",
+    "ch": 3,
+    "ref": "3:21-22",
+    "echoes": [
+      {
+        "source": "Psalm 2:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The heavenly voice \"You are my beloved Son\" draws on Psalm 2:7's royal-messianic decree, \"You are my Son; today I have begotten you,\" identifying Jesus as the enthroned Davidic king. The verbal core (\"You are my Son\") gives high Volume, and Luke's western text-tradition at this verse even cites Psalm 2:7 in full.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"In you I am well pleased\" with the Spirit descending fulfills Isaiah 42:1, the Servant on whom God puts his Spirit and \"in whom my soul delights.\" The fusion of beloved-Son with the Spirit-endowed Servant gives strong Coherence with Luke's portrayal of Jesus' anointing for mission.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Beloved Son\" (ho agapetos) echoes the LXX of Genesis 22:2, where God names Isaac \"your beloved son\" before the Akedah, layering sacrificial-son overtones onto Jesus' designation. The distinctive agapetos vocabulary gives this real Volume beyond the Psalm 2 base.",
+        "contested": true,
+        "altSource": "Psalm 2:7"
+      },
+      {
+        "source": "Genesis 1:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Spirit descending over the waters of baptism evokes Genesis 1:2, where the Spirit of God hovers over the waters at creation, framing the baptism as a new-creation moment. Coherence with the Spirit-over-water motif is strong though the dove form is not in Genesis; medium.",
+        "contested": true,
+        "altSource": "Genesis 8:8-12"
+      },
+      {
+        "source": "Genesis 8:8-12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Spirit \"as a dove\" recalls Noah's dove over the floodwaters (Genesis 8), suggesting baptism as a new beginning after judgment-by-water. The dove-over-water imagery gives this medium Volume; the symbol is widely read against the flood narrative.",
+        "contested": true,
+        "altSource": "Genesis 1:2"
+      },
+      {
+        "source": "Isaiah 64:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"The sky was opened\" answers Isaiah 64:1's plea, \"O that you would rend the heavens and come down,\" the prophetic hope of God breaking in. Faint but coherent with Luke's theophany framing; low and contested.",
+        "contested": true,
+        "altSource": "Ezekiel 1:1"
+      },
+      {
+        "source": "Ezekiel 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The opened heaven and Spirit-vision recalls Ezekiel 1:1 (\"the heavens were opened and I saw visions of God\"), the prophetic-call theophany formula. Reinforcing the heaven-opened motif; low.",
+        "contested": true,
+        "altSource": "Isaiah 64:1"
+      }
+    ]
+  },
+  {
+    "id": "3.8",
+    "ch": 3,
+    "ref": "3:23-38",
+    "echoes": [
+      {
+        "source": "1 Chronicles 1:1-4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The genealogy's primeval span from Adam through Seth, Enosh, Enoch, Methuselah, Lamech, Noah, Shem, and on to Abraham reproduces the genealogical line of 1 Chronicles 1:1-27, Luke's evident source for the antediluvian and postdiluvian names. The sustained sequence of names gives maximal Volume as direct genealogical dependence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 5:1-32",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Adam-Seth-Enosh-Kenan-Mahalalel-Jared-Enoch-Methuselah-Lamech-Noah follows the toledot of Genesis 5 in reverse order, the canonical line from Adam to Noah. Verbal correspondence of the name-chain is exact, giving high Volume.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 11:10-26",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Shem-Arphaxad-(Cainan)-Shelah-Eber-Peleg-Reu-Serug-Nahor-Terah-Abraham tracks the Shemite genealogy of Genesis 11:10-26; the extra \"Cainan\" between Arphaxad and Shelah follows the LXX, confirming Luke's use of the Greek text. High Volume as direct genealogical dependence.",
+        "contested": false
+      },
+      {
+        "source": "Ruth 4:18-22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Perez-Hezron-Ram(Aram)-Amminadab-Nahshon-Salmon-Boaz-Obed-Jesse-David exactly reproduces the closing genealogy of Ruth 4:18-22, the Davidic line through Judah. The verbatim ten-name sequence gives maximal Volume.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Placed immediately after the baptismal \"beloved Son,\" the genealogy's anchoring in Abraham reactivates the Abraham-Isaac promise line as the channel of blessing for all nations. Faint and structural; low.",
+        "contested": true,
+        "altSource": "Genesis 12:3"
+      },
+      {
+        "source": "Genesis 5:1-2",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Terminating the line at \"Adam, the son of God\" reads Genesis 5:1-2's \"likeness of God\" / Genesis 2:7's God-breathed Adam as divine sonship, framing Jesus the Son of God as the new Adam over against the first. The figural pairing with the baptismal Son-declaration gives this medium Coherence within Luke's Adam-Christ structure.",
+        "contested": true,
+        "altSource": "Genesis 1:26-27"
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Adam, the son of God\" presupposes the special creation of Genesis 2:7, where God forms Adam and breathes life into him, grounding the divine-sonship language of the genealogy's terminus. Reinforcing the new-Adam reading; low and contested.",
+        "contested": true,
+        "altSource": "Genesis 5:1-2"
+      },
+      {
+        "source": "2 Samuel 7:12-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Routing the line through David and his son Nathan invokes the Davidic covenant promise of an everlasting royal seed (2 Samuel 7), the messianic substructure of the genealogy. Thematic rather than verbal here; low and contested.",
+        "contested": true,
+        "altSource": "Ruth 4:18-22"
+      },
+      {
+        "source": "1 Chronicles 3:17-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Shealtiel-Zerubbabel in the post-exilic segment corresponds to the Davidic descendants listed in 1 Chronicles 3:17-19, tying Jesus' line to the returned royal house. The shared distinctive post-exilic names give this medium Volume.",
+        "contested": true,
+        "altSource": "1 Chronicles 1:1-4"
+      }
+    ]
+  }
+]
