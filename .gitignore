@@ -10,3 +10,4 @@ node_modules
 tools/web.json
 tools/lxxe.json
 tools/lxxg.json
+tsconfig.tsbuildinfo

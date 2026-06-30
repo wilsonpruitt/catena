@@ -2,21 +2,45 @@
 
 import { useState, useMemo, useEffect, type CSSProperties } from "react";
 import Link from "next/link";
-import type { Fontium } from "@/lib/fontium";
+import type { Fontium, FOcc } from "@/lib/fontium";
 import { TYPE_META, CONFIDENCE_INK, ACCENT } from "@/lib/echoes";
+import { sourceSlug } from "@/lib/slug";
 
 const FONT_URL =
   "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Crimson+Pro:ital,wght@0,300;0,400;0,500&display=swap";
 
 const RANK: Record<string, number> = { high: 3, medium: 2, low: 1 };
+// A source's significance = summed confidence weight × distinct books that echo
+// it (mirrors lib/fontium.scoreOcc; reimplemented to keep BOOKS out of the
+// client bundle). Recomputed here because the confidence filter changes it.
+function scoreOf(occ: FOcc[]): number {
+  let w = 0;
+  const books = new Set<string>();
+  for (const o of occ) {
+    w += RANK[o.confidence] ?? 1;
+    books.add(o.slug);
+  }
+  return w * books.size;
+}
+// Mirror of lib/sources.MIN_OCC_FOR_DOSSIER — a source gets a dossier page once
+// it is reused this many times across the editions.
+const DOSSIER_FLOOR = 2;
+
 const FLOORS = [
   { key: "all", label: "All", v: 1 },
   { key: "medium", label: "Medium +", v: 2 },
   { key: "high", label: "High only", v: 3 },
 ] as const;
 
+const SORTS = [
+  { key: "score", label: "Significance" },
+  { key: "count", label: "Most cited" },
+] as const;
+type SortKey = (typeof SORTS)[number]["key"];
+
 export default function IndexFontium({ data }: { data: Fontium }) {
   const [floor, setFloor] = useState(1);
+  const [sort, setSort] = useState<SortKey>("score");
   const [open, setOpen] = useState<Set<string>>(new Set());
 
   useEffect(() => {
@@ -30,15 +54,26 @@ export default function IndexFontium({ data }: { data: Fontium }) {
   }, []);
 
   const books = useMemo(() => {
+    const cmp = (a: { score: number; count: number }, b: { score: number; count: number }) =>
+      sort === "score" ? b.score - a.score || b.count - a.count : b.count - a.count || b.score - a.score;
     return data.books
       .map((b) => {
         const sources = b.sources
-          .map((s) => ({ ...s, occ: s.occ.filter((o) => RANK[o.confidence] >= floor) }))
-          .filter((s) => s.occ.length > 0);
-        return { ...b, sources, count: sources.reduce((n, s) => n + s.occ.length, 0) };
+          .map((s) => {
+            const occ = s.occ.filter((o) => RANK[o.confidence] >= floor);
+            // s.count is the unfiltered occurrence total — what governs whether a
+            // dossier page exists, regardless of the active confidence filter.
+            return { ...s, occ, count: occ.length, score: scoreOf(occ), full: s.count };
+          })
+          .filter((s) => s.occ.length > 0)
+          .sort((x, y) => cmp(x, y) || x.chapter - y.chapter || x.verse - y.verse);
+        const count = sources.reduce((n, s) => n + s.count, 0);
+        const score = sources.reduce((n, s) => n + s.score, 0);
+        return { ...b, sources, count, score };
       })
-      .filter((b) => b.count > 0);
-  }, [data, floor]);
+      .filter((b) => b.count > 0)
+      .sort(cmp);
+  }, [data, floor, sort]);
 
   const shown = books.reduce((n, b) => n + b.count, 0);
   const toggle = (n: string) =>
@@ -54,6 +89,7 @@ export default function IndexFontium({ data }: { data: Fontium }) {
         .fontium-book:hover { background: rgba(140,59,47,0.06) !important; }
         .fontium-occ:hover { background: rgba(140,59,47,0.12) !important; }
         .fontium-home:hover { color: #f5f0e8 !important; }
+        .fontium-reflink:hover { color: ${ACCENT} !important; }
         @media (max-width: 720px) { .fontium-srcrow { flex-direction: column !important; gap: 4px !important; } .fontium-ref { width: auto !important; } }
       `}</style>
 
@@ -71,9 +107,11 @@ export default function IndexFontium({ data }: { data: Fontium }) {
       <main style={S.main}>
         <p style={S.lede}>
           Every place a source in the older Scripture surfaces in the editions we&rsquo;ve
-          built. Ranked by how often the New Testament reaches for it — the ranking is
-          itself the finding. Click any reference to land on the passage that echoes it.
-          This index grows as more books are added.
+          built. Ranked by <em>significance</em> — confidence weighted by how many books
+          reach for it — so the load-bearing texts rise on their own; switch to{" "}
+          <em>most cited</em> for raw frequency. A reused source links to its reception
+          dossier; each chip lands on the passage that echoes it. This index grows as
+          more books are added.
         </p>
 
         <div style={S.filterRow}>
@@ -90,6 +128,21 @@ export default function IndexFontium({ data }: { data: Fontium }) {
               }}
             >
               {f.label}
+            </button>
+          ))}
+          <span style={S.filterLabel}>Sort</span>
+          {SORTS.map((so) => (
+            <button
+              key={so.key}
+              onClick={() => setSort(so.key)}
+              style={{
+                ...S.filterBtn,
+                background: sort === so.key ? ACCENT : "transparent",
+                color: sort === so.key ? "#f5f0e8" : "#6b5d4e",
+                borderColor: sort === so.key ? ACCENT : "#c9b99a",
+              }}
+            >
+              {so.label}
             </button>
           ))}
           <span style={S.shown}>{shown} shown</span>
@@ -109,7 +162,18 @@ export default function IndexFontium({ data }: { data: Fontium }) {
                   <div style={S.sources}>
                     {b.sources.map((s) => (
                       <div key={s.ref} className="fontium-srcrow" style={S.srcRow}>
-                        <span className="fontium-ref" style={S.srcRef}>{s.ref}</span>
+                        {s.full >= DOSSIER_FLOOR ? (
+                          <Link
+                            href={`/fontium/${sourceSlug(s.ref)}`}
+                            className="fontium-ref fontium-reflink"
+                            style={{ ...S.srcRef, ...S.srcRefLink }}
+                            title={`Reception of ${s.ref} — ${s.full} places`}
+                          >
+                            {s.ref}
+                          </Link>
+                        ) : (
+                          <span className="fontium-ref" style={S.srcRef}>{s.ref}</span>
+                        )}
                         <span style={S.occWrap}>
                           {s.occ.map((o, i) => {
                             const meta = TYPE_META[o.type as keyof typeof TYPE_META];
@@ -173,6 +237,7 @@ const S: Record<string, CSSProperties> = {
   sources: { padding: "4px 8px 16px 32px", display: "flex", flexDirection: "column", gap: 9 },
   srcRow: { display: "flex", alignItems: "baseline", gap: 14 },
   srcRef: { fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: 15, fontWeight: 600, color: "#5c4033", width: 150, flexShrink: 0 },
+  srcRefLink: { textDecoration: "none", borderBottom: `1px dotted ${ACCENT}`, transition: "color 0.15s" },
   occWrap: { display: "flex", flexWrap: "wrap", gap: 6 },
   occ: { display: "inline-block", padding: "1px 8px", borderRadius: 11, fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: 12.5, fontWeight: 600, letterSpacing: 0.3, textDecoration: "none", transition: "background 0.15s" },
   footer: { textAlign: "center", padding: 20, borderTop: "1px solid #d4c9b5", fontSize: 11, color: "#a09080", letterSpacing: 0.5, background: "#eee9df" },
