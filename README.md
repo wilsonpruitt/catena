@@ -45,6 +45,23 @@ interpretation, satisfaction) live in each echo's editorial `note`.
 2. Append it to `data/books.ts`.
 3. `/[book]` and `generateStaticParams` pick it up automatically.
 
+## Shared lectionary spine (WS3) — lives in `reception-corpus`
+
+The lectionary-preaching workstream (WS3) does **not** keep its own RCL table. The
+Revised Common Lectionary spine is shared open data in the sibling repo:
+
+- **Spine:** `~/reception-corpus/data/rcl.json` — Years A/B/C, 228 occasions / 1,188
+  readings, Vanderbilt-sourced + validated. Every reading carries an OSIS `refKey`
+  (KJV/WEB) — the **same key this repo's `public/data/catena-echoes.jsonl` and
+  `catena-fontium.json` use**, so a Sunday reading joins straight to its echoes.
+- **Loader/resolver:** `~/reception-corpus/src/rcl.py` (also resolves each reading to
+  the reception store). OSIS handling mirrors this repo's `lib/osis.ts`.
+- Conforms to the Wroot **data-repository standard**; build/validate with
+  `reception-corpus/src/build_rcl.py` + `validate_rcl.py`.
+
+When WS3 ships a lectionary view here, consume `rcl.json` by `refKey` — do not
+re-source the calendar.
+
 ## Stack
 
 Next.js 16 (Turbopack) · React 19 · TypeScript · inline styles · static export.
