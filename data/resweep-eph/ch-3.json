@@ -1,0 +1,219 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-6",
+    "echoes": [
+      {
+        "source": "Daniel 2:28",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The cluster 'mystery... made known by revelation' that 'in other generations was not made known... as it has now been revealed' draws directly on Daniel's apocalyptic vocabulary, where 'there is a God in heaven who reveals mysteries' and 'makes known' what was hidden. Volume is high (the rare nexus of mysterion + revelation + eschatological 'now') and the conceptual coherence is exact; Daniel is the seedbed of Pauline 'mystery' language. Availability and recurrence in Second-Temple apocalyptic both support it.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The specific moment that 'the mystery was made known to me by revelation' echoes Daniel 2:19, where 'the mystery was revealed to Daniel in a night vision.' The verbal coincidence of a mystery being revealed to a named recipient is strong, though it is part of the broader Daniel 2 matrix rather than a discrete second citation.",
+        "contested": true,
+        "altSource": "Daniel 2:28-30"
+      },
+      {
+        "source": "Daniel 2:47",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel 2:47 confesses God as 'a revealer of mysteries' precisely in a Gentile (Babylonian) royal setting, which coheres with Paul's point that the now-revealed mystery concerns the Gentiles' inclusion. The link is thematic and reinforcing rather than verbal, so volume is faint.",
+        "contested": true,
+        "altSource": "Daniel 2:28"
+      },
+      {
+        "source": "Amos 3:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The mystery... has now been revealed to his holy apostles and prophets in the Spirit' coheres tightly with Amos 3:7, 'the Lord God does nothing without revealing his secret to his servants the prophets.' The structural pattern (God reveals hidden counsel specifically through prophets) is the same, and Paul names 'prophets' as the recipients, strengthening coherence even though there is no direct quotation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "That 'the Gentiles are fellow heirs... fellow partakers of his promise' realizes the Servant commission of Isaiah 49:6, 'I will make you a light to the nations, that my salvation may reach to the end of the earth.' Coherence is high with Pauline mission theology and the immediate Gentile-inclusion theme; volume rests on shared concept rather than wording, hence medium.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 56:6-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Gentiles' incorporation as full members of the same body recalls Isaiah 56:6-8, where foreigners who join themselves to the Lord are brought to his holy mountain and gathered with Israel's outcasts. The thematic coherence (no longer excluded aliens but co-members) is strong, though the verbal volume is faint.",
+        "contested": true,
+        "altSource": "Isaiah 49:6"
+      },
+      {
+        "source": "Genesis 17:4-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Fellow heirs... fellow partakers of his promise' presupposes the Abrahamic promise that he would be father of many nations and that the covenant promise would extend to them. The inheritance/promise vocabulary coheres with the Abrahamic covenant as the OT ground for Gentile incorporation, but the allusion is diffuse and conceptual.",
+        "contested": true,
+        "altSource": "Isaiah 49:6"
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:7-13",
+    "echoes": [
+      {
+        "source": "Job 5:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The unsearchable riches of Christ' transfers to Christ the OT predicate of God who 'does great things unsearchable, marvelous things without number' (Job 5:9; cf. 9:10). The rare adjective 'unsearchable' (anexichniaston in LXX/Pauline usage) is the same lexical field, giving good volume; coherence with Paul's habit of ascribing divine attributes to Christ is high.",
+        "contested": false
+      },
+      {
+        "source": "Job 9:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Job 9:10 ('who does great things past finding out, yes, marvelous things without number') is the doublet of 5:9 and reinforces the 'unsearchable' attribute applied to Christ's riches. It is best treated as part of the same Job cluster rather than an independent allusion.",
+        "contested": true,
+        "altSource": "Job 5:9"
+      },
+      {
+        "source": "Isaiah 40:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The motif of the inexhaustible, unsearchable God ('his understanding is unsearchable,' Isaiah 40:28) stands behind 'the unsearchable riches of Christ' and the unsearchable depth of God's purpose in this pericope. Conceptual coherence is good; the verbal link is faint, so low confidence.",
+        "contested": true,
+        "altSource": "Job 5:9"
+      },
+      {
+        "source": "Genesis 1:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The mystery 'hidden in God, who created all things' grounds the hidden purpose in God's role as creator of all (Genesis 1). The pairing of the eternal hidden plan with creation 'in the beginning' is a deliberate creation-to-consummation frame; volume is conceptual but the 'created all things' tag is a clear Genesis 1 echo.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 3:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The mystery which for ages has been hidden in God' coheres with Ecclesiastes 3:11, where God 'has set eternity (olam) in their heart, yet so that man cannot find out the work that God has done.' The shared idea of a hidden divine work spanning the ages supports the echo, though the link is thematic and contested.",
+        "contested": true,
+        "altSource": "Genesis 1:1"
+      },
+      {
+        "source": "Proverbs 8:22-31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The manifold wisdom of God might be made known... in the heavenly places' personifies and cosmically displays God's Wisdom in a way that draws on Proverbs 8, where Wisdom is present before creation, beside God as he founds the heavens. Coherence with the wisdom-Christology of the letter is strong; the link rests on the wisdom motif rather than direct quotation.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 4:35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The disclosure of God's wisdom and purpose 'to the principalities and the powers in the heavenly places' coheres with Daniel's vision of a heavenly court and 'the host of heaven' over whom God's sovereign counsel prevails (cf. Daniel 4:35; 7:9-14). The cosmic-authorities frame is Danielic, but the verbal volume here is faint.",
+        "contested": true,
+        "altSource": "Proverbs 8:22-31"
+      },
+      {
+        "source": "Wisdom of Solomon 7:22-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The manifold wisdom of God' closely matches the Second-Temple portrayal of Wisdom as 'manifold' (polypoikilon / poikilon) and all-pervading in Wisdom 7:22-27, where Sophia is intelligent, manifold, and passes into holy souls. The shared technical vocabulary for God's wisdom and its cosmic display gives this strong coherence and availability within the wisdom tradition.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:14-19",
+    "echoes": [
+      {
+        "source": "Isaiah 45:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I bow my knees to the Father' evokes the universal-homage motif of Isaiah 45:23, 'to me every knee shall bow,' the OT locus for bending the knee to God. The posture and the universal-fatherhood frame ('every family in heaven and on earth') cohere, though the volume of the verbal link is faint here.",
+        "contested": true,
+        "altSource": "1 Kings 8:54"
+      },
+      {
+        "source": "1 Kings 8:54",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Bowing the knees to the Father in intercessory prayer recalls Solomon kneeling with hands spread to heaven in dedicatory prayer (1 Kings 8:54; cf. Ezra 9:5; Daniel 6:10). The kneeling-in-prayer gesture is a shared OT posture, supporting a faint echo rather than a pointed allusion.",
+        "contested": true,
+        "altSource": "Isaiah 45:23"
+      },
+      {
+        "source": "Jeremiah 17:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Rooted and grounded in love' draws on the OT image of the person planted by water who is 'rooted' and bears fruit (Jeremiah 17:8; cf. Psalm 1:3). The agricultural 'rooted' metaphor for the secure, flourishing believer is the same, giving good coherence; the architectural 'grounded' pairs a building image, but the rootedness half is a clear OT echo.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Psalm 1:3's 'tree planted by streams of water' that flourishes is the classic OT picture of the rooted, stable righteous person and reinforces 'rooted and grounded in love.' It is best paired with Jeremiah 17:8 as part of the same planted-tree image cluster rather than an independent source.",
+        "contested": true,
+        "altSource": "Jeremiah 17:8"
+      },
+      {
+        "source": "Job 11:7-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The breadth and length and height and depth' that the saints 'comprehend' echoes Job 11:7-9, where the unsearchable extent of God is measured by 'higher than heaven... deeper than Sheol... longer than the earth and broader than the sea.' The four-dimensional measuring of an immeasurable divine reality is a distinctive shared template, giving good coherence even without verbatim wording.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The same four-dimensional immeasurability motif appears in Sirach 1:3, 'the height of heaven, the breadth of the earth, the deep, and wisdom — who can search them out?' applied to God's wisdom. Within Second-Temple wisdom literature this strengthens the availability of the breadth/length/height/depth topos behind verse 18.",
+        "contested": true,
+        "altSource": "Job 11:7-9"
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:20-21",
+    "echoes": [
+      {
+        "source": "1 Chronicles 29:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The doxology 'to him be the glory... forever and ever' draws on David's blessing, 'Yours, O Lord, is the greatness and the power and the glory... yours is the kingdom... forever.' The pattern of ascribing glory and power to God in an everlasting public blessing is the OT model for this doxology; coherence is high, the link being formal rather than verbatim.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 72:18-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'To him be the glory... to all generations forever and ever. Amen' closely matches the closing doxology of Psalm 72:18-19, 'blessed be his glorious name forever... Amen and Amen,' which praises the God 'who alone does wondrous things.' The wondrous-deeds-plus-eternal-glory-plus-Amen structure makes this a strong formal model, supporting medium confidence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 145:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Him who is able to do exceedingly abundantly above all that we ask or think' coheres with Psalm 145:3, 'great is the Lord and greatly to be praised; his greatness is unsearchable,' which celebrates God's measureless power as ground for praise. The link is conceptual (immeasurable divine ability) rather than verbal, hence a faint echo.",
+        "contested": true,
+        "altSource": "1 Chronicles 29:11"
+      },
+      {
+        "source": "Genesis 18:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Able to do exceedingly abundantly above all that we ask or think' echoes the OT confession that nothing is too hard/wonderful for the Lord (Genesis 18:14; cf. Jeremiah 32:17,27). The motif of God's unlimited capacity to do what humans cannot conceive coheres, but the volume is low and it is one of several possible backgrounds.",
+        "contested": true,
+        "altSource": "Psalm 145:3"
+      }
+    ]
+  }
+]

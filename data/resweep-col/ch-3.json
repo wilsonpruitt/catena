@@ -1,0 +1,297 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-4",
+    "echoes": [
+      {
+        "source": "Psalm 110:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Where Christ is, seated on the right hand of God\" verbally echoes the LXX of Ps 110:1 (\"Sit at my right hand\"), the most-cited OT verse in the NT. High volume of distinctive language (right hand, seated, exaltation) and strong recurrence make the session at God's right hand the dominant figure for the exalted Christ. Coherence with Colossians' cosmic Christology is exact.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The exalted Christ glorified and revealed in heavenly session may faintly invoke Daniel's Son of Man given dominion and glory before the Ancient of Days. Low volume since no distinctive vocabulary is reproduced; the echo rests on the shared schema of heavenly enthronement and future revelation \"in glory\" (v.4).",
+        "contested": true
+      },
+      {
+        "source": "Psalm 73:24-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Your life is hidden with Christ in God\" coheres with the psalmist's hope that God is his portion and will receive him to glory, the hidden security of life bound to God. Faint and contested; rests on thematic coherence (hiddenness, glory, God as the believer's life) rather than verbal contact.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:5-7",
+    "echoes": [
+      {
+        "source": "Genesis 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Evil desire\" and the inventory of corrupt members recall the prophetic-Pentateuchal diagnosis that the inclination of the human heart is only evil continually. Faint; the vice list is a Hellenistic-Jewish form and contact is conceptual (the earthly members, depraved passion) rather than lexical.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 20:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Covetousness, which is idolatry\" presupposes the Decalogue's prohibition of coveting, the climactic command that exposes disordered desire. The identification of greed with idolatry draws on Israel's covenant logic where craving what is not one's own is functionally false worship; coherent with Second-Temple Jewish moralizing of pleonexia.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:3-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Naming covetousness \"idolatry\" invokes the first commandment's exclusive worship and the prohibition of other gods. The equation of greed with idol-service is a recurring Second-Temple move (cf. Testament traditions) grounded in the Decalogue's opening; coheres with the wrath-of-God indictment that follows.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 9:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"The wrath of God comes on the children of disobedience\" coheres with Deuteronomy's recurring theme of divine wrath provoked by Israel's rebellion and idolatry. Faint and generic; the wrath-against-disobedience schema is pervasive across the prophets, so no single passage controls.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 25:1-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Linking sexual immorality and idolatry, followed by divine wrath, echoes the Baal-Peor episode where harlotry with Moab and idol-worship together kindle God's anger. Faint; contact is the recurrent OT pairing of porneia with idolatry under wrath rather than verbal citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:8-11",
+    "echoes": [
+      {
+        "source": "Leviticus 19:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Don't lie to one another\" closely tracks the Holiness Code's \"you shall not lie one to another\" (LXX), addressed to the covenant community. Strong verbal and situational coherence (reciprocal prohibition among the people of God); the holiness framing fits Colossians' renewed humanity.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:26-27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"The new man, being renewed in knowledge after the image of his Creator\" directly reworks the creation of humanity in God's image. High volume (image, Creator, the making of man) and exact coherence: the new self is re-creation according to the imago Dei, recapitulating Gen 1. Availability and recurrence in Pauline new-creation theology are strong.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 5:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"After the image of his Creator\" also resonates with the toledot statement that God made man in his likeness, the verse that reasserts the image after the fall. Supports the renewal-of-the-image reading; medium because Gen 1:26-27 is the primary lexical source and 5:1 is the secondary, reinforcing one.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:7-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Put off the old man... put on the new\" with its clothing imagery may figurally invoke Adam: the garments and the postlapsarian self stripped off. Faint and contested; the old-man/new-man Adam typology is conceptual, and the clothing metaphor is widely diffused in Jewish moral discourse.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:27",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "\"There can't be Greek and Jew... but Christ is all and in all\" figurally reconstitutes the single humanity created in God's image, undoing the divisions of the nations. The renewed image (vv.10) grounds a restored one-humanity; coheres with Gen 1's making of mankind as a unity before the scattering of Babel.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 11:1-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The catalog of peoples (Greek, Jew, barbarian, Scythian) reconciled in Christ faintly reverses Babel's scattering and confusion of tongues into many nations. Low volume; the reversal-of-Babel reading is thematic and contested, resting on the restoration of one humanity rather than any cited wording.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:12-14",
+    "echoes": [
+      {
+        "source": "Deuteronomy 7:6-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"As God's chosen ones, holy and beloved\" transfers to the church Israel's defining triad: chosen, a holy people, beloved by the LORD's set love. High coherence and recurrence; the election language (eklektoi, hagioi, egapemenoi) maps directly onto Deuteronomy's covenant self-description of Israel.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:20-21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"My chosen people... which I formed for myself\" stands behind \"God's chosen ones,\" the elect people gathered to declare God's praise. Supports the high-confidence election cluster; medium because Deut 7 is the more controlling source, with Isaiah reinforcing the chosen-and-beloved motif.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Compassion, kindness, lowliness, humility, and perseverance\" reproduces the cluster of the divine attributes proclaimed at Sinai (compassionate, gracious, slow to anger, abounding in steadfast love). High recurrence: this is the OT's signature self-revelation of God's character, and believers are to put it on in imitation. Coherence with the forgiving-as-the-Lord-forgave clause is exact.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 103:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"The LORD is compassionate and gracious, slow to anger and abounding in mercy\" is the psalmist's reuse of Exod 34:6 and supplies the same attribute-list the believer dons. Strong recurrence of the formula; the surrounding theme of God's forgiveness (Ps 103:12) coheres with \"even as Christ forgave you\" in v.13.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Above all these things, walk in love, which is the bond of perfection\" rests on the love command of the Holiness Code, the OT verse Paul treats as summing up neighbor-ethics. High coherence: love crowning and binding the virtue list functions as the fulfillment of Lev 19:18; strong recurrence in Pauline paraenesis.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The gracious-and-compassionate, slow-to-anger formula also appears in Joel and could feed the attribute cluster of v.12. Low/secondary; Exod 34:6 and Ps 103:8 are the primary witnesses, with Joel one of several prophetic reuses of the same liturgical formula.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.5",
+    "ch": 3,
+    "ref": "3:15-17",
+    "echoes": [
+      {
+        "source": "Psalm 33:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Psalms, hymns, and spiritual songs, singing with grace\" echoes the psalter's call to sing a new song with skill and praise. Medium volume; \"psalms\" is itself the genre word, and the threefold list of sung praise coheres with Israel's temple-song tradition the term presupposes.",
+        "contested": false
+      },
+      {
+        "source": "1 Chronicles 16:7-36",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The injunction to teach and admonish with psalms and thanksgiving recalls David's appointment of song and thanks before the ark. Faint; contact is the institution of communal praise/thanksgiving (\"be thankful,\" v.15) rather than any quoted line, so volume is low.",
+        "contested": true
+      },
+      {
+        "source": "1 Chronicles 25:1-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Spiritual songs\" and the temple-singer guilds set apart to prophesy with music stand behind the Christian assembly's sung instruction. Low/contested; the link is the institutional background of inspired temple song, not verbal citation.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 6:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Let the word of Christ dwell in you richly... teaching and admonishing\" coheres with the Shema's command to let God's words remain in the heart and to teach them diligently. Faint; the indwelling-and-teaching-the-word motif is suggestive but generic to Deuteronomic catechesis.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 1:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The word dwelling in believers richly resonates with the blessed one whose delight is in the law, meditating on it day and night. Low volume and contested; thematic overlap (the indwelling, treasured word) without lexical contact.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 105:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Do all in the name of the Lord... giving thanks\" echoes the psalmist's \"give thanks to the LORD, call upon his name.\" Faint; the thanks-and-the-name pairing is a stock liturgical formula recurring across the psalter, so no single verse controls.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.6",
+    "ch": 3,
+    "ref": "3:18-21",
+    "echoes": [
+      {
+        "source": "Genesis 3:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Wives, be in subjection to your husbands\" may invoke the post-fall ordering of the woman to her husband. Low/contested; the household-code form is shared with Hellenistic moral philosophy, so direct dependence on Gen 3:16 is uncertain.",
+        "contested": true,
+        "altSource": "Aristotle, Politics 1.1253b (Hellenistic household-code form)"
+      },
+      {
+        "source": "Exodus 20:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Children, obey your parents in all things, for this pleases the Lord\" rests on the Decalogue's command to honor father and mother. Medium coherence; obedience-to-parents framed as pleasing God draws directly on the fifth commandment, the one OT command structuring filial duty.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Deuteronomic recension of \"honor your father and mother\" equally underlies the children's clause and its promise of well-being. Reinforces the Exod 20:12 link; the obey-and-it-goes-well-with-you logic coheres with \"for this pleases the Lord.\"",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 23:13-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Fathers, don't provoke your children\" tempers the wisdom tradition of paternal discipline; the inversion presupposes Proverbs' instruction on raising children. Faint; contact is conceptual (the father-child formation theme) rather than a cited proverb.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.7",
+    "ch": 3,
+    "ref": "3:22-25",
+    "echoes": [
+      {
+        "source": "Deuteronomy 10:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"There is no partiality\" reproduces the Deuteronomic confession that God is not partial and takes no bribe, the OT root of the no-respect-of-persons formula. High coherence: divine impartiality grounds the just recompense of the wrongdoer (v.25); strong recurrence of this attribute across the law and prophets.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 19:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jehoshaphat's charge that with the LORD there is no injustice, partiality, or bribe-taking reinforces \"there is no partiality.\" Medium/supporting; Deut 10:17 is the controlling text, with 2 Chr 19:7 a recurrence applying impartiality to just judgment, exactly the context here.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 24:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"He who does wrong will receive again for the wrong he has done\" tracks the wisdom maxim that God repays each according to his deeds. Medium coherence; the recompense formula (rendering to a man according to his work) is the OT principle behind both the servant's reward (v.24) and the wrongdoer's payback.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 62:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"You render to each according to his work\" supplies the same recompense principle informing v.25's repayment of the wrongdoer. Reinforces Prov 24:12; the recurrence of \"render according to works\" across psalm and proverb shows an available, well-attested formula.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 24:14-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The address to servants and masters with assurance of just recompense faintly recalls Deuteronomy's protection of the hired servant and his wages before God. Low/contested; thematic coherence (labor, fair reward, God as guarantor) without verbal citation.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-5",
+    "echoes": [
+      {
+        "source": "Proverbs 2:3-6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The treasures of wisdom and knowledge hidden in Christ closely tracks Proverbs 2, where one cries out for understanding and searches for it as for hidden treasures, and the LORD gives wisdom and knowledge. Volume is high (shared lexis: wisdom, knowledge, hidden, treasure) and the coherence with Paul's epistemology of revelation is strong.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 45:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The treasures of darkness and hidden riches given to Cyrus so that he may know the LORD supplies the motif of concealed treasure tied to knowledge of God, matching Paul's 'treasures of wisdom and knowledge hidden' that yield the knowledge of God's mystery. Recurrence of the hidden-treasure-leading-to-knowledge pattern supports the echo.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:20-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Daniel's hymn praises God who reveals deep and hidden things, gives wisdom and knowledge, and discloses mysteries; Paul's 'mystery of God' in whom are hidden the treasures of wisdom and knowledge draws on this apocalyptic vocabulary where mystery, revelation, wisdom, and knowledge cluster (Daniel 2:28-30, 47). The Second-Temple availability and shared mystery-language ground the link.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 1:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's saying that in the treasuries of wisdom are parables of knowledge offers a near-verbal Second-Temple parallel to 'treasures of wisdom and knowledge hidden.' Availability and shared sapiential idiom make this a plausible faint echo, though contested given the diffuse wisdom topos.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 11:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The messianic Spirit of wisdom and knowledge resting on the shoot of Jesse may stand behind Christ as the one in whom wisdom and knowledge are concentrated; the coherence with Paul's Christ-as-locus-of-wisdom is suggestive but the verbal volume is thin.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:4",
+    "echoes": [
+      {
+        "source": "Proverbs 7:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The warning against being deluded by persuasiveness of speech recalls the seductress of Proverbs 7 who with much fair speech caused him to yield; the wisdom motif of smooth/persuasive words leading astray is shared. Faint and contested given the commonplace.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:6-8",
+    "echoes": [
+      {
+        "source": "Isaiah 29:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'After the tradition of men' (and the precepts of men in v.22) echoes Isaiah's indictment that the people's fear of God is a commandment of men taught by rote, the locus classicus for human tradition supplanting God's word. Recurrence within the chapter (v.22) and coherence with the polemic against the 'philosophy' strengthen the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 10:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The customs of the peoples are vain/futile in Jeremiah 10 supplies the language of 'vain deceit' rooted in worthless human practice and false worship of created things, coherent with 'elements of the world' as enslaving cosmic powers. Volume is moderate via the LXX 'vain' vocabulary.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Being 'rooted and built up' and 'established' draws on the planted-tree imagery of the righteous in Psalm 1 (and Jeremiah 17:8), a stock figure for stability through walking rightly. Coherence with 'walk in him' supports a faint echo.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 17:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The man planted by water whose roots reach the stream parallels Paul's horticultural metaphor 'rooted... abounding,' reinforcing the OT trope of the rooted and fruitful righteous. Faint and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:9-10",
+    "echoes": [
+      {
+        "source": "Psalm 68:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "That 'the fullness of the Godhead dwells bodily' in Christ recasts the OT theme of God choosing to dwell on the mountain/sanctuary where the LORD will abide forever; Christ becomes the true locus of divine indwelling. The figural transfer of dwelling-glory is coherent though verbally faint.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 6:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The temple vision where the whole earth is full of the LORD's glory underlies the language of divine 'fullness' now resident bodily in Christ; the fullness/glory motif coheres with Colossians 1:19 and the indwelling theme. Contested and diffuse.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.5",
+    "ch": 2,
+    "ref": "2:11-13",
+    "echoes": [
+      {
+        "source": "Deuteronomy 30:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Circumcision 'not made with hands' in 'the putting off of the body of the sins of the flesh' draws directly on Deuteronomy's promise that the LORD will circumcise the heart so you will love him and live, the foundational text for an internal, divinely-wrought circumcision. Volume, coherence, and recurrence in the heart-circumcision tradition are all strong.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 4:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The command to circumcise yourselves to the LORD and remove the foreskin of the heart provides the prophetic call to true (inward) circumcision over against fleshly circumcision, exactly the antithesis Paul presses. Strong coherence with v.11's contrast between hand-made and Christ's circumcision.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 10:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Circumcise the foreskin of your heart and be no longer stiff-necked supplies the same heart-circumcision idiom; its recurrence alongside Deut 30:6 and Jer 4:4 confirms a stable tradition standing behind Paul's spiritualized circumcision.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 44:7-9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Ezekiel's denunciation of the uncircumcised in heart and flesh entering the sanctuary supplies the paired heart/flesh circumcision categories Paul deploys ('uncircumcision of your flesh', v.13). The shared dual idiom supports the echo, though it is less verbally direct.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 17:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The institution of circumcision in the flesh as the covenant sign is the background Paul transcends with 'circumcision not made with hands'; the polemical contrast presupposes the Abrahamic rite. Coherence is high but it is presupposed background rather than a quoted echo.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 37:12-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Being 'made alive together with him' while dead in trespasses resonates with Ezekiel's vision of God opening graves and putting his Spirit in the dead so they live; the death-to-life raising motif coheres with vv.12-13's burial-and-resurrection. Faint and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.6",
+    "ch": 2,
+    "ref": "2:14-15",
+    "echoes": [
+      {
+        "source": "Isaiah 43:25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God 'wiping out the handwriting' and forgiving all trespasses echoes Isaiah's 'I, even I, am he who blots out your transgressions for my own sake,' the divine erasure of the record of sin. The blotting-out vocabulary and forgiveness theme give moderate volume and strong coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 51:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The plea to blot out my transgressions according to your mercy supplies the same image of erasing the written debt of sin that stands against the sinner. Coherent but diffuse, hence a faint echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The disarming and public shaming of the powers while bearing sin to the cross may draw on the Servant who was numbered with transgressors yet divided the spoil with the strong, a victory-through-suffering pattern. The triumph-out-of-humiliation coherence is real but the verbal link is thin and contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 22:22-25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The peg/nail fastened in a sure place that is then cut down and the burden hung on it falls, in Isaiah 22, offers a faint backdrop to 'nailing it to the cross'; the imagery of fastening a burden to a peg coheres loosely. Highly contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.7",
+    "ch": 2,
+    "ref": "2:15",
+    "echoes": [
+      {
+        "source": "Isaiah 45:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The divine-warrior subduing kings and going before to break gates and bars underlies Christ disarming the principalities and triumphing over them; the YHWH-as-victor motif coheres with the cosmic-conquest reading. Faint, contested verbal volume.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 15:1-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Song of the Sea celebrating the LORD as warrior who shatters the enemy in triumph supplies the archetype of God's public victory parade over hostile powers that Paul reapplies to the cross ('made a show of them openly, triumphing'). Coherent but figural and faint.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 68:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The ascending victor who 'led captivity captive' and received gifts among rebellious men supplies the OT triumphal-procession image behind Christ leading the disarmed powers in open shame. Moderate coherence with the Pauline conquest theme and recurrence of this Psalm in Pauline triumph language.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.8",
+    "ch": 2,
+    "ref": "2:16-17",
+    "echoes": [
+      {
+        "source": "Hosea 2:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The triad 'a feast day or a new moon or a Sabbath day' closely matches Hosea's 'her feasts, her new moons, and her sabbaths' (the calendar God will cause to cease). High verbal volume in the same ordered list and coherence with Paul relativizing the festal calendar make this the primary source.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 45:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The prince's obligation at 'the feasts, the new moons, and the sabbaths' lists the same three calendrical categories Paul names, confirming a stock OT triad of appointed times. Recurrence across Hosea, Ezekiel, and Chronicles strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "1 Chronicles 23:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Offerings on 'the sabbaths, the new moons, and the set feasts' gives the same three-term cultic calendar, part of the recurring biblical formula that Paul's 'feast, new moon, sabbath' draws on. Moderate volume via the fixed triad.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 28-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The festal legislation prescribing offerings for the daily, sabbath, new-moon, and appointed-feast cycle, together with their associated food and drink offerings, undergirds Paul's pairing of 'eating, or drinking' with 'feast, new moon, sabbath.' The food-and-drink plus calendar coherence supports the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 11:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "That these observances are 'a shadow of the things to come' but the body is Christ's draws on the type/copy logic; while the wording 'shadow' (Exodus 25:40's pattern tradition) is the better backdrop, the prophetic theme of the present cult as provisional resonates faintly. Contested.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 25:40",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The command to make the tabernacle after the pattern shown on the mountain founds the OT copy/shadow-versus-true-reality schema that Paul invokes with 'a shadow of the things to come, but the body is Christ's.' Coherence with the type/antitype theology is strong though the lexical contact is indirect.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The dietary laws governing clean/unclean 'eating' stand behind the food-judgments Paul forbids others to impose; the broader Levitical kashrut backdrop coheres with 'judge you in eating, or in drinking.' Faint, presupposed background.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.9",
+    "ch": 2,
+    "ref": "2:18-19",
+    "echoes": [
+      {
+        "source": "Daniel 7:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'worshiping of the angels' and 'dwelling in the things which he has not seen' may engage the apocalyptic vision world of myriads of angelic attendants around the throne (Daniel 7), against which Paul polemicizes excessive angel-veneration. Coherence with the visionary milieu, but the link is faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 1:4-28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The visionary 'dwelling in the things which he has not seen' evokes merkavah/throne-vision speculation such as Ezekiel's chariot vision that fed Second-Temple angelology; Paul critiques those who enter such visions and so worship angels. Faint, contested.",
+        "contested": true
+      },
+      {
+        "source": "1 Enoch 14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Enoch's heavenly ascent and vision of angelic hosts before the throne typifies the visionary, angel-focused piety Paul opposes ('worshiping of the angels... things which he has not seen'). Pseudepigraphal availability warrants noting the milieu, but the link is general and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.10",
+    "ch": 2,
+    "ref": "2:20-23",
+    "echoes": [
+      {
+        "source": "Isaiah 29:13",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'According to the precepts and doctrines of men' renders Isaiah's 'their fear of me is a commandment of men taught by rote' (LXX: teaching the precepts/doctrines of men), the same phrase Jesus cites; the regulations 'don't handle, taste, touch' are these merely human precepts. High verbal volume and recurrence (cf. v.8) make this a near-quotation.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prohibition 'don't handle, nor taste, nor touch' may parody Eve's expansion of God's command, 'you shall not eat... neither shall you touch it,' as an example of human regulation about handling/touching forbidden things. The touch-taboo verbal overlap is suggestive but contested.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 11:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Levitical command not to eat or 'touch' the carcasses of unclean animals supplies a concrete backdrop to the handle/taste/touch regulations Paul cites as perishable human ordinances about food. Faint, presupposed cultic background.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 52:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Touch no unclean thing' offers a purity-touch idiom standing behind the ascetic 'do not touch' rule Paul deflates as mere 'severity to the body.' Coherent with the food/purity theme but verbally faint and contested.",
+        "contested": true
+      }
+    ]
+  }
+]

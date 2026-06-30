@@ -1,0 +1,325 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1",
+    "echoes": [
+      {
+        "source": "Zechariah 6:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's calling the Philippians his 'crown' (stephanos) echoes the prophetic image of a crown laid up as a memorial and reward in the temple, and more broadly the OT crown-of-glory motif (Isaiah 28:5; 62:3). Volume is faint and the metaphor is conventional, but coherence with the eschatological reward imagery available in the prophets supports a low-grade echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 62:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall be a crown of beauty in the hand of the LORD' supplies the figural background for Paul's 'my joy and crown,' where a redeemed community is the eschatological adornment of its caretaker. Recurrence of the crown-of-glory image across Isaiah (28:5; 62:3) makes it available, though the volume here is low and the trope generic.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The exhortation to 'stand firm in the Lord' draws on the OT contrast between the stable righteous, planted and unmoved, and the chaff-like wicked. Coherence with the steadfastness motif (Psalm 1:3; 112:6) is real, but the volume is faint and 'stand firm' is too diffuse to anchor a single source, so this is a contested echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:2-3",
+    "echoes": [
+      {
+        "source": "Exodus 32:32",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's claim that his fellow workers' 'names are in the book of life' alludes directly to Moses' plea to be blotted out of 'the book you have written,' the founding OT text of the heavenly register. Volume is high (the explicit book-of-life image), availability is secure in the Torah, and coherence with Paul's confidence in the Philippians' salvation is strong.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 69:28",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Let them be blotted out of the book of the living, and not enrolled among the righteous' provides the precise phrase 'book of life/living' that Paul reverses into a positive assurance. High volume on the shared lexeme, strong recurrence of the register motif across the Psalter and prophets, and thematic coherence with the contrast of the saved versus the lost.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Daniel's eschatological promise that 'everyone whose name is found written in the book' shall be delivered supplies the apocalyptic deliverance sense Paul gives the image. Availability in Second-Temple apocalyptic and coherence with the resurrection hope of Philippians 3 make this a strong contributor to Paul's 'book of life.'",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A book of remembrance was written before him of those who feared the LORD' offers the motif of a heavenly ledger recording the faithful by name, coherent with Paul's naming of co-laborers whose names stand recorded. Volume is moderate (remembrance-book rather than 'book of life'), but recurrence within the register tradition supports the link.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 56:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Are they not in your book?' adds another instance of the divine record motif, reinforcing the availability and recurrence of the heavenly-book tradition Paul invokes. Low volume and no shared 'life' lexeme make it a faint contributing echo rather than a primary source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:4-7",
+    "echoes": [
+      {
+        "source": "Psalm 32:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Rejoice in the LORD always' echoes the recurrent Psalter imperative 'Be glad in the LORD, and rejoice, you righteous' (32:11; cf. 33:1; 97:12). Recurrence is strong across the Psalter and coherence with Paul's joy theme is high; volume is moderate because Paul universalizes 'always' beyond any single psalm.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 97:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Rejoice in the LORD, O you righteous' supplies the same divine-object joy imperative that Paul doubles for emphasis. The Psalter's habitual call to rejoice in the LORD is available and coherent, though the volume of any single verse is moderate given the formula's diffusion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 145:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The Lord is at hand' (ho kyrios engys) most closely matches 'The LORD is near to all who call on him' (engys kyrios), grounding Paul's nearness claim and its link to prayer in v.6. High lexical volume on engys, coherence with the prayer/petition context, and availability in the LXX Psalter make this the strongest source for the phrase.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 34:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD is near to the brokenhearted' reinforces the 'Lord is near' motif with the same engys idiom, and Psalm 34 broadly underwrites Paul's confidence in deliverance. Recurrence of the nearness formula with Psalm 145 strengthens coherence, though volume per verse is moderate.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 1:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The day of the LORD is at hand/near' supplies the eschatological-imminence sense of 'The Lord is at hand,' if Paul means the Lord's coming rather than his presence. Availability in the prophetic day-of-the-Lord tradition and coherence with Philippians' Parousia hope (3:20) support this, though it competes with the Psalter nearness reading.",
+        "contested": true,
+        "altSource": "Zephaniah 1:14"
+      },
+      {
+        "source": "Isaiah 26:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You keep him in perfect peace whose mind is stayed on you' parallels Paul's 'peace of God which surpasses all understanding will guard your hearts,' linking divine peace, the mind, and protective keeping. Coherence is strong on the guarding-peace-of-the-mind motif; volume is moderate because Paul does not quote the phrasing verbatim.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 4:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In peace I will both lie down and sleep, for you alone, O LORD, make me dwell in safety' offers the OT pairing of divine peace with security from anxiety that underlies 'do not be anxious... and the peace of God will guard you.' Volume is low and the link thematic, so this is a contributing echo.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 55:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Cast your burden on the LORD, and he will sustain you' parallels Paul's remedy for anxiety: hand your requests to God in prayer rather than carry them. Coherence with the anti-anxiety-through-petition logic is strong; volume is moderate since Paul shares the idea, not the wording.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 12:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Anxiety in a man's heart weighs him down, but a good word makes him glad' supplies a wisdom backdrop for Paul's 'in nothing be anxious.' Volume and verbal overlap are slight, but the heart-anxiety theme is available in the sapiential tradition, making this a faint echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:8-9",
+    "echoes": [
+      {
+        "source": "Proverbs 22:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's virtue catalogue (true, honorable, just, pure, lovely, of good report) draws on the sapiential ideal of the pure heart and gracious speech that wins favor. Recurrence of these virtue terms in Proverbs and the wider Hellenistic-Jewish moral tradition supplies availability, but the volume of any one verse is low.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom 8:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Wisdom's praise of the cardinal virtues ('she teaches self-control and prudence, justice and courage') models the Hellenistic-Jewish virtue list Paul adapts, especially the terms for 'just' and the framing of virtue (arete) itself, which Paul uses uniquely here. Coherence with the Wisdom tradition's moral catalogues makes this a plausible deuterocanonical source.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 3:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'So you will find favor and good repute (LXX: good things) in the sight of God and man' parallels Paul's 'whatever is of good report' and the appeal to public commendation. Volume is low and the link conceptual, but the good-repute motif is available in the sapiential tradition.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 26:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The God of peace will be with you' continues the divine-peace motif of v.7 and resonates with Isaiah's promise that God keeps in peace those whose minds are fixed on him. Volume is faint here and the title 'God of peace' is Paul's own, so this is a low-grade continuation echo of the peace tradition.",
+        "contested": true
+      },
+      {
+        "source": "Judges 6:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Gideon's altar 'The LORD is peace' (YHWH-shalom) offers an OT antecedent for naming God by his peace, loosely behind Paul's 'the God of peace.' The volume is very low and the connection figural, but it documents the availability of associating God's name with shalom.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.5",
+    "ch": 4,
+    "ref": "4:10-13",
+    "echoes": [
+      {
+        "source": "Proverbs 30:8-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Agur's prayer 'give me neither poverty nor riches; feed me with the food that is needful' supplies the wisdom ideal of contentment in either abundance or want that Paul claims to have learned (filled or hungry, abound or be in need). Coherence is strong on the sufficiency-in-any-state theme; volume is moderate since Paul reworks rather than cites.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 18:30-33",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Sirach's counsel to master one's appetites and not be enslaved to want or excess models the disciplined self-sufficiency (autarkeia) Paul describes learning. Availability in the deuterocanonical wisdom tradition and coherence with the 'secret of contentment' make this a credible source for Paul's Stoic-tinged but scripturally rooted contentment.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 5:18-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Qoheleth's acceptance of one's lot, finding contentment in whatever portion God gives, parallels Paul's learning 'in whatever state I am, to be content.' Volume is low and verbal overlap slight, but the contentment-with-one's-portion theme is available in the sapiential tradition.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 40:29-31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He gives power to the faint... they who wait for the LORD shall renew their strength' grounds Paul's 'I can do all things through him who strengthens me,' where divine empowerment supplies endurance to the weak. Coherence with the strength-from-God-in-weakness theme is strong; volume is moderate because Paul states the principle without quoting.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 18:32",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The God who equipped me with strength' (LXX: ho theos ho perizonnuon me dynamin) supplies the divine-empowerment idiom behind 'him who strengthens (endynamounti) me.' Recurrence of God-as-strengthener language across the Psalter (18:1, 32, 39) makes it available and coherent with Paul's claim, though volume per verse is moderate.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 41:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will strengthen you, I will help you' adds to the prophetic strengthening tradition Paul draws on for 'who strengthens me.' Volume is low for any single verse, but recurrence of the divine-strengthening promise in Isaiah reinforces availability and coherence.",
+        "contested": true
+      },
+      {
+        "source": "Habakkuk 3:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'God, the Lord, is my strength; he makes my feet like the deer's' offers another instance of the LORD as the believer's enabling strength in adversity, coherent with Paul's confidence amid abundance and want. Volume is faint, so this functions as a corroborating echo within the divine-strength tradition.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.6",
+    "ch": 4,
+    "ref": "4:14-20",
+    "echoes": [
+      {
+        "source": "Exodus 29:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul calls the Philippians' gift 'a sweet-smelling fragrance, an acceptable and well-pleasing sacrifice to God,' adopting the cultic formula 'a pleasing aroma, an offering by fire to the LORD' from the sacrificial law. Volume is high on the pleasing-aroma + acceptable-sacrifice language, and coherence is strong as Paul recasts material aid as acceptable cultic offering.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 8:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD smelled the pleasing aroma' of Noah's offering establishes the foundational 'pleasing aroma' (osme euodias) idiom Paul applies to the Philippians' gift. Availability in the Torah and recurrence of the formula in the sacrificial system make it coherent, though Exodus 29 supplies the fuller 'acceptable' phrasing.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 20:41",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'As a pleasing aroma I will accept you' applies the sacrifice formula to persons God receives, paralleling Paul's transfer of cultic acceptability from animal offerings to the gift and givers. Coherence with the figural extension of sacrificial acceptance is strong; volume is moderate as one instance of the recurring aroma motif.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 1:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'A burnt offering, an offering made by fire, a pleasing aroma to the LORD' is the prototypical instance of the formula Paul quotes, reinforcing availability and recurrence of the 'pleasing aroma' sacrificial language across the Levitical code. Volume is moderate; it corroborates Exodus 29 as the cultic backdrop.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 23:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD is my shepherd; I shall not want' underwrites Paul's 'My God will supply every need of yours,' the assurance that God provides so the faithful lack nothing. Coherence with the divine-provision theme is strong; volume is moderate since Paul echoes the concept of no-lack rather than the shepherd image.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 34:9-10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Those who seek the LORD lack no good thing... the young lions suffer want, but those who fear the LORD lack nothing' closely parallels 'My God will supply every need of yours.' Recurrence of the no-lack-for-the-faithful promise (with v.18 already echoed above) strengthens coherence; volume is moderate.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 84:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'No good thing does he withhold from those who walk uprightly' adds to the divine-provision tradition behind Paul's promise that God will supply every need. Volume is low and the link thematic, but recurrence reinforces availability of the God-withholds-no-good-thing motif.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 41:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's doxology 'to our God and Father be the glory forever and ever, Amen' reproduces the eulogy-plus-'forever'-plus-'Amen' pattern that closes the books of the Psalter ('Blessed be the LORD... forever and ever. Amen and Amen'). Coherence with Jewish berakah doxology is strong; volume is moderate as a formal rather than verbal match.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 72:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Blessed be his glorious name forever; may the whole earth be filled with his glory! Amen and Amen' supplies the glory-forever-Amen doxological form Paul uses. Volume is low and the form conventional, but the Psalter doxologies are available and coherent with Paul's closing ascription of glory.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.7",
+    "ch": 4,
+    "ref": "4:21-23",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The closing benediction 'The grace of the Lord Jesus Christ be with you all' echoes the Aaronic blessing's structure of invoking God's grace and presence upon the people ('the LORD be gracious to you... the LORD be with you'). Volume is faint and the formula is a fixed Pauline close, but coherence with the priestly grace-and-presence benediction is real.",
+        "contested": true
+      }
+    ]
+  }
+]

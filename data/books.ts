@@ -10,6 +10,9 @@ import romans from "./romans.json";
 import firstCorinthians from "./1-corinthians.json";
 import secondCorinthians from "./2-corinthians.json";
 import galatians from "./galatians.json";
+import ephesians from "./ephesians.json";
+import philippians from "./philippians.json";
+import colossians from "./colossians.json";
 import onePeter from "./1-peter.json";
 
 export const BOOKS: Book[] = [
@@ -22,6 +25,9 @@ export const BOOKS: Book[] = [
   firstCorinthians as Book,
   secondCorinthians as Book,
   galatians as Book,
+  ephesians as Book,
+  philippians as Book,
+  colossians as Book,
   hebrews as Book,
   onePeter as Book,
   revelation as Book,

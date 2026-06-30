@@ -1,0 +1,267 @@
+[
+  {
+    "id": "6.1",
+    "ch": 6,
+    "ref": "6:1-4",
+    "echoes": [
+      {
+        "source": "Exodus 20:12",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verses 2-3 quote the Decalogue commandment verbatim from the LXX: 'Honor your father and mother, that it may be well with you and that you may live long.' Volume is maximal (explicit citation formula 'which is the first commandment with a promise'). Paul reads the Sinai command as still binding catechesis for Christian households.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The Deuteronomic recension of the Fifth Commandment is the more exact verbal parallel: it adds 'that it may be well with you' (eu soi genetai), which Eph 6:3 reproduces against Exodus' shorter form. The dual availability of both Decalogue versions explains Paul's conflated wording; Deuteronomy supplies the well-being clause.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The charge to fathers to 'nurture them in the discipline and instruction of the Lord' (6:4) coheres with the Shema's command to teach the commandments diligently to one's children. The thematic link (paternal catechesis) is strong but verbal contact is faint, so an echo rather than allusion.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 3:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Fatherly 'discipline and instruction of the Lord' (paideia... kyriou, 6:4) echoes the wisdom tradition's language of the Lord's paideia of a son. Recurrence of paideia across Proverbs LXX supports coherence, though no single verse is quoted.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 13:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The instruction not to 'provoke children to wrath' but to nurture them tempers the wisdom theme of disciplined child-rearing found in Proverbs. The connection is conceptual coherence within the household-instruction tradition, hence a faint, contested echo.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 3:1-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Sirach's extended meditation on honoring father and mother, with its promise of long life and atonement, stands in the Second-Temple stream that mediated the Decalogue command into household ethics. Availability (deuterocanon) and thematic coherence are real, but Paul cites the Decalogue directly, so Sirach is background not source.",
+        "contested": true,
+        "altSource": "Exodus 20:12"
+      }
+    ]
+  },
+  {
+    "id": "6.2",
+    "ch": 6,
+    "ref": "6:5-9",
+    "echoes": [
+      {
+        "source": "Deuteronomy 10:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The assurance that the heavenly Master shows 'no partiality' (prosopolempsia, 6:9) draws on the LXX formula 'God... does not show partiality' (ou thaumazei prosopon). Volume is high via the distinctive divine-impartiality idiom; Paul applies the courtroom maxim to dissolve master/slave status before God.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 19:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jehoshaphat's charge to judges grounds impartial justice in the fact that 'with the LORD our God there is no... partiality' (ouk estin... lempsis prosopou). The same theologoumenon underlies 6:9; recurrence of the formula across the OT strengthens coherence, though Deuteronomy is the primary verbal source.",
+        "contested": false,
+        "altSource": "Deuteronomy 10:17"
+      },
+      {
+        "source": "Leviticus 25:43",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Masters told to 'give up threatening' (6:9) coheres with the Holiness Code's prohibition on ruling over a fellow Israelite 'with harshness/rigor,' grounded likewise in fear of God. The ethical shape matches but no verbal quotation occurs, so a faint echo.",
+        "contested": true
+      },
+      {
+        "source": "Job 31:13-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Job's refusal to despise the case of his servant, because the same God made both master and slave in the womb, anticipates Eph 6:9's leveling of master and slave before their common heavenly Master. Coherence is strong; verbal dependence is absent, so a contested echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.3",
+    "ch": 6,
+    "ref": "6:10-13",
+    "echoes": [
+      {
+        "source": "Joshua 1:6-9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The opening exhortation 'be strong in the Lord and in the strength of his might' (6:10) echoes the repeated divine charge to Joshua 'be strong and courageous' (ischye kai andrizou) as he takes the land. The martial 'stand firm' framing of the whole passage coheres with the conquest setting, though the wording is a stock LXX encouragement formula.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 40:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In the strength of his might' (en to kratei tes ischyos autou, 6:10) resonates with Isaiah's promise that those who wait on the Lord 'shall renew their strength.' The verbal contact is thematic (divine strengthening of the weak) rather than lexical, so a faint echo.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 10:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The cosmic conflict 'not against flesh and blood but against the principalities... rulers of the darkness' (6:12) coheres with Daniel's angelic 'princes' (archontes) of Persia and Greece who war in the heavens. Second-Temple angelology of national powers supplies availability; the connection is conceptual, hence a contested echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 59:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The command to 'put on the whole armor of God' (endysasthe... panoplian tou theou, 6:11,13) draws its core image from Isaiah's Divine Warrior who 'put on righteousness as a breastplate and a helmet of salvation,' and from Wisdom's elaboration of God arming creation. The arming verb endysasthai and the panoply frame derive from this Divine-Warrior tradition before the individual pieces are named.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 5:17-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Wisdom expands Isaiah 59:17 into a full panoply: the Lord 'will take his zeal as a panoply (panoplian) and arm creation,' donning righteousness as breastplate and impartial judgment as helmet. Paul's distinctive word panoplia and the assembled set of pieces show direct dependence on this Second-Temple development, not Isaiah alone.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "6.4",
+    "ch": 6,
+    "ref": "6:14-17",
+    "echoes": [
+      {
+        "source": "Isaiah 11:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The belt of truth buckled around your waist' (6:14) draws on the messianic shoot of Jesse who wears 'righteousness as the belt of his waist and faithfulness/truth the belt of his loins.' Volume is high: the girdle imagery and the pairing with truth/righteousness are distinctive to Isaiah 11, and Paul redistributes its terms across belt and breastplate.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 59:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The breastplate of righteousness' (6:14) is a direct lift of the Divine Warrior who 'put on righteousness as a breastplate' (enedysato dikaiosynen hos thoraka). The lexical match (thorax dikaiosynes) is exact, making this a high-volume allusion; the believer is clothed in God's own armor.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 5:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Wisdom's reworking of Isaiah ('he will put on righteousness as a breastplate') is the proximate Second-Temple form Paul knows, reinforcing the breastplate piece. Recurrence of the Isaiah image through Wisdom strengthens coherence even where Isaiah is the ultimate source.",
+        "contested": false,
+        "altSource": "Isaiah 59:17"
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Feet fitted with the readiness of the gospel of peace' (6:15) alludes to Isaiah's herald, 'how beautiful upon the mountains are the feet of him who brings good news... who proclaims peace.' The triad feet + euangelizomenos + peace is distinctive to this verse; the 'shoes' piece evangelizes the warrior's stance.",
+        "contested": false
+      },
+      {
+        "source": "Nahum 1:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Nahum 2:1 LXX (1:15 EVV) repeats Isaiah's herald motif: 'behold upon the mountains the feet of one bringing good news and announcing peace.' Its near-identical wording strengthens the 'gospel of peace' shoe imagery, though Isaiah 52:7 is the primary source.",
+        "contested": false,
+        "altSource": "Isaiah 52:7"
+      },
+      {
+        "source": "Psalm 7:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'shield of faith' that quenches 'all the flaming darts of the evil one' (6:16) coheres with the Psalmist's image of God making his arrows into 'flaming/fiery shafts.' The unusual 'flaming darts' (belos pepyromena) motif has its nearest OT background here, though the attacker is reversed; a faint echo.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 15:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'shield of faith' (thyreos tes pisteos, 6:16) may evoke the LORD's word to Abram, 'I am your shield,' the foundational pairing of shield and faith (Abram 'believed'). Coherence with the faith motif is suggestive but the lexical contact is generic, so a low-confidence echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 59:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Take the helmet of salvation' (perikephalaian tou soteriou, 6:17) is a verbatim borrowing from the Divine Warrior who set 'a helmet of salvation on his head' (perikephalaian soteriou). The exact lexical match makes this among the clearest pieces of Isaianic armor; God's saving victory becomes the believer's headgear.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 5:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom 5:18 also gives the warrior 'impartial judgment as a helmet,' confirming the Second-Temple currency of the helmet image alongside Isaiah. Recurrence supports coherence though Isaiah supplies the exact 'helmet of salvation.'",
+        "contested": false,
+        "altSource": "Isaiah 59:17"
+      },
+      {
+        "source": "Isaiah 49:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The sword of the Spirit, which is the word of God' (6:17) draws on the Servant who says God 'made my mouth like a sharp sword.' The fusion of sword + the spoken word of God is distinctive to this Servant Song; the believer wields the prophetic word as weapon.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The messianic shoot strikes the earth 'with the rod of his mouth' and slays the wicked 'with the breath (pneumati) of his lips,' joining sword/word with Spirit (pneuma) precisely as Eph 6:17 ('sword of the Spirit... word of God'). The Spirit-word-judgment cluster strengthens the allusion alongside Isaiah 49:2.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's killing/hewing of the people 'by the words of my mouth' provides a further prophetic precedent for the word of God as a slaying weapon, supporting the sword image. The contact is thematic recurrence rather than verbal dependence, hence a faint echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.5",
+    "ch": 6,
+    "ref": "6:18-20",
+    "echoes": [
+      {
+        "source": "Daniel 6:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Praying at all times in the Spirit... in all perseverance' (6:18) coheres with the OT pattern of unceasing, regular prayer exemplified by Daniel's thrice-daily petition. The connection is to a devotional topos rather than a specific text, so a faint echo.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 141:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The summons to constant 'prayer and requests... at all times' (6:18) resonates with the Psalmist's plea that prayer rise continually like incense. Thematic coherence with perpetual supplication supports a low-confidence, contested echo.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 3:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's request that 'utterance may be given me in opening my mouth' to make known the mystery with boldness (6:19) echoes the prophetic call in which God opens the prophet's mouth to speak his word. The mouth-opening / divinely given speech motif coheres with prophetic commissioning, though no single verse is quoted.",
+        "contested": true,
+        "altSource": "Ezekiel 29:21"
+      }
+    ]
+  },
+  {
+    "id": "6.6",
+    "ch": 6,
+    "ref": "6:21-24",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The closing benediction 'Peace be to the brothers, and love with faith... Grace be with all' (6:23-24) stands in the stream of the Aaronic blessing's peace-and-grace formula. The contact is to a liturgical convention rather than a quotation, so a faint, contested echo.",
+        "contested": true
+      }
+    ]
+  }
+]

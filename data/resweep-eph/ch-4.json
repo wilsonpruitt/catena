@@ -1,0 +1,355 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-3",
+    "echoes": [
+      {
+        "source": "Micah 6:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "To 'walk worthily of the calling... with all lowliness and humility' fuses the prophetic summons to 'walk humbly with your God.' Volume is moderate (shared 'walk' + 'humility' word-field) and the coherence is strong with Paul's halakhic ethics. Availability is secure; the trope of covenantal walking is widely diffused across the OT.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 10:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Deuteronomy's call to 'walk in all his ways' supplies the underlying idiom of vocational walking that Paul ethicizes here. Volume is thin and the recurrence is generic, so the echo is faint, but it anchors the 'walk worthily' language in the covenant tradition.",
+        "contested": true,
+        "altSource": "Micah 6:8"
+      },
+      {
+        "source": "Sirach 3:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Perform your tasks in meekness' and the wider Sirach catena on forbearance parallels the cluster lowliness/patience/'bearing with one another.' Availability holds as Second-Temple wisdom; volume is low and the parallel is thematic rather than verbal, hence faint.",
+        "contested": true,
+        "altSource": "Proverbs 16:19"
+      },
+      {
+        "source": "Psalm 133:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'How good... when brothers dwell in unity' coheres with 'the unity of the Spirit in the bond of peace.' The link is conceptual not lexical, so the echo is faint, but the psalm is the classic OT locus for fraternal unity Paul presses.",
+        "contested": true,
+        "altSource": "Isaiah 52:7"
+      }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:4-6",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Shema's 'the LORD is one' undergirds the confession 'one Lord... one God and Father of all.' Volume is high (the monotheistic 'one' refrain saturates the unit) and coherence with Paul's elsewhere-cited Shema theology is strong. The creed reworks Israel's central confession into a sevenfold unity claim.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 2:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Have we not all one Father? Has not one God created us?' is the closest OT antecedent to 'one God and Father of all, who is over all and through all.' Volume is high with the doubled 'one Father / one God,' and Malachi deploys it (like Paul) to ground communal unity against fracture. Coherence is excellent.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 14:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD will be one and his name one' supplies the eschatological monotheism behind 'one Lord... one God.' Volume is moderate; the verse extends the Shema toward the universal lordship ('over all, through all') Paul affirms. Availability and coherence are solid.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:7-10",
+    "echoes": [
+      {
+        "source": "Psalm 68:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Verse 8 explicitly cites 'When he ascended on high, he led captivity captive, and gave gifts to men' from Psalm 68:18. The quotation is marked ('he says') and the wording follows a targum-like reading ('gave' rather than 'received' gifts). Highest volume and explicitness in the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 139:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Descended into the lower parts of the earth' echoes the psalm's 'wrought in the depths of the earth' as imagery for the hidden lowest region. Volume is low and the figural application is debated, but the spatial idiom of the earth's depths is shared.",
+        "contested": true,
+        "altSource": "Psalm 63:9"
+      },
+      {
+        "source": "Jeremiah 23:24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'That he might fill all things' coheres with the divine 'Do I not fill heaven and earth?' Volume is moderate (the 'fill all/heaven and earth' motif) and the coherence with Eph's cosmic-plenitude theology is strong. The omnipresence claim is transferred to the ascended Christ.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:11-13",
+    "echoes": [
+      {
+        "source": "Numbers 11:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The distribution of Spirit-endowed leadership offices ('he gave some apostles... prophets') faintly recalls Yahweh apportioning the spirit to the seventy elders. Volume is low and the parallel is conceptual; it reflects the OT pattern of God gifting officers to the people.",
+        "contested": true,
+        "altSource": "Jeremiah 3:15"
+      },
+      {
+        "source": "Jeremiah 3:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will give you shepherds after my own heart, who will feed you with knowledge' parallels Christ giving 'shepherds and teachers' for 'the knowledge of the Son of God.' Volume is low but the shepherd-plus-knowledge collocation is suggestive and coheres with the pericope's aim.",
+        "contested": true,
+        "altSource": "Numbers 11:25"
+      },
+      {
+        "source": "Habakkuk 2:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Maturing 'until we all attain to the unity... of the knowledge of the Son of God' faintly echoes the eschatological filling of the earth with 'the knowledge of the glory of the LORD.' Volume is thin; the shared eschatological 'knowledge' goal supplies coherence.",
+        "contested": true,
+        "altSource": "Isaiah 11:9"
+      }
+    ]
+  },
+  {
+    "id": "4.5",
+    "ch": 4,
+    "ref": "4:14-16",
+    "echoes": [
+      {
+        "source": "Isaiah 57:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Tossed back and forth and carried about with every wind of doctrine' draws on the prophet's wicked 'like the tossing sea... whose waters toss up mire.' Volume is moderate (the instability/tossing image) and coherence is good: Isaiah uses it for the morally unstable, as Paul does for the doctrinally immature. Contested because the marine instability trope is diffuse.",
+        "contested": true,
+        "altSource": "Isaiah 28:9"
+      },
+      {
+        "source": "Zechariah 8:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Speaking truth in love' anticipates the explicit citation of 'speak the truth to one another' at 4:25. Recurrence within the same chapter strengthens the case that Zechariah's communal-truth command already colors 4:15. Volume is moderate; the verbal kernel ('speak truth') is shared.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 28:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's mockery of those still needing 'milk' / 'weaned from the breast' parallels 'no longer children.' Volume is low and the link is thematic (spiritual infancy), so the echo is faint and contested.",
+        "contested": true,
+        "altSource": "Isaiah 57:20"
+      }
+    ]
+  },
+  {
+    "id": "4.6",
+    "ch": 4,
+    "ref": "4:17-19",
+    "echoes": [
+      {
+        "source": "Jeremiah 10:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Gentiles' 'futility of mind' echoes Jeremiah's polemic that 'the customs of the peoples are vanity/futile' (cf. 2:5, going after worthlessness and becoming worthless). Volume is moderate; the 'futility/vanity of the nations' idiom is a fixed anti-idolatry trope Paul redeploys. Coherence with the idolatry frame is strong.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 115:4-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The darkened, senseless idolaters who 'become like' their lifeless idols stand behind the 'darkened understanding... callous' Gentiles. Volume is moderate; the psalm's logic (worship of vain idols deadens the worshipper) coheres exactly with Paul's diagnosis. A staple availability text for Jewish anti-pagan rhetoric.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 14:22-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Wisdom's catalogue of idolatry breeding 'great strife due to ignorance,' defilement, and uncleanness closely matches 'alienated... because of ignorance... gave themselves up to uncleanness with greediness.' Volume is moderate and the structural parallel (ignorance to idolatry to sexual/ethical corruption) is striking; this deuterocanonical text is a leading source for the Gentile vice-portrait.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 13:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'All men who were ignorant of God' parallels the Gentiles 'alienated from the life of God because of ignorance.' Volume is lower than 14:22-27 but reinforces the same Second-Temple ignorance-of-God topos; counted separately for recurrence.",
+        "contested": true,
+        "altSource": "Wisdom of Solomon 14:22-27"
+      },
+      {
+        "source": "Psalm 95:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The hardening of their hearts' echoes the recurrent OT hardening motif ('harden not your hearts'). Volume is low and the trope is diffuse, but the heart-hardening idiom is securely available and coheres with the alienation theme.",
+        "contested": true,
+        "altSource": "Ezekiel 36:26"
+      }
+    ]
+  },
+  {
+    "id": "4.7",
+    "ch": 4,
+    "ref": "4:20-24",
+    "echoes": [
+      {
+        "source": "Genesis 1:26-27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Put on the new man, who in the likeness of God has been created in righteousness and holiness' alludes directly to humanity 'created in the image/likeness of God.' Volume is high (create + likeness of God) and coherence is strong: Paul casts conversion as a new-creation restoration of the imago Dei. A foundational availability text.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Be renewed in the spirit of your mind' and 'new man' draw on the promise of a 'new heart and a new spirit' replacing the heart of stone. Volume is moderate (new + spirit + interior renewal) and the eschatological-renewal coherence is strong, contrasting the hardened hearts of 4:18.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 51:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Create in me a clean heart, O God, and renew a right spirit within me' joins the create-and-renew language behind 'renewed in the spirit of your mind... created in righteousness.' Volume is moderate; the penitential renewal motif coheres with the put-off/put-on transformation.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "4.8",
+    "ch": 4,
+    "ref": "4:25",
+    "echoes": [
+      {
+        "source": "Zechariah 8:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Putting away falsehood, speak truth each one with his neighbor' quotes 'Speak the truth to one another' (LXX 'each man the truth to his neighbor'). The verbal correspondence is near-exact and the communal rationale matches Zechariah's covenant-renewal ethics. Highest-confidence citation of the ethical section.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall not lie to one another' supplies the Holiness Code substrate of the 'put away falsehood' command. Volume is low next to the Zechariah citation, but the neighbor-truth ethic is rooted in Lev 19, lending recurrence to the source field.",
+        "contested": true,
+        "altSource": "Zechariah 8:16"
+      }
+    ]
+  },
+  {
+    "id": "4.9",
+    "ch": 4,
+    "ref": "4:26-27",
+    "echoes": [
+      {
+        "source": "Psalm 4:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Be angry, and do not sin' quotes Psalm 4:4 verbatim in its LXX form. The citation is unmarked but lexically exact, and Paul extends the psalm's nighttime self-examination ('on your beds') into 'do not let the sun go down on your wrath.' A secure quotation.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 24:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Don't let the sun go down on your wrath' reworks the Deuteronomic sundown deadline ('the sun shall not go down' on the pledge / on the laborer's wages, 24:13,15). Volume is moderate (the sunset-deadline idiom) and coherence is good: a same-day reckoning of obligation, here applied to anger. Contested as to which sunset law is primary.",
+        "contested": true,
+        "altSource": "Deuteronomy 24:15"
+      }
+    ]
+  },
+  {
+    "id": "4.10",
+    "ch": 4,
+    "ref": "4:28",
+    "echoes": [
+      {
+        "source": "Exodus 20:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Let him who stole steal no more' presupposes the Decalogue's 'You shall not steal.' Volume is moderate and coherence strong; Paul transmutes the prohibition into a positive labor-and-almsgiving ethic. Availability is maximal.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 28:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The honest-labor-versus-theft contrast and giving 'to him who has need' echoes wisdom's praise of working one's land and of generosity to the poor (cf. Prov 14:21, 31). Volume is low and the parallel is thematic, so the echo is faint but coherent with the almsgiving aim.",
+        "contested": true,
+        "altSource": "Deuteronomy 15:11"
+      }
+    ]
+  },
+  {
+    "id": "4.11",
+    "ch": 4,
+    "ref": "4:29-30",
+    "echoes": [
+      {
+        "source": "Isaiah 63:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Don't grieve the Holy Spirit of God' alludes to Israel who 'rebelled and grieved his Holy Spirit.' Volume is high (the rare collocation 'grieve' + 'Holy Spirit' is virtually unique to Isa 63:10 in the OT) and coherence is excellent. One of the strongest non-quotation allusions in the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 15:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let no corrupt speech... but such as is good for building up... that it may give grace' echoes wisdom's 'a gentle tongue is a tree of life' (cf. 10:31-32, 12:18). Volume is low and the tongue-ethics field is diffuse, so the echo is faint though coherent with the speech-edification theme.",
+        "contested": true,
+        "altSource": "Proverbs 10:31"
+      },
+      {
+        "source": "Ezekiel 9:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In whom you were sealed for the day of redemption' may echo the protective mark/seal set on the faithful before judgment. Volume is low and the link debated, but the eschatological sealing-for-deliverance motif coheres.",
+        "contested": true,
+        "altSource": "Isaiah 44:5"
+      }
+    ]
+  },
+  {
+    "id": "4.12",
+    "ch": 4,
+    "ref": "4:31-32",
+    "echoes": [
+      {
+        "source": "Exodus 34:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Be kind... tenderhearted, forgiving each other, just as God also in Christ forgave you' grounds the imitation of God in the merciful self-revelation 'merciful and gracious... forgiving iniquity.' Volume is moderate and coherence high: divine forgiving compassion is the model for human forgiveness (imitatio Dei). Availability is a cornerstone OT text.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 103:8-13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'As a father has compassion on his children, so the LORD has compassion' and 'merciful and gracious, slow to anger' parallel 'be kind to one another, tenderhearted' as the gracious God's image. Volume is moderate; the psalm liturgically extends Exod 34:6-7, reinforcing recurrence of the compassion source.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 10:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Putting away 'all bitterness, wrath, anger... and malice' in favor of forbearing love echoes 'hatred stirs up strife, but love covers all offenses.' Volume is low and the parallel is thematic, so the echo is faint though coherent with the forgiveness ethic.",
+        "contested": true,
+        "altSource": "Leviticus 19:18"
+      }
+    ]
+  }
+]

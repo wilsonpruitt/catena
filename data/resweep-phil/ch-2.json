@@ -1,0 +1,246 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-4",
+    "echoes": [
+      {
+        "source": "Proverbs 3:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's call to do nothing through conceit and to count others better than oneself coheres with the wisdom warning 'Be not wise in your own eyes,' a recurrent sapiential theme of self-abasement. Volume is faint (no shared vocabulary in WEB) and the thought is a commonplace, so this is a contested low-confidence echo of the humility tradition rather than a pointed allusion.",
+        "contested": true,
+        "altSource": "Proverbs 26:12"
+      },
+      {
+        "source": "Sirach 3:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The greater you are, the more you must humble yourself' supplies a Second-Temple Jewish backdrop for Paul's 'in humility each counting others better than himself.' Availability and coherence are strong (Sirach's humility ethic was widely read), but the verbal overlap is thematic rather than lexical, marking this a faint contested echo.",
+        "contested": true,
+        "altSource": "Proverbs 11:2"
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:5-8",
+    "echoes": [
+      {
+        "source": "Genesis 1:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Christ 'existing in the form of God' (en morphe theou) evokes humanity made in the image/likeness of God, the foundational image-of-God text, setting up the Adam/Christ contrast that runs through the hymn. Coherence is high with Pauline image-of-God theology (cf. 2 Cor 4:4; Col 1:15), though 'form' is not the LXX 'image,' so this remains an allusion of medium volume.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "That Christ 'didn't consider equality with God a thing to be grasped' is widely read as an inverse of Adam and Eve's grasping to 'be like God' at the serpent's prompting. The Adam-Christ antithesis (humility undoing the primal grasp) gives high coherence with Pauline theology; the allusion is conceptual rather than verbal, hence medium confidence and a recognized scholarly debate.",
+        "contested": true,
+        "altSource": "Genesis 3:22"
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Emptied himself, taking the form of a servant' echoes the Suffering Servant who 'poured out his soul to death' and was 'numbered with the transgressors,' the Servant's self-emptying obedience unto death. Volume is strong given the servant/slave (doulos) language plus the death motif, and recurrence is high since the hymn climaxes in an explicit Isaiah citation (45:23), grounding availability and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The downward arc 'he humbled himself, becoming obedient to death' sets up the Servant who, though abased, 'shall be exalted and lifted up,' which v.9 then fulfills. The pairing of the Servant's humiliation here and exaltation in 2:9 mirrors Isa 52:13's own movement, giving strong coherence and recurrence within the hymn.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Becoming obedient to death, yes, the death of the cross' resonates with the Servant 'cut off out of the land of the living,' the violent, undeserved death of the righteous sufferer. The echo strengthens the broader Isa 53 matrix already active in the hymn, though the specific 'death' wording is generic, keeping confidence medium.",
+        "contested": true,
+        "altSource": "Isaiah 53:7"
+      },
+      {
+        "source": "Wisdom of Solomon 2:19-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The righteous one condemned 'to a shameful death' who tests God's claim coheres with Christ's obedient death on the cross and subsequent vindication. Wisdom 2-5 was available and shares the suffering-then-vindicated righteous pattern, but lexical overlap with Philippians is thin, so this is a faint contested echo.",
+        "contested": true,
+        "altSource": "Wisdom of Solomon 5:1-5"
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:9-11",
+    "echoes": [
+      {
+        "source": "Isaiah 45:23",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'That at the name of Jesus every knee should bow... and every tongue should confess' is a direct citation of 'to me every knee shall bow, every tongue shall swear,' a monotheistic oracle of universal homage. Volume is maximal (near-verbatim of the LXX with knee-bow and tongue-confess parallelism), and Paul redeploys the same text in Rom 14:11, giving high recurrence; the staggering move is applying YHWH's exclusive worship to Jesus.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Therefore God also highly exalted him' answers Isa 52:13's promise that the Servant 'shall be exalted and lifted up, and shall be very high.' The Greek hyperhypsoo intensifies the LXX's verbs of exaltation, and the Servant frame from 2:7-8 makes this the climactic vindication, yielding strong coherence and volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 45:21",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The confession 'Jesus Christ is Lord' draws its monotheistic force from the surrounding oracle ('there is no God else beside me; a just God and a Savior'), the very context of the quoted 45:23. Including the immediate co-text strengthens availability and coherence, supporting the bold identification of Jesus with the one Lord.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 3:14-15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The name which is above every name' evokes the divine Name revealed to Moses, the ineffable Tetragrammaton/'I AM,' which bowing and confession honor. Coherence is high since the bestowed 'name' that draws universal worship is best read as the divine Name (kyrios = YHWH), though Exodus is not verbally cited, so confidence is medium and the precise referent is debated.",
+        "contested": true,
+        "altSource": "Exodus 23:21"
+      },
+      {
+        "source": "Isaiah 45:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The cosmic scope 'those in heaven, those on earth, and those under the earth' resonates with Deutero-Isaiah's Creator who 'formed the earth' and rules all spheres, the universal-sovereignty context of the cited oracle. The three-tier cosmos language is conventional, so this is a faint contested echo bolstering the 45:23 citation's totality.",
+        "contested": true,
+        "altSource": "Psalm 148:1-10"
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:12-13",
+    "echoes": [
+      {
+        "source": "Psalm 2:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Work out your own salvation with fear and trembling' echoes 'Serve the LORD with fear, and rejoice with trembling,' the posture of reverent obedience before God's enthroned king. The phobos kai tromos pairing is a recurrent LXX idiom Paul favors (1 Cor 2:3; 2 Cor 7:15; Eph 6:5), giving coherence; the Psalm 2 royal context coheres with the Lordship theme of 2:9-11, supporting medium confidence.",
+        "contested": true,
+        "altSource": "Exodus 15:16"
+      },
+      {
+        "source": "Isaiah 26:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'It is God who works in you both to will and to work' faintly recalls Isaiah's confession 'we have... wrought no deliverance in the earth' apart from God, the theme that salvation is God's effective working, not human achievement. The conceptual overlap (God as the one who works salvation) is thin verbally, so this is a low-confidence contested echo.",
+        "contested": true,
+        "altSource": "Isaiah 26:12"
+      }
+    ]
+  },
+  {
+    "id": "2.5",
+    "ch": 2,
+    "ref": "2:14-16",
+    "echoes": [
+      {
+        "source": "Exodus 16:7-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Do all things without murmurings' evokes Israel's wilderness murmuring against the LORD over manna, the paradigmatic rebellion of God's people. The gongysmos word-group is the LXX term for these episodes, and Paul casts the Philippians as a wilderness generation to be unlike, giving coherence and recurrence across the Exodus-Numbers complex.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 14:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The congregation that 'murmured against Moses and against Aaron' and was condemned to die in the wilderness models the grumbling Paul forbids, sharpening the contrast with becoming 'blameless children of God.' Recurrence of the murmuring motif (Num 14, 16, 17) and shared gongysmos vocabulary support a medium-confidence allusion.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 17:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Aaron's rod episode aims to 'make to cease... the murmurings... against me,' reinforcing the wilderness grumbling background of 2:14. The echo is part of the cumulative Numbers murmuring matrix rather than a discrete allusion, hence low confidence.",
+        "contested": true,
+        "altSource": "Numbers 16:41"
+      },
+      {
+        "source": "Deuteronomy 32:5",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Children of God without defect in the midst of a crooked and perverse generation' lifts the Song of Moses' indictment of Israel as 'a perverse and crooked generation,' but inverts it: the church are now the faithful children. Volume is high (skolios kai diestrammenos plus 'children/not his children' from the same verse), and the Song of Moses is a recurrent NT source, giving strong availability and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You are seen as lights in the world' draws on the eschatological promise that 'those who are wise shall shine as the brightness of the firmament,' the luminous vindication of the faithful at the end. Coherence is high with Paul's 'day of Christ' framing in v.16, and the shining-luminary imagery (phosteres) gives strong volume for an allusion.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Within the same Song of Moses, God's complaint about 'a very perverse generation, children in whom is no faith' reinforces the 32:5 quotation and the 'children of God' contrast. The echo deepens the Deuteronomy 32 backdrop already active, so it is a low-confidence supporting echo.",
+        "contested": true,
+        "altSource": "Deuteronomy 32:19"
+      },
+      {
+        "source": "Isaiah 49:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'That I didn't run in vain nor labor in vain' resonates with the Servant's lament 'I have labored in vain, I have spent my strength for nothing,' the worry of fruitless toil later vindicated by God. The 'in vain' (eis kenon / kenos) labor motif and the Servant context (already active in the hymn) give a faint coherent echo, kept low for thin verbal overlap.",
+        "contested": true,
+        "altSource": "Isaiah 65:23"
+      }
+    ]
+  },
+  {
+    "id": "2.6",
+    "ch": 2,
+    "ref": "2:17-18",
+    "echoes": [
+      {
+        "source": "Numbers 28:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'If I am poured out on the sacrifice and service of your faith' draws on the cultic drink offering (spende) poured out beside the sacrifice, casting Paul's possible martyrdom as a libation. The spendomai imagery is precise to the tamid libation legislation, and 'sacrifice and service' (thysia, leitourgia) is sacrificial vocabulary, giving medium-to-strong coherence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 29:40",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The daily burnt offering's prescribed drink offering of wine poured out supplies the same libation image behind Paul's 'poured out.' Together with Num 28:7 this gives recurrence within the sacrificial-libation tradition, supporting a medium-confidence allusion to the drink offering rite.",
+        "contested": true,
+        "altSource": "Numbers 15:5"
+      }
+    ]
+  },
+  {
+    "id": "2.7",
+    "ch": 2,
+    "ref": "2:19-24",
+    "echoes": []
+  },
+  {
+    "id": "2.8",
+    "ch": 2,
+    "ref": "2:25-30",
+    "echoes": [
+      {
+        "source": "Job 2:4-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Epaphroditus 'risking his life' (paraboleusamenos te psyche) near to death for the work of Christ faintly recalls the proverb 'skin for skin, all that a man has will he give for his life,' the valuation of life staked in service. The overlap is thematic (life imperiled for a higher cause), not lexical, so this is a faint contested echo.",
+        "contested": true,
+        "altSource": "Job 33:22"
+      }
+    ]
+  }
+]

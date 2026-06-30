@@ -1,0 +1,1200 @@
+{
+  "slug": "philippians",
+  "name": "Philippians",
+  "subtitle": "A Joy Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "Paul writes from prison, and writes of joy — but the joy rests on Scripture. At the letter’s heart is a hymn that reads the crucified and exalted Christ through Isaiah’s suffering and vindicated Servant: he emptied himself, took the form of a slave, was obedient unto death, and was therefore given the name above every name, so that — in the words Isaiah gave to God alone — “every knee shall bow and every tongue confess.” Around it Paul gathers the language of the righteous sufferer who will not be put to shame, the wilderness people who must not grumble, the children of God shining like stars in a crooked generation, and the true circumcision who worship by the Spirit. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where Paul follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-2",
+      "text": "Paul and Timothy, servants of Jesus Christ; To all the saints in Christ Jesus who are at Philippi, with the overseers and servants: Grace to you, and peace from God, our Father, and the Lord Jesus Christ.",
+      "echoes": [
+        {
+          "source": "Numbers 6:24-26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "‘Yahweh bless you, and keep you. Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.’",
+          "note": "The salutation 'Grace to you, and peace' may carry the cadence of the Aaronic blessing, whose climax is shalom ('peace'). Volume is faint and the formula is Paul's standard epistolary opening, so coherence with the Numbers benediction is real but diffuse; availability of the priestly blessing in Second-Temple liturgy supports a soft echo, not a citation.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 89:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "a very awesome God in the council of the holy ones, to be feared above all those who are around him?",
+          "note": "'Saints' (hagioi) for the addressed community draws on the OT designation of God's holy/set-apart people (qedoshim), used of the assembly and the heavenly host in psalmody and Daniel. Recurrence across the LXX is high but the term is so naturalized in Paul that any single referent is weak; marked contested.",
+          "contested": true,
+          "altSource": "Daniel 7:18"
+        },
+        {
+          "source": "Joshua 1:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Now after the death of Moses the servant of Yahweh, Yahweh spoke to Joshua the son of Nun, Moses’ servant, saying,",
+          "note": "'Servants of Jesus Christ' echoes the OT honorific 'servant of the LORD' borne by Moses, Joshua, and the prophets, now transferred to Christ as the divine master. Coherence with Paul's self-designation elsewhere is strong, but volume here is thin and the title is conventional; faint figural transfer.",
+          "contested": true,
+          "altSource": "Amos 3:7"
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:3-8",
+      "text": "I thank my God whenever I remember you, always in every request of mine on behalf of you all making my requests with joy, for your partnership in furtherance of the Good News from the first day until now; being confident of this very thing, that he who began a good work in you will complete it until the day of Jesus Christ. It is even right for me to think this way on behalf of all of you, because I have you in my heart, because, both in my bonds and in the defense and confirmation of the Good News, you all are partakers with me of grace. For God is my witness, how I long after all of you in the tender mercies of Christ Jesus.",
+      "echoes": [
+        {
+          "source": "Psalm 138:8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh will fulfill that which concerns me; your loving kindness, Yahweh, endures forever. Don’t forsake the works of your own hands.",
+          "note": "'He who began a good work in you will complete it' rests on the OT confidence that God finishes what he starts: LXX Ps 137:8 'the LORD will accomplish/perfect (epitelesei) on my behalf... do not forsake the works of your hands.' The shared verb-idea of God perfecting his own work, plus the appeal to divine faithfulness, gives real coherence; volume is moderate, so allusion rather than quotation."
+        },
+        {
+          "source": "Joel 2:31",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The sun will be turned into darkness, and the moon into blood, before the great and terrible day of Yahweh comes.",
+          "note": "'The day of Jesus Christ' (also 1:10) christologizes the prophetic 'day of the LORD,' a fixed eschatological topos in Joel, Amos, and Zephaniah. Recurrence of the motif across the prophets and its centrality to Paul's eschatology give strong coherence; the transfer of YHWH's day to Christ is the load-bearing figural move.",
+          "altSource": "Amos 5:18"
+        },
+        {
+          "source": "Zephaniah 1:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The great day of Yahweh is near. It is near, and hurries greatly, the voice of the day of Yahweh. The mighty man cries there bitterly.",
+          "note": "Supplementary witness to the 'day of the LORD' background behind 'the day of Jesus Christ.' Lower than Joel/Amos because the verbal contact is generic; included for recurrence of the motif.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 145:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh is gracious, merciful, slow to anger, and of great loving kindness.",
+          "note": "Paul's longing 'in the tender mercies (splanchna) of Christ Jesus' draws on OT compassion language (rachamim/oiktirmoi) characteristically predicated of God. The affective vocabulary coheres with the divine-mercy tradition, but the Greek splanchna is not the usual LXX term, so the echo is faint.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "ch": 1,
+      "ref": "1:9-11",
+      "text": "This I pray, that your love may abound yet more and more in knowledge and all discernment; so that you may approve the things that are excellent; that you may be sincere and without offense to the day of Christ; being filled with the fruits of righteousness, which are through Jesus Christ, to the glory and praise of God.",
+      "echoes": [
+        {
+          "source": "Proverbs 11:30",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The fruit of the righteous is a tree of life. He who is wise wins souls.",
+          "note": "'Filled with the fruits of righteousness' draws on the wisdom/prophetic image where righteousness yields fruit: 'the fruit of the righteous is a tree of life.' Coherence with the agricultural righteousness-fruit metaphor is strong and recurrent across wisdom and prophets; volume moderate.",
+          "altSource": "Amos 6:12"
+        },
+        {
+          "source": "Amos 6:12",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "Do horses run on the rocky crags? Does one plow there with oxen? But you have turned justice into poison, and the fruit of righteousness into bitterness;",
+          "note": "Amos's rhetorical 'you have turned... the fruit of righteousness into wormwood' is a candidate source for the precise phrase 'fruit of righteousness.' The exact word-pair appears here, raising volume, but the contexts differ sharply (judgment vs. blessing), weakening coherence; offered as a contested verbal parallel.",
+          "contested": true,
+          "altSource": "Proverbs 11:30"
+        },
+        {
+          "source": "Isaiah 5:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For the vineyard of Yahweh of Armies is the house of Israel, and the men of Judah his pleasant plant: and he looked for justice, but, behold, oppression; for righteousness, but, behold, a cry of distress.",
+          "note": "The vineyard song where God looks for 'righteousness' as fruit stands behind the broader prophetic expectation of righteous fruit. Thematic coherence is good but verbal contact is indirect; faint echo supporting the fruit-of-righteousness cluster.",
+          "contested": true
+        },
+        {
+          "source": "Hosea 10:12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground; for it is time to seek Yahweh, until he comes and rains righteousness on you.",
+          "note": "'Sow for yourselves righteousness, reap the fruit of steadfast love' supplies the same sowing/reaping-of-righteousness logic. Recurrence within the prophetic fruit-of-righteousness motif justifies inclusion at low confidence.",
+          "contested": true
+        },
+        {
+          "source": "Malachi 3:2-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“But who can endure the day of his coming? And who will stand when he appears? For he is like a refiner’s fire, and like launderer’s soap; and he will sit as a refiner and purifier of silver, and he will purify the sons of Levi, and refine them as gold and silver; and they shall offer to Yahweh offerings in righteousness.",
+          "note": "'Sincere and without offense to the day of Christ' pairs the day-of-the-LORD motif with purity/refining language reminiscent of Malachi's refiner who purifies until offerings are presented in righteousness. The contact is thematic, not verbal; faint.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "ch": 1,
+      "ref": "1:12-18",
+      "text": "Now I desire to have you know, brothers, that the things which happened to me have turned out rather to the progress of the Good News; so that it became evident to the whole palace guard, and to all the rest, that my bonds are in Christ; and that most of the brothers in the Lord, being confident through my bonds, are more abundantly bold to speak the word of God without fear. Some indeed preach Christ even out of envy and strife, and some also out of good will. The former insincerely preach Christ from selfish ambition, thinking that they add affliction to my chains; but the latter out of love, knowing that I am appointed for the defense of the Good News. What does it matter? Only that in every way, whether in pretense or in truth, Christ is proclaimed. I rejoice in this, yes, and will rejoice.",
+      "echoes": [
+        {
+          "source": "Genesis 50:20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As for you, you meant evil against me, but God meant it for good, to bring to pass, as it is this day, to save many people alive.",
+          "note": "'The things which happened to me have turned out rather to the progress of the gospel' resonates figurally with Joseph's 'you meant evil... but God meant it for good,' the paradigm of imprisonment turned to providential benefit. Coherence with Paul's providential reading of his chains is suggestive; verbal contact is absent, so this is a contested typological echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:19-26",
+      "text": "For I know that this will turn out to my salvation, through your supplication and the supply of the Spirit of Jesus Christ, according to my earnest expectation and hope, that I will in no way be disappointed, but with all boldness, as always, now also Christ will be magnified in my body, whether by life, or by death. For to me to live is Christ, and to die is gain. But if I live on in the flesh, this will bring fruit from my work; yet I don’t know what I will choose. But I am in a dilemma between the two, having the desire to depart and be with Christ, which is far better. Yet, to remain in the flesh is more needful for your sake. Having this confidence, I know that I will remain, yes, and remain with you all, for your progress and joy in the faith, that your rejoicing may abound in Christ Jesus in me through my presence with you again.",
+      "echoes": [
+        {
+          "source": "Job 13:16",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "This also shall be my salvation, that a godless man shall not come before him.",
+          "note": "'This will turn out to my salvation' reproduces LXX Job 13:16 verbatim ('touto moi apobesetai eis soterian'). The exact wording, the shared situation of a righteous sufferer confident of vindication before God, and Job's surrounding 'I will not be put to shame' all yield maximal volume and coherence; this is the chapter's one near-citation."
+        },
+        {
+          "source": "Psalm 25:2-3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "My God, I have trusted in you. Don’t let me be shamed. Don’t let my enemies triumph over me. Yes, no one who waits for you shall be shamed. They shall be shamed who deal treacherously without cause.",
+          "note": "'My earnest expectation and hope, that I will in no way be put to shame' echoes the recurrent psalmic confidence 'in you I trust, let me not be put to shame' (LXX Ps 24:2-3,20). The shame/hope-in-God vocabulary is dense in the Psalter and coheres tightly with Paul's vindication theme; allusion to the topos rather than one verse.",
+          "altSource": "Psalm 25:20"
+        },
+        {
+          "source": "Isaiah 50:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For the Lord Yahweh will help me; therefore I have not been confounded: therefore have I set my face like a flint, and I know that I shall not be disappointed.",
+          "note": "The Servant's 'I shall not be put to shame... I have set my face like flint' supplies the suffering-yet-unashamed confidence behind Paul's 'I will in no way be disappointed (shamed)... with all boldness.' Coherence with the vindicated-Servant pattern is strong; verbal contact (shame + boldness) is moderate.",
+          "altSource": "Isaiah 49:23"
+        },
+        {
+          "source": "Psalm 34:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Oh magnify Yahweh with me. Let us exalt his name together.",
+          "note": "'Christ will be magnified (megalynthesetai) in my body' echoes the psalmic call to magnify the LORD (LXX Ps 33:4 'megalynate ton kyrion'); Ps 34 also supplies the adjacent 'those who look to him are radiant, never put to shame.' The shared verb of magnifying and the linked shame motif give good coherence; christological transfer of God's magnification to Christ is the figural pivot."
+        },
+        {
+          "source": "Isaiah 49:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "and he said to me, “You are my servant; Israel, in whom I will be glorified.”",
+          "note": "'You are my servant... in whom I will be glorified' undergirds the idea that God/Christ is glorified-magnified in his servant's body and life-or-death faithfulness. Thematic coherence with the Servant being the locus of glorification is good, but verbal contact is faint.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 5:24",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Enoch walked with God, and he was not found, for God took him.",
+          "note": "Paul's desire 'to depart and be with Christ' may faintly draw on the OT hope of being taken to be with God, paradigmatically Enoch who 'was not, for God took him,' and the psalmic 'you will receive me to glory' (Ps 73:24). The contact is conceptual; low and contested.",
+          "contested": true,
+          "altSource": "Psalm 73:24"
+        }
+      ]
+    },
+    {
+      "id": "1.6",
+      "ch": 1,
+      "ref": "1:27-30",
+      "text": "Only let your way of life be worthy of the Good News of Christ, that, whether I come and see you or am absent, I may hear of your state, that you stand firm in one spirit, with one soul striving for the faith of the Good News; and in nothing frightened by the adversaries, which is for them a proof of destruction, but to you of salvation, and that from God. Because it has been granted to you on behalf of Christ, not only to believe in him, but also to suffer on his behalf, having the same conflict which you saw in me, and now hear is in me.",
+      "echoes": [
+        {
+          "source": "Psalm 27:1-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh is my light and my salvation. Whom shall I fear? Yahweh is the strength of my life. Of whom shall I be afraid? When evildoers came at me to eat up my flesh, even my adversaries and my foes, they stumbled and fell. Though an army should encamp against me, my heart shall not fear. Though war should rise against me, even then I will be confident.",
+          "note": "'In nothing frightened by the adversaries' resonates with the psalmist's fearlessness before foes ('though an army encamp against me, my heart shall not fear'). The shared courage-before-enemies posture coheres with Paul's exhortation; verbal contact is generic, so a faint echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "ch": 2,
+      "ref": "2:1-4",
+      "text": "If there is therefore any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassion, make my joy full, by being like-minded, having the same love, being of one accord, of one mind; doing nothing through rivalry or through conceit, but in humility, each counting others better than himself; each of you not just looking to his own things, but each of you also to the things of others.",
+      "echoes": [
+        {
+          "source": "Proverbs 3:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Don’t be wise in your own eyes. Fear Yahweh, and depart from evil.",
+          "note": "Paul's call to do nothing through conceit and to count others better than oneself coheres with the wisdom warning 'Be not wise in your own eyes,' a recurrent sapiential theme of self-abasement. Volume is faint (no shared vocabulary in WEB) and the thought is a commonplace, so this is a contested low-confidence echo of the humility tradition rather than a pointed allusion.",
+          "contested": true,
+          "altSource": "Proverbs 26:12"
+        },
+        {
+          "source": "Sirach 3:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The greater you are, humble yourself the more, And you will find favor before the Lord.",
+          "note": "'The greater you are, the more you must humble yourself' supplies a Second-Temple Jewish backdrop for Paul's 'in humility each counting others better than himself.' Availability and coherence are strong (Sirach's humility ethic was widely read), but the verbal overlap is thematic rather than lexical, marking this a faint contested echo.",
+          "contested": true,
+          "altSource": "Proverbs 11:2"
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "ch": 2,
+      "ref": "2:5-8",
+      "text": "Have this in your mind, which was also in Christ Jesus, who, existing in the form of God, didn’t consider equality with God a thing to be grasped, but emptied himself, taking the form of a servant, being made in the likeness of men. And being found in human form, he humbled himself, becoming obedient to death, yes, the death of the cross.",
+      "echoes": [
+        {
+          "source": "Genesis 1:26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "God said, “Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.”",
+          "note": "Christ 'existing in the form of God' (en morphe theou) evokes humanity made in the image/likeness of God, the foundational image-of-God text, setting up the Adam/Christ contrast that runs through the hymn. Coherence is high with Pauline image-of-God theology (cf. 2 Cor 4:4; Col 1:15), though 'form' is not the LXX 'image,' so this remains an allusion of medium volume."
+        },
+        {
+          "source": "Genesis 3:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "for God knows that in the day you eat it, your eyes will be opened, and you will be like God, knowing good and evil.”",
+          "note": "That Christ 'didn't consider equality with God a thing to be grasped' is widely read as an inverse of Adam and Eve's grasping to 'be like God' at the serpent's prompting. The Adam-Christ antithesis (humility undoing the primal grasp) gives high coherence with Pauline theology; the allusion is conceptual rather than verbal, hence medium confidence and a recognized scholarly debate.",
+          "contested": true,
+          "altSource": "Genesis 3:22"
+        },
+        {
+          "source": "Isaiah 53:12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Therefore will I divide him a portion with the great, and he shall divide the plunder with the strong; because he poured out his soul to death, and was numbered with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.",
+          "note": "'Emptied himself, taking the form of a servant' echoes the Suffering Servant who 'poured out his soul to death' and was 'numbered with the transgressors,' the Servant's self-emptying obedience unto death. Volume is strong given the servant/slave (doulos) language plus the death motif, and recurrence is high since the hymn climaxes in an explicit Isaiah citation (45:23), grounding availability and coherence."
+        },
+        {
+          "source": "Isaiah 52:13",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Behold, my servant shall deal wisely, he shall be exalted and lifted up, and shall be very high.",
+          "note": "The downward arc 'he humbled himself, becoming obedient to death' sets up the Servant who, though abased, 'shall be exalted and lifted up,' which v.9 then fulfills. The pairing of the Servant's humiliation here and exaltation in 2:9 mirrors Isa 52:13's own movement, giving strong coherence and recurrence within the hymn."
+        },
+        {
+          "source": "Isaiah 53:8",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "He was taken away by oppression and judgment; and as for his generation, who considered that he was cut off out of the land of the living and stricken for the disobedience of my people?",
+          "note": "'Becoming obedient to death, yes, the death of the cross' resonates with the Servant 'cut off out of the land of the living,' the violent, undeserved death of the righteous sufferer. The echo strengthens the broader Isa 53 matrix already active in the hymn, though the specific 'death' wording is generic, keeping confidence medium.",
+          "contested": true,
+          "altSource": "Isaiah 53:7"
+        },
+        {
+          "source": "Wisdom of Solomon 2:19-20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "With outrage and torture let us put him to the test, That we may learn his gentleness, And may prove his patience under wrong. Let us condemn him to a shameful death; For he will be visited according to his words.",
+          "note": "The righteous one condemned 'to a shameful death' who tests God's claim coheres with Christ's obedient death on the cross and subsequent vindication. Wisdom 2-5 was available and shares the suffering-then-vindicated righteous pattern, but lexical overlap with Philippians is thin, so this is a faint contested echo.",
+          "contested": true,
+          "altSource": "Wisdom of Solomon 5:1-5"
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "ch": 2,
+      "ref": "2:9-11",
+      "text": "Therefore God also highly exalted him, and gave to him the name which is above every name; that at the name of Jesus every knee should bow, of those in heaven, those on earth, and those under the earth, and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.",
+      "echoes": [
+        {
+          "source": "Isaiah 45:23",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "I have sworn by myself, the word has gone out of my mouth in righteousness, and will not return, that to me every knee shall bow, every tongue shall take an oath.",
+          "note": "'That at the name of Jesus every knee should bow... and every tongue should confess' is a direct citation of 'to me every knee shall bow, every tongue shall swear,' a monotheistic oracle of universal homage. Volume is maximal (near-verbatim of the LXX with knee-bow and tongue-confess parallelism), and Paul redeploys the same text in Rom 14:11, giving high recurrence; the staggering move is applying YHWH's exclusive worship to Jesus."
+        },
+        {
+          "source": "Isaiah 52:13",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Behold, my servant shall deal wisely, he shall be exalted and lifted up, and shall be very high.",
+          "note": "'Therefore God also highly exalted him' answers Isa 52:13's promise that the Servant 'shall be exalted and lifted up, and shall be very high.' The Greek hyperhypsoo intensifies the LXX's verbs of exaltation, and the Servant frame from 2:7-8 makes this the climactic vindication, yielding strong coherence and volume."
+        },
+        {
+          "source": "Isaiah 45:21",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Declare and present it. Yes, let them take counsel together. Who has shown this from ancient time? Who has declared it of old? Haven’t I, Yahweh? There is no other God besides me, a just God and a Savior; There is no one besides me.",
+          "note": "The confession 'Jesus Christ is Lord' draws its monotheistic force from the surrounding oracle ('there is no God else beside me; a just God and a Savior'), the very context of the quoted 45:23. Including the immediate co-text strengthens availability and coherence, supporting the bold identification of Jesus with the one Lord."
+        },
+        {
+          "source": "Exodus 3:14-15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "God said to Moses, “I AM WHO I AM,” and he said, “You shall tell the children of Israel this: ‘I AM has sent me to you.’” God said moreover to Moses, “You shall tell the children of Israel this, ‘Yahweh, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is my name forever, and this is my memorial to all generations.",
+          "note": "'The name which is above every name' evokes the divine Name revealed to Moses, the ineffable Tetragrammaton/'I AM,' which bowing and confession honor. Coherence is high since the bestowed 'name' that draws universal worship is best read as the divine Name (kyrios = YHWH), though Exodus is not verbally cited, so confidence is medium and the precise referent is debated.",
+          "contested": true,
+          "altSource": "Exodus 23:21"
+        },
+        {
+          "source": "Isaiah 45:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For thus says Yahweh who created the heavens, the God who formed the earth and made it, who established it and didn’t create it a waste, who formed it to be inhabited: “I am Yahweh; and there is no other.",
+          "note": "The cosmic scope 'those in heaven, those on earth, and those under the earth' resonates with Deutero-Isaiah's Creator who 'formed the earth' and rules all spheres, the universal-sovereignty context of the cited oracle. The three-tier cosmos language is conventional, so this is a faint contested echo bolstering the 45:23 citation's totality.",
+          "contested": true,
+          "altSource": "Psalm 148:1-10"
+        }
+      ]
+    },
+    {
+      "id": "2.4",
+      "ch": 2,
+      "ref": "2:12-13",
+      "text": "So then, my beloved, even as you have always obeyed, not only in my presence, but now much more in my absence, work out your own salvation with fear and trembling. For it is God who works in you both to will and to work, for his good pleasure.",
+      "echoes": [
+        {
+          "source": "Psalm 2:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Serve Yahweh with fear, and rejoice with trembling.",
+          "note": "'Work out your own salvation with fear and trembling' echoes 'Serve the LORD with fear, and rejoice with trembling,' the posture of reverent obedience before God's enthroned king. The phobos kai tromos pairing is a recurrent LXX idiom Paul favors (1 Cor 2:3; 2 Cor 7:15; Eph 6:5), giving coherence; the Psalm 2 royal context coheres with the Lordship theme of 2:9-11, supporting medium confidence.",
+          "contested": true,
+          "altSource": "Exodus 15:16"
+        },
+        {
+          "source": "Isaiah 26:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "We have been with child. We have been in pain. We gave birth, it seems, only to wind. We have not worked any deliverance in the earth; neither have the inhabitants of the world fallen.",
+          "note": "'It is God who works in you both to will and to work' faintly recalls Isaiah's confession 'we have... wrought no deliverance in the earth' apart from God, the theme that salvation is God's effective working, not human achievement. The conceptual overlap (God as the one who works salvation) is thin verbally, so this is a low-confidence contested echo.",
+          "contested": true,
+          "altSource": "Isaiah 26:12"
+        }
+      ]
+    },
+    {
+      "id": "2.5",
+      "ch": 2,
+      "ref": "2:14-16",
+      "text": "Do all things without murmurings and disputes, that you may become blameless and harmless, children of God without defect in the midst of a crooked and perverse generation, among whom you are seen as lights in the world, holding up the word of life; that I may have something to boast in the day of Christ, that I didn’t run in vain nor labor in vain.",
+      "echoes": [
+        {
+          "source": "Exodus 16:7-9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "and in the morning, then you shall see Yahweh’s glory; because he hears your murmurings against Yahweh. Who are we, that you murmur against us?” Moses said, “Now Yahweh shall give you meat to eat in the evening, and in the morning bread to satisfy you; because Yahweh hears your murmurings which you murmur against him. And who are we? Your murmurings are not against us, but against Yahweh.” Moses said to Aaron, “Tell all the congregation of the children of […]",
+          "note": "'Do all things without murmurings' evokes Israel's wilderness murmuring against the LORD over manna, the paradigmatic rebellion of God's people. The gongysmos word-group is the LXX term for these episodes, and Paul casts the Philippians as a wilderness generation to be unlike, giving coherence and recurrence across the Exodus-Numbers complex."
+        },
+        {
+          "source": "Numbers 14:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "All the children of Israel murmured against Moses and against Aaron. The whole congregation said to them, “We wish that we had died in the land of Egypt, or that we had died in this wilderness!",
+          "note": "The congregation that 'murmured against Moses and against Aaron' and was condemned to die in the wilderness models the grumbling Paul forbids, sharpening the contrast with becoming 'blameless children of God.' Recurrence of the murmuring motif (Num 14, 16, 17) and shared gongysmos vocabulary support a medium-confidence allusion."
+        },
+        {
+          "source": "Numbers 17:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "It shall happen, that the rod of the man whom I shall choose shall bud. I will make the murmurings of the children of Israel, which they murmur against you, cease from me.”",
+          "note": "Aaron's rod episode aims to 'make to cease... the murmurings... against me,' reinforcing the wilderness grumbling background of 2:14. The echo is part of the cumulative Numbers murmuring matrix rather than a discrete allusion, hence low confidence.",
+          "contested": true,
+          "altSource": "Numbers 16:41"
+        },
+        {
+          "source": "Deuteronomy 32:5",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "They have dealt corruptly with him. They are not his children, because of their defect. They are a perverse and crooked generation.",
+          "note": "'Children of God without defect in the midst of a crooked and perverse generation' lifts the Song of Moses' indictment of Israel as 'a perverse and crooked generation,' but inverts it: the church are now the faithful children. Volume is high (skolios kai diestrammenos plus 'children/not his children' from the same verse), and the Song of Moses is a recurrent NT source, giving strong availability and coherence."
+        },
+        {
+          "source": "Daniel 12:3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Those who are wise shall shine as the brightness of the expanse; and those who turn many to righteousness as the stars forever and ever.",
+          "note": "'You are seen as lights in the world' draws on the eschatological promise that 'those who are wise shall shine as the brightness of the firmament,' the luminous vindication of the faithful at the end. Coherence is high with Paul's 'day of Christ' framing in v.16, and the shining-luminary imagery (phosteres) gives strong volume for an allusion."
+        },
+        {
+          "source": "Deuteronomy 32:20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He said, “I will hide my face from them. I will see what their end will be; for they are a very perverse generation, children in whom is no faithfulness.",
+          "note": "Within the same Song of Moses, God's complaint about 'a very perverse generation, children in whom is no faith' reinforces the 32:5 quotation and the 'children of God' contrast. The echo deepens the Deuteronomy 32 backdrop already active, so it is a low-confidence supporting echo.",
+          "contested": true,
+          "altSource": "Deuteronomy 32:19"
+        },
+        {
+          "source": "Isaiah 49:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But I said, “I have labored in vain, I have spent my strength for nothing and vanity; yet surely the justice due to me is with Yahweh, and my reward with my God.”",
+          "note": "'That I didn't run in vain nor labor in vain' resonates with the Servant's lament 'I have labored in vain, I have spent my strength for nothing,' the worry of fruitless toil later vindicated by God. The 'in vain' (eis kenon / kenos) labor motif and the Servant context (already active in the hymn) give a faint coherent echo, kept low for thin verbal overlap.",
+          "contested": true,
+          "altSource": "Isaiah 65:23"
+        }
+      ]
+    },
+    {
+      "id": "2.6",
+      "ch": 2,
+      "ref": "2:17-18",
+      "text": "Yes, and if I am poured out on the sacrifice and service of your faith, I rejoice, and rejoice with you all. In the same way, you also rejoice, and rejoice with me.",
+      "echoes": [
+        {
+          "source": "Numbers 28:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Its drink offering shall be the fourth part of a hin for the one lamb. You shall pour out a drink offering of strong drink to Yahweh in the holy place.",
+          "note": "'If I am poured out on the sacrifice and service of your faith' draws on the cultic drink offering (spende) poured out beside the sacrifice, casting Paul's possible martyrdom as a libation. The spendomai imagery is precise to the tamid libation legislation, and 'sacrifice and service' (thysia, leitourgia) is sacrificial vocabulary, giving medium-to-strong coherence."
+        },
+        {
+          "source": "Exodus 29:40",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "and with the one lamb a tenth part of an ephah of fine flour mixed with the fourth part of a hin of beaten oil, and the fourth part of a hin of wine for a drink offering.",
+          "note": "The daily burnt offering's prescribed drink offering of wine poured out supplies the same libation image behind Paul's 'poured out.' Together with Num 28:7 this gives recurrence within the sacrificial-libation tradition, supporting a medium-confidence allusion to the drink offering rite.",
+          "contested": true,
+          "altSource": "Numbers 15:5"
+        }
+      ]
+    },
+    {
+      "id": "2.7",
+      "ch": 2,
+      "ref": "2:19-24",
+      "text": "But I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered up when I know how you are doing. For I have no one else like-minded, who will truly care about you. For they all seek their own, not the things of Jesus Christ. But you know the proof of him, that, as a child serves a father, so he served with me in furtherance of the Good News. Therefore I hope to send him at once, as soon as I see how it will go with me. But I trust in the Lord that I myself also will come shortly.",
+      "echoes": []
+    },
+    {
+      "id": "2.8",
+      "ch": 2,
+      "ref": "2:25-30",
+      "text": "But I counted it necessary to send to you Epaphroditus, my brother, fellow worker, fellow soldier, and your apostle and servant of my need; since he longed for you all, and was very troubled, because you had heard that he was sick. For indeed he was sick, nearly to death, but God had mercy on him; and not on him only, but on me also, that I might not have sorrow on sorrow. I have sent him therefore the more diligently, that, when you see him again, you may rejoice, and that I may be the less sorrowful. Receive him therefore in the Lord with all joy, and hold such in honor, because for the work of Christ he came near to death, risking his life to supply that which was lacking in your service toward me.",
+      "echoes": [
+        {
+          "source": "Job 2:4-6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Satan answered Yahweh, and said, “Skin for skin. Yes, all that a man has he will give for his life. But stretch out your hand now, and touch his bone and his flesh, and he will renounce you to your face.” Yahweh said to Satan, “Behold, he is in your hand. Only spare his life.”",
+          "note": "Epaphroditus 'risking his life' (paraboleusamenos te psyche) near to death for the work of Christ faintly recalls the proverb 'skin for skin, all that a man has will he give for his life,' the valuation of life staked in service. The overlap is thematic (life imperiled for a higher cause), not lexical, so this is a faint contested echo.",
+          "contested": true,
+          "altSource": "Job 33:22"
+        }
+      ]
+    },
+    {
+      "id": "3.1",
+      "ch": 3,
+      "ref": "3:1",
+      "text": "Finally, my brothers, rejoice in the Lord. To write the same things to you, to me indeed is not tiresome, but for you it is safe.",
+      "echoes": [
+        {
+          "source": "Psalm 32:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Be glad in Yahweh, and rejoice, you righteous! Shout for joy, all you who are upright in heart!",
+          "note": "Paul's imperative 'rejoice in the LORD' verbally echoes the Psalter's recurrent summons 'Be glad in the LORD, and rejoice, you righteous' (Ps 32:11). The phrase 'in the Lord/in YHWH' as the ground of joy is a Septuagintal idiom; Paul gives it eschatological force in Christ. Recurrence across the Psalms strengthens the resonance."
+        },
+        {
+          "source": "Psalm 33:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Rejoice in Yahweh, you righteous! Praise is fitting for the upright.",
+          "note": "'Rejoice in the LORD, O you righteous' (LXX Ps 32:1) supplies the liturgical pattern Paul reuses. The collocation of 'rejoice' with the divine name as object of joy is distinctively Psalmic and coheres with Philippians' larger joy motif."
+        },
+        {
+          "source": "Joel 2:23",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Be glad then, you children of Zion, and rejoice in Yahweh, your God; for he gives you the former rain in just measure, and he causes the rain to come down for you, the former rain and the latter rain, as before.",
+          "note": "'Be glad and rejoice in the LORD your God' (Joel 2:23) is a prophetic instance of the same idiom Paul deploys. Faint and one of many possible Septuagintal sources, so marked contested.",
+          "contested": true,
+          "altSource": "Zechariah 10:7"
+        }
+      ]
+    },
+    {
+      "id": "3.2",
+      "ch": 3,
+      "ref": "3:2-3",
+      "text": "Beware of the dogs, beware of the evil workers, beware of the false circumcision. For we are the circumcision, who worship God in the Spirit, and rejoice in Christ Jesus, and have no confidence in the flesh;",
+      "echoes": [
+        {
+          "source": "Deuteronomy 23:18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall not bring the hire of a prostitute, or the wages of a male prostitute, into the house of Yahweh your God for any vow; for both of these are an abomination to Yahweh your God.",
+          "note": "Paul's pejorative 'the dogs' inverts the Torah's exclusion of the 'dog' (cult prostitute's wage) from the sanctuary; the unclean outsider epithet is reapplied to Judaizing opponents in a deliberate reversal. Coherence with the circumcision polemic that follows supports the link, though the metaphor is widespread.",
+          "contested": true,
+          "altSource": "Psalm 22:16"
+        },
+        {
+          "source": "Isaiah 56:10-11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "His watchmen are blind, they are all without knowledge; they are all mute dogs, they can’t bark; dreaming, lying down, loving to slumber. Yes, the dogs are greedy, they can never have enough; and these are shepherds who can’t understand: they have all turned to their own way, each one to his gain, from every quarter.",
+          "note": "Isaiah's 'dumb dogs' / 'greedy dogs' for faithless watchmen of Israel provides the prophetic stock for Paul's insult against false teachers within the covenant community. The transfer of 'dog' from Gentile to errant Israelite leader matches Paul's polemical reversal.",
+          "contested": true,
+          "altSource": "Deuteronomy 23:18"
+        },
+        {
+          "source": "Deuteronomy 30:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh your God will circumcise your heart, and the heart of your seed, to love Yahweh your God with all your heart, and with all your soul, that you may live.",
+          "note": "'We are the circumcision, who worship by the Spirit' draws on the promise that the LORD will 'circumcise your heart' so you love him. Paul claims this interior, Spirit-wrought circumcision as the believers' true identity over against physical 'mutilation.' High volume and strong coherence with the surrounding argument."
+        },
+        {
+          "source": "Jeremiah 4:4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Circumcise yourselves to Yahweh, and take away the foreskins of your heart, you men of Judah and inhabitants of Jerusalem; lest my wrath go out like fire, and burn so that no one can quench it, because of the evil of your doings.",
+          "note": "'Circumcise yourselves to the LORD, remove the foreskin of your hearts' is the prophetic locus for heart-circumcision that Paul presupposes when he denies 'confidence in the flesh.' The contrast between fleshly and heart circumcision is exactly Paul's antithesis here."
+        },
+        {
+          "source": "Jeremiah 9:25-26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Behold, the days come, says Yahweh, that I will punish all those who are circumcised in uncircumcision: Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all that have the corners of their hair cut off, who dwell in the wilderness; for all the nations are uncircumcised, and all the house of Israel are uncircumcised in heart.",
+          "note": "Jeremiah threatens to punish those 'circumcised in the flesh' yet 'uncircumcised in heart,' leveling Israel with the nations. Paul's relativizing of fleshly circumcision and elevation of inward worship coheres with this oracle."
+        },
+        {
+          "source": "Leviticus 26:41",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I also walked contrary to them, and brought them into the land of their enemies; if then their uncircumcised heart is humbled, and they then accept the punishment of their iniquity;",
+          "note": "The covenant curse turns on the 'uncircumcised heart' being humbled; the trope of heart-circumcision as the true requirement undergirds Paul's claim that Spirit-worship, not flesh, marks the covenant people."
+        },
+        {
+          "source": "Ezekiel 44:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus says the Lord Yahweh, No foreigner, uncircumcised in heart and uncircumcised in flesh, shall enter into my sanctuary, of any foreigners who are among the children of Israel.",
+          "note": "Ezekiel bars the 'uncircumcised in heart and flesh' from the sanctuary; Paul reworks the temple-purity logic so that true 'worship' belongs to those circumcised in spirit. Fainter and one of a cluster, so marked contested.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 10:16",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Circumcise therefore the foreskin of your heart, and be no more stiff-necked.",
+          "note": "'Circumcise the foreskin of your heart, and be no longer stubborn' is a further Deuteronomic source for the heart-circumcision motif Paul invokes against 'confidence in the flesh.' Recurrence across Deuteronomy and Jeremiah strengthens the whole cluster."
+        },
+        {
+          "source": "Isaiah 52:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Awake, awake, put on your strength, Zion; put on your beautiful garments, Jerusalem, the holy city: for henceforth there shall no more come into you the uncircumcised and the unclean.",
+          "note": "Isaiah's warning that the 'uncircumcised and unclean' shall no more enter Zion supplies background for Paul's reversal of who constitutes the holy, worshiping community. Faint.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.3",
+      "ch": 3,
+      "ref": "3:4-6",
+      "text": "though I myself might have confidence even in the flesh. If any other man thinks that he has confidence in the flesh, I yet more: circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; concerning the law, a Pharisee; concerning zeal, persecuting the assembly; concerning the righteousness which is in the law, found blameless.",
+      "echoes": [
+        {
+          "source": "Genesis 17:12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He who is eight days old will be circumcised among you, every male throughout your generations, he who is born in the house, or bought with money from any foreigner who is not of your seed.",
+          "note": "'Circumcised the eighth day' directly invokes the Abrahamic covenant statute that every male be circumcised at eight days old. Paul cites his impeccable conformity to this Torah marker as the leading item of fleshly 'confidence' he renounces. High volume and verbal precision."
+        },
+        {
+          "source": "Leviticus 12:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "In the eighth day the flesh of his foreskin shall be circumcised.",
+          "note": "The legal restatement 'on the eighth day the flesh of his foreskin shall be circumcised' reinforces the same eighth-day statute Paul claims. A secondary witness to the precept behind his pedigree."
+        },
+        {
+          "source": "Genesis 35:18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "As her soul was departing (for she died), she named him Benoni, but his father named him Benjamin.",
+          "note": "'Of the tribe of Benjamin' points to Rachel's son Benjamin, named at Genesis 35:18; Paul's tribal claim asserts descent from a fully Israelite, non-proselyte lineage. Identity-marker allusion rather than verbal quotation."
+        },
+        {
+          "source": "Genesis 32:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He said, “Your name will no longer be called Jacob, but Israel; for you have fought with God and with men, and have prevailed.”",
+          "note": "'Of the stock of Israel' evokes the renaming of Jacob as Israel, the patronym of the chosen people Paul claims as his birthright. Faint background to the ethnic boast.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 25:11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Phinehas, the son of Eleazar, the son of Aaron the priest, has turned my wrath away from the children of Israel, in that he was jealous with my jealousy among them, so that I didn’t consume the children of Israel in my jealousy.",
+          "note": "'As to zeal, persecuting the church' casts Paul in the line of Phinehas, whose 'zeal' (LXX zelos) for God by violent action averted wrath and won a covenant of priesthood. Paul reads his pre-Christian persecuting as this paradigmatic zeal, now reassessed as loss. Strong thematic coherence; 'zeal' is the operative catchword."
+        },
+        {
+          "source": "1 Kings 19:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He said, “I have been very jealous for Yahweh, the God of Armies; for the children of Israel have forsaken your covenant, thrown down your altars, and slain your prophets with the sword. I, even I only, am left; and they seek my life, to take it away.”",
+          "note": "Elijah's 'I have been very zealous for the LORD' supplies the second exemplar of biblical zeal that frames Paul's self-description as a zealot-persecutor. The Phinehas–Elijah zeal tradition was a live Second-Temple ideal, available to Paul."
+        },
+        {
+          "source": "1 Maccabees 2:54",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Phinehas our father, for that he was zealous exceedingly, obtained the covenant of an everlasting priesthood.",
+          "note": "Mattathias's deathbed roll names 'Phinehas our father, because he was zealous with great zeal,' the proximate Second-Temple charter for the violent-zeal ideal Paul embodied as persecutor. Availability within the deuterocanon and thematic fit are strong; included as a Maccabean development of the zeal motif."
+        },
+        {
+          "source": "1 Maccabees 2:26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "And he was zealous for the law, even as Phinehas did to Zimri the son of Salu.",
+          "note": "Mattathias acts 'as Phinehas did,' showing 'zeal for the law' expressed in killing apostates — precisely the persecuting zeal Paul claims and renounces. Faint, supplementary to 1 Macc 2:54.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 106:30-31",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Then Phinehas stood up, and executed judgment, so the plague was stopped. That was credited to him for righteousness, for all generations to come.",
+          "note": "The Psalter reckons Phinehas's intervention to him 'as righteousness' forever; Paul's pairing of zealous persecution with 'righteousness in the law, blameless' may trade on this Phinehas-righteousness link. Faint and contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.4",
+      "ch": 3,
+      "ref": "3:7-11",
+      "text": "However, what things were gain to me, these have I counted loss for Christ. Yes most certainly, and I count all things to be loss for the excellency of the knowledge of Christ Jesus, my Lord, for whom I suffered the loss of all things, and count them nothing but refuse, that I may gain Christ and be found in him, not having a righteousness of my own, that which is of the law, but that which is through faith in Christ, the righteousness which is from God by faith; that I may know him, and the power of his resurrection, and the fellowship of his sufferings, becoming conformed to his death; if by any means I may attain to the resurrection from the dead.",
+      "echoes": [
+        {
+          "source": "Jeremiah 9:23-24",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Thus says Yahweh, Don’t let the wise man glory in his wisdom, neither let the mighty man glory in his might, don’t let the rich man glory in his riches; but let him who glories glory in this, that he has understanding, and knows me, that I am Yahweh who exercises loving kindness, justice, and righteousness, in the earth: for in these things I delight, says Yahweh.",
+          "note": "'That I may know him' and the renunciation of every fleshly ground of boasting answers Jeremiah's oracle: let no one boast in wisdom, might, or riches, but only that 'he understands and knows me, the LORD.' Paul transmutes covenant 'knowledge of God' into 'the excellency of the knowledge of Christ.' Strong coherence and Pauline recurrence (cf. 1 Cor 1:31)."
+        },
+        {
+          "source": "Hosea 6:2-3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "After two days he will revive us. On the third day he will raise us up, and we will live before him. Let us acknowledge Yahweh. Let us press on to know Yahweh. As surely as the sun rises, Yahweh will appear. He will come to us like the rain, like the spring rain that waters the earth.”",
+          "note": "'Let us know, let us press on to know the LORD... on the third day he will raise us up' links 'knowing' God to resurrection — exactly Paul's sequence of 'know him and the power of his resurrection.' The verbal pairing of knowledge and rising is distinctive."
+        },
+        {
+          "source": "Habakkuk 2:4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
+          "note": "'The righteousness which is from God by faith,' set against the law's righteousness, restates Paul's governing text 'the righteous shall live by faith' (cf. Rom 1:17; Gal 3:11). The faith/law antithesis here is the same justification doctrine Habakkuk anchors."
+        },
+        {
+          "source": "Genesis 15:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He believed in Yahweh; and he reckoned it to him for righteousness.",
+          "note": "Righteousness 'from God by faith' rather than 'of my own from the law' is the Abrahamic credo 'he believed the LORD, and it was reckoned to him as righteousness,' Paul's standard proof that righteousness is faith-reckoned, not works-earned. High coherence with Pauline usage."
+        },
+        {
+          "source": "Isaiah 54:17",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "No weapon that is formed against you will prevail; and you will condemn every tongue that rises against you in judgment. This is the heritage of the servants of Yahweh, and their righteousness which is of me,” says Yahweh.",
+          "note": "'This is the heritage of the servants of the LORD, and their righteousness is from me, says the LORD' is a Septuagintal source for a 'righteousness from God' that is gift, not achievement — Paul's exact phrase. Verbal overlap with 'righteousness from God' supports the echo."
+        },
+        {
+          "source": "Daniel 12:2",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.",
+          "note": "'If by any means I may attain to the resurrection from the dead' depends on Daniel's promise that 'many who sleep in the dust shall awake,' the principal OT text for bodily resurrection. Paul's hope of out-resurrection presupposes this Danielic apocalyptic frame. High availability and coherence."
+        },
+        {
+          "source": "Isaiah 26:19",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Your dead shall live. My dead bodies shall arise. Awake and sing, you who dwell in the dust; for your dew is like the dew of herbs, and the earth will cast out the departed spirits.",
+          "note": "'Your dead shall live; the dwellers in the dust shall awake and sing' is the prophetic companion to Daniel 12 for resurrection hope, undergirding Paul's 'resurrection from the dead.' Recurrence of the resurrection motif strengthens the link."
+        },
+        {
+          "source": "2 Maccabees 7:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "And when he was at the last gasp, he said, You, miscreant, do release us out of this present life, but the King of the world shall raise up us, who have died for his laws, to an eternal renewal of life.",
+          "note": "The martyrs' confidence that 'the King of the world will raise us up to an everlasting renewal of life' is the Second-Temple development of resurrection hope Paul shares. Faint and supplementary to Daniel, so contested.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 50:7-9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For the Lord Yahweh will help me; therefore I have not been confounded: therefore have I set my face like a flint, and I know that I shall not be disappointed. He is near who justifies me; who will bring charges against me? Let us stand up together: who is my adversary? Let him come near to me. Behold, the Lord Yahweh will help me; who is he who shall condemn me? Behold, all they shall wax old as a garment, the moth shall eat them up.",
+          "note": "The Servant 'set his face' and is vindicated by God who 'justifies' him; Paul's 'fellowship of his sufferings... conformed to his death' followed by resurrection vindication may echo the suffering-then-vindicated Servant pattern. Faint, figural.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.5",
+      "ch": 3,
+      "ref": "3:12-16",
+      "text": "Not that I have already obtained, or am already made perfect; but I press on, if it is so that I may take hold of that for which also I was taken hold of by Christ Jesus. Brothers, I don’t regard myself as yet having taken hold, but one thing I do. Forgetting the things which are behind, and stretching forward to the things which are before, I press on toward the goal for the prize of the high calling of God in Christ Jesus. Let us therefore, as many as are perfect, think this way. If in anything you think otherwise, God will also reveal that to you. Nevertheless, to the extent that we have already attained, let us walk by the same rule. Let us be of the same mind.",
+      "echoes": [
+        {
+          "source": "Isaiah 51:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Listen to me, you who follow after righteousness, you who seek Yahweh: look to the rock you were cut from, and to the hold of the pit you were dug from.",
+          "note": "'Pursue righteousness, you who seek the LORD' offers a Septuagintal background of pressing/pursuing after a goal that resonates with Paul's 'I press on toward the goal.' Faint, athletic-pursuit imagery is widespread.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 34:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Depart from evil, and do good. seek peace, and pursue it.",
+          "note": "'Seek peace and pursue it' supplies the verb of strenuous pursuit Paul reuses in 'I press on/pursue toward the goal.' One of several possible Septuagintal sources for the diolko motif, hence contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.6",
+      "ch": 3,
+      "ref": "3:17-19",
+      "text": "Brothers, be imitators together of me, and note those who walk this way, even as you have us for an example. For many walk, of whom I told you often, and now tell you even weeping, as the enemies of the cross of Christ, whose end is destruction, whose god is the belly, and whose glory is in their shame, who think about earthly things.",
+      "echoes": [
+        {
+          "source": "Hosea 4:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "As they were multiplied, so they sinned against me. I will change their glory into shame.",
+          "note": "'Whose glory is in their shame' reflects the prophetic reversal 'I will change their glory into shame' (Hos 4:7), where Israel's boast becomes its disgrace. Paul applies the same glory/shame inversion to the enemies of the cross.",
+          "contested": true,
+          "altSource": "Habakkuk 2:16"
+        },
+        {
+          "source": "Habakkuk 2:16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You are filled with shame, and not glory. You will also drink, and be exposed! The cup of Yahweh’s right hand will come around to you, and disgrace will cover your glory.",
+          "note": "'You will be filled with shame instead of glory' is a prophetic glory-for-shame exchange that may stand behind Paul's 'their glory is in their shame.' Faint and one of a pair, so contested.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 11:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The mixed multitude that was among them lusted exceedingly: and the children of Israel also wept again, and said, “Who will give us flesh to eat?",
+          "note": "'Whose god is the belly' may echo the wilderness craving where Israel's 'lust' for food provokes judgment, a type of appetite-driven apostasy. Faint thematic figure of the rebellious 'belly.'",
+          "contested": true,
+          "altSource": "Psalm 78:18"
+        },
+        {
+          "source": "Isaiah 56:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yes, the dogs are greedy, they can never have enough; and these are shepherds who can’t understand: they have all turned to their own way, each one to his gain, from every quarter.",
+          "note": "The 'greedy dogs' who 'cannot be satisfied' and seek their own gain anticipate Paul's belly-serving, earthly-minded enemies, tying this verse back to the 'dogs' polemic of 3:2. Faint.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.7",
+      "ch": 3,
+      "ref": "3:20-21",
+      "text": "For our citizenship is in heaven, from where we also wait for a Savior, the Lord Jesus Christ; who will change the body of our humiliation to be conformed to the body of his glory, according to the working by which he is able even to subject all things to himself.",
+      "echoes": [
+        {
+          "source": "Daniel 12:3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Those who are wise shall shine as the brightness of the expanse; and those who turn many to righteousness as the stars forever and ever.",
+          "note": "The transformation of 'the body of our humiliation' into the likeness of Christ's 'body of glory' draws on Daniel's promise that the wise 'shall shine like the brightness of the firmament... like the stars forever.' Paul's glorified resurrection body realizes this astral glorification. Strong coherence with the resurrection hope of 3:11."
+        },
+        {
+          "source": "Psalm 8:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You make him ruler over the works of your hands. You have put all things under his feet:",
+          "note": "'By which he is able even to subject all things to himself' quotes the verbal substance of 'you have put all things under his feet' (Ps 8:6), Paul's standard text for Christ's universal subjection of all things (cf. 1 Cor 15:27). High volume and Pauline recurrence."
+        },
+        {
+          "source": "Psalm 110:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh says to my Lord, “Sit at my right hand, until I make your enemies your footstool for your feet.”",
+          "note": "Christ's power to 'subject all things to himself' also resonates with the enthronement oracle 'sit at my right hand until I make your enemies your footstool,' the dominant NT subjection text paired with Ps 8. Recurrence in early Christian use supports the echo."
+        },
+        {
+          "source": "Isaiah 49:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Lift up your eyes all around, and see: all these gather themselves together, and come to you. As I live,” says Yahweh, “you shall surely clothe yourself with them all as with an ornament, and dress yourself with them, like a bride.",
+          "note": "The heavenly 'citizenship' and expectation of a transforming Savior may faintly echo Zion-restoration oracles where the LORD comes to clothe and gather his people in glory. Faint and diffuse, so contested.",
+          "contested": true,
+          "altSource": "Isaiah 60:1-2"
+        },
+        {
+          "source": "Isaiah 60:1-2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Arise, shine; for your light has come, and Yahweh’s glory is risen on you. For, behold, darkness shall cover the earth, and gross darkness the peoples; but Yahweh will arise on you, and his glory shall be seen on you.",
+          "note": "'Arise, shine, for your light has come, and the glory of the LORD has risen upon you' supplies a glory-transformation backdrop for the bodies of the lowly being conformed to Christ's glory. Faint, supplementary to Daniel 12:3.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.1",
+      "ch": 4,
+      "ref": "4:1",
+      "text": "Therefore, my brothers, beloved and longed for, my joy and crown, so stand firm in the Lord, my beloved.",
+      "echoes": [
+        {
+          "source": "Zechariah 6:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in Yahweh’s temple.",
+          "note": "Paul's calling the Philippians his 'crown' (stephanos) echoes the prophetic image of a crown laid up as a memorial and reward in the temple, and more broadly the OT crown-of-glory motif (Isaiah 28:5; 62:3). Volume is faint and the metaphor is conventional, but coherence with the eschatological reward imagery available in the prophets supports a low-grade echo.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 62:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You shall also be a crown of beauty in the hand of Yahweh, and a royal diadem in the hand of your God.",
+          "note": "'You shall be a crown of beauty in the hand of the LORD' supplies the figural background for Paul's 'my joy and crown,' where a redeemed community is the eschatological adornment of its caretaker. Recurrence of the crown-of-glory image across Isaiah (28:5; 62:3) makes it available, though the volume here is low and the trope generic.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 1:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Blessed is the man who doesn’t walk in the counsel of the wicked, nor stand on the path of sinners, nor sit in the seat of scoffers;",
+          "note": "The exhortation to 'stand firm in the Lord' draws on the OT contrast between the stable righteous, planted and unmoved, and the chaff-like wicked. Coherence with the steadfastness motif (Psalm 1:3; 112:6) is real, but the volume is faint and 'stand firm' is too diffuse to anchor a single source, so this is a contested echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.2",
+      "ch": 4,
+      "ref": "4:2-3",
+      "text": "I exhort Euodia, and I exhort Syntyche, to think the same way in the Lord. Yes, I beg you also, true partner, help these women, for they labored with me in the Good News, with Clement also, and the rest of my fellow workers, whose names are in the book of life.",
+      "echoes": [
+        {
+          "source": "Exodus 32:32",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written.”",
+          "note": "Paul's claim that his fellow workers' 'names are in the book of life' alludes directly to Moses' plea to be blotted out of 'the book you have written,' the founding OT text of the heavenly register. Volume is high (the explicit book-of-life image), availability is secure in the Torah, and coherence with Paul's confidence in the Philippians' salvation is strong."
+        },
+        {
+          "source": "Psalm 69:28",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Let them be blotted out of the book of life, and not be written with the righteous.",
+          "note": "'Let them be blotted out of the book of the living, and not enrolled among the righteous' provides the precise phrase 'book of life/living' that Paul reverses into a positive assurance. High volume on the shared lexeme, strong recurrence of the register motif across the Psalter and prophets, and thematic coherence with the contrast of the saved versus the lost."
+        },
+        {
+          "source": "Daniel 12:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“At that time shall Michael stand up, the great prince who stands for the children of your people; and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time your people shall be delivered, everyone who shall be found written in the book.",
+          "note": "Daniel's eschatological promise that 'everyone whose name is found written in the book' shall be delivered supplies the apocalyptic deliverance sense Paul gives the image. Availability in Second-Temple apocalyptic and coherence with the resurrection hope of Philippians 3 make this a strong contributor to Paul's 'book of life.'"
+        },
+        {
+          "source": "Malachi 3:16",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Then those who feared Yahweh spoke one with another; and Yahweh listened, and heard, and a book of memory was written before him, for those who feared Yahweh, and who honored his name.",
+          "note": "'A book of remembrance was written before him of those who feared the LORD' offers the motif of a heavenly ledger recording the faithful by name, coherent with Paul's naming of co-laborers whose names stand recorded. Volume is moderate (remembrance-book rather than 'book of life'), but recurrence within the register tradition supports the link."
+        },
+        {
+          "source": "Psalm 56:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You number my wanderings. You put my tears into your bottle. Aren’t they in your book?",
+          "note": "'Are they not in your book?' adds another instance of the divine record motif, reinforcing the availability and recurrence of the heavenly-book tradition Paul invokes. Low volume and no shared 'life' lexeme make it a faint contributing echo rather than a primary source.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.3",
+      "ch": 4,
+      "ref": "4:4-7",
+      "text": "Rejoice in the Lord always! Again I will say, “Rejoice!” Let your gentleness be known to all men. The Lord is at hand. In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.",
+      "echoes": [
+        {
+          "source": "Psalm 32:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Be glad in Yahweh, and rejoice, you righteous! Shout for joy, all you who are upright in heart!",
+          "note": "'Rejoice in the LORD always' echoes the recurrent Psalter imperative 'Be glad in the LORD, and rejoice, you righteous' (32:11; cf. 33:1; 97:12). Recurrence is strong across the Psalter and coherence with Paul's joy theme is high; volume is moderate because Paul universalizes 'always' beyond any single psalm."
+        },
+        {
+          "source": "Psalm 97:12",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Be glad in Yahweh, you righteous people! Give thanks to his holy Name.",
+          "note": "'Rejoice in the LORD, O you righteous' supplies the same divine-object joy imperative that Paul doubles for emphasis. The Psalter's habitual call to rejoice in the LORD is available and coherent, though the volume of any single verse is moderate given the formula's diffusion."
+        },
+        {
+          "source": "Psalm 145:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh is near to all those who call on him, to all who call on him in truth.",
+          "note": "'The Lord is at hand' (ho kyrios engys) most closely matches 'The LORD is near to all who call on him' (engys kyrios), grounding Paul's nearness claim and its link to prayer in v.6. High lexical volume on engys, coherence with the prayer/petition context, and availability in the LXX Psalter make this the strongest source for the phrase."
+        },
+        {
+          "source": "Psalm 34:18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh is near to those who have a broken heart, and saves those who have a crushed spirit.",
+          "note": "'The LORD is near to the brokenhearted' reinforces the 'Lord is near' motif with the same engys idiom, and Psalm 34 broadly underwrites Paul's confidence in deliverance. Recurrence of the nearness formula with Psalm 145 strengthens coherence, though volume per verse is moderate."
+        },
+        {
+          "source": "Zephaniah 1:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Be silent at the presence of the Lord Yahweh, for the day of Yahweh is at hand. For Yahweh has prepared a sacrifice. He has consecrated his guests.",
+          "note": "'The day of the LORD is at hand/near' supplies the eschatological-imminence sense of 'The Lord is at hand,' if Paul means the Lord's coming rather than his presence. Availability in the prophetic day-of-the-Lord tradition and coherence with Philippians' Parousia hope (3:20) support this, though it competes with the Psalter nearness reading.",
+          "contested": true,
+          "altSource": "Zephaniah 1:14"
+        },
+        {
+          "source": "Isaiah 26:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You will keep whoever’s mind is steadfast in perfect peace, because he trusts in you.",
+          "note": "'You keep him in perfect peace whose mind is stayed on you' parallels Paul's 'peace of God which surpasses all understanding will guard your hearts,' linking divine peace, the mind, and protective keeping. Coherence is strong on the guarding-peace-of-the-mind motif; volume is moderate because Paul does not quote the phrasing verbatim."
+        },
+        {
+          "source": "Psalm 4:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "In peace I will both lay myself down and sleep, for you, Yahweh alone, make me live in safety.",
+          "note": "'In peace I will both lie down and sleep, for you alone, O LORD, make me dwell in safety' offers the OT pairing of divine peace with security from anxiety that underlies 'do not be anxious... and the peace of God will guard you.' Volume is low and the link thematic, so this is a contributing echo.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 55:22",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Cast your burden on Yahweh, and he will sustain you. He will never allow the righteous to be moved.",
+          "note": "'Cast your burden on the LORD, and he will sustain you' parallels Paul's remedy for anxiety: hand your requests to God in prayer rather than carry them. Coherence with the anti-anxiety-through-petition logic is strong; volume is moderate since Paul shares the idea, not the wording."
+        },
+        {
+          "source": "Proverbs 12:25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Anxiety in a man’s heart weighs it down, but a kind word makes it glad.",
+          "note": "'Anxiety in a man's heart weighs him down, but a good word makes him glad' supplies a wisdom backdrop for Paul's 'in nothing be anxious.' Volume and verbal overlap are slight, but the heart-anxiety theme is available in the sapiential tradition, making this a faint echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.4",
+      "ch": 4,
+      "ref": "4:8-9",
+      "text": "Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report; if there is any virtue, and if there is any praise, think about these things. The things which you learned, received, heard, and saw in me: do these things, and the God of peace will be with you.",
+      "echoes": [
+        {
+          "source": "Proverbs 22:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He who loves purity of heart and speaks gracefully is the king’s friend.",
+          "note": "Paul's virtue catalogue (true, honorable, just, pure, lovely, of good report) draws on the sapiential ideal of the pure heart and gracious speech that wins favor. Recurrence of these virtue terms in Proverbs and the wider Hellenistic-Jewish moral tradition supplies availability, but the volume of any one verse is low.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom 8:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "And if a man loves righteousness, The fruits of wisdom’s labor are virtues, For she teaches soberness and understanding, righteousness and courage; And there is nothing in life for men more profitable than these.",
+          "note": "Wisdom's praise of the cardinal virtues ('she teaches self-control and prudence, justice and courage') models the Hellenistic-Jewish virtue list Paul adapts, especially the terms for 'just' and the framing of virtue (arete) itself, which Paul uses uniquely here. Coherence with the Wisdom tradition's moral catalogues makes this a plausible deuterocanonical source.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 3:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "So you will find favor, and good understanding in the sight of God and man.",
+          "note": "'So you will find favor and good repute (LXX: good things) in the sight of God and man' parallels Paul's 'whatever is of good report' and the appeal to public commendation. Volume is low and the link conceptual, but the good-repute motif is available in the sapiential tradition.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 26:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You will keep whoever’s mind is steadfast in perfect peace, because he trusts in you.",
+          "note": "'The God of peace will be with you' continues the divine-peace motif of v.7 and resonates with Isaiah's promise that God keeps in peace those whose minds are fixed on him. Volume is faint here and the title 'God of peace' is Paul's own, so this is a low-grade continuation echo of the peace tradition.",
+          "contested": true
+        },
+        {
+          "source": "Judges 6:24",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Then Gideon built an altar there to Yahweh, and called it “Yahweh is Peace.” To this day it is still in Ophrah of the Abiezrites.",
+          "note": "Gideon's altar 'The LORD is peace' (YHWH-shalom) offers an OT antecedent for naming God by his peace, loosely behind Paul's 'the God of peace.' The volume is very low and the connection figural, but it documents the availability of associating God's name with shalom.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.5",
+      "ch": 4,
+      "ref": "4:10-13",
+      "text": "But I rejoice in the Lord greatly, that now at length you have revived your thought for me; in which you did indeed take thought, but you lacked opportunity. Not that I speak in respect to lack, for I have learned in whatever state I am, to be content in it. I know how to be humbled, and I know also how to abound. In everything and in all things I have learned the secret both to be filled and to be hungry, both to abound and to be in need. I can do all things through Christ, who strengthens me.",
+      "echoes": [
+        {
+          "source": "Proverbs 30:8-9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Remove far from me falsehood and lies. Give me neither poverty nor riches. Feed me with the food that is needful for me; lest I be full, deny you, and say, ‘Who is Yahweh?’ or lest I be poor, and steal, and so dishonor the name of my God.",
+          "note": "Agur's prayer 'give me neither poverty nor riches; feed me with the food that is needful' supplies the wisdom ideal of contentment in either abundance or want that Paul claims to have learned (filled or hungry, abound or be in need). Coherence is strong on the sufficiency-in-any-state theme; volume is moderate since Paul reworks rather than cites."
+        },
+        {
+          "source": "Sirach 18:30-33",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Go not after your lusts; And refrain yourself from your appetites. If you give fully to your soul the delight of her desire, She will make you the laughing stock of your enemies. Make not merry in much luxury; Neither be tied to the expense thereof. Be not made a beggar by banqueting upon borrowing, When you have nothing in your purse.",
+          "note": "Sirach's counsel to master one's appetites and not be enslaved to want or excess models the disciplined self-sufficiency (autarkeia) Paul describes learning. Availability in the deuterocanonical wisdom tradition and coherence with the 'secret of contentment' make this a credible source for Paul's Stoic-tinged but scripturally rooted contentment.",
+          "contested": true
+        },
+        {
+          "source": "Ecclesiastes 5:18-19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, that which I have seen to be good and proper is for one to eat and to drink, and to enjoy good in all his labor, in which he labors under the sun, all the days of his life which God has given him; for this is his portion. Every man also to whom God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labor—this is the gift of God.",
+          "note": "Qoheleth's acceptance of one's lot, finding contentment in whatever portion God gives, parallels Paul's learning 'in whatever state I am, to be content.' Volume is low and verbal overlap slight, but the contentment-with-one's-portion theme is available in the sapiential tradition.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 40:29-31",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He gives power to the weak. He increases the strength of him who has no might. Even the youths faint and get weary, and the young men utterly fall; But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.",
+          "note": "'He gives power to the faint... they who wait for the LORD shall renew their strength' grounds Paul's 'I can do all things through him who strengthens me,' where divine empowerment supplies endurance to the weak. Coherence with the strength-from-God-in-weakness theme is strong; volume is moderate because Paul states the principle without quoting."
+        },
+        {
+          "source": "Psalm 18:32",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "the God who arms me with strength, and makes my way perfect?",
+          "note": "'The God who equipped me with strength' (LXX: ho theos ho perizonnuon me dynamin) supplies the divine-empowerment idiom behind 'him who strengthens (endynamounti) me.' Recurrence of God-as-strengthener language across the Psalter (18:1, 32, 39) makes it available and coherent with Paul's claim, though volume per verse is moderate."
+        },
+        {
+          "source": "Isaiah 41:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness.",
+          "note": "'I will strengthen you, I will help you' adds to the prophetic strengthening tradition Paul draws on for 'who strengthens me.' Volume is low for any single verse, but recurrence of the divine-strengthening promise in Isaiah reinforces availability and coherence.",
+          "contested": true
+        },
+        {
+          "source": "Habakkuk 3:19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh, the Lord, is my strength. He makes my feet like deer’s feet, and enables me to go in high places. For the music director, on my stringed instruments.",
+          "note": "'God, the Lord, is my strength; he makes my feet like the deer's' offers another instance of the LORD as the believer's enabling strength in adversity, coherent with Paul's confidence amid abundance and want. Volume is faint, so this functions as a corroborating echo within the divine-strength tradition.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.6",
+      "ch": 4,
+      "ref": "4:14-20",
+      "text": "However you did well that you shared in my affliction. You yourselves also know, you Philippians, that in the beginning of the Good News, when I departed from Macedonia, no assembly shared with me in the matter of giving and receiving but you only. For even in Thessalonica you sent once and again to my need. Not that I seek for the gift, but I seek for the fruit that increases to your account. But I have all things, and abound. I am filled, having received from Epaphroditus the things that came from you, a sweet-smelling fragrance, an acceptable and well-pleasing sacrifice to God. My God will supply every need of yours according to his riches in glory in Christ Jesus. Now to our God and Father be the glory forever and ever! Amen.",
+      "echoes": [
+        {
+          "source": "Exodus 29:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You shall burn the whole ram on the altar: it is a burnt offering to Yahweh; it is a pleasant aroma, an offering made by fire to Yahweh.",
+          "note": "Paul calls the Philippians' gift 'a sweet-smelling fragrance, an acceptable and well-pleasing sacrifice to God,' adopting the cultic formula 'a pleasing aroma, an offering by fire to the LORD' from the sacrificial law. Volume is high on the pleasing-aroma + acceptable-sacrifice language, and coherence is strong as Paul recasts material aid as acceptable cultic offering."
+        },
+        {
+          "source": "Genesis 8:21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh smelled the pleasant aroma. Yahweh said in his heart, “I will not again curse the ground any more for man’s sake because the imagination of man’s heart is evil from his youth; neither will I ever again strike every living thing, as I have done.",
+          "note": "'The LORD smelled the pleasing aroma' of Noah's offering establishes the foundational 'pleasing aroma' (osme euodias) idiom Paul applies to the Philippians' gift. Availability in the Torah and recurrence of the formula in the sacrificial system make it coherent, though Exodus 29 supplies the fuller 'acceptable' phrasing."
+        },
+        {
+          "source": "Ezekiel 20:41",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "As a pleasant aroma will I accept you, when I bring you out from the peoples, and gather you out of the countries in which you have been scattered; and I will be sanctified in you in the sight of the nations.",
+          "note": "'As a pleasing aroma I will accept you' applies the sacrifice formula to persons God receives, paralleling Paul's transfer of cultic acceptability from animal offerings to the gift and givers. Coherence with the figural extension of sacrificial acceptance is strong; volume is moderate as one instance of the recurring aroma motif."
+        },
+        {
+          "source": "Leviticus 1:9",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "but its innards and its legs he shall wash with water. The priest shall burn all of it on the altar, for a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh.",
+          "note": "'A burnt offering, an offering made by fire, a pleasing aroma to the LORD' is the prototypical instance of the formula Paul quotes, reinforcing availability and recurrence of the 'pleasing aroma' sacrificial language across the Levitical code. Volume is moderate; it corroborates Exodus 29 as the cultic backdrop."
+        },
+        {
+          "source": "Psalm 23:1",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh is my shepherd: I shall lack nothing.",
+          "note": "'The LORD is my shepherd; I shall not want' underwrites Paul's 'My God will supply every need of yours,' the assurance that God provides so the faithful lack nothing. Coherence with the divine-provision theme is strong; volume is moderate since Paul echoes the concept of no-lack rather than the shepherd image."
+        },
+        {
+          "source": "Psalm 34:9-10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Oh fear Yahweh, you his saints, for there is no lack with those who fear him. The young lions do lack, and suffer hunger, but those who seek Yahweh shall not lack any good thing.",
+          "note": "'Those who seek the LORD lack no good thing... the young lions suffer want, but those who fear the LORD lack nothing' closely parallels 'My God will supply every need of yours.' Recurrence of the no-lack-for-the-faithful promise (with v.18 already echoed above) strengthens coherence; volume is moderate."
+        },
+        {
+          "source": "Psalm 84:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For Yahweh God is a sun and a shield. Yahweh will give grace and glory. He withholds no good thing from those who walk blamelessly.",
+          "note": "'No good thing does he withhold from those who walk uprightly' adds to the divine-provision tradition behind Paul's promise that God will supply every need. Volume is low and the link thematic, but recurrence reinforces availability of the God-withholds-no-good-thing motif.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 41:13",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Blessed be Yahweh, the God of Israel, from everlasting and to everlasting! Amen and amen.",
+          "note": "Paul's doxology 'to our God and Father be the glory forever and ever, Amen' reproduces the eulogy-plus-'forever'-plus-'Amen' pattern that closes the books of the Psalter ('Blessed be the LORD... forever and ever. Amen and Amen'). Coherence with Jewish berakah doxology is strong; volume is moderate as a formal rather than verbal match."
+        },
+        {
+          "source": "Psalm 72:19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Blessed be his glorious name forever! Let the whole earth be filled with his glory! Amen and amen.",
+          "note": "'Blessed be his glorious name forever; may the whole earth be filled with his glory! Amen and Amen' supplies the glory-forever-Amen doxological form Paul uses. Volume is low and the form conventional, but the Psalter doxologies are available and coherent with Paul's closing ascription of glory.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.7",
+      "ch": 4,
+      "ref": "4:21-23",
+      "text": "Greet every saint in Christ Jesus. The brothers who are with me greet you. All the saints greet you, especially those who are of Caesar’s household. The grace of the Lord Jesus Christ be with you all. Amen.",
+      "echoes": [
+        {
+          "source": "Numbers 6:24-26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "‘Yahweh bless you, and keep you. Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.’",
+          "note": "The closing benediction 'The grace of the Lord Jesus Christ be with you all' echoes the Aaronic blessing's structure of invoking God's grace and presence upon the people ('the LORD be gracious to you... the LORD be with you'). Volume is faint and the formula is a fixed Pauline close, but coherence with the priestly grace-and-presence benediction is real.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

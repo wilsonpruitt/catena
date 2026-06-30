@@ -1,0 +1,95 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1",
+    "echoes": [
+      {
+        "source": "Deuteronomy 10:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Masters must treat slaves 'justly and fairly, knowing that you also have a Master in heaven' — the appeal grounds earthly authority in the impartial heavenly Judge. Deut 10:17 names God as 'God of gods and Lord of lords' who 'is not partial and takes no bribe,' the standard text for divine impartiality that levels the master/slave relation. Volume is high on the theme of God showing no partiality; coherence is strong with Paul's recurring 'no partiality' (Eph 6:9 reflex) rooted in this OT motif.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 25:43",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The command that masters render what is 'just and equal' echoes the Holiness Code's restraint on slaveholders: 'You shall not rule over him with rigor, but shall fear your God.' Both texts curb the master's power by invoking the fear of the divine Lord. The Jubilee slave legislation (Lev 25) is the most concrete OT availability for an ethic of fair treatment tied to God's overlordship.",
+        "contested": false
+      },
+      {
+        "source": "Job 31:13-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Job's defense of justice toward his servants — 'Did not he who made me in the womb make him?' — grounds fair treatment in a shared Maker and a final reckoning before God, matching the logic of a heavenly Master who judges masters. Faint and thematic rather than verbal; flagged contested because the link is conceptual coherence, not citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:2-4",
+    "echoes": [
+      {
+        "source": "Isaiah 62:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Continue steadfastly in prayer, being watchful' may draw on the watchman motif: Isaiah's watchmen 'all the day and all the night... shall never be silent,' giving God no rest until Zion is established. The image of unceasing, vigilant intercession coheres with Paul's call to persevere wakefully in prayer. Verbal contact is faint, so marked contested.",
+        "contested": true,
+        "altSource": "Psalm 130:6"
+      },
+      {
+        "source": "Daniel 2:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prayer for an open door 'to speak the mystery (mystērion) of Christ' picks up the apocalyptic vocabulary of Daniel 2, where 'there is a God in heaven who reveals mysteries' and discloses hidden things. Daniel LXX is the principal Second-Temple source for mystērion as divine secret now unveiled, coherent with Paul's 'mystery' language throughout Colossians. Conceptual rather than quotational.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:5-6",
+    "echoes": [
+      {
+        "source": "Leviticus 2:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Let your speech... be gracious, seasoned with salt' evokes the 'covenant of salt' required on every grain offering: 'with all your offerings you shall offer salt.' Salt as a sign of permanence, fidelity, and covenant fellowship gives the metaphor of salted speech its OT depth. Volume is moderate and coherence good, since salt elsewhere figures preservation and bond (cf. the next entries).",
+        "contested": false
+      },
+      {
+        "source": "Numbers 18:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Reinforces the 'covenant of salt' background for 'seasoned with salt' — 'a covenant of salt forever before the LORD.' Salt symbolizes an inviolable, perpetual bond, fitting speech meant to build and preserve relationship with outsiders. Faint, recurrence-based support for the Lev 2:13 allusion rather than an independent source.",
+        "contested": true
+      },
+      {
+        "source": "Ezra 4:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'We eat the salt of the palace' uses salt as a figure of loyalty and shared allegiance, a Near-Eastern idiom that may color the social sense of 'speech seasoned with salt' toward outsiders. Very faint and contested; offered only for the recurrence of salt-as-fidelity imagery in the OT.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Making the best use of the time' (exagorazomenoi ton kairon, 'redeeming the time') resembles the idiom in Daniel 2:8 LXX, where the king says the magi are 'buying time' (kairon... exagorazete). The shared kairos-redemption phrasing toward 'those outside' suggests a possible verbal echo, though the sense differs and the link is contested.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 22:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The counsel to 'walk in wisdom toward outsiders' with speech that is gracious and apt to answer each one reflects the wisdom tradition's prizing of gracious, well-timed speech: 'he who loves purity of heart and whose speech is gracious will have the king as his friend.' Sapiential coherence is strong as a milieu, but no single proverb is quoted; faint and contested.",
+        "contested": true,
+        "altSource": "Ecclesiastes 10:12"
+      }
+    ]
+  }
+]

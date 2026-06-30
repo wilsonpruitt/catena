@@ -1,0 +1,192 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-2",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The salutation 'Grace to you, and peace' may carry the cadence of the Aaronic blessing, whose climax is shalom ('peace'). Volume is faint and the formula is Paul's standard epistolary opening, so coherence with the Numbers benediction is real but diffuse; availability of the priestly blessing in Second-Temple liturgy supports a soft echo, not a citation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 89:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Saints' (hagioi) for the addressed community draws on the OT designation of God's holy/set-apart people (qedoshim), used of the assembly and the heavenly host in psalmody and Daniel. Recurrence across the LXX is high but the term is so naturalized in Paul that any single referent is weak; marked contested.",
+        "contested": true,
+        "altSource": "Daniel 7:18"
+      },
+      {
+        "source": "Joshua 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Servants of Jesus Christ' echoes the OT honorific 'servant of the LORD' borne by Moses, Joshua, and the prophets, now transferred to Christ as the divine master. Coherence with Paul's self-designation elsewhere is strong, but volume here is thin and the title is conventional; faint figural transfer.",
+        "contested": true,
+        "altSource": "Amos 3:7"
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:3-8",
+    "echoes": [
+      {
+        "source": "Psalm 138:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He who began a good work in you will complete it' rests on the OT confidence that God finishes what he starts: LXX Ps 137:8 'the LORD will accomplish/perfect (epitelesei) on my behalf... do not forsake the works of your hands.' The shared verb-idea of God perfecting his own work, plus the appeal to divine faithfulness, gives real coherence; volume is moderate, so allusion rather than quotation.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The day of Jesus Christ' (also 1:10) christologizes the prophetic 'day of the LORD,' a fixed eschatological topos in Joel, Amos, and Zephaniah. Recurrence of the motif across the prophets and its centrality to Paul's eschatology give strong coherence; the transfer of YHWH's day to Christ is the load-bearing figural move.",
+        "contested": false,
+        "altSource": "Amos 5:18"
+      },
+      {
+        "source": "Zephaniah 1:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Supplementary witness to the 'day of the LORD' background behind 'the day of Jesus Christ.' Lower than Joel/Amos because the verbal contact is generic; included for recurrence of the motif.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 145:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's longing 'in the tender mercies (splanchna) of Christ Jesus' draws on OT compassion language (rachamim/oiktirmoi) characteristically predicated of God. The affective vocabulary coheres with the divine-mercy tradition, but the Greek splanchna is not the usual LXX term, so the echo is faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:9-11",
+    "echoes": [
+      {
+        "source": "Proverbs 11:30",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Filled with the fruits of righteousness' draws on the wisdom/prophetic image where righteousness yields fruit: 'the fruit of the righteous is a tree of life.' Coherence with the agricultural righteousness-fruit metaphor is strong and recurrent across wisdom and prophets; volume moderate.",
+        "contested": false,
+        "altSource": "Amos 6:12"
+      },
+      {
+        "source": "Amos 6:12",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Amos's rhetorical 'you have turned... the fruit of righteousness into wormwood' is a candidate source for the precise phrase 'fruit of righteousness.' The exact word-pair appears here, raising volume, but the contexts differ sharply (judgment vs. blessing), weakening coherence; offered as a contested verbal parallel.",
+        "contested": true,
+        "altSource": "Proverbs 11:30"
+      },
+      {
+        "source": "Isaiah 5:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The vineyard song where God looks for 'righteousness' as fruit stands behind the broader prophetic expectation of righteous fruit. Thematic coherence is good but verbal contact is indirect; faint echo supporting the fruit-of-righteousness cluster.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 10:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Sow for yourselves righteousness, reap the fruit of steadfast love' supplies the same sowing/reaping-of-righteousness logic. Recurrence within the prophetic fruit-of-righteousness motif justifies inclusion at low confidence.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Sincere and without offense to the day of Christ' pairs the day-of-the-LORD motif with purity/refining language reminiscent of Malachi's refiner who purifies until offerings are presented in righteousness. The contact is thematic, not verbal; faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:12-18",
+    "echoes": [
+      {
+        "source": "Genesis 50:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The things which happened to me have turned out rather to the progress of the gospel' resonates figurally with Joseph's 'you meant evil... but God meant it for good,' the paradigm of imprisonment turned to providential benefit. Coherence with Paul's providential reading of his chains is suggestive; verbal contact is absent, so this is a contested typological echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:19-26",
+    "echoes": [
+      {
+        "source": "Job 13:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'This will turn out to my salvation' reproduces LXX Job 13:16 verbatim ('touto moi apobesetai eis soterian'). The exact wording, the shared situation of a righteous sufferer confident of vindication before God, and Job's surrounding 'I will not be put to shame' all yield maximal volume and coherence; this is the chapter's one near-citation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 25:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'My earnest expectation and hope, that I will in no way be put to shame' echoes the recurrent psalmic confidence 'in you I trust, let me not be put to shame' (LXX Ps 24:2-3,20). The shame/hope-in-God vocabulary is dense in the Psalter and coheres tightly with Paul's vindication theme; allusion to the topos rather than one verse.",
+        "contested": false,
+        "altSource": "Psalm 25:20"
+      },
+      {
+        "source": "Isaiah 50:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Servant's 'I shall not be put to shame... I have set my face like flint' supplies the suffering-yet-unashamed confidence behind Paul's 'I will in no way be disappointed (shamed)... with all boldness.' Coherence with the vindicated-Servant pattern is strong; verbal contact (shame + boldness) is moderate.",
+        "contested": false,
+        "altSource": "Isaiah 49:23"
+      },
+      {
+        "source": "Psalm 34:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Christ will be magnified (megalynthesetai) in my body' echoes the psalmic call to magnify the LORD (LXX Ps 33:4 'megalynate ton kyrion'); Ps 34 also supplies the adjacent 'those who look to him are radiant, never put to shame.' The shared verb of magnifying and the linked shame motif give good coherence; christological transfer of God's magnification to Christ is the figural pivot.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You are my servant... in whom I will be glorified' undergirds the idea that God/Christ is glorified-magnified in his servant's body and life-or-death faithfulness. Thematic coherence with the Servant being the locus of glorification is good, but verbal contact is faint.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 5:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's desire 'to depart and be with Christ' may faintly draw on the OT hope of being taken to be with God, paradigmatically Enoch who 'was not, for God took him,' and the psalmic 'you will receive me to glory' (Ps 73:24). The contact is conceptual; low and contested.",
+        "contested": true,
+        "altSource": "Psalm 73:24"
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:27-30",
+    "echoes": [
+      {
+        "source": "Psalm 27:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In nothing frightened by the adversaries' resonates with the psalmist's fearlessness before foes ('though an army encamp against me, my heart shall not fear'). The shared courage-before-enemies posture coheres with Paul's exhortation; verbal contact is generic, so a faint echo.",
+        "contested": true
+      }
+    ]
+  }
+]

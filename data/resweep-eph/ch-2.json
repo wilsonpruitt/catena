@@ -1,0 +1,356 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-3",
+    "echoes": [
+      {
+        "source": "Genesis 2:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Dead in transgressions and sins' draws on the Edenic verdict that disobedience brings death ('in the day you eat of it you shall surely die'). The metaphor of spiritual death as the consequence of sin coheres with Genesis' linkage of transgression and death, an availability Paul could presume.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:1-7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The serpent's deception inaugurating human disobedience underlies 'children of disobedience' and the death-through-sin pattern. The figural Adam/Eden background coheres with Paul's broader use of the Fall narrative elsewhere.",
+        "contested": true,
+        "altSource": "Genesis 2:17"
+      },
+      {
+        "source": "Job 1:6-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The prince of the power of the air' presupposes a heavenly accusing spirit-figure like the satan who roams and acts in the world. Job's Adversary supplies an available OT prototype for a malign cosmic ruler operating under God, though no verbal link exists.",
+        "contested": true,
+        "altSource": "Job 2:1-7"
+      },
+      {
+        "source": "Genesis 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Doing the desires of the flesh and of the mind' echoes the flood-era verdict that every inclination of the thoughts of the human heart was only evil. The OT yetzer-language of corrupt human imagination coheres with Paul's 'desires of the mind.'",
+        "contested": true,
+        "altSource": "Genesis 8:21"
+      },
+      {
+        "source": "Psalm 51:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'By nature children of wrath' resonates with the Psalmist's confession of being conceived in sin, supplying OT warrant for an innate sinful condition. The coherence is thematic (inborn guilt) rather than verbal.",
+        "contested": true,
+        "altSource": "Genesis 8:21"
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:4-7",
+    "echoes": [
+      {
+        "source": "Exodus 34:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'God, being rich in mercy, for his great love' draws directly on the Sinai self-revelation of YHWH as 'merciful and gracious... abounding in steadfast love.' The pairing of abundant mercy with great love reproduces the chesed-rab formula, a high-volume, recurrent OT confession Paul evokes to ground salvation in God's covenant character.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 103:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Rich in mercy... great love' echoes the Psalm's restatement of the Exodus 34 formula, 'The LORD is merciful and gracious... abounding in steadfast love.' Recurrence of this confession in the Psalter strengthens the allusion as the lens through which Paul reads God's saving initiative.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 110:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Being 'raised up with him and made to sit with him in the heavenly places' applies the enthronement oracle 'Sit at my right hand' to believers' co-exaltation with Christ. Psalm 110:1 is the most-cited OT verse in the NT, and its session-language coheres precisely with Paul's seating motif.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 9:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Salvation grounded 'not on our own righteousness but on God's great mercy' parallels Daniel's plea appealing to God's great mercy rather than human merit. The coherence with 2:4-9's grace-not-works logic is notable though verbally faint.",
+        "contested": true,
+        "altSource": "Psalm 103:8"
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:8-9",
+    "echoes": [
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Not of works, that no one would boast' invokes the prophetic prohibition against self-boasting: 'Let not the wise man boast in his wisdom... but let him who boasts boast in this, that he knows me.' Paul cites this exact text elsewhere (1 Cor 1:31), making it the controlling OT warrant for excluding human boasting before God.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 9:4-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Not of yourselves... not of works' echoes Moses' insistence that Israel possesses the land 'not because of your righteousness' but by God's gift. The covenantal grace-not-merit logic coheres tightly with Paul's anti-works argument.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 49:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The futility of boasting in wealth or self-ransom ('no man can redeem... or give to God a ransom for him') resonates with salvation as God's gift, not human achievement. The link to 2:9's no-boasting is thematic and faint.",
+        "contested": true,
+        "altSource": "Jeremiah 9:23-24"
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:10",
+    "echoes": [
+      {
+        "source": "Genesis 1:1",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'His workmanship, created in Christ Jesus' deploys creation-language (ktizo/bara) to frame redemption as a new creative act of God. The Genesis creation account is the figural backdrop for the 'created... for good works' new-creation motif.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 100:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'We are his workmanship' echoes 'It is he who made us, and we are his' — the confession of God as maker of his people. The coherence with creaturely dependence on the Maker reinforces the new-creation reading.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The work of my hands... they will sanctify my name' resonates with believers as God's 'workmanship... for good works.' Isaiah's restoration-as-recreation theme coheres with Paul's eschatological new making.",
+        "contested": true,
+        "altSource": "Isaiah 43:21"
+      },
+      {
+        "source": "Isaiah 43:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The people I formed for myself, that they might declare my praise' parallels a people created for a purpose (good works). The purposive creation-language coheres with 2:10 though no verbal quotation occurs.",
+        "contested": true,
+        "altSource": "Psalm 100:3"
+      }
+    ]
+  },
+  {
+    "id": "2.5",
+    "ch": 2,
+    "ref": "2:11-12",
+    "echoes": [
+      {
+        "source": "Deuteronomy 4:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Without God in the world,' contrasted with Israel's nearness, inverts Moses' boast that no nation has a god so near as YHWH is to Israel. The privilege of covenantal nearness sets up the Gentiles' former exclusion.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 17:7-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The contrast of 'circumcision'/'uncircumcision' and 'the covenants of the promise' draws on the Abrahamic covenant of circumcision and its promises. This is the OT institution Paul presupposes when defining Gentile alienation 'in the flesh.'",
+        "contested": false
+      },
+      {
+        "source": "Genesis 12:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Strangers from the covenants of the promise' presupposes the Abrahamic promise of blessing and land. The 'promise' Gentiles were excluded from is the recurrent patriarchal covenant promise, the availability of which frames their reincorporation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 147:19-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He has not dealt thus with any other nation; they do not know his ordinances' parallels the Gentiles being 'without God,' aliens to Israel's covenant privileges. The thematic coherence is strong though unmarked.",
+        "contested": true,
+        "altSource": "Deuteronomy 4:7"
+      }
+    ]
+  },
+  {
+    "id": "2.6",
+    "ch": 2,
+    "ref": "2:13",
+    "echoes": [
+      {
+        "source": "Isaiah 57:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You who once were far off are made near' draws directly on Isaiah's 'Peace, peace, to the far and to the near.' The far/near pairing is the controlling OT text here, used both at 2:13 and quoted at 2:17, and its volume and recurrence make it the structural backbone of the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The bringing 'near' of those far off anticipates the herald-of-peace announcement Paul evokes more fully at 2:17. The Zion-restoration framework of Isaiah 52 coheres with the reconciliation theme of 'made near in the blood.'",
+        "contested": true,
+        "altSource": "Isaiah 57:19"
+      },
+      {
+        "source": "Daniel 9:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Those near and those far off' as a merism for all Israel/the scattered resonates with Paul's far/near language. The phrase is a stock OT idiom for the dispersed, lending availability to Paul's spatial reconciliation imagery.",
+        "contested": true,
+        "altSource": "Isaiah 57:19"
+      }
+    ]
+  },
+  {
+    "id": "2.7",
+    "ch": 2,
+    "ref": "2:14-16",
+    "echoes": [
+      {
+        "source": "Isaiah 9:6-7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He is our peace' resonates with the messianic 'Prince of Peace' whose government brings unending peace. The identification of the Messiah personally with peace coheres strongly with Isaiah's peace-bringing royal child.",
+        "contested": false
+      },
+      {
+        "source": "Micah 5:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'This one shall be peace' (of the Bethlehem ruler) parallels 'he is our peace.' Micah's messianic peace-figure offers an available OT precedent for predicating peace of the Messiah himself.",
+        "contested": true,
+        "altSource": "Isaiah 9:6-7"
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The making of peace and proclamation context underlying 'making peace' anticipates the explicit herald citation at 2:17. The peace-establishment theme coheres with the Isaianic good-news-of-peace background.",
+        "contested": true,
+        "altSource": "Isaiah 57:19"
+      }
+    ]
+  },
+  {
+    "id": "2.8",
+    "ch": 2,
+    "ref": "2:17",
+    "echoes": [
+      {
+        "source": "Isaiah 57:19",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Preached peace to you who were far off and to those who were near' quotes 'Peace, peace, to the far and to the near.' The double 'peace' and the far/near pair are reproduced verbatim in sense, making this the clearest formal citation in the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He came and preached peace' evokes the herald 'who publishes peace, who brings good news' of Zion's restoration. The act of proclaiming peace (euangelizo eirenen) blends Isaiah 52:7's gospel-herald with 57:19's far/near, a conflated allusion Paul builds his reconciliation climax upon.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 9:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The messianic king 'shall speak peace to the nations,' his rule reaching far, parallels Christ preaching peace to far and near. The Gentile-inclusive scope of Zechariah's peace-proclamation coheres with Paul's two-group reconciliation.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "2.9",
+    "ch": 2,
+    "ref": "2:18",
+    "echoes": [
+      {
+        "source": "Isaiah 11:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Access in one Spirit to the Father' resonates with the Spirit of the LORD resting on the messianic shoot, mediating divine presence. The Spirit-mediated approach to God coheres faintly with Isaiah's endowment of the Spirit, though no verbal tie exists.",
+        "contested": true,
+        "altSource": "Numbers 16:5"
+      },
+      {
+        "source": "Leviticus 16:12-14",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'Access' to the Father reworks the cultic restriction of approach into God's presence, granted now to both groups by the Spirit. The Day of Atonement's controlled access supplies the figural temple-approach background reconciliation overturns.",
+        "contested": true,
+        "altSource": "Leviticus 16:1-2"
+      }
+    ]
+  },
+  {
+    "id": "2.10",
+    "ch": 2,
+    "ref": "2:19-22",
+    "echoes": [
+      {
+        "source": "Isaiah 28:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Christ Jesus himself being the chief cornerstone' draws on 'I lay in Zion a stone, a tested cornerstone, a precious foundation.' Isaiah 28:16 is a recurrent NT messianic stone-text; its foundation/cornerstone vocabulary directly supplies Paul's temple-building imagery.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 118:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'chief cornerstone' (akrogoniaios/kephale gonias) echoes 'the stone the builders rejected has become the head of the corner.' The widely-used messianic stone testimonium coheres with the cornerstone designation, though Paul's primary stone-text here is Isaiah 28:16.",
+        "contested": true,
+        "altSource": "Isaiah 28:16"
+      },
+      {
+        "source": "Exodus 25:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'A habitation of God in the Spirit' / 'holy temple' echoes the sanctuary command 'let them make me a sanctuary, that I may dwell among them.' God's indwelling of a built structure is the controlling OT temple-presence theme Paul transfers to the church.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 8:10-13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Growing into a holy temple... a habitation of God' evokes the glory filling Solomon's temple as God's dwelling place. The temple-as-divine-residence motif coheres directly with believers as God's new dwelling by the Spirit.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:27",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'My dwelling place shall be with them... I will be their God' parallels the church as 'a habitation of God in the Spirit.' Ezekiel's eschatological-covenant dwelling, joined to Spirit-language, coheres with Paul's Spirit-indwelt temple.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Fellow citizens with the saints' and the strong, gate-opened city for the righteous nation resonate with the temple-city imagery. The citizenship-in-God's-city motif coheres faintly with Isaiah's Zion-city of salvation.",
+        "contested": true,
+        "altSource": "Exodus 25:8"
+      },
+      {
+        "source": "Zechariah 6:12-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Branch... shall build the temple of the LORD' resonates with Christ as cornerstone of a growing holy temple. The messianic temple-builder oracle coheres with Christ being the foundation of the new sanctuary.",
+        "contested": true,
+        "altSource": "Isaiah 28:16"
+      }
+    ]
+  }
+]

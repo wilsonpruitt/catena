@@ -1,0 +1,1180 @@
+{
+  "slug": "colossians",
+  "name": "Colossians",
+  "subtitle": "A Fullness Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "Against a religion of elemental spirits and empty philosophy, Colossians answers with the fullness of God dwelling bodily in Christ — and it sings that fullness in the language of Israel’s wisdom and creation traditions. The hymn at its center names Christ the image of the invisible God and the firstborn of all creation, the one in whom and through whom and for whom all things were made and in whom they hold together — the very role Proverbs and Wisdom gave to Wisdom at God’s side before the world. The letter reads circumcision as a thing of the heart made without hands, the feasts and new moons and sabbaths as a shadow whose substance is Christ, and the risen life as hidden with him who sits at God’s right hand. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where Paul follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-2",
+      "text": "Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother, to the saints and faithful brothers in Christ at Colossae: Grace to you and peace from God our Father, and the Lord Jesus Christ.",
+      "echoes": [
+        {
+          "source": "Numbers 6:25-26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.’",
+          "note": "The epistolary blessing 'Grace to you and peace' channels the Aaronic benediction's pairing of divine favor and shalom (the LORD make his face shine... and give you peace). Volume is low and the formula is conventionally Pauline, but the coherence with the priestly grace/peace dyad and its availability in the Torah make it a plausible faint figural backdrop.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:3-8",
+      "text": "We give thanks to God the Father of our Lord Jesus Christ, praying always for you, having heard of your faith in Christ Jesus, and of the love which you have toward all the saints, because of the hope which is laid up for you in the heavens, of which you heard before in the word of the truth of the Good News, which has come to you; even as it is in all the world and is bearing fruit and growing, as it does in you also, since the day you heard and knew the grace of God in truth; even as you learned of Epaphras our beloved fellow servant, who is a faithful servant of Christ on our behalf, who also declared to us your love in the Spirit.",
+      "echoes": [
+        {
+          "source": "Genesis 1:28",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”",
+          "note": "The gospel 'bearing fruit and growing... in all the world' (v.6) replays the creation/Edenic mandate 'be fruitful and multiply and fill the earth.' The paired participles fruit-bearing + increasing, set worldwide, deliberately recast the protological blessing as the spread of the word, a Genesis-creation coherence the hymn that follows will make explicit."
+        },
+        {
+          "source": "Genesis 9:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "God blessed Noah and his sons, and said to them, “Be fruitful, and multiply, and replenish the earth.",
+          "note": "The post-flood renewal of the be-fruitful-and-multiply command (also 9:7) reinforces the Genesis fruitfulness lexeme behind v.6's worldwide growth of the gospel. Recurrence of the same blessing-formula in Genesis strengthens availability; lower volume than 1:28 since the wording is the same mandate repeated.",
+          "contested": true,
+          "altSource": "Genesis 1:28"
+        },
+        {
+          "source": "Isaiah 55:10-11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For as the rain comes down and the snow from the sky, and doesn’t return there, but waters the earth, and makes it grow and bud, and gives seed to the sower and bread to the eater; so shall my word be that goes out of my mouth: it shall not return to me void, but it shall accomplish that which I please, and it shall prosper in the thing I sent it to do.",
+          "note": "The 'word of the truth of the gospel' that 'has come to you' and is fruitful in all the world echoes Isaiah's word that goes out from God's mouth and does not return empty but accomplishes and prospers, like rain making the earth bring forth and sprout. Coherence is strong: a divine word personified as agriculturally fruitful and unfailingly effective."
+        },
+        {
+          "source": "Jeremiah 23:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will gather the remnant of my flock out of all the countries where I have driven them, and will bring them again to their folds; and they shall be fruitful and multiply.",
+          "note": "Jeremiah's promise that the gathered remnant 'shall be fruitful and multiply' fuses the Genesis blessing with restoration hope; Colossians' worldwide fruitful word may stand in this prophetic stream of fruitfulness-as-restoration. Faint and overlapping with the Genesis echoes, hence contested.",
+          "contested": true,
+          "altSource": "Genesis 1:28"
+        },
+        {
+          "source": "Isaiah 11:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "They will not hurt nor destroy in all my holy mountain; for the earth will be full of the knowledge of Yahweh, as the waters cover the sea.",
+          "note": "The motif of 'all the world' / earth filled (here with the fruitful word) faintly recalls Isaiah's eschatological 'the earth shall be full of the knowledge of the LORD as the waters cover the sea,' which also surfaces in the knowledge-language of v.9-10. Low volume, flagged contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "ch": 1,
+      "ref": "1:9-14",
+      "text": "For this cause, we also, since the day we heard this, don’t cease praying and making requests for you, that you may be filled with the knowledge of his will in all spiritual wisdom and understanding, that you may walk worthily of the Lord, to please him in all respects, bearing fruit in every good work, and increasing in the knowledge of God; strengthened with all power, according to the might of his glory, for all endurance and perseverance with joy; giving thanks to the Father, who made us fit to be partakers of the inheritance of the saints in light; who delivered us out of the power of darkness, and translated us into the Kingdom of the Son of his love; in whom we have our redemption, the forgiveness of our sins;",
+      "echoes": [
+        {
+          "source": "Isaiah 11:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The Spirit of Yahweh will rest on him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of Yahweh.",
+          "note": "The prayer to be 'filled with the knowledge of his will in all spiritual wisdom and understanding' (v.9) draws on the messianic endowment of Isaiah 11:2, the Spirit of wisdom and understanding, of counsel and knowledge. The triad wisdom/understanding/knowledge clusters in both texts, a coherent Spirit-given cognition of God's will."
+        },
+        {
+          "source": "Exodus 31:3",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "and I have filled him with the Spirit of God, in wisdom, and in understanding, and in knowledge, and in all kinds of workmanship,",
+          "note": "Being 'filled with' wisdom and understanding (v.9) echoes Bezalel filled with the Spirit of God 'in wisdom, in understanding, and in knowledge' for the work of the sanctuary. The fullness-of-Spirit-wisdom idiom and the same three faculties make this a strong lexical parallel; availability in Exodus is secure."
+        },
+        {
+          "source": "Wisdom of Solomon 9:9-11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "And with you is wisdom, which knows your works, And was present when you were making the world, And which understands what is pleasing in your eyes, And what is right according to your commandments. Send her forth out of the holy heavens, And from the throne of your glory bid her come, That being present with me she may toil with me, And that I may learn what is well-pleasing before you. For she knows all things and has understanding thereof, And in my […]",
+          "note": "Solomon's prayer that Wisdom be sent to teach 'what is pleasing' to God and to guide him to 'walk' rightly parallels v.9-10's prayer for knowledge of God's will so as to 'walk worthily... pleasing him.' The walk/please/wisdom cluster is Wisdom-tradition coherent, though diffuse.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 12:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But go you your way until the end; for you shall rest, and shall stand in your lot, at the end of the days.",
+          "note": "The 'inheritance of the saints in light' (v.12) faintly recalls Daniel's promise that the wise will 'rest and stand in your allotted inheritance at the end of days' and shine like the brightness of the firmament (12:3). The lot/inheritance of the holy ones in light is apocalyptic-coherent. Faint, contested.",
+          "contested": true,
+          "altSource": "Wisdom of Solomon 5:5"
+        },
+        {
+          "source": "Wisdom of Solomon 5:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "How was he counted among sons of God? And how is his lot among saints?",
+          "note": "'The inheritance of the saints in light' (v.12) resonates with Wisdom 5:5, where the righteous are numbered 'among the sons of God' and their 'lot is among the saints/holy ones.' Shared lot-among-the-holy-ones language gives modest coherence with Second-Temple beatific-portion expectation.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 9:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The people who walked in darkness have seen a great light. Those who lived in the land of the shadow of death, on them the light has shined.",
+          "note": "Being delivered 'out of the power of darkness' and translated into the kingdom (v.13) draws on Isaiah's people walking in darkness who see a great light and the dawning kingdom of the messianic son (9:6-7). Light/darkness reversal plus an established kingdom of a royal son cohere tightly."
+        },
+        {
+          "source": "Psalm 2:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I will tell of the decree. Yahweh said to me, “You are my son. Today I have become your father.",
+          "note": "'The kingdom of the Son of his love' (v.13) evokes the royal-adoption oracle 'You are my Son'; with v.15-18's firstborn language it situates Christ in the Davidic sonship of Psalm 2. Volume here is thematic (beloved royal son enthroned over a kingdom) rather than verbal."
+        },
+        {
+          "source": "Genesis 22:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He said, “Now take your son, your only son, whom you love, even Isaac, and go into the land of Moriah. Offer him there for a burnt offering on one of the mountains which I will tell you of.”",
+          "note": "'The Son of his love' / the Beloved (v.13) carries the Aqedah resonance of Isaac, 'your son, your only son, whom you love,' a beloved-son figure offered up. Coherence with the redemption-through-death theme that immediately follows (v.14, v.20) strengthens the figural reading of the beloved son.",
+          "contested": true,
+          "altSource": "Psalm 2:7"
+        },
+        {
+          "source": "Isaiah 5:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Let me sing for my well beloved a song of my beloved about his vineyard. My beloved had a vineyard on a very fruitful hill.",
+          "note": "'Son of his love' (v.13) may faintly echo Isaiah's 'song of my beloved' for the vineyard; the LXX agapetos vocabulary links beloved-son and beloved-vineyard traditions. Low volume and contested against the stronger Psalm 2 / Genesis 22 candidates.",
+          "contested": true,
+          "altSource": "Genesis 22:2"
+        },
+        {
+          "source": "Exodus 6:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Therefore tell the children of Israel, ‘I am Yahweh, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with an outstretched arm, and with great judgments:",
+          "note": "'In whom we have our redemption' after being delivered out of the domain of darkness (v.13-14) replays the exodus pattern: God redeems (apolytrosis/lytrosis) Israel out of bondage with an outstretched arm. The deliverance-then-redemption sequence and transfer into God's kingdom map onto the exodus from Egypt's darkness."
+        },
+        {
+          "source": "Isaiah 43:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But now thus says Yahweh who created you, Jacob, and he who formed you, Israel: “Don’t be afraid, for I have redeemed you. I have called you by your name. You are mine.",
+          "note": "'Our redemption, the forgiveness of sins' (v.14) resonates with Isaiah's 'I have redeemed you, I have called you by name, you are mine,' and 43:25's blotting out of transgressions. Redemption coupled with forgiveness is a second-exodus motif; volume modest, flagged contested.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 10:21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh said to Moses, “Stretch out your hand toward the sky, that there may be darkness over the land of Egypt, even darkness which may be felt.”",
+          "note": "The 'power of darkness' from which we are delivered (v.13) may glance at the plague of palpable darkness over Egypt that the exodus undoes, reinforcing the deliverance-from-darkness-into-kingdom exodus typology. Faint and contested.",
+          "contested": true,
+          "altSource": "Isaiah 9:2"
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "ch": 1,
+      "ref": "1:15-20",
+      "text": "who is the image of the invisible God, the firstborn of all creation. For by him all things were created, in the heavens and on the earth, things visible and things invisible, whether thrones or dominions or principalities or powers; all things have been created through him, and for him. He is before all things, and in him all things are held together. He is the head of the body, the assembly, who is the beginning, the firstborn from the dead; that in all things he might have the preeminence. For all the fullness was pleased to dwell in him; and through him to reconcile all things to himself, by him, whether things on the earth, or things in the heavens, having made peace through the blood of his cross.",
+      "echoes": [
+        {
+          "source": "Genesis 1:26-27",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "God said, “Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.” God created man in his own image. In God’s image he created him; male and female he created them.",
+          "note": "'The image of the invisible God' (v.15) directly invokes the creation of humanity in the image and likeness of God. Christ is presented as the true eikon in whom the protological image is realized, and the hymn's creation framing (v.16) confirms the Genesis 1 backdrop. High volume and coherence."
+        },
+        {
+          "source": "Wisdom of Solomon 7:25-26",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For she is a breath of the power of God, And a clear effluence of the glory of the Almighty; Therefore can nothing defiled find entrance into her. For she is an effulgence from everlasting light, And an unspotted mirror of the working of God, And an image of his goodness.",
+          "note": "'Image of the invisible God' (v.15) and the fullness/glory motifs draw on Wisdom personified as 'a breath of the power of God,' 'a pure emanation of the glory of the Almighty,' 'a spotless mirror... and an image (eikon) of his goodness.' The eikon-of-the-invisible-God predicate is a near-direct Wisdom borrowing."
+        },
+        {
+          "source": "Proverbs 8:22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Yahweh possessed me in the beginning of his work, before his deeds of old.",
+          "note": "'The firstborn of all creation' who is 'before all things' (v.15,17) recasts Wisdom, whom 'the LORD created/possessed as the beginning (arche) of his way, before his works of old.' The hymn maps Christ onto pre-existent Wisdom as the principle and firstfruit of creation; v.18 even calls him arche."
+        },
+        {
+          "source": "Proverbs 8:27-30",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "When he established the heavens, I was there; when he set a circle on the surface of the deep, when he established the clouds above, when the springs of the deep became strong, when he gave to the sea its boundary, that the waters should not violate his commandment, when he marked out the foundations of the earth; then I was the craftsman by his side. I was a delight day by day, always rejoicing before him,",
+          "note": "'For by/in him all things were created' and 'in him all things hold together' (v.16-17) draws on Wisdom present when God established the heavens, the deep, and the foundations, beside him as the agent/craftsman of creation. Wisdom-as-cosmic-mediator coherence is strong across the whole hymn."
+        },
+        {
+          "source": "Psalm 89:27",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I will also appoint him my firstborn, the highest of the kings of the earth.",
+          "note": "'The firstborn (prototokos) of all creation' (v.15) and 'firstborn from the dead' (v.18) draw on the Davidic oracle 'I will make him the firstborn, the highest of the kings of the earth.' Firstborn as a title of supreme rank and primacy ('that he might be preeminent') matches Psalm 89's royal exaltation exactly."
+        },
+        {
+          "source": "Genesis 1:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "note": "'By him all things were created, in heaven and on earth' (v.16) is a deliberate restatement of 'In the beginning God created the heavens and the earth,' with the merism heaven/earth and the verb create binding the hymn to Genesis 1. Christ is the agent through whom the Genesis creation comes to be."
+        },
+        {
+          "source": "Psalm 33:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "By Yahweh’s word, the heavens were made; all their army by the breath of his mouth.",
+          "note": "'By him all things were created... all things have been created through him' (v.16) echoes 'By the word of the LORD the heavens were made, and all their host by the breath of his mouth.' Creation-by-the-word coherence supports the Logos/Wisdom agency Colossians ascribes to Christ."
+        },
+        {
+          "source": "Sirach 43:26",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "By reason of him his end has success, And by his word all things consist.",
+          "note": "'In him all things hold together' (v.17) parallels Sirach's cosmological 'by his word all things hold together' (en logo autou sygkeitai ta panta), the sustaining of the cosmos by the divine word. The cohesion verb and the all-things object make this a strong Second-Temple sapiential parallel."
+        },
+        {
+          "source": "Wisdom of Solomon 1:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Because the spirit of the Lord has filled the world, And that which holds all things together has knowledge of every voice.",
+          "note": "'In him all things hold together' (v.17) resonates with Wisdom's 'the spirit of the Lord has filled the world, and that which holds all things together (to synechon ta panta) knows every word.' Wisdom as the cosmic glue that fills and binds the universe undergirds the hymn's sustaining-Christ claim."
+        },
+        {
+          "source": "Wisdom of Solomon 8:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "But she reaches from one end of the world to the other with full strength, And ordereth all things graciously.",
+          "note": "'He is before all things, and in him all things hold together' (v.17) echoes 'Wisdom reaches mightily from one end of the earth to the other, and orders all things well.' Wisdom's pervasive cosmic ordering supports Christ's pre-eminence and sustaining role."
+        },
+        {
+          "source": "Psalm 68:16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Why do you look in envy, you rugged mountains, at the mountain where God chooses to reign? Yes, Yahweh will dwell there forever.",
+          "note": "'For in him all the fullness was pleased to dwell' (v.19) faintly echoes the mountain that God 'desired for his dwelling,' where the LORD will dwell forever, transferring the chosen-dwelling motif onto Christ as the locus where God is pleased to dwell. Volume low; the eudokia/katoikein dwelling logic is the link.",
+          "contested": true,
+          "altSource": "1 Kings 8:11"
+        },
+        {
+          "source": "1 Kings 8:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "so that the priests could not stand to minister by reason of the cloud; for Yahweh’s glory filled Yahweh’s house.",
+          "note": "'All the fullness was pleased to dwell in him' (v.19) draws on the glory (kabod) filling the temple so that it could not be contained, the divine presence taking up bodily dwelling. Christ becomes the new temple in whom the full divine presence indwells; the dwelling/fullness/glory cluster (cf. v.27) coheres."
+        },
+        {
+          "source": "Psalm 132:13-14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For Yahweh has chosen Zion. He has desired it for his habitation. “This is my resting place forever. Here I will live, for I have desired it.",
+          "note": "'The fullness was pleased to dwell in him' (v.19) resonates with the LORD's choice of Zion: 'this is my resting place forever; here I will dwell, for I have desired it.' The desire/pleasure-to-dwell verb aligns; faint and overlapping with the 1 Kings 8 temple-glory echo.",
+          "contested": true,
+          "altSource": "1 Kings 8:11"
+        },
+        {
+          "source": "Leviticus 16:30",
+          "type": "echo",
+          "confidence": "low",
+          "text": "for on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh.",
+          "note": "'To reconcile all things to himself... making peace through the blood of his cross' (v.20) reframes the Day of Atonement reconciliation accomplished by blood. The blood-effecting-reconciliation logic is Levitical; volume low because Colossians universalizes it cosmically rather than cultically.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 53:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But he was pierced for our transgressions. He was crushed for our iniquities. The punishment that brought our peace was on him; and by his wounds we are healed.",
+          "note": "'Making peace through the blood of his cross' (v.20) faintly recalls the Servant whose chastisement brought 'peace' (shalom) and whose wounds bring healing. The peace-through-suffering-death linkage is coherent; flagged contested given the diffuse wording.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:21-23",
+      "text": "You, being in past times alienated and enemies in your mind in your evil works, yet now he has reconciled in the body of his flesh through death, to present you holy and without defect and blameless before him, if it is so that you continue in the faith, grounded and steadfast, and not moved away from the hope of the Good News which you heard, which is being proclaimed in all creation under heaven; of which I, Paul, was made a servant.",
+      "echoes": [
+        {
+          "source": "Leviticus 22:21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Whoever offers a sacrifice of peace offerings to Yahweh to accomplish a vow, or for a freewill offering, of the herd or of the flock, it shall be perfect to be accepted. It shall have no defect.",
+          "note": "To 'present you holy and without defect/blameless before him' (v.22) borrows the sacrificial standard that an offering must be 'without blemish (amomos) to be accepted.' Believers are presented as a perfected, unblemished cultic offering, the holiness/without-defect language taken directly from the sacrificial code."
+        },
+        {
+          "source": "Exodus 12:5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Your lamb shall be without defect, a male a year old. You shall take it from the sheep, or from the goats:",
+          "note": "'Without defect and blameless' (v.22) echoes the Passover lamb requirement 'your lamb shall be without blemish.' The amomos qualifier and the presentation-before-God of an acceptable victim cohere with the paschal/sacrificial backdrop, reinforcing the blood-of-the-cross atonement just stated.",
+          "contested": true,
+          "altSource": "Leviticus 22:21"
+        },
+        {
+          "source": "Genesis 17:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "When Abram was ninety-nine years old, Yahweh appeared to Abram, and said to him, “I am God Almighty. Walk before me, and be blameless.",
+          "note": "Being presented 'blameless' (amomos/teleios) before God (v.22) faintly recalls the covenant charge 'walk before me and be blameless.' The blameless-walk-before-God ideal coheres with v.10's 'walk worthily,' though the volume is low.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.6",
+      "ch": 1,
+      "ref": "1:24-29",
+      "text": "Now I rejoice in my sufferings for your sake, and fill up on my part that which is lacking of the afflictions of Christ in my flesh for his body’s sake, which is the assembly; of which I was made a servant, according to the stewardship of God which was given me toward you, to fulfill the word of God, the mystery which has been hidden for ages and generations. But now it has been revealed to his saints, to whom God was pleased to make known what are the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory; whom we proclaim, admonishing every man and teaching every man in all wisdom, that we may present every man perfect in Christ Jesus; for which I also labor, striving according to his working, which works in me mightily.",
+      "echoes": [
+        {
+          "source": "Daniel 2:28",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "but there is a God in heaven who reveals secrets, and he has made known to the king Nebuchadnezzar what shall be in the latter days. Your dream, and the visions of your head on your bed, are these:",
+          "note": "'The mystery (mysterion) which has been hidden for ages... but now has been revealed' (v.26) draws on Daniel's God 'who reveals mysteries' and 'made known what will be in the latter days.' The technical hidden-then-revealed mystery apocalyptic vocabulary derives from Daniel 2 (cf. 2:19,28,47)."
+        },
+        {
+          "source": "Daniel 2:22",
+          "type": "echo",
+          "confidence": "low",
+          "text": "he reveals the deep and secret things; he knows what is in the darkness, and the light dwells with him.",
+          "note": "'The mystery now revealed' (v.26) resonates with Daniel's 'he reveals deep and hidden things; he knows what is in the darkness, and the light dwells with him,' joining the revealed-mystery motif with the light/darkness imagery of v.12-13. Coherent but lower volume than Daniel 2:28.",
+          "contested": true,
+          "altSource": "Daniel 2:28"
+        },
+        {
+          "source": "Amos 3:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Surely the Lord Yahweh will do nothing, unless he reveals his secret to his servants the prophets.",
+          "note": "The disclosure of a previously hidden divine plan now 'revealed to his saints' (v.26) faintly echoes 'the Lord God does nothing without revealing his secret (sod) to his servants the prophets.' The hidden-counsel-now-disclosed prophetic motif is coherent though diffuse.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 49:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "yes, he says, “It is too light a thing that you should be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give you for a light to the nations, that you may be my salvation to the end of the earth.”",
+          "note": "The mystery's content 'among the Gentiles' (v.27) resonates with the Servant given 'as a light to the nations' so salvation reaches the ends of the earth. The Gentile-inclusion-as-revealed-glory theme coheres with Colossians' worldwide gospel (v.6,23). Faint, contested.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom of Solomon 6:12-16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Wisdom is radiant and fades not away; And easily is she saw those who love her, And found of those who seek her. She forestalleth those who desire to know her, making herself first known. He that rises up early to seek her will have no toil, For he will find her sitting at his gates. For to think upon her is perfectness of understanding, And he that watches for her sake will quickly be free from care. Because she goes about, herself seeking those who are […]",
+          "note": "'In all wisdom... that we may present every man perfect (teleios)' (v.28) resonates with Wisdom-tradition pedagogy that leads to maturity/perfection. The teaching-in-wisdom-toward-perfection aim coheres with the sapiential framing of the whole chapter; volume modest.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "ch": 2,
+      "ref": "2:1-5",
+      "text": "For I desire to have you know how greatly I struggle for you, and for those at Laodicea, and for as many as have not seen my face in the flesh; that their hearts may be comforted, they being knit together in love, and gaining all riches of the full assurance of understanding, that they may know the mystery of God, both of the Father and of Christ, in whom are all the treasures of wisdom and knowledge hidden. Now this I say that no one may delude you with persuasiveness of speech. For though I am absent in the flesh, yet am I with you in the spirit, rejoicing and seeing your order, and the steadfastness of your faith in Christ.",
+      "echoes": [
+        {
+          "source": "Proverbs 2:3-6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yes, if you call out for discernment, and lift up your voice for understanding; If you seek her as silver, and search for her as for hidden treasures: then you will understand the fear of Yahweh, and find the knowledge of God. For Yahweh gives wisdom. Out of his mouth comes knowledge and understanding.",
+          "note": "The treasures of wisdom and knowledge hidden in Christ closely tracks Proverbs 2, where one cries out for understanding and searches for it as for hidden treasures, and the LORD gives wisdom and knowledge. Volume is high (shared lexis: wisdom, knowledge, hidden, treasure) and the coherence with Paul's epistemology of revelation is strong."
+        },
+        {
+          "source": "Isaiah 45:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I will give you the treasures of darkness, and hidden riches of secret places, that you may know that it is I, Yahweh, who call you by your name, even the God of Israel.",
+          "note": "The treasures of darkness and hidden riches given to Cyrus so that he may know the LORD supplies the motif of concealed treasure tied to knowledge of God, matching Paul's 'treasures of wisdom and knowledge hidden' that yield the knowledge of God's mystery. Recurrence of the hidden-treasure-leading-to-knowledge pattern supports the echo.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 2:20-23",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Daniel answered, Blessed be the name of God forever and ever; for wisdom and might are his. He changes the times and the seasons; he removes kings, and sets up kings; he gives wisdom to the wise, and knowledge to those who have understanding; he reveals the deep and secret things; he knows what is in the darkness, and the light dwells with him. I thank you, and praise you, you God of my fathers, who have given me wisdom and might, and have now made known […]",
+          "note": "Daniel's hymn praises God who reveals deep and hidden things, gives wisdom and knowledge, and discloses mysteries; Paul's 'mystery of God' in whom are hidden the treasures of wisdom and knowledge draws on this apocalyptic vocabulary where mystery, revelation, wisdom, and knowledge cluster (Daniel 2:28-30, 47). The Second-Temple availability and shared mystery-language ground the link."
+        },
+        {
+          "source": "Sirach 1:25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "A parable of knowledge is in the treasures of wisdom; But godliness is an abomination to a sinner.",
+          "note": "Ben Sira's saying that in the treasuries of wisdom are parables of knowledge offers a near-verbal Second-Temple parallel to 'treasures of wisdom and knowledge hidden.' Availability and shared sapiential idiom make this a plausible faint echo, though contested given the diffuse wisdom topos.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 11:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The Spirit of Yahweh will rest on him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of Yahweh.",
+          "note": "The messianic Spirit of wisdom and knowledge resting on the shoot of Jesse may stand behind Christ as the one in whom wisdom and knowledge are concentrated; the coherence with Paul's Christ-as-locus-of-wisdom is suggestive but the verbal volume is thin.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "ch": 2,
+      "ref": "2:4",
+      "text": "Now this I say that no one may delude you with persuasiveness of speech.",
+      "echoes": [
+        {
+          "source": "Proverbs 7:21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "With persuasive words, she led him astray. With the flattering of her lips, she seduced him.",
+          "note": "The warning against being deluded by persuasiveness of speech recalls the seductress of Proverbs 7 who with much fair speech caused him to yield; the wisdom motif of smooth/persuasive words leading astray is shared. Faint and contested given the commonplace.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "ch": 2,
+      "ref": "2:6-8",
+      "text": "As therefore you received Christ Jesus, the Lord, walk in him, rooted and built up in him, and established in the faith, even as you were taught, abounding in it in thanksgiving. Be careful that you don’t let anyone rob you through his philosophy and vain deceit, after the tradition of men, after the elements of the world, and not after Christ.",
+      "echoes": [
+        {
+          "source": "Isaiah 29:13",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "The Lord said, “Because this people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;",
+          "note": "'After the tradition of men' (and the precepts of men in v.22) echoes Isaiah's indictment that the people's fear of God is a commandment of men taught by rote, the locus classicus for human tradition supplanting God's word. Recurrence within the chapter (v.22) and coherence with the polemic against the 'philosophy' strengthen the allusion.",
+          "lxxText": "And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men."
+        },
+        {
+          "source": "Jeremiah 10:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For the customs of the peoples are vanity; for one cuts a tree out of the forest, the work of the hands of the workman with the ax.",
+          "note": "The customs of the peoples are vain/futile in Jeremiah 10 supplies the language of 'vain deceit' rooted in worthless human practice and false worship of created things, coherent with 'elements of the world' as enslaving cosmic powers. Volume is moderate via the LXX 'vain' vocabulary.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 1:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He will be like a tree planted by the streams of water, that produces its fruit in its season, whose leaf also does not wither. Whatever he does shall prosper.",
+          "note": "Being 'rooted and built up' and 'established' draws on the planted-tree imagery of the righteous in Psalm 1 (and Jeremiah 17:8), a stock figure for stability through walking rightly. Coherence with 'walk in him' supports a faint echo.",
+          "contested": true
+        },
+        {
+          "source": "Jeremiah 17:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For he shall be as a tree planted by the waters, who spreads out its roots by the river, and shall not fear when heat comes, but its leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit.",
+          "note": "The man planted by water whose roots reach the stream parallels Paul's horticultural metaphor 'rooted... abounding,' reinforcing the OT trope of the rooted and fruitful righteous. Faint and contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.4",
+      "ch": 2,
+      "ref": "2:9-10",
+      "text": "For in him all the fullness of the Godhead dwells bodily, and in him you are made full, who is the head of all principality and power;",
+      "echoes": [
+        {
+          "source": "Psalm 68:16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Why do you look in envy, you rugged mountains, at the mountain where God chooses to reign? Yes, Yahweh will dwell there forever.",
+          "note": "That 'the fullness of the Godhead dwells bodily' in Christ recasts the OT theme of God choosing to dwell on the mountain/sanctuary where the LORD will abide forever; Christ becomes the true locus of divine indwelling. The figural transfer of dwelling-glory is coherent though verbally faint.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 6:1-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "In the year that king Uzziah died, I saw the Lord sitting on a throne, high and lifted up; and his train filled the temple. Above him stood the seraphim. Each one had six wings. With two he covered his face. With two he covered his feet. With two he flew. One called to another, and said, “Holy, holy, holy, is Yahweh of Armies! The whole earth is full of his glory!”",
+          "note": "The temple vision where the whole earth is full of the LORD's glory underlies the language of divine 'fullness' now resident bodily in Christ; the fullness/glory motif coheres with Colossians 1:19 and the indwelling theme. Contested and diffuse.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.5",
+      "ch": 2,
+      "ref": "2:11-13",
+      "text": "in whom you were also circumcised with a circumcision not made with hands, in the putting off of the body of the sins of the flesh, in the circumcision of Christ; having been buried with him in baptism, in which you were also raised with him through faith in the working of God, who raised him from the dead. You were dead through your trespasses and the uncircumcision of your flesh. He made you alive together with him, having forgiven us all our trespasses,",
+      "echoes": [
+        {
+          "source": "Deuteronomy 30:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh your God will circumcise your heart, and the heart of your seed, to love Yahweh your God with all your heart, and with all your soul, that you may live.",
+          "note": "Circumcision 'not made with hands' in 'the putting off of the body of the sins of the flesh' draws directly on Deuteronomy's promise that the LORD will circumcise the heart so you will love him and live, the foundational text for an internal, divinely-wrought circumcision. Volume, coherence, and recurrence in the heart-circumcision tradition are all strong."
+        },
+        {
+          "source": "Jeremiah 4:4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Circumcise yourselves to Yahweh, and take away the foreskins of your heart, you men of Judah and inhabitants of Jerusalem; lest my wrath go out like fire, and burn so that no one can quench it, because of the evil of your doings.",
+          "note": "The command to circumcise yourselves to the LORD and remove the foreskin of the heart provides the prophetic call to true (inward) circumcision over against fleshly circumcision, exactly the antithesis Paul presses. Strong coherence with v.11's contrast between hand-made and Christ's circumcision."
+        },
+        {
+          "source": "Deuteronomy 10:16",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Circumcise therefore the foreskin of your heart, and be no more stiff-necked.",
+          "note": "Circumcise the foreskin of your heart and be no longer stiff-necked supplies the same heart-circumcision idiom; its recurrence alongside Deut 30:6 and Jer 4:4 confirms a stable tradition standing behind Paul's spiritualized circumcision."
+        },
+        {
+          "source": "Ezekiel 44:7-9",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "in that you have brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in my sanctuary, to profane it, even my house, when you offer my bread, the fat and the blood, and they have broken my covenant, to add to all your abominations. You have not performed the duty of my holy things; but you have set performers of my duty in my sanctuary for yourselves. Thus says the Lord Yahweh, No foreigner, uncircumcised in heart and […]",
+          "note": "Ezekiel's denunciation of the uncircumcised in heart and flesh entering the sanctuary supplies the paired heart/flesh circumcision categories Paul deploys ('uncircumcision of your flesh', v.13). The shared dual idiom supports the echo, though it is less verbally direct.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 17:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You shall be circumcised in the flesh of your foreskin. It will be a token of the covenant between me and you.",
+          "note": "The institution of circumcision in the flesh as the covenant sign is the background Paul transcends with 'circumcision not made with hands'; the polemical contrast presupposes the Abrahamic rite. Coherence is high but it is presupposed background rather than a quoted echo.",
+          "contested": true
+        },
+        {
+          "source": "Ezekiel 37:12-14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Therefore prophesy, and tell them, Thus says the Lord Yahweh: Behold, I will open your graves, and cause you to come up out of your graves, my people; and I will bring you into the land of Israel. You shall know that I am Yahweh, when I have opened your graves, and caused you to come up out of your graves, my people. I will put my Spirit in you, and you shall live, and I will place you in your own land: and you shall know that I, Yahweh, have spoken it […]",
+          "note": "Being 'made alive together with him' while dead in trespasses resonates with Ezekiel's vision of God opening graves and putting his Spirit in the dead so they live; the death-to-life raising motif coheres with vv.12-13's burial-and-resurrection. Faint and contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.6",
+      "ch": 2,
+      "ref": "2:14-15",
+      "text": "wiping out the handwriting in ordinances which was against us; and he has taken it out of the way, nailing it to the cross; having stripped the principalities and the powers, he made a show of them openly, triumphing over them in it.",
+      "echoes": [
+        {
+          "source": "Isaiah 43:25",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins.",
+          "note": "God 'wiping out the handwriting' and forgiving all trespasses echoes Isaiah's 'I, even I, am he who blots out your transgressions for my own sake,' the divine erasure of the record of sin. The blotting-out vocabulary and forgiveness theme give moderate volume and strong coherence."
+        },
+        {
+          "source": "Psalm 51:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions.",
+          "note": "The plea to blot out my transgressions according to your mercy supplies the same image of erasing the written debt of sin that stands against the sinner. Coherent but diffuse, hence a faint echo.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 53:12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Therefore will I divide him a portion with the great, and he shall divide the plunder with the strong; because he poured out his soul to death, and was numbered with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.",
+          "note": "The disarming and public shaming of the powers while bearing sin to the cross may draw on the Servant who was numbered with transgressors yet divided the spoil with the strong, a victory-through-suffering pattern. The triumph-out-of-humiliation coherence is real but the verbal link is thin and contested.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 22:22-25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will lay the key of the house of David on his shoulder. He will open, and no one will shut. He will shut, and no one will open. I will fasten him like a nail in a sure place. He will be for a throne of glory to his father’s house. They will hang on him all the glory of his father’s house, the offspring and the issue, every small vessel, from the cups even to all the pitchers. “In that day,” says Yahweh of Armies, “the nail that was fastened in a sure […]",
+          "note": "The peg/nail fastened in a sure place that is then cut down and the burden hung on it falls, in Isaiah 22, offers a faint backdrop to 'nailing it to the cross'; the imagery of fastening a burden to a peg coheres loosely. Highly contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.7",
+      "ch": 2,
+      "ref": "2:15",
+      "text": "having stripped the principalities and the powers, he made a show of them openly, triumphing over them in it.",
+      "echoes": [
+        {
+          "source": "Isaiah 45:1-2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus says Yahweh to his anointed, to Cyrus, whose right hand I have held, to subdue nations before him, and strip kings of their armor; to open the doors before him, and the gates shall not be shut: “I will go before you, and make the rough places smooth. I will break the doors of brass in pieces, and cut apart the bars of iron.",
+          "note": "The divine-warrior subduing kings and going before to break gates and bars underlies Christ disarming the principalities and triumphing over them; the YHWH-as-victor motif coheres with the cosmic-conquest reading. Faint, contested verbal volume.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 15:1-6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Then Moses and the children of Israel sang this song to Yahweh, and said, “I will sing to Yahweh, for he has triumphed gloriously. The horse and his rider he has thrown into the sea. Yah is my strength and song. He has become my salvation. This is my God, and I will praise him; my father’s God, and I will exalt him. Yahweh is a man of war. Yahweh is his name. He has cast Pharaoh’s chariots and his army into the sea. His chosen captains are sunk in the Red […]",
+          "note": "The Song of the Sea celebrating the LORD as warrior who shatters the enemy in triumph supplies the archetype of God's public victory parade over hostile powers that Paul reapplies to the cross ('made a show of them openly, triumphing'). Coherent but figural and faint.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 68:18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You have ascended on high. You have led away captives. You have received gifts among men, yes, among the rebellious also, that Yah God might dwell there.",
+          "note": "The ascending victor who 'led captivity captive' and received gifts among rebellious men supplies the OT triumphal-procession image behind Christ leading the disarmed powers in open shame. Moderate coherence with the Pauline conquest theme and recurrence of this Psalm in Pauline triumph language.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.8",
+      "ch": 2,
+      "ref": "2:16-17",
+      "text": "Let no one therefore judge you in eating, or in drinking, or with respect to a feast day or a new moon or a Sabbath day, which are a shadow of the things to come; but the body is Christ’s.",
+      "echoes": [
+        {
+          "source": "Hosea 2:11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I will also cause all her celebrations to cease: her feasts, her new moons, her Sabbaths, and all her solemn assemblies.",
+          "note": "The triad 'a feast day or a new moon or a Sabbath day' closely matches Hosea's 'her feasts, her new moons, and her sabbaths' (the calendar God will cause to cease). High verbal volume in the same ordered list and coherence with Paul relativizing the festal calendar make this the primary source."
+        },
+        {
+          "source": "Ezekiel 45:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "It shall be the prince’s part to give the burnt offerings, and the meal offerings, and the drink offerings, in the feasts, and on the new moons, and on the Sabbaths, in all the appointed feasts of the house of Israel: he shall prepare the sin offering, and the meal offering, and the burnt offering, and the peace offerings, to make atonement for the house of Israel.",
+          "note": "The prince's obligation at 'the feasts, the new moons, and the sabbaths' lists the same three calendrical categories Paul names, confirming a stock OT triad of appointed times. Recurrence across Hosea, Ezekiel, and Chronicles strengthens the allusion."
+        },
+        {
+          "source": "1 Chronicles 23:31",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "and to offer all burnt offerings to Yahweh, on the Sabbaths, on the new moons, and on the set feasts, in number according to the ordinance concerning them, continually before Yahweh;",
+          "note": "Offerings on 'the sabbaths, the new moons, and the set feasts' gives the same three-term cultic calendar, part of the recurring biblical formula that Paul's 'feast, new moon, sabbath' draws on. Moderate volume via the fixed triad.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 28-29",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh spoke to Moses, saying, “Command the children of Israel, and tell them, ‘See that you present my offering, my food for my offerings made by fire, of a pleasant aroma to me, in their due season.’ You shall tell them, ‘This is the offering made by fire which you shall offer to Yahweh: male lambs a year old without defect, two day by day, for a continual burnt offering. You shall offer the one lamb in the morning, and you shall offer the other lamb at […]",
+          "note": "The festal legislation prescribing offerings for the daily, sabbath, new-moon, and appointed-feast cycle, together with their associated food and drink offerings, undergirds Paul's pairing of 'eating, or drinking' with 'feast, new moon, sabbath.' The food-and-drink plus calendar coherence supports the allusion."
+        },
+        {
+          "source": "Ezekiel 11:23",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh’s glory went up from the midst of the city, and stood on the mountain which is on the east side of the city.",
+          "note": "That these observances are 'a shadow of the things to come' but the body is Christ's draws on the type/copy logic; while the wording 'shadow' (Exodus 25:40's pattern tradition) is the better backdrop, the prophetic theme of the present cult as provisional resonates faintly. Contested.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 25:40",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "See that you make them after their pattern, which has been shown to you on the mountain.",
+          "note": "The command to make the tabernacle after the pattern shown on the mountain founds the OT copy/shadow-versus-true-reality schema that Paul invokes with 'a shadow of the things to come, but the body is Christ's.' Coherence with the type/antitype theology is strong though the lexical contact is indirect.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh spoke to Moses and to Aaron, saying to them, “Speak to the children of Israel, saying, ‘These are the living things which you may eat among all the animals that are on the earth. Whatever parts the hoof, and is cloven-footed, and chews the cud among the animals, that you may eat. “‘Nevertheless these you shall not eat of those that chew the cud, or of those who part the hoof: the camel, because he chews the cud but doesn’t have a parted hoof, he is […]",
+          "note": "The dietary laws governing clean/unclean 'eating' stand behind the food-judgments Paul forbids others to impose; the broader Levitical kashrut backdrop coheres with 'judge you in eating, or in drinking.' Faint, presupposed background.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.9",
+      "ch": 2,
+      "ref": "2:18-19",
+      "text": "Let no one rob you of your prize by a voluntary humility and worshiping of the angels, dwelling in the things which he has not seen, vainly puffed up by his fleshly mind, and not holding firmly to the Head, from whom all the body, being supplied and knit together through the joints and ligaments, grows with God’s growth.",
+      "echoes": [
+        {
+          "source": "Daniel 7:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "A fiery stream issued and came out from before him: thousands of thousands ministered to him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.",
+          "note": "The 'worshiping of the angels' and 'dwelling in the things which he has not seen' may engage the apocalyptic vision world of myriads of angelic attendants around the throne (Daniel 7), against which Paul polemicizes excessive angel-veneration. Coherence with the visionary milieu, but the link is faint and contested.",
+          "contested": true
+        },
+        {
+          "source": "Ezekiel 1:4-28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I looked, and behold, a stormy wind came out of the north, a great cloud, with flashing lightning, and a brightness around it, and out of its midst as it were glowing metal, out of the midst of the fire. Out of its midst came the likeness of four living creatures. This was their appearance: they had the likeness of a man. Everyone had four faces, and each one of them had four wings. Their feet were straight feet; and the sole of their feet was like the […]",
+          "note": "The visionary 'dwelling in the things which he has not seen' evokes merkavah/throne-vision speculation such as Ezekiel's chariot vision that fed Second-Temple angelology; Paul critiques those who enter such visions and so worship angels. Faint, contested.",
+          "contested": true
+        },
+        {
+          "source": "1 Enoch 14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "Enoch's heavenly ascent and vision of angelic hosts before the throne typifies the visionary, angel-focused piety Paul opposes ('worshiping of the angels... things which he has not seen'). Pseudepigraphal availability warrants noting the milieu, but the link is general and contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.10",
+      "ch": 2,
+      "ref": "2:20-23",
+      "text": "If you died with Christ from the elements of the world, why, as though living in the world, do you subject yourselves to ordinances, “Don’t handle, nor taste, nor touch” (all of which perish with use), according to the precepts and doctrines of men? Which things indeed appear like wisdom in self-imposed worship, and humility, and severity to the body; but aren’t of any value against the indulgence of the flesh.",
+      "echoes": [
+        {
+          "source": "Isaiah 29:13",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "The Lord said, “Because this people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;",
+          "note": "'According to the precepts and doctrines of men' renders Isaiah's 'their fear of me is a commandment of men taught by rote' (LXX: teaching the precepts/doctrines of men), the same phrase Jesus cites; the regulations 'don't handle, taste, touch' are these merely human precepts. High verbal volume and recurrence (cf. v.8) make this a near-quotation.",
+          "lxxText": "And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men."
+        },
+        {
+          "source": "Genesis 3:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "but not the fruit of the tree which is in the middle of the garden. God has said, ‘You shall not eat of it, neither shall you touch it, lest you die.’”",
+          "note": "The prohibition 'don't handle, nor taste, nor touch' may parody Eve's expansion of God's command, 'you shall not eat... neither shall you touch it,' as an example of human regulation about handling/touching forbidden things. The touch-taboo verbal overlap is suggestive but contested.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 11:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Of their flesh you shall not eat, and their carcasses you shall not touch; they are unclean to you.",
+          "note": "The Levitical command not to eat or 'touch' the carcasses of unclean animals supplies a concrete backdrop to the handle/taste/touch regulations Paul cites as perishable human ordinances about food. Faint, presupposed cultic background.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 52:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Depart, depart, go out from there, touch no unclean thing! Go out of the midst of her! Cleanse yourselves, you who bear the vessels of Yahweh.",
+          "note": "'Touch no unclean thing' offers a purity-touch idiom standing behind the ascetic 'do not touch' rule Paul deflates as mere 'severity to the body.' Coherent with the food/purity theme but verbally faint and contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.1",
+      "ch": 3,
+      "ref": "3:1-4",
+      "text": "If then you were raised together with Christ, seek the things that are above, where Christ is, seated on the right hand of God. Set your mind on the things that are above, not on the things that are on the earth. For you died, and your life is hidden with Christ in God. When Christ, our life, is revealed, then you will also be revealed with him in glory.",
+      "echoes": [
+        {
+          "source": "Psalm 110:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh says to my Lord, “Sit at my right hand, until I make your enemies your footstool for your feet.”",
+          "note": "\"Where Christ is, seated on the right hand of God\" verbally echoes the LXX of Ps 110:1 (\"Sit at my right hand\"), the most-cited OT verse in the NT. High volume of distinctive language (right hand, seated, exaltation) and strong recurrence make the session at God's right hand the dominant figure for the exalted Christ. Coherence with Colossians' cosmic Christology is exact."
+        },
+        {
+          "source": "Daniel 7:13-14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I saw in the night visions, and behold, there came with the clouds of the sky one like a son of man, and he came even to the ancient of days, and they brought him near before him. There was given him dominion, and glory, and a kingdom, that all the peoples, nations, and languages should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.",
+          "note": "The exalted Christ glorified and revealed in heavenly session may faintly invoke Daniel's Son of Man given dominion and glory before the Ancient of Days. Low volume since no distinctive vocabulary is reproduced; the echo rests on the shared schema of heavenly enthronement and future revelation \"in glory\" (v.4).",
+          "contested": true
+        },
+        {
+          "source": "Psalm 73:24-26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You will guide me with your counsel, and afterward receive me to glory. Whom do I have in heaven? There is no one on earth whom I desire besides you. My flesh and my heart fails, but God is the strength of my heart and my portion forever.",
+          "note": "\"Your life is hidden with Christ in God\" coheres with the psalmist's hope that God is his portion and will receive him to glory, the hidden security of life bound to God. Faint and contested; rests on thematic coherence (hiddenness, glory, God as the believer's life) rather than verbal contact.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.2",
+      "ch": 3,
+      "ref": "3:5-7",
+      "text": "Put to death therefore your members which are on the earth: sexual immorality, uncleanness, depraved passion, evil desire, and covetousness, which is idolatry; for which things’ sake the wrath of God comes on the children of disobedience. You also once walked in those, when you lived in them;",
+      "echoes": [
+        {
+          "source": "Genesis 6:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of man’s heart was continually only evil.",
+          "note": "\"Evil desire\" and the inventory of corrupt members recall the prophetic-Pentateuchal diagnosis that the inclination of the human heart is only evil continually. Faint; the vice list is a Hellenistic-Jewish form and contact is conceptual (the earthly members, depraved passion) rather than lexical.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 20:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor’s.”",
+          "note": "\"Covetousness, which is idolatry\" presupposes the Decalogue's prohibition of coveting, the climactic command that exposes disordered desire. The identification of greed with idolatry draws on Israel's covenant logic where craving what is not one's own is functionally false worship; coherent with Second-Temple Jewish moralizing of pleonexia."
+        },
+        {
+          "source": "Exodus 20:3-5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“You shall have no other gods before me. “You shall not make for yourselves an idol, nor any image of anything that is in the heavens above, or that is in the earth beneath, or that is in the water under the earth: you shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and on the fourth generation of those who hate me,",
+          "note": "Naming covetousness \"idolatry\" invokes the first commandment's exclusive worship and the prohibition of other gods. The equation of greed with idol-service is a recurring Second-Temple move (cf. Testament traditions) grounded in the Decalogue's opening; coheres with the wrath-of-God indictment that follows."
+        },
+        {
+          "source": "Deuteronomy 9:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Remember, and don’t forget, how you provoked Yahweh your God to wrath in the wilderness. From the day that you left the land of Egypt, until you came to this place, you have been rebellious against Yahweh.",
+          "note": "\"The wrath of God comes on the children of disobedience\" coheres with Deuteronomy's recurring theme of divine wrath provoked by Israel's rebellion and idolatry. Faint and generic; the wrath-against-disobedience schema is pervasive across the prophets, so no single passage controls.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 25:1-9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Israel stayed in Shittim; and the people began to play the prostitute with the daughters of Moab; for they called the people to the sacrifices of their gods. The people ate and bowed down to their gods. Israel joined himself to Baal Peor. Yahweh’s anger was kindled against Israel. Yahweh said to Moses, “Take all the chiefs of the people, and hang them up to Yahweh before the sun, that the fierce anger of Yahweh may turn away from Israel.” Moses said to […]",
+          "note": "Linking sexual immorality and idolatry, followed by divine wrath, echoes the Baal-Peor episode where harlotry with Moab and idol-worship together kindle God's anger. Faint; contact is the recurrent OT pairing of porneia with idolatry under wrath rather than verbal citation.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.3",
+      "ch": 3,
+      "ref": "3:8-11",
+      "text": "but now you also put them all away: anger, wrath, malice, slander, and shameful speaking out of your mouth. Don’t lie to one another, seeing that you have put off the old man with his doings, and have put on the new man, who is being renewed in knowledge after the image of his Creator, where there can’t be Greek and Jew, circumcision and uncircumcision, barbarian, Scythian, bondservant, freeman; but Christ is all, and in all.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“‘You shall not steal. “‘You shall not lie. “‘You shall not deceive one another.",
+          "note": "\"Don't lie to one another\" closely tracks the Holiness Code's \"you shall not lie one to another\" (LXX), addressed to the covenant community. Strong verbal and situational coherence (reciprocal prohibition among the people of God); the holiness framing fits Colossians' renewed humanity."
+        },
+        {
+          "source": "Genesis 1:26-27",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "God said, “Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.” God created man in his own image. In God’s image he created him; male and female he created them.",
+          "note": "\"The new man, being renewed in knowledge after the image of his Creator\" directly reworks the creation of humanity in God's image. High volume (image, Creator, the making of man) and exact coherence: the new self is re-creation according to the imago Dei, recapitulating Gen 1. Availability and recurrence in Pauline new-creation theology are strong."
+        },
+        {
+          "source": "Genesis 5:1",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "This is the book of the generations of Adam. In the day that God created man, he made him in God’s likeness.",
+          "note": "\"After the image of his Creator\" also resonates with the toledot statement that God made man in his likeness, the verse that reasserts the image after the fall. Supports the renewal-of-the-image reading; medium because Gen 1:26-27 is the primary lexical source and 5:1 is the secondary, reinforcing one."
+        },
+        {
+          "source": "Genesis 3:7-21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Their eyes were opened, and they both knew that they were naked. They sewed fig leaves together, and made coverings for themselves. They heard the voice of Yahweh God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of Yahweh God among the trees of the garden. Yahweh God called to the man, and said to him, “Where are you?” The man said, “I heard your voice in the garden, and I was afraid, because I […]",
+          "note": "\"Put off the old man... put on the new\" with its clothing imagery may figurally invoke Adam: the garments and the postlapsarian self stripped off. Faint and contested; the old-man/new-man Adam typology is conceptual, and the clothing metaphor is widely diffused in Jewish moral discourse.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 1:27",
+          "type": "figural",
+          "confidence": "medium",
+          "text": "God created man in his own image. In God’s image he created him; male and female he created them.",
+          "note": "\"There can't be Greek and Jew... but Christ is all and in all\" figurally reconstitutes the single humanity created in God's image, undoing the divisions of the nations. The renewed image (vv.10) grounds a restored one-humanity; coheres with Gen 1's making of mankind as a unity before the scattering of Babel.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 11:1-9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The whole earth was of one language and of one speech. As they traveled east, they found a plain in the land of Shinar, and they lived there. They said one to another, “Come, let’s make bricks, and burn them thoroughly.” They had brick for stone, and they used tar for mortar. They said, “Come, let’s build ourselves a city, and a tower whose top reaches to the sky, and let’s make ourselves a name, lest we be scattered abroad on the surface of the whole […]",
+          "note": "The catalog of peoples (Greek, Jew, barbarian, Scythian) reconciled in Christ faintly reverses Babel's scattering and confusion of tongues into many nations. Low volume; the reversal-of-Babel reading is thematic and contested, resting on the restoration of one humanity rather than any cited wording.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.4",
+      "ch": 3,
+      "ref": "3:12-14",
+      "text": "Put on therefore, as God’s chosen ones, holy and beloved, a heart of compassion, kindness, lowliness, humility, and perseverance; bearing with one another, and forgiving each other, if any man has a complaint against any; even as Christ forgave you, so you also do. Above all these things, walk in love, which is the bond of perfection.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 7:6-7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For you are a holy people to Yahweh your God. Yahweh your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth. Yahweh didn’t set his love on you, nor choose you, because you were more in number than any people; for you were the fewest of all peoples:",
+          "note": "\"As God's chosen ones, holy and beloved\" transfers to the church Israel's defining triad: chosen, a holy people, beloved by the LORD's set love. High coherence and recurrence; the election language (eklektoi, hagioi, egapemenoi) maps directly onto Deuteronomy's covenant self-description of Israel."
+        },
+        {
+          "source": "Isaiah 43:20-21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The animals of the field shall honor me, the jackals and the ostriches; because I give water in the wilderness and rivers in the desert, to give drink to my people, my chosen, the people which I formed for myself, that they might declare my praise.",
+          "note": "\"My chosen people... which I formed for myself\" stands behind \"God's chosen ones,\" the elect people gathered to declare God's praise. Supports the high-confidence election cluster; medium because Deut 7 is the more controlling source, with Isaiah reinforcing the chosen-and-beloved motif."
+        },
+        {
+          "source": "Exodus 34:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh passed by before him, and proclaimed, “Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth,",
+          "note": "\"Compassion, kindness, lowliness, humility, and perseverance\" reproduces the cluster of the divine attributes proclaimed at Sinai (compassionate, gracious, slow to anger, abounding in steadfast love). High recurrence: this is the OT's signature self-revelation of God's character, and believers are to put it on in imitation. Coherence with the forgiving-as-the-Lord-forgave clause is exact."
+        },
+        {
+          "source": "Psalm 103:8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh is merciful and gracious, slow to anger, and abundant in loving kindness.",
+          "note": "\"The LORD is compassionate and gracious, slow to anger and abounding in mercy\" is the psalmist's reuse of Exod 34:6 and supplies the same attribute-list the believer dons. Strong recurrence of the formula; the surrounding theme of God's forgiveness (Ps 103:12) coheres with \"even as Christ forgave you\" in v.13."
+        },
+        {
+          "source": "Leviticus 19:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "\"Above all these things, walk in love, which is the bond of perfection\" rests on the love command of the Holiness Code, the OT verse Paul treats as summing up neighbor-ethics. High coherence: love crowning and binding the virtue list functions as the fulfillment of Lev 19:18; strong recurrence in Pauline paraenesis."
+        },
+        {
+          "source": "Joel 2:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Tear your heart, and not your garments, and turn to Yahweh, your God; for he is gracious and merciful, slow to anger, and abundant in loving kindness, and relents from sending calamity.",
+          "note": "The gracious-and-compassionate, slow-to-anger formula also appears in Joel and could feed the attribute cluster of v.12. Low/secondary; Exod 34:6 and Ps 103:8 are the primary witnesses, with Joel one of several prophetic reuses of the same liturgical formula.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.5",
+      "ch": 3,
+      "ref": "3:15-17",
+      "text": "And let the peace of God rule in your hearts, to which also you were called in one body; and be thankful. Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms, hymns, and spiritual songs, singing with grace in your heart to the Lord. Whatever you do, in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father, through him.",
+      "echoes": [
+        {
+          "source": "Psalm 33:2-3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Give thanks to Yahweh with the lyre. Sing praises to him with the harp of ten strings. Sing to him a new song. Play skillfully with a shout of joy!",
+          "note": "\"Psalms, hymns, and spiritual songs, singing with grace\" echoes the psalter's call to sing a new song with skill and praise. Medium volume; \"psalms\" is itself the genre word, and the threefold list of sung praise coheres with Israel's temple-song tradition the term presupposes."
+        },
+        {
+          "source": "1 Chronicles 16:7-36",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Then on that day David first ordained to give thanks to Yahweh, by the hand of Asaph and his brothers. Oh give thanks to Yahweh. Call on his name. Make his doings known among the peoples. Sing to him. Sing praises to him. Tell of all his marvelous works. Glory in his holy name. Let the heart of those who seek Yahweh rejoice. Seek Yahweh and his strength. Seek his face forever more. Remember his marvelous works that he has done, his wonders, and the […]",
+          "note": "The injunction to teach and admonish with psalms and thanksgiving recalls David's appointment of song and thanks before the ark. Faint; contact is the institution of communal praise/thanksgiving (\"be thankful,\" v.15) rather than any quoted line, so volume is low.",
+          "contested": true
+        },
+        {
+          "source": "1 Chronicles 25:1-7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Moreover, David and the captains of the army set apart for the service certain of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with stringed instruments, and with cymbals: and the number of those who did the work according to their service was: of the sons of Asaph: Zaccur, and Joseph, and Nethaniah, and Asharelah, the sons of Asaph, under the hand of Asaph, who prophesied after the order of the king. Of Jeduthun; the […]",
+          "note": "\"Spiritual songs\" and the temple-singer guilds set apart to prophesy with music stand behind the Christian assembly's sung instruction. Low/contested; the link is the institutional background of inspired temple song, not verbal citation.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 6:6-7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "These words, which I command you this day, shall be on your heart; and you shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up.",
+          "note": "\"Let the word of Christ dwell in you richly... teaching and admonishing\" coheres with the Shema's command to let God's words remain in the heart and to teach them diligently. Faint; the indwelling-and-teaching-the-word motif is suggestive but generic to Deuteronomic catechesis.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 1:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "but his delight is in Yahweh’s law. On his law he meditates day and night.",
+          "note": "The word dwelling in believers richly resonates with the blessed one whose delight is in the law, meditating on it day and night. Low volume and contested; thematic overlap (the indwelling, treasured word) without lexical contact.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 105:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Give thanks to Yahweh! Call on his name! Make his doings known among the peoples.",
+          "note": "\"Do all in the name of the Lord... giving thanks\" echoes the psalmist's \"give thanks to the LORD, call upon his name.\" Faint; the thanks-and-the-name pairing is a stock liturgical formula recurring across the psalter, so no single verse controls.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.6",
+      "ch": 3,
+      "ref": "3:18-21",
+      "text": "Wives, be in subjection to your husbands, as is fitting in the Lord. Husbands, love your wives, and don’t be bitter against them. Children, obey your parents in all things, for this pleases the Lord. Fathers, don’t provoke your children, so that they won’t be discouraged.",
+      "echoes": [
+        {
+          "source": "Genesis 3:16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "To the woman he said, “I will greatly multiply your pain in childbirth. In pain you will bear children. Your desire will be for your husband, and he will rule over you.”",
+          "note": "\"Wives, be in subjection to your husbands\" may invoke the post-fall ordering of the woman to her husband. Low/contested; the household-code form is shared with Hellenistic moral philosophy, so direct dependence on Gen 3:16 is uncertain.",
+          "contested": true,
+          "altSource": "Aristotle, Politics 1.1253b (Hellenistic household-code form)"
+        },
+        {
+          "source": "Exodus 20:12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you.",
+          "note": "\"Children, obey your parents in all things, for this pleases the Lord\" rests on the Decalogue's command to honor father and mother. Medium coherence; obedience-to-parents framed as pleasing God draws directly on the fifth commandment, the one OT command structuring filial duty."
+        },
+        {
+          "source": "Deuteronomy 5:16",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Honor your father and your mother, as Yahweh your God commanded you; that your days may be long, and that it may go well with you, in the land which Yahweh your God gives you.",
+          "note": "The Deuteronomic recension of \"honor your father and mother\" equally underlies the children's clause and its promise of well-being. Reinforces the Exod 20:12 link; the obey-and-it-goes-well-with-you logic coheres with \"for this pleases the Lord.\""
+        },
+        {
+          "source": "Proverbs 23:13-14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Don’t withhold correction from a child. If you punish him with the rod, he will not die. Punish him with the rod, and save his soul from Sheol.",
+          "note": "\"Fathers, don't provoke your children\" tempers the wisdom tradition of paternal discipline; the inversion presupposes Proverbs' instruction on raising children. Faint; contact is conceptual (the father-child formation theme) rather than a cited proverb.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.7",
+      "ch": 3,
+      "ref": "3:22-25",
+      "text": "Servants, obey in all things those who are your masters according to the flesh, not just when they are looking, as men pleasers, but in singleness of heart, fearing God. And whatever you do, work heartily, as for the Lord, and not for men, knowing that from the Lord you will receive the reward of the inheritance; for you serve the Lord Christ. But he who does wrong will receive again for the wrong that he has done, and there is no partiality.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 10:17",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For Yahweh your God, he is God of gods, and Lord of lords, the great God, the mighty, and the awesome, who doesn’t respect persons, nor takes reward.",
+          "note": "\"There is no partiality\" reproduces the Deuteronomic confession that God is not partial and takes no bribe, the OT root of the no-respect-of-persons formula. High coherence: divine impartiality grounds the just recompense of the wrongdoer (v.25); strong recurrence of this attribute across the law and prophets."
+        },
+        {
+          "source": "2 Chronicles 19:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Now therefore let the fear of Yahweh be on you. Take heed and do it: for there is no iniquity with Yahweh our God, nor respect of persons, nor taking of bribes.”",
+          "note": "Jehoshaphat's charge that with the LORD there is no injustice, partiality, or bribe-taking reinforces \"there is no partiality.\" Medium/supporting; Deut 10:17 is the controlling text, with 2 Chr 19:7 a recurrence applying impartiality to just judgment, exactly the context here."
+        },
+        {
+          "source": "Proverbs 24:12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "If you say, “Behold, we didn’t know this”; doesn’t he who weighs the hearts consider it? He who keeps your soul, doesn’t he know it? Shall he not render to every man according to his work?",
+          "note": "\"He who does wrong will receive again for the wrong he has done\" tracks the wisdom maxim that God repays each according to his deeds. Medium coherence; the recompense formula (rendering to a man according to his work) is the OT principle behind both the servant's reward (v.24) and the wrongdoer's payback."
+        },
+        {
+          "source": "Psalm 62:12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Also to you, Lord, belongs loving kindness, for you reward every man according to his work.",
+          "note": "\"You render to each according to his work\" supplies the same recompense principle informing v.25's repayment of the wrongdoer. Reinforces Prov 24:12; the recurrence of \"render according to works\" across psalm and proverb shows an available, well-attested formula."
+        },
+        {
+          "source": "Deuteronomy 24:14-15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You shall not oppress a hired servant who is poor and needy, whether he is one of your brothers, or one of the foreigners who are in your land within your gates. In his day you shall give him his hire, neither shall the sun go down on it; for he is poor, and sets his heart on it; lest he cry against you to Yahweh, and it be sin to you.",
+          "note": "The address to servants and masters with assurance of just recompense faintly recalls Deuteronomy's protection of the hired servant and his wages before God. Low/contested; thematic coherence (labor, fair reward, God as guarantor) without verbal citation.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.1",
+      "ch": 4,
+      "ref": "4:1",
+      "text": "Masters, give to your servants that which is just and equal, knowing that you also have a Master in heaven.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 10:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For Yahweh your God, he is God of gods, and Lord of lords, the great God, the mighty, and the awesome, who doesn’t respect persons, nor takes reward.",
+          "note": "Masters must treat slaves 'justly and fairly, knowing that you also have a Master in heaven' — the appeal grounds earthly authority in the impartial heavenly Judge. Deut 10:17 names God as 'God of gods and Lord of lords' who 'is not partial and takes no bribe,' the standard text for divine impartiality that levels the master/slave relation. Volume is high on the theme of God showing no partiality; coherence is strong with Paul's recurring 'no partiality' (Eph 6:9 reflex) rooted in this OT motif."
+        },
+        {
+          "source": "Leviticus 25:43",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall not rule over him with harshness, but shall fear your God.",
+          "note": "The command that masters render what is 'just and equal' echoes the Holiness Code's restraint on slaveholders: 'You shall not rule over him with rigor, but shall fear your God.' Both texts curb the master's power by invoking the fear of the divine Lord. The Jubilee slave legislation (Lev 25) is the most concrete OT availability for an ethic of fair treatment tied to God's overlordship."
+        },
+        {
+          "source": "Job 31:13-15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“If I have despised the cause of my male servant or of my female servant, when they contended with me; What then shall I do when God rises up? When he visits, what shall I answer him? Didn’t he who made me in the womb make him? Didn’t one fashion us in the womb?",
+          "note": "Job's defense of justice toward his servants — 'Did not he who made me in the womb make him?' — grounds fair treatment in a shared Maker and a final reckoning before God, matching the logic of a heavenly Master who judges masters. Faint and thematic rather than verbal; flagged contested because the link is conceptual coherence, not citation.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.2",
+      "ch": 4,
+      "ref": "4:2-4",
+      "text": "Continue steadfastly in prayer, watching therein with thanksgiving; praying together for us also, that God may open to us a door for the word, to speak the mystery of Christ, for which I am also in bonds; that I may reveal it as I ought to speak.",
+      "echoes": [
+        {
+          "source": "Isaiah 62:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I have set watchmen on your walls, Jerusalem; they shall never hold their peace day nor night: you who call on Yahweh, take no rest,",
+          "note": "'Continue steadfastly in prayer, being watchful' may draw on the watchman motif: Isaiah's watchmen 'all the day and all the night... shall never be silent,' giving God no rest until Zion is established. The image of unceasing, vigilant intercession coheres with Paul's call to persevere wakefully in prayer. Verbal contact is faint, so marked contested.",
+          "contested": true,
+          "altSource": "Psalm 130:6"
+        },
+        {
+          "source": "Daniel 2:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "but there is a God in heaven who reveals secrets, and he has made known to the king Nebuchadnezzar what shall be in the latter days. Your dream, and the visions of your head on your bed, are these:",
+          "note": "The prayer for an open door 'to speak the mystery (mystērion) of Christ' picks up the apocalyptic vocabulary of Daniel 2, where 'there is a God in heaven who reveals mysteries' and discloses hidden things. Daniel LXX is the principal Second-Temple source for mystērion as divine secret now unveiled, coherent with Paul's 'mystery' language throughout Colossians. Conceptual rather than quotational.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.3",
+      "ch": 4,
+      "ref": "4:5-6",
+      "text": "Walk in wisdom toward those who are outside, redeeming the time. Let your speech always be with grace, seasoned with salt, that you may know how you ought to answer each one.",
+      "echoes": [
+        {
+          "source": "Leviticus 2:13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Every offering of your meal offering you shall season with salt; neither shall you allow the salt of the covenant of your God to be lacking from your meal offering. With all your offerings you shall offer salt.",
+          "note": "'Let your speech... be gracious, seasoned with salt' evokes the 'covenant of salt' required on every grain offering: 'with all your offerings you shall offer salt.' Salt as a sign of permanence, fidelity, and covenant fellowship gives the metaphor of salted speech its OT depth. Volume is moderate and coherence good, since salt elsewhere figures preservation and bond (cf. the next entries)."
+        },
+        {
+          "source": "Numbers 18:19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "All the wave offerings of the holy things, which the children of Israel offer to Yahweh, have I given you, and your sons and your daughters with you, as a portion forever. It is a covenant of salt forever before Yahweh to you and to your seed with you.”",
+          "note": "Reinforces the 'covenant of salt' background for 'seasoned with salt' — 'a covenant of salt forever before the LORD.' Salt symbolizes an inviolable, perpetual bond, fitting speech meant to build and preserve relationship with outsiders. Faint, recurrence-based support for the Lev 2:13 allusion rather than an independent source.",
+          "contested": true
+        },
+        {
+          "source": "Ezra 4:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Now because we eat the salt of the palace, and it is not appropriate for us to see the king’s dishonor, therefore have we sent and informed the king;",
+          "note": "'We eat the salt of the palace' uses salt as a figure of loyalty and shared allegiance, a Near-Eastern idiom that may color the social sense of 'speech seasoned with salt' toward outsiders. Very faint and contested; offered only for the recurrence of salt-as-fidelity imagery in the OT.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 2:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The king answered, I know of a certainty that you would gain time, because you see the thing is gone from me.",
+          "note": "'Making the best use of the time' (exagorazomenoi ton kairon, 'redeeming the time') resembles the idiom in Daniel 2:8 LXX, where the king says the magi are 'buying time' (kairon... exagorazete). The shared kairos-redemption phrasing toward 'those outside' suggests a possible verbal echo, though the sense differs and the link is contested.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 22:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He who loves purity of heart and speaks gracefully is the king’s friend.",
+          "note": "The counsel to 'walk in wisdom toward outsiders' with speech that is gracious and apt to answer each one reflects the wisdom tradition's prizing of gracious, well-timed speech: 'he who loves purity of heart and whose speech is gracious will have the king as his friend.' Sapiential coherence is strong as a milieu, but no single proverb is quoted; faint and contested.",
+          "contested": true,
+          "altSource": "Ecclesiastes 10:12"
+        }
+      ]
+    }
+  ]
+}

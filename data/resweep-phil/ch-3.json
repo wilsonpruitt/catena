@@ -1,0 +1,344 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1",
+    "echoes": [
+      {
+        "source": "Psalm 32:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's imperative 'rejoice in the LORD' verbally echoes the Psalter's recurrent summons 'Be glad in the LORD, and rejoice, you righteous' (Ps 32:11). The phrase 'in the Lord/in YHWH' as the ground of joy is a Septuagintal idiom; Paul gives it eschatological force in Christ. Recurrence across the Psalms strengthens the resonance.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 33:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Rejoice in the LORD, O you righteous' (LXX Ps 32:1) supplies the liturgical pattern Paul reuses. The collocation of 'rejoice' with the divine name as object of joy is distinctively Psalmic and coheres with Philippians' larger joy motif.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Be glad and rejoice in the LORD your God' (Joel 2:23) is a prophetic instance of the same idiom Paul deploys. Faint and one of many possible Septuagintal sources, so marked contested.",
+        "contested": true,
+        "altSource": "Zechariah 10:7"
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:2-3",
+    "echoes": [
+      {
+        "source": "Deuteronomy 23:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's pejorative 'the dogs' inverts the Torah's exclusion of the 'dog' (cult prostitute's wage) from the sanctuary; the unclean outsider epithet is reapplied to Judaizing opponents in a deliberate reversal. Coherence with the circumcision polemic that follows supports the link, though the metaphor is widespread.",
+        "contested": true,
+        "altSource": "Psalm 22:16"
+      },
+      {
+        "source": "Isaiah 56:10-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's 'dumb dogs' / 'greedy dogs' for faithless watchmen of Israel provides the prophetic stock for Paul's insult against false teachers within the covenant community. The transfer of 'dog' from Gentile to errant Israelite leader matches Paul's polemical reversal.",
+        "contested": true,
+        "altSource": "Deuteronomy 23:18"
+      },
+      {
+        "source": "Deuteronomy 30:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'We are the circumcision, who worship by the Spirit' draws on the promise that the LORD will 'circumcise your heart' so you love him. Paul claims this interior, Spirit-wrought circumcision as the believers' true identity over against physical 'mutilation.' High volume and strong coherence with the surrounding argument.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 4:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Circumcise yourselves to the LORD, remove the foreskin of your hearts' is the prophetic locus for heart-circumcision that Paul presupposes when he denies 'confidence in the flesh.' The contrast between fleshly and heart circumcision is exactly Paul's antithesis here.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 9:25-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah threatens to punish those 'circumcised in the flesh' yet 'uncircumcised in heart,' leveling Israel with the nations. Paul's relativizing of fleshly circumcision and elevation of inward worship coheres with this oracle.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 26:41",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The covenant curse turns on the 'uncircumcised heart' being humbled; the trope of heart-circumcision as the true requirement undergirds Paul's claim that Spirit-worship, not flesh, marks the covenant people.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 44:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel bars the 'uncircumcised in heart and flesh' from the sanctuary; Paul reworks the temple-purity logic so that true 'worship' belongs to those circumcised in spirit. Fainter and one of a cluster, so marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 10:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Circumcise the foreskin of your heart, and be no longer stubborn' is a further Deuteronomic source for the heart-circumcision motif Paul invokes against 'confidence in the flesh.' Recurrence across Deuteronomy and Jeremiah strengthens the whole cluster.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's warning that the 'uncircumcised and unclean' shall no more enter Zion supplies background for Paul's reversal of who constitutes the holy, worshiping community. Faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:4-6",
+    "echoes": [
+      {
+        "source": "Genesis 17:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Circumcised the eighth day' directly invokes the Abrahamic covenant statute that every male be circumcised at eight days old. Paul cites his impeccable conformity to this Torah marker as the leading item of fleshly 'confidence' he renounces. High volume and verbal precision.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 12:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The legal restatement 'on the eighth day the flesh of his foreskin shall be circumcised' reinforces the same eighth-day statute Paul claims. A secondary witness to the precept behind his pedigree.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 35:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Of the tribe of Benjamin' points to Rachel's son Benjamin, named at Genesis 35:18; Paul's tribal claim asserts descent from a fully Israelite, non-proselyte lineage. Identity-marker allusion rather than verbal quotation.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 32:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Of the stock of Israel' evokes the renaming of Jacob as Israel, the patronym of the chosen people Paul claims as his birthright. Faint background to the ethnic boast.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 25:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'As to zeal, persecuting the church' casts Paul in the line of Phinehas, whose 'zeal' (LXX zelos) for God by violent action averted wrath and won a covenant of priesthood. Paul reads his pre-Christian persecuting as this paradigmatic zeal, now reassessed as loss. Strong thematic coherence; 'zeal' is the operative catchword.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 19:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Elijah's 'I have been very zealous for the LORD' supplies the second exemplar of biblical zeal that frames Paul's self-description as a zealot-persecutor. The Phinehas–Elijah zeal tradition was a live Second-Temple ideal, available to Paul.",
+        "contested": false
+      },
+      {
+        "source": "1 Maccabees 2:54",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Mattathias's deathbed roll names 'Phinehas our father, because he was zealous with great zeal,' the proximate Second-Temple charter for the violent-zeal ideal Paul embodied as persecutor. Availability within the deuterocanon and thematic fit are strong; included as a Maccabean development of the zeal motif.",
+        "contested": false
+      },
+      {
+        "source": "1 Maccabees 2:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Mattathias acts 'as Phinehas did,' showing 'zeal for the law' expressed in killing apostates — precisely the persecuting zeal Paul claims and renounces. Faint, supplementary to 1 Macc 2:54.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 106:30-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Psalter reckons Phinehas's intervention to him 'as righteousness' forever; Paul's pairing of zealous persecution with 'righteousness in the law, blameless' may trade on this Phinehas-righteousness link. Faint and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:7-11",
+    "echoes": [
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'That I may know him' and the renunciation of every fleshly ground of boasting answers Jeremiah's oracle: let no one boast in wisdom, might, or riches, but only that 'he understands and knows me, the LORD.' Paul transmutes covenant 'knowledge of God' into 'the excellency of the knowledge of Christ.' Strong coherence and Pauline recurrence (cf. 1 Cor 1:31).",
+        "contested": false
+      },
+      {
+        "source": "Hosea 6:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Let us know, let us press on to know the LORD... on the third day he will raise us up' links 'knowing' God to resurrection — exactly Paul's sequence of 'know him and the power of his resurrection.' The verbal pairing of knowledge and rising is distinctive.",
+        "contested": false
+      },
+      {
+        "source": "Habakkuk 2:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The righteousness which is from God by faith,' set against the law's righteousness, restates Paul's governing text 'the righteous shall live by faith' (cf. Rom 1:17; Gal 3:11). The faith/law antithesis here is the same justification doctrine Habakkuk anchors.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 15:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Righteousness 'from God by faith' rather than 'of my own from the law' is the Abrahamic credo 'he believed the LORD, and it was reckoned to him as righteousness,' Paul's standard proof that righteousness is faith-reckoned, not works-earned. High coherence with Pauline usage.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 54:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'This is the heritage of the servants of the LORD, and their righteousness is from me, says the LORD' is a Septuagintal source for a 'righteousness from God' that is gift, not achievement — Paul's exact phrase. Verbal overlap with 'righteousness from God' supports the echo.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'If by any means I may attain to the resurrection from the dead' depends on Daniel's promise that 'many who sleep in the dust shall awake,' the principal OT text for bodily resurrection. Paul's hope of out-resurrection presupposes this Danielic apocalyptic frame. High availability and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Your dead shall live; the dwellers in the dust shall awake and sing' is the prophetic companion to Daniel 12 for resurrection hope, undergirding Paul's 'resurrection from the dead.' Recurrence of the resurrection motif strengthens the link.",
+        "contested": false
+      },
+      {
+        "source": "2 Maccabees 7:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The martyrs' confidence that 'the King of the world will raise us up to an everlasting renewal of life' is the Second-Temple development of resurrection hope Paul shares. Faint and supplementary to Daniel, so contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 50:7-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant 'set his face' and is vindicated by God who 'justifies' him; Paul's 'fellowship of his sufferings... conformed to his death' followed by resurrection vindication may echo the suffering-then-vindicated Servant pattern. Faint, figural.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.5",
+    "ch": 3,
+    "ref": "3:12-16",
+    "echoes": [
+      {
+        "source": "Isaiah 51:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Pursue righteousness, you who seek the LORD' offers a Septuagintal background of pressing/pursuing after a goal that resonates with Paul's 'I press on toward the goal.' Faint, athletic-pursuit imagery is widespread.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 34:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Seek peace and pursue it' supplies the verb of strenuous pursuit Paul reuses in 'I press on/pursue toward the goal.' One of several possible Septuagintal sources for the diolko motif, hence contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.6",
+    "ch": 3,
+    "ref": "3:17-19",
+    "echoes": [
+      {
+        "source": "Hosea 4:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Whose glory is in their shame' reflects the prophetic reversal 'I will change their glory into shame' (Hos 4:7), where Israel's boast becomes its disgrace. Paul applies the same glory/shame inversion to the enemies of the cross.",
+        "contested": true,
+        "altSource": "Habakkuk 2:16"
+      },
+      {
+        "source": "Habakkuk 2:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You will be filled with shame instead of glory' is a prophetic glory-for-shame exchange that may stand behind Paul's 'their glory is in their shame.' Faint and one of a pair, so contested.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 11:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whose god is the belly' may echo the wilderness craving where Israel's 'lust' for food provokes judgment, a type of appetite-driven apostasy. Faint thematic figure of the rebellious 'belly.'",
+        "contested": true,
+        "altSource": "Psalm 78:18"
+      },
+      {
+        "source": "Isaiah 56:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'greedy dogs' who 'cannot be satisfied' and seek their own gain anticipate Paul's belly-serving, earthly-minded enemies, tying this verse back to the 'dogs' polemic of 3:2. Faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.7",
+    "ch": 3,
+    "ref": "3:20-21",
+    "echoes": [
+      {
+        "source": "Daniel 12:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The transformation of 'the body of our humiliation' into the likeness of Christ's 'body of glory' draws on Daniel's promise that the wise 'shall shine like the brightness of the firmament... like the stars forever.' Paul's glorified resurrection body realizes this astral glorification. Strong coherence with the resurrection hope of 3:11.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 8:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'By which he is able even to subject all things to himself' quotes the verbal substance of 'you have put all things under his feet' (Ps 8:6), Paul's standard text for Christ's universal subjection of all things (cf. 1 Cor 15:27). High volume and Pauline recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 110:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Christ's power to 'subject all things to himself' also resonates with the enthronement oracle 'sit at my right hand until I make your enemies your footstool,' the dominant NT subjection text paired with Ps 8. Recurrence in early Christian use supports the echo.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The heavenly 'citizenship' and expectation of a transforming Savior may faintly echo Zion-restoration oracles where the LORD comes to clothe and gather his people in glory. Faint and diffuse, so contested.",
+        "contested": true,
+        "altSource": "Isaiah 60:1-2"
+      },
+      {
+        "source": "Isaiah 60:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Arise, shine, for your light has come, and the glory of the LORD has risen upon you' supplies a glory-transformation backdrop for the bodies of the lowly being conformed to Christ's glory. Faint, supplementary to Daniel 12:3.",
+        "contested": true
+      }
+    ]
+  }
+]

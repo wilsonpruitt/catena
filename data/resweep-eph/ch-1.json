@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-2",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The epistolary salutation 'Grace to you and peace from God our Father' echoes the structure of the Aaronic blessing, which couples divine favor ('be gracious') with peace ('give you peace'). Recurrence: peace-from-God greetings pervade Pauline openings, drawing on the priestly benediction available in the LXX. Thematic coherence is real but the volume is faint, since the salutation is a fixed Pauline formula rather than a direct citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:3-6",
+    "echoes": [
+      {
+        "source": "Psalm 41:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Blessed be the God and Father of our Lord Jesus Christ' reproduces the Jewish berakah formula 'Blessed be the LORD, the God of Israel,' which closes Book I of the Psalter. Volume is high (verbatim opening 'Blessed be the God'); recurrence across the Psalter (41:13; 72:18; 106:48) and Israel's liturgy makes the form availably and thematically coherent as the native idiom of doxological praise.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 72:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The eulogetos opening directly imitates the doxological berakah 'Blessed be the LORD God, the God of Israel,' another Psalter book-closing blessing. Recurrence with 41:13 and 106:48 establishes the form as a standing liturgical pattern Paul Christologically reworks ('the God and Father of our Lord Jesus Christ'). Thematic coherence with the eulogetos genre is exact.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 14:20",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Melchizedek's 'Blessed be God Most High' is the patriarchal prototype of the berakah Paul deploys. Availability and thematic coherence (blessing the God who delivers and gives) support the link, though the volume is lower than the Psalter parallels, since the verbal overlap is only the opening 'Blessed be God.'",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 7:6-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He chose us in him before the foundation of the world, that we would be holy' transposes Israel's election: 'the LORD has chosen you to be a people for his own possession... holy.' Volume is strong (the verb 'chose' + the purpose 'holy'); recurrence in Deuteronomy's election theology and thematic coherence (gratuitous love, not merit) make this the controlling OT subtext for predestination language.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 14:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The LORD has chosen you to be a people for his own possession... a holy people' supplies both the election verb and the 'holy/possession' pairing that Ephesians 1:4 and 1:14 develop. Recurrence with Deut 7:6 reinforces a settled Deuteronomic formula; thematic coherence with adoption and inheritance is high.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Holy and without defect before him' draws on the Holiness Code's 'You shall be holy, for I... am holy,' and the sacrificial demand that an offering be 'without blemish' (Lev 1:3; 22:21). Thematic coherence (Israel/offering presented blameless to God) is strong; the volume is diffuse because two strands of Levitical holiness merge.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 4:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Adoption as children' (huiothesia) presupposes Israel's sonship: 'Israel is my son, my firstborn.' Volume is conceptual rather than verbal, but recurrence (Hos 11:1; Jer 31:9) and thematic coherence with election and inheritance make Israel's adoptive sonship the OT matrix Paul universalizes in Christ.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 11:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'When Israel was a child, I loved him, and out of Egypt I called my son' ties adoption to redemptive love and election, the same cluster Ephesians 1:4-6 fuses ('in love... adoption'). Recurrence with Exod 4:22 strengthens the sonship motif; the volume is thematic, marked medium because Ephesians does not cite the wording.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 22:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The Beloved' (en to egapemeno) evokes Isaac, 'your son, your only son, whom you love,' the beloved offered son — apt for a passage moving toward 'redemption through his blood.' Thematic coherence (beloved son, sacrifice) is good; the volume is moderate because 'Beloved' also draws on Psalm 2 and Isaiah 5 traditions.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 5:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's Song 'for my beloved' (to egapemeno LXX) is one of the LXX loci where ho egapemenos functions almost titularly, a possible reservoir for Ephesians' 'in the Beloved.' Availability is genuine, but volume and thematic coherence are weak here, so the echo is marked low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The royal decree 'You are my son; today I have begotten you,' read messianically in Second-Temple Judaism, undergirds the 'Beloved' Son in whom believers are adopted as sons. Recurrence of Psalm 2 in NT sonship texts and thematic coherence (divine sonship grounding adoption) support a medium-confidence echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:7-8",
+    "echoes": [
+      {
+        "source": "Exodus 6:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Redemption' (apolytrosis) maps onto the exodus paradigm: 'I will redeem you with an outstretched arm.' Volume is conceptual but strong; recurrence of redemption-from-Egypt language across the OT and thematic coherence with deliverance and possession (cf. 1:14) make the exodus the governing pattern for 'redemption through his blood.'",
+        "contested": false
+      },
+      {
+        "source": "Exodus 24:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Redemption through his blood' coupled with covenant draws on the blood of the covenant Moses dashed on the people, 'the blood of the covenant the LORD has made.' Thematic coherence (blood ratifying covenant deliverance) is solid; volume is moderate because Ephesians names redemption and forgiveness rather than covenant explicitly.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 43:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I have redeemed you; I have called you by name; you are mine' fuses redemption, calling, and possession exactly as Ephesians 1:7,14 do. Isaiah's new-exodus redemption is availably and thematically coherent with Paul's apolytrosis; medium because the link is motivic, not verbal.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 130:7-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'With the LORD... is plentiful redemption. He will redeem Israel from all his iniquities' joins redemption to forgiveness of sins, the precise pairing of Ephesians 1:7 ('redemption... the forgiveness of our trespasses'). Thematic coherence is high; volume moderate, so medium confidence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:9-12",
+    "echoes": [
+      {
+        "source": "Daniel 2:28-29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Making known to us the mystery of his will' draws on Daniel's God 'who reveals mysteries' and 'made known... what will be.' Volume is strong (mysterion + the verb 'make known' is distinctively Danielic in the LXX); recurrence (Dan 2:19,30,47) and thematic coherence (eschatological disclosure of God's hidden purpose) make this the primary subtext for Ephesians' mystery language.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:47",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Your God is... a revealer of mysteries, since you could reveal this mystery' reinforces the Danielic provenance of 'the mystery of his will' made known. Recurrence within Daniel 2 strengthens the allusion; medium because it overlaps with 2:28-29 rather than adding distinct wording.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 46:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Him who works all things after the counsel of his will' echoes Isaiah's God 'declaring the end from the beginning... my counsel shall stand, and I will accomplish all my purpose.' Thematic coherence (sovereign counsel/purpose executed in history) is strong; volume is moderate, hence a medium echo.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 4:35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Works all things after the counsel of his will' resonates with Daniel's confession that God 'does according to his will... none can stay his hand.' Availability and thematic coherence (universal divine sovereignty) support a faint echo; volume is low, so it is marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 11:6-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'To sum up all things in Christ, the things in the heavens and the things on the earth' may resonate with Isaiah's eschatological reconciliation of all creation under the Messianic shoot. Thematic coherence (cosmic harmony restored under the Anointed) is plausible but the volume is low; marked contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:13-14",
+    "echoes": [
+      {
+        "source": "Joel 2:28-29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Sealed with the Holy Spirit of promise' draws on the eschatological promise 'I will pour out my Spirit on all flesh.' The Spirit as 'of promise' coheres with Joel's prophetic gift inaugurating the last days; recurrence in Second-Temple expectation and thematic coherence (Spirit marking the eschatological people) support a high-confidence allusion.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I will put my Spirit within you' is the new-covenant promise behind the indwelling 'Spirit of promise.' Thematic coherence (Spirit given to a redeemed possession, cleansed and made holy) matches Ephesians' election/holiness frame; recurrence with Ezek 37:14 and 39:29 strengthens the link.",
+        "contested": false
+      },
+      {
+        "source": "Haggai 2:23",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You were sealed' (esphragisthete) evokes Haggai's 'I will make you like a signet ring (sphragis), for I have chosen you,' which joins the seal image to divine election — the very pairing of Ephesians 1:4,13. Thematic coherence is strong; medium because the seal in Ephesians is the Spirit, not the person.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 14:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The redemption of God's own possession' reproduces Deuteronomy's 'a people for his own possession (peripoiesis/segullah).' Volume is strong on the possession motif; recurrence (Deut 7:6; 26:18; Exod 19:5) and thematic coherence (redeemed people belonging to God) make this a controlling subtext for 1:14.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 19:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You shall be my own possession among all peoples' (segullah / LXX laos periousios) underlies 'the redemption of God's own possession.' Recurrence with Deut 7:6 and 14:2 and thematic coherence (covenant possession claimed and redeemed) reinforce the allusion; the volume on the possession concept is high.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 63:8-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They are my people... so he became their Savior... he redeemed them' joins God's people, Spirit, and redemption — the cluster of Ephesians 1:13-14. Thematic coherence is decent but the volume is faint, so this is a low, contested echo.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They shall be mine, says the LORD of hosts, my own possession (segullah)' on the day God acts could reinforce 'the redemption of God's own possession' with an eschatological cast. Recurrence of the segullah term supports availability; volume is low, hence contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:15-19",
+    "echoes": [
+      {
+        "source": "Isaiah 11:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'A spirit of wisdom and revelation in the knowledge of him' draws on the Messianic 'Spirit of the LORD... the spirit of wisdom and understanding... the spirit of knowledge.' Volume is strong (spirit + wisdom + knowledge in sequence); thematic coherence (the endowing Spirit granting wisdom and knowledge of God) and the passage's Messianic availability make this a high-confidence allusion.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:21-22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'A spirit of wisdom and revelation' coheres with Daniel's God who 'gives wisdom to the wise... reveals deep and hidden things.' Recurrence of the Danielic wisdom/revelation pairing (cf. 1:9 mystery) supports a medium echo; the volume is moderate alongside the dominant Isaiah 11 source.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 28:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God filling artisans with a 'spirit of wisdom' to equip them is one OT background for Spirit-given wisdom granted to God's people. Availability is real but thematic coherence with revelatory knowledge of God is weaker than Isaiah 11; marked low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 7:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I prayed, and understanding was given me; I called, and the spirit of wisdom came to me' (deuterocanonical) closely parallels praying for 'a spirit of wisdom' to know God. Thematic coherence is strong and the Wisdom tradition was available in Greek-speaking Judaism; medium because it is a parallel within a shared milieu rather than a citation.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 17:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Sirach's depiction of God enlightening humans with knowledge and 'setting his eye on their hearts' resonates faintly with 'the eyes of your hearts enlightened.' Availability within the wisdom corpus is genuine; volume and verbal overlap are low, so the echo is contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 19:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The commandment of the LORD is pure, enlightening the eyes' offers an OT idiom of divine illumination behind 'the eyes of your hearts enlightened.' Thematic coherence (God enlightening the perceiving faculty) is plausible; volume is faint, so low and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.7",
+    "ch": 1,
+    "ref": "1:20-23",
+    "echoes": [
+      {
+        "source": "Psalm 110:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Made him to sit at his right hand in the heavenly places, far above all rule and authority' reproduces 'Sit at my right hand until I make your enemies your footstool.' Volume is very high (the most-cited OT verse in the NT); recurrence and thematic coherence (enthroned exaltation over all powers) make this a near-quotation undergirding the entire exaltation statement.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 8:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'He put all things in subjection under his feet' is a verbatim citation of 'you have put all things under his feet.' Volume is maximal (direct verbal match); recurrence (1 Cor 15:27; Heb 2:8) and thematic coherence (the dominion granted to the exalted man over creation) make this an explicit quotation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 110:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'He put all things in subjection under his feet' also fulfills Psalm 110:1's 'until I make your enemies a footstool for your feet,' which Ephesians conflates with Psalm 8:6. The footstool/subjection imagery shows the two enthronement psalms read together; volume and thematic coherence (subjugation of enemies under the exalted Lord) are high.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 8:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The fullness of him who fills all in all' evokes the glory of the LORD filling the temple so that 'the priests could not stand to minister.' Thematic coherence (divine presence filling God's house, now the church as body/temple) is strong; medium because the link is conceptual and joins other temple-glory texts.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 23:24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Do I not fill heaven and earth? says the LORD' supplies the divine self-description behind 'him who fills all in all.' Thematic coherence with God's omnipresent fullness is strong; the volume is moderate (a shared plerosis motif), so medium confidence.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 6:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The whole earth is full of his glory,' with the temple filled by the LORD's train, reinforces the fullness/glory imagery of 1:23. Availability and thematic coherence (glory filling the sanctuary) support a faint echo; volume is low alongside 1 Kings 8 and Jeremiah 23, so contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 8:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Head over all things' resonates with Psalm 8's exaltation of God's name 'above the heavens' and the dominion theme framing the quoted v.6. Thematic coherence (universal supremacy) is plausible; the volume is low and the link secondary to 8:6, so contested.",
+        "contested": true
+      }
+    ]
+  }
+]

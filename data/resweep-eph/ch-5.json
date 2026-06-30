@@ -1,0 +1,324 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-2",
+    "echoes": [
+      {
+        "source": "Leviticus 19:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The call to 'be imitators of God' reworks the imitatio Dei formula 'You shall be holy, for I the LORD your God am holy,' the foundational ground of Israelite ethics. Volume is moderate (conceptual not verbal), but coherence is high since the surrounding paraenesis on sexual purity and conduct 'as becomes saints' tracks Leviticus 19's holiness code.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall be blameless before the LORD your God' supplies the Deuteronomic counterpart to imitating God as beloved children. Faint verbal contact; flagged because the prompt invokes the broader Deuteronomic perfection-before-God strand undergirding the imitatio Dei command.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 29:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Christ's self-offering as 'a sacrifice to God for a sweet-smelling fragrance' directly takes up the cultic formula for the ram of ordination, 'a burnt offering... a pleasing aroma, an offering by fire to the LORD.' High volume (the technical sacrificial idiom osme euodias) and recurrence across the Pentateuch make this a clear cultic appropriation applied to Christ.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 8:21",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The LORD smelling the 'pleasing aroma' of Noah's sacrifice is the originating instance of the soothing-odor motif that the offering language evokes. Moderate volume; the phrase is the same Septuagintal idiom, reinforcing the sacrificial frame even if Exodus/Leviticus are the nearer source.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 20:41",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'As a pleasing aroma I will accept you' transfers the fragrant-offering language from animal sacrifice to God's acceptance of his people, a move parallel to Christ's self-gift accepted by God. Coherence is strong with Ephesians' ecclesial reading; medium confidence given multiple Levitical loci.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Servant who makes himself 'an offering for sin' and 'gave himself up' undergirds the self-surrender Christology of 'gave himself up for us.' Coherence with the sacrificial/atonement frame is high; medium because the verbal tie runs through the wider Servant tradition rather than a single lemma.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 40:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The contrast of obedient self-offering over against cultic sacrifice ('sacrifice and offering you did not desire') faintly colors Christ's acceptable self-gift. Low volume and contested, since Ephesians affirms rather than relativizes sacrifice; included for the offering/will-of-God nexus.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:3-7",
+    "echoes": [
+      {
+        "source": "Numbers 25:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The pairing of sexual immorality with idolatry (porneia leading to idol-worship at Baal-Peor) is the paradigmatic OT linkage that Ephesians compresses in 'covetousness, who is an idolater.' Faint and conceptual; flagged for the immorality-idolatry coherence rather than verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 5:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You shall not covet' stands behind the catalogue's singling out of pleonexia, which Ephesians equates with idolatry. Coherence is strong with the Decalogue's covetousness/idolatry juxtaposition; medium volume given the term's broad Hellenistic-Jewish moral usage.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The tenth commandment against coveting grounds the identification of greed as idolatry. Parallel to Deuteronomy 5:21; recurrence of the covet/idol pairing across the Decalogue tradition supports the link.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 30:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Rebellious people... children who will not hear the instruction of the LORD' supplies the Septuagintal background for 'children of disobedience' on whom wrath comes. Low volume; the idiom is a Semitic 'sons of' construction the prompt highlights for the wrath-on-disobedience strand.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:8-14",
+    "echoes": [
+      {
+        "source": "Isaiah 9:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You were once darkness, but are now light' draws on 'the people who walked in darkness have seen a great light,' the prophetic light/darkness reversal. High coherence with Ephesians' conversion-as-illumination motif and strong verbal volume in the light/walk pairing.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Arise, shine, for your light has come' anchors both the light-children theme here and explicitly the hymn of v.14. The Septuagintal phoatizou/anastethi cluster is verbally present; high volume and recurrence make Isaiah 60 a primary source for the section.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Darkness shall cover the earth... but the LORD will arise upon you' continues the darkness-over-against-light contrast that structures 5:8-11. Medium volume; reinforces the Isaian source of the whole light/darkness paraenesis.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Woe to those who hide deep their counsel from the LORD, whose deeds are in the dark' lies behind 'the unfruitful works of darkness... done in secret.' Coherence is strong (hidden/secret deeds exposed by light); medium confidence given thematic rather than lexical tie.",
+        "contested": false
+      },
+      {
+        "source": "Job 24:13-17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Job's 'rebels against the light' who work murder and adultery in darkness, for whom morning is deep darkness, supplies the wisdom topos of secret works of darkness exposed. Medium volume; coherent with Ephesians' light-reveals-shameful-deeds logic.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Awake, you who sleep, and arise from the dead' (v.14) takes up 'Your dead shall live... awake and sing, you who dwell in the dust,' the resurrection-awakening oracle. High coherence with the rouse-from-death imagery; a leading source for the cited hymn.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Rouse yourself, rouse yourself, stand up, O Jerusalem' contributes the awakening-summons cadence behind 'Awake, you who sleep.' Medium volume; one of the clustered Isaian wake-up calls underlying the v.14 hymn.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Awake, awake, put on your strength, O Zion' is the paired imperatival summons (egeirou) that, with 60:1, shapes the hymnic 'Awake... and Christ will shine on you.' Coherence with the awakening-then-glory sequence is strong.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Many who sleep in the dust of the earth shall awake' offers an apocalyptic resurrection idiom for the sleeper rising from the dead in v.14. Low volume relative to the Isaian sources; flagged for the sleep-then-awake-from-death recurrence.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 4:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The sun of righteousness shall rise with healing in its wings' faintly informs 'Christ will shine on you' (epiphausei). Low volume and contested; included for the rising-light-upon-the-awakened motif.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 4:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The path of the righteous is like the light of dawn, shining brighter' supports the 'walk as children of light' / 'fruit of light in goodness and righteousness' wisdom imagery. Low confidence; thematic coherence with the righteous-walk-in-light topos.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.4",
+    "ch": 5,
+    "ref": "5:15-17",
+    "echoes": [
+      {
+        "source": "Daniel 2:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You are trying to gain time' (kairon hymeis exagorazete) supplies the rare Septuagintal idiom behind 'redeeming the time' (ton kairon exagorazomenoi). Low volume but a genuine lexical parallel the prompt flags; contested because the sense is repurposed positively.",
+        "contested": true
+      },
+      {
+        "source": "Amos 5:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The prudent will keep silent in such a time, for it is an evil time' parallels 'redeeming the time, because the days are evil.' Coherence in the wise-conduct-in-an-evil-time motif; low volume and contested.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 1:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wise/unwise contrast and the call to 'understand' echo wisdom's exhortation to gain prudence. Faint; included for the walk-wisely paraenesis drawing on the wisdom tradition.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.5",
+    "ch": 5,
+    "ref": "5:18-21",
+    "echoes": [
+      {
+        "source": "Proverbs 23:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Do not look at wine when it is red... in the end it bites like a serpent' grounds the prohibition 'Do not be drunk with wine, in which is dissipation (asotia).' Coherence with the wisdom warning against drunkenness is strong; medium volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 28:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'They reel with wine and stagger with strong drink... they err in vision' supplies the prophetic picture of drunkenness as spiritual derangement, contrasted here with being filled with the Spirit. Medium coherence; the wine-versus-prophetic-Spirit antithesis is apt.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 20:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Wine is a mocker, strong drink a brawler' reinforces the wisdom condemnation of drunkenness behind the prohibition. Low volume; a recurrent sapiential warning rather than a specific quotation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 33:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Sing to him a new song, play skillfully' stands behind 'psalms and hymns and spiritual songs... making melody in your heart.' The psalmos/odes vocabulary and the heart-singing motif show coherence with the psalter's worship language; medium volume.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 96:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Sing to the LORD a new song' is the recurrent psalter summons that the trio of psalms/hymns/songs evokes. Low volume given many parallel psalm-headings (psalmos, hymnos, ode) in the Septuagint; flagged for recurrence.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 34:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will bless the LORD at all times; his praise shall continually be in my mouth' parallels 'giving thanks always concerning all things.' Faint thematic coherence with continual thanksgiving; low confidence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.6",
+    "ch": 5,
+    "ref": "5:22-24",
+    "echoes": [
+      {
+        "source": "Genesis 3:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your desire shall be for your husband, and he shall rule over you' offers the OT backdrop for the wifely-subjection and husband-as-head household instruction. Low volume and conceptual; contested because Ephesians grounds order in Christ rather than the curse.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.7",
+    "ch": 5,
+    "ref": "5:25-30",
+    "echoes": [
+      {
+        "source": "Ezekiel 16:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I bathed you with water and washed off your blood' is the bridal-bath image behind Christ cleansing the church 'by the washing of water with the word' to present her gloriously. Coherence with the Lord-as-bridegroom adorning his bride is strong; medium volume.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 16:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I spread my garment over you... and entered into a covenant with you, and you became mine' supplies the covenant-marriage frame for Christ's love of the church as bride. Coherent with the present-her-to-himself motif; medium confidence.",
+        "contested": false
+      },
+      {
+        "source": "Song of Songs 4:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You are altogether beautiful, my love; there is no flaw in you' lies behind presenting the church 'not having spot or wrinkle... holy and without defect.' Coherence with the flawless-bride imagery is high; medium volume since the diction is reworked.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 22:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The sacrificial requirement that an offering be 'without blemish' colors the church presented 'without spot... and without defect' (amomos). Low volume; flagged for the cultic blamelessness vocabulary applied to the bride.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 2:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will betroth you to me forever... in righteousness' contributes to the divine-marriage typology underlying Christ and the church. Low volume; one of the prophetic bridegroom-of-Israel texts cohering with the passage.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.8",
+    "ch": 5,
+    "ref": "5:31-33",
+    "echoes": [
+      {
+        "source": "Genesis 2:24",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'For this cause a man will leave his father and mother, and will be joined to his wife, and the two will become one flesh' is a verbatim Septuagintal citation introduced as scripture. Maximal volume and explicit quotation; the cornerstone OT text for the one-flesh/Christ-and-church mystery.",
+        "contested": false
+      }
+    ]
+  }
+]

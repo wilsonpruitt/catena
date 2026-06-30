@@ -1,0 +1,341 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-2",
+    "echoes": [
+      {
+        "source": "Numbers 6:25-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The epistolary blessing 'Grace to you and peace' channels the Aaronic benediction's pairing of divine favor and shalom (the LORD make his face shine... and give you peace). Volume is low and the formula is conventionally Pauline, but the coherence with the priestly grace/peace dyad and its availability in the Torah make it a plausible faint figural backdrop.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:3-8",
+    "echoes": [
+      {
+        "source": "Genesis 1:28",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The gospel 'bearing fruit and growing... in all the world' (v.6) replays the creation/Edenic mandate 'be fruitful and multiply and fill the earth.' The paired participles fruit-bearing + increasing, set worldwide, deliberately recast the protological blessing as the spread of the word, a Genesis-creation coherence the hymn that follows will make explicit.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 9:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The post-flood renewal of the be-fruitful-and-multiply command (also 9:7) reinforces the Genesis fruitfulness lexeme behind v.6's worldwide growth of the gospel. Recurrence of the same blessing-formula in Genesis strengthens availability; lower volume than 1:28 since the wording is the same mandate repeated.",
+        "contested": true,
+        "altSource": "Genesis 1:28"
+      },
+      {
+        "source": "Isaiah 55:10-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'word of the truth of the gospel' that 'has come to you' and is fruitful in all the world echoes Isaiah's word that goes out from God's mouth and does not return empty but accomplishes and prospers, like rain making the earth bring forth and sprout. Coherence is strong: a divine word personified as agriculturally fruitful and unfailingly effective.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 23:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah's promise that the gathered remnant 'shall be fruitful and multiply' fuses the Genesis blessing with restoration hope; Colossians' worldwide fruitful word may stand in this prophetic stream of fruitfulness-as-restoration. Faint and overlapping with the Genesis echoes, hence contested.",
+        "contested": true,
+        "altSource": "Genesis 1:28"
+      },
+      {
+        "source": "Isaiah 11:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The motif of 'all the world' / earth filled (here with the fruitful word) faintly recalls Isaiah's eschatological 'the earth shall be full of the knowledge of the LORD as the waters cover the sea,' which also surfaces in the knowledge-language of v.9-10. Low volume, flagged contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:9-14",
+    "echoes": [
+      {
+        "source": "Isaiah 11:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The prayer to be 'filled with the knowledge of his will in all spiritual wisdom and understanding' (v.9) draws on the messianic endowment of Isaiah 11:2, the Spirit of wisdom and understanding, of counsel and knowledge. The triad wisdom/understanding/knowledge clusters in both texts, a coherent Spirit-given cognition of God's will.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 31:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Being 'filled with' wisdom and understanding (v.9) echoes Bezalel filled with the Spirit of God 'in wisdom, in understanding, and in knowledge' for the work of the sanctuary. The fullness-of-Spirit-wisdom idiom and the same three faculties make this a strong lexical parallel; availability in Exodus is secure.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 9:9-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Solomon's prayer that Wisdom be sent to teach 'what is pleasing' to God and to guide him to 'walk' rightly parallels v.9-10's prayer for knowledge of God's will so as to 'walk worthily... pleasing him.' The walk/please/wisdom cluster is Wisdom-tradition coherent, though diffuse.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'inheritance of the saints in light' (v.12) faintly recalls Daniel's promise that the wise will 'rest and stand in your allotted inheritance at the end of days' and shine like the brightness of the firmament (12:3). The lot/inheritance of the holy ones in light is apocalyptic-coherent. Faint, contested.",
+        "contested": true,
+        "altSource": "Wisdom of Solomon 5:5"
+      },
+      {
+        "source": "Wisdom of Solomon 5:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The inheritance of the saints in light' (v.12) resonates with Wisdom 5:5, where the righteous are numbered 'among the sons of God' and their 'lot is among the saints/holy ones.' Shared lot-among-the-holy-ones language gives modest coherence with Second-Temple beatific-portion expectation.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 9:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Being delivered 'out of the power of darkness' and translated into the kingdom (v.13) draws on Isaiah's people walking in darkness who see a great light and the dawning kingdom of the messianic son (9:6-7). Light/darkness reversal plus an established kingdom of a royal son cohere tightly.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The kingdom of the Son of his love' (v.13) evokes the royal-adoption oracle 'You are my Son'; with v.15-18's firstborn language it situates Christ in the Davidic sonship of Psalm 2. Volume here is thematic (beloved royal son enthroned over a kingdom) rather than verbal.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Son of his love' / the Beloved (v.13) carries the Aqedah resonance of Isaac, 'your son, your only son, whom you love,' a beloved-son figure offered up. Coherence with the redemption-through-death theme that immediately follows (v.14, v.20) strengthens the figural reading of the beloved son.",
+        "contested": true,
+        "altSource": "Psalm 2:7"
+      },
+      {
+        "source": "Isaiah 5:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Son of his love' (v.13) may faintly echo Isaiah's 'song of my beloved' for the vineyard; the LXX agapetos vocabulary links beloved-son and beloved-vineyard traditions. Low volume and contested against the stronger Psalm 2 / Genesis 22 candidates.",
+        "contested": true,
+        "altSource": "Genesis 22:2"
+      },
+      {
+        "source": "Exodus 6:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'In whom we have our redemption' after being delivered out of the domain of darkness (v.13-14) replays the exodus pattern: God redeems (apolytrosis/lytrosis) Israel out of bondage with an outstretched arm. The deliverance-then-redemption sequence and transfer into God's kingdom map onto the exodus from Egypt's darkness.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Our redemption, the forgiveness of sins' (v.14) resonates with Isaiah's 'I have redeemed you, I have called you by name, you are mine,' and 43:25's blotting out of transgressions. Redemption coupled with forgiveness is a second-exodus motif; volume modest, flagged contested.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 10:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'power of darkness' from which we are delivered (v.13) may glance at the plague of palpable darkness over Egypt that the exodus undoes, reinforcing the deliverance-from-darkness-into-kingdom exodus typology. Faint and contested.",
+        "contested": true,
+        "altSource": "Isaiah 9:2"
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:15-20",
+    "echoes": [
+      {
+        "source": "Genesis 1:26-27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The image of the invisible God' (v.15) directly invokes the creation of humanity in the image and likeness of God. Christ is presented as the true eikon in whom the protological image is realized, and the hymn's creation framing (v.16) confirms the Genesis 1 backdrop. High volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 7:25-26",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Image of the invisible God' (v.15) and the fullness/glory motifs draw on Wisdom personified as 'a breath of the power of God,' 'a pure emanation of the glory of the Almighty,' 'a spotless mirror... and an image (eikon) of his goodness.' The eikon-of-the-invisible-God predicate is a near-direct Wisdom borrowing.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 8:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The firstborn of all creation' who is 'before all things' (v.15,17) recasts Wisdom, whom 'the LORD created/possessed as the beginning (arche) of his way, before his works of old.' The hymn maps Christ onto pre-existent Wisdom as the principle and firstfruit of creation; v.18 even calls him arche.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 8:27-30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'For by/in him all things were created' and 'in him all things hold together' (v.16-17) draws on Wisdom present when God established the heavens, the deep, and the foundations, beside him as the agent/craftsman of creation. Wisdom-as-cosmic-mediator coherence is strong across the whole hymn.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 89:27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The firstborn (prototokos) of all creation' (v.15) and 'firstborn from the dead' (v.18) draw on the Davidic oracle 'I will make him the firstborn, the highest of the kings of the earth.' Firstborn as a title of supreme rank and primacy ('that he might be preeminent') matches Psalm 89's royal exaltation exactly.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'By him all things were created, in heaven and on earth' (v.16) is a deliberate restatement of 'In the beginning God created the heavens and the earth,' with the merism heaven/earth and the verb create binding the hymn to Genesis 1. Christ is the agent through whom the Genesis creation comes to be.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 33:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'By him all things were created... all things have been created through him' (v.16) echoes 'By the word of the LORD the heavens were made, and all their host by the breath of his mouth.' Creation-by-the-word coherence supports the Logos/Wisdom agency Colossians ascribes to Christ.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 43:26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'In him all things hold together' (v.17) parallels Sirach's cosmological 'by his word all things hold together' (en logo autou sygkeitai ta panta), the sustaining of the cosmos by the divine word. The cohesion verb and the all-things object make this a strong Second-Temple sapiential parallel.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 1:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'In him all things hold together' (v.17) resonates with Wisdom's 'the spirit of the Lord has filled the world, and that which holds all things together (to synechon ta panta) knows every word.' Wisdom as the cosmic glue that fills and binds the universe undergirds the hymn's sustaining-Christ claim.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 8:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He is before all things, and in him all things hold together' (v.17) echoes 'Wisdom reaches mightily from one end of the earth to the other, and orders all things well.' Wisdom's pervasive cosmic ordering supports Christ's pre-eminence and sustaining role.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 68:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'For in him all the fullness was pleased to dwell' (v.19) faintly echoes the mountain that God 'desired for his dwelling,' where the LORD will dwell forever, transferring the chosen-dwelling motif onto Christ as the locus where God is pleased to dwell. Volume low; the eudokia/katoikein dwelling logic is the link.",
+        "contested": true,
+        "altSource": "1 Kings 8:11"
+      },
+      {
+        "source": "1 Kings 8:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'All the fullness was pleased to dwell in him' (v.19) draws on the glory (kabod) filling the temple so that it could not be contained, the divine presence taking up bodily dwelling. Christ becomes the new temple in whom the full divine presence indwells; the dwelling/fullness/glory cluster (cf. v.27) coheres.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 132:13-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The fullness was pleased to dwell in him' (v.19) resonates with the LORD's choice of Zion: 'this is my resting place forever; here I will dwell, for I have desired it.' The desire/pleasure-to-dwell verb aligns; faint and overlapping with the 1 Kings 8 temple-glory echo.",
+        "contested": true,
+        "altSource": "1 Kings 8:11"
+      },
+      {
+        "source": "Leviticus 16:30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'To reconcile all things to himself... making peace through the blood of his cross' (v.20) reframes the Day of Atonement reconciliation accomplished by blood. The blood-effecting-reconciliation logic is Levitical; volume low because Colossians universalizes it cosmically rather than cultically.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Making peace through the blood of his cross' (v.20) faintly recalls the Servant whose chastisement brought 'peace' (shalom) and whose wounds bring healing. The peace-through-suffering-death linkage is coherent; flagged contested given the diffuse wording.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:21-23",
+    "echoes": [
+      {
+        "source": "Leviticus 22:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "To 'present you holy and without defect/blameless before him' (v.22) borrows the sacrificial standard that an offering must be 'without blemish (amomos) to be accepted.' Believers are presented as a perfected, unblemished cultic offering, the holiness/without-defect language taken directly from the sacrificial code.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 12:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Without defect and blameless' (v.22) echoes the Passover lamb requirement 'your lamb shall be without blemish.' The amomos qualifier and the presentation-before-God of an acceptable victim cohere with the paschal/sacrificial backdrop, reinforcing the blood-of-the-cross atonement just stated.",
+        "contested": true,
+        "altSource": "Leviticus 22:21"
+      },
+      {
+        "source": "Genesis 17:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Being presented 'blameless' (amomos/teleios) before God (v.22) faintly recalls the covenant charge 'walk before me and be blameless.' The blameless-walk-before-God ideal coheres with v.10's 'walk worthily,' though the volume is low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:24-29",
+    "echoes": [
+      {
+        "source": "Daniel 2:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The mystery (mysterion) which has been hidden for ages... but now has been revealed' (v.26) draws on Daniel's God 'who reveals mysteries' and 'made known what will be in the latter days.' The technical hidden-then-revealed mystery apocalyptic vocabulary derives from Daniel 2 (cf. 2:19,28,47).",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The mystery now revealed' (v.26) resonates with Daniel's 'he reveals deep and hidden things; he knows what is in the darkness, and the light dwells with him,' joining the revealed-mystery motif with the light/darkness imagery of v.12-13. Coherent but lower volume than Daniel 2:28.",
+        "contested": true,
+        "altSource": "Daniel 2:28"
+      },
+      {
+        "source": "Amos 3:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The disclosure of a previously hidden divine plan now 'revealed to his saints' (v.26) faintly echoes 'the Lord God does nothing without revealing his secret (sod) to his servants the prophets.' The hidden-counsel-now-disclosed prophetic motif is coherent though diffuse.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The mystery's content 'among the Gentiles' (v.27) resonates with the Servant given 'as a light to the nations' so salvation reaches the ends of the earth. The Gentile-inclusion-as-revealed-glory theme coheres with Colossians' worldwide gospel (v.6,23). Faint, contested.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 6:12-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In all wisdom... that we may present every man perfect (teleios)' (v.28) resonates with Wisdom-tradition pedagogy that leads to maturity/perfection. The teaching-in-wisdom-toward-perfection aim coheres with the sapiential framing of the whole chapter; volume modest.",
+        "contested": true
+      }
+    ]
+  }
+]
