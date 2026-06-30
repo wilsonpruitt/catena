@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's epistolary 'Grace to you and peace' fuses a Greek salutation with the Hebrew shalom; the doubled blessing of grace/favor and peace recalls the Aaronic benediction where YHWH makes his face shine (grace) and gives peace. Volume is low and the wording is Pauline convention, so the echo is faint, but Availability and Coherence with a Jewish blessing idiom support a thin resonance.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:2-3",
+    "echoes": [
+      {
+        "source": "Isaiah 26:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The triad work-of-faith, labor-of-love, and 'patience (endurance) of hope' before God resonates with Isaiah's posture of waiting for YHWH's name in the path of his judgments, the soul's desire and hope. The conceptual overlap (steadfast hope directed toward God) is real but the verbal volume is minimal, so this is a contested coherence-driven echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:4-5",
+    "echoes": [
+      {
+        "source": "Deuteronomy 7:6-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Brothers loved by God, that you are chosen' transposes Israel's covenant election directly: Deuteronomy says YHWH chose Israel not for their merit but because he loved them (agapan/eklegesthai LXX), the exact pairing of divine love and choosing Paul applies to gentile believers. Volume and Coherence are strong, and Recurrence of the election theme through 1 Thess makes this a programmatic allusion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 33:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Blessed is the nation whose God is YHWH, the people he has chosen for his own inheritance' supplies the same election idiom Paul extends to the Thessalonian assembly. The LXX exelexato matches Paul's vocabulary of being chosen; Volume is moderate and the allusion reinforces the Deuteronomic election frame.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 33:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Beloved of YHWH' (Benjamin) as a covenant epithet underlies Paul's address 'brothers loved by God.' The phrase is a stock Septuagintal way of naming the elect community; faint by itself but coherent with the surrounding election language.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 41:8-9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Israel my servant, Jacob whom I have chosen, offspring of Abraham my beloved... I have chosen you and not cast you off' clusters chosenness and divine love exactly as Paul does. The dense overlap of election + beloved makes this a plausible secondary source alongside Deuteronomy 7.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 61:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The gospel coming 'not in word only, but also in power and in the Holy Spirit' echoes the Spirit-anointed proclamation of good news (the LXX euangelisasthai with the Spirit of the Lord upon the herald). Coherence with Paul's evangel-in-Spirit is strong; verbal volume is moderate, supporting an echo of the Isaianic herald.",
+        "contested": false
+      },
+      {
+        "source": "Micah 3:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I am full of power by the Spirit of YHWH' pairs power and Spirit as the equipment of true proclamation, the same coupling Paul uses to validate his preaching against mere word. The dyad is suggestive but the link is contested given how common power/Spirit language is.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:6-7",
+    "echoes": [
+      {
+        "source": "Isaiah 12:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Received the word in much affliction, with joy of the Holy Spirit' resonates with the prophetic motif of drawing joy from God amid distress (e.g., joy from the wells of salvation). The eschatological-Spirit joy-in-affliction pattern is broadly Septuagintal; volume is low, so this is a faint coherence echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.8",
+    "ch": 1,
+    "ref": "1:8",
+    "echoes": [
+      {
+        "source": "Isaiah 2:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'From you the word of the Lord has been declared... in every place' echoes the Zion oracle in which the word of YHWH goes forth from Jerusalem to the nations. Paul recasts the believing community as a new radiating center for the logos kyriou; Coherence with the mission-of-the-word theme is strong though the geography is reapplied.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 55:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "YHWH's word that 'goes out' from his mouth and does not return empty but accomplishes its purpose underlies the image of the word of the Lord sounding forth and bearing fruit everywhere. The 'going out' verb and effectual-word theology cohere, but the verbal contact is modest.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 19:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Their voice has gone out into all the earth' is the classic text for a proclamation diffusing universally (cited at Romans 10:18). The 'gone out into every place' phrasing of Paul's report shares this diffusion imagery; faint but availability and coherence warrant noting.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 1:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In every place' offerings are made to YHWH's name 'from the rising of the sun to its setting' supplies the universalizing 'in every place' formula Paul uses for the spread of faith toward God. The phrase is a Septuagintal marker of the name's worldwide honor; contested given its commonness.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.9",
+    "ch": 1,
+    "ref": "1:9-10",
+    "echoes": [
+      {
+        "source": "Jeremiah 10:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'A living and true God' set against 'idols' renders Jeremiah's contrast: 'YHWH is the true God; he is the living God' over against the worthless idols of the nations. Jeremiah 10 is the locus classicus of the idol-polemic Paul compresses; Volume, Coherence, and the living/true pairing make this a strong allusion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 115:4-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You turned to God from idols' draws on the satire of manufactured idols (silver and gold, the work of human hands, with mouths that cannot speak) versus the living God. The turning-from-idols-to-serve-God movement is the Psalm's polemic inverted into conversion language; high coherence and strong Septuagintal availability.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:9-20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah's extended mockery of idol-makers who fashion lifeless gods is the deutero-Isaianic counterpart Paul presupposes in 'turned to God from idols.' The dead-idols vs. living-God antithesis is the engine of the verse; Recurrence of this polemic across Second-Temple Judaism strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 6:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Darius's decree that all should fear 'the living God... who endures forever' supplies the 'living God' confession that gentiles are summoned to serve. The phrase 'living God' is the verbal anchor; Daniel's gentile-king acknowledgment coheres with Paul's report of gentile turning to the living and true God.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'To serve a living and true God' picks up the Shema-context command to fear YHWH and serve (latreuein) him only, the exclusive-service demand that idolatry violates. The Deuteronomic 'serve him alone' is the positive correlate of turning from idols; coherence is strong, volume moderate.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 15:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'For a long time Israel was without the true God' uses the precise phrase 'true God' that Paul applies to the object of conversion. A faint but genuine Septuagintal source for 'true God' alongside Jeremiah 10.",
+        "contested": true
+      },
+      {
+        "source": "Zephaniah 1:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The wrath to come' from which Jesus delivers draws on the Day of YHWH as 'a day of wrath' (the orge of the Lord); Zephaniah 1:15,18 is the densest concentration of day-of-wrath language Paul presupposes for the coming eschatological judgment. Coherence with Pauline orge and Recurrence of the wrath motif in 1 Thess (2:16; 5:9) make this a primary allusion.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 1:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'In the day of YHWH's wrath... the whole earth shall be consumed' supplies the universal, future, fiery character of 'the wrath to come.' Reinforces 1:15 as the Day-of-the-Lord matrix from which deliverance is needed.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The day of YHWH is great and very terrible; who can endure it?' frames the coming wrath as the dreadful Day from which one must be rescued. Joel's rhetorical question about enduring the Day undergirds Paul's promise that Jesus 'delivers us'; coherence is strong, verbal volume moderate.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 13:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The day of YHWH comes, cruel, with wrath and fierce anger, to make the earth a desolation' is a paradigmatic Day-of-wrath oracle feeding Paul's 'wrath to come.' The eschatological orge directed at the nations coheres with the deliverance of believers; a solid secondary source for the wrath motif.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Who can endure the day of his coming?' couples the coming (the One who comes) with refining judgment, resonating with waiting for the Son who delivers from the coming wrath. The 'who can endure' topos and the link of advent + judgment make this a coherent echo within the Day-of-the-Lord cluster.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:20-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Hide yourselves... until the wrath (orge) is past, for YHWH comes out to punish' offers the motif of being sheltered from passing wrath, paralleling deliverance 'from the wrath to come.' Faint verbal contact but apt coherence with rescue-from-wrath; contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'To wait for his Son from heaven' reads the enthroned royal Son ('You are my Son') figurally of the risen Jesus whose advent executes divine judgment, the Psalm whose next verses warn the nations of the Son's wrath. The Son-language plus impending judgment coheres figurally, though Paul does not cite it here; marked low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Waiting for the Son to come 'from heaven' to deliver at the judgment evokes the one like a son of man coming with the clouds to receive dominion at the eschatological assize. The heavenly-advent-and-judgment pattern is figurally apposite, though the explicit Son-of-Man title is absent here; faint, contested.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-5",
+    "echoes": [
+      {
+        "source": "Psalm 96:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The solemn charge invokes God and Christ as the one 'who will judge the living and the dead at his appearing.' The motif of the LORD coming to 'judge the earth' is a refrain of the enthronement psalms, supplying the eschatological-judgment frame Paul adapts to Christ's appearing.",
+        "contested": false,
+        "altSource": "Psalm 98:9"
+      },
+      {
+        "source": "Joel 3:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Joel's vision of the LORD seated to judge all the nations gathered in the valley of decision lies behind the forensic image of universal judgment of 'the living and the dead.' The Day-of-the-LORD assize is the conceptual reservoir for the charge given before the coming Judge.",
+        "contested": true,
+        "altSource": "Daniel 7:9-10"
+      },
+      {
+        "source": "Isaiah 30:9-11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The portrait of people who 'will not listen to the sound doctrine' but want teachers 'after their own lusts' and 'turn away their ears from the truth' closely mirrors Isaiah's rebellious people who tell seers, 'Prophesy not to us right things, speak unto us smooth things.' The refusal of true instruction in favor of pleasing words is the same indictment.",
+        "contested": false,
+        "altSource": null
+      },
+      {
+        "source": "Jeremiah 5:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's lament that 'the prophets prophesy falsely... and my people love to have it so' parallels the hearers who heap up teachers to suit their own desires. The collusion between corrupt teachers and a people who prefer to be flattered underlies Paul's warning about itching ears.",
+        "contested": false,
+        "altSource": "Jeremiah 6:14"
+      },
+      {
+        "source": "Micah 2:11",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Micah pictures a people who would welcome a lying prophet who preaches of wine and strong drink as 'the prophet of this people.' The image of an audience that selects teachers appealing to its appetites resonates with the itching-ears congregation gathering pleasing instructors.",
+        "contested": true,
+        "altSource": "Amos 2:12"
+      },
+      {
+        "source": "1 Kings 22:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ahab's preference for prophets who tell him good rather than Micaiah who tells the truth typifies the pattern Paul names: hearers turning from truth toward voices that gratify them. A faint Old Testament instance of choosing flattering teachers over sound doctrine.",
+        "contested": true,
+        "altSource": null
+      }
+    ]
+  },
+  {
+    "id": "4.6",
+    "ch": 4,
+    "ref": "4:6-8",
+    "echoes": [
+      {
+        "source": "Numbers 28:24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul says 'I am already being offered' (poured out as a drink offering), drawing on the sacrificial libation prescribed in the Mosaic cult. The image of life poured out like the wine offering at the altar gives his coming death a cultic, sacrificial coloring.",
+        "contested": false,
+        "altSource": "Numbers 15:5"
+      },
+      {
+        "source": "Wisdom 5:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'crown of righteousness' which the righteous Judge will award echoes Wisdom's promise that the righteous 'shall receive a glorious kingdom and a beautiful crown from the Lord's hand.' The eschatological reward of a crown from God's hand to the righteous is shared imagery.",
+        "contested": false,
+        "altSource": null
+      },
+      {
+        "source": "Psalm 96:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The title 'the righteous judge' who will give the crown 'on that day' reuses the enthronement-psalm refrain that the LORD comes to judge the world in righteousness. The forensic epithet is colored by the Old Testament confession of God as righteous judge of all.",
+        "contested": true,
+        "altSource": "Psalm 7:11"
+      },
+      {
+        "source": "Zechariah 6:11-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The laying-up of a crown for the faithful may faintly recall the crowns set in the temple of the LORD as a memorial in Zechariah. The notion of a crown stored and later bestowed offers a remote Old Testament background to the crown reserved for Paul.",
+        "contested": true,
+        "altSource": null
+      }
+    ]
+  },
+  {
+    "id": "4.9",
+    "ch": 4,
+    "ref": "4:9-13",
+    "echoes": [
+      {
+        "source": "Psalm 26:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The note that Demas deserted, 'having loved this present world,' may faintly draw on the psalmist's contrast between those who love vanity and the upright who walk in integrity. The framing of misplaced love for the world against faithfulness has a sapiential-psalmic ring, though no specific text is quoted.",
+        "contested": true,
+        "altSource": null
+      }
+    ]
+  },
+  {
+    "id": "4.14",
+    "ch": 4,
+    "ref": "4:14-18",
+    "echoes": [
+      {
+        "source": "Psalm 62:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The Lord will repay him according to his works' reproduces the psalm's confession that God 'renders to every man according to his work.' Paul applies the principle of just recompense to Alexander, leaving vengeance to God rather than himself.",
+        "contested": false,
+        "altSource": "Psalm 28:4"
+      },
+      {
+        "source": "Proverbs 24:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Proverbs asks whether God who weighs the heart will not 'render to every man according to his works,' the same recompense formula Paul invokes against Alexander the coppersmith. The wisdom maxim of divine repayment by deeds underwrites Paul's restraint.",
+        "contested": false,
+        "altSource": "Psalm 28:4"
+      },
+      {
+        "source": "2 Samuel 3:39",
+        "type": "echo",
+        "confidence": "low",
+        "note": "David's word that 'the LORD shall reward the doer of evil according to his wickedness' parallels Paul committing Alexander's recompense to God. A narrative instance of deferring vengeance to the LORD's just repayment.",
+        "contested": true,
+        "altSource": null
+      },
+      {
+        "source": "Psalm 22:21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I was delivered out of the mouth of the lion' draws directly on the psalmist's cry, 'Save me from the lion's mouth.' Paul casts his rescue at the first defense in the language of the suffering righteous one delivered from the predatory lion.",
+        "contested": false,
+        "altSource": "Psalm 35:17"
+      },
+      {
+        "source": "Daniel 6:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Deliverance 'out of the mouth of the lion' evokes Daniel, whose God 'sent his angel and shut the lions' mouths' so the beasts did not hurt him. The archetype of the faithful servant rescued from the lions stands behind Paul's testimony of standing firm and being delivered.",
+        "contested": false,
+        "altSource": null
+      },
+      {
+        "source": "1 Maccabees 2:60",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Mattathias's catalogue of the faithful recalls that 'Daniel for his innocency was delivered from the mouth of the lions,' the very phrase echoed in Paul's rescue. The deuterocanonical retelling shows the lions'-mouth deliverance already proverbial for divine rescue of the righteous.",
+        "contested": false,
+        "altSource": null
+      },
+      {
+        "source": "Psalm 7:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The plea lest the enemy 'tear my soul like a lion' contributes to the stock image of the lion as deadly adversary from which the righteous is delivered. A supporting psalmic source for the lion-of-the-mouth rescue motif.",
+        "contested": true,
+        "altSource": "Psalm 35:17"
+      },
+      {
+        "source": "Psalm 109:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Lord stood by me and strengthened me' resonates with the psalm's assurance that the LORD 'shall stand at the right hand of the poor' to save him. The image of God standing beside the abandoned righteous one as defender underlies Paul's account of his lonely first defense.",
+        "contested": true,
+        "altSource": "Psalm 118:6"
+      },
+      {
+        "source": "Daniel 3:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Lord standing by Paul amid mortal danger faintly recalls the fourth figure standing with the three in the furnace, a deliverance narrative paired with Daniel's lions. The motif of divine presence rescuing the faithful from death rounds out the Danielic background.",
+        "contested": true,
+        "altSource": null
+      },
+      {
+        "source": "Psalm 91:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise that the Lord 'will deliver me from every evil work, and will preserve me' echoes the psalm of protection, where God delivers from the snare and preserves the one who trusts him. The confidence of comprehensive deliverance and preservation has a psalmic protective texture.",
+        "contested": true,
+        "altSource": "Psalm 121:7"
+      }
+    ]
+  },
+  {
+    "id": "4.19",
+    "ch": 4,
+    "ref": "4:19-22",
+    "echoes": [
+      {
+        "source": "Ruth 2:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The closing benediction 'The Lord be with your spirit' echoes the Old Testament greeting formula 'The LORD be with you,' as exchanged by Boaz and his reapers. The liturgical wish of the LORD's presence frames Paul's farewell.",
+        "contested": true,
+        "altSource": "Judges 6:12"
+      }
+    ]
+  }
+]

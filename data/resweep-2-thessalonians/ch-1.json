@@ -1,0 +1,251 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-2",
+    "echoes": [
+      {
+        "source": "Numbers 6:25-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The epistolary salutation 'Grace to you and peace' draws on the Aaronic blessing, where the LORD's gracious face and the gift of peace (shalom) are pronounced over Israel. Paul reworks the priestly benediction into a christological greeting that names both Father and Lord Jesus as its source. The link is formulaic and contested as a deliberate allusion.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:3-4",
+    "echoes": [
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's 'boast about you in the assemblies of God' inverts Jeremiah's prohibition against boasting in wisdom, might, or wealth, redirecting glorying toward what God has wrought in the believers' faith. The motif of legitimate versus illegitimate boasting is a Pauline staple rooted in this oracle. Faint and contested here, since the object of boasting differs.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:21-25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The endurance of the assembly under 'persecutions and afflictions' resonates with Daniel's vision of the little horn making war on and wearing out the holy ones before their vindication. The apocalyptic pattern of saints suffering prior to the kingdom undergirds the whole chapter. The verbal contact is thematic rather than lexical.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:5",
+    "echoes": [
+      {
+        "source": "Psalm 9:7-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The phrase 'righteous judgment of God' echoes the psalmic confession that the LORD has established his throne for judgment and will judge the world in righteousness. Paul reads present suffering as evidence that this just verdict is already operative. The righteousness-of-judgment language is pervasive in the Psalter (cf. Psalm 96:13; 98:9).",
+        "contested": false,
+        "altSource": "Psalm 96:13; Psalm 98:9"
+      },
+      {
+        "source": "Daniel 7:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Being 'counted worthy of the Kingdom of God, for which you also suffer' draws on Daniel's promise that the holy ones of the Most High shall receive and possess the kingdom after the beast's oppression. The pairing of present affliction with future royal vindication is distinctively Danielic. Cf. Daniel 7:22, 27.",
+        "contested": false,
+        "altSource": "Daniel 7:22,27"
+      },
+      {
+        "source": "Wisdom 3:4-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The idea that suffering is the means by which believers are 'counted worthy' of the kingdom parallels Wisdom's teaching that the righteous, though chastened and tested like gold in the furnace, are found worthy of God and accepted. This deuterocanonical theodicy of vindication-through-affliction closely matches Paul's logic in 1:5. A strong conceptual echo.",
+        "contested": false
+      },
+      {
+        "source": "2 Maccabees 6:30-7:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The martyr-theology that suffering for God qualifies one for the kingdom and resurrection vindication has its narrative archetype in the deaths of Eleazar and the seven brothers. Paul's framing of persecution as a 'sign' pointing to just recompense shares this martyrological worldview. Thematic rather than verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:6-7",
+    "echoes": [
+      {
+        "source": "Deuteronomy 32:35",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'A righteous thing with God to repay affliction to those who afflict you' enacts the lex talionis of the Song of Moses, where vengeance and recompense belong to the LORD. Paul grounds eschatological retribution in this Torah principle of divine, not human, requital. Cf. the same passage cited at Romans 12:19.",
+        "contested": false,
+        "altSource": "Deuteronomy 32:41,43"
+      },
+      {
+        "source": "Isaiah 66:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah's 'voice of the LORD that renders recompense to his enemies' supplies the recompense-on-the-afflicters logic of 1:6, and the surrounding oracle (66:5-16) frames the whole 2 Thessalonians 1 scenario of relief for the oppressed and fiery requital for foes. This is the chapter's controlling intertext. High confidence given the dense cluster of contacts across 1:6-10.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 66:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'When the Lord Jesus is revealed from heaven... in flaming fire' renders Isaiah's theophany: the LORD will come in fire, his chariots like the whirlwind, to render his anger in fury and his rebuke with flames of fire. Paul transfers this divine advent to the revealed Lord Jesus. The combination of coming, fire, and recompense is verbally and conceptually tight.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 35:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The pairing of vengeance on oppressors with rescue ('relief') for the afflicted matches Isaiah's promise that God will come with vengeance, with divine recompense, to save you. Paul's antithesis of affliction-for-afflicters and relief-for-the-afflicted reflects this two-sided day of the LORD. A genuine but less verbally specific contact.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 137:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The repayment formula 'to repay affliction to those who afflict you' resonates with the imprecatory blessing on whoever repays Babylon what she has done to Zion. The measure-for-measure justice is shared, though Paul reserves the act to God's eschatological judgment rather than human agents. Contested as a direct source.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 14:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Revealed from heaven with his mighty angels' draws on Zechariah's day-of-the-LORD coming, when the LORD my God will come, and all the holy ones with him. The retinue of accompanying holy ones is a standard feature of the parousia that Paul applies to Jesus. Cf. Deuteronomy 33:2.",
+        "contested": false,
+        "altSource": "Deuteronomy 33:2; Zechariah 14:5"
+      },
+      {
+        "source": "Daniel 7:9-10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The fiery apparatus of judgment — a stream of fire issuing before the Ancient of Days while thousands of angels attend — informs the 'flaming fire' and 'mighty angels' of the Lord's revelation. Daniel's heavenly courtroom supplies both the fire and the angelic host of the judgment scene. Combined with the Son of Man advent of 7:13.",
+        "contested": false,
+        "altSource": "Daniel 7:13-14"
+      },
+      {
+        "source": "Isaiah 30:27-30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's portrait of the name of the LORD coming from afar, burning with anger, his tongue a devouring fire, with flame and tempest, parallels the fiery, wrathful advent of 1:7-8. The shared imagery of divine arrival in consuming fire to judge the nations supports a faint echo. Contested as a distinct source amid the Isaianic cluster.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 19:16-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Sinai theophany — the LORD descending in fire amid smoke and trembling — stands behind the biblical grammar of God revealed in 'flaming fire.' Paul's parousia language is colored by this foundational fire-theophany even where no single verse is quoted. Faint and diffuse.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:8-10",
+    "echoes": [
+      {
+        "source": "Jeremiah 10:25",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Giving vengeance to those who don't know God' echoes Jeremiah's prayer that God pour out his wrath on the nations that know him not and on the peoples that do not call on his name. Paul takes up this categorization of the godless as those who 'do not know God' as the object of eschatological vengeance. Closely paralleled by Psalm 79:6.",
+        "contested": false,
+        "altSource": "Psalm 79:6"
+      },
+      {
+        "source": "Psalm 79:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The plea to 'pour out your anger on the nations that do not know you, and on the kingdoms that do not call on your name' is the closest Psalter parallel to 1:8's vengeance on 'those who don't know God.' Together with Jeremiah 10:25 it supplies the formulaic designation of the wicked. High confidence as a shared source.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 66:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's indictment of those who, when God called, did not answer and did not obey but did evil, undergirds 1:8's 'those who don't obey the Good News.' The Isaiah 66 oracle thus frames both halves of 1:8 — not knowing God and not obeying. Reinforces the chapter's saturation in Isaiah 66.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 2:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Eternal destruction from the face of the Lord and from the glory of his might' renders Isaiah's refrain: hide in the rock from before the terror of the LORD and from the glory of his majesty, when he rises to terrify the earth. The double phrase 'face/terror of the Lord' and 'glory of his might/majesty' is a near-quotation. The thrice-repeated refrain anchors the verse.",
+        "contested": false,
+        "altSource": "Isaiah 2:19,21"
+      },
+      {
+        "source": "Isaiah 2:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The repetition at 2:19 (and 2:21) — fleeing to caves from before the terror of the LORD and the glory of his majesty, when he rises to terrify the earth — supplies the exclusionary 'from the face of the Lord and from the glory of his might' in 1:9. The refrain's threefold form makes the dependence especially secure.",
+        "contested": false,
+        "altSource": "Isaiah 2:21"
+      },
+      {
+        "source": "Psalm 89:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Glorified in his saints' and 'admired' draws on the picture of a God greatly feared in the council of the holy ones and awesome above all around him. The parousia in which Christ is glorified amid his holy ones reflects this assembly of the heavenly host marveling at God. Cf. Psalm 68:35.",
+        "contested": false,
+        "altSource": "Psalm 68:35"
+      },
+      {
+        "source": "Isaiah 49:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'To be glorified in his saints' echoes the Servant oracle, 'You are my servant, Israel, in whom I will be glorified.' Paul applies the motif of God being glorified in his people to the eschatological revelation of the Lord Jesus in his believers. A genuine but transposed contact.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 66:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Isaiah 66:5's promise that the LORD will appear to the joy of the persecuted faithful while their mockers are put to shame matches 1:10's vindicating appearance 'glorified in his saints.' The same oracle's reversal — glory for the oppressed, judgment for oppressors — pervades 2 Thessalonians 1. Consistent with the chapter's Isaiah 66 frame.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 2:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The eschatological tag 'in that day,' when 'the LORD alone will be exalted,' colors 1:10's 'in that day' when Christ is glorified and admired. Isaiah 2:11,17 supplies the day-of-the-LORD formula of exclusive divine exaltation that Paul reads christologically. Faint, given how conventional the phrase is.",
+        "contested": true,
+        "altSource": "Isaiah 2:17"
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:11-12",
+    "echoes": [
+      {
+        "source": "Isaiah 66:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prayer 'that the name of our Lord Jesus may be glorified in you, and you in him' continues the Isaiah 66 motif of the LORD being glorified before and within his vindicated people. The mutual glorification reflects the oracle's promise that God will show his glory to the faithful. Faint within the chapter's broader Isaianic frame.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 1:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'That the name of our Lord Jesus may be glorified' resonates with Malachi's oracle that God's name will be great among the nations, from the rising of the sun to its setting. Paul transfers the magnification of the divine name to the name of the Lord Jesus. Thematic and contested as a deliberate source.",
+        "contested": true,
+        "altSource": "Isaiah 24:15"
+      },
+      {
+        "source": "Psalm 86:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The glorifying of the Lord's name among believers echoes the psalmist's expectation that all nations will come, worship, and glorify God's name. The eschatological honoring of the name underlies 1:12. A faint, diffuse contact within a common biblical topos.",
+        "contested": true
+      }
+    ]
+  }
+]

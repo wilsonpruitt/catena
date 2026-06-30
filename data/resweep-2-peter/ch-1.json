@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-4",
+    "echoes": [
+      { "source": "Genesis 1:26-27", "type": "echo", "confidence": "medium", "note": "Becoming 'partakers of the divine nature' having escaped corruption draws on the creation of humanity in God's image and likeness — the restoration of the image is the goal of the divine promises.", "contested": false },
+      { "source": "Psalm 82:6", "type": "echo", "confidence": "low", "note": "'I said, you are gods, sons of the Most High' is the scriptural datum behind the deifying participation language of v.4.", "contested": true },
+      { "source": "Wisdom 6:17-20", "type": "echo", "confidence": "medium", "note": "Wisdom's sorites, ascending from desire of instruction to love and incorruption that 'brings one near to God,' is the closest Second-Temple model for Peter's chain of virtues beginning here and listed in vv.5-7.", "contested": true }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:5-11",
+    "echoes": [
+      { "source": "Wisdom 6:17-20", "type": "allusion", "confidence": "medium", "note": "The graded virtue-chain ('in faith supply moral excellence; and in moral excellence, knowledge…') follows the sapiential sorites-form most fully developed in Wisdom 6, where one virtue leads to the next and finally to nearness to God.", "contested": false },
+      { "source": "Isaiah 5:1-7", "type": "echo", "confidence": "low", "note": "The contrast of being 'not idle nor unfruitful' versus barrenness recalls the prophetic vineyard expected to bear fruit; a faint coherence with the fruitfulness theme.", "contested": true },
+      { "source": "Deuteronomy 7:6", "type": "echo", "confidence": "medium", "note": "'Make your calling and election sure' presupposes Israel's election as a chosen people, the covenant language Peter applies to the church's assurance.", "contested": false }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:12-15",
+    "echoes": [
+      { "source": "Isaiah 38:12", "type": "echo", "confidence": "medium", "note": "'As long as I am in this tent… the putting off of my tent comes swiftly' uses the body-as-tent figure of Hezekiah's lament, 'my dwelling is plucked up and removed from me like a shepherd's tent.'", "contested": false },
+      { "source": "Wisdom 9:15", "type": "echo", "confidence": "medium", "note": "'The perishable body weighs down the soul, and this earthy tent burdens the mind' is the Hellenistic-Jewish source of the tent-of-the-body image Peter uses for his approaching death.", "contested": true }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:16-18",
+    "echoes": [
+      { "source": "Psalm 2:7", "type": "allusion", "confidence": "high", "note": "The Transfiguration voice 'This is my beloved Son' fuses the royal-enthronement decree 'You are my Son' with the beloved-son language; Peter cites it as eyewitness confirmation of Christ's majesty.", "contested": false },
+      { "source": "Isaiah 42:1", "type": "allusion", "confidence": "high", "note": "'In whom I am well pleased' reflects the Servant call, 'my chosen, in whom my soul delights,' the second strand woven into the heavenly voice.", "contested": false },
+      { "source": "Genesis 22:2", "type": "echo", "confidence": "medium", "note": "'Your son, your only son… whom you love' supplies the 'beloved Son' resonance, with the Aqedah lurking behind the Father's word over Jesus.", "contested": false },
+      { "source": "Exodus 24:15-17", "type": "echo", "confidence": "medium", "note": "'The holy mountain' and the voice from 'the Majestic Glory' recall Sinai, where the glory of the LORD settled on the mountain and God spoke from the cloud.", "contested": false, "altSource": "Psalm 2:6" }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:19-21",
+    "echoes": [
+      { "source": "Psalm 119:105", "type": "allusion", "confidence": "high", "note": "'A lamp shining in a dark place' applies the psalm's 'your word is a lamp to my feet' to the prophetic word the readers do well to heed until the day dawns.", "contested": false },
+      { "source": "Numbers 24:17", "type": "allusion", "confidence": "high", "note": "'The morning star arises in your hearts' draws on Balaam's oracle, 'a star shall come out of Jacob,' the messianic star of dawn (cf. Malachi 4:2, the sun of righteousness).", "contested": false, "altSource": "Malachi 4:2" },
+      { "source": "2 Samuel 23:2", "type": "allusion", "confidence": "medium", "note": "'No prophecy ever came by the will of man, but holy men spoke being moved by the Holy Spirit' rests on David's claim, 'The Spirit of the LORD speaks by me; his word is on my tongue' — the model of Spirit-carried prophecy.", "contested": false },
+      { "source": "Numbers 24:2-4", "type": "echo", "confidence": "medium", "note": "Balaam, on whom 'the Spirit of God came,' uttering the oracle of 'one who hears the words of God,' is a further instance of prophecy that comes not by human will but by the Spirit.", "contested": false }
+    ]
+  }
+]

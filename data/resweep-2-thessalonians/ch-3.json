@@ -1,0 +1,170 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-2",
+    "echoes": [
+      {
+        "source": "Psalm 147:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul asks that 'the word of the Lord may spread rapidly (lit. run) and be glorified.' The psalm pictures God sending his command to the earth, his word running swiftly. The shared image of the divine word personified as a swift runner is striking and likely deliberate.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 55:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's word that goes out from God's mouth and does not return empty but accomplishes its purpose underlies Paul's confidence that the gospel word will run and be glorified. The efficacious, mission-accomplishing word is the conceptual backdrop.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 140:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's plea to be 'delivered from unreasonable and evil men' echoes the psalmist's prayer to be rescued from evil and violent men. A common lament idiom rather than a specific citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:3-5",
+    "echoes": [
+      {
+        "source": "Deuteronomy 7:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'But the Lord is faithful' draws on the covenantal confession that the Lord is the faithful God who keeps covenant. The predicate 'faithful' (pistos) of God is rooted in this Deuteronomic and broader OT formula of divine covenant fidelity.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 121:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Lord... will guard you from the evil one' echoes the psalm's promise that the Lord will keep/guard you from all evil and will keep your life. The verb of divine guarding (phylasso) against evil is the shared note; Paul personalizes 'evil' as 'the evil one.'",
+        "contested": false
+      },
+      {
+        "source": "1 Chronicles 29:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'May the Lord direct your hearts into the love of God' recalls David's prayer that the Lord direct/establish the hearts of the people toward himself. The idiom of God directing the human heart toward devotion is the link.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 16:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The notion that the Lord 'directs' a person's heart/steps, while the human plans, lies behind Paul's wish that the Lord direct their hearts. A wisdom commonplace about divine guidance of the inner life.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.6",
+    "ch": 3,
+    "ref": "3:6-12",
+    "echoes": [
+      {
+        "source": "Genesis 3:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'If anyone will not work, neither let him eat' rests on the primeval verdict that by the sweat of your face you shall eat bread. The post-Eden link between toil and bread is the theological ground of Paul's labor rule, including his own working night and day for his bread.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 10:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The wisdom contrast between the slack/idle hand bringing poverty and the diligent hand bringing wealth underlies Paul's rebuke of those who refuse to work. Proverbs' sustained ethic of diligence vs. sloth shapes his command.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 6:6-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The sluggard sent to the ant, who provides her food by labor, and the warning that poverty comes on the lazy, parallels Paul's portrait of the idle who refuse to work. A central sloth-condemning passage in the wisdom tradition.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 19:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Idleness casts into a deep sleep, and the slack person will go hungry' closely mirrors Paul's pairing of idleness with not eating. A pointed wisdom maxim on the cost of laziness.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 28:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever works his land will have plenty of bread, but he who follows worthless pursuits will have plenty of poverty' echoes Paul's bread-and-work logic and his complaint about busybodies pursuing nothing useful.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 33:27-28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ben Sira urges putting an idle servant to work lest idleness teach mischief, since idleness breeds trouble. This deuterocanonical labor wisdom is close in spirit to Paul's treatment of the idle who become busybodies.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "3.13",
+    "ch": 3,
+    "ref": "3:13",
+    "echoes": [
+      {
+        "source": "Isaiah 40:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Don't be weary in doing well' may echo Isaiah's promise that those who wait on the Lord will renew strength, run and not be weary, walk and not faint. The shared vocabulary of not growing weary is suggestive but the Isaian context is endurance, not active well-doing.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.14",
+    "ch": 3,
+    "ref": "3:14-15",
+    "echoes": [
+      {
+        "source": "Leviticus 19:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Don't count him as an enemy, but admonish him as a brother' enacts the Holiness Code command not to hate your brother in your heart but to reason with/reprove your neighbor. The pattern of corrective rebuke that preserves fraternal love is the same.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "3.16",
+    "ch": 3,
+    "ref": "3:16-18",
+    "echoes": [
+      {
+        "source": "Numbers 6:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'May the Lord of peace himself give you peace' draws on the Aaronic blessing, where the Lord lifts up his countenance upon you and gives you peace. Paul reshapes the priestly benediction's gift of shalom into a benediction from the 'Lord of peace.'",
+        "contested": false
+      },
+      {
+        "source": "Judges 6:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Gideon's altar named 'The Lord is Peace' (YHWH-shalom) supplies a precedent for the divine title 'Lord of peace.' The naming of God by peace is the conceptual link, though Paul's phrasing is his own.",
+        "contested": true
+      },
+      {
+        "source": "Ruth 2:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Lord be with you all' echoes the customary Israelite greeting/blessing, as when Boaz greets the reapers, 'The Lord be with you.' A liturgical-blessing formula rather than a quotation.",
+        "contested": true
+      }
+    ]
+  }
+]

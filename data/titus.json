@@ -1,0 +1,631 @@
+{
+  "slug": "titus",
+  "name": "Titus",
+  "subtitle": "A Grace Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "To a church being set in order on Crete, Titus answers bad teaching with sound doctrine and good works — and grounds both in grace. The grace of God has appeared, training us to renounce ungodliness and to await the blessed hope, the appearing of the glory of our great God and Savior, who gave himself to redeem us and purify a people of his own possession — the language of Israel’s redemption and the people set apart. Elders must be above reproach, the saved washed in the water of rebirth, the people zealous for good works. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where the writer follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-4",
+      "text": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s chosen ones, and the knowledge of the truth which is according to godliness, in hope of eternal life, which God, who can’t lie, promised before time began; but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior; to Titus, my true child according to a common faith: Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.",
+      "echoes": [
+        {
+          "source": "Numbers 23:19",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "God is not a man, that he should lie, nor the son of man, that he should repent. Has he said, and will he not do it? Or has he spoken, and will he not make it good?",
+          "note": "The clause that God 'can't lie' (1:2) draws on Balaam's oracle that 'God is not a man, that he should lie.' The divine veracity grounds the promise of eternal life made 'before time began.' Shared vocabulary and theology of God's unbreakable word make this the primary background."
+        },
+        {
+          "source": "1 Samuel 15:29",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Also the Strength of Israel will not lie nor repent; for he is not a man, that he should repent.”",
+          "note": "Samuel's declaration that 'the Strength of Israel will not lie nor repent' reinforces the same axiom of divine truthfulness behind 'God, who can't lie.' Often paired with Numbers 23:19 as a doublet on the immutability of God's word."
+        },
+        {
+          "source": "Psalm 89:35",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Once have I sworn by my holiness, I will not lie to David.",
+          "note": "God's oath 'I have sworn by my holiness; I will not lie to David' supplies a covenantal instance of the same axiom undergirding a promise 'before time began.' Faint and contested, offered as a thematic parallel rather than verbal source.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:5-9",
+      "text": "I left you in Crete for this reason, that you would set in order the things that were lacking, and appoint elders in every city, as I directed you; if anyone is blameless, the husband of one wife, having children who believe, who are not accused of loose or unruly behavior. For the overseer must be blameless, as God’s steward; not self-pleasing, not easily angered, not given to wine, not violent, not greedy for dishonest gain; but given to hospitality, a lover of good, sober minded, fair, holy, self-controlled; holding to the faithful word which is according to the teaching, that he may be able to exhort in the sound doctrine, and to convict those who contradict him.",
+      "echoes": [
+        {
+          "source": "Exodus 18:21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Moreover you shall provide out of all the people able men, such as fear God: men of truth, hating unjust gain; and place such over them, to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.",
+          "note": "Jethro's counsel to select 'able men, such as fear God, men of truth, hating covetousness' to lead supplies the OT template of vetted, blameless leaders appointed over the people. Titus's charge to appoint elders who are above reproach and not greedy echoes this qualification list."
+        },
+        {
+          "source": "Deuteronomy 1:13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Take wise men of understanding and well known according to your tribes, and I will make them heads over you.”",
+          "note": "Moses' instruction to take 'wise men, and understanding, and known among your tribes' to be made heads parallels the appointment of recognized, reputable elders 'in every city.' The figural pattern of qualified communal leadership stands behind the overseer requirements."
+        },
+        {
+          "source": "Deuteronomy 16:18-20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment. You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise, and perverts the words of the righteous. You shall follow that which is altogether just, that you may live, and inherit the land which Yahweh your God gives […]",
+          "note": "The command to appoint judges and officers 'in all your gates' who shun a bribe and dishonest gain echoes both the city-by-city appointing of elders and the 'not greedy for dishonest gain' qualification. Faint and contested as a direct source.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 21:17-21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Say to Aaron, ‘None of your seed throughout their generations who has a defect may approach to offer the bread of his God. For whatever man he is that has a defect, he shall not draw near: a blind man, or a lame, or he who has a flat nose, or any deformity, or a man who has an injured foot, or an injured hand, or hunchbacked, or a dwarf, or one who has a defect in his eye, or an itching disease, or scabs, or who has damaged testicles. No man of the seed […]",
+          "note": "The priestly requirement that one who draws near be 'without blemish' offers an OT background to the demand that the overseer be 'blameless.' Contested, since the moral 'above reproach' of Titus differs from Levitical physical wholeness; logged as a faint figural resonance.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 31:4-5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "It is not for kings, Lemuel; it is not for kings to drink wine; nor for princes to say, ‘Where is strong drink?’ lest they drink, and forget the law, and pervert the justice due to anyone who is afflicted.",
+          "note": "The wisdom warning that rulers should not be 'given to wine' lest they pervert justice resonates with the overseer being 'not given to wine.' Faint and contested verbal echo within the leadership-qualification cluster.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.10",
+      "ch": 1,
+      "ref": "1:10-16",
+      "text": "For there are also many unruly men, vain talkers and deceivers, especially those of the circumcision, whose mouths must be stopped; men who overthrow whole houses, teaching things which they ought not, for dishonest gain’s sake. One of them, a prophet of their own, said, “Cretans are always liars, evil beasts, and idle gluttons.” This testimony is true. For this cause, reprove them sharply, that they may be sound in the faith, not paying attention to Jewish fables and commandments of men who turn away from the truth. To the pure, all things are pure; but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled. They profess that they know God, but by their works they deny him, being abominable, disobedient, and unfit for any good work.",
+      "echoes": [
+        {
+          "source": "Isaiah 56:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yes, the dogs are greedy, they can never have enough; and these are shepherds who can’t understand: they have all turned to their own way, each one to his gain, from every quarter.",
+          "note": "Isaiah's indictment of shepherds who are 'greedy dogs… they all look to their own way, every one for his gain' stands behind the deceivers who teach 'for dishonest gain's sake.' The portrait of mercenary false leaders is a stock prophetic type Titus applies to the Cretan teachers."
+        },
+        {
+          "source": "Micah 3:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Her leaders judge for bribes, and her priests teach for a price, and her prophets of it tell fortunes for money: yet they lean on Yahweh, and say, “Isn’t Yahweh in the midst of us? No disaster will come on us.”",
+          "note": "Micah condemns leaders who 'teach for hire' and prophets who 'divine for money,' the same fusion of teaching and shameful gain leveled at the deceivers in 1:11. The prophetic critique of religious profiteering is the conceptual source."
+        },
+        {
+          "source": "Micah 3:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus says Yahweh concerning the prophets who lead my people astray; for those who feed their teeth, they proclaim, “Peace!” and whoever doesn’t provide for their mouths, they prepare war against him:",
+          "note": "Micah's prophets who 'make my people err' for food reinforce the picture of deceivers leading whole houses astray for gain. Logged as a supporting faint parallel within the greedy-false-prophet cluster.",
+          "contested": true
+        },
+        {
+          "source": "Ezekiel 22:27",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Her princes in its midst are like wolves ravening the prey, to shed blood, and to destroy souls, that they may get dishonest gain.",
+          "note": "Ezekiel's princes 'like wolves… to get dishonest gain' parallel those teaching for dishonest gain and overthrowing households. A faint reinforcing prophetic echo of rapacious leadership.",
+          "contested": true
+        },
+        {
+          "source": "Jeremiah 6:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“For from their least even to their greatest, everyone is given to covetousness; and from the prophet even to the priest, everyone deals falsely.",
+          "note": "Jeremiah's charge that 'every one is given to covetousness… from the prophet even to the priest every one deals falsely' echoes the deceivers who teach for gain. Faint and contested, offered as a parallel within the same prophetic topos.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 1:31",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.",
+          "note": "The maxim 'to the pure, all things are pure' (1:15) presupposes the creation verdict that God saw all that he had made 'and behold, it was very good.' The goodness of all created things grounds Paul's rejection of the ascetic/ritual purity demands of the teachers."
+        },
+        {
+          "source": "Haggai 2:13-14",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Then Haggai said, “If one who is unclean by reason of a dead body touch any of these, will it be unclean?” The priests answered, “It will be unclean.” Then Haggai answered, “‘So is this people, and so is this nation before me,’ says Yahweh; ‘and so is every work of their hands. That which they offer there is unclean.",
+          "note": "Haggai's priestly ruling that one defiled by a corpse renders what he touches unclean, applied to 'this people… so is every work of their hands,' lies behind 'to those who are defiled… nothing is pure' and 'their mind and conscience are defiled.' Contagion of defilement is reversed/transposed onto inward corruption."
+        },
+        {
+          "source": "Proverbs 30:12",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "There is a generation that is pure in their own eyes, yet are not washed from their filthiness.",
+          "note": "The generation 'pure in their own eyes, and yet is not washed from their filthiness' parallels those who profess purity yet are inwardly defiled in mind and conscience. A pointed wisdom echo on self-deceived impurity."
+        },
+        {
+          "source": "Isaiah 29:13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The Lord said, “Because this people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;",
+          "note": "Isaiah's people who 'draw near with their mouth… but have removed their heart far from me,' teaching 'the commandment of men,' stands behind both 'commandments of men who turn away from the truth' (1:14) and 'they profess that they know God, but by their works they deny him' (1:16). Lip-profession contradicted by life is the shared indictment.",
+          "lxxText": "And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men."
+        },
+        {
+          "source": "Jeremiah 12:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You have planted them, yes, they have taken root; they grow, yes, they produce fruit: you are near in their mouth, and far from their heart.",
+          "note": "God's complaint that the wicked are 'near in their mouth, and far from their reins' parallels professing to know God while denying him by works. A faint contested echo overlapping with Isaiah 29:13.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 11:44-47",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For I am Yahweh your God. Sanctify yourselves therefore, and be holy; for I am holy: neither shall you defile yourselves with any kind of creeping thing that moves on the earth. For I am Yahweh who brought you up out of the land of Egypt, to be your God. You shall therefore be holy, for I am holy. “‘This is the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that creeps on the earth, to make […]",
+          "note": "The clean/unclean food distinctions of the holiness code form the implicit ritual background that 'to the pure all things are pure' relativizes. Contested as a direct source rather than a conceptual foil for the purity dispute.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "ch": 2,
+      "ref": "2:1-10",
+      "text": "But say the things which fit sound doctrine, that older men should be temperate, sensible, sober minded, sound in faith, in love, and in patience: and that older women likewise be reverent in behavior, not slanderers nor enslaved to much wine, teachers of that which is good; that they may train the young women to love their husbands, to love their children, to be sober minded, chaste, workers at home, kind, being in subjection to their own husbands, that God’s word may not be blasphemed. Likewise, exhort the younger men to be sober minded; in all things showing yourself an example of good works; in your teaching showing integrity, seriousness, incorruptibility, and soundness of speech that can’t be condemned; that he who opposes you may be ashamed, having no evil thing to say about us. Exhort servants to be in subjection to their own masters, and to be well-pleasing in all things; not contradicting; not stealing, but showing all good fidelity; that they may adorn the doctrine of God, our Savior, in all things.",
+      "echoes": [
+        {
+          "source": "Proverbs 31:10-31",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Who can find a worthy woman? For her price is far above rubies. The heart of her husband trusts in her. He shall have no lack of gain. She does him good, and not harm, all the days of her life. She seeks wool and flax, and works eagerly with her hands. She is like the merchant ships. She brings her bread from afar. She rises also while it is yet night, gives food to her household, and portions for her servant girls. She considers a field, and buys it. […]",
+          "note": "The portrait of the older and younger women — reverent, loving their households, 'workers at home,' kind and industrious — draws on the ideal of the worthy woman whose works praise her. The household-management language coheres with the Septuagintal woman of Proverbs 31. Thematic volume and availability are strong even without verbal quotation."
+        },
+        {
+          "source": "Proverbs 31:27",
+          "type": "echo",
+          "confidence": "low",
+          "text": "She looks well to the ways of her household, and doesn’t eat the bread of idleness.",
+          "note": "'Workers at home' (v.5) recalls the worthy woman who 'looks well to the ways of her household.' A faint domestic-management echo within the broader Proverbs 31 frame.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 31:4-7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "It is not for kings, Lemuel; it is not for kings to drink wine; nor for princes to say, ‘Where is strong drink?’ lest they drink, and forget the law, and pervert the justice due to anyone who is afflicted. Give strong drink to him who is ready to perish; and wine to the bitter in soul: Let him drink, and forget his poverty, and remember his misery no more.",
+          "note": "Older women 'not enslaved to much wine' (v.3) echoes the wisdom warning against intoxication, where wine is unfit for those who must judge and govern. Reinforced by Proverbs 23:20-21. Contested as generic moral commonplace.",
+          "contested": true,
+          "altSource": "Proverbs 23:20-21"
+        },
+        {
+          "source": "Isaiah 52:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Now therefore, what do I do here,” says Yahweh, “seeing that my people are taken away for nothing? Those who rule over them mock,” says Yahweh, “and my name continually all the day is blasphemed.",
+          "note": "'That God's word may not be blasphemed' (v.5; cf. the name not reviled) reworks Isaiah's lament that 'my name continually all the day is blasphemed' among the nations because of Israel. Paul transfers the prophetic concern about Gentiles reviling God's name to the conduct of believers in the household."
+        },
+        {
+          "source": "Ezekiel 36:20-23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "When they came to the nations, where they went, they profaned my holy name; in that men said of them, These are the people of Yahweh, and are gone out of his land. But I had respect for my holy name, which the house of Israel had profaned among the nations, where they went. Therefore tell the house of Israel, Thus says the Lord Yahweh: I don’t do this for your sake, house of Israel, but for my holy name, which you have profaned among the nations, where […]",
+          "note": "The motif that God's people may cause his name to be profaned/blasphemed among the nations underlies v.5 and v.10 ('that they may adorn the doctrine of God'). Ezekiel pairs the profaning of the name with God's resolve to vindicate his holy name, the same logic of witness Paul applies."
+        },
+        {
+          "source": "Genesis 3:16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "To the woman he said, “I will greatly multiply your pain in childbirth. In pain you will bear children. Your desire will be for your husband, and he will rule over you.”",
+          "note": "The instruction that wives be 'in subjection to their own husbands' (v.5) may faintly echo the post-fall ordering of marriage. Contested, since the household-code material is more directly Hellenistic-Jewish ethical convention than a Genesis citation.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "ch": 2,
+      "ref": "2:11-14",
+      "text": "For the grace of God has appeared, bringing salvation to all men, instructing us to the intent that, denying ungodliness and worldly lusts, we would live soberly, righteously, and godly in this present world; looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ; who gave himself for us, that he might redeem us from all iniquity, and purify for himself a people for his own possession, zealous for good works.",
+      "echoes": [
+        {
+          "source": "Isaiah 40:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh’s glory shall be revealed, and all flesh shall see it together; for the mouth of Yahweh has spoken it.”",
+          "note": "'The grace of God has appeared, bringing salvation to all men' (v.11) and the 'appearing of the glory' (v.13) draw on the revelation of the LORD's glory which 'all flesh shall see together.' The universal scope of salvation/glory revealed is Isaianic."
+        },
+        {
+          "source": "Isaiah 52:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh has made bare his holy arm in the eyes of all the nations; and all the ends of the earth have seen the salvation of our God.",
+          "note": "Salvation 'to all men' (v.11) echoes the bared arm of the LORD by which 'all the ends of the earth shall see the salvation of our God.' A faint universal-salvation echo supporting v.11.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 3:11-12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "My son, don’t despise Yahweh’s discipline, neither be weary of his reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.",
+          "note": "Grace 'instructing/training us' (paideuō, v.12) to renounce ungodliness invokes the divine discipline tradition: the LORD chastens/instructs the one he loves as a father his son. The pedagogical grace of Titus is framed in this wisdom-discipline idiom.",
+          "lxxText": "My son, despise not the chastening of the Lord; nor faint when thou art rebuked of him: for whom the Lord loves, he rebukes, and scourges every son whom he receives."
+        },
+        {
+          "source": "Deuteronomy 8:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall consider in your heart that as a man disciplines his son, so Yahweh your God disciplines you.",
+          "note": "The training/disciplining work of grace (v.12) echoes 'as a man chastens his son, so the LORD your God chastens you.' Reinforces the paideia background alongside Proverbs 3."
+        },
+        {
+          "source": "Isaiah 60:1-2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Arise, shine; for your light has come, and Yahweh’s glory is risen on you. For, behold, darkness shall cover the earth, and gross darkness the peoples; but Yahweh will arise on you, and his glory shall be seen on you.",
+          "note": "'The appearing of the glory of our great God' (v.13) draws on the glory of the LORD that rises and is seen upon his people while darkness covers the earth. An eschatological epiphany-of-glory source."
+        },
+        {
+          "source": "Psalm 102:16",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For Yahweh has built up Zion. He has appeared in his glory.",
+          "note": "'The LORD shall appear in his glory' undergirds the 'blessed hope and appearing of the glory' (v.13). The verb of divine appearing in glory matches the epiphany expectation."
+        },
+        {
+          "source": "Malachi 3:1-2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Behold, I send my messenger, and he will prepare the way before me; and the Lord, whom you seek, will suddenly come to his temple; and the messenger of the covenant, whom you desire, behold, he comes!” says Yahweh of Armies. “But who can endure the day of his coming? And who will stand when he appears? For he is like a refiner’s fire, and like launderer’s soap;",
+          "note": "The sudden coming of the Lord to his temple, and the question 'who shall abide the day of his appearing,' resonates with the awaited appearing in glory (v.13) and the purifying purpose of v.14. Contested, faint volume.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 130:8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He will redeem Israel from all their sins.",
+          "note": "'Who gave himself for us, that he might redeem us from all iniquity' (v.14) closely tracks 'he shall redeem Israel from all his iniquities.' The pairing of redemption with deliverance from all iniquity/lawlessness is a near-verbal dependence."
+        },
+        {
+          "source": "Exodus 19:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Now therefore, if you will indeed obey my voice, and keep my covenant, then you shall be my own possession from among all peoples; for all the earth is mine;",
+          "note": "'Purify for himself a people for his own possession' (v.14) draws on 'you shall be my treasured possession (peculiar people) above all peoples.' The covenant election of a treasured people is reapplied to the church redeemed by Christ."
+        },
+        {
+          "source": "Deuteronomy 7:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For you are a holy people to Yahweh your God. Yahweh your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth.",
+          "note": "'A people for his own possession' (v.14) echoes Israel as 'a holy people unto the LORD, a peculiar people unto himself, above all peoples.' Part of the Deuteronomic treasured-people cluster behind v.14."
+        },
+        {
+          "source": "Deuteronomy 14:2",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For you are a holy people to Yahweh your God, and Yahweh has chosen you to be a people for his own possession, above all peoples who are on the face of the earth.",
+          "note": "Restates the election of Israel as a 'peculiar people' / treasured possession, directly informing the 'people for his own possession' language of v.14."
+        },
+        {
+          "source": "Deuteronomy 26:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh has declared this day that you are a people for his own possession, as he has promised you, and that you should keep all his commandments.",
+          "note": "'The LORD has avouched you this day to be a peculiar people unto himself' supplies the covenant-possession formula reused in v.14, here tied to keeping his commandments (cf. 'zealous for good works')."
+        },
+        {
+          "source": "Ezekiel 37:23",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions; but I will save them out of all their dwelling places, in which they have sinned, and will cleanse them: so shall they be my people, and I will be their God.",
+          "note": "'Purify for himself a people' (v.14) echoes 'I will cleanse them... so they shall be my people, and I will be their God.' The cleansing-to-be-a-people motif of the new covenant underlies the purifying purpose of redemption."
+        },
+        {
+          "source": "Ezekiel 36:25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will sprinkle clean water on you, and you shall be clean: from all your filthiness, and from all your idols, will I cleanse you.",
+          "note": "The promise to sprinkle clean water and cleanse from all uncleanness reinforces the 'purify a people' language of v.14 within the same Ezekielian new-covenant cleansing complex. Faint, secondary to 37:23.",
+          "contested": true
+        },
+        {
+          "source": "Malachi 3:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "They shall be mine,” says Yahweh of Armies, “my own possession in the day that I make, and I will spare them, as a man spares his own son who serves him.",
+          "note": "'They shall be mine, my treasured possession (peculiar treasure)' on the day God acts supports the 'people for his own possession' of v.14, joining the treasured-people motif to an eschatological day, fitting the appearing of v.13."
+        },
+        {
+          "source": "Numbers 25:11-13",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "“Phinehas, the son of Eleazar, the son of Aaron the priest, has turned my wrath away from the children of Israel, in that he was jealous with my jealousy among them, so that I didn’t consume the children of Israel in my jealousy. Therefore say, ‘Behold, I give to him my covenant of peace. It shall be to him, and to his seed after him, the covenant of an everlasting priesthood, because he was jealous for his God, and made atonement for the children of […]",
+          "note": "'Zealous for good works' (v.14) may evoke Phinehas, who 'was zealous for his God,' the paradigm of covenant zeal rewarded with an everlasting covenant. Contested, since Paul's 'zeal for good works' may be generic rather than a Phinehas allusion.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 7:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "but because Yahweh loves you, and because he desires to keep the oath which he swore to your fathers, Yahweh has brought you out with a mighty hand, and redeemed you out of the house of bondage, from the hand of Pharaoh king of Egypt.",
+          "note": "'Redeem us' (lytroō, v.14) echoes the exodus redemption language: the LORD 'redeemed you from the house of bondage.' A faint redemption-vocabulary echo behind v.14, reinforced by Exodus 6:6.",
+          "contested": true,
+          "altSource": "Exodus 6:6"
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "ch": 2,
+      "ref": "2:15",
+      "text": "Say these things and exhort and reprove with all authority. Let no man despise you.",
+      "echoes": [
+        {
+          "source": "Jeremiah 1:7-8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But Yahweh said to me, “Don’t say, ‘I am a child;’ for to whoever I shall send you, you shall go, and whatever I shall command you, you shall speak. Don’t be afraid because of them; for I am with you to deliver you,” says Yahweh.",
+          "note": "'Exhort and reprove with all authority; let no man despise you' (v.15) faintly recalls the prophetic commissioning, where the young prophet is told not to fear, for God will be with him. A contested echo of prophetic emboldening, since the charge fits general pastoral exhortation.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.1",
+      "ch": 3,
+      "ref": "3:1-2",
+      "text": "Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work, to speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men.",
+      "echoes": [
+        {
+          "source": "Proverbs 24:21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "My son, fear Yahweh and the king. Don’t join those who are rebellious:",
+          "note": "The charge to fear the LORD and the king, and not to join with the rebellious, stands behind Paul's instruction to be subject to rulers and authorities. The wisdom tradition links reverence for God with submission to civic authority, the same dual loyalty Titus urges."
+        },
+        {
+          "source": "Ecclesiastes 8:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I say, “Keep the king’s command!” because of the oath to God.",
+          "note": "Qoheleth counsels keeping the king's command, framed by an oath before God, mirroring the obedience to rulers Titus enjoins. The Septuagint vocabulary of obeying royal authority overlaps conceptually with subjection to those in power."
+        },
+        {
+          "source": "Jeremiah 29:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Seek the peace of the city where I have caused you to be carried away captive, and pray to Yahweh for it; for in its peace you shall have peace.",
+          "note": "Jeremiah's letter tells the exiles to seek the welfare of the city and pray for it, the model of constructive subjection to a pagan order. Titus' call to be ready for every good work toward all extends this exilic posture of civic good toward the surrounding society.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 16:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The king’s wrath is a messenger of death, but a wise man will pacify it.",
+          "note": "Wisdom literature counsels prudent, peaceable deference to those who hold power. The disposition of gentleness and avoidance of contention toward rulers echoes the sapiential ideal of pacifying authority.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 15:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+          "note": "A soft answer turns away wrath underlies the exhortation to speak evil of no one and to be gentle, showing all humility. The sapiential ethic of gentle, non-contentious speech is the backdrop for these virtues.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.3",
+      "ch": 3,
+      "ref": "3:3",
+      "text": "For we were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another.",
+      "echoes": [
+        {
+          "source": "Genesis 3:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh God said to the woman, “What have you done?” The woman said, “The serpent deceived me, and I ate.”",
+          "note": "The confession that we were once deceived recalls the primal pattern of being led astray, the serpent's deception of Eve. The catalogue of human bondage to lust and malice traces back to the Edenic fall as the origin of disordered desire.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 53:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "All we like sheep have gone astray. Everyone has turned to his own way; and Yahweh has laid on him the iniquity of us all.",
+          "note": "All we like sheep have gone astray, each to his own way, lies behind the description of being deceived and serving various lusts. The motif of straying and being saved not by works but by mercy resonates with the Servant who bears wandering humanity.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom of Solomon 14:22-27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Afterward it was not enough for them to go astray as touching the knowledge of God; But also, while they live in sore conflict through ignorance of him. That multitude of evils they call peace. For either slaughtering children in solemn rites, or celebrating secret mysteries, Or holding frantic revels of strange ordinances, No longer do they guard either life or purity of marriage, But one brings upon another either death by treachery, or anguish by […]",
+          "note": "The Wisdom vice-list portrays idolaters living in malice, envy, deceit, and disordered passions, the same cluster Titus uses for the unredeemed past. Both texts diagnose pre-conversion humanity as enslaved to corrupt desire and mutual hatred born of false worship."
+        }
+      ]
+    },
+    {
+      "id": "3.4",
+      "ch": 3,
+      "ref": "3:4-7",
+      "text": "But when the kindness of God our Savior and his love toward mankind appeared, not by works of righteousness, which we did ourselves, but according to his mercy, he saved us, through the washing of regeneration and renewing by the Holy Spirit, whom he poured out on us richly, through Jesus Christ our Savior; that, being justified by his grace, we might be made heirs according to the hope of eternal life.",
+      "echoes": [
+        {
+          "source": "Ezekiel 36:25-27",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I will sprinkle clean water on you, and you shall be clean: from all your filthiness, and from all your idols, will I cleanse you. I will also give you a new heart, and I will put a new spirit within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. I will put my Spirit within you, and cause you to walk in my statutes, and you shall keep my ordinances, and do them.",
+          "note": "The new-covenant promise to sprinkle clean water for cleansing and to put a new spirit within stands directly behind the washing of regeneration and renewing by the Holy Spirit. The pairing of water-cleansing with Spirit-renewal is the structural template of Titus' soteriology."
+        },
+        {
+          "source": "Joel 2:28-29",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“It will happen afterward, that I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy. Your old men will dream dreams. Your young men will see visions. And also on the servants and on the handmaids in those days, I will pour out my Spirit.",
+          "note": "The promise that God will pour out his Spirit on all flesh underlies the statement that he poured out the Spirit on us richly. The verb of outpouring is the prophetic signature for the eschatological gift of the Spirit appropriated here."
+        },
+        {
+          "source": "Ezekiel 39:29",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "neither will I hide my face any more from them; for I have poured out my Spirit on the house of Israel, says the Lord Yahweh.",
+          "note": "God's pledge that I have poured out my Spirit on the house of Israel reinforces the outpouring language of verse 6. The prophetic image of lavish Spirit-effusion grounds Paul's emphasis on the Spirit poured out richly."
+        },
+        {
+          "source": "Isaiah 44:3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For I will pour water on him who is thirsty, and streams on the dry ground. I will pour my Spirit on your seed, and my blessing on your offspring:",
+          "note": "I will pour water on the thirsty and my Spirit on your offspring fuses water and Spirit exactly as Titus fuses the washing with the renewing of the Holy Spirit. The double pouring of water and Spirit is the prophetic matrix for the regenerating bath."
+        },
+        {
+          "source": "Psalm 51:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Purify me with hyssop, and I will be clean. Wash me, and I will be whiter than snow.",
+          "note": "Purge me and I shall be clean, wash me and I shall be whiter than snow voices the cleansing-by-washing that Titus names the washing of regeneration. The penitential plea for inward purity prefigures the saving bath grounded in mercy, not works."
+        },
+        {
+          "source": "Psalm 51:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Create in me a clean heart, O God. Renew a right spirit within me.",
+          "note": "Create in me a clean heart and renew a right spirit within me supplies the language of renewal by the Spirit. The Davidic prayer joins cleansing and inward renewing precisely as Titus joins washing and renewing of the Holy Spirit."
+        },
+        {
+          "source": "Ezekiel 37:14",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I will put my Spirit in you, and you shall live, and I will place you in your own land: and you shall know that I, Yahweh, have spoken it and performed it, says Yahweh.",
+          "note": "I will put my Spirit in you and you shall live undergirds the link between Spirit-indwelling and the hope of eternal life in verse 7. The vivifying gift of the Spirit that raises the dead nation prefigures regeneration unto life."
+        },
+        {
+          "source": "Numbers 19:17-19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“For the unclean, they shall take of the ashes of the burning of the sin offering; and running water shall be poured into a vessel. A clean person shall take hyssop, dip it in the water, and sprinkle it on the tent, on all the vessels, on the persons who were there, and on him who touched the bone, or the slain, or the dead, or the grave. The clean person shall sprinkle on the unclean on the third day, and on the seventh day. On the seventh day, he shall […]",
+          "note": "The ritual sprinkling of the water of purification to cleanse defilement informs the cultic background of the washing of regeneration. The Mosaic lustration provides the ceremonial idiom later spiritualized into the saving bath.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 63:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will make mention of the loving kindnesses of Yahweh and the praises of Yahweh, according to all that Yahweh has bestowed on us, and the great goodness toward the house of Israel, which he has bestowed on them according to his mercies, and according to the multitude of his loving kindnesses.",
+          "note": "The recital of the LORD's lovingkindnesses and the multitude of his mercies frames God's saving action as kindness and love, echoed in the kindness of God our Savior and his love toward mankind. Salvation is grounded in covenant mercy rather than desert.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 34:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh passed by before him, and proclaimed, “Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth,",
+          "note": "The self-revelation of the LORD as merciful, gracious, and abounding in steadfast love stands behind the appearance of the kindness and love of God who saves according to his mercy. The grace-formula of Sinai is the theological ground for salvation not by works.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 130:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Israel, hope in Yahweh, for with Yahweh there is loving kindness. With him is abundant redemption.",
+          "note": "With the LORD is steadfast love and plenteous redemption colors the claim that salvation rests on mercy and issues in justification by grace. The psalm's hope in abundant redemption parallels the hope of eternal life made the believer's inheritance.",
+          "contested": true
+        },
+        {
+          "source": "Joel 2:32",
+          "type": "echo",
+          "confidence": "low",
+          "text": "It will happen that whoever will call on Yahweh’s name shall be saved; for in Mount Zion and in Jerusalem there will be those who escape, as Yahweh has said, and among the remnant, those whom Yahweh calls.",
+          "note": "The promise that whoever calls on the name of the LORD shall be saved follows the Spirit-outpouring oracle and undergirds the language of being saved according to mercy. The Joel context links Spirit and salvation as Titus does.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.8",
+      "ch": 3,
+      "ref": "3:8-11",
+      "text": "This saying is faithful, and concerning these things I desire that you affirm confidently, so that those who have believed God may be careful to maintain good works. These things are good and profitable to men; but shun foolish questionings, genealogies, strife, and disputes about the law; for they are unprofitable and vain. Avoid a factious man after a first and second warning; knowing that such a one is perverted, and sins, being self-condemned.",
+      "echoes": [
+        {
+          "source": "Proverbs 17:14",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The beginning of strife is like breaching a dam, therefore stop contention before quarreling breaks out.",
+          "note": "The beginning of strife is like releasing water, so abandon a quarrel before it breaks out, undergirds the command to shun strife and disputes and to avoid the factious man. Wisdom counsels disengaging from contention before it spreads, as Titus instructs."
+        },
+        {
+          "source": "Proverbs 20:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "It is an honor for a man to keep aloof from strife; but every fool will be quarreling.",
+          "note": "It is to a man's honor to keep aloof from strife, while every fool is quick to quarrel, parallels the avoidance of foolish questionings and disputes. The sapiential praise of those who refrain from quarreling shapes Paul's verdict that strife is unprofitable and vain."
+        },
+        {
+          "source": "Proverbs 26:21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As coals are to hot embers, and wood to fire, so is a contentious man to kindling strife.",
+          "note": "As charcoal kindles fire, a contentious man kindles strife, illuminating the warning against the factious person who must be avoided. The wisdom portrait of the quarrel-feeder informs the directive to reject the divisive after two warnings.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 8:1-3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Contend not with a mighty man, Lest haply you fall into his hands. Strive not with a rich man, lest haply he overweigh you: For gold has destroyed many, And turned away the hearts of kings. Contend not with a man that is full of tongue, And heap not wood upon his fire.",
+          "note": "Ben Sira warns against contending with the powerful and against quarreling with the loud-mouthed and contentious, advice that parallels shunning disputes and the factious man. The deuterocanonical counsel to avoid futile contention reinforces Titus' rejection of vain wrangling."
+        },
+        {
+          "source": "Sirach 28:8-11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Abstain from strife, and you will diminish your sins: For a passionate man will kindle strife; And a man that is a sinner will trouble friends, And will make debate among those who are at peace. As is the fuel of the fire, so will it burn; And as the stoutness of the strife is, so will it burn: As is the strength of the man, so will be his wrath; And as is his wealth, so will he exalt his anger. A contention begun in haste kindles a fire; And a hasty […]",
+          "note": "Refrain from strife and you will lessen sins, for a hasty quarrel kindles fire, echoes the diagnosis that the factious man sins and is self-condemned. Ben Sira treats quarreling as sin-producing, matching the moral framing of strife as unprofitable and corrupting.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 17:6-7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "At the mouth of two witnesses, or three witnesses, he who is to die shall be put to death. At the mouth of one witness he shall not be put to death. The hand of the witnesses shall be first on him to put him to death, and afterward the hand of all the people. So you shall remove the evil from your midst.",
+          "note": "Conviction on the evidence of two or three witnesses, then purging the evil from the midst, lies behind the pattern of a first and second warning followed by rejecting the divisive person. The Mosaic procedure of repeated testimony then removal supplies the disciplinary template.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 19:15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.",
+          "note": "The requirement that a matter be established by two or three witnesses informs the first-and-second-warning structure preceding the rejection of the factious man. The legal norm of repeated attestation underlies the procedural fairness of two admonitions.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.12",
+      "ch": 3,
+      "ref": "3:12-15",
+      "text": "When I send Artemas to you, or Tychicus, be diligent to come to me to Nicopolis, for I have determined to winter there. Send Zenas, the lawyer, and Apollos on their journey speedily, that nothing may be lacking for them. Let our people also learn to maintain good works for necessary uses, that they may not be unfruitful. All who are with me greet you. Greet those who love us in faith. Grace be with you all. Amen.",
+      "echoes": [
+        {
+          "source": "Numbers 6:24-26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "‘Yahweh bless you, and keep you. Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.’",
+          "note": "The Aaronic blessing's bestowal of the LORD's grace and peace lies faintly behind the closing benediction, grace be with you all. The epistolary grace-greeting draws on the priestly tradition of invoking divine favor upon the congregation.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-8",
+    "echoes": [
+      {
+        "source": "Leviticus 18:1-30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's call to abstain from sexual immorality as the content of sanctification draws on the Holiness Code's catalog of forbidden sexual relations, which there too distinguishes Israel from 'the nations.' The structural logic (holiness = sexual self-control over against Gentile practice) is Levitical.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'God called us... in sanctification' and the refrain of holiness echo the Holiness Code's foundational imperative, 'You shall be holy, for I the LORD your God am holy.' The grounding of ethical holiness in the holy character of the God who calls is Levitical.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 20:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Consecrate yourselves therefore, and be holy' immediately follows prohibitions of sexual sin, matching Paul's pairing of consecration (sanctification, honor) with abstaining from porneia. Reinforces the Holiness Code substrate.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 10:25",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'the Gentiles who don't know God' verbally matches Jeremiah's 'the nations that do not know you,' a stock LXX characterization of pagans as ignorant of the true God. Paul applies the same idiom to ground sexual ethics in covenantal knowledge of God.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 79:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Parallel to Jeremiah 10:25, 'the nations that do not know you,' the same formula identifying Gentiles by their ignorance of God. The two texts are nearly identical and both stand behind Paul's phrase 'who don't know God.'",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:35",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'the Lord is an avenger in all these things' draws on the Song of Moses, 'Vengeance is mine, and recompense.' Paul invokes the divine prerogative of vengeance to enforce sexual justice toward a wronged brother, as he does explicitly in Romans 12:19.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 94:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'O LORD, God of vengeance' (LXX Ps 93:1) supplies the divine title 'avenger' that Paul applies. The psalm's plea for God to requite oppressors parallels Paul's warning that the Lord avenges the defrauded.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'God, who has also given his Holy Spirit to you' echoes Ezekiel's new-covenant promise, 'I will put my Spirit within you, and cause you to walk in my statutes.' The gift of the indwelling Spirit as the enabling power of holiness undergirds Paul's claim that rejecting his teaching rejects the Spirit-giving God.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will put my Spirit in you' restates the promise of 36:27, linking the Spirit's indwelling to new covenant life. Reinforces the Ezekielian background for God 'who gives his Holy Spirit.'",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 14:22-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Wisdom links the Gentiles' ignorance of God to idolatry and the resulting sexual corruption ('defiling of souls... sexual perversion'), the very chain Paul compresses in 'the passion of lust, even as the Gentiles who don't know God.' Deuterocanonical; the conceptual sequence (no knowledge of God -> disordered desire) is shared.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 13:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'all men... were ignorant of God' is the premise that Gentiles fail to know God from creation; a faint deuterocanonical parallel to 'who don't know God.' Contested as direct dependence versus shared topos.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 21:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "If 'possess his own vessel' means controlling one's body, the cultic 'vessels of the young men are holy' offers a faint lexical analogy of vessels as sanctified bodies. Highly contested; the meaning of skeuos (body vs. wife) is itself disputed.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 23:16-27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's denunciation of the man enslaved to lustful passion and the adulterer who profanes sanctity parallels Paul's contrast of lustful passion with sanctification and honor. Deuterocanonical wisdom on sexual self-mastery; thematic rather than verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.9",
+    "ch": 4,
+    "ref": "4:9-12",
+    "echoes": [
+      {
+        "source": "Isaiah 54:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'you yourselves are taught by God' (theodidaktoi) echoes the eschatological promise that 'all your children shall be taught by the LORD.' Paul claims this Isaianic restoration is realized among the Thessalonians, who need no human instruction in love.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:33-34",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The new-covenant promise of the law written on hearts so that 'they shall all know me' undergirds 'taught by God to love one another.' Internal, Spirit-given instruction replacing external teaching is the Jeremianic hope Paul presupposes.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's theme of philadelphia, loving one another, rests on the foundational command 'you shall love your neighbor as yourself,' which he elsewhere calls the law's summation. The mutual-love ethic is its application within the community.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 128:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'you shall eat the fruit of the labor of your hands' commends self-supporting manual labor as blessing, paralleling Paul's exhortation to 'work with your own hands' and lack nothing. Wisdom-of-labor background.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 6:6-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The sluggard reproof, urging diligent work to avoid want, parallels Paul's call to industrious self-sufficiency so as to 'have need of nothing.' Proverbial labor ethic; thematic only.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Eating bread 'by the sweat of your face' establishes manual labor as the human vocation, faintly resonant with Paul's dignity-of-handwork charge. Very faint and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.13",
+    "ch": 4,
+    "ref": "4:13-18",
+    "echoes": [
+      {
+        "source": "Daniel 12:1-2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The promise that at the end 'many who sleep in the dust shall awake' grounds Paul's hope for 'those who have fallen asleep' rising. The deliverance of God's people and the resurrection/awakening sequence is the clearest scriptural matrix for vv. 14-16.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Being 'caught up together... in the clouds, to meet the Lord' draws on the vision of one like a son of man coming 'with the clouds of heaven.' The cloud imagery of glorious eschatological encounter is Danielic.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 19:16-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Sinai theophany, with the LORD descending, thick cloud, and a very loud trumpet blast, supplies the template for the Lord descending from heaven with God's trumpet and a shout. Paul recasts covenant theophany as parousia.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 9:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'the Lord GOD will sound the trumpet' as the divine warrior appears closely matches 'with God's trumpet' at the Lord's descent. The eschatological trumpet of divine advent is shared.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Blow the trumpet in Zion... for the day of the LORD is coming' associates the trumpet blast with the day of the Lord, the framework for Paul's trumpet and parousia. Continues into 1 Thess 5's 'day of the Lord.'",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 27:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'a great trumpet will be blown' to gather the scattered to worship the LORD parallels the trumpet summoning the dead and living to meet the Lord. Eschatological-gathering trumpet motif.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Your dead shall live... awake and sing, you who dwell in the dust' is a primary OT resurrection text behind 'the dead in Christ will rise.' The awakening of the dead at the LORD's coming directly informs Paul's hope against grief.",
+        "contested": false
+      },
+      {
+        "source": "Micah 1:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'the LORD is coming forth out of his place, and will come down' provides the descent imagery of God leaving heaven to act, echoed in 'the Lord himself will descend from heaven.' Theophanic descent.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 47:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'God has gone up with a shout, the LORD with the sound of a trumpet' uniquely pairs a loud shout with a trumpet blast, the precise combination in 'with a shout... and with God's trumpet.' Direction is reversed (ascent vs. descent) but the acclamation imagery is striking.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 14:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'the LORD my God will come, and all the holy ones with him' parallels 'God will bring with him those who have fallen asleep' and the Lord's coming accompanied by his people. Often cited behind the parousia retinue.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 10:1-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The silver trumpets that summon the assembly and signal God's remembrance offer a cultic backdrop to the eschatological trumpet gathering the saints. Faint and thematic.",
+        "contested": true
+      },
+      {
+        "source": "Zephaniah 1:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'a day of trumpet blast' for the day of the LORD reinforces the trumpet-of-judgment-and-advent motif. Faint, part of the cluster of day-of-the-LORD trumpet texts.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 2:11",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Elijah's being 'taken up' bodily to heaven, like Enoch (Gen 5:24), figurally anticipates the living being 'caught up' to meet the Lord without death. Typological rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 5:24",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Enoch, who 'was not, for God took him,' prefigures the rapture of the living to be with the Lord forever. Faint figural precedent for translation without death.",
+        "contested": true
+      }
+    ]
+  }
+]

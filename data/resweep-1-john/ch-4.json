@@ -1,0 +1,226 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-6",
+    "echoes": [
+      {
+        "source": "Deuteronomy 13:1-5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The command to 'test the spirits' whether they are of God draws on the Deuteronomic protocol for evaluating a prophet or dreamer of dreams. There even a sign-working prophet must be rejected if he leads Israel after other gods, establishing doctrinal content (not wonders) as the test. John's many 'false prophets gone out into the world' echoes this category of the deceiving prophet.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:21-22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Deuteronomy supplies the explicit criterion for discerning a true from a false prophet ('how shall we know the word the LORD has not spoken?'). John reworks the prophetic-test tradition into a christological confession test, making confession of Jesus come in the flesh the discriminating mark.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 23:9-32",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jeremiah's oracle against the lying prophets who prophesy from their own hearts and not from the LORD undergirds John's warning that false prophets have gone out into the world and 'speak of the world.' The contrast between those who stood in the council of the LORD and those who speak a deceiving spirit parallels the spirit of truth versus the spirit of error.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 22:19-23",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Micaiah's vision of a 'lying spirit' put in the mouths of the prophets gives a scriptural precedent for a deceiving spirit operative in false prophecy. This stands behind John's distinction between the Spirit of God and the spirit of error/deception animating the false prophets.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 13:1-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The motif that testing exposes whether people love the LORD with whole heart frames the discernment of spirits as covenantal loyalty, faintly underlying John's 'whether they are of God.' Marked faint because John's criterion has shifted to christological confession.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.7",
+    "ch": 4,
+    "ref": "4:7-12",
+    "echoes": [
+      {
+        "source": "Exodus 34:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The declaration 'God is love' distills the self-revelation of the LORD as abounding in steadfast love (hesed). John's identification of love with God's very being is the climactic theological development of the Sinai name-formula proclaiming the LORD merciful, gracious, and abounding in lovingkindness.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'No one has seen God at any time' echoes the LORD's word to Moses, 'you cannot see my face, for no one can see me and live.' John takes the unseeability of God as a premise and resolves it through mutual love: the invisible God is made manifest when believers love one another.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "At Horeb Israel heard a voice but saw no form, reinforcing the unseeability of God that John presupposes in 'no one has seen God at any time.' The Deuteronomic insistence that no visible form accompanied the theophany feeds the Johannine claim that God is known not by sight but by abiding love.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 32:30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jacob's wonder at Peniel, 'I have seen God face to face, and yet my life is preserved,' is the counter-instance that John's absolute 'no one has seen God' engages and qualifies. The tradition of the perilous, near-impossible vision of God lies behind John's denial of any direct sight of God.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The sending of the Son 'as the atoning sacrifice (propitiation) for our sins' draws on the Day of Atonement ritual, where the blood of the sin offering and the scapegoat effect expiation before the LORD at the mercy seat (hilasterion). John casts Christ as the means of atonement fulfilling the Levitical kapporet.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:4-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God sending his Son as the atoning sacrifice 'for our sins' echoes the Servant who bore our griefs and was made an offering for sin, the righteous one making many righteous. The vicarious, sin-bearing logic of the Servant Song informs John's account of love defined by the Son sent as propitiation.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 7:7-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Not that we loved God, but that he loved us' restates the Deuteronomic ground of election: the LORD set his love on Israel not for any merit but because he loved them. The priority and gratuity of divine love that precedes any human response shapes John's theology of love originating wholly in God.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 11:1-4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Hosea's portrait of God's parental love drawing Israel with cords of human kindness and bands of love grounds John's claim that love is of God and that God first loved us. The tender, initiating love of the LORD for his child stands behind the manifestation of God's love in sending the Son.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I have loved you with an everlasting love; therefore with lovingkindness have I drawn you' parallels John's account of love revealed and originating in God. The everlasting, drawing love of the LORD in Jeremiah anticipates the divine love manifested in the sending of the Son.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Let us love one another' rests on the Holiness Code command to love your neighbor as yourself. John universalizes and intensifies the neighbor-love command, grounding mutual love in the divine nature itself.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 11:24",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You love all things that exist... for you would not have made anything if you had hated it' offers a deuterocanonical precedent for predicating love of God's very relation to creation. This anticipates John's bolder 'God is love.'",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.13",
+    "ch": 4,
+    "ref": "4:13-16",
+    "echoes": [
+      {
+        "source": "Joel 2:28-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Because he has given us of his Spirit' echoes the promise that God will pour out his Spirit on all flesh as the sign of his abiding presence in the last days. John reads the gift of the Spirit as evidence that believers remain in God and God in them.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will put my Spirit within you and cause you to walk in my statutes' grounds John's claim that we know we abide in God 'because he has given us of his Spirit.' The indwelling Spirit as token of covenant intimacy underlies the Johannine mutual-abiding language.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:6",
+        "type": "echo",
+        "confidence": "high",
+        "note": "The summary confession 'God is love' (repeated) again distills the LORD's self-naming as abounding in steadfast love. John makes the Sinai attribute the definitive predicate of the divine being in which the believer abides.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:10-12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'We have seen and testify' echoes the LORD's appointment of Israel as witnesses ('you are my witnesses... that I am God'). The covenantal vocation to testify to the one God shapes John's testimony that the Father sent the Son as Savior of the world.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 45:21-22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The Savior of the world' draws on Isaiah's proclamation of the LORD as the only righteous God and Savior, to whom all the ends of the earth are summoned. John extends this universal salvific scope to the Son sent by the Father.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "4.17",
+    "ch": 4,
+    "ref": "4:17-21",
+    "echoes": [
+      {
+        "source": "Proverbs 1:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'There is no fear in love; perfect love casts out fear' stands in deliberate tension with the wisdom maxim that the fear of the LORD is the beginning of knowledge. John transforms the servile fear of judgment into the boldness of perfected love, a development of the biblical fear-of-God tradition.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 17:11-12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'For fear is nothing but a surrender of the helps that come from reason' provides a deuterocanonical reflection on fear as torment and bondage, paralleling John's 'fear has punishment.' The depiction of fear as inner anguish anticipating judgment resonates with John's contrast of fear and perfected love.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 7:7-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'We love him, because he first loved us' restates the Deuteronomic priority of divine election-love that precedes and grounds any human love for God. The prevenient love of the LORD setting his affection on Israel before any response is the template for John's 'he first loved us.'",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:17-18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The charge against one who says 'I love God' yet hates his brother draws on the Holiness Code: 'you shall not hate your brother in your heart... you shall love your neighbor as yourself.' John binds love of God inseparably to love of the visible brother, fulfilling the neighbor command.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He who loves God should also love his brother' joins the Shema's command to love God with the whole heart to neighbor-love as a single commandment 'we have from him.' John reads the love of God of the Shema as inseparable from the love of brother required by the Holiness Code.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 116:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He is a liar' echoes the psalmist's 'all men are liars,' supplying the biblical category of the lie as a failure of covenant truthfulness. The brother-hater who claims love of God is exposed as a liar in the Johannine sense of one who does not do the truth.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 7:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prophetic insistence that true devotion to God is shown by mercy and not oppressing the brother resonates with John's argument that love of the unseen God must be embodied in love of the seen brother. Marked faint as a thematic rather than verbal parallel.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-2",
+    "echoes": [
+      {
+        "source": "Proverbs 24:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The charge to fear the LORD and the king, and not to join with the rebellious, stands behind Paul's instruction to be subject to rulers and authorities. The wisdom tradition links reverence for God with submission to civic authority, the same dual loyalty Titus urges.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 8:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Qoheleth counsels keeping the king's command, framed by an oath before God, mirroring the obedience to rulers Titus enjoins. The Septuagint vocabulary of obeying royal authority overlaps conceptually with subjection to those in power.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 29:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jeremiah's letter tells the exiles to seek the welfare of the city and pray for it, the model of constructive subjection to a pagan order. Titus' call to be ready for every good work toward all extends this exilic posture of civic good toward the surrounding society.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 16:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom literature counsels prudent, peaceable deference to those who hold power. The disposition of gentleness and avoidance of contention toward rulers echoes the sapiential ideal of pacifying authority.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 15:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "A soft answer turns away wrath underlies the exhortation to speak evil of no one and to be gentle, showing all humility. The sapiential ethic of gentle, non-contentious speech is the backdrop for these virtues.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:3",
+    "echoes": [
+      {
+        "source": "Genesis 3:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The confession that we were once deceived recalls the primal pattern of being led astray, the serpent's deception of Eve. The catalogue of human bondage to lust and malice traces back to the Edenic fall as the origin of disordered desire.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "All we like sheep have gone astray, each to his own way, lies behind the description of being deceived and serving various lusts. The motif of straying and being saved not by works but by mercy resonates with the Servant who bears wandering humanity.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 14:22-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Wisdom vice-list portrays idolaters living in malice, envy, deceit, and disordered passions, the same cluster Titus uses for the unredeemed past. Both texts diagnose pre-conversion humanity as enslaved to corrupt desire and mutual hatred born of false worship.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:4-7",
+    "echoes": [
+      {
+        "source": "Ezekiel 36:25-27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The new-covenant promise to sprinkle clean water for cleansing and to put a new spirit within stands directly behind the washing of regeneration and renewing by the Holy Spirit. The pairing of water-cleansing with Spirit-renewal is the structural template of Titus' soteriology.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:28-29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The promise that God will pour out his Spirit on all flesh underlies the statement that he poured out the Spirit on us richly. The verb of outpouring is the prophetic signature for the eschatological gift of the Spirit appropriated here.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 39:29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God's pledge that I have poured out my Spirit on the house of Israel reinforces the outpouring language of verse 6. The prophetic image of lavish Spirit-effusion grounds Paul's emphasis on the Spirit poured out richly.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 44:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "I will pour water on the thirsty and my Spirit on your offspring fuses water and Spirit exactly as Titus fuses the washing with the renewing of the Holy Spirit. The double pouring of water and Spirit is the prophetic matrix for the regenerating bath.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 51:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Purge me and I shall be clean, wash me and I shall be whiter than snow voices the cleansing-by-washing that Titus names the washing of regeneration. The penitential plea for inward purity prefigures the saving bath grounded in mercy, not works.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 51:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Create in me a clean heart and renew a right spirit within me supplies the language of renewal by the Spirit. The Davidic prayer joins cleansing and inward renewing precisely as Titus joins washing and renewing of the Holy Spirit.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "I will put my Spirit in you and you shall live undergirds the link between Spirit-indwelling and the hope of eternal life in verse 7. The vivifying gift of the Spirit that raises the dead nation prefigures regeneration unto life.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 19:17-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The ritual sprinkling of the water of purification to cleanse defilement informs the cultic background of the washing of regeneration. The Mosaic lustration provides the ceremonial idiom later spiritualized into the saving bath.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 63:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The recital of the LORD's lovingkindnesses and the multitude of his mercies frames God's saving action as kindness and love, echoed in the kindness of God our Savior and his love toward mankind. Salvation is grounded in covenant mercy rather than desert.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 34:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The self-revelation of the LORD as merciful, gracious, and abounding in steadfast love stands behind the appearance of the kindness and love of God who saves according to his mercy. The grace-formula of Sinai is the theological ground for salvation not by works.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 130:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "With the LORD is steadfast love and plenteous redemption colors the claim that salvation rests on mercy and issues in justification by grace. The psalm's hope in abundant redemption parallels the hope of eternal life made the believer's inheritance.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:32",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise that whoever calls on the name of the LORD shall be saved follows the Spirit-outpouring oracle and undergirds the language of being saved according to mercy. The Joel context links Spirit and salvation as Titus does.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.8",
+    "ch": 3,
+    "ref": "3:8-11",
+    "echoes": [
+      {
+        "source": "Proverbs 17:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The beginning of strife is like releasing water, so abandon a quarrel before it breaks out, undergirds the command to shun strife and disputes and to avoid the factious man. Wisdom counsels disengaging from contention before it spreads, as Titus instructs.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 20:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "It is to a man's honor to keep aloof from strife, while every fool is quick to quarrel, parallels the avoidance of foolish questionings and disputes. The sapiential praise of those who refrain from quarreling shapes Paul's verdict that strife is unprofitable and vain.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 26:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "As charcoal kindles fire, a contentious man kindles strife, illuminating the warning against the factious person who must be avoided. The wisdom portrait of the quarrel-feeder informs the directive to reject the divisive after two warnings.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 8:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ben Sira warns against contending with the powerful and against quarreling with the loud-mouthed and contentious, advice that parallels shunning disputes and the factious man. The deuterocanonical counsel to avoid futile contention reinforces Titus' rejection of vain wrangling.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 28:8-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Refrain from strife and you will lessen sins, for a hasty quarrel kindles fire, echoes the diagnosis that the factious man sins and is self-condemned. Ben Sira treats quarreling as sin-producing, matching the moral framing of strife as unprofitable and corrupting.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 17:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Conviction on the evidence of two or three witnesses, then purging the evil from the midst, lies behind the pattern of a first and second warning followed by rejecting the divisive person. The Mosaic procedure of repeated testimony then removal supplies the disciplinary template.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The requirement that a matter be established by two or three witnesses informs the first-and-second-warning structure preceding the rejection of the factious man. The legal norm of repeated attestation underlies the procedural fairness of two admonitions.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.12",
+    "ch": 3,
+    "ref": "3:12-15",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Aaronic blessing's bestowal of the LORD's grace and peace lies faintly behind the closing benediction, grace be with you all. The epistolary grace-greeting draws on the priestly tradition of invoking divine favor upon the congregation.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-2",
+    "echoes": [
+      {
+        "source": "Joel 2:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The eschatological 'day of the Lord' (here 'day of Christ/the Lord') that Paul corrects the Thessalonians about derives its weight from the prophetic Day-of-the-Lord tradition, of which Joel is a primary witness. Joel sounds the alarm that the day is near and dreadful.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'great and awesome day of the Lord' with cosmic signs feeds the apocalyptic timetable Paul is addressing. The Thessalonians' panic that the day had already come presupposes this prophetic frame.",
+        "contested": false
+      },
+      {
+        "source": "Amos 5:18-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Amos's reversal of the Day of the Lord into darkness rather than light is foundational to the NT's sober expectation of that day. Paul's warning against premature certainty draws on this prophetic gravity.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 1:14-15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Zephaniah's 'day of the Lord is near' with wrath and distress contributes to the prophetic Day-of-the-Lord matrix behind Paul's eschatology.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 13:6-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's 'day of the Lord' coming as destruction from the Almighty is part of the broad prophetic stream informing Paul's 'day of Christ.'",
+        "contested": true
+      },
+      {
+        "source": "Malachi 4:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The burning day of the Lord in Malachi belongs to the prophetic Day tradition that frames Paul's correction; faint and diffuse.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 27:12-13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's 'our gathering together to him' (episynagoge) echoes the prophetic hope of God gathering scattered Israel one by one at the trumpet. The ingathering of the elect is a stock eschatological motif rooted here.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The promise that the Lord will gather the dispersed from the ends of the heavens undergirds the eschatological 'gathering together to him.' This is the seedbed of the NT gathering-of-the-elect language.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 2:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zechariah's call to the scattered people belongs to the ingathering hope behind episynagoge; faint.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 50:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Gather my faithful ones to me' offers a verbal-conceptual parallel to the assembling of believers to the Lord, though Paul does not cite it.",
+        "contested": true
+      },
+      {
+        "source": "2 Maccabees 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The deuterocanonical hope that God will 'gather his people together' (episynagoge cognate) when mercy comes parallels Paul's gathering-to-him language. Possible shared eschatological idiom.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:3-4",
+    "echoes": [
+      {
+        "source": "Daniel 11:36",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The man of sin who 'opposes and exalts himself against all that is called God' closely tracks Daniel's king who 'shall do as he wills, exalt himself above every god, and speak astonishing things against the God of gods.' This is the principal scriptural template for the figure.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 11:31",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Daniel's profanation of the sanctuary and setting up the abomination underlies Paul's 'sits as God in the temple of God.' The desecration-of-the-temple motif is drawn directly from Daniel's depiction of the eschatological tyrant.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'abomination that makes desolate' set up in the temple grounds Paul's image of the lawless one seating himself in God's temple. Daniel's desolating abomination is the prototype of the temple usurpation.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 9:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The covenant-breaker who sets the abomination on a wing of the temple feeds the temple-defilement element of Paul's portrait of the man of lawlessness.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The little horn that 'speaks words against the Most High' and exalts itself supplies the blasphemous self-deification of the man of sin.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 8:9-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The little horn that grows great, casts down the host, magnifies itself against the prince and takes away the regular sacrifice prefigures the lawless one's assault on God and his sanctuary.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 8:25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The horn that magnifies himself and 'rises up against the Prince of princes' contributes to the self-exalting opposition to God that defines the man of lawlessness.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 28:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The prince of Tyre who says 'I am a god, I sit in the seat of gods' is a close conceptual and verbal parallel to the man of sin 'setting himself up as God' and sitting in God's temple. The blasphemous claim to deity and the enthroned posture both resonate.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 14:13-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The king of Babylon's boast, 'I will ascend... I will make myself like the Most High,' is a primary source for the self-exaltation of the man of lawlessness 'against all that is called God.' The hubristic ascent against the divine is the shared core.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 28:6-9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The rebuke that the self-deifying prince is 'a man and not a god' continues the Tyre oracle's exposure of blasphemous self-deification, paralleling the man of sin's pretension to godhood.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 11:37",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The king who 'pays no heed to any god, for he magnifies himself above all' extends the self-exaltation directly behind Paul's description of opposition to every object of worship.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 8:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The rise of a bold king 'when transgressors have reached their full measure' may inform Paul's sequence of the rebellion/apostasy preceding the lawless one's revelation.",
+        "contested": true
+      },
+      {
+        "source": "1 Maccabees 1:54",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Antiochus's setting up of the 'abomination of desolation' on the altar is the historical realization of Daniel's prophecy and a deuterocanonical witness to the temple-desecration imagery behind Paul's man of sin.",
+        "contested": false
+      },
+      {
+        "source": "1 Maccabees 1:43",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wider Maccabean apostasy narrative, where many abandon the law, can stand behind Paul's 'departure/rebellion' that comes first; faint and analogical.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:5-7",
+    "echoes": [
+      {
+        "source": "Habakkuk 2:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The vision that 'awaits its appointed time' and will not delay may inform Paul's notion of the lawless one being revealed 'in his own season' and the present restraint. Conceptual parallel of an appointed eschatological moment.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 11:35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's testing 'until the time of the end, for it is yet for the appointed time' parallels the idea that the revelation of the lawless one waits for its set season.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 11:36",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The clause 'till the indignation is accomplished, for what is determined shall be done' supplies a sense of restraint until an appointed limit, paralleling Paul's restrainer holding back until the set time.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:8-10",
+    "echoes": [
+      {
+        "source": "Isaiah 11:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The Lord will kill with the breath of his mouth' draws almost verbatim on the messianic ruler who 'with the breath of his lips shall kill the wicked.' Paul applies Isaiah's portrait of the slaying breath of the Branch directly to Christ's destruction of the lawless one.",
+        "contested": false
+      },
+      {
+        "source": "Job 4:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'By the breath of God they perish, and by the blast of his anger they are consumed' parallels destruction by the divine breath. A complementary source for the slaying-breath image.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 30:27-28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Lord's breath like an overflowing stream and devouring fire executing judgment resonates with destruction by the breath of his mouth; faint.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 30:33",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The breath of the Lord kindling the pyre for the king (Topheth) parallels the breath that destroys the eschatological tyrant.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 33:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'By the breath of his mouth all the host' were made; here the same creative-destroying breath of the mouth is turned to judgment. Verbal echo of 'breath of his mouth.'",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 13:1-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The false prophet who performs 'signs and wonders' to lead people astray, sent as a test, closely informs the lawless one's coming 'with all power and signs and lying wonders' and the resulting deception. Deuteronomy's framework of God permitting deceptive signs to test loyalty is foundational.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 7:11-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Pharaoh's magicians counterfeiting Moses' signs is the paradigm of 'lying wonders' opposing God's truth, standing behind Satan's deceptive power in the lawless one.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 7:22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The magicians replicating the sign 'by their secret arts,' hardening resistance to God, parallels the counterfeit signs that deceive those who reject the truth.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 8:24-25",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The horn that destroys 'by his cunning' and prospers through deceit parallels the lawless one operating with deception and false wonders.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "2.5",
+    "ch": 2,
+    "ref": "2:11-12",
+    "echoes": [
+      {
+        "source": "Isaiah 6:9-10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God's judicial hardening so that the people hear but do not understand underlies Paul's 'God sends them a working of error, that they should believe a lie.' The motif of divinely-sent blindness on those who reject truth is central.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Lord pouring out a 'spirit of deep sleep,' closing eyes, parallels the strong delusion God sends so that they believe what is false. Judicial stupefaction is the shared idea.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 22:22-23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'lying spirit' the Lord puts in the mouth of the prophets to entice Ahab to his doom is a close parallel to God sending a 'working of error' so they believe a lie unto judgment. God's sovereign use of deception against the condemned is the shared logic.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 14:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'If the prophet is deceived... I the Lord have deceived that prophet' supplies the same theology of divinely-sent delusion upon those who turn from God, directly paralleling Paul's God-sent error.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 18:21-22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The parallel account of the lying spirit permitted by the Lord to deceive Ahab's prophets reinforces the source for God sending a delusion that leads to judgment.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:21",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Lord hardening Pharaoh's heart so he will not believe parallels God sending a working of error so that they believe the lie and are condemned. The Pharaoh-hardening pattern stands behind judicial delusion.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 7:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will harden Pharaoh's heart' continues the hardening motif that informs the God-sent delusion upon unbelievers; faint and analogical.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 44:18-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The idolaters whose eyes are shut so they cannot understand, feeding on ashes and a 'deluded heart,' parallels those who believe the lie; faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.6",
+    "ch": 2,
+    "ref": "2:13-15",
+    "echoes": [
+      {
+        "source": "Deuteronomy 7:6-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God 'chose you' not for your numbers but in love is the election language behind 'God chose you from the beginning for salvation.' Paul transposes Israel's election to the believing community.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 26:18-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Lord taking Israel as his treasured, holy people set high for praise and glory parallels the choosing for salvation and obtaining glory. The covenant-election frame with firstfruits context (Deut 26) resonates.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 26:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "A textual variant of v.13 reads 'as firstfruits' (aparchen) rather than 'from the beginning'; the firstfruits offering commanded here would then stand behind believers chosen as firstfruits for salvation.",
+        "contested": true,
+        "altSource": "Exodus 23:19"
+      },
+      {
+        "source": "Jeremiah 2:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Israel as 'the firstfruits of his harvest, holy to the Lord' parallels the firstfruits-for-salvation reading of v.13. Supports the variant in which believers are God's elect firstfruits.",
+        "contested": true,
+        "altSource": "Deuteronomy 26:10"
+      },
+      {
+        "source": "Deuteronomy 14:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The Lord has chosen you to be a people for his treasured possession' reinforces the election language behind God's choosing the Thessalonians for salvation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 41:8-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Israel, my chosen... I have chosen you and not cast you off' parallels Paul's 'God chose you... for salvation' through calling. The prophetic election-and-call pattern is applied to the church.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:26-27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise of a new spirit causing the people to walk in God's statutes parallels 'sanctification of the Spirit' as the means of salvation; faint and conceptual.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 20:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Consecrate yourselves... I am the Lord who sanctifies you' parallels sanctification as God's work in setting apart his people; faint.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 14:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Stand firm and see the salvation of the Lord' offers a verbal-conceptual parallel to Paul's exhortation to 'stand firm,' though Paul's idiom is broadly Septuagintal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.7",
+    "ch": 2,
+    "ref": "2:16-17",
+    "echoes": [
+      {
+        "source": "Isaiah 51:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I, I am he who comforts you' lies behind 'God our Father... who gave us eternal comfort.' The divine self-designation as the comforter of his people resonates with Paul's benediction.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Comfort, comfort my people' establishes the prophetic theme of divine consolation that informs 'eternal comfort and good hope.'",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Lord has comforted his people' continues the Isaianic consolation motif behind God's gift of eternal comfort; faint.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 66:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As one whom his mother comforts, so I will comfort you' parallels the divine comfort Paul invokes; faint.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 112:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'His heart is established/steady' parallels the prayer that God 'establish your hearts.' A possible Septuagintal verbal echo (sterizo/heart).",
+        "contested": true
+      }
+    ]
+  }
+]

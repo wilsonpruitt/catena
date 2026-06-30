@@ -1,0 +1,57 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-2",
+    "echoes": [
+      { "source": "Proverbs 10:19", "type": "allusion", "confidence": "medium", "note": "James's warning that teachers face a heavier judgment and that the one who does not stumble in word is perfect rests on the wisdom axiom that 'when words are many, transgression is not lacking.' Volume is conceptual rather than verbal, but the coherence with James's whole tongue-theme is high.", "contested": false },
+      { "source": "Sirach 14:1", "type": "echo", "confidence": "medium", "note": "Ben Sira's beatitude, 'Blessed is the one who does not blunder with his lips,' is the nearest Second-Temple parallel to 'if anyone does not stumble in word, he is a perfect man.' Recurrence in the sapiential stream James draws on raises the confidence.", "contested": true }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:3-5",
+    "echoes": [
+      { "source": "Psalm 39:1", "type": "allusion", "confidence": "high", "note": "The image of bridling the mouth/body is voiced in the Psalter: 'I will guard my ways, that I may not sin with my tongue; I will bridle my mouth.' James reuses the same controlling-the-tongue metaphor that the psalm applies to speech, transferring it to the bit-and-bridle figure.", "contested": false },
+      { "source": "Psalm 32:9", "type": "allusion", "confidence": "medium", "note": "The horse curbed with bit and bridle so it will not stray is the psalm's image for the need of restraint; James literalizes it ('we put bits into the horses' mouths') to argue the small member governs the whole body.", "contested": false }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:6-8",
+    "echoes": [
+      { "source": "Sirach 28:13-26", "type": "allusion", "confidence": "high", "note": "Ben Sira's extended denunciation of 'the third tongue' that 'has destroyed strong cities' and is a scourge of fire is the closest antecedent to James's 'the tongue is a fire… a restless evil.' The shared fire-imagery and the theme of the untamable, ruinous tongue make this the controlling Second-Temple subtext.", "contested": false },
+      { "source": "Proverbs 16:27", "type": "allusion", "confidence": "medium", "note": "'A worthless man… his speech is like a scorching fire' supplies the proverbial root of James's tongue-as-fire. The volume is moderate but the figure is distinctive.", "contested": false },
+      { "source": "Psalm 140:3", "type": "allusion", "confidence": "high", "note": "'They make their tongue sharp as a serpent's; adder's poison is under their lips' stands behind James's 'full of deadly poison.' The pairing of the tongue with serpent venom is rare enough to mark a genuine echo.", "contested": false },
+      { "source": "Psalm 120:2-4", "type": "echo", "confidence": "low", "note": "The deceitful tongue answered with 'glowing coals of the broom tree' shares the tongue-and-fire association, a fainter contributory echo.", "contested": true },
+      { "source": "Genesis 1:28", "type": "echo", "confidence": "low", "note": "'Every kind of animal, bird, creeping thing, and sea creature is tamed by mankind' recalls the creation grant of dominion over the beasts; James turns the trope ironically — humanity tames the beasts but cannot tame its own tongue.", "contested": true }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:9-12",
+    "echoes": [
+      { "source": "Genesis 1:26-27", "type": "allusion", "confidence": "high", "note": "Cursing 'men, who are made in the image of God' depends directly on the creation of humanity in God's image; the inconsistency of blessing God and cursing his image-bearers is the moral force of the passage.", "contested": false },
+      { "source": "Genesis 5:1", "type": "echo", "confidence": "medium", "note": "'In the likeness of God he made him' reinforces the image-of-God ground; Genesis 9:6 ('whoever sheds man's blood… for God made man in his own image') is the same principle applied to harming the image-bearer.", "contested": false, "altSource": "Genesis 9:6" },
+      { "source": "Sirach 27:6", "type": "allusion", "confidence": "medium", "note": "'The fruit discloses the cultivation of a tree; so the expression of a thought discloses the heart' is the sapiential source of James's fig-tree/vine and spring analogies, where the source determines the fruit.", "contested": false },
+      { "source": "Proverbs 18:21", "type": "echo", "confidence": "low", "note": "'Death and life are in the power of the tongue' undergirds the blessing-and-cursing antithesis as a faint background echo.", "contested": true }
+    ]
+  },
+  {
+    "id": "3.5",
+    "ch": 3,
+    "ref": "3:13-18",
+    "echoes": [
+      { "source": "Wisdom 7:22-30", "type": "allusion", "confidence": "high", "note": "The catalog of wisdom's qualities — 'intelligent, holy, … pure, … beneficent, … unhampered' — is the closest model for James's 'wisdom from above is first pure, then peaceable, gentle… full of mercy and good fruits, impartial and sincere.' The list-form and the heavenly origin of wisdom align closely.", "contested": false },
+      { "source": "Proverbs 2:6", "type": "allusion", "confidence": "medium", "note": "'The Lord gives wisdom; from his mouth come knowledge and understanding' grounds James's distinction of a wisdom that 'comes down from above' against an earthly counterfeit.", "contested": false },
+      { "source": "Isaiah 32:17", "type": "allusion", "confidence": "high", "note": "'The effect of righteousness will be peace' stands directly behind 'the fruit of righteousness is sown in peace by those who make peace,' linking righteousness and shalom as James does.", "contested": false },
+      { "source": "Hosea 10:12", "type": "allusion", "confidence": "high", "note": "'Sow for yourselves righteousness; reap steadfast love' supplies the agricultural metaphor of sowing-and-reaping righteousness that James applies to peacemakers.", "contested": false },
+      { "source": "Proverbs 11:18", "type": "echo", "confidence": "medium", "note": "'One who sows righteousness gets a sure reward' (cf. 11:30, 'the fruit of the righteous is a tree of life') reinforces the harvest-of-righteousness figure.", "contested": false, "altSource": "Proverbs 11:30" },
+      { "source": "Sirach 1:1-10", "type": "echo", "confidence": "medium", "note": "Ben Sira's teaching that all wisdom is from the Lord and poured out on the faithful is the wider sapiential horizon for James's heavenly wisdom.", "contested": true },
+      { "source": "Amos 6:12", "type": "echo", "confidence": "low", "note": "Amos's complaint that the people 'have turned justice into poison and the fruit of righteousness into wormwood' is the prophetic inverse of James's peaceful harvest of righteousness — a faint contrastive echo.", "contested": true }
+    ]
+  }
+]

@@ -1,0 +1,1751 @@
+{
+  "slug": "1-timothy",
+  "name": "1 Timothy",
+  "subtitle": "An Order Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "Written to order the household of God, this letter measures the church against Scripture — the law laid down not for the righteous but the lawless, the one God and the one mediator, the overseer above reproach, the elders worthy of double honor on the principle that you shall not muzzle the ox. Its instructions on prayer, money, widows, and sound teaching rest on the wisdom and the law of Israel, and its confession of godliness reads like a hymn. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where the writer follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-2",
+      "text": "Paul, an apostle of Christ Jesus according to the commandment of God our Savior, and Christ Jesus our hope; to Timothy, my true child in faith: Grace, mercy, and peace, from God our Father and Christ Jesus our Lord.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 32:15",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "But Jeshurun grew fat, and kicked. You have grown fat. You have grown thick. You have become sleek. Then he abandoned God who made him, and rejected the Rock of his salvation.",
+          "note": "The title 'God our Savior' draws on the Septuagintal designation of YHWH as the saving God, where Israel forgot 'God his Savior.' Paul transfers the covenantal epithet for God to the gospel framing of the letter. The phrase recurs through 1 Timothy and is rooted in OT salvation language."
+        },
+        {
+          "source": "Psalm 25:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Guide me in your truth, and teach me, For you are the God of my salvation, I wait for you all day long.",
+          "note": "'God our Savior' echoes the Psalter's repeated address to the LORD as 'God of my salvation,' grounding the apostolic greeting in Israel's confession. The link is thematic rather than verbal. Marked low/contested as the title is a general OT topos.",
+          "contested": true,
+          "altSource": "Isaiah 12:2"
+        },
+        {
+          "source": "Numbers 6:25-26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.’",
+          "note": "The triadic blessing 'grace, mercy, and peace' expands the Aaronic benediction, which invokes the LORD's favor (grace) and peace upon Israel. Paul's epistolary greeting Christianizes the priestly blessing. The added 'mercy' reflects OT covenant-mercy vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:3-7",
+      "text": "As I urged you when I was going into Macedonia, stay at Ephesus that you might command certain men not to teach a different doctrine, neither to pay attention to myths and endless genealogies, which cause disputes, rather than God’s stewardship, which is in faith— but the goal of this command is love, out of a pure heart and a good conscience and sincere faith; from which things some, having missed the mark, have turned aside to vain talking; desiring to be teachers of the law, though they understand neither what they say, nor about what they strongly affirm.",
+      "echoes": [
+        {
+          "source": "Genesis 5:1",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "This is the book of the generations of Adam. In the day that God created man, he made him in God’s likeness.",
+          "note": "The warning against 'endless genealogies' presupposes the OT genealogical literature (the toledoth lists of Genesis) that later speculative interpreters elaborated. Paul rejects the misuse of such material for fruitless dispute. The genealogies of Genesis are the textual seedbed of the practice opposed.",
+          "contested": true,
+          "altSource": "1 Chronicles 1-9"
+        },
+        {
+          "source": "Jubilees 8:1-9:15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "The 'myths and endless genealogies' likely targets Second Temple genealogical embellishments like those reworking Genesis lineages in Jubilees. Paul opposes this haggadic expansion of the patriarchal lists. Cited as a pseudepigraphal parallel illustrating the practice, not a direct source.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 24:4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He who has clean hands and a pure heart; who has not lifted up his soul to falsehood, and has not sworn deceitfully.",
+          "note": "The goal of the charge, 'love out of a pure heart,' draws on the cultic ideal of the one with 'clean hands and a pure heart' who may ascend the LORD's hill. Paul makes inward purity the aim of sound teaching. The phrase 'pure heart' is a direct OT moral-cultic category."
+        },
+        {
+          "source": "Psalm 51:10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Create in me a clean heart, O God. Renew a right spirit within me.",
+          "note": "'A pure heart' echoes David's penitential plea, 'Create in me a clean heart, O God.' The renewed, purified heart is the locus of the love that fulfills the law. Paul presupposes this OT theology of inward cleansing."
+        },
+        {
+          "source": "Leviticus 19:18",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "Naming love as the 'goal' of the commandment recalls the Torah's own summary command to love the neighbor, which the NT treats as the law's fulfillment. The teachers of the law have missed the law's true telos. The echo grounds Paul's contrast between love and vain dispute."
+        },
+        {
+          "source": "Deuteronomy 6:5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "You shall love Yahweh your God with all your heart, with all your soul, and with all your might.",
+          "note": "Love as the aim of the divine charge resonates with the Shema's command to love God wholeheartedly, the foundational Torah demand. Paul recasts the would-be law-teachers' failure as missing this central love. A thematic echo undergirding the love/law relationship.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "ch": 1,
+      "ref": "1:8-11",
+      "text": "But we know that the law is good, if a man uses it lawfully, as knowing this, that law is not made for a righteous man, but for the lawless and insubordinate, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for man slayers, for the sexually immoral, for homosexuals, for slave-traders, for liars, for perjurers, and for any other thing contrary to the sound doctrine; according to the Good News of the glory of the blessed God, which was committed to my trust.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 4:8",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "What great nation is there, that has statutes and ordinances so righteous as all this law, which I set before you this day?",
+          "note": "The affirmation 'the law is good' echoes Moses' praise of Israel's righteous statutes as a unique gift among the nations. Paul affirms the law's goodness while qualifying its proper use. The OT background secures the positive valuation of Torah."
+        },
+        {
+          "source": "Psalm 19:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh’s law is perfect, restoring the soul. Yahweh’s testimony is sure, making wise the simple.",
+          "note": "'The law is good' recalls the Psalter's celebration of the LORD's law as perfect, reviving the soul. Paul presumes this OT confession of the law's intrinsic goodness even as he restricts its application. A thematic echo of Torah-piety.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 20:12-16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you. “You shall not murder. “You shall not commit adultery. “You shall not steal. “You shall not give false testimony against your neighbor.",
+          "note": "The vice list of vv. 9-10 tracks the second table of the Decalogue in order: dishonoring parents, killing, sexual sin, stealing (men-stealing), false witness. Paul structures the catalogue of the lawless on the Ten Commandments. The Exodus Decalogue is the organizing template."
+        },
+        {
+          "source": "Deuteronomy 5:16-20",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Honor your father and your mother, as Yahweh your God commanded you; that your days may be long, and that it may go well with you, in the land which Yahweh your God gives you. “You shall not murder. “You shall not commit adultery. “You shall not steal. “You shall not give false testimony against your neighbor.",
+          "note": "The Deuteronomic recension of the Decalogue equally underlies the vice list's sequence (honor parents, no killing, no adultery, no stealing, no false witness). Paul's catalogue mirrors this commandment order. Cited alongside Exodus 20 as the dual Decalogue source."
+        },
+        {
+          "source": "Exodus 21:15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Anyone who attacks his father or his mother shall be surely put to death.",
+          "note": "'Murderers of fathers and mothers' specifically reflects the capital statute against one who strikes father or mother, an intensification of the fifth commandment. Paul names the most flagrant breakers of the parent-honoring command. The Covenant Code furnishes the exact category."
+        },
+        {
+          "source": "Exodus 21:16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Anyone who kidnaps someone and sells him, or if he is found in his hand, he shall surely be put to death.",
+          "note": "'Slave-traders' (men-stealers) corresponds to the capital law against one who steals and sells a person, the concrete form of the prohibition against stealing. Paul places kidnapping/enslaving at the stealing slot of the Decalogue sequence. The Exodus statute is the legal source."
+        },
+        {
+          "source": "Deuteronomy 24:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "If a man is found stealing any of his brothers of the children of Israel, and he deals with him as a slave, or sells him; then that thief shall die. So you shall remove the evil from your midst.",
+          "note": "The man-stealer/slave-trader echoes the Deuteronomic capital law against kidnapping a fellow Israelite to enslave or sell him. This grounds the 'enslavers' entry in the vice list. Cited with Exodus 21:16 as the Torah basis for condemning man-stealing."
+        },
+        {
+          "source": "Leviticus 18:22",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“‘You shall not lie with a man, as with a woman. That is detestable.",
+          "note": "'The sexually immoral, homosexuals' draws on the Holiness Code's prohibition of male same-sex intercourse as part of the sexual-purity legislation behind the adultery commandment. Paul's term reflects the Septuagint phrasing of this statute. The Levitical law informs the vocabulary."
+        },
+        {
+          "source": "Leviticus 20:13",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“‘If a man lies with a male, as with a woman, both of them have committed an abomination: they shall surely be put to death; their blood shall be upon them.",
+          "note": "The condemnation of homosexual practice also echoes the parallel capital statute of the Holiness Code. The Septuagint wording of these verses is widely held to underlie the NT compound term rendered 'homosexuals.' A lexical echo of Levitical purity law."
+        },
+        {
+          "source": "Leviticus 19:11-12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“‘You shall not steal. “‘You shall not lie. “‘You shall not deceive one another. “‘You shall not swear by my name falsely, and profane the name of your God. I am Yahweh.",
+          "note": "'Liars and perjurers' reflects the Holiness Code's paired prohibitions against lying to one another and swearing falsely by God's name, expressions of the false-witness and name-misuse commandments. Paul groups deceit and false oaths together as the law does. The Levitical statutes shape the entry."
+        },
+        {
+          "source": "Exodus 20:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“You shall not take the name of Yahweh your God in vain, for Yahweh will not hold him guiltless who takes his name in vain.",
+          "note": "'Perjurers' specifically transgress the commandment against taking the LORD's name in vain by false swearing. Paul's inclusion of oath-breakers reaches back to the third commandment. A targeted echo of the Decalogue's name-honoring command.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "ch": 1,
+      "ref": "1:12-17",
+      "text": "And I thank him who enabled me, Christ Jesus our Lord, because he counted me faithful, appointing me to service; although I was before a blasphemer, a persecutor, and insolent. However, I obtained mercy, because I did it ignorantly in unbelief. The grace of our Lord abounded exceedingly with faith and love which is in Christ Jesus. The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners; of whom I am chief. However, for this cause I obtained mercy, that in me first, Jesus Christ might display all his patience, for an example of those who were going to believe in him for eternal life. Now to the King eternal, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen.",
+      "echoes": [
+        {
+          "source": "Exodus 34:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh passed by before him, and proclaimed, “Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth,",
+          "note": "Paul's repeated 'I obtained mercy' draws on the LORD's self-revelation as merciful and gracious, slow to anger, the foundational OT confession of divine compassion. The mercy shown to the chief of sinners enacts this character of God. Exodus 34:6 is the wellspring of biblical mercy language."
+        },
+        {
+          "source": "Hosea 2:23",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I will sow her to me in the earth; and I will have mercy on her who had not obtained mercy; and I will tell those who were not my people, ‘You are my people;’ and they will say, ‘My God!’”",
+          "note": "Receiving mercy as one formerly outside it echoes Hosea's reversal where 'not pitied' becomes 'pitied' and the unloved become God's people. Paul the persecutor is the paradigm of unexpected mercy. The Hosea motif of mercy granted to the undeserving stands behind the testimony."
+        },
+        {
+          "source": "Psalm 86:15",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "But you, Lord, are a merciful and gracious God, slow to anger, and abundant in loving kindness and truth.",
+          "note": "Paul's mercy receives its texture from the Psalter's restatement of the Exodus 34 formula, 'a God merciful and gracious, abounding in steadfast love.' The grace that 'abounded exceedingly' resonates with this superabundant covenant mercy. A liturgical echo of the divine attributes.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 145:13",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. Yahweh is faithful in all his words, and loving in all his deeds.",
+          "note": "The doxology to 'the King eternal' draws on the Psalter's praise that 'your kingdom is an everlasting kingdom' and the LORD's dominion endures through all generations. Paul ascribes timeless kingship to the only God. Psalm 145 supplies the eternal-king acclamation."
+        },
+        {
+          "source": "Exodus 15:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh shall reign forever and ever.”",
+          "note": "'The King eternal' echoes the climactic acclamation of the Song of the Sea, 'The LORD shall reign forever and ever.' Paul's doxology takes up Israel's primal confession of God's everlasting reign. The Exodus hymn underlies the 'forever and ever' of the praise."
+        },
+        {
+          "source": "Deuteronomy 4:12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh spoke to you out of the midst of the fire: you heard the voice of words, but you saw no form; you only heard a voice.",
+          "note": "Calling God 'invisible' recalls Sinai, where Israel heard the voice but 'saw no form,' the basis of OT aniconism. Paul affirms the unseeable nature of the only God. Deuteronomy's no-form theology grounds the predicate 'invisible.'"
+        },
+        {
+          "source": "Deuteronomy 6:4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Hear, Israel: Yahweh is our God. Yahweh is one.",
+          "note": "'The only God' (God who alone is wise / only God) is the Shema's confession that the LORD is one. Paul's monotheistic doxology rests on Israel's foundational creed. The Shema secures the 'only God' acclamation."
+        },
+        {
+          "source": "Daniel 6:26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I make a decree, that in all the dominion of my kingdom men tremble and fear before the God of Daniel; for he is the living God, and steadfast forever, His kingdom that which shall not be destroyed; and his dominion shall be even to the end.",
+          "note": "Darius's decree that God 'is the living God, enduring forever; his kingdom shall never be destroyed' parallels Paul's praise of the King eternal and immortal. The Aramaic court tale supplies a Gentile confession of the everlasting, deathless God. A close conceptual model for the doxology."
+        },
+        {
+          "source": "Tobit 13:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "And Tobit wrote a prayer for rejoicing, and said, “Blessed is God who lives forever! Blessed is his kingdom!",
+          "note": "Tobit's hymn, 'Blessed be God who lives forever, for his kingdom lasts throughout all ages,' parallels the doxology's eternal, immortal King. The deuterocanonical doxology shares Paul's vocabulary of everlasting divine reign. Cited as a Second Temple liturgical analogue.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 18:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He that lives forever created all things in common.",
+          "note": "'He who lives forever created all things together' offers a deuterocanonical parallel to ascribing eternity and sole deity to God. The wisdom tradition's praise of the everliving Creator stands near Paul's doxology. A faint thematic echo from Second Temple piety.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 1:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Come now, and let us reason together,” says Yahweh: “Though your sins be as scarlet, they shall be as white as snow. Though they be red like crimson, they shall be as wool.",
+          "note": "'Christ came to save sinners' resonates with the prophetic invitation in which scarlet sins are made white as snow, the OT promise of cleansing for the guilty. Paul as foremost sinner receives this promised pardon. A contested thematic echo of prophetic forgiveness.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 1:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Unless Yahweh of Armies had left to us a very small remnant, we would have been as Sodom; we would have been like Gomorrah.",
+          "note": "Paul's self-identification as 'foremost' of sinners yet shown mercy recalls the prophetic remnant spared by the LORD's grace despite Sodom-like guilt. The pattern of mercy preserving the unworthy underlies the testimony. Marked low as a diffuse echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:18-20",
+      "text": "This instruction I commit to you, my child Timothy, according to the prophecies which led the way to you, that by them you may wage the good warfare; holding faith and a good conscience; which some having thrust away made a shipwreck concerning the faith; of whom is Hymenaeus and Alexander; whom I delivered to Satan, that they might be taught not to blaspheme.",
+      "echoes": [
+        {
+          "source": "Job 2:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh said to Satan, “Behold, he is in your hand. Only spare his life.”",
+          "note": "Handing Hymenaeus and Alexander 'over to Satan' so they may be disciplined echoes the LORD's delivering of Job into Satan's power within set limits for a corrective end. The motif of God permitting satanic affliction for a purpose informs the disciplinary act. Job supplies the pattern of a measured handing-over."
+        },
+        {
+          "source": "Job 1:12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh said to Satan, “Behold, all that he has is in your power. Only on himself don’t stretch out your hand.” So Satan went out from the presence of Yahweh.",
+          "note": "The handing of the blasphemers to Satan also recalls the first heavenly grant, where the LORD places Job's possessions in Satan's hand. The bounded delegation of the accuser's power undergirds Paul's act of church discipline. A secondary echo of the Job prologue.",
+          "contested": true
+        },
+        {
+          "source": "Zechariah 3:1-2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He showed me Joshua the high priest standing before Yahweh’s angel, and Satan standing at his right hand to be his adversary. Yahweh said to Satan, “Yahweh rebuke you, Satan! Yes, Yahweh who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”",
+          "note": "The figure of Satan as adversary against whom the LORD rebukes and from whom a 'brand' is plucked offers an OT backdrop to delivering offenders to Satan for their ultimate restoration. The corrective rather than destructive aim parallels Paul's intent. A contested figural echo.",
+          "contested": true
+        },
+        {
+          "source": "1 Samuel 17:47",
+          "type": "echo",
+          "confidence": "low",
+          "text": "and that all this assembly may know that Yahweh doesn’t save with sword and spear: for the battle is Yahweh’s, and he will give you into our hand.”",
+          "note": "The exhortation to 'wage the good warfare' draws on the OT theme of the LORD's battle, where 'the battle is the LORD's,' transposed into spiritual struggle. Timothy's fight is framed by Israel's holy-war language. A faint metaphorical echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "ch": 2,
+      "ref": "2:1-7",
+      "text": "I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks, be made for all men: for kings and all who are in high places; that we may lead a tranquil and quiet life in all godliness and reverence. For this is good and acceptable in the sight of God our Savior; who desires all people to be saved and come to full knowledge of the truth. For there is one God, and one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all; the testimony in its own times; to which I was appointed a preacher and an apostle (I am telling the truth in Christ, not lying), a teacher of the Gentiles in faith and truth.",
+      "echoes": [
+        {
+          "source": "Jeremiah 29:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Seek the peace of the city where I have caused you to be carried away captive, and pray to Yahweh for it; for in its peace you shall have peace.",
+          "note": "Paul's directive to pray for kings and all in high places that believers may lead a tranquil life echoes Jeremiah's letter urging the exiles to seek the welfare of Babylon and pray to the LORD for it, because in its peace they will find peace. Both texts ground intercession for pagan rulers in the community's own well-being under foreign power. The logic of praying for the governing authority's order so that God's people may flourish is structurally identical."
+        },
+        {
+          "source": "Ezra 6:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "that they may offer sacrifices of pleasant aroma to the God of heaven, and pray for the life of the king, and of his sons.",
+          "note": "The Persian decree provides for sacrifices and prayers 'for the life of the king and his sons,' a precedent for the synagogue practice of intercession for the ruling power that Paul commends to the church. This institutionalized prayer for the Gentile monarch stands behind the apostolic instruction. The continuity of Jewish intercession for kings informs the exhortation."
+        },
+        {
+          "source": "Baruch 1:11-12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "and pray for the life of Nabuchodonosor king of Babylon, and for the life of Baltasar his son, that their days may be as the days of heaven above the earth: and the Lord will give us strength, and lighten our eyes, and we shall live under the shadow of Nabuchodonosor king of Babylon, and under the shadow of Baltasar his son, and we shall serve them many days, and find favor in their sight.",
+          "note": "Baruch directs prayer for the life of Nebuchadnezzar and his son Belshazzar, that the exiles may live under their shadow and find favor, mirroring the petition for kings so believers can live quietly. The deuterocanonical text models the very practice of interceding for a foreign sovereign's reign for the sake of the people's peace. It is a close conceptual parallel to verses 1-2."
+        },
+        {
+          "source": "Proverbs 21:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The king’s heart is in Yahweh’s hand like the watercourses. He turns it wherever he desires.",
+          "note": "The conviction that the king's heart is a watercourse in the LORD's hand, turned wherever he wills, undergirds the rationale for praying for rulers: God can move them toward conditions of peace. Paul's confidence that prayer for kings yields a tranquil life presupposes divine sovereignty over rulers. The link is thematic rather than verbal and is faint.",
+          "contested": true
+        },
+        {
+          "source": "Ezekiel 18:23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Have I any pleasure in the death of the wicked? says the Lord Yahweh; and not rather that he should return from his way, and live?",
+          "note": "God's declared desire that all be saved and come to knowledge of the truth echoes the LORD's protest that he takes no pleasure in the death of the wicked but desires that they turn and live. Both passages assert a universal divine will for life and salvation rather than condemnation. Verse 32 of the same chapter reinforces this with the appeal to turn and live."
+        },
+        {
+          "source": "Ezekiel 33:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Tell them, As I live, says the Lord Yahweh, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn, turn from your evil ways; for why will you die, house of Israel?",
+          "note": "The oath 'As I live, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live' restates the divine saving desire that Paul invokes in saying God wills all people to be saved. The emphatic divine self-witness to a will for repentance and life parallels Paul's theology of God our Savior. It complements the Ezekiel 18 echo."
+        },
+        {
+          "source": "Isaiah 45:22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Look to me, and be saved, all the ends of the earth; for I am God, and there is no other.",
+          "note": "The call 'Turn to me and be saved, all the ends of the earth, for I am God and there is no other' fuses the universal saving will with strict monotheism, precisely the pairing Paul makes in 'who desires all to be saved' and 'there is one God.' Isaiah's universal salvation offer grounded in the oneness of God stands directly behind this passage. The verbal and theological overlap is strong."
+        },
+        {
+          "source": "Deuteronomy 6:4",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Hear, Israel: Yahweh is our God. Yahweh is one.",
+          "note": "'There is one God' restates the Shema's confession that the LORD is one, the foundational monotheistic creed of Israel. Paul reframes the Shema christologically by adding the one mediator, but the bedrock affirmation of divine oneness is directly drawn from Deuteronomy. This is the clearest scriptural anchor of verse 5."
+        },
+        {
+          "source": "Malachi 2:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Don’t we all have one father? Hasn’t one God created us? Why do we deal treacherously every man against his brother, profaning the covenant of our fathers?",
+          "note": "'Have we not all one Father? Has not one God created us?' offers a parallel monotheistic confession linked to the unity of humanity, resonant with Paul's 'one God' grounding the universality of salvation. The pairing of divine oneness with the common bond of all people overlaps with the passage. The connection is thematic and secondary to the Shema.",
+          "contested": true
+        },
+        {
+          "source": "Job 9:33",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "There is no umpire between us, that might lay his hand on us both.",
+          "note": "Job's lament that 'there is no umpire between us, who might lay his hand on us both' articulates the need for a mediator between God and man that Paul declares fulfilled in the one mediator Christ Jesus. The longing for an arbitrator standing between God and humanity is answered in verse 5. The conceptual correspondence to 'one mediator' is notable though not verbal quotation."
+        },
+        {
+          "source": "Exodus 32:30-32",
+          "type": "figural",
+          "confidence": "medium",
+          "text": "On the next day, Moses said to the people, “You have sinned a great sin. Now I will go up to Yahweh. Perhaps I shall make atonement for your sin.” Moses returned to Yahweh, and said, “Oh, this people have sinned a great sin, and have made themselves gods of gold. Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written.”",
+          "note": "Moses standing between the LORD and the people, offering himself to make atonement for their sin, typifies the role of the one mediator that Paul ascribes to Christ. The Mosaic mediation at Sinai is the paradigmatic Old Testament instance of a man interceding between God and men. Christ as mediator is read against this figural background.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 5:5",
+          "type": "figural",
+          "confidence": "low",
+          "text": "(I stood between Yahweh and you at that time, to show you Yahweh’s word: for you were afraid because of the fire, and didn’t go up onto the mountain;) saying,",
+          "note": "Moses' statement that he stood between the LORD and the people to declare the word, because they feared the fire, presents him as mediator of the covenant, prefiguring the one mediator language. The Mosaic mediatorial office informs Paul's category. The link is figural and faint.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 30:12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“When you take a census of the children of Israel, according to those who are numbered among them, then each man shall give a ransom for his soul to Yahweh, when you number them; that there be no plague among them when you number them.",
+          "note": "The atonement money, a ransom for each life given at the census so that no plague befall them, supplies the cultic background for Christ giving himself as 'a ransom for all.' The Hebrew kopher / lytron concept of a redemptive price for life stands behind Paul's ransom language. The universalizing 'for all' extends the Exodus ransom to all humanity."
+        },
+        {
+          "source": "Isaiah 53:10-12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yet it pleased Yahweh to bruise him. He has caused him to suffer. When you make his soul an offering for sin, he shall see his seed. He shall prolong his days, and the pleasure of Yahweh shall prosper in his hand. After the suffering of his soul, he will see the light and be satisfied. My righteous servant will justify many by the knowledge of himself; and he will bear their iniquities. Therefore will I divide him a portion with the great, and he shall […]",
+          "note": "The Servant who makes his life an offering for sin and bears the sin of many provides the scriptural template for Christ giving himself as a ransom for all. The substitutionary self-offering 'for many' is universalized by Paul to 'for all.' The Servant Song is a primary source for the ransom theology of verse 6."
+        },
+        {
+          "source": "Psalm 49:7-8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "none of them can by any means redeem his brother, nor give God a ransom for him. For the redemption of their life is costly, no payment is ever enough,",
+          "note": "The psalm's note that no one can by any means ransom another or give to God a price for his life sets up, by contrast, the ransom that Christ alone provides 'for all.' Paul's ransom claim answers the human impossibility the psalm laments. The link is conceptual and contrastive.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "ch": 2,
+      "ref": "2:8",
+      "text": "I desire therefore that the men in every place pray, lifting up holy hands without anger and doubting.",
+      "echoes": [
+        {
+          "source": "Psalm 134:2",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Lift up your hands in the sanctuary. Praise Yahweh!",
+          "note": "The summons to 'lift up your hands to the sanctuary and bless the LORD' is the posture Paul prescribes when he calls men to pray 'lifting up holy hands.' The gesture of uplifted hands in worship is a fixed Old Testament image of prayer. Paul's qualifier 'holy' draws on the cultic demand for purity in the hands that are raised."
+        },
+        {
+          "source": "Psalm 28:2",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Hear the voice of my petitions, when I cry to you, when I lift up my hands toward your Most Holy Place.",
+          "note": "'Hear the voice of my supplications when I lift up my hands toward your holy sanctuary' directly models the praying posture of uplifted hands. The coupling of supplication with raised hands matches Paul's instruction. It is among the closest verbal parallels to the gesture in verse 8."
+        },
+        {
+          "source": "Psalm 63:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "So I will bless you while I live. I will lift up my hands in your name.",
+          "note": "'I will lift up my hands in your name' expresses the same gesture of prayer and blessing that Paul commends. The psalmist's lifted hands in devotion parallel the men's lifted holy hands. It reinforces the conventional posture echoed here."
+        },
+        {
+          "source": "Psalm 141:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Let my prayer be set before you like incense; the lifting up of my hands like the evening sacrifice.",
+          "note": "'Let the lifting up of my hands be as the evening sacrifice' ties uplifted hands to acceptable worship, matching Paul's vision of prayer with holy hands. The equation of raised hands with pleasing sacrifice undergirds the call to pray rightly. It complements the other Psalm parallels."
+        },
+        {
+          "source": "Isaiah 1:15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "When you spread out your hands, I will hide my eyes from you. Yes, when you make many prayers, I will not hear. Your hands are full of blood.",
+          "note": "The LORD's refusal to hear when 'you spread out your hands' because they are 'full of blood' supplies the negative counterpart to Paul's demand that hands be 'holy... without anger.' Lifted hands stained by violence are rejected; lifted holy hands are required. The condition of moral purity behind acceptable prayer is drawn from this oracle."
+        },
+        {
+          "source": "Psalm 24:3-4",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Who may ascend to Yahweh’s hill? Who may stand in his holy place? He who has clean hands and a pure heart; who has not lifted up his soul to falsehood, and has not sworn deceitfully.",
+          "note": "The requirement of 'clean hands and a pure heart' to ascend the LORD's hill informs Paul's insistence on 'holy hands without anger and doubting.' The cultic standard of pure hands for approaching God shapes the qualification on prayer. The moral-ritual purity link is the point of contact."
+        },
+        {
+          "source": "Lamentations 3:41",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Let us lift up our heart with our hands to God in the heavens.",
+          "note": "'Let us lift up our heart with our hands to God in the heavens' offers another instance of the uplifted-hands prayer posture, with an added inward orientation paralleling Paul's concern for the disposition behind the gesture. The combined outward gesture and inner attitude resonates with verse 8. The parallel is supportive and faint.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 14:22",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Abram said to the king of Sodom, “I have lifted up my hand to Yahweh, God Most High, possessor of heaven and earth,",
+          "note": "Abram's 'I have lifted up my hand to the LORD' shows the raised hand as a gesture of solemn appeal to God, a background image for the praying hands. The connection is to gesture-vocabulary rather than to the worship setting and is faint. It is offered maximally.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "ch": 2,
+      "ref": "2:9-10",
+      "text": "In the same way, that women also adorn themselves in decent clothing, with modesty and propriety; not just with braided hair, gold, pearls, or expensive clothing; but (which becomes women professing godliness) with good works.",
+      "echoes": [
+        {
+          "source": "Isaiah 3:16-24",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Moreover Yahweh said, “Because the daughters of Zion are haughty, and walk with outstretched necks and flirting eyes, walking to trip as they go, jingling ornaments on their feet; therefore the Lord brings sores on the crown of the head of the women of Zion, and Yahweh will make their scalps bald.” In that day the Lord will take away the beauty of their anklets, the headbands, the crescent necklaces, the earrings, the bracelets, the veils, the […]",
+          "note": "The oracle against the haughty daughters of Zion with their finery, ornaments, headdresses, and jewelry, stripped away in judgment, stands behind Paul's call that women not adorn themselves with braided hair, gold, and costly attire. The catalogue of external feminine ornament condemned by Isaiah parallels Paul's list. The prophetic critique of ostentatious adornment shapes the instruction."
+        },
+        {
+          "source": "Proverbs 31:30",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Charm is deceitful, and beauty is vain; but a woman who fears Yahweh, she shall be praised.",
+          "note": "'Charm is deceitful and beauty is vain, but a woman who fears the LORD shall be praised' contrasts outward appearance with godly character exactly as Paul opposes external adornment to 'good works' becoming women professing godliness. The valued woman is praised for fearing God, not for looks, matching verse 10. The wisdom ideal of inner piety over display informs the passage."
+        },
+        {
+          "source": "Proverbs 31:25",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Strength and dignity are her clothing. She laughs at the time to come.",
+          "note": "The capable woman 'clothed with strength and dignity' offers the image of inner moral clothing that Paul prefers to braided hair and gold. The metaphor of being adorned with virtue rather than ornament parallels 'adorn... with good works.' It reinforces the wisdom contrast underlying verses 9-10."
+        },
+        {
+          "source": "Genesis 24:22",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As the camels had done drinking, the man took a golden ring of half a shekel weight, and two bracelets for her hands of ten shekels weight of gold,",
+          "note": "The gold nose-ring and bracelets given to Rebekah illustrate the gold ornamentation Paul names, providing a narrative instance of the adornment vocabulary. The link is to the items listed rather than to any critique. It is offered maximally and is faint.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 26:13-18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The grace of a wife will delight her husband; And her knowledge will fatten his bones. A silent woman is a gift of the Lord; And there is nothing so much worth as a well-instructed soul. A shamefast woman is grace upon grace; And there is no price worthy of a continent soul. As the sun when it arises in the highest places of the Lord, So is the beauty of a good wife in the ordering of a man’s house. As the lamp that shineth upon the holy candlestick, So […]",
+          "note": "Ben Sira's praise of a wife whose true beauty is her modesty and good character, more than physical charm, parallels Paul's preference for good works over outward adornment. The deuterocanonical wisdom contrast between modest virtue and external display resonates with verses 9-10. The connection is thematic.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.4",
+      "ch": 2,
+      "ref": "2:11-15",
+      "text": "Let a woman learn in quietness with all subjection. But I don’t permit a woman to teach, nor to exercise authority over a man, but to be in quietness. For Adam was first formed, then Eve. Adam wasn’t deceived, but the woman, being deceived, has fallen into disobedience; but she will be saved through her childbearing, if they continue in faith, love, and sanctification with sobriety.",
+      "echoes": [
+        {
+          "source": "Genesis 2:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+          "note": "Paul's argument 'Adam was first formed' rests on the account of the LORD God forming the man from the dust and breathing life into him. The verb and the priority of Adam's formation are taken directly from the creation narrative. This is the scriptural basis for 'Adam was first formed, then Eve.'"
+        },
+        {
+          "source": "Genesis 2:18-23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh God said, “It is not good for the man to be alone. I will make him a helper comparable to him.” Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature became its name. The man gave names to all livestock, and to the birds of the sky, and to every animal of the field; but for man there was not found a helper […]",
+          "note": "The making of the woman from the man's side as a helper, after the man, supplies the order of formation Paul invokes ('then Eve'). The sequence of creation, with woman fashioned after and from Adam, is the load-bearing premise of his appeal. The passage is quoted in substance."
+        },
+        {
+          "source": "Genesis 3:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took some of its fruit, and ate; and she gave some to her husband with her, and he ate it, too.",
+          "note": "Eve's seeing, taking, and eating the fruit grounds Paul's claim that 'the woman, being deceived, has fallen into disobedience.' The narrative of her being drawn in by the fruit is the event Paul interprets. It anchors the deception-and-transgression argument of verse 14."
+        },
+        {
+          "source": "Genesis 3:13",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Yahweh God said to the woman, “What have you done?” The woman said, “The serpent deceived me, and I ate.”",
+          "note": "Eve's confession 'the serpent deceived me, and I ate' is the direct source of Paul's 'the woman, being deceived, has fallen into disobedience.' The motif of the woman's deception is lifted from her own words in the Fall account. This is the closest verbal dependence in the pericope."
+        },
+        {
+          "source": "Genesis 3:16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "To the woman he said, “I will greatly multiply your pain in childbirth. In pain you will bear children. Your desire will be for your husband, and he will rule over you.”",
+          "note": "The sentence on the woman, 'in pain you shall bring forth children,' and the rule of the husband over her, underlies both 'saved through her childbearing' and the call to subjection. Paul reads the curse of painful childbearing as the very sphere of the woman's salvation. The verse is central to verse 15."
+        },
+        {
+          "source": "Genesis 3:15",
+          "type": "figural",
+          "confidence": "medium",
+          "text": "I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”",
+          "note": "The protoevangelium promising the woman's seed who will crush the serpent's head can stand behind 'saved through childbearing' if 'the childbearing' is read as the bearing of the promised seed. The hope of redemption arising from the woman's offspring frames the saving childbearing. The reading is figural and contested.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 3:20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The man called his wife Eve because she would be the mother of all the living.",
+          "note": "Adam naming his wife Eve, 'because she was the mother of all living,' resonates with the elevation of childbearing as the woman's vocation and avenue of salvation. The link between Eve and life-giving motherhood supports verse 15. The connection is faint and thematic.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 1:27",
+          "type": "echo",
+          "confidence": "low",
+          "text": "God created man in his own image. In God’s image he created him; male and female he created them.",
+          "note": "The creation of humanity male and female in God's image offers an alternative creation datum that some weigh against the formation-order argument; Paul, however, builds on the Genesis 2 sequence rather than the simultaneous creation of Genesis 1. It is noted as a relevant background text. The relation is contrastive and faint.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.1",
+      "ch": 3,
+      "ref": "3:1-7",
+      "text": "This is a faithful saying: if a man seeks the office of an overseer, he desires a good work. The overseer therefore must be without reproach, the husband of one wife, temperate, sensible, modest, hospitable, good at teaching; not a drinker, not violent, not greedy for money, but gentle, not quarrelsome, not covetous; one who rules his own house well, having children in subjection with all reverence; (but if a man doesn’t know how to rule his own house, how will he take care of the assembly of God?) not a new convert, lest being puffed up he fall into the same condemnation as the devil. Moreover he must have good testimony from those who are outside, to avoid falling into reproach and the snare of the devil.",
+      "echoes": [
+        {
+          "source": "Exodus 18:21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Moreover you shall provide out of all the people able men, such as fear God: men of truth, hating unjust gain; and place such over them, to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.",
+          "note": "Jethro's criteria for appointing leaders over Israel — capable, God-fearing, trustworthy men who hate dishonest gain — supply the scriptural template for the qualified overseer. The cluster of 'without reproach,' 'not greedy for money,' and good character closely tracks this paradigm of vetted communal leadership."
+        },
+        {
+          "source": "Deuteronomy 1:13",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "Take wise men of understanding and well known according to your tribes, and I will make them heads over you.”",
+          "note": "Moses' charge to select 'wise, understanding, and respected men' as heads parallels the demand that the overseer be sensible and have good testimony. A secondary witness to the same leader-selection topos as Exodus 18."
+        },
+        {
+          "source": "Proverbs 16:18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Pride goes before destruction, and a haughty spirit before a fall.",
+          "note": "'Pride goes before destruction, a haughty spirit before a fall' underwrites the warning that a new convert, being puffed up, may 'fall into the same condemnation as the devil.' The pride-then-fall logic is the wisdom commonplace Paul deploys."
+        },
+        {
+          "source": "Isaiah 14:12-15",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "How you have fallen from heaven, morning star, son of the dawn! How you are cut down to the ground, who laid the nations low! You said in your heart, “I will ascend into heaven! I will exalt my throne above the stars of God! I will sit on the mountain of assembly, in the far north! I will ascend above the heights of the clouds! I will make myself like the Most High!” Yet you shall be brought down to Sheol, to the depths of the pit.",
+          "note": "The fall of the Day Star, brought down to Sheol for his self-exalting ambition, lies behind 'the condemnation of the devil' when read through later traditions identifying this figure with Satan's primal pride. Contested because Isaiah's oracle targets the king of Babylon; the diabolical reading is a development.",
+          "contested": true,
+          "altSource": "Ezekiel 28:11-17"
+        },
+        {
+          "source": "Proverbs 31:4-5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "It is not for kings, Lemuel; it is not for kings to drink wine; nor for princes to say, ‘Where is strong drink?’ lest they drink, and forget the law, and pervert the justice due to anyone who is afflicted.",
+          "note": "The counsel that rulers should not crave wine lest they pervert judgment resonates with 'not a drinker' among qualifications for one who governs God's household. A faint thematic link within the broader wisdom critique of drunken leadership."
+        },
+        {
+          "source": "Genesis 18:19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For I have known him, to the end that he may command his children and his household after him, that they may keep the way of Yahweh, to do righteousness and justice; to the end that Yahweh may bring on Abraham that which he has spoken of him.”",
+          "note": "Abraham is chosen precisely because he will 'command his children and his household' to keep the way of the LORD — a faint figural anticipation of the principle that one who rules his own house well is fit to care for the assembly of God.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 91:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For he will deliver you from the snare of the fowler, and from the deadly pestilence.",
+          "note": "The 'snare of the fowler' from which God delivers feeds the imagery of 'the snare of the devil' into which the disreputable overseer may fall. Faint; 'snare' is a common metaphor shared with Proverbs 29:25.",
+          "contested": true,
+          "altSource": "Proverbs 29:25"
+        }
+      ]
+    },
+    {
+      "id": "3.8",
+      "ch": 3,
+      "ref": "3:8-13",
+      "text": "Servants, in the same way, must be reverent, not double-tongued, not addicted to much wine, not greedy for money; holding the mystery of the faith in a pure conscience. Let them also first be tested; then let them serve if they are blameless. Their wives in the same way must be reverent, not slanderers, temperate, faithful in all things. Let servants be husbands of one wife, ruling their children and their own houses well. For those who have served well gain for themselves a good standing, and great boldness in the faith which is in Christ Jesus.",
+      "echoes": [
+        {
+          "source": "Sirach 5:14",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Be not called a whisperer; And lie not in wait with your tongue: For upon the thief there is shame, And an evil condemnation upon him that has a double tongue.",
+          "note": "Ben Sira's warning against being called 'double-tongued' (dilogos / the slanderer's two-faced speech) directly parallels the deacon requirement 'not double-tongued.' The deuterocanonical wisdom tradition is the nearest verbal antecedent for this rare moral term.",
+          "altSource": "Sirach 28:13"
+        },
+        {
+          "source": "Proverbs 11:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "One who brings gossip betrays a confidence, but one who is of a trustworthy spirit is one who keeps a secret.",
+          "note": "'A gossip betrays a confidence, but the trustworthy keep a secret' undergirds both 'not double-tongued' for deacons and 'not slanderers' for the women. The contrast of the talebearer against the faithful person is the wisdom backdrop."
+        },
+        {
+          "source": "Exodus 18:21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Moreover you shall provide out of all the people able men, such as fear God: men of truth, hating unjust gain; and place such over them, to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.",
+          "note": "The 'not greedy for money' (lit. 'not greedy for dishonest gain') required of deacons echoes Jethro's stipulation that leaders 'hate bribes/dishonest gain,' extending the same integrity standard from overseers to assistants."
+        }
+      ]
+    },
+    {
+      "id": "3.14",
+      "ch": 3,
+      "ref": "3:14-16",
+      "text": "These things I write to you, hoping to come to you shortly; but if I wait long, that you may know how men ought to behave themselves in God’s house, which is the assembly of the living God, the pillar and ground of the truth. Without controversy, the mystery of godliness is great: God was revealed in the flesh, justified in the spirit, seen by angels, preached among the nations, believed on in the world, and received up in glory.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 5:26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For who is there of all flesh, that has heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?",
+          "note": "'The living God' — a recurring covenant epithet first voiced at Horeb ('who has heard the voice of the living God?') — names the church as 'the assembly of the living God.' The phrase carries the Sinai contrast between Israel's true God and lifeless idols.",
+          "altSource": "Joshua 3:10"
+        },
+        {
+          "source": "1 Kings 7:21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He set up the pillars at the porch of the temple: and he set up the right pillar, and called its name Jachin; and he set up the left pillar, and called its name Boaz.",
+          "note": "Solomon's two bronze pillars Jachin ('he establishes') and Boaz ('in him is strength') at the temple porch supply the architectural image behind the church as 'the pillar and ground of the truth.' The temple/pillar metaphor casts the assembly as the structure that upholds revealed truth.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 9:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Wisdom has built her house. She has carved out her seven pillars.",
+          "note": "Wisdom 'has built her house, she has hewn her seven pillars' lends a sapiential resonance to 'house of God' as a pillared structure of truth. Faint and secondary to the temple-pillar imagery.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 68:18",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "You have ascended on high. You have led away captives. You have received gifts among men, yes, among the rebellious also, that Yah God might dwell there.",
+          "note": "'You ascended on high, leading captives' stands behind the hymn's closing 'received up in glory,' the standard OT ascent-text in early Christian exaltation language. Faint because the verbal contact is thematic (ascent/glory) rather than quotation.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 7:13-14",
+          "type": "figural",
+          "confidence": "low",
+          "text": "I saw in the night visions, and behold, there came with the clouds of the sky one like a son of man, and he came even to the ancient of days, and they brought him near before him. There was given him dominion, and glory, and a kingdom, that all the peoples, nations, and languages should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.",
+          "note": "The one like a son of man presented before the Ancient of Days and given dominion, served by 'all peoples, nations, and languages,' figurally anticipates the hymn's arc — seen by angels, proclaimed among the nations, received up in glory. A heavenly enthronement pattern rather than a citation.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 52:15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "so shall he sprinkle many nations; kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they understand.",
+          "note": "The Servant before whom nations and kings are startled, who is 'proclaimed' where unheard, faintly underlies 'preached among the nations, believed on in the world.' A thin link to the Isaianic mission-to-the-nations motif.",
+          "contested": true,
+          "altSource": "Isaiah 49:6"
+        }
+      ]
+    },
+    {
+      "id": "4.1",
+      "ch": 4,
+      "ref": "4:1-5",
+      "text": "But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons, through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron; forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth. For every creature of God is good, and nothing is to be rejected, if it is received with thanksgiving. For it is sanctified through the word of God and prayer.",
+      "echoes": [
+        {
+          "source": "Daniel 11:35",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Some of those who are wise shall fall, to refine them, and to purify, and to make them white, even to the time of the end; because it is yet for the time appointed.",
+          "note": "The Spirit's prediction that 'in later times some will fall away from the faith' draws on Danielic apocalyptic, where a refining apostasy precedes 'the time of the end' (Dan 11:35; 12:1, 4). The pattern of a foretold falling-away in the last days shapes the Pastoral's eschatological framing.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 8:23-25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "In the latter time of their kingdom, when the transgressors have come to the full, a king of fierce face, and understanding dark sentences, shall stand up. His power shall be mighty, but not by his own power; and he shall destroy wonderfully, and shall prosper in what he does; and he shall destroy the mighty ones and the holy people. Through his policy he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and he shall […]",
+          "note": "The rise of deceptive, conscience-seared teachers in the latter time may echo Daniel's vision of a deceitful power arising 'at the latter end' of the apostasy who works ruin by cunning. A faint structural parallel rather than a verbal one.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 32:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "They sacrificed to demons, not God, to gods that they didn’t know, to new gods that came up recently, which your fathers didn’t dread.",
+          "note": "'Doctrines of demons' and 'seducing spirits' resonate with the Song of Moses, where Israel 'sacrificed to demons (shedim), not God, to gods they had not known.' The apostate teaching is figured as worship of demonic powers behind false religion."
+        },
+        {
+          "source": "Psalm 106:37",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yes, they sacrificed their sons and their daughters to demons.",
+          "note": "The idea of devotion redirected to demons recalls the psalmist's indictment that Israel 'sacrificed their sons and daughters to demons.' A reinforcing echo of the OT motif of demonic deception lying behind false cult.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 1:31",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.",
+          "note": "'Every creature of God is good, and nothing is to be rejected' directly recalls God's verdict over creation, 'God saw everything that he had made, and behold, it was very good.' Paul grounds the rejection of food asceticism in the original goodness of all created things."
+        },
+        {
+          "source": "Genesis 9:3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Every moving thing that lives will be food for you. As I gave you the green herb, I have given everything to you.",
+          "note": "The claim that God created foods 'to be received with thanksgiving' echoes the post-flood grant, 'Every moving thing that lives shall be food for you; as I gave you the green plants, I give you everything.' This universal grant of food undergirds the rejection of forbidden-food asceticism."
+        },
+        {
+          "source": "Genesis 1:29",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "God said, “Behold, I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.",
+          "note": "The divine provision of foods 'which God created to be received' recalls the original grant of every seed-bearing plant and tree for food. The created order itself is the warrant for eating with thanksgiving."
+        },
+        {
+          "source": "Deuteronomy 8:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall eat and be full, and you shall bless Yahweh your God for the good land which he has given you.",
+          "note": "The reception of food 'with thanksgiving' and its sanctification 'through prayer' draws on the command, 'You shall eat and be full, and you shall bless the LORD your God for the good land he has given you.' The blessing/thanksgiving over food is the OT practice presupposed."
+        },
+        {
+          "source": "Genesis 2:18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh God said, “It is not good for the man to be alone. I will make him a helper comparable to him.”",
+          "note": "The condemnation of those 'forbidding marriage' implicitly appeals to God's own institution of marriage, 'It is not good that the man should be alone; I will make him a helper.' Asceticism that bans marriage contradicts the Creator's design.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 1:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”",
+          "note": "Forbidding marriage runs against the creational blessing, 'Be fruitful and multiply.' A faint echo grounding the polemic against marriage-prohibition in the goodness of the procreative mandate.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 1:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "God said, “Let there be light,” and there was light.",
+          "note": "That food is 'sanctified through the word of God' may echo creation by divine word ('And God said... and it was so'); what the word made good, the word also makes holy. A theological rather than verbal echo.",
+          "contested": true,
+          "altSource": "Psalm 33:6"
+        }
+      ]
+    },
+    {
+      "id": "4.6",
+      "ch": 4,
+      "ref": "4:6-10",
+      "text": "If you instruct the brothers of these things, you will be a good servant of Christ Jesus, nourished in the words of the faith, and of the good doctrine which you have followed. But refuse profane and old wives’ fables. Exercise yourself toward godliness. For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now, and of that which is to come. This saying is faithful and worthy of all acceptance. For to this end we both labor and suffer reproach, because we have set our trust in the living God, who is the Savior of all men, especially of those who believe.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 8:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He humbled you, and allowed you to be hungry, and fed you with manna, which you didn’t know, neither did your fathers know; that he might teach you that man does not live by bread only, but man lives by every word that proceeds out of Yahweh’s mouth.",
+          "note": "Being 'nourished in the words of the faith' figurally recalls the lesson of the wilderness, that 'man does not live by bread alone, but by every word that comes from the mouth of the LORD.' Spiritual nourishment by the word stands behind the metaphor.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 1:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The fear of Yahweh is the beginning of knowledge; but the foolish despise wisdom and instruction.",
+          "note": "The summons to 'exercise yourself toward godliness' and refuse profane fables echoes the wisdom tradition's contrast between the fear of the LORD and the folly that 'despises wisdom and instruction.' Godliness here functions much as the OT 'fear of the LORD.'",
+          "contested": true,
+          "altSource": "Proverbs 9:10"
+        },
+        {
+          "source": "Deuteronomy 30:15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, I have set before you this day life and prosperity, and death and evil.",
+          "note": "Godliness 'having the promise of the life which is now and that which is to come' draws on the Deuteronomic offer of life through covenant fidelity, 'I have set before you life and good... that you may live.' The promise-of-life motif is reframed in two-age terms.",
+          "contested": true,
+          "altSource": "Deuteronomy 30:19"
+        },
+        {
+          "source": "Deuteronomy 5:26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For who is there of all flesh, that has heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?",
+          "note": "'The living God' is a fixed OT title for Yahweh as distinct from lifeless idols, e.g. 'the voice of the living God.' The Pastoral deploys it against dead asceticism and false teaching.",
+          "altSource": "Joshua 3:10"
+        },
+        {
+          "source": "Isaiah 45:21-22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Declare and present it. Yes, let them take counsel together. Who has shown this from ancient time? Who has declared it of old? Haven’t I, Yahweh? There is no other God besides me, a just God and a Savior; There is no one besides me. “Look to me, and be saved, all the ends of the earth; for I am God, and there is no other.",
+          "note": "'The living God, who is the Savior of all men' draws on Deutero-Isaiah's universal salvation oracle, 'a righteous God and a Savior; there is none besides me. Turn to me and be saved, all the ends of the earth.' The 'Savior of all' claim universalizes Isaiah's offer.",
+          "altSource": "Isaiah 45:15"
+        },
+        {
+          "source": "Psalm 36:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Your righteousness is like the mountains of God. Your judgments are like a great deep. Yahweh, you preserve man and animal.",
+          "note": "God as 'Savior of all men' may echo the psalm's confession that 'you save man and beast, O LORD,' broadening salvation to the whole creation. A faint support for the universal scope of God's saving care.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 43:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I myself am Yahweh; and besides me there is no savior.",
+          "note": "The title 'Savior' applied to the living God resonates with 'I, I am the LORD, and besides me there is no savior.' The Pastoral confesses Yahweh's exclusive saving identity now extended to all peoples."
+        }
+      ]
+    },
+    {
+      "id": "4.11",
+      "ch": 4,
+      "ref": "4:11-16",
+      "text": "Command and teach these things. Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity. Until I come, pay attention to reading, to exhortation, and to teaching. Don’t neglect the gift that is in you, which was given to you by prophecy, with the laying on of the hands of the elders. Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all. Pay attention to yourself, and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.",
+      "echoes": [
+        {
+          "source": "Jeremiah 1:6-7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Then I said, “Ah, Lord Yahweh! Behold, I don’t know how to speak; for I am a child.” But Yahweh said to me, “Don’t say, ‘I am a child;’ for to whoever I shall send you, you shall go, and whatever I shall command you, you shall speak.",
+          "note": "'Let no man despise your youth' recalls Jeremiah's commissioning, where he protests 'I am only a youth' and the LORD answers 'Do not say, I am only a youth.' Timothy's youthful commission is patterned on the prophetic call to speak despite young age."
+        },
+        {
+          "source": "Nehemiah 8:1-8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "All the people gathered themselves together as one man into the broad place that was before the water gate; and they spoke to Ezra the scribe to bring the book of the law of Moses, which Yahweh had commanded to Israel. Ezra the priest brought the law before the assembly, both men and women, and all who could hear with understanding, on the first day of the seventh month. He read therein before the broad place that was before the water gate from early […]",
+          "note": "The charge to 'pay attention to reading, to exhortation, and to teaching' reflects the model of Ezra's assembly, where the Book of the Law was read aloud, interpreted, and the sense given so the people understood. Public reading plus exposition is the OT template for Timothy's liturgical duty."
+        },
+        {
+          "source": "Deuteronomy 31:11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "when all Israel has come to appear before Yahweh your God in the place which he will choose, you shall read this law before all Israel in their hearing.",
+          "note": "The 'reading' Timothy is to attend to echoes the Deuteronomic mandate, 'you shall read this law before all Israel in their hearing,' the foundational command for public reading of Scripture in the assembly. This institutes the practice the Pastoral continues.",
+          "altSource": "Deuteronomy 31:12"
+        },
+        {
+          "source": "Numbers 27:18-23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh said to Moses, “Take Joshua the son of Nun, a man in whom is the Spirit, and lay your hand on him. Set him before Eleazar the priest, and before all the congregation; and commission him in their sight. You shall give authority to him, that all the congregation of the children of Israel may obey. He shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before Yahweh. At his word they shall go out, and at his […]",
+          "note": "'The gift... given to you by prophecy, with the laying on of the hands' draws on Moses commissioning Joshua, taking 'a man in whom is the Spirit' and laying his hands on him before the assembly to invest him with authority. Timothy's ordination reenacts this hand-laying transfer of office."
+        },
+        {
+          "source": "Deuteronomy 34:9",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands on him. The children of Israel listened to him, and did as Yahweh commanded Moses.",
+          "note": "The 'gift that is in you' conveyed by 'laying on of hands' echoes 'Joshua was full of the spirit of wisdom, for Moses had laid his hands on him.' The endowment of a Spirit-gift through imposition of hands is the direct OT precedent."
+        },
+        {
+          "source": "Numbers 11:16-17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh said to Moses, “Gather to me seventy men of the elders of Israel, whom you know to be the elders of the people, and officers over them; and bring them to the Tent of Meeting, that they may stand there with you. I will come down and talk with you there. I will take of the Spirit which is on you, and will put it on them; and they shall bear the burden of the people with you, that you not bear it yourself alone.",
+          "note": "The gift conferred amid 'the elders' (presbytery) recalls the seventy elders on whom the LORD put the Spirit that was on Moses. A faint background to communal, Spirit-endowed eldership behind the ordination scene.",
+          "contested": true
+        },
+        {
+          "source": "Ezekiel 33:9",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Nevertheless, if you warn the wicked of his way to turn from it, and he doesn’t turn from his way; he shall die in his iniquity, but you have delivered your soul.",
+          "note": "'You will save both yourself and those who hear you' echoes the watchman charge, 'if you warn the wicked... you will have saved your life.' The minister's vigilance secures both his own and his hearers' deliverance.",
+          "altSource": "Ezekiel 3:19-21"
+        },
+        {
+          "source": "Daniel 12:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Those who are wise shall shine as the brightness of the expanse; and those who turn many to righteousness as the stars forever and ever.",
+          "note": "Persevering teaching that saves 'those who hear you' faintly recalls 'those who turn many to righteousness' shining like the stars. A possible eschatological coloring of the teacher's saving role.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.1",
+      "ch": 5,
+      "ref": "5:1-2",
+      "text": "Don’t rebuke an older man, but exhort him as a father; the younger men as brothers; the elder women as mothers; the younger as sisters, in all purity.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:32",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“‘You shall rise up before the gray head, and honor the face of an old man, and you shall fear your God. I am Yahweh.",
+          "note": "The charge not to rebuke an older man but to exhort him 'as a father' reflects the Holiness Code's command to rise before the gray head and honor the face of an old man. Paul translates the Torah's reverence for the aged into pastoral conduct within the household of faith."
+        },
+        {
+          "source": "Exodus 20:12",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you.",
+          "note": "Treating older men as fathers and older women as mothers extends the Decalogue's command to honor father and mother to the wider church family. The familial honor owed to parents becomes the template for intergenerational respect in the congregation.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 19:17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“‘You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not bear sin because of him.",
+          "note": "The careful, non-shaming manner of correction ('do not rebuke... exhort') may echo the Holiness Code's directive to reason frankly with a neighbor rather than incur sin through hatred. The aim of rebuke without harshness reflects the Torah's regulated form of fraternal reproof.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 19:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "Treating younger men as brothers and younger women as sisters 'in all purity' evokes the command to love one's neighbor as oneself within a familial frame. The kinship language fits the Levitical ethic of treating the community as one's own people.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.3",
+      "ch": 5,
+      "ref": "5:3-8",
+      "text": "Honor widows who are widows indeed. But if any widow has children or grandchildren, let them learn first to show piety towards their own family, and to repay their parents, for this is acceptable in the sight of God. Now she who is a widow indeed, and desolate, has her hope set on God, and continues in petitions and prayers night and day. But she who gives herself to pleasure is dead while she lives. Also command these things, that they may be without reproach. But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith, and is worse than an unbeliever.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 10:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He does execute justice for the fatherless and widow, and loves the foreigner, in giving him food and clothing.",
+          "note": "'Honor widows who are widows indeed' rests on the pervasive Torah concern for the widow, here grounded in God who 'executes justice for the fatherless and the widow.' The church's obligation to honor genuine widows continues God's own care for the defenseless."
+        },
+        {
+          "source": "Exodus 22:22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“You shall not take advantage of any widow or fatherless child.",
+          "note": "The duty to provide for and protect true widows reflects the covenant prohibition, 'You shall not afflict any widow or fatherless child,' enforced by divine sanction. Paul's regulation of widow-care assumes this foundational Torah safeguard for the vulnerable."
+        },
+        {
+          "source": "Deuteronomy 24:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall not deprive the foreigner or the fatherless of justice, nor take a widow’s clothing in pledge;",
+          "note": "The insistence on justice for the widow who is truly desolate echoes the command not to deprive the sojourner or fatherless of justice, nor take a widow's garment in pledge. The church inherits the Deuteronomic charge to shield the widow from neglect."
+        },
+        {
+          "source": "Exodus 20:12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you.",
+          "note": "The duty of children and grandchildren to 'repay their parents' and show piety to their own family applies the Decalogue's command to honor father and mother. Caring for an aged widowed parent is the concrete fulfillment of filial honor that pleases God."
+        },
+        {
+          "source": "Isaiah 1:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Learn to do well. Seek justice. Relieve the oppressed. Judge the fatherless. Plead for the widow.”",
+          "note": "The privileging of the widow as object of communal duty resonates with the prophetic summons to 'bring justice to the fatherless, plead the widow's cause.' Right religion before God includes the defense of the widow, which Paul codifies for the assembly."
+        },
+        {
+          "source": "Psalm 68:5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "A father of the fatherless, and a defender of the widows, is God in his holy habitation.",
+          "note": "The widow 'desolate' who sets her hope on God recalls God as 'father of the fatherless and protector of widows in his holy habitation.' Her continual prayer night and day rests on the psalmist's portrait of God as the widow's defender."
+        },
+        {
+          "source": "Sirach 35:14-15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He will in no wise despise the supplication of the fatherless; Nor the widow, when she pours out her tale. Do not the tears of the widow run down her cheek? And is not her cry against him that has caused them to fall?",
+          "note": "The genuine widow's persistent petitions 'night and day' echo Ben Sira's assurance that the Lord does not ignore the supplication of the widow whose tears run down. Her uninterrupted prayer is the very plea Sirach promises God will hear.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 21:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He who loves pleasure shall be a poor man. He who loves wine and oil shall not be rich.",
+          "note": "The widow who 'gives herself to pleasure is dead while she lives' draws on wisdom's warning that 'whoever loves pleasure will be a poor man.' Self-indulgent dissipation is figured as a living death, the opposite of the prayerful hope set on God.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 19:2-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Wine and women will make men of understanding to fall away: And he that cleaves to harlots will be the more reckless. Moths and worms will have him to heritage; And a reckless soul will be taken away.",
+          "note": "The motif of luxury and indulgence ruining a person undergirds the saying that the wanton widow is 'dead while she lives.' Ben Sira's warnings that wine and dissipation destroy understanding inform the wisdom backdrop of spiritual death-in-life.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 3:19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "By the sweat of your face will you eat bread until you return to the ground, for out of it you were taken. For you are dust, and to dust you shall return.”",
+          "note": "The paradox 'dead while she lives' may faintly echo the Edenic verdict that death attends the life lived for self apart from God. The wisdom-tinged idea of life forfeited through misdirected desire stands behind the aphorism.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 58:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Isn’t it to distribute your bread to the hungry, and that you bring the poor who are cast out to your house? When you see the naked, that you cover him; and that you not hide yourself from your own flesh?",
+          "note": "The demand that believers 'provide for their own household' may reflect Isaiah's true-fast call to share bread and not hide from one's own flesh. Failing one's kin is precisely the neglect of 'your own flesh' that the prophet condemns.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.9",
+      "ch": 5,
+      "ref": "5:9-10",
+      "text": "Let no one be enrolled as a widow under sixty years old, having been the wife of one man, being approved by good works, if she has brought up children, if she has been hospitable to strangers, if she has washed the saints’ feet, if she has relieved the afflicted, and if she has diligently followed every good work.",
+      "echoes": [
+        {
+          "source": "Genesis 18:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Now let a little water be fetched, wash your feet, and rest yourselves under the tree.",
+          "note": "The enrolled widow commended for having 'washed the saints' feet' evokes Abraham's hospitality, where water is brought to wash the feet of the visiting strangers. Foot-washing as a token of welcome to guests reaches back to the patriarchal ideal of hospitality."
+        },
+        {
+          "source": "Genesis 18:1-8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh appeared to him by the oaks of Mamre, as he sat in the tent door in the heat of the day. He lifted up his eyes and looked, and saw that three men stood opposite him. When he saw them, he ran to meet them from the tent door, and bowed himself to the earth, and said, “My lord, if now I have found favor in your sight, please don’t go away from your servant. Now let a little water be fetched, wash your feet, and rest yourselves under the tree. I will […]",
+          "note": "Being 'hospitable to strangers' as a mark of the approved widow recalls Abraham and Sarah's reception of the three visitors at Mamre. The patriarchal scene became the paradigm of welcoming strangers that Paul lists among the widow's good works."
+        },
+        {
+          "source": "Job 31:32",
+          "type": "echo",
+          "confidence": "low",
+          "text": "(the foreigner has not lodged in the street, but I have opened my doors to the traveler);",
+          "note": "The praise of the hospitable widow who lodges strangers echoes Job's testimony that 'the sojourner has not lodged in the street; I have opened my doors to the traveler.' Hospitality to the stranger is a recognized mark of righteousness in the wisdom tradition.",
+          "contested": true
+        },
+        {
+          "source": "Job 31:16-20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“If I have withheld the poor from their desire, or have caused the eyes of the widow to fail, or have eaten my morsel alone, and the fatherless has not eaten of it (no, from my youth he grew up with me as with a father, her have I guided from my mother’s womb); if I have seen any perish for want of clothing, or that the needy had no covering; if his heart hasn’t blessed me, if he hasn’t been warmed with my sheep’s fleece;",
+          "note": "The widow approved for relieving the afflicted reflects Job's oath that he never withheld from the poor, the widow, or the needy but warmed them. The catalog of good works for the enrolled widow mirrors the patriarch's self-vindication in deeds of mercy.",
+          "contested": true
+        },
+        {
+          "source": "1 Samuel 25:41",
+          "type": "echo",
+          "confidence": "low",
+          "text": "She arose, and bowed herself with her face to the earth, and said, “Behold, your handmaid is a servant to wash the feet of the servants of my lord.”",
+          "note": "Washing the feet of others as humble service recalls Abigail's offer to wash the feet of David's servants. The act signifies lowly, devoted hospitality, the disposition Paul commends in the enrolled widow.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.11",
+      "ch": 5,
+      "ref": "5:11-16",
+      "text": "But refuse younger widows, for when they have grown wanton against Christ, they desire to marry; having condemnation, because they have rejected their first pledge. Besides, they also learn to be idle, going about from house to house. Not only idle, but also gossips and busybodies, saying things which they ought not. I desire therefore that the younger widows marry, bear children, rule the household, and give no occasion to the adversary for insulting. For already some have turned aside after Satan. If any man or woman who believes has widows, let them relieve them, and don’t let the assembly be burdened; that it might relieve those who are widows indeed.",
+      "echoes": [
+        {
+          "source": "Genesis 1:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”",
+          "note": "The counsel that younger widows 'marry, bear children, rule the household' reflects the creational mandate to be fruitful and multiply and to govern the domestic sphere. Paul roots his pastoral preference in the created good of marriage and childbearing.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 2:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh God said, “It is not good for the man to be alone. I will make him a helper comparable to him.”",
+          "note": "Directing the younger to marry rather than remain idle assumes the Edenic judgment that 'it is not good that the man should be alone.' Marriage is presented as the fitting state guarding against the dangers of an unanchored life.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 26:13-16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The grace of a wife will delight her husband; And her knowledge will fatten his bones. A silent woman is a gift of the Lord; And there is nothing so much worth as a well-instructed soul. A shamefast woman is grace upon grace; And there is no price worthy of a continent soul. As the sun when it arises in the highest places of the Lord, So is the beauty of a good wife in the ordering of a man’s house.",
+          "note": "The portrait of the good wife who 'rules the household' may echo Ben Sira's praise of the silent, well-ordered, home-keeping wife as a gift from the Lord. The domestic ideal Paul commends overlaps with the wisdom tradition's picture of the virtuous spouse.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 7:11-12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "She is loud and defiant. Her feet don’t stay in her house. Now she is in the streets, now in the squares, and lurking at every corner.",
+          "note": "The idle younger widows 'going about from house to house... gossips and busybodies' recall the wandering, restless woman of Proverbs whose feet do not stay at home. The wisdom warning against the roving, undisciplined woman colors Paul's caution.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.17",
+      "ch": 5,
+      "ref": "5:17-18",
+      "text": "Let the elders who rule well be counted worthy of double honor, especially those who labor in the word and in teaching. For the Scripture says, “You shall not muzzle the ox when it treads out the grain.” And, “The laborer is worthy of his wages.”",
+      "echoes": [
+        {
+          "source": "Deuteronomy 25:4",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "You shall not muzzle the ox when he treads out the grain.",
+          "note": "Paul cites verbatim, 'You shall not muzzle the ox when it treads out the grain,' introduced as 'the Scripture says,' to justify material support for laboring elders. The Torah's provision for the working animal becomes the warrant for compensating those who labor in word and teaching."
+        },
+        {
+          "source": "Leviticus 19:13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“‘You shall not oppress your neighbor, nor rob him. “‘The wages of a hired servant shall not remain with you all night until the morning.",
+          "note": "The principle that 'the laborer is worthy of his wages' reflects the Levitical command not to keep back the wages of a hired worker overnight. The just and timely payment of the laborer undergirds the double honor owed to elders.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 24:14-15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall not oppress a hired servant who is poor and needy, whether he is one of your brothers, or one of the foreigners who are in your land within your gates. In his day you shall give him his hire, neither shall the sun go down on it; for he is poor, and sets his heart on it; lest he cry against you to Yahweh, and it be sin to you.",
+          "note": "The maxim about the laborer's wages aligns with the Deuteronomic command to pay the poor hired worker each day before sunset, lest he cry out to the Lord. The principle of due reward for labor stands behind Paul's argument for supporting elders.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 18:31",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You may eat it anywhere, you and your households, for it is your reward in return for your service in the Tent of Meeting.",
+          "note": "Supporting elders who labor in teaching echoes the provision that the Levites may eat the tithe as 'your wages in return for your service.' Sacred ministry warrants material support, a principle drawn from the priestly portion in the Torah.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.19",
+      "ch": 5,
+      "ref": "5:19-21",
+      "text": "Don’t receive an accusation against an elder, except at the word of two or three witnesses. Those who sin, reprove in the sight of all, that the rest also may be in fear. I command you in the sight of God, and Christ Jesus, and the chosen angels, that you observe these things without prejudice, doing nothing by partiality.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 19:15",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.",
+          "note": "The rule that no accusation against an elder be received 'except at the word of two or three witnesses' directly applies the Torah's evidentiary standard that a charge is established only on two or three witnesses. Paul transfers the judicial safeguard into church discipline of leaders."
+        },
+        {
+          "source": "Deuteronomy 17:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "At the mouth of two witnesses, or three witnesses, he who is to die shall be put to death. At the mouth of one witness he shall not be put to death.",
+          "note": "The two-or-three-witnesses requirement also draws on the capital-case statute that no one be put to death on the testimony of a single witness. The double attestation needed before disciplining an elder mirrors this Deuteronomic protection against false accusation."
+        },
+        {
+          "source": "Numbers 35:30",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“‘Whoever kills any person, the murderer shall be slain at the mouth of witnesses; but one witness shall not testify against any person that he die.",
+          "note": "The insistence on multiple witnesses echoes the law that a murderer be executed only on the evidence of witnesses, never one alone. The same principle restraining hasty condemnation governs accusations against elders.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 19:15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“‘You shall do no injustice in judgment. You shall not be partial to the poor, nor show favoritism to the great; but you shall judge your neighbor in righteousness.",
+          "note": "The charge to observe these things 'without prejudice, doing nothing by partiality' reflects the Holiness Code's command to do no injustice in judgment, neither favoring the poor nor deferring to the great. Impartial judgment is the Levitical standard Paul imposes on church discipline."
+        },
+        {
+          "source": "Deuteronomy 1:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall not show partiality in judgment; you shall hear the small and the great alike. You shall not be afraid of the face of man, for the judgment is God’s. The case that is too hard for you, you shall bring to me, and I will hear it.”",
+          "note": "Acting 'without prejudice' and refusing partiality echoes Moses' charge to judges: 'You shall not be partial in judgment; you shall hear the small and the great alike.' The impartiality demanded of Israel's judges becomes the rule for Timothy's oversight."
+        },
+        {
+          "source": "Deuteronomy 13:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "That prophet, or that dreamer of dreams, shall be put to death, because he has spoken rebellion against Yahweh your God, who brought you out of the land of Egypt, and redeemed you out of the house of bondage, to draw you aside out of the way which Yahweh your God commanded you to walk in. So you shall remove the evil from your midst.",
+          "note": "Reproving open sinners 'in the sight of all, that the rest also may be in fear' echoes the Deuteronomic rationale for public punishment, that 'all Israel shall hear and fear.' Visible discipline as deterrent reflects the Torah's pedagogy of communal fear.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 19:20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Those who remain shall hear, and fear, and will never again commit any such evil in your midst.",
+          "note": "The aim that public reproof make 'the rest also be in fear' parallels the law's purpose that 'the rest shall hear and fear, and shall never again commit such evil.' The deterrent function of open correction is drawn from this witness statute.",
+          "contested": true
+        },
+        {
+          "source": "2 Chronicles 19:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Now therefore let the fear of Yahweh be on you. Take heed and do it: for there is no iniquity with Yahweh our God, nor respect of persons, nor taking of bribes.”",
+          "note": "The demand to judge without partiality may echo Jehoshaphat's charge that with the Lord there is 'no injustice or partiality or taking of bribes.' Impartial oversight images the character of the God in whose sight Paul places the command.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.22",
+      "ch": 5,
+      "ref": "5:22-25",
+      "text": "Lay hands hastily on no one, neither be a participant in other men’s sins. Keep yourself pure. Be no longer a drinker of water only, but use a little wine for your stomach’s sake and your frequent infirmities. Some men’s sins are evident, preceding them to judgment, and some also follow later. In the same way also there are good works that are obvious, and those that are otherwise can’t be hidden.",
+      "echoes": [
+        {
+          "source": "Numbers 27:18-23",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh said to Moses, “Take Joshua the son of Nun, a man in whom is the Spirit, and lay your hand on him. Set him before Eleazar the priest, and before all the congregation; and commission him in their sight. You shall give authority to him, that all the congregation of the children of Israel may obey. He shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before Yahweh. At his word they shall go out, and at his […]",
+          "note": "The warning to 'lay hands hastily on no one' presupposes the OT rite of commissioning by the laying on of hands, as Moses laid hands on Joshua before the assembly. Ordination's gravity, derived from this transfer of office, demands caution against premature appointment."
+        },
+        {
+          "source": "Deuteronomy 34:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands on him. The children of Israel listened to him, and did as Yahweh commanded Moses.",
+          "note": "The charge against careless laying on of hands recalls that Joshua was full of wisdom because Moses had laid his hands on him. The efficacy and seriousness of hand-laying for office lie behind Paul's exhortation to restraint.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 90:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You have set our iniquities before you, our secret sins in the light of your presence.",
+          "note": "The observation that 'some men's sins are evident... and some also follow later' echoes the psalmist's awareness that God sets our secret sins in the light of his presence. Hidden sins that will eventually appear reflect the OT conviction that all deeds come to judgment.",
+          "contested": true
+        },
+        {
+          "source": "Ecclesiastes 12:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For God will bring every work into judgment, with every hidden thing, whether it is good, or whether it is evil.",
+          "note": "The maxim that sins and good works alike cannot finally be hidden reflects Qoheleth's conclusion that God will bring every deed into judgment, with every secret thing. The eventual exposure of all conduct draws on this wisdom certainty.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 10:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He who walks blamelessly walks surely, but he who perverts his ways will be found out.",
+          "note": "The saying that concealed sins and good works 'can't be hidden' resonates with the proverb that crooked ways will be found out while integrity walks securely. Wisdom's confidence that character is eventually disclosed informs the chapter's closing aphorism.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.1",
+      "ch": 6,
+      "ref": "6:1-2",
+      "text": "Let as many as are bondservants under the yoke count their own masters worthy of all honor, that the name of God and the doctrine not be blasphemed. Those who have believing masters, let them not despise them, because they are brothers, but rather let them serve them, because those who partake of the benefit are believing and beloved. Teach and exhort these things.",
+      "echoes": [
+        {
+          "source": "Isaiah 52:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Now therefore, what do I do here,” says Yahweh, “seeing that my people are taken away for nothing? Those who rule over them mock,” says Yahweh, “and my name continually all the day is blasphemed.",
+          "note": "Slaves are to honor masters 'that the name of God and the doctrine not be blasphemed.' The motif of God's name being blasphemed among outsiders on account of his people echoes Isaiah 52:5 LXX, 'because of you my name is continually blasphemed among the nations,' which Paul cites explicitly at Romans 2:24. The conduct of the covenant community before observers determines whether God's name is honored or reviled."
+        },
+        {
+          "source": "Ezekiel 36:20-23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "When they came to the nations, where they went, they profaned my holy name; in that men said of them, These are the people of Yahweh, and are gone out of his land. But I had respect for my holy name, which the house of Israel had profaned among the nations, where they went. Therefore tell the house of Israel, Thus says the Lord Yahweh: I don’t do this for your sake, house of Israel, but for my holy name, which you have profaned among the nations, where […]",
+          "note": "Ezekiel develops the same theme that Israel 'profaned my holy name among the nations' so that God acts to vindicate it. The Pastoral concern that believing slaves not cause God's name to be blasphemed by outsiders draws on this prophetic logic of the name's holiness being bound to the people's behavior. Closely paired with Isaiah 52:5 as the wellspring of the 'name blasphemed' tradition."
+        },
+        {
+          "source": "Leviticus 24:11-16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The son of the Israelite woman blasphemed the Name, and cursed; and they brought him to Moses. His mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan. They put him in custody, until Yahweh’s will should be declared to them. Yahweh spoke to Moses, saying, “Bring out of the camp him who cursed; and let all who heard him lay their hands on his head, and let all the congregation stone him. You shall speak to the children of Israel, […]",
+          "note": "The grave sin of 'blaspheming the Name' is codified in the Holiness legislation on the blasphemer. The Pastoral fear that misconduct leads outsiders to blaspheme God's name may faintly trade on this background sense of the Name's sanctity, though the verbal link is general rather than specific.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.3",
+      "ch": 6,
+      "ref": "6:3-5",
+      "text": "If anyone teaches a different doctrine, and doesn’t consent to sound words, the words of our Lord Jesus Christ, and to the doctrine which is according to godliness, he is conceited, knowing nothing, but obsessed with arguments, disputes, and word battles, from which come envy, strife, insulting, evil suspicions, constant friction of people of corrupt minds and destitute of the truth, who suppose that godliness is a means of gain. Withdraw yourself from such.",
+      "echoes": [
+        {
+          "source": "Proverbs 28:25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "One who is greedy stirs up strife; but one who trusts in Yahweh will prosper.",
+          "note": "The portrait of the conceited teacher 'obsessed with arguments' who breeds 'envy, strife, insulting' recalls wisdom's contrast between the greedy/proud who stir up strife and the trusting who prosper. The catalogue of social vices arising from pride and contention reflects the sapiential pattern rather than any one quotation.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 13:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Pride only breeds quarrels, but with ones who take advice is wisdom.",
+          "note": "'By pride comes only contention' supplies the wisdom commonplace standing behind the picture of the conceited heretic who produces disputes and word-battles. The link is thematic, illustrating the proverbial association of arrogance with quarreling.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 23:4-5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Don’t weary yourself to be rich. In your wisdom, show restraint. Why do you set your eyes on that which is not? For it certainly sprouts wings like an eagle and flies in the sky.",
+          "note": "The charge that the false teachers 'suppose that godliness is a means of gain' anticipates the chapter's critique of money-driven religion and resonates with wisdom's warning against wearing oneself out to be rich. A faint forward link to the avarice motif developed in vv.9-10.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.6",
+      "ch": 6,
+      "ref": "6:6-8",
+      "text": "But godliness with contentment is great gain. For we brought nothing into the world, and we certainly can’t carry anything out. But having food and clothing, we will be content with that.",
+      "echoes": [
+        {
+          "source": "Job 1:21",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He said, “Naked I came out of my mother’s womb, and naked shall I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.”",
+          "note": "'We brought nothing into the world, and we certainly can't carry anything out' closely renders Job's confession, 'Naked I came from my mother's womb, and naked I will return there.' The shared logic of human poverty at birth and at death grounds the call to contentment and is the primary scriptural source for v.7."
+        },
+        {
+          "source": "Ecclesiastes 5:15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "As he came out of his mother’s womb, naked shall he go again as he came, and shall take nothing for his labor, which he may carry away in his hand.",
+          "note": "'As he came from his mother's womb, naked shall he go again as he came, and shall take nothing for his labor.' Qoheleth's meditation on the impossibility of carrying wealth out of life is a direct conceptual parallel to v.7 and reinforces the Job allusion. The pairing forms the wisdom backbone of the contentment teaching."
+        },
+        {
+          "source": "Psalm 49:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For when he dies he shall carry nothing away. His glory shall not descend after him.",
+          "note": "'For when he dies he will carry nothing away; his glory will not descend after him.' The psalm's reflection that the rich take nothing in death directly parallels the claim that we 'can't carry anything out.' A strong supporting witness to the same death-and-dispossession tradition."
+        },
+        {
+          "source": "Sirach 5:1-8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Set not your heart upon your goods; And say not, They are sufficient for me. Follow not your own mind and your strength, To walk in the desires of your heart; And say not, Who will have dominion over me? For the Lord will surely take vengeance on you. Say not, I sinned, and what happened to me? For the Lord is longsuffering. Concerning atonement, be not without fear, To add sin upon sins: And say not, His compassion is great; He will be pacified for the […]",
+          "note": "Ben Sira warns against relying on wealth and saying 'I have enough,' urging the reader not to follow heart and strength after riches. The deuterocanonical wisdom on the futility of trusting possessions undergirds the contentment ethic of vv.6-8 and the warnings of vv.9-10."
+        },
+        {
+          "source": "Proverbs 30:8-9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Remove far from me falsehood and lies. Give me neither poverty nor riches. Feed me with the food that is needful for me; lest I be full, deny you, and say, ‘Who is Yahweh?’ or lest I be poor, and steal, and so dishonor the name of my God.",
+          "note": "Agur's prayer, 'feed me with the food that is needful for me,' seeking neither poverty nor riches, supplies the ideal of sufficiency behind 'having food and clothing, we will be content.' The wisdom request for daily necessities is the closest sapiential parallel to v.8."
+        },
+        {
+          "source": "Genesis 28:20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Jacob vowed a vow, saying, “If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and clothing to put on,",
+          "note": "Jacob's vow asks God for 'bread to eat and clothing to wear,' the same minimal pairing of food and clothing that defines contentment in v.8. The verbal pairing may stand behind Paul's formula, though it is a common biblical idiom of basic provision.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 8:3-4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He humbled you, and allowed you to be hungry, and fed you with manna, which you didn’t know, neither did your fathers know; that he might teach you that man does not live by bread only, but man lives by every word that proceeds out of Yahweh’s mouth. Your clothing didn’t grow old on you, neither did your foot swell, these forty years.",
+          "note": "The wilderness lesson that God provided manna and that clothing did not wear out teaches dependence on God for daily food and covering. This forms a faint background to the food-and-clothing sufficiency that the believer is to rest content in.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.9",
+      "ch": 6,
+      "ref": "6:9-10",
+      "text": "But those who are determined to be rich fall into a temptation and a snare and many foolish and harmful lusts, such as drown men in ruin and destruction. For the love of money is a root of all kinds of evil. Some have been led astray from the faith in their greed, and have pierced themselves through with many sorrows.",
+      "echoes": [
+        {
+          "source": "Proverbs 15:27",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He who is greedy for gain troubles his own house, but he who hates bribes will live.",
+          "note": "'He who is greedy for gain troubles his own house.' The maxim that avarice brings ruin upon the grasping person directly underwrites 'the love of money is a root of all kinds of evil' and the picture of those who 'pierced themselves through with many sorrows.' A core wisdom source for v.10."
+        },
+        {
+          "source": "Sirach 27:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Many have sinned for a thing indifferent; And he that seeks to multiply gain will turn his eye away.",
+          "note": "'Many have sinned for the sake of profit, and he who seeks to multiply gain will turn his eye away.' Ben Sira's aphorism that the pursuit of money is itself a cause of sin is the closest known parallel to 'the love of money is a root of all kinds of evil.' Strong deuterocanonical antecedent for v.10."
+        },
+        {
+          "source": "Sirach 31:5-7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He that loves gold shall not be justified; And he that follows destruction shall himself have his fill of it. Many have been given over to ruin for the sake of gold; And their perdition meets them face to face. It is a stumbling block to those who sacrifice to it; And every fool shall be taken therewith.",
+          "note": "'He who loves gold will not be justified... Gold has been a stumbling block to many, and their destruction has met them face to face. It is a snare to those who are devoted to it.' The imagery of gold as a snare causing ruin parallels both the 'snare' of v.9 and the 'root of evil' of v.10. A remarkably close sapiential model."
+        },
+        {
+          "source": "Ecclesiastes 5:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He who loves silver shall not be satisfied with silver; nor he who loves abundance, with increase: this also is vanity.",
+          "note": "'He who loves silver shall not be satisfied with silver, nor he who loves abundance with increase.' Qoheleth's insight into the insatiability of money-love directly parallels the diagnosis of those 'determined to be rich' and 'the love of money.' A direct wisdom witness to the avarice critique."
+        },
+        {
+          "source": "Proverbs 23:4-5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Don’t weary yourself to be rich. In your wisdom, show restraint. Why do you set your eyes on that which is not? For it certainly sprouts wings like an eagle and flies in the sky.",
+          "note": "'Don't weary yourself to be rich... riches certainly sprout wings.' The warning against straining to be wealthy maps onto 'those who are determined to be rich fall into a temptation and a snare.' The fleeting, ensnaring character of riches grounds vv.9-10."
+        },
+        {
+          "source": "Proverbs 28:22",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "A stingy man hurries after riches, and doesn’t know that poverty waits for him.",
+          "note": "'A stingy man hurries after riches, and doesn't know that poverty waits for him.' The proverb that the avaricious rush toward wealth only to meet ruin parallels the trajectory of those who 'fall into... ruin and destruction.' Supporting wisdom source."
+        },
+        {
+          "source": "Proverbs 1:18-19",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "but these lay wait for their own blood. They lurk secretly for their own lives. So are the ways of everyone who is greedy for gain. It takes away the life of its owners.",
+          "note": "'So are the ways of everyone who is greedy for gain. It takes away the life of its owners.' Wisdom's claim that greed is self-destructive, ambushing the very ones who seek it, parallels those who in greed 'pierced themselves through with many sorrows.' A self-harm motif resonant with v.10.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 11:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "My son, be not busy about many matters: For if you meddle much, you will not be unpunished; And if you pursue, you will not overtake; And you will not escape by fleeing.",
+          "note": "'If you pursue, you will not overtake... and you will not escape by fleeing.' Ben Sira's counsel against frenetic pursuit of gain resonates with those 'determined to be rich' who fall into a snare. A faint deuterocanonical parallel.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.11",
+      "ch": 6,
+      "ref": "6:11-12",
+      "text": "But you, man of God, flee these things, and follow after righteousness, godliness, faith, love, patience, and gentleness. Fight the good fight of faith. Lay hold of the eternal life to which you were called, and you confessed the good confession in the sight of many witnesses.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 33:1",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "This is the blessing with which Moses the man of God blessed the children of Israel before his death.",
+          "note": "The address 'man of God' is the standard Hebrew Bible title for a prophet or authorized servant of God, applied to Moses ('the man of God') and frequently to figures like Elijah and Elisha. Timothy is cast in this prophetic-leadership lineage, charged to embody covenant virtue."
+        },
+        {
+          "source": "1 Samuel 9:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He said to him, “See now, there is in this city a man of God, and he is a man who is held in honor. All that he says comes surely to pass. Now let us go there. Perhaps he can tell us concerning our journey whereon we go.”",
+          "note": "Samuel is repeatedly called 'the man of God,' establishing the title as a designation for a trusted seer who speaks for the Lord. The Pastoral epithet for Timothy draws on this same OT usage of the authorized divine spokesman.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 21:21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He who follows after righteousness and kindness finds life, righteousness, and honor.",
+          "note": "'He who follows after righteousness and kindness finds life, righteousness, and honor.' The exhortation to 'follow after righteousness... and gentleness' and so 'lay hold of eternal life' resonates with wisdom's promise that pursuing righteousness leads to life. A thematic virtue-pursuit parallel.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.13",
+      "ch": 6,
+      "ref": "6:13-16",
+      "text": "I command you before God, who gives life to all things, and before Christ Jesus, who before Pontius Pilate testified the good confession, that you keep the commandment without spot, blameless, until the appearing of our Lord Jesus Christ; which in its own times he will show, who is the blessed and only Ruler, the King of kings, and Lord of lords; who alone has immortality, dwelling in unapproachable light; whom no man has seen, nor can see: to whom be honor and eternal power. Amen.",
+      "echoes": [
+        {
+          "source": "Nehemiah 9:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You are Yahweh, even you alone. You have made heaven, the heaven of heavens, with all their army, the earth and all things that are on it, the seas and all that is in them, and you preserve them all. The army of heaven worships you.",
+          "note": "'You give life to all of them' praises the one God who made and sustains all things. The charge before 'God, who gives life to all things' (v.13) echoes this confession of the Creator as life-giver to the whole creation. A direct conceptual parallel to the life-giving formula."
+        },
+        {
+          "source": "Deuteronomy 32:39",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“See now that I myself am he. There is no god with me. I kill and I make alive. I wound and I heal. There is no one who can deliver out of my hand.",
+          "note": "'I kill and I make alive... there is no god with me.' God's exclusive prerogative over life and death undergirds 'God, who gives life to all things' and the doxology's stress that he 'alone has immortality.' Supports both the life-giver and sole-sovereign motifs of vv.13-16."
+        },
+        {
+          "source": "Deuteronomy 10:17",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "For Yahweh your God, he is God of gods, and Lord of lords, the great God, the mighty, and the awesome, who doesn’t respect persons, nor takes reward.",
+          "note": "'For Yahweh your God, he is God of gods and Lord of lords.' The doxology's title 'King of kings, and Lord of lords' (v.15) directly takes up this Deuteronomic confession of God's supremacy over all powers. The clearest verbal source for the title."
+        },
+        {
+          "source": "Psalm 136:2-3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Give thanks to the God of gods; for his loving kindness endures forever. Give thanks to the Lord of lords; for his loving kindness endures forever:",
+          "note": "'Give thanks to the God of gods... to the Lord of lords.' The liturgical pairing of these superlatives reinforces the 'Lord of lords' title of v.15 and its hymnic, doxological setting. A strong secondary witness alongside Deuteronomy 10:17."
+        },
+        {
+          "source": "Daniel 2:47",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The king answered to Daniel, and said, Of a truth your God is the God of gods, and the Lord of kings, and a revealer of secrets, since you have been able to reveal this secret.",
+          "note": "Nebuchadnezzar confesses Daniel's God as 'God of gods, and Lord of kings.' The royal-supremacy formula praising the God who is over all kings parallels 'King of kings, and Lord of lords.' Reflects the apocalyptic vocabulary of divine kingship behind v.15."
+        },
+        {
+          "source": "Exodus 33:20",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "He said, “You cannot see my face, for man may not see me and live.”",
+          "note": "'You cannot see my face, for man may not see me and live.' The doxology's 'whom no man has seen, nor can see' (v.16) directly echoes God's word to Moses on the impossibility of beholding the divine face. A primary scriptural source for the invisibility motif."
+        },
+        {
+          "source": "Psalm 104:2",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He covers himself with light as with a garment. He stretches out the heavens like a curtain.",
+          "note": "God is 'covered with light as with a garment.' 'Dwelling in unapproachable light' (v.16) draws on this hymnic image of God clothed in light. The closest scriptural antecedent for the light-dwelling description."
+        },
+        {
+          "source": "Exodus 24:17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The appearance of Yahweh’s glory was like devouring fire on the top of the mountain in the eyes of the children of Israel.",
+          "note": "The glory of the Lord appeared 'like a devouring fire' on the mountain, inaccessible to the people. The unapproachable, blazing presence informs the 'unapproachable light' in which God dwells. A faint Sinai-theophany resonance.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 36:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For with you is the spring of life. In your light shall we see light.",
+          "note": "'For with you is the spring of life. In your light we will see light.' The association of God with life and with light loosely supports the doxology's coupling of the life-giver (v.13) with the God of unapproachable light (v.16). A thematic resonance rather than a citation.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 60:19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The sun shall be no more your light by day; neither for brightness shall the moon give light to you: but Yahweh will be to you an everlasting light, and your God your glory.",
+          "note": "'Yahweh will be your everlasting light.' The eschatological depiction of God as light may faintly inform the doxology's 'unapproachable light.' A distant resonance secondary to Psalm 104:2.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.17",
+      "ch": 6,
+      "ref": "6:17-19",
+      "text": "Charge those who are rich in this present world that they not be haughty, nor have their hope set on the uncertainty of riches, but on the living God, who richly provides us with everything to enjoy; that they do good, that they be rich in good works, that they be ready to distribute, willing to communicate; laying up in store for themselves a good foundation against the time to come, that they may lay hold of eternal life.",
+      "echoes": [
+        {
+          "source": "Psalm 62:10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Don’t trust in oppression. Don’t become vain in robbery. If riches increase, don’t set your heart on them.",
+          "note": "'If riches increase, don't set your heart on them.' The charge that the rich not 'have their hope set on the uncertainty of riches' closely matches the psalm's warning against fixing the heart on growing wealth. A primary source for v.17."
+        },
+        {
+          "source": "Proverbs 11:28",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He who trusts in his riches will fall, but the righteous shall flourish as the green leaf.",
+          "note": "'He who trusts in his riches will fall.' The contrast between trusting riches and the alternative directly parallels the command not to hope in 'the uncertainty of riches' but on the living God. A core wisdom antecedent for v.17."
+        },
+        {
+          "source": "Proverbs 23:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Why do you set your eyes on that which is not? For it certainly sprouts wings like an eagle and flies in the sky.",
+          "note": "Riches 'certainly sprout wings, like an eagle they fly toward the sky.' The fleeting, unreliable nature of wealth grounds the phrase 'the uncertainty of riches.' A vivid wisdom image of money's instability."
+        },
+        {
+          "source": "Jeremiah 9:23-24",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Thus says Yahweh, Don’t let the wise man glory in his wisdom, neither let the mighty man glory in his might, don’t let the rich man glory in his riches; but let him who glories glory in this, that he has understanding, and knows me, that I am Yahweh who exercises loving kindness, justice, and righteousness, in the earth: for in these things I delight, says Yahweh.",
+          "note": "'Don't let the rich man glory in his riches; but let him who glories glory in this, that he... knows me.' The redirection of the wealthy from boasting in riches to glorying in God parallels the charge that the rich not be haughty but hope on the living God. A strong source for the structure of v.17."
+        },
+        {
+          "source": "Deuteronomy 8:17-18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "and lest you say in your heart, “My power and the might of my hand has gotten me this wealth.” But you shall remember Yahweh your God, for it is he who gives you power to get wealth; that he may establish his covenant which he swore to your fathers, as at this day.",
+          "note": "'Beware lest you say... My power and the might of my hand has gotten me this wealth. But you shall remember Yahweh your God, for it is he who gives you power to get wealth.' The warning against pride in self-made riches and the reminder that God is the giver parallels the charge against the haughty rich and the God 'who richly provides us with everything.'"
+        },
+        {
+          "source": "Proverbs 19:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He who has pity on the poor lends to Yahweh; he will reward him.",
+          "note": "'He who has pity on the poor lends to Yahweh; he will reward him.' The exhortation that the rich 'be rich in good works, ready to distribute,' 'laying up in store... a good foundation against the time to come' echoes the wisdom principle that generosity to the needy is treasure stored with God. Grounds the storing-up imagery of v.19."
+        },
+        {
+          "source": "Tobit 4:7-11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Give alms from your possessions. When you give alms, don’t let your eye be envious. Don’t turn away your face from any poor man, and the face of God won’t be turned away from you. As your possessions are, give alms of it according to your abundance. If you have little, don’t be afraid to give alms according to that little; for you lay up a good treasure for yourself against the day of necessity; because alms-giving delivers from death, and doesn’t allow […]",
+          "note": "'Give alms from your possessions... you will be laying up a good treasure for yourself against the day of necessity.' Tobit's almsgiving counsel that charity stores up a treasure for the day of need is a remarkably close parallel to 'laying up in store... a good foundation against the time to come' (v.19). A strong deuterocanonical source."
+        },
+        {
+          "source": "Sirach 29:11-12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Bestow your treasure according to the commandments of the Most High; And it shall profit you more than gold. Shut up alms in your store-chambers; And it shall deliver you out of all affliction:",
+          "note": "'Lay up your treasure according to the commandments... and it will profit you more than gold. Store up almsgiving in your treasury, and it will rescue you from all affliction.' Ben Sira's image of almsgiving as treasure that delivers in the future directly parallels the rich laying up a good foundation against the time to come. Close sapiential antecedent for v.19."
+        },
+        {
+          "source": "Proverbs 30:8-9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Remove far from me falsehood and lies. Give me neither poverty nor riches. Feed me with the food that is needful for me; lest I be full, deny you, and say, ‘Who is Yahweh?’ or lest I be poor, and steal, and so dishonor the name of my God.",
+          "note": "Agur's prayer against riches that lead one to deny God and against poverty that leads to theft frames wealth as spiritually perilous. This wisdom ambivalence about riches faintly supports the warning that the rich not be haughty nor trust their wealth.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "6.20",
+      "ch": 6,
+      "ref": "6:20-21",
+      "text": "Timothy, guard that which is committed to you, turning away from the empty chatter and oppositions of the knowledge which is falsely so called; which some professing have erred concerning the faith. Grace be with you. Amen.",
+      "echoes": [
+        {
+          "source": "Proverbs 4:23",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Keep your heart with all diligence, for out of it is the wellspring of life.",
+          "note": "'Keep your heart with all diligence, for out of it is the wellspring of life.' The command 'guard that which is committed to you' draws on the wisdom ideal of vigilant safekeeping of what is precious. A thematic resonance with the keeping/guarding motif.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 14:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Stay away from a foolish man, for you won’t find knowledge on his lips.",
+          "note": "'Stay away from a foolish man, for you won't find knowledge on his lips.' The injunction to turn away from 'the empty chatter and oppositions of the knowledge falsely so called' resonates with wisdom's warning to avoid the fool's pseudo-knowledge. A faint sapiential parallel to the rejection of false gnosis.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

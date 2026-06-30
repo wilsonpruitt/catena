@@ -1,0 +1,387 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-2",
+    "echoes": [
+      {
+        "source": "Leviticus 16:30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Christ as the \"atoning sacrifice for our sins\" draws on the Day of Atonement, the single day on which atonement is made for all the sins of the people. The hilasmos language of propitiation is rooted in the Levitical cult that cleanses Israel before the LORD. John universalizes the rite to encompass the whole world.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 17:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"It is the blood that makes atonement by reason of the life\" supplies the sacrificial logic behind calling Jesus the propitiation for sins. The atoning-blood theology of Leviticus underlies the claim that his death covers the guilt of the world.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:10-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Servant who makes his life an offering for sin and bears the sin of many stands behind the idea of Christ as atoning sacrifice for the whole world. \"Not for ours only\" extends the Servant's vicarious suffering beyond Israel. The righteous one who justifies many parallels \"Jesus Christ, the righteous.\"",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"The righteous one, my servant\" who shall make many to be accounted righteous may color the epithet \"Jesus Christ, the righteous\" as advocate. The juxtaposition of righteousness and bearing sins links advocate and atonement.",
+        "contested": true
+      },
+      {
+        "source": "Job 16:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"My witness is in heaven, and he who vouches for me is on high\" supplies an OT image of a heavenly advocate pleading one's case before God. This anticipates the Counselor/advocate (paraklētos) Christians have with the Father.",
+        "contested": true
+      },
+      {
+        "source": "Job 33:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The mediating angel/interpreter who declares to man what is right may stand behind the figure of an advocate with the Father. The intercessory role parallels Christ pleading the believer's cause.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:3-6",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"Whoever keeps his word, God's love has been perfected in him\" reframes the Shema's command to love the LORD with all one's heart as something now fulfilled in the obedient believer. Keeping the commandments as proof of love directly recalls Deuteronomy's covenant logic.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The promise that the LORD will circumcise the heart so that Israel may love him with all the heart undergirds the claim that God's love is perfected in those who keep his word. The interiorized, completed love answers Deuteronomy's eschatological hope.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 11:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"You shall love the LORD your God and keep his charge and his commandments\" pairs love with commandment-keeping exactly as John does. Knowing God is shown by keeping his commandments in both texts.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 8:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel is tested to know whether they would keep his commandments; John makes keeping the commandments the test of whether one truly knows God. The verbal link of knowing and keeping commandments connects the passages.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 26:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"If you walk in my statutes and keep my commandments\" frames covenant fidelity as walking and keeping, language John echoes in walking as Christ walked and keeping his commandments. The covenant blessing depends on this obedience.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.7",
+    "ch": 2,
+    "ref": "2:7-11",
+    "echoes": [
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"You shall love your neighbor as yourself\" is the substance of the commandment John calls both old and new. To love one's brother and not hate him is the Holiness Code's command (cf. Leviticus 19:17, \"You shall not hate your brother in your heart\"). The \"old commandment from the beginning\" is this Levitical love-command.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"You shall not hate your brother in your heart\" stands directly behind John's contrast between loving and hating one's brother. The man who hates his brother walks contrary to this explicit prohibition.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 4:18-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"The path of the righteous is like the light of dawn\" while \"the way of the wicked is like deep darkness; they do not know over what they stumble\" closely parallels John's contrast of the one in light versus the one in darkness who does not know where he goes. The blinding darkness and lack of knowing the way are shared.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:33",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The new covenant in which God writes the law on the heart explains how an \"old commandment\" can be \"new\" and \"true in him and in you.\" The interiorized commandment of the new covenant is the love that John says is now realized.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The promise of a new heart and a new spirit illumines the \"new commandment\" that becomes true in the believer as the darkness passes and the true light shines. The eschatological renewal makes the old command newly possible.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 59:9-10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"We wait for light, but behold, darkness... we grope for the wall like the blind\" parallels the brother-hater who is in darkness, walks in darkness, and does not know where he goes because the darkness has blinded his eyes. Both depict moral blindness as physical groping in the dark.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 28:29",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The curse that one shall \"grope at noonday, as the blind grope in darkness\" supplies the image of being blinded so as not to find one's way. John applies this blinded groping to the one who hates his brother.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 9:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"The people who walked in darkness have seen a great light\" anticipates the true light already shining and the darkness passing away. The dawning eschatological light frames John's claim about the new commandment.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Arise, shine, for your light has come\" and the receding of darkness over the earth may color the assertion that the darkness is passing and the true light already shines. The dawning of divine light marks the new age.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:165",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Great peace have those who love your law, and nothing causes them to stumble\" parallels the one who loves his brother in whom there is no cause of stumbling. Love and freedom from stumbling are joined in both.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 36:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"In your light do we see light\" may inform the light/darkness antithesis that governs walking rightly. The divine light as the medium of right sight underlies John's imagery.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.12",
+    "ch": 2,
+    "ref": "2:12-14",
+    "echoes": [
+      {
+        "source": "Psalm 25:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"For your name's sake, O LORD, pardon my guilt\" parallels \"your sins are forgiven you for his name's sake.\" Forgiveness grounded in the divine name is a Psalter motif John applies to Christ's name.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 79:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Atone for our sins, for your name's sake\" closely matches the forgiveness of sins \"for his name's sake.\" The name as the basis of pardon is shared.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 103:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"As far as the east is from the west, so far does he remove our transgressions\" stands behind the assurance that sins are forgiven. The Psalter's confidence in divine pardon undergirds John's address to the little children.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The young men who have \"overcome the evil one\" may echo the protoevangelium's promise of victory over the serpent. The conquest of the satanic adversary fulfills the primordial enmity.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 6:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"The word of God remains in you\" recalls the Shema's charge that these words be on the heart and taught diligently. The indwelling word as a mark of strength parallels Deuteronomy's internalized commandment.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.15",
+    "ch": 2,
+    "ref": "2:15-17",
+    "echoes": [
+      {
+        "source": "Genesis 3:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The triad of \"lust of the flesh, lust of the eyes, and the pride of life\" mirrors Eve seeing that the tree was good for food (flesh), a delight to the eyes (eyes), and desirable to make one wise (pride). The fall narrative supplies the anatomy of worldly desire John condemns.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 2:10-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Qoheleth's pursuit of whatever his eyes desired, only to find all is vanity and passing, parallels the lust of the eyes and the world passing away with its desires. The transience of worldly pleasure is shared.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 1:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Vanity of vanities, all is vanity\" undergirds the assertion that the world and its lusts are passing away. The fleeting emptiness of all under the sun matches John's contrast with the one who abides forever.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 27:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"The eyes of man are never satisfied\" stands directly behind \"the lust of the eyes\" as insatiable craving. Like Sheol that is never full, worldly desire cannot be satisfied.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:6-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"All flesh is grass... the grass withers, the flower fades... but the word of our God will stand forever\" closely matches the world passing away with its lusts while the one who does God's will remains forever. The contrast of transient flesh and abiding word/will of God is the same.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 73:25-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Whom have I in heaven but you? ... God is the strength of my heart and my portion forever\" parallels the rejection of the world for the abiding portion of God. The enduring versus the fleeting governs both.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:37",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Turn my eyes from looking at worthless things\" parallels the warning against the lust of the eyes and loving the world. The prayer to avert the eyes from vanity matches John's exhortation.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 15:39",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The warning not to follow after one's own heart and eyes, which lead one to whore after them, parallels the lust of the eyes that belongs to the world. Eyes as agents of illicit desire connect the texts.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.18",
+    "ch": 2,
+    "ref": "2:18-23",
+    "echoes": [
+      {
+        "source": "Daniel 11:36",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The king who exalts himself above every god and speaks against the God of gods supplies the antitype behind the Antichrist who denies the Father and the Son. Daniel's blasphemous end-time figure shapes John's expectation of the coming Antichrist.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:25",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The horn that speaks words against the Most High and wears out the saints anticipates the antichrist who arises in the last hour to oppose God. Daniel's eschatological adversary informs the figure of many antichrists.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 8:23-25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The bold king of fierce countenance who rises in the latter time and rises against the Prince of princes colors the picture of the Antichrist appearing in the final hour. The deceitful end-time tyrant stands in the background.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 13:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The test of prophets who arise to lead Israel astray after other gods parallels the antichrists who go out and seek to lead the faithful astray with lies. The deceiver who departs from true confession is judged by both.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.24",
+    "ch": 2,
+    "ref": "2:24-27",
+    "echoes": [
+      {
+        "source": "Isaiah 61:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"The Spirit of the Lord GOD is upon me, because the LORD has anointed me\" stands behind the believers' \"anointing from the Holy One.\" John democratizes the prophetic anointing of the Spirit so that all who abide are taught directly.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:34",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"They shall all know me, from the least to the greatest... no longer shall each teach his neighbor\" directly underlies \"you don't need for anyone to teach you,\" because the anointing teaches all things. The new-covenant promise of universal divine instruction is fulfilled in the anointing.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The outpouring of God's Spirit on all flesh, so that all prophesy, underlies the anointing given to every believer that teaches them all things. The democratized Spirit of the last days matches John's \"you all have knowledge.\"",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 54:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"All your children shall be taught by the LORD\" parallels the anointing that teaches the faithful so they need no human teacher. Direct divine instruction of God's children is the shared promise.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"I will put my Spirit within you, and cause you to walk in my statutes\" parallels the indwelling anointing that abides and teaches obedience. The internal Spirit guiding conduct connects the texts.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.28",
+    "ch": 2,
+    "ref": "2:28-29",
+    "echoes": [
+      {
+        "source": "Psalm 11:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"The LORD is righteous; he loves righteous deeds\" parallels knowing that he is righteous and that everyone who practices righteousness is born of him. The link between God's righteousness and the righteous conduct of his people connects the texts.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Who can endure the day of his coming, and who can stand when he appears?\" colors the call to abide so as to have boldness and not be ashamed at his appearing. The eschatological testing at the divine appearing is shared.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The shame of some and the vindication of the wise who shine at the end may inform having boldness and not being ashamed before him at his coming. The contrast of shame and confidence at the eschaton underlies the verse.",
+        "contested": true
+      }
+    ]
+  }
+]

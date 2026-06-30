@@ -1,0 +1,291 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-2",
+    "echoes": [
+      {
+        "source": "Deuteronomy 32:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The title 'God our Savior' draws on the Septuagintal designation of YHWH as the saving God, where Israel forgot 'God his Savior.' Paul transfers the covenantal epithet for God to the gospel framing of the letter. The phrase recurs through 1 Timothy and is rooted in OT salvation language.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 25:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'God our Savior' echoes the Psalter's repeated address to the LORD as 'God of my salvation,' grounding the apostolic greeting in Israel's confession. The link is thematic rather than verbal. Marked low/contested as the title is a general OT topos.",
+        "contested": true,
+        "altSource": "Isaiah 12:2"
+      },
+      {
+        "source": "Numbers 6:25-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The triadic blessing 'grace, mercy, and peace' expands the Aaronic benediction, which invokes the LORD's favor (grace) and peace upon Israel. Paul's epistolary greeting Christianizes the priestly blessing. The added 'mercy' reflects OT covenant-mercy vocabulary.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:3-7",
+    "echoes": [
+      {
+        "source": "Genesis 5:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The warning against 'endless genealogies' presupposes the OT genealogical literature (the toledoth lists of Genesis) that later speculative interpreters elaborated. Paul rejects the misuse of such material for fruitless dispute. The genealogies of Genesis are the textual seedbed of the practice opposed.",
+        "contested": true,
+        "altSource": "1 Chronicles 1-9"
+      },
+      {
+        "source": "Jubilees 8:1-9:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'myths and endless genealogies' likely targets Second Temple genealogical embellishments like those reworking Genesis lineages in Jubilees. Paul opposes this haggadic expansion of the patriarchal lists. Cited as a pseudepigraphal parallel illustrating the practice, not a direct source.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 24:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The goal of the charge, 'love out of a pure heart,' draws on the cultic ideal of the one with 'clean hands and a pure heart' who may ascend the LORD's hill. Paul makes inward purity the aim of sound teaching. The phrase 'pure heart' is a direct OT moral-cultic category.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 51:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'A pure heart' echoes David's penitential plea, 'Create in me a clean heart, O God.' The renewed, purified heart is the locus of the love that fulfills the law. Paul presupposes this OT theology of inward cleansing.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Naming love as the 'goal' of the commandment recalls the Torah's own summary command to love the neighbor, which the NT treats as the law's fulfillment. The teachers of the law have missed the law's true telos. The echo grounds Paul's contrast between love and vain dispute.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Love as the aim of the divine charge resonates with the Shema's command to love God wholeheartedly, the foundational Torah demand. Paul recasts the would-be law-teachers' failure as missing this central love. A thematic echo undergirding the love/law relationship.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:8-11",
+    "echoes": [
+      {
+        "source": "Deuteronomy 4:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The affirmation 'the law is good' echoes Moses' praise of Israel's righteous statutes as a unique gift among the nations. Paul affirms the law's goodness while qualifying its proper use. The OT background secures the positive valuation of Torah.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 19:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The law is good' recalls the Psalter's celebration of the LORD's law as perfect, reviving the soul. Paul presumes this OT confession of the law's intrinsic goodness even as he restricts its application. A thematic echo of Torah-piety.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 20:12-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The vice list of vv. 9-10 tracks the second table of the Decalogue in order: dishonoring parents, killing, sexual sin, stealing (men-stealing), false witness. Paul structures the catalogue of the lawless on the Ten Commandments. The Exodus Decalogue is the organizing template.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:16-20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Deuteronomic recension of the Decalogue equally underlies the vice list's sequence (honor parents, no killing, no adultery, no stealing, no false witness). Paul's catalogue mirrors this commandment order. Cited alongside Exodus 20 as the dual Decalogue source.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 21:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Murderers of fathers and mothers' specifically reflects the capital statute against one who strikes father or mother, an intensification of the fifth commandment. Paul names the most flagrant breakers of the parent-honoring command. The Covenant Code furnishes the exact category.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 21:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Slave-traders' (men-stealers) corresponds to the capital law against one who steals and sells a person, the concrete form of the prohibition against stealing. Paul places kidnapping/enslaving at the stealing slot of the Decalogue sequence. The Exodus statute is the legal source.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 24:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The man-stealer/slave-trader echoes the Deuteronomic capital law against kidnapping a fellow Israelite to enslave or sell him. This grounds the 'enslavers' entry in the vice list. Cited with Exodus 21:16 as the Torah basis for condemning man-stealing.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 18:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The sexually immoral, homosexuals' draws on the Holiness Code's prohibition of male same-sex intercourse as part of the sexual-purity legislation behind the adultery commandment. Paul's term reflects the Septuagint phrasing of this statute. The Levitical law informs the vocabulary.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 20:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The condemnation of homosexual practice also echoes the parallel capital statute of the Holiness Code. The Septuagint wording of these verses is widely held to underlie the NT compound term rendered 'homosexuals.' A lexical echo of Levitical purity law.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:11-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Liars and perjurers' reflects the Holiness Code's paired prohibitions against lying to one another and swearing falsely by God's name, expressions of the false-witness and name-misuse commandments. Paul groups deceit and false oaths together as the law does. The Levitical statutes shape the entry.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Perjurers' specifically transgress the commandment against taking the LORD's name in vain by false swearing. Paul's inclusion of oath-breakers reaches back to the third commandment. A targeted echo of the Decalogue's name-honoring command.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:12-17",
+    "echoes": [
+      {
+        "source": "Exodus 34:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's repeated 'I obtained mercy' draws on the LORD's self-revelation as merciful and gracious, slow to anger, the foundational OT confession of divine compassion. The mercy shown to the chief of sinners enacts this character of God. Exodus 34:6 is the wellspring of biblical mercy language.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 2:23",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Receiving mercy as one formerly outside it echoes Hosea's reversal where 'not pitied' becomes 'pitied' and the unloved become God's people. Paul the persecutor is the paradigm of unexpected mercy. The Hosea motif of mercy granted to the undeserving stands behind the testimony.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 86:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's mercy receives its texture from the Psalter's restatement of the Exodus 34 formula, 'a God merciful and gracious, abounding in steadfast love.' The grace that 'abounded exceedingly' resonates with this superabundant covenant mercy. A liturgical echo of the divine attributes.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 145:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The doxology to 'the King eternal' draws on the Psalter's praise that 'your kingdom is an everlasting kingdom' and the LORD's dominion endures through all generations. Paul ascribes timeless kingship to the only God. Psalm 145 supplies the eternal-king acclamation.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 15:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The King eternal' echoes the climactic acclamation of the Song of the Sea, 'The LORD shall reign forever and ever.' Paul's doxology takes up Israel's primal confession of God's everlasting reign. The Exodus hymn underlies the 'forever and ever' of the praise.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Calling God 'invisible' recalls Sinai, where Israel heard the voice but 'saw no form,' the basis of OT aniconism. Paul affirms the unseeable nature of the only God. Deuteronomy's no-form theology grounds the predicate 'invisible.'",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The only God' (God who alone is wise / only God) is the Shema's confession that the LORD is one. Paul's monotheistic doxology rests on Israel's foundational creed. The Shema secures the 'only God' acclamation.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 6:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Darius's decree that God 'is the living God, enduring forever; his kingdom shall never be destroyed' parallels Paul's praise of the King eternal and immortal. The Aramaic court tale supplies a Gentile confession of the everlasting, deathless God. A close conceptual model for the doxology.",
+        "contested": false
+      },
+      {
+        "source": "Tobit 13:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Tobit's hymn, 'Blessed be God who lives forever, for his kingdom lasts throughout all ages,' parallels the doxology's eternal, immortal King. The deuterocanonical doxology shares Paul's vocabulary of everlasting divine reign. Cited as a Second Temple liturgical analogue.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 18:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He who lives forever created all things together' offers a deuterocanonical parallel to ascribing eternity and sole deity to God. The wisdom tradition's praise of the everliving Creator stands near Paul's doxology. A faint thematic echo from Second Temple piety.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 1:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Christ came to save sinners' resonates with the prophetic invitation in which scarlet sins are made white as snow, the OT promise of cleansing for the guilty. Paul as foremost sinner receives this promised pardon. A contested thematic echo of prophetic forgiveness.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 1:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's self-identification as 'foremost' of sinners yet shown mercy recalls the prophetic remnant spared by the LORD's grace despite Sodom-like guilt. The pattern of mercy preserving the unworthy underlies the testimony. Marked low as a diffuse echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:18-20",
+    "echoes": [
+      {
+        "source": "Job 2:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Handing Hymenaeus and Alexander 'over to Satan' so they may be disciplined echoes the LORD's delivering of Job into Satan's power within set limits for a corrective end. The motif of God permitting satanic affliction for a purpose informs the disciplinary act. Job supplies the pattern of a measured handing-over.",
+        "contested": false
+      },
+      {
+        "source": "Job 1:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The handing of the blasphemers to Satan also recalls the first heavenly grant, where the LORD places Job's possessions in Satan's hand. The bounded delegation of the accuser's power undergirds Paul's act of church discipline. A secondary echo of the Job prologue.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 3:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The figure of Satan as adversary against whom the LORD rebukes and from whom a 'brand' is plucked offers an OT backdrop to delivering offenders to Satan for their ultimate restoration. The corrective rather than destructive aim parallels Paul's intent. A contested figural echo.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 17:47",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The exhortation to 'wage the good warfare' draws on the OT theme of the LORD's battle, where 'the battle is the LORD's,' transposed into spiritual struggle. Timothy's fight is framed by Israel's holy-war language. A faint metaphorical echo.",
+        "contested": true
+      }
+    ]
+  }
+]

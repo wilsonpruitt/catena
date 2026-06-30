@@ -1,0 +1,338 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-2",
+    "echoes": [
+      {
+        "source": "Leviticus 19:32",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The charge not to rebuke an older man but to exhort him 'as a father' reflects the Holiness Code's command to rise before the gray head and honor the face of an old man. Paul translates the Torah's reverence for the aged into pastoral conduct within the household of faith.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Treating older men as fathers and older women as mothers extends the Decalogue's command to honor father and mother to the wider church family. The familial honor owed to parents becomes the template for intergenerational respect in the congregation.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 19:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The careful, non-shaming manner of correction ('do not rebuke... exhort') may echo the Holiness Code's directive to reason frankly with a neighbor rather than incur sin through hatred. The aim of rebuke without harshness reflects the Torah's regulated form of fraternal reproof.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Treating younger men as brothers and younger women as sisters 'in all purity' evokes the command to love one's neighbor as oneself within a familial frame. The kinship language fits the Levitical ethic of treating the community as one's own people.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:3-8",
+    "echoes": [
+      {
+        "source": "Deuteronomy 10:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Honor widows who are widows indeed' rests on the pervasive Torah concern for the widow, here grounded in God who 'executes justice for the fatherless and the widow.' The church's obligation to honor genuine widows continues God's own care for the defenseless.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 22:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The duty to provide for and protect true widows reflects the covenant prohibition, 'You shall not afflict any widow or fatherless child,' enforced by divine sanction. Paul's regulation of widow-care assumes this foundational Torah safeguard for the vulnerable.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 24:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The insistence on justice for the widow who is truly desolate echoes the command not to deprive the sojourner or fatherless of justice, nor take a widow's garment in pledge. The church inherits the Deuteronomic charge to shield the widow from neglect.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The duty of children and grandchildren to 'repay their parents' and show piety to their own family applies the Decalogue's command to honor father and mother. Caring for an aged widowed parent is the concrete fulfillment of filial honor that pleases God.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 1:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The privileging of the widow as object of communal duty resonates with the prophetic summons to 'bring justice to the fatherless, plead the widow's cause.' Right religion before God includes the defense of the widow, which Paul codifies for the assembly.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 68:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The widow 'desolate' who sets her hope on God recalls God as 'father of the fatherless and protector of widows in his holy habitation.' Her continual prayer night and day rests on the psalmist's portrait of God as the widow's defender.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 35:14-15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The genuine widow's persistent petitions 'night and day' echo Ben Sira's assurance that the Lord does not ignore the supplication of the widow whose tears run down. Her uninterrupted prayer is the very plea Sirach promises God will hear.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 21:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The widow who 'gives herself to pleasure is dead while she lives' draws on wisdom's warning that 'whoever loves pleasure will be a poor man.' Self-indulgent dissipation is figured as a living death, the opposite of the prayerful hope set on God.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 19:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The motif of luxury and indulgence ruining a person undergirds the saying that the wanton widow is 'dead while she lives.' Ben Sira's warnings that wine and dissipation destroy understanding inform the wisdom backdrop of spiritual death-in-life.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The paradox 'dead while she lives' may faintly echo the Edenic verdict that death attends the life lived for self apart from God. The wisdom-tinged idea of life forfeited through misdirected desire stands behind the aphorism.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 58:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The demand that believers 'provide for their own household' may reflect Isaiah's true-fast call to share bread and not hide from one's own flesh. Failing one's kin is precisely the neglect of 'your own flesh' that the prophet condemns.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.9",
+    "ch": 5,
+    "ref": "5:9-10",
+    "echoes": [
+      {
+        "source": "Genesis 18:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The enrolled widow commended for having 'washed the saints' feet' evokes Abraham's hospitality, where water is brought to wash the feet of the visiting strangers. Foot-washing as a token of welcome to guests reaches back to the patriarchal ideal of hospitality.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:1-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Being 'hospitable to strangers' as a mark of the approved widow recalls Abraham and Sarah's reception of the three visitors at Mamre. The patriarchal scene became the paradigm of welcoming strangers that Paul lists among the widow's good works.",
+        "contested": false
+      },
+      {
+        "source": "Job 31:32",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The praise of the hospitable widow who lodges strangers echoes Job's testimony that 'the sojourner has not lodged in the street; I have opened my doors to the traveler.' Hospitality to the stranger is a recognized mark of righteousness in the wisdom tradition.",
+        "contested": true
+      },
+      {
+        "source": "Job 31:16-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The widow approved for relieving the afflicted reflects Job's oath that he never withheld from the poor, the widow, or the needy but warmed them. The catalog of good works for the enrolled widow mirrors the patriarch's self-vindication in deeds of mercy.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 25:41",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Washing the feet of others as humble service recalls Abigail's offer to wash the feet of David's servants. The act signifies lowly, devoted hospitality, the disposition Paul commends in the enrolled widow.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.11",
+    "ch": 5,
+    "ref": "5:11-16",
+    "echoes": [
+      {
+        "source": "Genesis 1:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The counsel that younger widows 'marry, bear children, rule the household' reflects the creational mandate to be fruitful and multiply and to govern the domestic sphere. Paul roots his pastoral preference in the created good of marriage and childbearing.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Directing the younger to marry rather than remain idle assumes the Edenic judgment that 'it is not good that the man should be alone.' Marriage is presented as the fitting state guarding against the dangers of an unanchored life.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 26:13-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The portrait of the good wife who 'rules the household' may echo Ben Sira's praise of the silent, well-ordered, home-keeping wife as a gift from the Lord. The domestic ideal Paul commends overlaps with the wisdom tradition's picture of the virtuous spouse.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 7:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The idle younger widows 'going about from house to house... gossips and busybodies' recall the wandering, restless woman of Proverbs whose feet do not stay at home. The wisdom warning against the roving, undisciplined woman colors Paul's caution.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.17",
+    "ch": 5,
+    "ref": "5:17-18",
+    "echoes": [
+      {
+        "source": "Deuteronomy 25:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Paul cites verbatim, 'You shall not muzzle the ox when it treads out the grain,' introduced as 'the Scripture says,' to justify material support for laboring elders. The Torah's provision for the working animal becomes the warrant for compensating those who labor in word and teaching.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The principle that 'the laborer is worthy of his wages' reflects the Levitical command not to keep back the wages of a hired worker overnight. The just and timely payment of the laborer undergirds the double honor owed to elders.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 24:14-15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The maxim about the laborer's wages aligns with the Deuteronomic command to pay the poor hired worker each day before sunset, lest he cry out to the Lord. The principle of due reward for labor stands behind Paul's argument for supporting elders.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 18:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Supporting elders who labor in teaching echoes the provision that the Levites may eat the tithe as 'your wages in return for your service.' Sacred ministry warrants material support, a principle drawn from the priestly portion in the Torah.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.19",
+    "ch": 5,
+    "ref": "5:19-21",
+    "echoes": [
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The rule that no accusation against an elder be received 'except at the word of two or three witnesses' directly applies the Torah's evidentiary standard that a charge is established only on two or three witnesses. Paul transfers the judicial safeguard into church discipline of leaders.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 17:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The two-or-three-witnesses requirement also draws on the capital-case statute that no one be put to death on the testimony of a single witness. The double attestation needed before disciplining an elder mirrors this Deuteronomic protection against false accusation.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 35:30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The insistence on multiple witnesses echoes the law that a murderer be executed only on the evidence of witnesses, never one alone. The same principle restraining hasty condemnation governs accusations against elders.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 19:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The charge to observe these things 'without prejudice, doing nothing by partiality' reflects the Holiness Code's command to do no injustice in judgment, neither favoring the poor nor deferring to the great. Impartial judgment is the Levitical standard Paul imposes on church discipline.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 1:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Acting 'without prejudice' and refusing partiality echoes Moses' charge to judges: 'You shall not be partial in judgment; you shall hear the small and the great alike.' The impartiality demanded of Israel's judges becomes the rule for Timothy's oversight.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 13:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Reproving open sinners 'in the sight of all, that the rest also may be in fear' echoes the Deuteronomic rationale for public punishment, that 'all Israel shall hear and fear.' Visible discipline as deterrent reflects the Torah's pedagogy of communal fear.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 19:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The aim that public reproof make 'the rest also be in fear' parallels the law's purpose that 'the rest shall hear and fear, and shall never again commit such evil.' The deterrent function of open correction is drawn from this witness statute.",
+        "contested": true
+      },
+      {
+        "source": "2 Chronicles 19:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The demand to judge without partiality may echo Jehoshaphat's charge that with the Lord there is 'no injustice or partiality or taking of bribes.' Impartial oversight images the character of the God in whose sight Paul places the command.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.22",
+    "ch": 5,
+    "ref": "5:22-25",
+    "echoes": [
+      {
+        "source": "Numbers 27:18-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The warning to 'lay hands hastily on no one' presupposes the OT rite of commissioning by the laying on of hands, as Moses laid hands on Joshua before the assembly. Ordination's gravity, derived from this transfer of office, demands caution against premature appointment.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 34:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The charge against careless laying on of hands recalls that Joshua was full of wisdom because Moses had laid his hands on him. The efficacy and seriousness of hand-laying for office lie behind Paul's exhortation to restraint.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 90:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The observation that 'some men's sins are evident... and some also follow later' echoes the psalmist's awareness that God sets our secret sins in the light of his presence. Hidden sins that will eventually appear reflect the OT conviction that all deeds come to judgment.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 12:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The maxim that sins and good works alike cannot finally be hidden reflects Qoheleth's conclusion that God will bring every deed into judgment, with every secret thing. The eventual exposure of all conduct draws on this wisdom certainty.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 10:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The saying that concealed sins and good works 'can't be hidden' resonates with the proverb that crooked ways will be found out while integrity walks securely. Wisdom's confidence that character is eventually disclosed informs the chapter's closing aphorism.",
+        "contested": true
+      }
+    ]
+  }
+]

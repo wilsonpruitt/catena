@@ -1,0 +1,40 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-7",
+    "echoes": [
+      { "source": "Jeremiah 17:15", "type": "allusion", "confidence": "medium", "note": "The mockers' taunt 'Where is the promise of his coming?' echoes the scoffers of Jeremiah, 'Where is the word of the LORD? Let it come!' — the derision of a delayed divine word.", "contested": false },
+      { "source": "Isaiah 5:19", "type": "echo", "confidence": "medium", "note": "'Let him be quick… that we may know it' — the mockers who dare God's purpose to hurry — is the prophetic prototype of those who scoff at the deferred day of the Lord.", "contested": false },
+      { "source": "Ezekiel 12:22", "type": "echo", "confidence": "medium", "note": "'The days grow long, and every vision comes to nothing' is the proverb of delay Ezekiel must refute, parallel to 'all things continue as they were from the beginning of creation.'", "contested": false },
+      { "source": "Genesis 1:6-9", "type": "allusion", "confidence": "high", "note": "'By the word of God… an earth formed out of water and amid water' draws on the creation, where God's word separated the waters and gathered them so dry land appeared.", "contested": false },
+      { "source": "Psalm 33:6", "type": "allusion", "confidence": "medium", "note": "'By the word of the LORD the heavens were made' grounds Peter's insistence that the heavens existed 'by the word of God,' the same creative word that now reserves them for fire.", "contested": false },
+      { "source": "Genesis 7:11-23", "type": "allusion", "confidence": "high", "note": "'The world that then was, being overflowed with water, perished' depends on the flood that destroyed the ancient world — the precedent for a coming judgment, now by fire.", "contested": false }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:8-10",
+    "echoes": [
+      { "source": "Psalm 90:4", "type": "allusion", "confidence": "high", "note": "'One day is with the Lord as a thousand years, and a thousand years as one day' restates the psalm's 'a thousand years in your sight are but as yesterday when it is past' — God's time is not man's, answering the charge of delay.", "contested": false },
+      { "source": "Ezekiel 18:23", "type": "allusion", "confidence": "high", "note": "'Not wishing that any should perish, but that all should come to repentance' reflects the LORD's declaration, 'Have I any pleasure in the death of the wicked… and not rather that he should turn from his way and live?'", "contested": false, "altSource": "Ezekiel 33:11" },
+      { "source": "Habakkuk 2:3", "type": "echo", "confidence": "medium", "note": "'The Lord is not slow concerning his promise' answers the vision that 'awaits its appointed time… if it seems slow, wait for it; it will surely come.'", "contested": false },
+      { "source": "Joel 2:13", "type": "echo", "confidence": "medium", "note": "God 'gracious and merciful, slow to anger… and relents over disaster' grounds the patience that defers judgment for repentance (cf. Jonah 4:2).", "contested": false, "altSource": "Jonah 4:2" },
+      { "source": "Isaiah 34:4", "type": "allusion", "confidence": "high", "note": "'The heavens will pass away… the host of heaven shall rot away, and the skies roll up like a scroll' is the prophetic dissolution of the heavens behind 'the heavens will pass away with a great noise, and the elements will be dissolved.'", "contested": false },
+      { "source": "Micah 1:4", "type": "echo", "confidence": "medium", "note": "'The mountains will melt… like wax before the fire' supplies the melting-by-fire imagery of the day of the Lord.", "contested": false }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:11-18",
+    "echoes": [
+      { "source": "Isaiah 65:17", "type": "allusion", "confidence": "high", "note": "'New heavens and a new earth, in which righteousness dwells' draws directly on 'I create new heavens and a new earth,' the prophetic promise of a renewed creation.", "contested": false },
+      { "source": "Isaiah 66:22", "type": "allusion", "confidence": "high", "note": "'The new heavens and the new earth that I make shall remain before me' is the companion promise behind Peter's hope of the abiding new creation where righteousness is at home.", "contested": false },
+      { "source": "Isaiah 51:6", "type": "echo", "confidence": "medium", "note": "'The heavens vanish like smoke, the earth will wear out like a garment… but my salvation will be forever' frames the dissolution-and-enduring-righteousness contrast Peter draws.", "contested": false },
+      { "source": "Zephaniah 1:18", "type": "echo", "confidence": "medium", "note": "'In the fire of his jealousy all the earth shall be consumed' is a further day-of-the-LORD-by-fire antecedent for the burning heavens and melting elements.", "contested": false, "altSource": "Malachi 4:1" },
+      { "source": "Leviticus 22:21", "type": "echo", "confidence": "low", "note": "Being found 'without defect and blameless' uses the cultic language of the unblemished offering applied to the readers' moral state at the coming.", "contested": true }
+    ]
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-10",
+    "echoes": [
+      {
+        "source": "Proverbs 31:10-31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The portrait of the older and younger women — reverent, loving their households, 'workers at home,' kind and industrious — draws on the ideal of the worthy woman whose works praise her. The household-management language coheres with the Septuagintal woman of Proverbs 31. Thematic volume and availability are strong even without verbal quotation.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 31:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Workers at home' (v.5) recalls the worthy woman who 'looks well to the ways of her household.' A faint domestic-management echo within the broader Proverbs 31 frame.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 31:4-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Older women 'not enslaved to much wine' (v.3) echoes the wisdom warning against intoxication, where wine is unfit for those who must judge and govern. Reinforced by Proverbs 23:20-21. Contested as generic moral commonplace.",
+        "contested": true,
+        "altSource": "Proverbs 23:20-21"
+      },
+      {
+        "source": "Isaiah 52:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'That God's word may not be blasphemed' (v.5; cf. the name not reviled) reworks Isaiah's lament that 'my name continually all the day is blasphemed' among the nations because of Israel. Paul transfers the prophetic concern about Gentiles reviling God's name to the conduct of believers in the household.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:20-23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The motif that God's people may cause his name to be profaned/blasphemed among the nations underlies v.5 and v.10 ('that they may adorn the doctrine of God'). Ezekiel pairs the profaning of the name with God's resolve to vindicate his holy name, the same logic of witness Paul applies.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The instruction that wives be 'in subjection to their own husbands' (v.5) may faintly echo the post-fall ordering of marriage. Contested, since the household-code material is more directly Hellenistic-Jewish ethical convention than a Genesis citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:11-14",
+    "echoes": [
+      {
+        "source": "Isaiah 40:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The grace of God has appeared, bringing salvation to all men' (v.11) and the 'appearing of the glory' (v.13) draw on the revelation of the LORD's glory which 'all flesh shall see together.' The universal scope of salvation/glory revealed is Isaianic.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Salvation 'to all men' (v.11) echoes the bared arm of the LORD by which 'all the ends of the earth shall see the salvation of our God.' A faint universal-salvation echo supporting v.11.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 3:11-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Grace 'instructing/training us' (paideuō, v.12) to renounce ungodliness invokes the divine discipline tradition: the LORD chastens/instructs the one he loves as a father his son. The pedagogical grace of Titus is framed in this wisdom-discipline idiom.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 8:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The training/disciplining work of grace (v.12) echoes 'as a man chastens his son, so the LORD your God chastens you.' Reinforces the paideia background alongside Proverbs 3.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The appearing of the glory of our great God' (v.13) draws on the glory of the LORD that rises and is seen upon his people while darkness covers the earth. An eschatological epiphany-of-glory source.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 102:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD shall appear in his glory' undergirds the 'blessed hope and appearing of the glory' (v.13). The verb of divine appearing in glory matches the epiphany expectation.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The sudden coming of the Lord to his temple, and the question 'who shall abide the day of his appearing,' resonates with the awaited appearing in glory (v.13) and the purifying purpose of v.14. Contested, faint volume.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 130:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Who gave himself for us, that he might redeem us from all iniquity' (v.14) closely tracks 'he shall redeem Israel from all his iniquities.' The pairing of redemption with deliverance from all iniquity/lawlessness is a near-verbal dependence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 19:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Purify for himself a people for his own possession' (v.14) draws on 'you shall be my treasured possession (peculiar people) above all peoples.' The covenant election of a treasured people is reapplied to the church redeemed by Christ.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 7:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'A people for his own possession' (v.14) echoes Israel as 'a holy people unto the LORD, a peculiar people unto himself, above all peoples.' Part of the Deuteronomic treasured-people cluster behind v.14.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 14:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Restates the election of Israel as a 'peculiar people' / treasured possession, directly informing the 'people for his own possession' language of v.14.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 26:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The LORD has avouched you this day to be a peculiar people unto himself' supplies the covenant-possession formula reused in v.14, here tied to keeping his commandments (cf. 'zealous for good works').",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Purify for himself a people' (v.14) echoes 'I will cleanse them... so they shall be my people, and I will be their God.' The cleansing-to-be-a-people motif of the new covenant underlies the purifying purpose of redemption.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise to sprinkle clean water and cleanse from all uncleanness reinforces the 'purify a people' language of v.14 within the same Ezekielian new-covenant cleansing complex. Faint, secondary to 37:23.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 3:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'They shall be mine, my treasured possession (peculiar treasure)' on the day God acts supports the 'people for his own possession' of v.14, joining the treasured-people motif to an eschatological day, fitting the appearing of v.13.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 25:11-13",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "'Zealous for good works' (v.14) may evoke Phinehas, who 'was zealous for his God,' the paradigm of covenant zeal rewarded with an everlasting covenant. Contested, since Paul's 'zeal for good works' may be generic rather than a Phinehas allusion.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 7:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Redeem us' (lytroō, v.14) echoes the exodus redemption language: the LORD 'redeemed you from the house of bondage.' A faint redemption-vocabulary echo behind v.14, reinforced by Exodus 6:6.",
+        "contested": true,
+        "altSource": "Exodus 6:6"
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:15",
+    "echoes": [
+      {
+        "source": "Jeremiah 1:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Exhort and reprove with all authority; let no man despise you' (v.15) faintly recalls the prophetic commissioning, where the young prophet is told not to fear, for God will be with him. A contested echo of prophetic emboldening, since the charge fits general pastoral exhortation.",
+        "contested": true
+      }
+    ]
+  }
+]

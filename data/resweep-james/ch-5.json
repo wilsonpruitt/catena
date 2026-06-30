@@ -1,0 +1,55 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-6",
+    "echoes": [
+      { "source": "Isaiah 13:6", "type": "allusion", "confidence": "medium", "note": "'Come now, you rich, weep and howl' opens with the prophetic woe-cry, 'Wail, for the day of the LORD is near.' The same howling-summons announces eschatological judgment on the complacent.", "contested": false },
+      { "source": "Amos 6:1-7", "type": "allusion", "confidence": "high", "note": "Amos's woe on those 'at ease… who lie on beds of ivory and eat lambs from the flock' and 'are not grieved over the ruin of Joseph' is the prophetic template for James's denunciation of the luxurious rich who have 'lived delicately on the earth.' The coherence of theme and the day-of-slaughter motif are strong.", "contested": false },
+      { "source": "Deuteronomy 24:14-15", "type": "allusion", "confidence": "high", "note": "'You shall give him his wages… lest he cry against you to the LORD' is the law James indicts the rich for breaking: 'the wages of the laborers you kept back by fraud cry out.' The crying-out-to-God of withheld wages is verbally and legally precise.", "contested": false },
+      { "source": "Leviticus 19:13", "type": "allusion", "confidence": "high", "note": "'The wages of a hired worker shall not remain with you all night until the morning' is the Holiness-Code companion to Deuteronomy 24, prohibiting exactly the withholding James condemns.", "contested": false },
+      { "source": "Malachi 3:5", "type": "allusion", "confidence": "medium", "note": "The LORD comes in judgment 'against those who oppress the hired worker in his wages,' a prophetic restatement of the offense and the cry that reaches God.", "contested": false },
+      { "source": "Genesis 4:10", "type": "echo", "confidence": "medium", "note": "'The voice of your brother's blood is crying to me from the ground' is the archetype of injustice that cries out to God, behind 'the cries… have entered the ears of the Lord of Hosts.'", "contested": false },
+      { "source": "Job 13:28", "type": "echo", "confidence": "low", "note": "'Man wastes away like a rotten thing, like a garment that is moth-eaten' contributes the corrosion-and-moth imagery of decaying wealth (cf. Isaiah 50:9; 51:8).", "contested": true, "altSource": "Isaiah 51:8" },
+      { "source": "Wisdom 2:10-20", "type": "allusion", "confidence": "medium", "note": "The wicked who 'oppress the righteous poor man' and resolve to 'condemn him to a shameful death' is the Second-Temple righteous-sufferer scene behind 'you have condemned, you have murdered the righteous one. He does not resist you.'", "contested": false }
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:7-11",
+    "echoes": [
+      { "source": "Deuteronomy 11:14", "type": "allusion", "confidence": "high", "note": "'I will give the rain for your land in its season, the early rain and the later rain' is the covenant promise James invokes for the patient farmer who waits 'until it receives the early and late rain.' The early/late-rain pair is distinctive.", "contested": false },
+      { "source": "Joel 2:23", "type": "allusion", "confidence": "medium", "note": "'He has given the early rain… the early and the latter rain' restates the same agricultural promise as a sign of restoration, reinforcing the patient-farmer figure.", "contested": false },
+      { "source": "Jeremiah 5:24", "type": "echo", "confidence": "medium", "note": "'Let us fear the LORD… who gives the rain in its season, the autumn and the spring rains' supplies a further early/late-rain antecedent.", "contested": false },
+      { "source": "Job 1:21-22", "type": "allusion", "confidence": "high", "note": "'You have heard of the steadfastness of Job, and seen the outcome of the Lord' depends on the Job narrative — his endurance under loss without sin, and the restored 'outcome' of Job 42. James makes Job the type of patient endurance.", "contested": false, "altSource": "Job 42:10-17" },
+      { "source": "Exodus 34:6", "type": "allusion", "confidence": "high", "note": "'How the Lord is full of compassion and mercy' reproduces the LORD's self-revelation, 'merciful and gracious, slow to anger, abounding in steadfast love' — the formula echoed across the Psalter (103:8; 111:4).", "contested": false, "altSource": "Psalm 103:8" }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:12",
+    "echoes": [
+      { "source": "Leviticus 19:12", "type": "allusion", "confidence": "high", "note": "'Do not swear… let your yes be yes' rests on 'you shall not swear by my name falsely,' the Holiness-Code regulation of oaths that James radicalizes into avoiding oaths altogether.", "contested": false },
+      { "source": "Deuteronomy 23:21-23", "type": "echo", "confidence": "medium", "note": "The law on vows — that one must perform what is sworn and that refraining from vowing is no sin — is the legal background to James's counsel against swearing.", "contested": false },
+      { "source": "Sirach 23:9-11", "type": "echo", "confidence": "medium", "note": "'Do not accustom your mouth to oaths… a man who swears many oaths is full of iniquity' is the wisdom counsel against swearing that most closely parallels James.", "contested": true },
+      { "source": "Isaiah 66:1", "type": "echo", "confidence": "low", "note": "'Heaven is my throne and the earth is my footstool' grounds the prohibition of swearing 'by heaven or by earth,' since both belong to God.", "contested": true }
+    ]
+  },
+  {
+    "id": "5.4",
+    "ch": 5,
+    "ref": "5:13-18",
+    "echoes": [
+      { "source": "1 Kings 17:1", "type": "allusion", "confidence": "high", "note": "'Elijah… prayed earnestly that it might not rain, and it did not rain' draws directly on Elijah's word that 'there shall be neither dew nor rain these years, except by my word.' James reads the drought as answered prayer.", "contested": false },
+      { "source": "1 Kings 18:41-45", "type": "allusion", "confidence": "high", "note": "'He prayed again, and the sky gave rain' depends on Elijah on Carmel bowing to the ground in prayer until the rain came. The two-part drought-and-rain narrative is the backbone of James's example of the righteous person's prayer.", "contested": false },
+      { "source": "Psalm 34:15", "type": "echo", "confidence": "medium", "note": "'The eyes of the LORD are toward the righteous, and his ears toward their cry' grounds 'the insistent prayer of a righteous person is powerfully effective.'", "contested": false },
+      { "source": "Proverbs 15:8", "type": "echo", "confidence": "medium", "note": "'The prayer of the upright is acceptable to him' (cf. 15:29, 'he hears the prayer of the righteous') is the proverbial basis for the efficacy of the righteous person's prayer.", "contested": false, "altSource": "Proverbs 15:29" },
+      { "source": "Sirach 48:1-3", "type": "echo", "confidence": "medium", "note": "Ben Sira's praise of Elijah, who 'shut up the heavens' and 'brought down fire,' is the Second-Temple reception of the drought-prayer that James presupposes.", "contested": true },
+      { "source": "Proverbs 10:12", "type": "allusion", "confidence": "high", "note": "'Love covers all offenses' stands behind 'he who turns a sinner… will cover a multitude of sins,' the proverb of love covering sin applied to restoring the wanderer.", "contested": false },
+      { "source": "Ezekiel 33:8-9", "type": "allusion", "confidence": "medium", "note": "The watchman who warns the wicked to turn 'will have saved his life' is the prophetic logic behind saving a soul from death by turning the sinner back (cf. Ezekiel 3:18-21).", "contested": false, "altSource": "Ezekiel 3:18-21" },
+      { "source": "Daniel 12:3", "type": "echo", "confidence": "low", "note": "'Those who turn many to righteousness' shine like the stars — a faint echo behind turning a sinner from the error of his way.", "contested": true }
+    ]
+  }
+]

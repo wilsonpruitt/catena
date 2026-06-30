@@ -1,0 +1,58 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-3",
+    "echoes": [
+      { "source": "Exodus 20:17", "type": "echo", "confidence": "medium", "note": "'You lust and do not have; you kill, covet, and cannot obtain' traces the chain of conflict to covetous desire, the disorder the tenth commandment forbids. The volume is thematic but coheres with James's diagnosis of war from within.", "contested": false },
+      { "source": "Genesis 4:5-8", "type": "echo", "confidence": "low", "note": "The progression from frustrated desire to murder ('you kill, covet') echoes Cain, whose envy of his brother led to the first killing; James 3-4 elsewhere leans on the genealogy of sin from desire.", "contested": true }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:4-6",
+    "echoes": [
+      { "source": "Hosea 1-3", "type": "allusion", "confidence": "high", "note": "'You adulterers and adulteresses! friendship with the world is hostility toward God' deploys the prophetic figure of Israel's covenant-breaking as spiritual adultery, of which Hosea's marriage to Gomer is the paradigm. The single vocative 'adulteresses' presupposes the whole prophetic marriage-metaphor.", "contested": false },
+      { "source": "Exodus 20:5", "type": "allusion", "confidence": "high", "note": "'The Spirit who dwells in us yearns jealously' rests on the self-revelation of the LORD as 'a jealous God'; the divine jealousy that brooks no rival is exactly what makes friendship with the world enmity. Exodus 34:14 ('the LORD, whose name is Jealous') is the same datum.", "contested": false, "altSource": "Exodus 34:14" },
+      { "source": "Proverbs 3:34", "type": "quotation", "confidence": "high", "note": "James cites it with a formula ('therefore it says'): 'God opposes the proud but gives grace to the humble' reproduces the Septuagint of Proverbs 3:34 nearly verbatim (the Greek reads 'the Lord opposes the arrogant'). The same verse is cited at 1 Peter 5:5.", "contested": false },
+      { "source": "Deuteronomy 32:21", "type": "echo", "confidence": "low", "note": "The Song of Moses, where Israel 'made me jealous with what is no god,' is part of the jealousy-of-God background to v.5.", "contested": true },
+      { "source": "Zechariah 8:2", "type": "echo", "confidence": "low", "note": "'I am jealous for Zion with great jealousy' supplies a prophetic restatement of the divine jealousy James invokes for the indwelling Spirit.", "contested": true }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:7-10",
+    "echoes": [
+      { "source": "Zechariah 1:3", "type": "allusion", "confidence": "high", "note": "'Draw near to God, and he will draw near to you' restates the covenant promise 'Return to me… and I will return to you.' The reciprocal-approach formula is distinctive to this prophetic call to repentance.", "contested": false },
+      { "source": "Malachi 3:7", "type": "allusion", "confidence": "high", "note": "'Return to me, and I will return to you' is the same drawing-near formula; Malachi's setting of repentance and cleansing matches James's summons to sinners and the double-minded.", "contested": false },
+      { "source": "Isaiah 1:16", "type": "allusion", "confidence": "high", "note": "'Wash yourselves; make yourselves clean' lies behind 'cleanse your hands, you sinners,' the prophetic call to moral purification.", "contested": false },
+      { "source": "Psalm 24:4", "type": "allusion", "confidence": "high", "note": "'Clean hands and a pure heart' is the temple-entrance requirement that James fuses with Isaiah: 'cleanse your hands… purify your hearts.' The pairing of hands and heart is verbally close.", "contested": false },
+      { "source": "Job 22:29", "type": "allusion", "confidence": "medium", "note": "'When they are humbled you say, It is because of pride; but he saves the lowly' anticipates 'humble yourselves before the Lord, and he will exalt you.' The humbling-then-exalting reversal is the same.", "contested": false },
+      { "source": "Proverbs 29:23", "type": "allusion", "confidence": "high", "note": "'One's pride will bring him low, but the lowly in spirit will obtain honor' is the proverb James restates as 'humble yourselves before the Lord, and he will exalt you.'", "contested": false },
+      { "source": "Joel 2:12-13", "type": "echo", "confidence": "medium", "note": "'Return to me with all your heart, with fasting, weeping, and mourning' supplies the lament-and-mourning summons ('let your laughter be turned to mourning').", "contested": false }
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:11-12",
+    "echoes": [
+      { "source": "Deuteronomy 32:39", "type": "allusion", "confidence": "high", "note": "'There is one lawgiver and judge, he who is able to save and to destroy' echoes the Song of Moses, 'I kill and I make alive… there is none who can deliver out of my hand' — the sole divine prerogative over life and death.", "contested": false },
+      { "source": "Isaiah 33:22", "type": "allusion", "confidence": "high", "note": "'The LORD is our judge; the LORD is our lawgiver; the LORD is our king; he will save us' is the nearest verbal antecedent to James's 'one lawgiver and judge… able to save.' The triad judge/lawgiver/savior is distinctive.", "contested": false },
+      { "source": "Leviticus 19:16", "type": "echo", "confidence": "medium", "note": "'You shall not go around as a slanderer among your people' grounds 'do not speak against one another,' part of the same Holiness-Code love-of-neighbor James reads as the royal law.", "contested": false }
+    ]
+  },
+  {
+    "id": "4.5",
+    "ch": 4,
+    "ref": "4:13-17",
+    "echoes": [
+      { "source": "Proverbs 27:1", "type": "allusion", "confidence": "high", "note": "'Do not boast about tomorrow, for you do not know what a day may bring' is the proverb James expands into the rebuke of merchants who plan a year's trade 'whereas you do not know what tomorrow will bring.'", "contested": false },
+      { "source": "Psalm 39:5-6", "type": "allusion", "confidence": "high", "note": "'Man is a mere breath… a man heaps up wealth and does not know who will gather' stands behind 'you are a vapor that appears for a little time and then vanishes,' the breath-brevity figure applied to acquisitive boasting.", "contested": false },
+      { "source": "Sirach 11:18-19", "type": "allusion", "confidence": "medium", "note": "Ben Sira's rich man who says 'I have found rest, now I shall feast on my goods' yet does not know that death is near is the wisdom prototype of James's presumptuous merchant.", "contested": false },
+      { "source": "Job 7:7", "type": "echo", "confidence": "low", "note": "'Remember that my life is a breath' contributes to the mist-and-vapor brevity-of-life motif.", "contested": true }
+    ]
+  }
+]

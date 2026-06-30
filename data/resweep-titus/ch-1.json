@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-4",
+    "echoes": [
+      {
+        "source": "Numbers 23:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The clause that God 'can't lie' (1:2) draws on Balaam's oracle that 'God is not a man, that he should lie.' The divine veracity grounds the promise of eternal life made 'before time began.' Shared vocabulary and theology of God's unbreakable word make this the primary background.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 15:29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Samuel's declaration that 'the Strength of Israel will not lie nor repent' reinforces the same axiom of divine truthfulness behind 'God, who can't lie.' Often paired with Numbers 23:19 as a doublet on the immutability of God's word.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 89:35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's oath 'I have sworn by my holiness; I will not lie to David' supplies a covenantal instance of the same axiom undergirding a promise 'before time began.' Faint and contested, offered as a thematic parallel rather than verbal source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:5-9",
+    "echoes": [
+      {
+        "source": "Exodus 18:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jethro's counsel to select 'able men, such as fear God, men of truth, hating covetousness' to lead supplies the OT template of vetted, blameless leaders appointed over the people. Titus's charge to appoint elders who are above reproach and not greedy echoes this qualification list.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 1:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses' instruction to take 'wise men, and understanding, and known among your tribes' to be made heads parallels the appointment of recognized, reputable elders 'in every city.' The figural pattern of qualified communal leadership stands behind the overseer requirements.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 16:18-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The command to appoint judges and officers 'in all your gates' who shun a bribe and dishonest gain echoes both the city-by-city appointing of elders and the 'not greedy for dishonest gain' qualification. Faint and contested as a direct source.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 21:17-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The priestly requirement that one who draws near be 'without blemish' offers an OT background to the demand that the overseer be 'blameless.' Contested, since the moral 'above reproach' of Titus differs from Levitical physical wholeness; logged as a faint figural resonance.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 31:4-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wisdom warning that rulers should not be 'given to wine' lest they pervert justice resonates with the overseer being 'not given to wine.' Faint and contested verbal echo within the leadership-qualification cluster.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.10",
+    "ch": 1,
+    "ref": "1:10-16",
+    "echoes": [
+      {
+        "source": "Isaiah 56:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's indictment of shepherds who are 'greedy dogs… they all look to their own way, every one for his gain' stands behind the deceivers who teach 'for dishonest gain's sake.' The portrait of mercenary false leaders is a stock prophetic type Titus applies to the Cretan teachers.",
+        "contested": false
+      },
+      {
+        "source": "Micah 3:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Micah condemns leaders who 'teach for hire' and prophets who 'divine for money,' the same fusion of teaching and shameful gain leveled at the deceivers in 1:11. The prophetic critique of religious profiteering is the conceptual source.",
+        "contested": false
+      },
+      {
+        "source": "Micah 3:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Micah's prophets who 'make my people err' for food reinforce the picture of deceivers leading whole houses astray for gain. Logged as a supporting faint parallel within the greedy-false-prophet cluster.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 22:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel's princes 'like wolves… to get dishonest gain' parallel those teaching for dishonest gain and overthrowing households. A faint reinforcing prophetic echo of rapacious leadership.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 6:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah's charge that 'every one is given to covetousness… from the prophet even to the priest every one deals falsely' echoes the deceivers who teach for gain. Faint and contested, offered as a parallel within the same prophetic topos.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The maxim 'to the pure, all things are pure' (1:15) presupposes the creation verdict that God saw all that he had made 'and behold, it was very good.' The goodness of all created things grounds Paul's rejection of the ascetic/ritual purity demands of the teachers.",
+        "contested": false
+      },
+      {
+        "source": "Haggai 2:13-14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Haggai's priestly ruling that one defiled by a corpse renders what he touches unclean, applied to 'this people… so is every work of their hands,' lies behind 'to those who are defiled… nothing is pure' and 'their mind and conscience are defiled.' Contagion of defilement is reversed/transposed onto inward corruption.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 30:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The generation 'pure in their own eyes, and yet is not washed from their filthiness' parallels those who profess purity yet are inwardly defiled in mind and conscience. A pointed wisdom echo on self-deceived impurity.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's people who 'draw near with their mouth… but have removed their heart far from me,' teaching 'the commandment of men,' stands behind both 'commandments of men who turn away from the truth' (1:14) and 'they profess that they know God, but by their works they deny him' (1:16). Lip-profession contradicted by life is the shared indictment.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 12:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's complaint that the wicked are 'near in their mouth, and far from their reins' parallels professing to know God while denying him by works. A faint contested echo overlapping with Isaiah 29:13.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 11:44-47",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The clean/unclean food distinctions of the holiness code form the implicit ritual background that 'to the pure all things are pure' relativizes. Contested as a direct source rather than a conceptual foil for the purity dispute.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,329 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-2",
+    "echoes": [
+      {
+        "source": "Deuteronomy 30:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul styles his apostleship as serving 'the promise of the life which is in Christ Jesus.' The Deuteronomic covenant blessing frames clinging to the LORD as the source of 'life and length of days,' an OT matrix for the promise-of-life language Paul Christologizes here.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 17:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'promise' according to which Paul is sent recalls the patriarchal covenant promise to Abraham and his seed; Pauline 'promise' theology consistently roots in this Genesis covenant. Faint here, marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 6:25-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The greeting 'Grace, mercy, and peace' echoes the Aaronic priestly blessing, where the LORD is asked to 'be gracious' and to 'give peace.' The triad of grace and peace in Paul's salutations draws on this benedictory form.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:3-5",
+    "echoes": [
+      {
+        "source": "2 Maccabees 15:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Serving God 'as my forefathers did' with a 'pure conscience' presents Paul's gospel as continuous with ancestral Jewish piety; 2 Maccabees praises the high priest Onias as a man of upright conscience and ancestral devotion. Deuterocanonical conscience language is faint background.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 24:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The 'pure conscience' with which Paul serves echoes the OT ideal of the 'pure heart and clean hands' required to stand before God. The psalm's purity-of-heart standard underlies the conscience language transposed into Pauline interiority.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 51:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The plea for a 'clean heart' and right spirit parallels Paul's claim to serve God with a pure conscience; the conscience motif develops the OT clean-heart ideal. Faint, marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 8:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's 'unceasing memory' and remembering 'night and day' draws on the OT idiom of a fragrant memorial / remembrance before God; Genesis introduces the 'pleasing aroma' the LORD remembers. The remembrance language is faint.",
+        "contested": true,
+        "altSource": "Numbers 10:9-10"
+      },
+      {
+        "source": "Deuteronomy 6:5-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'sincere faith' that lived first in grandmother Lois and mother Eunice and now in Timothy enacts the Shema's command to bind covenant faith on the heart and teach it diligently to children across generations. The intergenerational transmission of faith is the Deuteronomic catechetical ideal.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 78:5-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The chain of faith from grandmother to mother to son mirrors the psalm's mandate that fathers teach the next generation so that children yet unborn would set their hope in God. Timothy's inherited 'sincere faith' embodies this generational handing-down.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 1:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The faith received specifically through grandmother and mother recalls the wisdom tradition's appeal to heed 'your mother's teaching.' The maternal pedagogy motif faintly underlies the naming of Lois and Eunice.",
+        "contested": true,
+        "altSource": "Proverbs 31:1"
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:6-7",
+    "echoes": [
+      {
+        "source": "Numbers 27:18-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Stirring up 'the gift of God which is in you through the laying on of my hands' recalls Moses commissioning Joshua by the laying on of hands so that he was filled with the spirit of wisdom. The ordination-by-imposition-of-hands motif is rooted in this Mosaic succession.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 34:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Joshua was 'full of the spirit of wisdom, for Moses had laid his hands on him,' the precise pattern Paul invokes: a spiritual gift conferred through imposition of hands by the predecessor. Strongly parallels Timothy's reception of the charisma.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Spirit God gives, 'of power, love, and self-control' rather than fear, recalls the messianic endowment of the Spirit of wisdom, counsel, and might resting on the shoot of Jesse. The enumerated Spirit-qualities echo Isaiah's catalog of the Spirit's gifts.",
+        "contested": false
+      },
+      {
+        "source": "Joshua 1:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'God didn't give us a spirit of fear' answers the LORD's charge to Joshua, 'be strong and courageous; do not be afraid,' precisely as Timothy steps into a Joshua-like succession of leadership. The not-fearing-but-strong commission undergirds the whole exhortation.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 4:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'spirit of power' contrasted with fear echoes 'not by might nor by power, but by my Spirit'; the divine Spirit as the true source of effective strength. Faint conceptual link, marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 41:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Don't be afraid, for I am with you... I will strengthen you' parallels Paul's denial that God gives a spirit of fear and his assertion of a spirit of power. Isaiah's salvation-oracle formula of fearlessness-through-divine-strength stands behind the verse.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "1.8",
+    "ch": 1,
+    "ref": "1:8-10",
+    "echoes": [
+      {
+        "source": "Isaiah 50:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Don't be ashamed of the testimony' draws on the Servant's resolve: 'I have set my face like a flint, and I know I will not be put to shame.' The vindication-of-the-unashamed-witness motif shapes Paul's appeal to Timothy to embrace suffering without shame.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 119:46",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will speak of your testimonies before kings, and will not be put to shame' directly anticipates Paul's call not to be ashamed of the testimony and of his chains. The unashamed public confession before rulers is the psalmist's posture.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 28:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He who believes will not be put to shame' is a recurrent Pauline shame-text; here it faintly informs the unashamed-testimony theme even without citation. Marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 7:7-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God 'saved us and called us... not according to our works, but according to his own purpose and grace' restates the Deuteronomic logic of election: the LORD set his love on Israel not because of their numbers or merit but because he loved them and kept his oath. Election by sheer gracious purpose is the OT root.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 25:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Christ 'who abolished death' echoes the eschatological promise that the LORD 'will swallow up death forever.' The abolition-of-death motif is the climactic Isaianic hope now realized in the Savior's appearing.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 2:23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Christ 'brought life and immortality to light' resonates with Wisdom's claim that God created humanity for incorruption, in the image of his own eternity. The deuterocanonical immortality/incorruption vocabulary directly underlies Paul's athanasia language.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 3:1-4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The hope that 'the souls of the righteous are in the hand of God' and their 'hope is full of immortality' parallels the life-and-immortality brought to light through the gospel. Wisdom's immortality theology is the closest Second-Temple antecedent.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 13:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will ransom them from the power of the grave; I will redeem them from death' provides an OT oracle of death's defeat behind Christ's abolishing of death. Faint, overlapping with Isaiah 25:8.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The disclosure of 'life and immortality' resonates with Daniel's resurrection hope of awaking to everlasting life. The apocalyptic immortality promise is a faint backdrop to the gospel's bringing of imperishable life to light.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.11",
+    "ch": 1,
+    "ref": "1:11-12",
+    "echoes": [
+      {
+        "source": "Isaiah 49:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul's appointment as 'a teacher of the Gentiles' enacts the Servant's commission to be 'a light to the nations,' that salvation might reach the ends of the earth. His Gentile herald-role fulfills Isaiah's light-to-the-nations mandate.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 50:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Yet I am not ashamed' in the midst of suffering reprises the Servant's flint-faced confidence that he will not be put to shame. The Servant's unashamed endurance models Paul's own.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 31:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I know whom I have believed, and... he is able to guard that which I have committed to him' echoes 'Into your hand I commit my spirit; you have redeemed me.' The committing/entrusting of oneself to the faithful God parallels the psalmist's deposit. Marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 56:3-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In God I trust; I will not be afraid' parallels Paul's confident 'I know whom I have believed' and lack of shame. Faint trust-formula resonance.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.13",
+    "ch": 1,
+    "ref": "1:13-14",
+    "echoes": [
+      {
+        "source": "Deuteronomy 4:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Holding 'the pattern of sound words' and guarding 'that good thing committed to you' draws on the Deuteronomic charge to add nothing and take nothing from the commanded word but to keep it. The deposit-of-teaching motif reflects covenant-word preservation.",
+        "contested": true,
+        "altSource": "Deuteronomy 6:6-9"
+      },
+      {
+        "source": "Deuteronomy 11:18-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Guard' the good deposit through the Spirit echoes the command to lay up God's words in heart and soul, binding and teaching them. The entrusted-treasure-of-the-word imagery is rooted in Deuteronomy's commands to keep and transmit the torah.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 4:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Take hold of instruction; do not let go; keep her, for she is your life' closely parallels 'hold the pattern of sound words' and 'guard' the deposit. The wisdom command to grip and guard saving instruction undergirds Paul's exhortation.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 2:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Receiving words and 'treasuring up' commandments parallels the entrusted good deposit to be guarded. Faint wisdom-deposit link, marked contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.15",
+    "ch": 1,
+    "ref": "1:15-18",
+    "echoes": [
+      {
+        "source": "Psalm 41:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'All who are in Asia turned away from me' echoes the lament of abandonment by close associates, as the psalmist's familiar friend turns against him. The desertion-by-companions motif colors Paul's account, marked contested.",
+        "contested": true,
+        "altSource": "Psalm 38:11"
+      },
+      {
+        "source": "Ruth 1:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's prayer that the Lord 'grant mercy to the house of Onesiphorus' for kindness shown echoes Naomi's blessing that the LORD deal kindly with those who showed kindness (chesed) to the living and the dead. The reciprocal-kindness-blessing formula is the OT antecedent.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 24:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'May the LORD reward you well for what you have done' parallels Paul's wish that the Lord repay Onesiphorus's refreshing kindness with mercy. The petition-for-divine-recompense-of-mercy is faintly present.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 18:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Asking that Onesiphorus 'find mercy from the Lord in that day' invokes the Judge of all the earth doing right at the eschatological judgment. The day-of-the-LORD judgment frame behind 'that day' is rooted in OT theophany. Marked contested.",
+        "contested": true,
+        "altSource": "Joel 2:31"
+      },
+      {
+        "source": "Proverbs 11:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Onesiphorus 'often refreshed me' and the prayer for his reward echoes 'whoever refreshes others will be refreshed.' The one-who-refreshes-will-be-refreshed proverb closely matches the language and logic of Paul's blessing.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 7:33",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let your kindness extend to all the living, and do not withhold kindness even from the dead' resonates with Paul's prayer of mercy for the absent (possibly deceased) Onesiphorus and his household. Deuterocanonical kindness-to-the-departed ethic faintly informs the petition.",
+        "contested": true
+      }
+    ]
+  }
+]

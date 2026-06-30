@@ -1,0 +1,345 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-4",
+    "echoes": [
+      {
+        "source": "Genesis 1:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The opening phrase 'that which was from the beginning' deliberately echoes the Septuagint's 'en arche' of Genesis 1:1. The author frames the proclamation in cosmogonic terms, locating the Word of life at the primordial beginning of all things.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The creative divine word that calls light into being ('Let there be light') resonates faintly with the 'Word of life' that is manifested. The juxtaposition of beginning, word, and life recalls the spoken creation of Genesis.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 33:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'By the word of the LORD the heavens were made' supplies the background for a life-giving creative word. The Word of life that was from the beginning draws on the tradition of God's word as the agent of creation and vivification.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 8:22-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Personified Wisdom, 'possessed from the beginning, before the earth was,' provides a conceptual matrix for a pre-existent Word that was from the beginning with the Father. The 1 John prologue shares the sapiential vocabulary of primordial origin.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The manifested 'life' that the witnesses heard, saw, and touched may recall God breathing the breath of life into the human, the originating gift of life. The link is thematic rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 3:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom as a 'tree of life' to those who lay hold of her loosely parallels the 'eternal life' that the witnesses lay hold of and touch with their hands. A faint sapiential resonance.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 30:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The LORD as 'your life and the length of your days' undergirds the Johannine equation of God/Word with life itself. The eternal life that was with the Father echoes the covenantal life found in God.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom 7:25-26",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Wisdom as 'a pure emanation' and 'reflection of eternal light' with God supplies a deuterocanonical bridge for the pre-existent life that was with the Father and was manifested. Shares the language of a divine reality made visible.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:5",
+    "echoes": [
+      {
+        "source": "Psalm 27:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The LORD is my light and my salvation' grounds the declaration that 'God is light.' The metaphor of God as the believer's light is a fixed OT motif that 1 John condenses into a definitional statement.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 36:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'In your light we see light' joins divine light to the source of life, matching the prologue's pairing of light and the Word of life. The verse provides a close conceptual parallel to God as unmixed light.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD will be your everlasting light' and the sun's light will be superseded by God himself. This eschatological vision of God as undiminished light supports the claim that in him is no darkness at all.",
+        "contested": false
+      },
+      {
+        "source": "Habakkuk 3:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The theophany where God's brightness 'was like the light' and rays flashed from his hand offers an OT image of divine radiance. A faint background to the absolute light of 1 John.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 104:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God 'covers himself with light as with a garment' presents the deity clothed in light. This supports the predication 'God is light' as native to Israel's praise of the Creator.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He knows what is in the darkness, and the light dwells with him' pairs God with light over against darkness, mirroring 1 John's light/darkness antithesis. A contested but apt verbal resonance.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 45:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God who forms light and creates darkness establishes the sovereignty over both realms; 1 John sharpens this into God being pure light with no darkness. The relationship is dialectical rather than direct.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:6-7",
+    "echoes": [
+      {
+        "source": "Isaiah 2:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Come, let us walk in the light of the LORD' supplies the ethical idiom of walking in light that 1 John opposes to walking in darkness. The summons to conduct oneself in God's light is directly echoed.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 4:18-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The contrast of 'the path of the righteous is like the light of dawn' with 'the way of the wicked is like deep darkness' frames walking in light versus darkness as the two ways. This is the closest sapiential parallel to 1 John's antithesis.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 82:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Those who 'walk about in darkness' without knowledge depict moral and spiritual blindness, paralleling the one who claims fellowship yet walks in darkness. A faint background image.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 16:30",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "On the Day of Atonement 'you shall be clean before the LORD from all your sins' through the sacrificial blood, undergirding the claim that the blood cleanses from all sin. 1 John transposes the cultic purgation onto the blood of Jesus.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 17:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The life of the flesh is in the blood... it is the blood that makes atonement' establishes the atoning, cleansing power of blood that 1 John applies to Jesus' blood. The sacrificial logic of cleansing-by-blood is foundational.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 13:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'A fountain opened... to cleanse from sin and uncleanness' anticipates a definitive cleansing from sin, matching the blood that cleanses from all sin. The eschatological purification motif resonates.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 51:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow' voices the cultic cleansing from sin that 1 John ascribes to the blood. The plea for thorough purification is echoed.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 24:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The blood of the covenant sprinkled on the people seals the relationship and consecrates them, a background for the cleansing blood that secures fellowship. A faint covenantal resonance.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.8",
+    "ch": 1,
+    "ref": "1:8",
+    "echoes": [
+      {
+        "source": "Proverbs 20:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Who can say, I have made my heart clean, I am pure from my sin?' directly anticipates the rebuke of those who claim to have no sin. The rhetorical question denies the possibility of sinlessness that 1 John condemns as self-deception.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 8:46",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'There is no one who does not sin' establishes the universality of sin that exposes the false claim to have no sin. Solomon's prayer provides the scriptural axiom underlying 1 John's warning.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 7:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'There is not a righteous man on earth who does good and never sins' restates the universal sinfulness that makes the claim to be without sin self-deceptive. A close sapiential parallel.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 143:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'No one living is righteous before you' grounds the impossibility of sinlessness before God. The verse supports 1 John's insistence that to deny sin is to lack the truth.",
+        "contested": false
+      },
+      {
+        "source": "Job 15:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'What is man, that he should be clean?' voices the rhetorical denial of human purity, echoing the futility of claiming to have no sin. A faint wisdom-tradition resonance.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 2:35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel's claim 'I am innocent... I have not sinned' is rebuked by God, paralleling the self-deception of those who say they have no sin. The prophetic indictment of denied guilt resonates.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.9",
+    "ch": 1,
+    "ref": "1:9",
+    "echoes": [
+      {
+        "source": "Proverbs 28:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy' is the closest OT parallel to the promise that confession brings forgiveness. 1 John echoes the proverb's logic of confession leading to mercy.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 32:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I acknowledged my sin to you... and you forgave the iniquity of my sin' provides the experiential template for confession resulting in divine forgiveness. The verse matches both the act of confessing and the assurance of pardon.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 51:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Wash me thoroughly from my iniquity... I acknowledge my transgressions' joins confession of sin to the plea for cleansing, matching the dual promise to forgive and to cleanse from all unrighteousness. The penitential pattern is closely paralleled.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The LORD 'merciful and gracious... forgiving iniquity and transgression and sin' supplies the character ground for God being faithful and just to forgive. The covenant name-formula underwrites divine reliability in pardon.",
+        "contested": false
+      },
+      {
+        "source": "Micah 7:18-19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God who 'pardons iniquity' and 'will tread our iniquities underfoot' delighting in steadfast love supports the faithfulness and justice of God in forgiving. The prophetic confidence in pardon resonates.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 9:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'To the Lord our God belong mercy and forgiveness, though we have rebelled' joins corporate confession to assured forgiveness, echoing the confession-forgiveness dynamic. A faint background from penitential prayer.",
+        "contested": true
+      },
+      {
+        "source": "Nehemiah 9:33",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You are just in all that has come upon us, for you have dealt faithfully' pairs God's justice and faithfulness in dealing with sin, echoing the 'faithful and just' predication. A contested resonance from covenantal confession.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 16:30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The cleansing 'from all your sins' on the Day of Atonement underlies the promise to cleanse from all unrighteousness. The cultic language of total purgation reappears alongside confession.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.10",
+    "ch": 1,
+    "ref": "1:10",
+    "echoes": [
+      {
+        "source": "Numbers 23:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'God is not a man, that he should lie' establishes that to contradict God is to make him out a liar, which is what claiming sinlessness does. 1 John inverts the axiom: denying sin effectively calls the truthful God a liar.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 8:46",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'There is no one who does not sin' makes the claim 'we have not sinned' a denial of revealed truth. The verse grounds the charge that such a claim makes God a liar.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 14:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'They have all turned aside... there is none who does good, not even one' affirms universal sin, so denying one's sin contradicts God's own verdict. The psalm's indictment supports the charge of making God a liar.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 2:35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel's protest 'I have not sinned' provokes God's judgment, paralleling the self-condemning denial in 1 John. A faint prophetic echo of denied guilt.",
+        "contested": true
+      },
+      {
+        "source": "Job 9:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Though I am in the right... my own mouth would condemn me; though I am blameless, he would prove me perverse' captures the futility of self-justification before God. A contested wisdom resonance with denying one's sin.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 15:29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Glory of Israel will not lie or have regret, for he is not a man' reinforces God's truthfulness, making the denial of sin an implicit charge of falsehood against him. A faint parallel to Numbers 23:19.",
+        "contested": true
+      }
+    ]
+  }
+]

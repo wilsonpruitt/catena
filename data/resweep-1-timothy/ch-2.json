@@ -1,0 +1,282 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-7",
+    "echoes": [
+      {
+        "source": "Jeremiah 29:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's directive to pray for kings and all in high places that believers may lead a tranquil life echoes Jeremiah's letter urging the exiles to seek the welfare of Babylon and pray to the LORD for it, because in its peace they will find peace. Both texts ground intercession for pagan rulers in the community's own well-being under foreign power. The logic of praying for the governing authority's order so that God's people may flourish is structurally identical.",
+        "contested": false
+      },
+      {
+        "source": "Ezra 6:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Persian decree provides for sacrifices and prayers 'for the life of the king and his sons,' a precedent for the synagogue practice of intercession for the ruling power that Paul commends to the church. This institutionalized prayer for the Gentile monarch stands behind the apostolic instruction. The continuity of Jewish intercession for kings informs the exhortation.",
+        "contested": false
+      },
+      {
+        "source": "Baruch 1:11-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Baruch directs prayer for the life of Nebuchadnezzar and his son Belshazzar, that the exiles may live under their shadow and find favor, mirroring the petition for kings so believers can live quietly. The deuterocanonical text models the very practice of interceding for a foreign sovereign's reign for the sake of the people's peace. It is a close conceptual parallel to verses 1-2.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 21:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The conviction that the king's heart is a watercourse in the LORD's hand, turned wherever he wills, undergirds the rationale for praying for rulers: God can move them toward conditions of peace. Paul's confidence that prayer for kings yields a tranquil life presupposes divine sovereignty over rulers. The link is thematic rather than verbal and is faint.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 18:23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God's declared desire that all be saved and come to knowledge of the truth echoes the LORD's protest that he takes no pleasure in the death of the wicked but desires that they turn and live. Both passages assert a universal divine will for life and salvation rather than condemnation. Verse 32 of the same chapter reinforces this with the appeal to turn and live.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 33:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The oath 'As I live, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live' restates the divine saving desire that Paul invokes in saying God wills all people to be saved. The emphatic divine self-witness to a will for repentance and life parallels Paul's theology of God our Savior. It complements the Ezekiel 18 echo.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 45:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The call 'Turn to me and be saved, all the ends of the earth, for I am God and there is no other' fuses the universal saving will with strict monotheism, precisely the pairing Paul makes in 'who desires all to be saved' and 'there is one God.' Isaiah's universal salvation offer grounded in the oneness of God stands directly behind this passage. The verbal and theological overlap is strong.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'There is one God' restates the Shema's confession that the LORD is one, the foundational monotheistic creed of Israel. Paul reframes the Shema christologically by adding the one mediator, but the bedrock affirmation of divine oneness is directly drawn from Deuteronomy. This is the clearest scriptural anchor of verse 5.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 2:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Have we not all one Father? Has not one God created us?' offers a parallel monotheistic confession linked to the unity of humanity, resonant with Paul's 'one God' grounding the universality of salvation. The pairing of divine oneness with the common bond of all people overlaps with the passage. The connection is thematic and secondary to the Shema.",
+        "contested": true
+      },
+      {
+        "source": "Job 9:33",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Job's lament that 'there is no umpire between us, who might lay his hand on us both' articulates the need for a mediator between God and man that Paul declares fulfilled in the one mediator Christ Jesus. The longing for an arbitrator standing between God and humanity is answered in verse 5. The conceptual correspondence to 'one mediator' is notable though not verbal quotation.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 32:30-32",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Moses standing between the LORD and the people, offering himself to make atonement for their sin, typifies the role of the one mediator that Paul ascribes to Christ. The Mosaic mediation at Sinai is the paradigmatic Old Testament instance of a man interceding between God and men. Christ as mediator is read against this figural background.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 5:5",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Moses' statement that he stood between the LORD and the people to declare the word, because they feared the fire, presents him as mediator of the covenant, prefiguring the one mediator language. The Mosaic mediatorial office informs Paul's category. The link is figural and faint.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 30:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The atonement money, a ransom for each life given at the census so that no plague befall them, supplies the cultic background for Christ giving himself as 'a ransom for all.' The Hebrew kopher / lytron concept of a redemptive price for life stands behind Paul's ransom language. The universalizing 'for all' extends the Exodus ransom to all humanity.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:10-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Servant who makes his life an offering for sin and bears the sin of many provides the scriptural template for Christ giving himself as a ransom for all. The substitutionary self-offering 'for many' is universalized by Paul to 'for all.' The Servant Song is a primary source for the ransom theology of verse 6.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 49:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalm's note that no one can by any means ransom another or give to God a price for his life sets up, by contrast, the ransom that Christ alone provides 'for all.' Paul's ransom claim answers the human impossibility the psalm laments. The link is conceptual and contrastive.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:8",
+    "echoes": [
+      {
+        "source": "Psalm 134:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The summons to 'lift up your hands to the sanctuary and bless the LORD' is the posture Paul prescribes when he calls men to pray 'lifting up holy hands.' The gesture of uplifted hands in worship is a fixed Old Testament image of prayer. Paul's qualifier 'holy' draws on the cultic demand for purity in the hands that are raised.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 28:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Hear the voice of my supplications when I lift up my hands toward your holy sanctuary' directly models the praying posture of uplifted hands. The coupling of supplication with raised hands matches Paul's instruction. It is among the closest verbal parallels to the gesture in verse 8.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 63:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will lift up my hands in your name' expresses the same gesture of prayer and blessing that Paul commends. The psalmist's lifted hands in devotion parallel the men's lifted holy hands. It reinforces the conventional posture echoed here.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 141:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Let the lifting up of my hands be as the evening sacrifice' ties uplifted hands to acceptable worship, matching Paul's vision of prayer with holy hands. The equation of raised hands with pleasing sacrifice undergirds the call to pray rightly. It complements the other Psalm parallels.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 1:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The LORD's refusal to hear when 'you spread out your hands' because they are 'full of blood' supplies the negative counterpart to Paul's demand that hands be 'holy... without anger.' Lifted hands stained by violence are rejected; lifted holy hands are required. The condition of moral purity behind acceptable prayer is drawn from this oracle.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 24:3-4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The requirement of 'clean hands and a pure heart' to ascend the LORD's hill informs Paul's insistence on 'holy hands without anger and doubting.' The cultic standard of pure hands for approaching God shapes the qualification on prayer. The moral-ritual purity link is the point of contact.",
+        "contested": false
+      },
+      {
+        "source": "Lamentations 3:41",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let us lift up our heart with our hands to God in the heavens' offers another instance of the uplifted-hands prayer posture, with an added inward orientation paralleling Paul's concern for the disposition behind the gesture. The combined outward gesture and inner attitude resonates with verse 8. The parallel is supportive and faint.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 14:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Abram's 'I have lifted up my hand to the LORD' shows the raised hand as a gesture of solemn appeal to God, a background image for the praying hands. The connection is to gesture-vocabulary rather than to the worship setting and is faint. It is offered maximally.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:9-10",
+    "echoes": [
+      {
+        "source": "Isaiah 3:16-24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The oracle against the haughty daughters of Zion with their finery, ornaments, headdresses, and jewelry, stripped away in judgment, stands behind Paul's call that women not adorn themselves with braided hair, gold, and costly attire. The catalogue of external feminine ornament condemned by Isaiah parallels Paul's list. The prophetic critique of ostentatious adornment shapes the instruction.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 31:30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Charm is deceitful and beauty is vain, but a woman who fears the LORD shall be praised' contrasts outward appearance with godly character exactly as Paul opposes external adornment to 'good works' becoming women professing godliness. The valued woman is praised for fearing God, not for looks, matching verse 10. The wisdom ideal of inner piety over display informs the passage.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 31:25",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The capable woman 'clothed with strength and dignity' offers the image of inner moral clothing that Paul prefers to braided hair and gold. The metaphor of being adorned with virtue rather than ornament parallels 'adorn... with good works.' It reinforces the wisdom contrast underlying verses 9-10.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 24:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The gold nose-ring and bracelets given to Rebekah illustrate the gold ornamentation Paul names, providing a narrative instance of the adornment vocabulary. The link is to the items listed rather than to any critique. It is offered maximally and is faint.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 26:13-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's praise of a wife whose true beauty is her modesty and good character, more than physical charm, parallels Paul's preference for good works over outward adornment. The deuterocanonical wisdom contrast between modest virtue and external display resonates with verses 9-10. The connection is thematic.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:11-15",
+    "echoes": [
+      {
+        "source": "Genesis 2:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's argument 'Adam was first formed' rests on the account of the LORD God forming the man from the dust and breathing life into him. The verb and the priority of Adam's formation are taken directly from the creation narrative. This is the scriptural basis for 'Adam was first formed, then Eve.'",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:18-23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The making of the woman from the man's side as a helper, after the man, supplies the order of formation Paul invokes ('then Eve'). The sequence of creation, with woman fashioned after and from Adam, is the load-bearing premise of his appeal. The passage is quoted in substance.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Eve's seeing, taking, and eating the fruit grounds Paul's claim that 'the woman, being deceived, has fallen into disobedience.' The narrative of her being drawn in by the fruit is the event Paul interprets. It anchors the deception-and-transgression argument of verse 14.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:13",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Eve's confession 'the serpent deceived me, and I ate' is the direct source of Paul's 'the woman, being deceived, has fallen into disobedience.' The motif of the woman's deception is lifted from her own words in the Fall account. This is the closest verbal dependence in the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The sentence on the woman, 'in pain you shall bring forth children,' and the rule of the husband over her, underlies both 'saved through her childbearing' and the call to subjection. Paul reads the curse of painful childbearing as the very sphere of the woman's salvation. The verse is central to verse 15.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:15",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The protoevangelium promising the woman's seed who will crush the serpent's head can stand behind 'saved through childbearing' if 'the childbearing' is read as the bearing of the promised seed. The hope of redemption arising from the woman's offspring frames the saving childbearing. The reading is figural and contested.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Adam naming his wife Eve, 'because she was the mother of all living,' resonates with the elevation of childbearing as the woman's vocation and avenue of salvation. The link between Eve and life-giving motherhood supports verse 15. The connection is faint and thematic.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The creation of humanity male and female in God's image offers an alternative creation datum that some weigh against the formation-order argument; Paul, however, builds on the Genesis 2 sequence rather than the simultaneous creation of Genesis 1. It is noted as a relevant background text. The relation is contrastive and faint.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-4",
+    "echoes": [
+      {
+        "source": "Jeremiah 11:20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul says God 'tests our hearts' (dokimazonti tas kardias), nearly verbatim the LXX language of Jeremiah's confessions where the Lord 'tests the hearts and reins' (dokimazon kardias kai nephrous). The forensic image of God assaying the inner person to validate the prophet's integrity is the controlling thought of vv. 3-4. High volume and coherence: Paul casts apostolic ministry in the mold of the persecuted-but-vindicated prophet.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 12:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "A recurrence of the Jeremianic heart-testing motif: 'you have tried my heart toward you' (dedokimakas ten kardian mou). The repetition across Jeremiah (11:20; 12:3; 17:10) strengthens the Recurrence criterion and shows a settled idiom Paul could draw on for the tested servant of God.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I the Lord search the heart and test (dokimazon) the reins, to give to each according to his ways.' The phrase fuses heart-testing with eschatological recompense, matching Paul's claim that he speaks to please God who weighs the heart rather than men. Coheres with the wider Jeremiah cluster.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 17:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You have tried my heart; you have visited me by night; you have tested (epyrosas/edokimasas) me and found no unrighteousness in me.' The psalmist's protest of integrity under divine examination parallels Paul's denial of error, impurity, and deceit (v. 3). Strong thematic coherence with the heart-testing topos.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 17:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The refining pot is for silver and the furnace for gold, but the Lord tests hearts (kardias dokimazei).' Supplies the metallurgical sense behind dokimazo and may stand behind Paul's 'approved/tested' (dokimasmetha) in v. 4. Faint and contested as a direct source, but it reinforces the availability of the heart-assaying idiom.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:5-8",
+    "echoes": [
+      {
+        "source": "Numbers 11:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul likens himself to a nurse cherishing her children (v. 7), echoing Moses' complaint, 'Did I conceive all this people... that you should say to me, Carry them in your bosom as a nurse (trophos) carries the nursing child?' The maternal-nurse metaphor for the leader bearing a fledgling people is a distinctively Mosaic image; coherence is high since Paul casts apostolic care as Mosaic burden-bearing.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Can a woman forget her nursing child... ?' supplies the tender maternal-nursing imagery that informs Paul's self-comparison to a trophos cherishing her own children. Faint verbal contact but coherent with the nurturing-mother topos drawn from Israel's prophets.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 66:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As one whom his mother comforts, so I will comfort you.' The motherly consolation that God promises Zion may color Paul's affectionate maternal self-portrait (vv. 7-8); the same passage stands near 66:14 imagery he uses elsewhere. Contested and faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:9-12",
+    "echoes": [
+      {
+        "source": "Deuteronomy 1:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul exhorts 'as a father his own children' (v. 11), echoing 'the Lord your God carried you, as a man carries his son (hos ei tis trophophoresei... huion).' Deuteronomy's paternal image of God forming Israel through the wilderness coheres with Paul's claim to have fathered a people and called them to walk worthily (v. 12). Pairs with the maternal-nurse figure of v. 7.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 103:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As a father has compassion on his children, so the Lord has compassion on those who fear him.' Reinforces the fatherly-tenderness simile of v. 11. Faint verbal tie but strongly coherent with the divine-father topos Paul applies to his own pastoral role.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 3:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'For whom the Lord loves he reproves, even as a father the son in whom he delights.' Supplies the father-exhorting-son pattern behind Paul's 'exhorting and encouraging' each one as a father (v. 11). Contested, but it belongs to the available paternal-discipline idiom.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God 'calls you into his own kingdom and glory' (v. 12) draws on the OT hope that the saints receive the kingdom; Daniel 7:18 ('the saints of the Most High shall receive the kingdom') is the seedbed of that eschatological kingdom-and-glory language. Faint and contested as a specific source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:13-16",
+    "echoes": [
+      {
+        "source": "Nehemiah 9:26",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul charges that they 'killed... their own prophets' (v. 15), the classic Deuteronomistic prophet-killing tradition stated programmatically in Nehemiah's confession: 'they were disobedient... and slew your prophets who testified against them.' High coherence: Paul's polemic is a compressed restatement of this historiographical theme of Israel's persecution of God's messengers.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 36:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'They mocked the messengers of God... till the wrath of the Lord arose against his people, till there was no remedy.' This verse uniquely binds prophet-rejection to the inescapable wrath that 'came upon them to the uttermost' (v. 16), matching both halves of Paul's statement (killing prophets + final wrath). Very strong coherence and volume.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 2:30",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Your own sword has devoured your prophets like a destroying lion.' A concrete instance of the prophet-killing charge that Paul generalizes in v. 15. Recurrence of the motif across the prophets strengthens its presence here.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 26:20-23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The narrative of the prophet Uriah, pursued and 'slain with the sword' by the king, is a paradigmatic OT account of killing a prophet who spoke God's word. It supplies historical substance to Paul's 'killed... their own prophets' and the driving-out theme ('drove us out', v. 15).",
+        "contested": false
+      },
+      {
+        "source": "Genesis 15:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'To fill up their sins always' (v. 16) echoes the measure-of-iniquity motif: 'the iniquity of the Amorites is not yet complete (anapeplerontai).' The notion that sin must reach a fixed full measure before judgment falls coheres precisely with Paul's logic that wrath comes when sins are 'filled up.'",
+        "contested": false
+      },
+      {
+        "source": "Daniel 8:23",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'When the transgressors have reached their full measure (pleroumenon ton hamartion), a king... shall arise.' Daniel applies the filling-up-of-sins idea to an eschatological crisis preceding wrath, matching Paul's 'fill up their sins always... wrath has come.' Reinforces Genesis 15:16 within a second-temple judgment framework.",
+        "contested": false
+      },
+      {
+        "source": "2 Maccabees 6:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Explains that God waits 'until they have reached the full measure of their sins' before punishing — a deuterocanonical articulation of the same measure-of-iniquity theology behind v. 16. Faint as a direct source but confirms the idea's currency in second-temple Judaism (Availability criterion).",
+        "contested": true
+      },
+      {
+        "source": "Hosea 9:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The days of visitation have come, the days of recompense have come' supplies the prophetic 'the wrath/days have come' formula behind v. 16 ('wrath has come upon them to the uttermost'). Coherent with the prophetic wrath topos; contested as a specific source.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 7:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Now I will shortly pour out my wrath upon you, and accomplish my anger against you.' Ezekiel 7's repeated 'the end has come... wrath' announcement is a candidate background for Paul's compressed 'wrath has come upon them at last.' Faint, contested, but it belongs to the available prophetic-wrath idiom.",
+        "contested": true
+      },
+      {
+        "source": "Testament of Levi 6:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The pseudepigraphal phrase 'the wrath of God came upon them to the uttermost (eis telos)' is strikingly close to Paul's wording in v. 16 and is often cited as the nearest verbal parallel. Warranted as a faint, contested second-temple echo illuminating the fixed formula Paul deploys.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.5",
+    "ch": 2,
+    "ref": "2:17-20",
+    "echoes": [
+      {
+        "source": "Isaiah 62:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul calls the Thessalonians his 'crown of rejoicing/boasting' (v. 19), echoing 'you shall be a crown of beauty (stephanos kallous) in the hand of the Lord.' Isaiah's image of a redeemed people as God's crown of glory coheres with Paul presenting his converts as his eschatological crown and glory (v. 20).",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 16:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I put a beautiful crown (stephanon) upon your head' — God adorning Jerusalem as his cherished bride. Supplies the crown-as-glory-of-a-beloved-people imagery behind Paul's 'crown of boasting.' Faint and contested but thematically coherent.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 16:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Gray hair is a crown of glory (stephanos kauchaseos)' — the LXX phrase 'crown of boasting' is nearly identical to Paul's stephanos kaucheseos (v. 19). Strong verbal contact at the idiom level even though the application differs; flagged contested because the sense is proverbial rather than borrowed.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 1:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The fear of the Lord is glory and exultation (kauchema), and gladness and a crown of rejoicing (stephanos agalliamatos).' This deuterocanonical line couples crown + rejoicing/boasting just as Paul does, attesting the idiom's second-temple currency (Availability). Faint and contested as a direct source.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 27:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Be wise, my son, that you may make my heart glad, that I may answer him who reproaches me.' The pattern of a teacher's vindication-before-others through the conduct of his children may underlie Paul's hope of presenting the Thessalonians 'before our Lord at his coming' (v. 19). Faint, contested.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-3",
+    "echoes": []
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:4-7",
+    "echoes": [
+      {
+        "source": "Proverbs 25:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul says the hearts (literally bowels/inward parts) of the saints have been 'refreshed' through Philemon. Proverbs likens a faithful messenger to the cold of snow that 'refreshes the soul' of his masters, the nearest sapiential parallel to this language of inward refreshment. The link is verbal and thematic rather than a citation, and Paul develops it more pointedly at v20.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:8-9",
+    "echoes": []
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:10-11",
+    "echoes": []
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:12-14",
+    "echoes": []
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:15-16",
+    "echoes": [
+      {
+        "source": "Leviticus 25:39-43",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul asks Philemon to receive Onesimus 'no longer as a slave, but more than a slave, a beloved brother.' The Holiness Code forbids treating an impoverished Israelite who sells himself as a slave, requiring instead that he be held as a hired worker and a brother, not ruled over harshly. Paul effectively extends this Israelite kinship-over-bondage principle to a Christian master and his returning slave.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 15:12-15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Deuteronomic slave law mandates release of a Hebrew bondservant and generous provision out of remembered solidarity ('you were a slave in Egypt'). Paul's reconfiguring of Onesimus from slave to beloved brother, no longer held under necessity, resonates with this manumission-and-fraternity ethic, though Paul never cites the statute.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 23:15-16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The law forbids returning an escaped slave to his master and requires letting him dwell freely where he chooses. Paul's careful handling of the fugitive Onesimus, sending him back only as a free brother and asking Philemon not to reclaim him as property, stands in deliberate tension and dialogue with this provision. Many read the whole letter as Paul navigating around the spirit of this command.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 45:5-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Perhaps he was separated from you for a while, that you would have him forever' echoes Joseph's providential reading of his own separation from his family: 'God sent me before you to preserve life... it was not you who sent me here, but God.' Paul, like Joseph, reframes a painful parting as hidden divine purpose that yields a greater, lasting reunion.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 50:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joseph's summary, 'you meant evil against me, but God meant it for good,' undergirds Paul's 'perhaps' of v15, where Onesimus's wrong and flight are recast as occasion for good. The thematic kinship is strong even though Paul borrows no wording.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 29:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Onesimus is now to be received as a brother 'both in the flesh and in the Lord.' Laban's welcome of Jacob, 'surely you are my bone and my flesh,' is the paradigmatic Hebrew idiom for kinship recognition that overrides prior status. The connection is faint and conceptual.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.7",
+    "ch": 1,
+    "ref": "1:17-19",
+    "echoes": [
+      {
+        "source": "Genesis 43:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'If he has wronged you or owes you anything, put that to my account... I will repay it' enacts the role of surety. Judah pledges himself for Benjamin: 'I will be surety for him; of my hand you shall require him.' Paul stands as personal guarantor for Onesimus exactly as Judah does for his brother, assuming the debt against himself.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 44:32",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Judah restates his suretyship before Joseph, 'I became surety for the boy to my father,' offering to bear the consequence in the brother's place. Paul's handwritten pledge to absorb Onesimus's debt and stand in his stead closely parallels this self-substituting guarantee for a kinsman.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 6:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Proverbs repeatedly treats the giving of surety for another as a weighty, self-binding act ('if you have struck your hands in pledge for a stranger... you are snared by the words of your mouth'). Paul knowingly takes on precisely this binding pledge for Onesimus, inverting the proverb's caution into voluntary love.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 11:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He who is surety for a stranger will suffer for it.' Paul's assumption of Onesimus's liability deliberately embraces the cost the proverb warns against, making the sapiential surety-language a backdrop for his act of intercession.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.8",
+    "ch": 1,
+    "ref": "1:20-22",
+    "echoes": [
+      {
+        "source": "Proverbs 25:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Refresh my heart in the Lord' picks up the language of inward refreshment from v7. Proverbs' image of the faithful messenger who 'refreshes the soul of his masters' is the closest wisdom parallel to this petition for refreshment as the fruit of obedient love.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 4:8-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Prepare a guest room for me' faintly recalls the Shunammite woman who prepares a small upper room for Elisha so the man of God may lodge with her. The shared motif is hospitality of a lodging readied for an honored servant of God, though Paul uses ordinary travel language without scriptural signal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.9",
+    "ch": 1,
+    "ref": "1:23-25",
+    "echoes": []
+  }
+]

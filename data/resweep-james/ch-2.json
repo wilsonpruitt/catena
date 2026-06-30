@@ -1,0 +1,299 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-7",
+    "echoes": [
+      {
+        "source": "Leviticus 19:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "James condemns showing partiality (prosopolempsia) in the assembly. Leviticus 19:15 is the foundational prohibition: 'you shall not be partial to the poor or defer to the great, but in righteousness shall you judge your neighbor.' The verbal and thematic correspondence is strong, and the same chapter supplies the love-command James quotes in v.8.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 1:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Deuteronomy 1:17 enjoins judges to 'not be partial in judgment; you shall hear the small and the great alike.' James's scene of seating the rich well and the poor poorly enacts the very partiality this Mosaic charge to judges forbids. Volume and recurrence support the echo though no quotation is made.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 16:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You shall not pervert justice; you shall not be partial' reinforces the impartiality motif standing behind James's rebuke of favoritism toward the rich. Part of the cluster of Deuteronomic impartiality texts; less verbally distinctive than Leviticus 19:15.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 24:23",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'It is not good to show partiality in judgment.' James's wisdom idiom and concern with favoritism in judging ('judges with evil thoughts,' v.4) resonates with this proverb. Conceptual echo within the impartiality tradition.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 2:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Hannah's song: God 'raises up the poor from the dust... to make them sit with princes and inherit a seat of honor.' James 2:5 says God chose the poor to be heirs of the kingdom, reversing the world's status-seating. The seating/inheritance reversal aligns closely with James's argument.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 113:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He raises the poor from the dust and lifts the needy from the ash heap, to make them sit with princes.' James 2:5's election of the poor to royal inheritance draws on this reversal-of-status theme common to the Psalms of the anawim.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 14:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever despises his neighbor is a sinner, but blessed is he who is generous to the poor.' James rebukes those who 'dishonored the poor man' (v.6). Faint wisdom-tradition echo of honoring rather than shaming the poor.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 22:22-23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Do not rob the poor... for the LORD will plead their cause.' James 2:6 describes the rich who oppress and 'drag you before the courts.' Faint echo of the oppressed-poor / oppressor-rich topos; the Lord's vindication is implied in James's eschatology.",
+        "contested": true
+      },
+      {
+        "source": "Amos 2:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Amos indicts those who 'sell the righteous for silver and the needy for a pair of sandals... trample the head of the poor.' James's portrait of rich oppressors dragging the poor to court stands in this prophetic stream of social critique. Conceptual, not verbal.",
+        "contested": true
+      },
+      {
+        "source": "Amos 8:4-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Amos condemns those who 'trample on the needy and bring the poor of the land to an end.' James 2:6's oppressing rich participate in the same prophetic denunciation of economic exploitation. Faint thematic resonance.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 24:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The blasphemer who 'blasphemed the Name' (ha-Shem) in Leviticus 24 underlies Jewish reverence for the divine Name. James 2:7 says the rich 'blaspheme the honorable name by which you are called.' Faint allusion to the gravity of blaspheming the Name invoked over God's people.",
+        "contested": true
+      },
+      {
+        "source": "Amos 9:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'...all the nations who are called by my name' (cited at Acts 15:17 in the Jacobite context). James 2:7's 'honorable name by which you are called' evokes the biblical idiom of bearing God's name. Faint and contested as a direct source.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 28:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'All the peoples of the earth shall see that you are called by the name of the LORD.' James 2:7's language of bearing the honorable name draws on this covenantal idiom of God's name invoked over his people. Faint background echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.8",
+    "ch": 2,
+    "ref": "2:8-13",
+    "echoes": [
+      {
+        "source": "Leviticus 19:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Explicit quotation introduced as 'the Scripture': 'You shall love your neighbor as yourself.' James names this the 'royal law.' This is a formal citation of Leviticus 19:18, the same Holiness Code chapter that grounds his impartiality argument.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:13",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "James cites 'Do not commit murder' as the word of the lawgiver (v.11). This is the Decalogue commandment, Exodus 20:13. Quoted alongside the adultery commandment to argue the law's unity.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:14",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "James cites 'Do not commit adultery' (v.11) from the Decalogue, Exodus 20:14. The pairing of adultery and murder is a formal scriptural citation establishing that breaking one point makes one a transgressor of all.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:17",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The Decalogue's murder prohibition also appears at Deuteronomy 5:17; James's citation draws on the Decalogue in either form. Listed as an alternate source for the murder commandment quoted in v.11.",
+        "contested": false,
+        "altSource": "Exodus 20:13"
+      },
+      {
+        "source": "Deuteronomy 5:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The adultery prohibition also stands at Deuteronomy 5:18; James's quotation reflects the Decalogue. Provided as the Deuteronomic parallel to the Exodus citation in v.11.",
+        "contested": false,
+        "altSource": "Exodus 20:14"
+      },
+      {
+        "source": "Proverbs 21:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Whoever closes his ear to the cry of the poor will himself call out and not be answered.' James 2:13 says 'judgment is without mercy to one who has shown no mercy.' The lex talionis of mercy/mercilessness is closely paralleled.",
+        "contested": false
+      },
+      {
+        "source": "Micah 6:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'...to do justice, and to love mercy (hesed), and to walk humbly with your God.' James's exaltation of mercy as triumphing over judgment (v.13) draws on the prophetic prizing of mercy as the heart of covenant obedience.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 7:9-10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Render true judgments, show kindness and mercy... do not oppress the widow, the fatherless, the sojourner, or the poor.' James links impartial judgment with mercy toward the poor in the same breath. Strong thematic correspondence.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 28:1-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ben Sira: 'Forgive your neighbor the wrong he has done, and then your sins will be pardoned... Does anyone harbor anger against another, and expect healing from the Lord?' James 2:13's principle that the merciless receive merciless judgment closely parallels this deuterocanonical wisdom on reciprocal mercy.",
+        "contested": false
+      },
+      {
+        "source": "Tobit 4:7-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Tobit's almsgiving counsel: 'give alms from your possessions... almsgiving delivers from death.' James's coupling of mercy/almsgiving with deliverance at judgment (v.13) resonates with this deuterocanonical theology of merciful deeds. Conceptual echo.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 19:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever is generous to the poor lends to the LORD, and he will repay him for his deed.' Background to James's mercy-rewarded-at-judgment principle. Faint wisdom echo within the mercy cluster.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.14",
+    "ch": 2,
+    "ref": "2:14-26",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'You believe that God is one' (v.19) cites the Shema, Deuteronomy 6:4, 'Hear, O Israel: the LORD our God, the LORD is one.' James affirms monotheism then notes even demons hold it and shudder, making the point that bare belief without works is insufficient.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:9-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Abraham our father justified by works, in that he offered up Isaac his son on the altar' (v.21) refers directly to the Aqedah, Genesis 22:9-12, where Abraham binds Isaac on the altar and the angel stays his hand. The binding is James's proof that Abraham's faith was completed by works.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 15:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formal citation: 'the Scripture was fulfilled which says, \"Abraham believed God, and it was accounted to him as righteousness\"' (v.23). This is a verbatim quotation of Genesis 15:6, here read as fulfilled in the Aqedah.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 41:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He was called the friend of God' (v.23). Isaiah 41:8 calls Israel the offspring of 'Abraham my friend' (LXX: 'whom I loved'). This title for Abraham, not stated in Genesis, is James's scriptural warrant for naming him God's friend.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 20:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jehoshaphat's prayer recalls God giving the land to the descendants of 'Abraham your friend forever.' Together with Isaiah 41:8 this is the scriptural basis for James 2:23's 'friend of God' epithet. Listed as parallel source.",
+        "contested": false,
+        "altSource": "Isaiah 41:8"
+      },
+      {
+        "source": "Joshua 2:1-21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Rahab the prostitute also justified by works, in that she received the messengers, and sent them out another way' (v.25) refers to Joshua 2, where Rahab hides the Israelite spies and lets them down by another route. Her hospitable, faith-driven deed is James's second exemplum of justifying works.",
+        "contested": false
+      },
+      {
+        "source": "Joshua 6:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Joshua 6:17,22-25 records Rahab and her household being spared at Jericho's fall because she hid the messengers. James 2:25's commendation of Rahab presupposes this deliverance as the vindication of her works. Supplies the outcome of the act James cites.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:17-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's deliberation, 'Shall I hide from Abraham what I am about to do?', reflects the intimacy underlying the 'friend of God' tradition. Faint background echo to James 2:23's friendship motif; the explicit title comes from Isaiah/Chronicles.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 26:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws.' This obedience tradition supports James's claim that Abraham's faith was perfected by works (v.22). Conceptual echo of Abraham as the man whose faith issued in obedience.",
+        "contested": true
+      },
+      {
+        "source": "1 Maccabees 2:52",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Mattathias's deathbed exhortation: 'Was not Abraham found faithful when tested, and it was reckoned to him as righteousness?' This deuterocanonical text already fuses Genesis 15:6 with the Aqedah-as-test (Genesis 22), exactly the synthesis James makes in vv.21-23. Strong evidence James draws on this interpretive tradition.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 44:19-21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ben Sira's praise of Abraham: 'kept the law of the Most High... when tested he was found faithful,' linking covenant, testing, and reckoned righteousness. James's works-completing-faith reading of Abraham stands in this Second Temple tradition. Deuterocanonical interpretive parallel.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:16-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The angel's oath after the binding, 'because you have done this... I will surely bless you,' grounds the reward of Abraham's obedient act. Reinforces James's point (v.22) that faith was perfected through the work of offering Isaac. Faint extension of the Aqedah citation.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 58:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "True fasting is 'to share your bread with the hungry... when you see the naked, to cover him.' James 2:15-16's example of a brother 'naked and in lack of daily food' whom one fails to clothe and feed echoes this prophetic critique of empty piety divorced from deeds of mercy. Faint thematic echo.",
+        "contested": true
+      },
+      {
+        "source": "Job 31:19-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Job's defense: 'if I have seen anyone perish for lack of clothing... if his body has not blessed me for warming him with the fleece of my sheep.' James's hollow 'be warmed and filled' (v.16) without provision inverts Job's actual care for the naked and cold. Faint wisdom echo.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 15:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall not harden your heart or shut your hand against your poor brother, but open your hand to him.' James 2:15-16 rebukes the empty word that withholds 'the things the body needs' from a needy brother. Faint Torah echo of obligatory open-handedness.",
+        "contested": true
+      }
+    ]
+  }
+]

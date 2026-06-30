@@ -1,0 +1,212 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-5",
+    "echoes": [
+      {
+        "source": "Daniel 11:35",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Spirit's prediction that 'in later times some will fall away from the faith' draws on Danielic apocalyptic, where a refining apostasy precedes 'the time of the end' (Dan 11:35; 12:1, 4). The pattern of a foretold falling-away in the last days shapes the Pastoral's eschatological framing.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 8:23-25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The rise of deceptive, conscience-seared teachers in the latter time may echo Daniel's vision of a deceitful power arising 'at the latter end' of the apostasy who works ruin by cunning. A faint structural parallel rather than a verbal one.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 32:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Doctrines of demons' and 'seducing spirits' resonate with the Song of Moses, where Israel 'sacrificed to demons (shedim), not God, to gods they had not known.' The apostate teaching is figured as worship of demonic powers behind false religion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 106:37",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The idea of devotion redirected to demons recalls the psalmist's indictment that Israel 'sacrificed their sons and daughters to demons.' A reinforcing echo of the OT motif of demonic deception lying behind false cult.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:31",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Every creature of God is good, and nothing is to be rejected' directly recalls God's verdict over creation, 'God saw everything that he had made, and behold, it was very good.' Paul grounds the rejection of food asceticism in the original goodness of all created things.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 9:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The claim that God created foods 'to be received with thanksgiving' echoes the post-flood grant, 'Every moving thing that lives shall be food for you; as I gave you the green plants, I give you everything.' This universal grant of food undergirds the rejection of forbidden-food asceticism.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The divine provision of foods 'which God created to be received' recalls the original grant of every seed-bearing plant and tree for food. The created order itself is the warrant for eating with thanksgiving.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 8:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The reception of food 'with thanksgiving' and its sanctification 'through prayer' draws on the command, 'You shall eat and be full, and you shall bless the LORD your God for the good land he has given you.' The blessing/thanksgiving over food is the OT practice presupposed.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The condemnation of those 'forbidding marriage' implicitly appeals to God's own institution of marriage, 'It is not good that the man should be alone; I will make him a helper.' Asceticism that bans marriage contradicts the Creator's design.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Forbidding marriage runs against the creational blessing, 'Be fruitful and multiply.' A faint echo grounding the polemic against marriage-prohibition in the goodness of the procreative mandate.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "That food is 'sanctified through the word of God' may echo creation by divine word ('And God said... and it was so'); what the word made good, the word also makes holy. A theological rather than verbal echo.",
+        "contested": true,
+        "altSource": "Psalm 33:6"
+      }
+    ]
+  },
+  {
+    "id": "4.6",
+    "ch": 4,
+    "ref": "4:6-10",
+    "echoes": [
+      {
+        "source": "Deuteronomy 8:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Being 'nourished in the words of the faith' figurally recalls the lesson of the wilderness, that 'man does not live by bread alone, but by every word that comes from the mouth of the LORD.' Spiritual nourishment by the word stands behind the metaphor.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 1:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The summons to 'exercise yourself toward godliness' and refuse profane fables echoes the wisdom tradition's contrast between the fear of the LORD and the folly that 'despises wisdom and instruction.' Godliness here functions much as the OT 'fear of the LORD.'",
+        "contested": true,
+        "altSource": "Proverbs 9:10"
+      },
+      {
+        "source": "Deuteronomy 30:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Godliness 'having the promise of the life which is now and that which is to come' draws on the Deuteronomic offer of life through covenant fidelity, 'I have set before you life and good... that you may live.' The promise-of-life motif is reframed in two-age terms.",
+        "contested": true,
+        "altSource": "Deuteronomy 30:19"
+      },
+      {
+        "source": "Deuteronomy 5:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The living God' is a fixed OT title for Yahweh as distinct from lifeless idols, e.g. 'the voice of the living God.' The Pastoral deploys it against dead asceticism and false teaching.",
+        "contested": false,
+        "altSource": "Joshua 3:10"
+      },
+      {
+        "source": "Isaiah 45:21-22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The living God, who is the Savior of all men' draws on Deutero-Isaiah's universal salvation oracle, 'a righteous God and a Savior; there is none besides me. Turn to me and be saved, all the ends of the earth.' The 'Savior of all' claim universalizes Isaiah's offer.",
+        "contested": false,
+        "altSource": "Isaiah 45:15"
+      },
+      {
+        "source": "Psalm 36:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God as 'Savior of all men' may echo the psalm's confession that 'you save man and beast, O LORD,' broadening salvation to the whole creation. A faint support for the universal scope of God's saving care.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 43:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The title 'Savior' applied to the living God resonates with 'I, I am the LORD, and besides me there is no savior.' The Pastoral confesses Yahweh's exclusive saving identity now extended to all peoples.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "4.11",
+    "ch": 4,
+    "ref": "4:11-16",
+    "echoes": [
+      {
+        "source": "Jeremiah 1:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Let no man despise your youth' recalls Jeremiah's commissioning, where he protests 'I am only a youth' and the LORD answers 'Do not say, I am only a youth.' Timothy's youthful commission is patterned on the prophetic call to speak despite young age.",
+        "contested": false
+      },
+      {
+        "source": "Nehemiah 8:1-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The charge to 'pay attention to reading, to exhortation, and to teaching' reflects the model of Ezra's assembly, where the Book of the Law was read aloud, interpreted, and the sense given so the people understood. Public reading plus exposition is the OT template for Timothy's liturgical duty.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 31:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'reading' Timothy is to attend to echoes the Deuteronomic mandate, 'you shall read this law before all Israel in their hearing,' the foundational command for public reading of Scripture in the assembly. This institutes the practice the Pastoral continues.",
+        "contested": false,
+        "altSource": "Deuteronomy 31:12"
+      },
+      {
+        "source": "Numbers 27:18-23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The gift... given to you by prophecy, with the laying on of the hands' draws on Moses commissioning Joshua, taking 'a man in whom is the Spirit' and laying his hands on him before the assembly to invest him with authority. Timothy's ordination reenacts this hand-laying transfer of office.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 34:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'gift that is in you' conveyed by 'laying on of hands' echoes 'Joshua was full of the spirit of wisdom, for Moses had laid his hands on him.' The endowment of a Spirit-gift through imposition of hands is the direct OT precedent.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:16-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The gift conferred amid 'the elders' (presbytery) recalls the seventy elders on whom the LORD put the Spirit that was on Moses. A faint background to communal, Spirit-endowed eldership behind the ordination scene.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 33:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You will save both yourself and those who hear you' echoes the watchman charge, 'if you warn the wicked... you will have saved your life.' The minister's vigilance secures both his own and his hearers' deliverance.",
+        "contested": false,
+        "altSource": "Ezekiel 3:19-21"
+      },
+      {
+        "source": "Daniel 12:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Persevering teaching that saves 'those who hear you' faintly recalls 'those who turn many to righteousness' shining like the stars. A possible eschatological coloring of the teacher's saving role.",
+        "contested": true
+      }
+    ]
+  }
+]

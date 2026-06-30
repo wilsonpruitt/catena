@@ -1,0 +1,124 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-5",
+    "echoes": [
+      {
+        "source": "Job 1:6-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul names \"the tempter\" (ho peirazon) who might have \"tempted\" the Thessalonians and rendered his labor vain. The figure of a heavenly adversary who tests the faith of the righteous draws on the satan of Job's prologue, who is permitted to afflict Job precisely to see whether his fidelity will hold. The cluster of testing, affliction, and the danger of falling away mirrors Job's ordeal.",
+        "contested": false,
+        "altSource": "Job 2:1-7"
+      },
+      {
+        "source": "Genesis 3:1-7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"The tempter\" who could lure the converts away echoes the serpent who seduces in Eden, the archetypal scene of temptation leading to the undoing of the faithful. Paul elsewhere reads the serpent's deception figurally for the church (2 Cor 11:3), and the same Edenic background plausibly stands behind the worry that the tempter's work would make his labor \"in vain.\"",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 49:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's fear that \"our labor would have been in vain\" reaches for the Septuagintal idiom of laboring fruitlessly (eis kenon), prominent in the Servant's lament \"I have labored in vain.\" Isaiah's promise that such labor is finally not wasted is the same hope Paul expresses for his missionary toil.",
+        "contested": true,
+        "altSource": "Isaiah 65:23"
+      },
+      {
+        "source": "Psalm 34:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul insists believers \"are appointed\" to affliction, having foretold that \"we are to suffer.\" The Psalter's axiom that \"many are the afflictions of the righteous\" supplies the scriptural conviction that suffering is the appointed lot of the faithful rather than a sign of abandonment.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.6",
+    "ch": 3,
+    "ref": "3:6-10",
+    "echoes": [
+      {
+        "source": "Psalm 116:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Paul's overflowing \"what thanksgiving can we render again to God for you\" echoes the psalmist's \"What shall I render to the LORD for all his benefits toward me?\" Both pose the rhetorical question of an adequate return of gratitude to God for received good, framed as thanksgiving rendered before God.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "3.11",
+    "ch": 3,
+    "ref": "3:11-13",
+    "echoes": [
+      {
+        "source": "Zechariah 14:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"At the coming of our Lord Jesus with all his saints\" closely reproduces Zechariah's \"the LORD my God will come, and all the holy ones with him,\" a key text for the eschatological advent accompanied by the heavenly host. Paul applies the prophecy of the Lord's theophanic arrival with his holy ones directly to the parousia of Jesus.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 33:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The advent of the Lord \"with all his saints/holy ones\" draws on the Sinai theophany where the LORD \"came with myriads of holy ones,\" the foundational image of God arriving attended by his angelic host. The same verse stands behind the developed expectation of the divine coming surrounded by the holy ones.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The myriads of \"holy ones\" attending the Lord's coming evoke Daniel's throne vision, where thousands of thousands serve and ten thousand times ten thousand stand before the Ancient of Days. This apocalyptic court of attendants feeds the picture of Jesus arriving with all his holy ones.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 89:5-7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"All his saints\" recalls the heavenly \"assembly of the holy ones\" who praise and surround the LORD, the council of holy ones before whom God is feared. Paul's holy retinue at the parousia shares this picture of the angelic congregation accompanying the divine presence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 68:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Lord coming \"with all his saints\" faintly recalls the chariots of God, \"twice ten thousand, thousands upon thousands,\" the LORD among them as at Sinai. The motif of God advancing amid innumerable heavenly hosts overlaps with the parousia escort.",
+        "contested": true
+      },
+      {
+        "source": "1 Enoch 1:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The coming of the Lord \"with all his holy ones\" parallels the Enochic oracle that \"the Lord will come with his holy myriads to execute judgment,\" itself an expansion of Deuteronomy 33:2. This pseudepigraphal text (cited in Jude 14-15) attests the same first-century expectation of the Lord's advent attended by his holy ones that Paul invokes.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 3:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The prayer that God \"direct our way to you\" (kateuthynai) uses the Septuagintal vocabulary of God making straight one's paths, as in \"he will direct your paths.\" The petition entrusts the missionaries' route to divine guidance in the manner of the wisdom tradition.",
+        "contested": false,
+        "altSource": "Psalm 37:23"
+      },
+      {
+        "source": "Genesis 17:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The goal that God \"establish your hearts blameless in holiness before our God\" echoes the covenantal charge to \"walk before me and be blameless.\" The pairing of blamelessness with standing before God recalls the patriarchal call to integrity in the divine presence.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 112:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Establish your hearts\" (sterixai tas kardias) echoes the Septuagint's description of the righteous whose \"heart is established/steadfast,\" unafraid. The image of an inwardly fixed, unshakable heart underlies Paul's prayer for hearts confirmed in holiness.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,515 @@
+{
+  "slug": "jude",
+  "name": "Jude",
+  "subtitle": "A Defense Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "Jude means to write of salvation and instead must urge his readers to contend for the faith once delivered, for ungodly intruders have slipped in. He answers them with a torrent of scriptural examples — the unbelieving wilderness generation destroyed, the angels who left their place kept in chains, Sodom and Gomorrah as an example of eternal fire, the way of Cain and the error of Balaam and the rebellion of Korah, the autumn trees twice dead — and even Enoch’s ancient prophecy that the Lord comes with his myriads to execute judgment. It is a short, fierce defense of the faith. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where the writer follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-2",
+      "text": "Jude, a servant of Jesus Christ, and brother of James, to those who are called, sanctified by God the Father, and kept for Jesus Christ: Mercy to you and peace and love be multiplied.",
+      "echoes": [
+        {
+          "source": "Numbers 6:24-26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "‘Yahweh bless you, and keep you. Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.’",
+          "note": "Jude's epistolary greeting, 'Mercy to you and peace and love be multiplied,' echoes the language of the Aaronic blessing, where the LORD makes his face shine and gives peace. The triadic well-wishing of mercy and peace draws on the priestly benediction tradition.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 4:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Nebuchadnezzar the king, to all the peoples, nations, and languages, who dwell in all the earth: Peace be multiplied to you.",
+          "note": "The salutation formula 'peace be multiplied to you' parallels the Aramaic court-letter greeting in Daniel, where Nebuchadnezzar wishes peace multiplied to all peoples. Jude adopts a Jewish epistolary convention with Septuagintal roots.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:3-4",
+      "text": "Beloved, while I was very eager to write to you about our common salvation, I was constrained to write to you exhorting you to contend earnestly for the faith which was once for all delivered to the saints. For there are certain men who crept in secretly, even those who were long ago written about for this condemnation: ungodly men, turning the grace of our God into indecency, and denying our only Master, God, and Lord, Jesus Christ.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 33:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Moses commanded us a law, an inheritance for the assembly of Jacob.",
+          "note": "The notion of a 'faith once for all delivered to the saints' echoes the deuteronomic idea of a law/heritage handed down to the assembly of Jacob. Jude transposes the language of a delivered covenant deposit onto the apostolic faith.",
+          "contested": true
+        },
+        {
+          "source": "1 Enoch 38:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "The 'ungodly' (asebeis) marked out 'long ago for this condemnation' draws on the Enochic vocabulary of the predestined judgment of the wicked, a keyword that saturates 1 Enoch's Book of Watchers and Parables. Jude's repeated 'ungodly' terminology is distinctively Enochic.",
+          "contested": true,
+          "altSource": "pseudepigrapha"
+        },
+        {
+          "source": "Proverbs 16:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh has made everything for its own end— yes, even the wicked for the day of evil.",
+          "note": "That certain men were 'long ago written about for this condemnation' resonates with the wisdom conviction that the LORD has made the wicked for the day of trouble. The idea of a pre-recorded destiny for the ungodly has sapiential and prophetic roots.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "ch": 1,
+      "ref": "1:5",
+      "text": "Now I desire to remind you, though you already know this, that the Lord, having saved a people out of the land of Egypt, afterward destroyed those who didn’t believe.",
+      "echoes": [
+        {
+          "source": "Numbers 14:29-37",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Your dead bodies shall fall in this wilderness; and all who were numbered of you, according to your whole number, from twenty years old and upward, who have murmured against me, surely you shall not come into the land, concerning which I swore that I would make you dwell therein, except Caleb the son of Jephunneh, and Joshua the son of Nun. But your little ones, that you said should be captured or killed, them I will bring in, and they shall know the land […]",
+          "note": "Jude's first judgment example, that the Lord saved a people out of Egypt but afterward destroyed those who did not believe, directly recalls the wilderness generation condemned to die in the desert for their unbelief at Kadesh. The motif of deliverance followed by destruction of the faithless is the Numbers narrative in compressed form."
+        },
+        {
+          "source": "Exodus 12:51",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "That same day, Yahweh brought the children of Israel out of the land of Egypt by their armies.",
+          "note": "The clause 'having saved a people out of the land of Egypt' is exodus-deliverance language, recalling the LORD bringing Israel out of Egypt by their hosts. Jude assumes the Passover/Exodus salvation as the backdrop to subsequent judgment."
+        },
+        {
+          "source": "Psalm 95:8-11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Don’t harden your heart, as at Meribah, as in the day of Massah in the wilderness, when your fathers tempted me, tested me, and saw my work. Forty long years I was grieved with that generation, and said, “It is a people that errs in their heart. They have not known my ways.” Therefore I swore in my wrath, “They won’t enter into my rest.”",
+          "note": "The destruction of those who did not believe echoes the psalm's oath that the unbelieving wilderness generation would not enter God's rest because they hardened their hearts. Psalm 95 is the canonical liturgical reflection on Numbers 14 that Jude draws upon."
+        },
+        {
+          "source": "Deuteronomy 1:32-35",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yet in this thing you didn’t believe Yahweh your God, who went before you on the way, to seek out a place for you to pitch your tents in, in fire by night, to show you by what way you should go, and in the cloud by day. Yahweh heard the voice of your words, and was angry, and swore, saying, “Surely not one of these men of this evil generation shall see the good land, which I swore to give to your fathers,",
+          "note": "Moses' recollection that, despite the LORD's deliverance, the people did not believe and so none of that evil generation would see the good land parallels Jude's pairing of salvation and subsequent destruction for unbelief. The deuteronomic retelling reinforces the Numbers source."
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "ch": 1,
+      "ref": "1:6",
+      "text": "Angels who didn’t keep their first domain, but deserted their own dwelling place, he has kept in everlasting bonds under darkness for the judgment of the great day.",
+      "echoes": [
+        {
+          "source": "Genesis 6:1-4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "When men began to multiply on the surface of the ground, and daughters were born to them, God’s sons saw that men’s daughters were beautiful, and they took any that they wanted for themselves as wives. Yahweh said, “My Spirit will not strive with man forever, because he also is flesh; so his days will be one hundred twenty years.” The Nephilim were in the earth in those days, and also after that, when God’s sons came in to men’s daughters and had children […]",
+          "note": "The angels who did not keep their first domain but deserted their dwelling allude to the 'sons of God' who took human wives, read in Second Temple tradition as a primeval angelic transgression. Jude takes this episode as the paradigm of beings who abandoned their proper station."
+        },
+        {
+          "source": "1 Enoch 6-19",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "The angels 'kept in everlasting bonds under darkness for the judgment of the great day' closely follows the Watchers narrative, where the rebellious angels are bound in chains in the valleys of the earth and held in darkness until the great day of judgment. Jude's vocabulary of binding, gloom, and reserved judgment is drawn from the Book of Watchers.",
+          "contested": true,
+          "altSource": "pseudepigrapha"
+        },
+        {
+          "source": "1 Enoch 10:4-6",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "The specific image of an angel (Azazel) bound and cast into darkness, covered until the day of the great judgment when he is sent into the fire, supplies the exact detail of 'everlasting bonds under darkness' awaiting final judgment. This passage is the proximate source for Jude's phrasing.",
+          "contested": true,
+          "altSource": "pseudepigrapha"
+        },
+        {
+          "source": "Isaiah 24:21-22",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "It shall happen in that day that Yahweh will punish the army of the high ones on high, and the kings of the earth on the earth. They shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison; and after many days shall they be visited.",
+          "note": "Isaiah's oracle that the LORD will punish the host of heaven, gathering them as prisoners in a pit and shutting them up, then punishing them after many days, parallels the angels reserved in chains for the day of judgment. The prophetic motif of imprisoned heavenly powers awaiting judgment underlies Jude's image.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:7",
+      "text": "Even as Sodom and Gomorrah, and the cities around them, having, in the same way as these, given themselves over to sexual immorality and gone after strange flesh, are shown as an example, suffering the punishment of eternal fire.",
+      "echoes": [
+        {
+          "source": "Genesis 19:4-25",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "But before they lay down, the men of the city, the men of Sodom, surrounded the house, both young and old, all the people from every quarter. They called to Lot, and said to him, “Where are the men who came in to you this night? Bring them out to us, that we may have sex with them.” Lot went out to them to the door, and shut the door after him. He said, “Please, my brothers, don’t act so wickedly. See now, I have two virgin daughters. Please let me bring […]",
+          "note": "Sodom and Gomorrah and the surrounding cities, which gave themselves to sexual immorality and went after strange flesh, directly recall the Genesis account of the men of Sodom and the destruction of the cities of the plain by fire from heaven. Jude treats their overthrow as a standing 'example' of judgment."
+        },
+        {
+          "source": "Deuteronomy 29:23",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "and that all of its land is sulfur, salt, and burning, that it is not sown, doesn’t produce, nor does any grass grow in it, like the overthrow of Sodom, Gomorrah, Admah, and Zeboiim, which Yahweh overthrew in his anger, and in his wrath;",
+          "note": "The phrase 'the cities around them' suffering judgment echoes Deuteronomy's reference to the overthrow of Sodom, Gomorrah, Admah, and Zeboiim, a brimstone-and-fire desolation held up as a warning. The wider Pentateuchal memory of the destroyed plain-cities informs Jude's 'surrounding cities.'"
+        },
+        {
+          "source": "Isaiah 34:9-10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Its streams will be turned into pitch, its dust into sulfur, And its land will become burning pitch. It won’t be quenched night nor day. Its smoke will go up forever. From generation to generation, it will lie waste. No one will pass through it forever and ever.",
+          "note": "The motif of 'eternal fire' that is not quenched, burning night and day forever, draws on prophetic depictions of Edom's perpetual burning, itself modeled on Sodom's destruction. Jude's 'punishment of eternal fire' universalizes this imagery of unending conflagration.",
+          "contested": true
+        },
+        {
+          "source": "3 Maccabees 2:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "It was you who did make the Sodomites, those workers of exceeding iniquity, men notorious for their vices, an example to after generations, when you did cover them with fire and brimstone.",
+          "note": "The use of Sodom as a moral exemplum of arrogant sinners made a visible example to others parallels Jude's framing of the cities as 'shown as an example.' Deuterocanonical reflection on Sodom as a paradigm of judgment stands behind Jude's exemplary rhetoric.",
+          "contested": true,
+          "altSource": "deuterocanon"
+        }
+      ]
+    },
+    {
+      "id": "1.6",
+      "ch": 1,
+      "ref": "1:8",
+      "text": "Yet in the same way, these also in their dreaming defile the flesh, despise authority, and slander celestial beings.",
+      "echoes": [
+        {
+          "source": "Genesis 19:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "They called to Lot, and said to him, “Where are the men who came in to you this night? Bring them out to us, that we may have sex with them.”",
+          "note": "The 'dreamers' who defile the flesh continue the Sodom comparison, their carnal defilement mirroring the men of Sodom's demand. The link of dream-driven delusion to fleshly defilement extends the preceding judgment examples.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 13:1-5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "If a prophet or a dreamer of dreams arises in your midst you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, “Let us go after other gods” (which you have not known) “and let us serve them”; you shall not listen to the words of that prophet, or to that dreamer of dreams; for Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul. […]",
+          "note": "Calling the intruders 'dreamers' evokes the deuteronomic 'dreamer of dreams,' the false prophet who leads Israel astray and must be purged. Jude tars the false teachers with the brush of the lying visionary condemned in the Law.",
+          "contested": true
+        },
+        {
+          "source": "Zechariah 3:1-2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He showed me Joshua the high priest standing before Yahweh’s angel, and Satan standing at his right hand to be his adversary. Yahweh said to Satan, “Yahweh rebuke you, Satan! Yes, Yahweh who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”",
+          "note": "That they 'slander celestial beings' / glorious ones anticipates the angelic-court scene Jude cites next, where even Michael would not rail against Satan. The presumption of blaspheming heavenly powers stands in contrast to the restraint of the heavenly court tradition.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.7",
+      "ch": 1,
+      "ref": "1:9",
+      "text": "But Michael, the archangel, when contending with the devil and arguing about the body of Moses, dared not bring against him an abusive condemnation, but said, “May the Lord rebuke you!”",
+      "echoes": [
+        {
+          "source": "Assumption of Moses",
+          "type": "quotation",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "The dispute between Michael the archangel and the devil over the body of Moses is drawn from a lost ending of the Assumption (Testament) of Moses, to which early witnesses (Clement, Origen) attribute this episode. Jude cites the pseudepigraphal narrative as the source of Michael's refusal to pronounce a railing judgment.",
+          "contested": true,
+          "altSource": "pseudepigrapha"
+        },
+        {
+          "source": "Zechariah 3:2",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Yahweh said to Satan, “Yahweh rebuke you, Satan! Yes, Yahweh who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”",
+          "note": "Michael's words, 'May the Lord rebuke you,' quote almost verbatim the angel of the LORD's rebuke of Satan in Zechariah's vision of Joshua the high priest. Jude transfers the canonical formula of restrained heavenly rebuke into the Moses-body dispute."
+        },
+        {
+          "source": "Deuteronomy 34:5-6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "So Moses the servant of Yahweh died there in the land of Moab, according to Yahweh’s word. He buried him in the valley in the land of Moab opposite Beth Peor, but no man knows where his tomb is to this day.",
+          "note": "The very existence of a contested 'body of Moses' presupposes Deuteronomy's note that Moses died and the LORD buried him in the valley, with no one knowing his grave. The mystery of Moses' divinely managed burial generated the angelic-dispute tradition Jude reports."
+        },
+        {
+          "source": "Daniel 10:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But the prince of the kingdom of Persia withstood me twenty-one days; but, behold, Michael, one of the chief princes, came to help me: and I remained there with the kings of Persia.",
+          "note": "Michael's identity as 'the archangel' contending against a hostile spiritual power draws on Daniel's portrayal of Michael as one of the chief princes who battles opposing angelic forces. Jude assumes the Danielic role of Michael as Israel's angelic champion.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.8",
+      "ch": 1,
+      "ref": "1:10-11",
+      "text": "But these speak evil of whatever things they don’t know. What they understand naturally, like the creatures without reason, they are destroyed in these things. Woe to them! For they went in the way of Cain, and ran riotously in the error of Balaam for hire, and perished in Korah’s rebellion.",
+      "echoes": [
+        {
+          "source": "Genesis 4:3-8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "As time passed, Cain brought an offering to Yahweh from the fruit of the ground. Abel also brought some of the firstborn of his flock and of its fat. Yahweh respected Abel and his offering, but he didn’t respect Cain and his offering. Cain was very angry, and the expression on his face fell. Yahweh said to Cain, “Why are you angry? Why has the expression of your face fallen? If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the […]",
+          "note": "That they 'went in the way of Cain' recalls Cain, who out of envy murdered his brother Abel, the archetype of the unrighteous man following his own anger to bloodshed. Jude makes Cain the first of a triad of OT rebels exemplifying the intruders' path."
+        },
+        {
+          "source": "Numbers 22-24",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "The children of Israel traveled, and encamped in the plains of Moab beyond the Jordan at Jericho. Balak the son of Zippor saw all that Israel had done to the Amorites. Moab was very afraid of the people, because they were many. Moab was distressed because of the children of Israel. Moab said to the elders of Midian, “Now this multitude will lick up all that is around us, as the ox licks up the grass of the field.” Balak the son of Zippor was king of Moab […]",
+          "note": "Running 'in the error of Balaam for hire' alludes to the prophet Balaam, who coveted Balak's reward and sought to curse Israel. The motif of prophetic greed leading to ruin draws on the Balaam cycle."
+        },
+        {
+          "source": "Numbers 31:16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against Yahweh in the matter of Peor, and so the plague was among the congregation of Yahweh.",
+          "note": "Balaam's 'error for hire' specifically evokes the tradition that Balaam counseled Israel into apostasy and immorality at Peor, causing the plague. This passage identifies Balaam as the instigator of Israel's sin, the venal corruption Jude condemns."
+        },
+        {
+          "source": "Numbers 16:1-35",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took some men. They rose up before Moses, with some of the children of Israel, two hundred fifty princes of the congregation, called to the assembly, men of renown. They assembled themselves together against Moses and against Aaron, and said to them, “You take too much on yourself, since all the […]",
+          "note": "Perishing 'in Korah's rebellion' alludes to Korah, Dathan, and Abiram, who rebelled against Moses' and Aaron's authority and were swallowed by the earth and consumed by fire. Jude makes Korah the climactic example of those who reject God-given authority and are destroyed."
+        },
+        {
+          "source": "Numbers 26:9-10",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The sons of Eliab: Nemuel, and Dathan, and Abiram. These are that Dathan and Abiram, who were called by the congregation, who rebelled against Moses and against Aaron in the company of Korah, when they rebelled against Yahweh, and the earth opened its mouth, and swallowed them up together with Korah, when that company died; at the time the fire devoured two hundred fifty men, and they became a sign.",
+          "note": "The summary notice that Korah's company became a warning sign when the earth swallowed them reinforces Jude's use of Korah as a paradigm of judged rebellion. The retrospective canonical memory of Korah-as-warning underlies Jude's 'perished in Korah's rebellion.'"
+        }
+      ]
+    },
+    {
+      "id": "1.9",
+      "ch": 1,
+      "ref": "1:12-13",
+      "text": "These are hidden rocky reefs in your love feasts when they feast with you, shepherds who without fear feed themselves; clouds without water, carried along by winds; autumn leaves without fruit, twice dead, plucked up by the roots; wild waves of the sea, foaming out their own shame; wandering stars, for whom the blackness of darkness has been reserved forever.",
+      "echoes": [
+        {
+          "source": "Ezekiel 34:2",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Son of man, prophesy against the shepherds of Israel, prophesy, and tell them, even to the shepherds, Thus says the Lord Yahweh: Woe to the shepherds of Israel who feed themselves! Shouldn’t the shepherds feed the sheep?",
+          "note": "The 'shepherds who without fear feed themselves' directly echoes Ezekiel's woe against the shepherds of Israel who feed themselves rather than the flock. Jude brands the false teachers as the self-serving shepherds the prophet condemned."
+        },
+        {
+          "source": "Proverbs 25:14",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "As clouds and wind without rain, so is he who boasts of gifts deceptively.",
+          "note": "'Clouds without water, carried along by winds' echoes the proverb comparing a man who boasts of gifts he does not give to clouds and wind without rain. The image of empty, rain-less clouds is a wisdom figure for fruitless boasting."
+        },
+        {
+          "source": "Isaiah 57:20",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "But the wicked are like the troubled sea; for it can’t rest, and its waters cast up mire and dirt.",
+          "note": "'Wild waves of the sea, foaming out their own shame' draws on Isaiah's likening of the wicked to the troubled sea that cannot rest, casting up mire and dirt. Jude turns the prophetic simile of restless wickedness into an image of the intruders foaming up shame."
+        },
+        {
+          "source": "1 Enoch 18:13-16",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "The 'wandering stars, for whom the blackness of darkness has been reserved forever' draws on the Watchers' vision of stars that transgressed the LORD's command and are bound in a fiery prison-place until the day of judgment. Jude's astral imagery of disobedient, doomed stars is distinctively Enochic.",
+          "contested": true,
+          "altSource": "pseudepigrapha"
+        },
+        {
+          "source": "1 Enoch 21:1-6",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "Enoch's second vision of seven bound stars in a chaotic, fiery place, held for ten thousand years until the consummation of their sin, supplies the reserved darkness awaiting Jude's 'wandering stars.' This passage parallels the punishment of the lawless luminaries.",
+          "contested": true,
+          "altSource": "pseudepigrapha"
+        },
+        {
+          "source": "Proverbs 11:30",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The fruit of the righteous is a tree of life. He who is wise wins souls.",
+          "note": "The figure of 'autumn leaves without fruit, twice dead, plucked up by the roots' resonates with the wisdom contrast between the fruitful righteous and the barren, uprooted wicked. The horticultural imagery of fruitlessness and uprooting draws on sapiential tree-metaphors.",
+          "contested": true
+        },
+        {
+          "source": "Ezekiel 17:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Say, Thus says the Lord Yahweh: Shall it prosper? shall he not pull up its roots, and cut off its fruit, that it may wither; that all its fresh springing leaves may wither? and not by a strong arm or many people can it be raised from its roots.",
+          "note": "Trees 'plucked up by the roots' echoes the prophetic judgment image of a vine torn up by its roots so that it withers. The motif of uprooting as divine judgment on fruitlessness lies behind Jude's autumn trees.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.10",
+      "ch": 1,
+      "ref": "1:14-15",
+      "text": "About these also Enoch, the seventh from Adam, prophesied, saying, “Behold, the Lord came with ten thousands of his holy ones, to execute judgment on all, and to convict all the ungodly of all their works of ungodliness which they have done in an ungodly way, and of all the hard things which ungodly sinners have spoken against him.”",
+      "echoes": [
+        {
+          "source": "1 Enoch 1:9",
+          "type": "quotation",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "Jude explicitly attributes to Enoch, seventh from Adam, the prophecy that the Lord comes with myriads of his holy ones to execute judgment and convict all the ungodly. This is a direct, near-verbatim quotation of the opening oracle of the Book of Watchers, the only formal OT-style citation in Jude.",
+          "contested": true,
+          "altSource": "pseudepigrapha"
+        },
+        {
+          "source": "Genesis 5:18-24",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Jared lived one hundred sixty-two years, then became the father of Enoch. Jared lived after he became the father of Enoch eight hundred years, and became the father of other sons and daughters. All the days of Jared were nine hundred sixty-two years, then he died. Enoch lived sixty-five years, then became the father of Methuselah. After Methuselah’s birth, Enoch walked with God for three hundred years, and became the father of more sons and daughters. All […]",
+          "note": "Identifying Enoch as 'the seventh from Adam' draws on the Genesis genealogy from Adam through Seth, in which Enoch is the seventh patriarch who walked with God. Jude grounds the Enochic oracle in the canonical figure of the antediluvian prophet."
+        },
+        {
+          "source": "Deuteronomy 33:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He said, “Yahweh came from Sinai, and rose from Seir to them. He shone from Mount Paran. He came from the ten thousands of holy ones. At his right hand was a fiery law for them.",
+          "note": "The theophany of 'the Lord came with ten thousands of his holy ones' echoes Moses' blessing, where the LORD comes from Sinai with myriads of holy ones, fire at his right hand. This Sinai-theophany formula underlies both 1 Enoch 1:9 and Jude's citation."
+        },
+        {
+          "source": "Zechariah 14:5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "You shall flee by the valley of my mountains; for the valley of the mountains shall reach to Azel; yes, you shall flee, just like you fled from before the earthquake in the days of Uzziah king of Judah. Yahweh my God will come, and all the holy ones with you./f + Septuagint reads “him” instead of “you”./f*",
+          "note": "The coming of the Lord accompanied by 'all the holy ones with him' parallels Zechariah's prophecy that the LORD will come and all the holy ones with him. The eschatological advent with the angelic host is a shared prophetic motif behind Jude's quotation."
+        },
+        {
+          "source": "Daniel 7:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "A fiery stream issued and came out from before him: thousands of thousands ministered to him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.",
+          "note": "The 'ten thousands of holy ones' attending the Lord to execute judgment recalls Daniel's vision of myriads upon myriads standing before the Ancient of Days as the court sits in judgment. The numberless heavenly assembly at the judgment scene resonates with Daniel's throne-room.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.11",
+      "ch": 1,
+      "ref": "1:16",
+      "text": "These are murmurers and complainers, walking after their lusts (and their mouth speaks proud things), showing respect of persons to gain advantage.",
+      "echoes": [
+        {
+          "source": "Numbers 14:2",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "All the children of Israel murmured against Moses and against Aaron. The whole congregation said to them, “We wish that we had died in the land of Egypt, or that we had died in this wilderness!",
+          "note": "Branding them 'murmurers and complainers' echoes the wilderness generation who grumbled against Moses and Aaron, the archetypal sin of murmuring that brought judgment in Numbers 14. Jude links the intruders' discontent to the condemned grumblers of the desert."
+        },
+        {
+          "source": "1 Enoch 5:4",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "The description of murmurers who walk after their own lusts and speak proud, hard words against the Lord follows the Enochic indictment of the impious who utter hard speech and complain against God's greatness. Jude's profile of the grumblers continues his dependence on the Book of Watchers' moral vocabulary.",
+          "contested": true,
+          "altSource": "pseudepigrapha"
+        }
+      ]
+    },
+    {
+      "id": "1.12",
+      "ch": 1,
+      "ref": "1:17-19",
+      "text": "But you, beloved, remember the words which have been spoken before by the apostles of our Lord Jesus Christ. They said to you that “In the last time there will be mockers, walking after their own ungodly lusts.” These are they who cause divisions, and are sensual, not having the Spirit.",
+      "echoes": [
+        {
+          "source": "Isaiah 28:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Therefore hear Yahweh’s word, you scoffers, that rule this people in Jerusalem:",
+          "note": "The prophecy that 'in the last time there will be mockers' echoes the prophetic denunciation of scoffers who rule the people and despise the word of the LORD. The figure of the eschatological scoffer draws on the prophetic 'men of scorning.'",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 1:22",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“How long, you simple ones, will you love simplicity? How long will mockers delight themselves in mockery, and fools hate knowledge?",
+          "note": "The 'mockers' walking after ungodly lusts resonate with wisdom's rebuke of scoffers who delight in their scoffing and hate knowledge. Jude casts the false teachers in the mold of the sapiential 'scorner.'",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.13",
+      "ch": 1,
+      "ref": "1:20-23",
+      "text": "But you, beloved, keep building up yourselves on your most holy faith, praying in the Holy Spirit. Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ to eternal life. On some have compassion, making a distinction, and some save, snatching them out of the fire with fear, hating even the clothing stained by the flesh.",
+      "echoes": [
+        {
+          "source": "Zechariah 3:2",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh said to Satan, “Yahweh rebuke you, Satan! Yes, Yahweh who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”",
+          "note": "Saving some by 'snatching them out of the fire' alludes to Zechariah's vision of Joshua the high priest as a brand plucked from the fire. Jude applies the prophetic image of rescue from imminent burning to the work of reclaiming the endangered."
+        },
+        {
+          "source": "Amos 4:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“I have overthrown some of you, as when God overthrew Sodom and Gomorrah, and you were like a burning stick plucked out of the fire; yet you haven’t returned to me,” says Yahweh.",
+          "note": "The metaphor of being 'snatched out of the fire' also echoes Amos, where survivors of God's overthrow are like a brand plucked from the burning, a Sodom-like judgment. The shared 'brand from the fire' figure of narrow rescue from destruction underlies Jude's exhortation."
+        },
+        {
+          "source": "Zechariah 3:3-4",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Now Joshua was clothed with filthy garments, and was standing before the angel. He answered and spoke to those who stood before him, saying, “Take the filthy garments off of him.” To him he said, “Behold, I have caused your iniquity to pass from you, and I will clothe you with rich clothing.”",
+          "note": "'Hating even the clothing stained by the flesh' echoes the same Zechariah vision, where Joshua's filthy garments are removed and replaced with clean ones, defiled clothing symbolizing iniquity. Jude draws on the prophetic image of polluted garments as figures of contaminating sin.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.14",
+      "ch": 1,
+      "ref": "1:24-25",
+      "text": "Now to him who is able to keep them from stumbling, and to present you faultless before the presence of his glory in great joy, to God our Savior, who alone is wise, be glory and majesty, dominion and power, both now and forever. Amen.",
+      "echoes": [
+        {
+          "source": "Psalm 121:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He will not allow your foot to be moved. He who keeps you will not slumber.",
+          "note": "The doxology to him 'who is able to keep you from stumbling' echoes the psalm's assurance that the LORD will not let your foot be moved and keeps Israel from falling. The motif of God as the keeper who prevents stumbling draws on the psalter's language of preservation.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 32:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The Rock, his work is perfect, for all his ways are just. A God of faithfulness who does no wrong, just and right is he.",
+          "note": "Ascribing glory, majesty, dominion, and power 'to God our Savior, who alone is wise' echoes the Song of Moses' praise of the Rock whose work is perfect and whose ways are just. The closing ascription of greatness to the saving God resonates with deuteronomic doxological praise.",
+          "contested": true
+        },
+        {
+          "source": "1 Chronicles 29:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yours, Yahweh, is the greatness, the power, the glory, the victory, and the majesty! For all that is in the heavens and in the earth is yours. Yours is the kingdom, Yahweh, and you are exalted as head above all.",
+          "note": "The piling up of 'glory and majesty, dominion and power' echoes David's doxology that greatness, power, glory, victory, and majesty belong to the LORD, who rules over all. Jude's liturgical ascription of attributes follows the pattern of OT throne-doxologies.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

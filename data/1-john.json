@@ -1,0 +1,1684 @@
+{
+  "slug": "1-john",
+  "name": "1 John",
+  "subtitle": "A Love Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "John writes so that joy may be complete and so that those who believe may know they have eternal life. The letter circles a few great words — light and darkness, truth and lie, life and death, and above all love, for God is love — and reads them against the beginning: the word of life heard and seen and touched, Cain who was of the evil one and murdered his brother, the commandment old and new to love one another. To abide in love is to abide in God. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where the writer follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-4",
+      "text": "That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life (and the life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us); that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father, and with his Son, Jesus Christ. And we write these things to you, that our joy may be fulfilled.",
+      "echoes": [
+        {
+          "source": "Genesis 1:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "In the beginning, God created the heavens and the earth.",
+          "note": "The opening phrase 'that which was from the beginning' deliberately echoes the Septuagint's 'en arche' of Genesis 1:1. The author frames the proclamation in cosmogonic terms, locating the Word of life at the primordial beginning of all things."
+        },
+        {
+          "source": "Genesis 1:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "God said, “Let there be light,” and there was light.",
+          "note": "The creative divine word that calls light into being ('Let there be light') resonates faintly with the 'Word of life' that is manifested. The juxtaposition of beginning, word, and life recalls the spoken creation of Genesis.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 33:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "By Yahweh’s word, the heavens were made; all their army by the breath of his mouth.",
+          "note": "'By the word of the LORD the heavens were made' supplies the background for a life-giving creative word. The Word of life that was from the beginning draws on the tradition of God's word as the agent of creation and vivification."
+        },
+        {
+          "source": "Proverbs 8:22-23",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Yahweh possessed me in the beginning of his work, before his deeds of old. I was set up from everlasting, from the beginning, before the earth existed.",
+          "note": "Personified Wisdom, 'possessed from the beginning, before the earth was,' provides a conceptual matrix for a pre-existent Word that was from the beginning with the Father. The 1 John prologue shares the sapiential vocabulary of primordial origin."
+        },
+        {
+          "source": "Genesis 2:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh God formed man from the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+          "note": "The manifested 'life' that the witnesses heard, saw, and touched may recall God breathing the breath of life into the human, the originating gift of life. The link is thematic rather than verbal.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 3:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "She is a tree of life to those who lay hold of her. Happy is everyone who retains her.",
+          "note": "Wisdom as a 'tree of life' to those who lay hold of her loosely parallels the 'eternal life' that the witnesses lay hold of and touch with their hands. A faint sapiential resonance.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 30:20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "to love Yahweh your God, to obey his voice, and to cling to him; for he is your life, and the length of your days; that you may dwell in the land which Yahweh swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them.",
+          "note": "The LORD as 'your life and the length of your days' undergirds the Johannine equation of God/Word with life itself. The eternal life that was with the Father echoes the covenantal life found in God.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom 7:25-26",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "For she is a breath of the power of God, And a clear effluence of the glory of the Almighty; Therefore can nothing defiled find entrance into her. For she is an effulgence from everlasting light, And an unspotted mirror of the working of God, And an image of his goodness.",
+          "note": "Wisdom as 'a pure emanation' and 'reflection of eternal light' with God supplies a deuterocanonical bridge for the pre-existent life that was with the Father and was manifested. Shares the language of a divine reality made visible.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:5",
+      "text": "This is the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all.",
+      "echoes": [
+        {
+          "source": "Psalm 27:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh is my light and my salvation. Whom shall I fear? Yahweh is the strength of my life. Of whom shall I be afraid?",
+          "note": "'The LORD is my light and my salvation' grounds the declaration that 'God is light.' The metaphor of God as the believer's light is a fixed OT motif that 1 John condenses into a definitional statement."
+        },
+        {
+          "source": "Psalm 36:9",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For with you is the spring of life. In your light shall we see light.",
+          "note": "'In your light we see light' joins divine light to the source of life, matching the prologue's pairing of light and the Word of life. The verse provides a close conceptual parallel to God as unmixed light."
+        },
+        {
+          "source": "Isaiah 60:19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The sun shall be no more your light by day; neither for brightness shall the moon give light to you: but Yahweh will be to you an everlasting light, and your God your glory.",
+          "note": "'The LORD will be your everlasting light' and the sun's light will be superseded by God himself. This eschatological vision of God as undiminished light supports the claim that in him is no darkness at all."
+        },
+        {
+          "source": "Habakkuk 3:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "His splendor is like the sunrise. Rays shine from his hand, where his power is hidden.",
+          "note": "The theophany where God's brightness 'was like the light' and rays flashed from his hand offers an OT image of divine radiance. A faint background to the absolute light of 1 John.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 104:2",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "He covers himself with light as with a garment. He stretches out the heavens like a curtain.",
+          "note": "God 'covers himself with light as with a garment' presents the deity clothed in light. This supports the predication 'God is light' as native to Israel's praise of the Creator."
+        },
+        {
+          "source": "Daniel 2:22",
+          "type": "echo",
+          "confidence": "low",
+          "text": "he reveals the deep and secret things; he knows what is in the darkness, and the light dwells with him.",
+          "note": "'He knows what is in the darkness, and the light dwells with him' pairs God with light over against darkness, mirroring 1 John's light/darkness antithesis. A contested but apt verbal resonance.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 45:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I form the light, and create darkness. I make peace, and create calamity. I am Yahweh, who does all these things.",
+          "note": "God who forms light and creates darkness establishes the sovereignty over both realms; 1 John sharpens this into God being pure light with no darkness. The relationship is dialectical rather than direct.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.6",
+      "ch": 1,
+      "ref": "1:6-7",
+      "text": "If we say that we have fellowship with him and walk in the darkness, we lie, and don’t tell the truth. But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus Christ, his Son, cleanses us from all sin.",
+      "echoes": [
+        {
+          "source": "Isaiah 2:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "House of Jacob, come, and let us walk in the light of Yahweh.",
+          "note": "'Come, let us walk in the light of the LORD' supplies the ethical idiom of walking in light that 1 John opposes to walking in darkness. The summons to conduct oneself in God's light is directly echoed."
+        },
+        {
+          "source": "Proverbs 4:18-19",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "But the path of the righteous is like the dawning light, that shines more and more until the perfect day. The way of the wicked is like darkness. They don’t know what they stumble over.",
+          "note": "The contrast of 'the path of the righteous is like the light of dawn' with 'the way of the wicked is like deep darkness' frames walking in light versus darkness as the two ways. This is the closest sapiential parallel to 1 John's antithesis."
+        },
+        {
+          "source": "Psalm 82:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "They don’t know, neither do they understand. They walk back and forth in darkness. All the foundations of the earth are shaken.",
+          "note": "Those who 'walk about in darkness' without knowledge depict moral and spiritual blindness, paralleling the one who claims fellowship yet walks in darkness. A faint background image.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 16:30",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "for on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh.",
+          "note": "On the Day of Atonement 'you shall be clean before the LORD from all your sins' through the sacrificial blood, undergirding the claim that the blood cleanses from all sin. 1 John transposes the cultic purgation onto the blood of Jesus."
+        },
+        {
+          "source": "Leviticus 17:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For the life of the flesh is in the blood; and I have given it to you on the altar to make atonement for your souls: for it is the blood that makes atonement by reason of the life.",
+          "note": "'The life of the flesh is in the blood... it is the blood that makes atonement' establishes the atoning, cleansing power of blood that 1 John applies to Jesus' blood. The sacrificial logic of cleansing-by-blood is foundational."
+        },
+        {
+          "source": "Zechariah 13:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“In that day there will be a spring opened to the house of David and to the inhabitants of Jerusalem, for sin and for uncleanness.",
+          "note": "'A fountain opened... to cleanse from sin and uncleanness' anticipates a definitive cleansing from sin, matching the blood that cleanses from all sin. The eschatological purification motif resonates."
+        },
+        {
+          "source": "Psalm 51:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Purify me with hyssop, and I will be clean. Wash me, and I will be whiter than snow.",
+          "note": "'Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow' voices the cultic cleansing from sin that 1 John ascribes to the blood. The plea for thorough purification is echoed."
+        },
+        {
+          "source": "Exodus 24:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Moses took the blood, and sprinkled it on the people, and said, “Look, this is the blood of the covenant, which Yahweh has made with you concerning all these words.”",
+          "note": "The blood of the covenant sprinkled on the people seals the relationship and consecrates them, a background for the cleansing blood that secures fellowship. A faint covenantal resonance.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.8",
+      "ch": 1,
+      "ref": "1:8",
+      "text": "If we say that we have no sin, we deceive ourselves, and the truth is not in us.",
+      "echoes": [
+        {
+          "source": "Proverbs 20:9",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Who can say, “I have made my heart pure. I am clean and without sin?”",
+          "note": "'Who can say, I have made my heart clean, I am pure from my sin?' directly anticipates the rebuke of those who claim to have no sin. The rhetorical question denies the possibility of sinlessness that 1 John condemns as self-deception."
+        },
+        {
+          "source": "1 Kings 8:46",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "If they sin against you (for there is no man who doesn’t sin), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to the land of the enemy, far off or near;",
+          "note": "'There is no one who does not sin' establishes the universality of sin that exposes the false claim to have no sin. Solomon's prayer provides the scriptural axiom underlying 1 John's warning."
+        },
+        {
+          "source": "Ecclesiastes 7:20",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Surely there is not a righteous man on earth, who does good and doesn’t sin.",
+          "note": "'There is not a righteous man on earth who does good and never sins' restates the universal sinfulness that makes the claim to be without sin self-deceptive. A close sapiential parallel."
+        },
+        {
+          "source": "Psalm 143:2",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Don’t enter into judgment with your servant, for in your sight no man living is righteous.",
+          "note": "'No one living is righteous before you' grounds the impossibility of sinlessness before God. The verse supports 1 John's insistence that to deny sin is to lack the truth."
+        },
+        {
+          "source": "Job 15:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "What is man, that he should be clean? What is he who is born of a woman, that he should be righteous?",
+          "note": "'What is man, that he should be clean?' voices the rhetorical denial of human purity, echoing the futility of claiming to have no sin. A faint wisdom-tradition resonance.",
+          "contested": true
+        },
+        {
+          "source": "Jeremiah 2:35",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Yet you said, ‘I am innocent. Surely his anger has turned away from me.’ “Behold, I will judge you, because you say, ‘I have not sinned.’",
+          "note": "Israel's claim 'I am innocent... I have not sinned' is rebuked by God, paralleling the self-deception of those who say they have no sin. The prophetic indictment of denied guilt resonates.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.9",
+      "ch": 1,
+      "ref": "1:9",
+      "text": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
+      "echoes": [
+        {
+          "source": "Proverbs 28:13",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He who conceals his sins doesn’t prosper, but whoever confesses and renounces them finds mercy.",
+          "note": "'Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy' is the closest OT parallel to the promise that confession brings forgiveness. 1 John echoes the proverb's logic of confession leading to mercy."
+        },
+        {
+          "source": "Psalm 32:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to Yahweh, and you forgave the iniquity of my sin. Selah.",
+          "note": "'I acknowledged my sin to you... and you forgave the iniquity of my sin' provides the experiential template for confession resulting in divine forgiveness. The verse matches both the act of confessing and the assurance of pardon."
+        },
+        {
+          "source": "Psalm 51:2-3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Wash me thoroughly from my iniquity. Cleanse me from my sin. For I know my transgressions. My sin is constantly before me.",
+          "note": "'Wash me thoroughly from my iniquity... I acknowledge my transgressions' joins confession of sin to the plea for cleansing, matching the dual promise to forgive and to cleanse from all unrighteousness. The penitential pattern is closely paralleled."
+        },
+        {
+          "source": "Exodus 34:6-7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh passed by before him, and proclaimed, “Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth, keeping loving kindness for thousands, forgiving iniquity and disobedience and sin; and that will by no means clear the guilty, visiting the iniquity of the fathers on the children, and on the children’s children, on the third and on the fourth generation.”",
+          "note": "The LORD 'merciful and gracious... forgiving iniquity and transgression and sin' supplies the character ground for God being faithful and just to forgive. The covenant name-formula underwrites divine reliability in pardon."
+        },
+        {
+          "source": "Micah 7:18-19",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Who is a God like you, who pardons iniquity, and passes over the disobedience of the remnant of his heritage? He doesn’t retain his anger forever, because he delights in loving kindness. He will again have compassion on us. He will tread our iniquities under foot; and you will cast all their sins into the depths of the sea.",
+          "note": "God who 'pardons iniquity' and 'will tread our iniquities underfoot' delighting in steadfast love supports the faithfulness and justice of God in forgiving. The prophetic confidence in pardon resonates."
+        },
+        {
+          "source": "Daniel 9:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "To the Lord our God belong mercies and forgiveness; for we have rebelled against him;",
+          "note": "'To the Lord our God belong mercy and forgiveness, though we have rebelled' joins corporate confession to assured forgiveness, echoing the confession-forgiveness dynamic. A faint background from penitential prayer.",
+          "contested": true
+        },
+        {
+          "source": "Nehemiah 9:33",
+          "type": "echo",
+          "confidence": "low",
+          "text": "However you are just in all that has come on us; for you have dealt truly, but we have done wickedly;",
+          "note": "'You are just in all that has come upon us, for you have dealt faithfully' pairs God's justice and faithfulness in dealing with sin, echoing the 'faithful and just' predication. A contested resonance from covenantal confession.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 16:30",
+          "type": "echo",
+          "confidence": "low",
+          "text": "for on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh.",
+          "note": "The cleansing 'from all your sins' on the Day of Atonement underlies the promise to cleanse from all unrighteousness. The cultic language of total purgation reappears alongside confession.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.10",
+      "ch": 1,
+      "ref": "1:10",
+      "text": "If we say that we haven’t sinned, we make him a liar, and his word is not in us.",
+      "echoes": [
+        {
+          "source": "Numbers 23:19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "God is not a man, that he should lie, nor the son of man, that he should repent. Has he said, and will he not do it? Or has he spoken, and will he not make it good?",
+          "note": "'God is not a man, that he should lie' establishes that to contradict God is to make him out a liar, which is what claiming sinlessness does. 1 John inverts the axiom: denying sin effectively calls the truthful God a liar."
+        },
+        {
+          "source": "1 Kings 8:46",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "If they sin against you (for there is no man who doesn’t sin), and you are angry with them, and deliver them to the enemy, so that they carry them away captive to the land of the enemy, far off or near;",
+          "note": "'There is no one who does not sin' makes the claim 'we have not sinned' a denial of revealed truth. The verse grounds the charge that such a claim makes God a liar."
+        },
+        {
+          "source": "Psalm 14:3",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "They have all gone aside. They have together become corrupt. There is no one who does good, no, not one.",
+          "note": "'They have all turned aside... there is none who does good, not even one' affirms universal sin, so denying one's sin contradicts God's own verdict. The psalm's indictment supports the charge of making God a liar."
+        },
+        {
+          "source": "Jeremiah 2:35",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Yet you said, ‘I am innocent. Surely his anger has turned away from me.’ “Behold, I will judge you, because you say, ‘I have not sinned.’",
+          "note": "Israel's protest 'I have not sinned' provokes God's judgment, paralleling the self-condemning denial in 1 John. A faint prophetic echo of denied guilt.",
+          "contested": true
+        },
+        {
+          "source": "Job 9:20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Though I am righteous, my own mouth shall condemn me. Though I am blameless, it shall prove me perverse.",
+          "note": "'Though I am in the right... my own mouth would condemn me; though I am blameless, he would prove me perverse' captures the futility of self-justification before God. A contested wisdom resonance with denying one's sin.",
+          "contested": true
+        },
+        {
+          "source": "1 Samuel 15:29",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Also the Strength of Israel will not lie nor repent; for he is not a man, that he should repent.”",
+          "note": "'The Glory of Israel will not lie or have regret, for he is not a man' reinforces God's truthfulness, making the denial of sin an implicit charge of falsehood against him. A faint parallel to Numbers 23:19.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "ch": 2,
+      "ref": "2:1-2",
+      "text": "My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor with the Father, Jesus Christ, the righteous. And he is the atoning sacrifice for our sins, and not for ours only, but also for the whole world.",
+      "echoes": [
+        {
+          "source": "Leviticus 16:30",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "for on this day shall atonement be made for you, to cleanse you; from all your sins you shall be clean before Yahweh.",
+          "note": "Christ as the \"atoning sacrifice for our sins\" draws on the Day of Atonement, the single day on which atonement is made for all the sins of the people. The hilasmos language of propitiation is rooted in the Levitical cult that cleanses Israel before the LORD. John universalizes the rite to encompass the whole world."
+        },
+        {
+          "source": "Leviticus 17:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For the life of the flesh is in the blood; and I have given it to you on the altar to make atonement for your souls: for it is the blood that makes atonement by reason of the life.",
+          "note": "\"It is the blood that makes atonement by reason of the life\" supplies the sacrificial logic behind calling Jesus the propitiation for sins. The atoning-blood theology of Leviticus underlies the claim that his death covers the guilt of the world."
+        },
+        {
+          "source": "Isaiah 53:10-12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yet it pleased Yahweh to bruise him. He has caused him to suffer. When you make his soul an offering for sin, he shall see his seed. He shall prolong his days, and the pleasure of Yahweh shall prosper in his hand. After the suffering of his soul, he will see the light and be satisfied. My righteous servant will justify many by the knowledge of himself; and he will bear their iniquities. Therefore will I divide him a portion with the great, and he shall […]",
+          "note": "The Servant who makes his life an offering for sin and bears the sin of many stands behind the idea of Christ as atoning sacrifice for the whole world. \"Not for ours only\" extends the Servant's vicarious suffering beyond Israel. The righteous one who justifies many parallels \"Jesus Christ, the righteous.\""
+        },
+        {
+          "source": "Isaiah 53:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "After the suffering of his soul, he will see the light and be satisfied. My righteous servant will justify many by the knowledge of himself; and he will bear their iniquities.",
+          "note": "\"The righteous one, my servant\" who shall make many to be accounted righteous may color the epithet \"Jesus Christ, the righteous\" as advocate. The juxtaposition of righteousness and bearing sins links advocate and atonement.",
+          "contested": true
+        },
+        {
+          "source": "Job 16:19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Even now, behold, my witness is in heaven. He who vouches for me is on high.",
+          "note": "\"My witness is in heaven, and he who vouches for me is on high\" supplies an OT image of a heavenly advocate pleading one's case before God. This anticipates the Counselor/advocate (paraklētos) Christians have with the Father.",
+          "contested": true
+        },
+        {
+          "source": "Job 33:23",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“If there is beside him an angel, an interpreter, one among a thousand, to show to man what is right for him;",
+          "note": "The mediating angel/interpreter who declares to man what is right may stand behind the figure of an advocate with the Father. The intercessory role parallels Christ pleading the believer's cause.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "ch": 2,
+      "ref": "2:3-6",
+      "text": "This is how we know that we know him: if we keep his commandments. One who says, “I know him,” and doesn’t keep his commandments, is a liar, and the truth isn’t in him. But whoever keeps his word, God’s love has most certainly been perfected in him. This is how we know that we are in him: he who says he remains in him ought himself also to walk just like he walked.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 6:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You shall love Yahweh your God with all your heart, with all your soul, and with all your might.",
+          "note": "\"Whoever keeps his word, God's love has been perfected in him\" reframes the Shema's command to love the LORD with all one's heart as something now fulfilled in the obedient believer. Keeping the commandments as proof of love directly recalls Deuteronomy's covenant logic."
+        },
+        {
+          "source": "Deuteronomy 30:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh your God will circumcise your heart, and the heart of your seed, to love Yahweh your God with all your heart, and with all your soul, that you may live.",
+          "note": "The promise that the LORD will circumcise the heart so that Israel may love him with all the heart undergirds the claim that God's love is perfected in those who keep his word. The interiorized, completed love answers Deuteronomy's eschatological hope."
+        },
+        {
+          "source": "Deuteronomy 11:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Therefore you shall love Yahweh your God, and keep his instructions, his statutes, his ordinances, and his commandments, always.",
+          "note": "\"You shall love the LORD your God and keep his charge and his commandments\" pairs love with commandment-keeping exactly as John does. Knowing God is shown by keeping his commandments in both texts."
+        },
+        {
+          "source": "Deuteronomy 8:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You shall remember all the way which Yahweh your God has led you these forty years in the wilderness, that he might humble you, to prove you, to know what was in your heart, whether you would keep his commandments, or not.",
+          "note": "Israel is tested to know whether they would keep his commandments; John makes keeping the commandments the test of whether one truly knows God. The verbal link of knowing and keeping commandments connects the passages.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 26:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“‘If you walk in my statutes, and keep my commandments, and do them;",
+          "note": "\"If you walk in my statutes and keep my commandments\" frames covenant fidelity as walking and keeping, language John echoes in walking as Christ walked and keeping his commandments. The covenant blessing depends on this obedience.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.7",
+      "ch": 2,
+      "ref": "2:7-11",
+      "text": "Brothers, I write no new commandment to you, but an old commandment which you had from the beginning. The old commandment is the word which you heard from the beginning. Again, I write a new commandment to you, which is true in him and in you; because the darkness is passing away, and the true light already shines. He who says he is in the light and hates his brother, is in the darkness even until now. He who loves his brother remains in the light, and there is no occasion for stumbling in him. But he who hates his brother is in the darkness, and walks in the darkness, and doesn’t know where he is going, because the darkness has blinded his eyes.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "\"You shall love your neighbor as yourself\" is the substance of the commandment John calls both old and new. To love one's brother and not hate him is the Holiness Code's command (cf. Leviticus 19:17, \"You shall not hate your brother in your heart\"). The \"old commandment from the beginning\" is this Levitical love-command."
+        },
+        {
+          "source": "Leviticus 19:17",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not bear sin because of him.",
+          "note": "\"You shall not hate your brother in your heart\" stands directly behind John's contrast between loving and hating one's brother. The man who hates his brother walks contrary to this explicit prohibition."
+        },
+        {
+          "source": "Proverbs 4:18-19",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "But the path of the righteous is like the dawning light, that shines more and more until the perfect day. The way of the wicked is like darkness. They don’t know what they stumble over.",
+          "note": "\"The path of the righteous is like the light of dawn\" while \"the way of the wicked is like deep darkness; they do not know over what they stumble\" closely parallels John's contrast of the one in light versus the one in darkness who does not know where he goes. The blinding darkness and lack of knowing the way are shared."
+        },
+        {
+          "source": "Jeremiah 31:33",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "But this is the covenant that I will make with the house of Israel after those days, says Yahweh: I will put my law in their inward parts, and in their heart will I write it; and I will be their God, and they shall be my people:",
+          "note": "The new covenant in which God writes the law on the heart explains how an \"old commandment\" can be \"new\" and \"true in him and in you.\" The interiorized commandment of the new covenant is the love that John says is now realized."
+        },
+        {
+          "source": "Ezekiel 36:26",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I will also give you a new heart, and I will put a new spirit within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh.",
+          "note": "The promise of a new heart and a new spirit illumines the \"new commandment\" that becomes true in the believer as the darkness passes and the true light shines. The eschatological renewal makes the old command newly possible."
+        },
+        {
+          "source": "Isaiah 59:9-10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Therefore is justice far from us, neither does righteousness overtake us: we look for light, but, behold, darkness; for brightness, but we walk in obscurity. We grope for the wall like the blind; yes, we grope as those who have no eyes: we stumble at noonday as in the twilight; among those who are lusty we are as dead men.",
+          "note": "\"We wait for light, but behold, darkness... we grope for the wall like the blind\" parallels the brother-hater who is in darkness, walks in darkness, and does not know where he goes because the darkness has blinded his eyes. Both depict moral blindness as physical groping in the dark."
+        },
+        {
+          "source": "Deuteronomy 28:29",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "You will grope at noonday, as the blind gropes in darkness, and you shall not prosper in your ways. You will only be oppressed and robbed always, and there will be no one to save you.",
+          "note": "The curse that one shall \"grope at noonday, as the blind grope in darkness\" supplies the image of being blinded so as not to find one's way. John applies this blinded groping to the one who hates his brother."
+        },
+        {
+          "source": "Isaiah 9:2",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The people who walked in darkness have seen a great light. Those who lived in the land of the shadow of death, on them the light has shined.",
+          "note": "\"The people who walked in darkness have seen a great light\" anticipates the true light already shining and the darkness passing away. The dawning eschatological light frames John's claim about the new commandment."
+        },
+        {
+          "source": "Isaiah 60:1-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Arise, shine; for your light has come, and Yahweh’s glory is risen on you. For, behold, darkness shall cover the earth, and gross darkness the peoples; but Yahweh will arise on you, and his glory shall be seen on you. Nations shall come to your light, and kings to the brightness of your rising.",
+          "note": "\"Arise, shine, for your light has come\" and the receding of darkness over the earth may color the assertion that the darkness is passing and the true light already shines. The dawning of divine light marks the new age.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 119:165",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Those who love your law have great peace. Nothing causes them to stumble.",
+          "note": "\"Great peace have those who love your law, and nothing causes them to stumble\" parallels the one who loves his brother in whom there is no cause of stumbling. Love and freedom from stumbling are joined in both.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 36:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For with you is the spring of life. In your light shall we see light.",
+          "note": "\"In your light do we see light\" may inform the light/darkness antithesis that governs walking rightly. The divine light as the medium of right sight underlies John's imagery.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.12",
+      "ch": 2,
+      "ref": "2:12-14",
+      "text": "I write to you, little children, because your sins are forgiven you for his name’s sake. I write to you, fathers, because you know him who is from the beginning. I write to you, young men, because you have overcome the evil one. I write to you, little children, because you know the Father. I have written to you, fathers, because you know him who is from the beginning. I have written to you, young men, because you are strong, and the word of God remains in you, and you have overcome the evil one.",
+      "echoes": [
+        {
+          "source": "Psalm 25:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For your name’s sake, Yahweh, pardon my iniquity, for it is great.",
+          "note": "\"For your name's sake, O LORD, pardon my guilt\" parallels \"your sins are forgiven you for his name's sake.\" Forgiveness grounded in the divine name is a Psalter motif John applies to Christ's name."
+        },
+        {
+          "source": "Psalm 79:9",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Help us, God of our salvation, for the glory of your name. Deliver us, and forgive our sins, for your name’s sake.",
+          "note": "\"Atone for our sins, for your name's sake\" closely matches the forgiveness of sins \"for his name's sake.\" The name as the basis of pardon is shared."
+        },
+        {
+          "source": "Psalm 103:12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As far as the east is from the west, so far has he removed our transgressions from us.",
+          "note": "\"As far as the east is from the west, so far does he remove our transgressions\" stands behind the assurance that sins are forgiven. The Psalter's confidence in divine pardon undergirds John's address to the little children.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 3:15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”",
+          "note": "The young men who have \"overcome the evil one\" may echo the protoevangelium's promise of victory over the serpent. The conquest of the satanic adversary fulfills the primordial enmity.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 6:6-7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "These words, which I command you this day, shall be on your heart; and you shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up.",
+          "note": "\"The word of God remains in you\" recalls the Shema's charge that these words be on the heart and taught diligently. The indwelling word as a mark of strength parallels Deuteronomy's internalized commandment.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.15",
+      "ch": 2,
+      "ref": "2:15-17",
+      "text": "Don’t love the world, neither the things that are in the world. If anyone loves the world, the Father’s love isn’t in him. For all that is in the world, the lust of the flesh, the lust of the eyes, and the pride of life, isn’t the Father’s, but is the world’s. The world is passing away with its lusts, but he who does God’s will remains forever.",
+      "echoes": [
+        {
+          "source": "Genesis 3:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took some of its fruit, and ate; and she gave some to her husband with her, and he ate it, too.",
+          "note": "The triad of \"lust of the flesh, lust of the eyes, and the pride of life\" mirrors Eve seeing that the tree was good for food (flesh), a delight to the eyes (eyes), and desirable to make one wise (pride). The fall narrative supplies the anatomy of worldly desire John condemns."
+        },
+        {
+          "source": "Ecclesiastes 2:10-11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Whatever my eyes desired, I didn’t keep from them. I didn’t withhold my heart from any joy, for my heart rejoiced because of all my labor, and this was my portion from all my labor. Then I looked at all the works that my hands had worked, and at the labor that I had labored to do; and behold, all was vanity and a chasing after wind, and there was no profit under the sun.",
+          "note": "Qoheleth's pursuit of whatever his eyes desired, only to find all is vanity and passing, parallels the lust of the eyes and the world passing away with its desires. The transience of worldly pleasure is shared."
+        },
+        {
+          "source": "Ecclesiastes 1:2",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“Vanity of vanities,” says the Preacher; “Vanity of vanities, all is vanity.”",
+          "note": "\"Vanity of vanities, all is vanity\" undergirds the assertion that the world and its lusts are passing away. The fleeting emptiness of all under the sun matches John's contrast with the one who abides forever."
+        },
+        {
+          "source": "Proverbs 27:20",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Sheol and Abaddon are never satisfied; and a man’s eyes are never satisfied.",
+          "note": "\"The eyes of man are never satisfied\" stands directly behind \"the lust of the eyes\" as insatiable craving. Like Sheol that is never full, worldly desire cannot be satisfied."
+        },
+        {
+          "source": "Isaiah 40:6-8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "The voice of one saying, “Cry!” One said, “What shall I cry?” “All flesh is like grass, and all its glory is like the flower of the field. The grass withers, the flower fades, because Yahweh’s breath blows on it. Surely the people are like grass. The grass withers, the flower fades; but the word of our God stands forever.”",
+          "note": "\"All flesh is grass... the grass withers, the flower fades... but the word of our God will stand forever\" closely matches the world passing away with its lusts while the one who does God's will remains forever. The contrast of transient flesh and abiding word/will of God is the same."
+        },
+        {
+          "source": "Psalm 73:25-26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Whom do I have in heaven? There is no one on earth whom I desire besides you. My flesh and my heart fails, but God is the strength of my heart and my portion forever.",
+          "note": "\"Whom have I in heaven but you? ... God is the strength of my heart and my portion forever\" parallels the rejection of the world for the abiding portion of God. The enduring versus the fleeting governs both.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 119:37",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Turn my eyes away from looking at worthless things. Revive me in your ways.",
+          "note": "\"Turn my eyes from looking at worthless things\" parallels the warning against the lust of the eyes and loving the world. The prayer to avert the eyes from vanity matches John's exhortation.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 15:39",
+          "type": "echo",
+          "confidence": "low",
+          "text": "and it shall be to you for a fringe, that you may look on it, and remember all the commandments of Yahweh, and do them; and that you not follow after your own heart and your own eyes, after which you use to play the prostitute;",
+          "note": "The warning not to follow after one's own heart and eyes, which lead one to whore after them, parallels the lust of the eyes that belongs to the world. Eyes as agents of illicit desire connect the texts.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.18",
+      "ch": 2,
+      "ref": "2:18-23",
+      "text": "Little children, these are the end times, and as you heard that the Antichrist is coming, even now many antichrists have arisen. By this we know that it is the final hour. They went out from us, but they didn’t belong to us; for if they had belonged to us, they would have continued with us. But they left, that they might be revealed that none of them belong to us. You have an anointing from the Holy One, and you all have knowledge. I have not written to you because you don’t know the truth, but because you know it, and because no lie is of the truth. Who is the liar but he who denies that Jesus is the Christ? This is the Antichrist, he who denies the Father and the Son. Whoever denies the Son, the same doesn’t have the Father. He who confesses the Son has the Father also.",
+      "echoes": [
+        {
+          "source": "Daniel 11:36",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvelous things against the God of gods; and he shall prosper until the indignation be accomplished; for that which is determined shall be done.",
+          "note": "The king who exalts himself above every god and speaks against the God of gods supplies the antitype behind the Antichrist who denies the Father and the Son. Daniel's blasphemous end-time figure shapes John's expectation of the coming Antichrist."
+        },
+        {
+          "source": "Daniel 7:25",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "He shall speak words against the Most High, and shall wear out the saints of the Most High; and he shall think to change the times and the law; and they shall be given into his hand until a time and times and half a time.",
+          "note": "The horn that speaks words against the Most High and wears out the saints anticipates the antichrist who arises in the last hour to oppose God. Daniel's eschatological adversary informs the figure of many antichrists."
+        },
+        {
+          "source": "Daniel 8:23-25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "In the latter time of their kingdom, when the transgressors have come to the full, a king of fierce face, and understanding dark sentences, shall stand up. His power shall be mighty, but not by his own power; and he shall destroy wonderfully, and shall prosper in what he does; and he shall destroy the mighty ones and the holy people. Through his policy he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and he shall […]",
+          "note": "The bold king of fierce countenance who rises in the latter time and rises against the Prince of princes colors the picture of the Antichrist appearing in the final hour. The deceitful end-time tyrant stands in the background.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 13:1-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "If a prophet or a dreamer of dreams arises in your midst you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, “Let us go after other gods” (which you have not known) “and let us serve them”; you shall not listen to the words of that prophet, or to that dreamer of dreams; for Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul.",
+          "note": "The test of prophets who arise to lead Israel astray after other gods parallels the antichrists who go out and seek to lead the faithful astray with lies. The deceiver who departs from true confession is judged by both.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.24",
+      "ch": 2,
+      "ref": "2:24-27",
+      "text": "Therefore, as for you, let that remain in you which you heard from the beginning. If that which you heard from the beginning remains in you, you also will remain in the Son, and in the Father. This is the promise which he promised us, the eternal life. These things I have written to you concerning those who would lead you astray. As for you, the anointing which you received from him remains in you, and you don’t need for anyone to teach you. But as his anointing teaches you concerning all things, and is true, and is no lie, and even as it taught you, you will remain in him.",
+      "echoes": [
+        {
+          "source": "Isaiah 61:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+          "note": "\"The Spirit of the Lord GOD is upon me, because the LORD has anointed me\" stands behind the believers' \"anointing from the Holy One.\" John democratizes the prophetic anointing of the Spirit so that all who abide are taught directly.",
+          "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;"
+        },
+        {
+          "source": "Jeremiah 31:34",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "and they shall teach no more every man his neighbor, and every man his brother, saying, Know Yahweh; for they shall all know me, from their least to their greatest, says Yahweh: for I will forgive their iniquity, and their sin will I remember no more.",
+          "note": "\"They shall all know me, from the least to the greatest... no longer shall each teach his neighbor\" directly underlies \"you don't need for anyone to teach you,\" because the anointing teaches all things. The new-covenant promise of universal divine instruction is fulfilled in the anointing."
+        },
+        {
+          "source": "Joel 2:28",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“It will happen afterward, that I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy. Your old men will dream dreams. Your young men will see visions.",
+          "note": "The outpouring of God's Spirit on all flesh, so that all prophesy, underlies the anointing given to every believer that teaches them all things. The democratized Spirit of the last days matches John's \"you all have knowledge.\""
+        },
+        {
+          "source": "Isaiah 54:13",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "All your children shall be taught of Yahweh; and great shall be the peace of your children.",
+          "note": "\"All your children shall be taught by the LORD\" parallels the anointing that teaches the faithful so they need no human teacher. Direct divine instruction of God's children is the shared promise."
+        },
+        {
+          "source": "Ezekiel 36:27",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will put my Spirit within you, and cause you to walk in my statutes, and you shall keep my ordinances, and do them.",
+          "note": "\"I will put my Spirit within you, and cause you to walk in my statutes\" parallels the indwelling anointing that abides and teaches obedience. The internal Spirit guiding conduct connects the texts.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.28",
+      "ch": 2,
+      "ref": "2:28-29",
+      "text": "Now, little children, remain in him, that when he appears, we may have boldness, and not be ashamed before him at his coming. If you know that he is righteous, you know that everyone who practices righteousness has been born of him.",
+      "echoes": [
+        {
+          "source": "Psalm 11:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For Yahweh is righteous. He loves righteousness. The upright shall see his face.",
+          "note": "\"The LORD is righteous; he loves righteous deeds\" parallels knowing that he is righteous and that everyone who practices righteousness is born of him. The link between God's righteousness and the righteous conduct of his people connects the texts.",
+          "contested": true
+        },
+        {
+          "source": "Malachi 3:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“But who can endure the day of his coming? And who will stand when he appears? For he is like a refiner’s fire, and like launderer’s soap;",
+          "note": "\"Who can endure the day of his coming, and who can stand when he appears?\" colors the call to abide so as to have boldness and not be ashamed at his appearing. The eschatological testing at the divine appearing is shared.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 12:2-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Many of those who sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt. Those who are wise shall shine as the brightness of the expanse; and those who turn many to righteousness as the stars forever and ever.",
+          "note": "The shame of some and the vindication of the wise who shine at the end may inform having boldness and not being ashamed before him at his coming. The contrast of shame and confidence at the eschaton underlies the verse.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.1",
+      "ch": 3,
+      "ref": "3:1-3",
+      "text": "See how great a love the Father has bestowed on us, that we should be called children of God! For this cause the world doesn’t know us, because it didn’t know him. Beloved, now we are children of God, and it is not yet revealed what we will be. But we know that, when he is revealed, we will be like him; for we will see him just as he is. Everyone who has this hope set on him purifies himself, even as he is pure.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 14:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You are the children of Yahweh your God. You shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+          "note": "Israel addressed as 'children of the LORD your God' grounds John's astonishment that believers 'should be called children of God.' The divine-sonship status, once Israel's covenant identity, is here extended to the community. John intensifies the relation with the language of bestowed love."
+        },
+        {
+          "source": "Hosea 1:10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yet the number of the children of Israel will be as the sand of the sea, which can’t be measured nor numbered; and it will come to pass that, in the place where it was said to them, ‘You are not my people,’ they will be called ‘sons of the living God.’",
+          "note": "Hosea promises that those who were 'not my people' will be called 'children of the living God,' the precise idiom of being 'called children of God.' This eschatological renaming of the people supplies John's vocabulary for present sonship. The passage was a standard locus for adoption-into-sonship."
+        },
+        {
+          "source": "Isaiah 43:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I will tell the north, ‘Give them up!’ and tell the south, ‘Don’t hold them back! Bring my sons from far, and my daughters from the ends of the earth—",
+          "note": "God commands the gathering of 'my sons' and 'my daughters' from the ends of the earth, framing the people as God's children. The verse reinforces the sonship motif John applies to believers. Faint but congruent with the divine-family theme.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 33:20",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He said, “You cannot see my face, for man may not see me and live.”",
+          "note": "God tells Moses no one may see his face and live, the canonical statement of the unseen God. John's hope that 'we will see him just as he is' deliberately reverses this prohibition as eschatological promise. The tension between present hiddenness and future sight is structured by this Exodus limit."
+        },
+        {
+          "source": "Psalm 17:15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "As for me, I shall see your face in righteousness. I shall be satisfied, when I awake, with seeing your form.",
+          "note": "The psalmist hopes to 'behold your face in righteousness' and be 'satisfied with your likeness' upon awaking, the classic beatific-vision text and a likeness motif. John's 'we will be like him, for we will see him' closely mirrors this seeing-and-likeness pairing. The awaking imagery resonates with eschatological revelation."
+        },
+        {
+          "source": "Job 19:26-27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "After my skin is destroyed, then in my flesh shall I see God, Whom I, even I, shall see on my side. My eyes shall see, and not as a stranger. “My heart is consumed within me.",
+          "note": "Job hopes that after his skin is destroyed he will 'see God' with his own eyes, an early witness to seeing God beyond death. This undergirds John's confidence that the not-yet-revealed future includes seeing him. The contested textual history of the verse makes the echo suggestive rather than certain.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 12:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "With him, I will speak mouth to mouth, even plainly, and not in riddles; and he shall see Yahweh’s form. Why then were you not afraid to speak against my servant, against Moses?”",
+          "note": "Moses uniquely beholds the form/likeness of the LORD, an exceptional clear sight of God amid general hiddenness. John universalizes such direct vision as the believers' destiny. A faint background to seeing him 'as he is.'",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.4",
+      "ch": 3,
+      "ref": "3:4-6",
+      "text": "Everyone who sins also commits lawlessness. Sin is lawlessness. You know that he was revealed to take away our sins, and in him is no sin. Whoever remains in him doesn’t sin. Whoever sins hasn’t seen him, neither knows him.",
+      "echoes": [
+        {
+          "source": "Psalm 51:1-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions. Wash me thoroughly from my iniquity. Cleanse me from my sin. For I know my transgressions. My sin is constantly before me.",
+          "note": "The penitential confession of transgression and the plea to blot out lawlessness frame sin as 'lawlessness' (anomia in the Greek tradition). John's definition 'sin is lawlessness' draws on this Septuagintal vocabulary. Faint lexical resonance rather than direct citation.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 53:9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "They made his grave with the wicked, and with a rich man in his death; although he had done no violence, neither was any deceit in his mouth.",
+          "note": "The Servant 'had done no violence, neither was any deceit in his mouth,' the sinless one who bears others' iniquity. John's 'in him is no sin' and 'he was revealed to take away our sins' draws on the Servant who removes sin while being himself without it. The pairing of sin-bearing and sinlessness is distinctively Isaianic."
+        },
+        {
+          "source": "Isaiah 53:4-6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Surely he has borne our sickness, and carried our suffering; yet we considered him plagued, struck by God, and afflicted. But he was pierced for our transgressions. He was crushed for our iniquities. The punishment that brought our peace was on him; and by his wounds we are healed. All we like sheep have gone astray. Everyone has turned to his own way; and Yahweh has laid on him the iniquity of us all.",
+          "note": "The Servant bears and carries away the sins of the many, the conceptual ground for 'he was revealed to take away our sins.' John's atonement language echoes this vicarious sin-removal. A strong thematic, looser verbal, link.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.7",
+      "ch": 3,
+      "ref": "3:7-10",
+      "text": "Little children, let no one lead you astray. He who does righteousness is righteous, even as he is righteous. He who sins is of the devil, for the devil has been sinning from the beginning. To this end the Son of God was revealed, that he might destroy the works of the devil. Whoever is born of God doesn’t commit sin, because his seed remains in him; and he can’t sin, because he is born of God. In this the children of God are revealed, and the children of the devil. Whoever doesn’t do righteousness is not of God, neither is he who doesn’t love his brother.",
+      "echoes": [
+        {
+          "source": "Genesis 3:1-15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden?’” The woman said to the serpent, “We may eat fruit from the trees of the garden, but not the fruit of the tree which is in the middle of the garden. God has said, ‘You shall not eat of it, neither shall you touch it, lest you die.’” The serpent said to the woman, “You won’t surely […]",
+          "note": "The serpent who sins/deceives 'from the beginning' stands behind 'the devil has been sinning from the beginning.' The promised crushing of the serpent's head undergirds the Son's appearing 'to destroy the works of the devil.' This is the foundational devil-as-deceiver-from-the-start text."
+        },
+        {
+          "source": "Genesis 3:15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”",
+          "note": "The enmity between the serpent's seed and the woman's seed, with the seed who crushes the serpent, frames both 'destroy the works of the devil' and the children-of-God versus children-of-the-devil opposition. The 'seed' language in 3:9 ('his seed remains in him') plays on this protoevangelium. A primary structural source for the whole pericope."
+        },
+        {
+          "source": "Wisdom of Solomon 2:24",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "But by the envy of the devil death entered into the world, And those who are of his portion make trial thereof.",
+          "note": "'Through the devil's envy death entered the world,' an early identification of the Genesis serpent with the devil. This deuterocanonical reading directly supports John's claim that 'he who sins is of the devil.' It bridges Genesis 3 to John's explicit devil terminology."
+        },
+        {
+          "source": "Genesis 1:11-12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "God said, “Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth”; and it was so. The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good.",
+          "note": "The creation refrain of plants bearing seed 'according to its kind' may color the image of God's 'seed' remaining and producing offspring true to their origin. The begetting/seed motif of 3:9 has a creational backdrop. Faint and contested.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.11",
+      "ch": 3,
+      "ref": "3:11-15",
+      "text": "For this is the message which you heard from the beginning, that we should love one another; unlike Cain, who was of the evil one, and killed his brother. Why did he kill him? Because his works were evil, and his brother’s righteous. Don’t be surprised, my brothers, if the world hates you. We know that we have passed out of death into life, because we love the brothers. He who doesn’t love his brother remains in death. Whoever hates his brother is a murderer, and you know that no murderer has eternal life remaining in him.",
+      "echoes": [
+        {
+          "source": "Genesis 4:8-12",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Cain said to Abel, his brother, “Let’s go into the field.” While they were in the field, Cain rose up against Abel, his brother, and killed him. Yahweh said to Cain, “Where is Abel, your brother?” He said, “I don’t know. Am I my brother’s keeper?” Yahweh said, “What have you done? The voice of your brother’s blood cries to me from the ground. Now you are cursed because of the ground, which has opened its mouth to receive your brother’s blood from your […]",
+          "note": "Cain rising up and killing his brother Abel is named explicitly as the negative paradigm of brotherly love. John's 'killed his brother' retells the murder and its judgment directly. This is the most explicit OT reference in the chapter."
+        },
+        {
+          "source": "Genesis 4:4-7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Abel also brought some of the firstborn of his flock and of its fat. Yahweh respected Abel and his offering, but he didn’t respect Cain and his offering. Cain was very angry, and the expression on his face fell. Yahweh said to Cain, “Why are you angry? Why has the expression of your face fallen? If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.”",
+          "note": "The LORD's regard for Abel's offering but not Cain's, with Cain's evil works contrasted to Abel's accepted righteousness, grounds 'because his works were evil, and his brother's righteous.' John interprets the motive of the murder from this scene. The works-and-acceptance contrast is taken straight from Genesis 4."
+        },
+        {
+          "source": "Genesis 4:10",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh said, “What have you done? The voice of your brother’s blood cries to me from the ground.",
+          "note": "Abel's blood crying from the ground and Cain becoming a fugitive informs John's link between murder and the loss of life ('no murderer has eternal life remaining in him'). The Cain narrative ties bloodshed to exclusion from life. A thematic extension of the explicit citation.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 2:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”",
+          "note": "'In the day you eat of it you shall surely die' establishes the death that befalls the disobedient, behind 'remains in death' and the passage from death into life. John frames moral failure as abiding in primeval death. The death/life antithesis traces to the Eden warning.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 30:15-19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Behold, I have set before you this day life and prosperity, and death and evil. For I command you this day to love Yahweh your God, to walk in his ways, and to keep his commandments, his statutes, and his ordinances, that you may live and multiply, and that Yahweh your God may bless you in the land where you go in to possess it. But if your heart turns away, and you will not hear, but are drawn away, and worship other gods, and serve them; I denounce to […]",
+          "note": "The covenant choice set before Israel between life and death, blessing and curse, frames 'passed out of death into life.' Love of the brothers becomes the mark of having chosen life. A strong conceptual parallel to John's death-to-life transition.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 12:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "In the way of righteousness is life; in its path there is no death.",
+          "note": "'In the way of righteousness is life, and in its pathway there is no death,' linking righteousness to life and its opposite to death. This wisdom antithesis colors John's pairing of love/righteousness with life over against abiding in death. Faint sapiential background.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.16",
+      "ch": 3,
+      "ref": "3:16-18",
+      "text": "By this we know love, because he laid down his life for us. And we ought to lay down our lives for the brothers. But whoever has the world’s goods, and sees his brother in need, and closes his heart of compassion against him, how does the love of God remain in him? My little children, let’s not love in word only, neither with the tongue only, but in deed and truth.",
+      "echoes": [
+        {
+          "source": "Isaiah 53:12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Therefore will I divide him a portion with the great, and he shall divide the plunder with the strong; because he poured out his soul to death, and was numbered with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.",
+          "note": "The Servant 'poured out his soul/life unto death' and bore the sin of many, the OT ground for love defined as 'he laid down his life for us.' John reads self-giving death as the measure of love. The Servant's poured-out life is the template."
+        },
+        {
+          "source": "Deuteronomy 15:7-8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "If a poor man, one of your brothers, is with you within any of your gates in your land which Yahweh your God gives you, you shall not harden your heart, nor shut your hand from your poor brother; but you shall surely open your hand to him, and shall surely lend him sufficient for his need, which he lacks.",
+          "note": "'You shall not harden your heart, nor shut your hand from your poor brother,' but open your hand to his need, directly underlies 'sees his brother in need, and closes his heart of compassion against him.' John's image of the closed heart inverts the command to open hand and heart. The 'brother in need' vocabulary is shared."
+        },
+        {
+          "source": "Isaiah 58:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Isn’t it to distribute your bread to the hungry, and that you bring the poor who are cast out to your house? When you see the naked, that you cover him; and that you not hide yourself from your own flesh?",
+          "note": "True fasting is to share bread with the hungry and not hide oneself from one's own flesh, the prophetic demand to meet a needy brother's wants. John's test of love by sharing 'the world's goods' echoes this concrete charity. The 'do not hide from' your kin matches the closed heart John condemns."
+        },
+        {
+          "source": "Proverbs 21:13",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Whoever stops his ears at the cry of the poor, he will also cry out, but shall not be heard.",
+          "note": "Whoever shuts his ears to the cry of the poor will himself cry and not be heard, linking refusal of compassion to severed relationship with God. This grounds John's rhetorical 'how does the love of God remain in him?' A close wisdom parallel to closing the heart against the needy.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 3:27-28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Don’t withhold good from those to whom it is due, when it is in the power of your hand to do it. Don’t say to your neighbor, “Go, and come again; tomorrow I will give it to you,” when you have it by you.",
+          "note": "'Do not withhold good from those to whom it is due when it is in your power to do it' parallels John's rebuke of the one who has goods yet withholds them. The duty to act on present means matches 'has the world's goods.' Faint sapiential resonance.",
+          "contested": true
+        },
+        {
+          "source": "Tobit 4:7-11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Give alms from your possessions. When you give alms, don’t let your eye be envious. Don’t turn away your face from any poor man, and the face of God won’t be turned away from you. As your possessions are, give alms of it according to your abundance. If you have little, don’t be afraid to give alms according to that little; for you lay up a good treasure for yourself against the day of necessity; because alms-giving delivers from death, and doesn’t allow […]",
+          "note": "Tobit's counsel to give alms from one's goods, not turning the face from any poor person, parallels the test of love by sharing the world's goods with a brother in need. This deuterocanonical almsgiving ethic mirrors John's 'in deed and truth.' A strong thematic echo of practical charity."
+        },
+        {
+          "source": "Sirach 4:1-5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "My son, deprive not the poor of his living, And make not the needy eyes to wait long. Make not a hungry soul sorrowful; Neither provoke a man in his distress. To a heart that is provoked add not more trouble; And defer not to give to him that is in need. Reject not a suppliant in his affliction; And turn not away your face from a poor man. Turn not away your eye from one that asks of you, And give none occasion to a man to curse you:",
+          "note": "Sirach warns against defrauding the poor, turning away the needy, or averting the eye from one in want. This closely matches the one who 'sees his brother in need' yet closes his heart. A deuterocanonical parallel to loving in deed not word.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.19",
+      "ch": 3,
+      "ref": "3:19-22",
+      "text": "And by this we know that we are of the truth, and persuade our hearts before him, because if our heart condemns us, God is greater than our heart, and knows all things. Beloved, if our hearts don’t condemn us, we have boldness toward God; and whatever we ask, we receive from him, because we keep his commandments and do the things that are pleasing in his sight.",
+      "echoes": [
+        {
+          "source": "Psalm 139:1-4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh, you have searched me, and you know me. You know my sitting down and my rising up. You perceive my thoughts from afar. You search out my path and my lying down, and are acquainted with all my ways. For there is not a word on my tongue, but, behold, Yahweh, you know it altogether.",
+          "note": "God searches and knows the heart, discerning thoughts and words before they are spoken, the ground of 'God is greater than our heart, and knows all things.' John reassures the self-condemning conscience by appeal to this divine omniscience. The all-knowing God who weighs the heart is the precise reference."
+        },
+        {
+          "source": "1 Kings 8:39",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "then hear in heaven, your dwelling place, and forgive, and do, and render to every man according to all his ways, whose heart you know; (for you, even you only, know the hearts of all the children of men;)",
+          "note": "Solomon prays that God, who 'alone knows the hearts of all the children of men,' will render to each accordingly. This explicit claim that God alone knows every heart underlies 'God... knows all things.' The heart-knowing God before whom we are persuaded is drawn from this temple prayer."
+        },
+        {
+          "source": "Proverbs 21:2",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Every way of a man is right in his own eyes, but Yahweh weighs the hearts.",
+          "note": "A person's ways seem right to himself, but the LORD weighs the heart, juxtaposing human self-judgment with divine assessment. This parallels the contrast between our condemning heart and the God who is greater and knows all. A wisdom echo of the heart-weighing motif.",
+          "contested": true
+        },
+        {
+          "source": "Jeremiah 17:10",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I, Yahweh, search the mind, I try the heart, even to give every man according to his ways, according to the fruit of his doings.",
+          "note": "'I the LORD search the heart and test the mind, to give every man according to his ways,' a key heart-searching text. It reinforces John's appeal to the God who knows all things beyond our heart's verdict. Congruent with the omniscience theme.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 6:25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "It shall be righteousness to us, if we observe to do all this commandment before Yahweh our God, as he has commanded us.”",
+          "note": "Keeping the commandments before the LORD is reckoned as righteousness, undergirding confidence before God grounded in 'we keep his commandments.' John's boldness toward God rests on obedience as in this Deuteronomic logic. Faint background.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.23",
+      "ch": 3,
+      "ref": "3:23-24",
+      "text": "This is his commandment, that we should believe in the name of his Son, Jesus Christ, and love one another, even as he commanded. He who keeps his commandments remains in him, and he in him. By this we know that he remains in us, by the Spirit which he gave us.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "'You shall love your neighbor as yourself' is the OT command standing behind John's commandment that 'we should... love one another.' John joins this love-command to belief in the Son as the single commandment. The mutual-love mandate is rooted in the Holiness Code."
+        },
+        {
+          "source": "Deuteronomy 6:5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "You shall love Yahweh your God with all your heart, with all your soul, and with all your might.",
+          "note": "The Shema's command to love God and the broader keeping of his commandments frames 'we keep his commandments' and abiding obedience. John's interiorized obedience and indwelling echo the covenant heart-love. A thematic resonance with keeping the commandments.",
+          "contested": true
+        },
+        {
+          "source": "Ezekiel 36:27",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I will put my Spirit within you, and cause you to walk in my statutes, and you shall keep my ordinances, and do them.",
+          "note": "God promises to put his Spirit within his people and cause them to keep his statutes, directly behind 'by the Spirit which he gave us' as the proof of indwelling and obedience. John's pairing of the given Spirit with commandment-keeping mirrors this new-covenant gift. The indwelling Spirit enabling obedience is the source idea."
+        },
+        {
+          "source": "Ezekiel 37:14",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I will put my Spirit in you, and you shall live, and I will place you in your own land: and you shall know that I, Yahweh, have spoken it and performed it, says Yahweh.",
+          "note": "'I will put my Spirit in you, and you shall live,' the promise of the indwelling life-giving Spirit. This reinforces 'we know that he remains in us, by the Spirit which he gave us.' A strong new-covenant Spirit parallel.",
+          "contested": true
+        },
+        {
+          "source": "Joel 2:28-29",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“It will happen afterward, that I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy. Your old men will dream dreams. Your young men will see visions. And also on the servants and on the handmaids in those days, I will pour out my Spirit.",
+          "note": "God's promise to pour out his Spirit on all flesh stands in the background of the Spirit given to the community as the sign of God's abiding. Faint, but part of the prophetic Spirit-gift matrix John draws on. Contested as a specific source.",
+          "contested": true
+        },
+        {
+          "source": "Jeremiah 31:33",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "But this is the covenant that I will make with the house of Israel after those days, says Yahweh: I will put my law in their inward parts, and in their heart will I write it; and I will be their God, and they shall be my people:",
+          "note": "The new covenant writes the law on the heart so the people keep it from within, undergirding the union of commandment-keeping and mutual indwelling ('he remains in us'). John's interior obedience and abiding reflect this new-covenant interiority. A strong conceptual parallel to keeping his commandments.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.1",
+      "ch": 4,
+      "ref": "4:1-6",
+      "text": "Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world. By this you know the Spirit of God: every spirit who confesses that Jesus Christ has come in the flesh is of God, and every spirit who doesn’t confess that Jesus Christ has come in the flesh is not of God, and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already. You are of God, little children, and have overcome them; because greater is he who is in you than he who is in the world. They are of the world. Therefore they speak of the world, and the world hears them. We are of God. He who knows God listens to us. He who is not of God doesn’t listen to us. By this we know the spirit of truth, and the spirit of error.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 13:1-5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "If a prophet or a dreamer of dreams arises in your midst you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, “Let us go after other gods” (which you have not known) “and let us serve them”; you shall not listen to the words of that prophet, or to that dreamer of dreams; for Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul. […]",
+          "note": "The command to 'test the spirits' whether they are of God draws on the Deuteronomic protocol for evaluating a prophet or dreamer of dreams. There even a sign-working prophet must be rejected if he leads Israel after other gods, establishing doctrinal content (not wonders) as the test. John's many 'false prophets gone out into the world' echoes this category of the deceiving prophet."
+        },
+        {
+          "source": "Deuteronomy 18:21-22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You may say in your heart, “How shall we know the word which Yahweh has not spoken?” When a prophet speaks in Yahweh’s name, if the thing doesn’t follow, nor happen, that is the thing which Yahweh has not spoken. The prophet has spoken it presumptuously. You shall not be afraid of him.",
+          "note": "Deuteronomy supplies the explicit criterion for discerning a true from a false prophet ('how shall we know the word the LORD has not spoken?'). John reworks the prophetic-test tradition into a christological confession test, making confession of Jesus come in the flesh the discriminating mark."
+        },
+        {
+          "source": "Jeremiah 23:9-32",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Concerning the prophets. My heart within me is broken, all my bones shake; I am like a drunken man, and like a man whom wine has overcome, because of Yahweh, and because of his holy words. For the land is full of adulterers; for because of swearing the land mourns; the pastures of the wilderness are dried up. Their course is evil, and their might is not right; for both prophet and priest are profane; yes, in my house have I found their wickedness, says […]",
+          "note": "Jeremiah's oracle against the lying prophets who prophesy from their own hearts and not from the LORD undergirds John's warning that false prophets have gone out into the world and 'speak of the world.' The contrast between those who stood in the council of the LORD and those who speak a deceiving spirit parallels the spirit of truth versus the spirit of error."
+        },
+        {
+          "source": "1 Kings 22:19-23",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Micaiah said, “Therefore hear Yahweh’s word. I saw Yahweh sitting on his throne, and all the army of heaven standing by him on his right hand and on his left. Yahweh said, ‘Who shall entice Ahab, that he may go up and fall at Ramoth Gilead?’ One said one thing; and another said another. A spirit came out and stood before Yahweh, and said, ‘I will entice him.’ Yahweh said to him, ‘How?’ He said, ‘I will go out and will be a lying spirit in the mouth of all […]",
+          "note": "Micaiah's vision of a 'lying spirit' put in the mouths of the prophets gives a scriptural precedent for a deceiving spirit operative in false prophecy. This stands behind John's distinction between the Spirit of God and the spirit of error/deception animating the false prophets.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 13:1-5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "If a prophet or a dreamer of dreams arises in your midst you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, “Let us go after other gods” (which you have not known) “and let us serve them”; you shall not listen to the words of that prophet, or to that dreamer of dreams; for Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul. […]",
+          "note": "The motif that testing exposes whether people love the LORD with whole heart frames the discernment of spirits as covenantal loyalty, faintly underlying John's 'whether they are of God.' Marked faint because John's criterion has shifted to christological confession.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.7",
+      "ch": 4,
+      "ref": "4:7-12",
+      "text": "Beloved, let us love one another, for love is of God; and everyone who loves has been born of God, and knows God. He who doesn’t love doesn’t know God, for God is love. By this God’s love was revealed in us, that God has sent his one and only Son into the world that we might live through him. In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins. Beloved, if God loved us in this way, we also ought to love one another. No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us.",
+      "echoes": [
+        {
+          "source": "Exodus 34:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh passed by before him, and proclaimed, “Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth,",
+          "note": "The declaration 'God is love' distills the self-revelation of the LORD as abounding in steadfast love (hesed). John's identification of love with God's very being is the climactic theological development of the Sinai name-formula proclaiming the LORD merciful, gracious, and abounding in lovingkindness."
+        },
+        {
+          "source": "Exodus 33:20",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He said, “You cannot see my face, for man may not see me and live.”",
+          "note": "'No one has seen God at any time' echoes the LORD's word to Moses, 'you cannot see my face, for no one can see me and live.' John takes the unseeability of God as a premise and resolves it through mutual love: the invisible God is made manifest when believers love one another."
+        },
+        {
+          "source": "Deuteronomy 4:12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh spoke to you out of the midst of the fire: you heard the voice of words, but you saw no form; you only heard a voice.",
+          "note": "At Horeb Israel heard a voice but saw no form, reinforcing the unseeability of God that John presupposes in 'no one has seen God at any time.' The Deuteronomic insistence that no visible form accompanied the theophany feeds the Johannine claim that God is known not by sight but by abiding love."
+        },
+        {
+          "source": "Genesis 32:30",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Jacob called the name of the place Peniel: for, he said, “I have seen God face to face, and my life is preserved.”",
+          "note": "Jacob's wonder at Peniel, 'I have seen God face to face, and yet my life is preserved,' is the counter-instance that John's absolute 'no one has seen God' engages and qualifies. The tradition of the perilous, near-impossible vision of God lies behind John's denial of any direct sight of God.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh spoke to Moses, after the death of the two sons of Aaron, when they drew near before Yahweh, and died; and Yahweh said to Moses, “Tell Aaron your brother, not to come at all times into the Most Holy Place within the veil, before the mercy seat which is on the ark; lest he die: for I will appear in the cloud on the mercy seat. “Aaron shall come into the sanctuary with a young bull for a sin offering, and a ram for a burnt offering. He shall put on […]",
+          "note": "The sending of the Son 'as the atoning sacrifice (propitiation) for our sins' draws on the Day of Atonement ritual, where the blood of the sin offering and the scapegoat effect expiation before the LORD at the mercy seat (hilasterion). John casts Christ as the means of atonement fulfilling the Levitical kapporet."
+        },
+        {
+          "source": "Isaiah 53:4-12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Surely he has borne our sickness, and carried our suffering; yet we considered him plagued, struck by God, and afflicted. But he was pierced for our transgressions. He was crushed for our iniquities. The punishment that brought our peace was on him; and by his wounds we are healed. All we like sheep have gone astray. Everyone has turned to his own way; and Yahweh has laid on him the iniquity of us all. He was oppressed, yet when he was afflicted he didn’t […]",
+          "note": "God sending his Son as the atoning sacrifice 'for our sins' echoes the Servant who bore our griefs and was made an offering for sin, the righteous one making many righteous. The vicarious, sin-bearing logic of the Servant Song informs John's account of love defined by the Son sent as propitiation."
+        },
+        {
+          "source": "Deuteronomy 7:7-8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh didn’t set his love on you, nor choose you, because you were more in number than any people; for you were the fewest of all peoples: but because Yahweh loves you, and because he desires to keep the oath which he swore to your fathers, Yahweh has brought you out with a mighty hand, and redeemed you out of the house of bondage, from the hand of Pharaoh king of Egypt.",
+          "note": "'Not that we loved God, but that he loved us' restates the Deuteronomic ground of election: the LORD set his love on Israel not for any merit but because he loved them. The priority and gratuity of divine love that precedes any human response shapes John's theology of love originating wholly in God."
+        },
+        {
+          "source": "Hosea 11:1-4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“When Israel was a child, then I loved him, and called my son out of Egypt. They called to them, so they went from them. They sacrificed to the Baals, and burned incense to engraved images. Yet I taught Ephraim to walk. I took them by his arms; but they didn’t know that I healed them. I drew them with cords of a man, with ties of love; and I was to them like those who lift up the yoke on their necks; and I bent down to him and I fed him.",
+          "note": "Hosea's portrait of God's parental love drawing Israel with cords of human kindness and bands of love grounds John's claim that love is of God and that God first loved us. The tender, initiating love of the LORD for his child stands behind the manifestation of God's love in sending the Son."
+        },
+        {
+          "source": "Jeremiah 31:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh appeared of old to me, saying, Yes, I have loved you with an everlasting love: therefore with loving kindness have I drawn you.",
+          "note": "'I have loved you with an everlasting love; therefore with lovingkindness have I drawn you' parallels John's account of love revealed and originating in God. The everlasting, drawing love of the LORD in Jeremiah anticipates the divine love manifested in the sending of the Son."
+        },
+        {
+          "source": "Leviticus 19:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "'Let us love one another' rests on the Holiness Code command to love your neighbor as yourself. John universalizes and intensifies the neighbor-love command, grounding mutual love in the divine nature itself."
+        },
+        {
+          "source": "Wisdom of Solomon 11:24",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For you love all things that are, And abhor none of the things which you did make; For never would you have formed anything if you did hate it.",
+          "note": "'You love all things that exist... for you would not have made anything if you had hated it' offers a deuterocanonical precedent for predicating love of God's very relation to creation. This anticipates John's bolder 'God is love.'",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.13",
+      "ch": 4,
+      "ref": "4:13-16",
+      "text": "By this we know that we remain in him and he in us, because he has given us of his Spirit. We have seen and testify that the Father has sent the Son as the Savior of the world. Whoever confesses that Jesus is the Son of God, God remains in him, and he in God. We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him.",
+      "echoes": [
+        {
+          "source": "Joel 2:28-29",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“It will happen afterward, that I will pour out my Spirit on all flesh; and your sons and your daughters will prophesy. Your old men will dream dreams. Your young men will see visions. And also on the servants and on the handmaids in those days, I will pour out my Spirit.",
+          "note": "'Because he has given us of his Spirit' echoes the promise that God will pour out his Spirit on all flesh as the sign of his abiding presence in the last days. John reads the gift of the Spirit as evidence that believers remain in God and God in them."
+        },
+        {
+          "source": "Ezekiel 36:27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I will put my Spirit within you, and cause you to walk in my statutes, and you shall keep my ordinances, and do them.",
+          "note": "'I will put my Spirit within you and cause you to walk in my statutes' grounds John's claim that we know we abide in God 'because he has given us of his Spirit.' The indwelling Spirit as token of covenant intimacy underlies the Johannine mutual-abiding language."
+        },
+        {
+          "source": "Exodus 34:6",
+          "type": "echo",
+          "confidence": "high",
+          "text": "Yahweh passed by before him, and proclaimed, “Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth,",
+          "note": "The summary confession 'God is love' (repeated) again distills the LORD's self-naming as abounding in steadfast love. John makes the Sinai attribute the definitive predicate of the divine being in which the believer abides."
+        },
+        {
+          "source": "Isaiah 43:10-12",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“You are my witnesses,” says Yahweh, “With my servant whom I have chosen; that you may know and believe me, and understand that I am he. Before me there was no God formed, neither will there be after me. I myself am Yahweh; and besides me there is no savior. I have declared, I have saved, and I have shown; and there was no strange god among you. Therefore you are my witnesses”, says Yahweh, “and I am God.",
+          "note": "'We have seen and testify' echoes the LORD's appointment of Israel as witnesses ('you are my witnesses... that I am God'). The covenantal vocation to testify to the one God shapes John's testimony that the Father sent the Son as Savior of the world.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 45:21-22",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Declare and present it. Yes, let them take counsel together. Who has shown this from ancient time? Who has declared it of old? Haven’t I, Yahweh? There is no other God besides me, a just God and a Savior; There is no one besides me. “Look to me, and be saved, all the ends of the earth; for I am God, and there is no other.",
+          "note": "'The Savior of the world' draws on Isaiah's proclamation of the LORD as the only righteous God and Savior, to whom all the ends of the earth are summoned. John extends this universal salvific scope to the Son sent by the Father."
+        }
+      ]
+    },
+    {
+      "id": "4.17",
+      "ch": 4,
+      "ref": "4:17-21",
+      "text": "In this love has been made perfect among us, that we may have boldness in the day of judgment, because as he is, even so are we in this world. There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love. We love him, because he first loved us. If a man says, “I love God,” and hates his brother, he is a liar; for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen? This commandment we have from him, that he who loves God should also love his brother.",
+      "echoes": [
+        {
+          "source": "Proverbs 1:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The fear of Yahweh is the beginning of knowledge; but the foolish despise wisdom and instruction.",
+          "note": "'There is no fear in love; perfect love casts out fear' stands in deliberate tension with the wisdom maxim that the fear of the LORD is the beginning of knowledge. John transforms the servile fear of judgment into the boldness of perfected love, a development of the biblical fear-of-God tradition.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom of Solomon 17:11-12",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For wickedness, condemned by a witness within, is a coward thing, And, being pressed hard by conscience, always forecasts the worst lot: For fear is nothing else but a surrender of the help which reason offers;",
+          "note": "'For fear is nothing but a surrender of the helps that come from reason' provides a deuterocanonical reflection on fear as torment and bondage, paralleling John's 'fear has punishment.' The depiction of fear as inner anguish anticipating judgment resonates with John's contrast of fear and perfected love.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 7:7-8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh didn’t set his love on you, nor choose you, because you were more in number than any people; for you were the fewest of all peoples: but because Yahweh loves you, and because he desires to keep the oath which he swore to your fathers, Yahweh has brought you out with a mighty hand, and redeemed you out of the house of bondage, from the hand of Pharaoh king of Egypt.",
+          "note": "'We love him, because he first loved us' restates the Deuteronomic priority of divine election-love that precedes and grounds any human love for God. The prevenient love of the LORD setting his affection on Israel before any response is the template for John's 'he first loved us.'"
+        },
+        {
+          "source": "Leviticus 19:17-18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not bear sin because of him. “‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "The charge against one who says 'I love God' yet hates his brother draws on the Holiness Code: 'you shall not hate your brother in your heart... you shall love your neighbor as yourself.' John binds love of God inseparably to love of the visible brother, fulfilling the neighbor command."
+        },
+        {
+          "source": "Deuteronomy 6:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You shall love Yahweh your God with all your heart, with all your soul, and with all your might.",
+          "note": "'He who loves God should also love his brother' joins the Shema's command to love God with the whole heart to neighbor-love as a single commandment 'we have from him.' John reads the love of God of the Shema as inseparable from the love of brother required by the Holiness Code."
+        },
+        {
+          "source": "Psalm 116:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I said in my haste, “All men are liars.”",
+          "note": "'He is a liar' echoes the psalmist's 'all men are liars,' supplying the biblical category of the lie as a failure of covenant truthfulness. The brother-hater who claims love of God is exposed as a liar in the Johannine sense of one who does not do the truth.",
+          "contested": true
+        },
+        {
+          "source": "Zechariah 7:9-10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Thus has Yahweh of Armies spoken, saying, ‘Execute true judgment, and show kindness and compassion every man to his brother. Don’t oppress the widow, nor the fatherless, the foreigner, nor the poor; and let none of you devise evil against his brother in your heart.’",
+          "note": "The prophetic insistence that true devotion to God is shown by mercy and not oppressing the brother resonates with John's argument that love of the unseen God must be embodied in love of the seen brother. Marked faint as a thematic rather than verbal parallel.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.1",
+      "ch": 5,
+      "ref": "5:1-5",
+      "text": "Whoever believes that Jesus is the Christ has been born of God. Whoever loves the Father also loves the child who is born of him. By this we know that we love the children of God, when we love God and keep his commandments. For this is the love of God, that we keep his commandments. His commandments are not grievous. For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith. Who is he who overcomes the world, but he who believes that Jesus is the Son of God?",
+      "echoes": [
+        {
+          "source": "Deuteronomy 6:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You shall love Yahweh your God with all your heart, with all your soul, and with all your might.",
+          "note": "The Shema's command to love God with the whole self stands behind 'when we love God and keep his commandments.' John makes love of God inseparable from obedience, exactly the link Deuteronomy forges. Loving God and keeping commandments are presented as a single covenantal disposition."
+        },
+        {
+          "source": "Deuteronomy 30:11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For this commandment which I command you this day is not too hard for you or too distant.",
+          "note": "'His commandments are not grievous' closely echoes Moses' insistence that 'this commandment which I command you this day is not too hard for you, neither is it far off.' Both texts answer an anticipated objection that God's law is an unbearable weight. The shared logic is that those rightly related to God find his demands livable, not crushing."
+        },
+        {
+          "source": "Deuteronomy 7:9",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Know therefore that Yahweh your God himself is God, the faithful God, who keeps covenant and loving kindness with them who love him and keep his commandments to a thousand generations,",
+          "note": "The pairing of loving God with keeping his commandments matches the covenant formula describing God's faithfulness to 'them that love him and keep his commandments.' John inverts the perspective to the believer's side but preserves the same Deuteronomic word-pair. The covenantal idiom of love-plus-obedience is distinctively Mosaic."
+        },
+        {
+          "source": "Deuteronomy 30:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh your God will circumcise your heart, and the heart of your seed, to love Yahweh your God with all your heart, and with all your soul, that you may live.",
+          "note": "The promise that God will 'circumcise your heart... to love the LORD your God' anticipates John's notion that the one born of God both believes and loves. The new birth that produces obedient love develops the Deuteronomic hope of an inwardly transformed, God-loving heart. Both locate the capacity to love God in a divine act upon the person.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 98:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Sing to Yahweh a new song, for he has done marvelous things! His right hand, and his holy arm, have worked salvation for him.",
+          "note": "'This is the victory that has overcome the world' draws on the psalmic celebration that God's 'right hand and his holy arm hath gotten him the victory.' The vocabulary of decisive divine victory is transferred to faith's triumph over the world. The believer shares in a conquest that is ultimately God's own.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 44:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For they didn’t get the land in possession by their own sword, neither did their own arm save them; but your right hand, and your arm, and the light of your face, because you were favorable to them.",
+          "note": "The motif that victory comes 'not by their own sword' but by God's arm and favor underlies John's claim that the overcoming power is faith rather than human strength. The world is conquered by a God-given means, not by force. The echo is faint and thematic.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 119:47",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will delight myself in your commandments, because I love them.",
+          "note": "The psalmist's delight in commandments he loves complements John's claim that God's commandments 'are not grievous.' Both portray the law as an object of love rather than burden. The connection is conceptual, supporting the un-burdensome framing of obedience.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 3:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "My son, don’t forget my teaching; but let your heart keep my commandments:",
+          "note": "The wisdom appeal to keep the father's commandments in the heart parallels John's keeping-commandments-as-love. Proverbs frames obedience as life-giving rather than oppressive. A faint sapiential backdrop to John's gentle yoke.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.6",
+      "ch": 5,
+      "ref": "5:6-12",
+      "text": "This is he who came by water and blood, Jesus Christ; not with the water only, but with the water and the blood. It is the Spirit who testifies, because the Spirit is the truth. For there are three who testify: the Spirit, the water, and the blood; and the three agree as one. If we receive the witness of men, the witness of God is greater; for this is God’s testimony which he has testified concerning his Son. He who believes in the Son of God has the testimony in himself. He who doesn’t believe God has made him a liar, because he has not believed in the testimony that God has given concerning his Son. The testimony is this, that God gave to us eternal life, and this life is in his Son. He who has the Son has the life. He who doesn’t have God’s Son doesn’t have the life.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 19:15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sins. At the mouth of two witnesses, or at the mouth of three witnesses, shall a matter be established.",
+          "note": "'There are three who testify... and the three agree as one' applies the Mosaic rule that a matter is established 'at the mouth of two witnesses, or at the mouth of three witnesses.' John assembles exactly the legally sufficient number of corroborating witnesses to validate the testimony about the Son. The juridical framework of accredited witnesses is drawn straight from the Torah's evidentiary law."
+        },
+        {
+          "source": "Deuteronomy 17:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "At the mouth of two witnesses, or three witnesses, he who is to die shall be put to death. At the mouth of one witness he shall not be put to death.",
+          "note": "The companion legal principle requiring multiple witnesses to establish a capital matter reinforces John's threefold testimony. The Spirit, water, and blood function as the plurality of witnesses that secures conviction in God's case for his Son. The forensic logic of confirmed testimony is Deuteronomic."
+        },
+        {
+          "source": "Numbers 35:30",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“‘Whoever kills any person, the murderer shall be slain at the mouth of witnesses; but one witness shall not testify against any person that he die.",
+          "note": "The legal insistence that no single witness suffices, but a plurality establishes the verdict, undergirds John's grouping of three concurring witnesses. The motif that life-and-death matters demand corroborated testimony fits John's life-giving testimony about the Son. A further Pentateuchal source for the witness-rule.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 17:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For the life of the flesh is in the blood; and I have given it to you on the altar to make atonement for your souls: for it is the blood that makes atonement by reason of the life.",
+          "note": "The blood among the witnesses evokes the Levitical principle that 'the life of the flesh is in the blood' and that blood makes atonement. John's 'water and blood' draws atoning significance from the sacrificial system where blood is the witnessing, life-bearing agent. The blood testifies because it is the locus of atoning life.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 16:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He shall take some of the blood of the bull, and sprinkle it with his finger on the mercy seat on the east; and before the mercy seat he shall sprinkle some of the blood with his finger seven times.",
+          "note": "The Day of Atonement sprinkling of blood stands behind the atoning weight John gives 'the blood.' The cleansing blood ritual informs the salvific testimony of Christ's blood. A faint cultic resonance underlying the witness of blood.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 19:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“A man who is clean shall gather up the ashes of the heifer, and lay them up outside of the camp in a clean place; and it shall be kept for the congregation of the children of Israel for a water for impurity. It is a sin offering.",
+          "note": "The 'water of purification' from the red heifer informs the cleansing connotation of 'the water' among the witnesses. Purifying water and atoning blood together echo the Pentateuchal rites of cleansing. The pairing of water and blood recalls Israel's purification system.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 24:6-8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Moses took half of the blood and put it in basins, and half of the blood he sprinkled on the altar. He took the book of the covenant and read it in the hearing of the people, and they said, “All that Yahweh has spoken will we do, and be obedient.” Moses took the blood, and sprinkled it on the people, and said, “Look, this is the blood of the covenant, which Yahweh has made with you concerning all these words.”",
+          "note": "The covenant ratification in which Moses applies the blood and the people pledge obedience associates blood with sealed testimony. John's blood-witness to the Son parallels the blood that confirmed the covenant. A faint covenantal-blood backdrop to the witnessing blood.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 43:10",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“You are my witnesses,” says Yahweh, “With my servant whom I have chosen; that you may know and believe me, and understand that I am he. Before me there was no God formed, neither will there be after me.",
+          "note": "God's declaration 'Ye are my witnesses... that ye may know and believe me' parallels John's structure of divine testimony aimed at belief and knowledge of God. The 'testimony of God' that one must receive develops Isaiah's courtroom scenes where God testifies to himself. Both stage a trial in which God's own witness compels faith.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 55:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Turn your ear, and come to me; hear, and your soul shall live: and I will make an everlasting covenant with you, even the sure mercies of David.",
+          "note": "The offer of 'an everlasting covenant... the sure mercies of David' and the call to 'hear, and your soul shall live' resonate with John's 'God gave to us eternal life.' Hearing God's testimony issues in life. A faint resonance for life granted through receiving God's word.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 8:35",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For whoever finds me, finds life, and will obtain favor from Yahweh.",
+          "note": "Wisdom's promise 'whoso findeth me findeth life' parallels 'He who has the Son has the life.' Possessing the divine gift is possessing life itself. A sapiential echo for life located in a person to be found.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom of Solomon 1:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For wisdom is a spirit that loves man, And she will not hold a blasphemer guiltless for his lips; Because God bears witness of his reins, And is a true overseer of his heart, And a hearer of his tongue:",
+          "note": "The portrayal of the Spirit as a witness who searches and testifies of inward truth resonates with 'It is the Spirit who testifies, because the Spirit is the truth.' The deuterocanonical conception of the Spirit as truthful witness anticipates John's Spirit-testimony. The connection is thematic and faint.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.13",
+      "ch": 5,
+      "ref": "5:13-17",
+      "text": "These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God. This is the boldness which we have toward him, that, if we ask anything according to his will, he listens to us. And if we know that he listens to us, whatever we ask, we know that we have the petitions which we have asked of him. If anyone sees his brother sinning a sin not leading to death, he shall ask, and God will give him life for those who sin not leading to death. There is a sin leading to death. I don’t say that he should make a request concerning this. All unrighteousness is sin, and there is a sin not leading to death.",
+      "echoes": [
+        {
+          "source": "Psalm 145:18-19",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh is near to all those who call on him, to all who call on him in truth. He will fulfill the desire of those who fear him. He also will hear their cry, and will save them.",
+          "note": "'If we ask anything according to his will, he listens to us' echoes the psalm that 'the LORD is nigh unto all them that call upon him... he will hear their cry, and will save them.' Both ground confident prayer in God's reliable hearing of those rightly disposed toward him. The assurance that petitions are heard is psalmic.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 15:30-31",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘But the soul who does anything with a high hand, whether he is native-born or a foreigner, the same blasphemes Yahweh. That soul shall be cut off from among his people. Because he has despised Yahweh’s word, and has broken his commandment, that soul shall utterly be cut off. His iniquity shall be on him.’”",
+          "note": "The 'sin leading to death,' for which intercession is withheld, draws on the Torah's distinction between unintentional sin (atonable) and the 'high-handed' sin that 'reproacheth the LORD,' whose soul 'shall be utterly cut off.' John's two-tier sin scheme mirrors the Pentateuchal contrast between forgivable error and defiant apostasy that forfeits atonement. The deadly sin is the presumptuous, deliberate rejection that excludes from the covenant."
+        },
+        {
+          "source": "1 Samuel 2:25",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "If one man sin against another, God shall judge him; but if a man sin against Yahweh, who shall entreat for him?” Notwithstanding, they didn’t listen to the voice of their father, because Yahweh intended to kill them.",
+          "note": "Eli's words, 'if a man sin against the LORD, who shall intreat for him?'—spoken of sons whom the LORD willed to slay—anticipate the sin for which John says one should not pray. Both mark a sin so grave that intercession is futile or inappropriate. The notion of a sin beyond the reach of petition is shared."
+        },
+        {
+          "source": "Jeremiah 7:16",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Therefore don’t pray for this people, neither lift up a cry nor prayer for them, neither make intercession to me; for I will not hear you.",
+          "note": "God's command to Jeremiah, 'pray not thou for this people... for I will not hear thee,' parallels John's 'I don't say that he should make a request concerning this.' Both texts identify a condition of sin under which intercession is forbidden or pointless. The withholding of prayer for the hardened sinner is a prophetic precedent."
+        },
+        {
+          "source": "Numbers 15:27-28",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“‘If one person sins unwittingly, then he shall offer a female goat a year old for a sin offering. The priest shall make atonement for the soul who errs, when he sins unwittingly before Yahweh, to make atonement for him; and he shall be forgiven.",
+          "note": "The provision of atonement for the soul that 'sinneth through ignorance' corresponds to John's 'sin not leading to death,' for which one may pray and receive life. The forgivable, unintentional category in the Torah underlies John's lesser sin. The two-fold sin distinction is rooted in sacrificial law."
+        },
+        {
+          "source": "Job 42:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Now therefore, take to yourselves seven bulls and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you, for I will accept him, that I not deal with you according to your folly. For you have not spoken of me the thing that is right, as my servant Job has.”",
+          "note": "God's instruction that Job pray for his friends so they be not dealt with after their folly models intercession granting life to fellow sinners. John's 'he shall ask, and God will give him life' parallels the effective intercession for another's sin. A faint precedent for life secured through a brother's prayer.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 20:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Now therefore, restore the man’s wife. For he is a prophet, and he will pray for you, and you will live. If you don’t restore her, know for sure that you will die, you, and all who are yours.”",
+          "note": "The promise that Abraham 'shall pray for thee, and thou shalt live' anticipates intercession that restores life to a sinner. John's framework of asking on behalf of a sinning brother to gain him life resonates with this pattern. The link is faint and thematic.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 22:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh of Armies revealed himself in my ears, “Surely this iniquity will not be forgiven you until you die,” says the Lord, Yahweh of Armies.",
+          "note": "The oracle that 'this iniquity shall not be purged from you till ye die' depicts an unpardonable sin terminating in death, paralleling John's 'sin leading to death.' Both envision guilt that atonement cannot reach. A faint prophetic analogue to the deadly sin.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.18",
+      "ch": 5,
+      "ref": "5:18-21",
+      "text": "We know that whoever is born of God doesn’t sin, but he who was born of God keeps himself, and the evil one doesn’t touch him. We know that we are of God, and the whole world lies in the power of the evil one. We know that the Son of God has come, and has given us an understanding, that we know him who is true, and we are in him who is true, in his Son Jesus Christ. This is the true God, and eternal life. Little children, keep yourselves from idols.",
+      "echoes": [
+        {
+          "source": "Exodus 20:3-4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“You shall have no other gods before me. “You shall not make for yourselves an idol, nor any image of anything that is in the heavens above, or that is in the earth beneath, or that is in the water under the earth:",
+          "note": "'Keep yourselves from idols' enforces the first and second commandments against having other gods and making graven images. John ends by recalling the Decalogue's foundational prohibition of idolatry as the boundary of covenant loyalty. To 'keep from idols' is to keep the first words of Sinai."
+        },
+        {
+          "source": "Deuteronomy 5:7-9",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“You shall have no other gods before me. “You shall not make an engraved image for yourself, any likeness of what is in heaven above, or what is in the earth beneath, or that is in the water under the earth. You shall not bow yourself down to them, nor serve them; for I, Yahweh, your God, am a jealous God, visiting the iniquity of the fathers on the children, and on the third and on the fourth generation of those who hate me;",
+          "note": "The Deuteronomic restatement of the prohibition against other gods and idols stands directly behind John's closing command. The contrast between the 'true God' and lifeless idols mirrors Deuteronomy's exclusive covenant claim. John's farewell is a compressed reaffirmation of the Mosaic anti-idolatry charge."
+        },
+        {
+          "source": "Jeremiah 10:10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "But Yahweh is the true God; he is the living God, and an everlasting King: at his wrath the earth trembles, and the nations are not able to withstand his indignation.",
+          "note": "Jeremiah's contrast that 'the LORD is the true God... the living God' against the worthless idols he has just mocked directly informs John's 'This is the true God' followed by 'keep yourselves from idols.' The polemical pairing of the one true God with the renunciation of idols is shared. John echoes Jeremiah's living-and-true-God formula and its anti-idol thrust."
+        },
+        {
+          "source": "Psalm 115:4-8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Their idols are silver and gold, the work of men’s hands. They have mouths, but they don’t speak. They have eyes, but they don’t see. They have ears, but they don’t hear. They have noses, but they don’t smell. They have hands, but they don’t feel. They have feet, but they don’t walk, neither do they speak through their throat. Those who make them will be like them; yes, everyone who trusts in them.",
+          "note": "The mockery of idols that are the work of men's hands, who 'have eyes... but they see not,' underlies John's antithesis between the true God and idols. The closing warning assumes the psalmist's verdict on idols as dead and powerless. The 'true God and eternal life' is the living antithesis to lifeless images."
+        },
+        {
+          "source": "Genesis 3:15",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "I will put hostility between you and the woman, and between your offspring and her offspring. He will bruise your head, and you will bruise his heel.”",
+          "note": "'The evil one doesn't touch him' and 'the whole world lies in the power of the evil one' presuppose the primeval enmity between the serpent and the offspring of the woman. The one born of God is guarded against the serpent who holds the world. The protology of the serpent-adversary informs John's cosmic dualism.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 4:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.”",
+          "note": "Sin 'lieth at the door' desiring to master Cain, while the called one must rule over it, parallels the one born of God who 'keeps himself' so the evil one cannot touch him. Both portray an external malevolent power kept at bay by the faithful. A faint backdrop to self-keeping against an encroaching evil.",
+          "contested": true
+        },
+        {
+          "source": "Job 1:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Haven’t you made a hedge around him, and around his house, and around all that he has, on every side? You have blessed the work of his hands, and his substance is increased in the land.",
+          "note": "The hedge God set 'about him, and about his house' that the adversary could not breach parallels the one born of God whom 'the evil one doesn't touch.' Divine protection bars the satan's reach in both. A faint analogue for the believer's guarded immunity.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 32:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The Rock, his work is perfect, for all his ways are just. A God of faithfulness who does no wrong, just and right is he.",
+          "note": "The Song of Moses naming God 'a God of truth and without iniquity, just and right' resonates with John's 'him who is true' and 'the true God.' The divine attribute of truth/faithfulness is a Pentateuchal predicate. A faint resonance for the God who is true.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 65:16",
+          "type": "echo",
+          "confidence": "low",
+          "text": "so that he who blesses himself in the earth shall bless himself in the God of truth; and he who swears in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hidden from my eyes.",
+          "note": "Blessing and swearing 'by the God of truth' anticipates John's emphatic 'the true God.' The covenant God defined over against false gods is the God of truth. A faint prophetic precedent for the title.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom of Solomon 14:27",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For the worship of those nameless idols Is a beginning and cause and end of every evil.",
+          "note": "The deuterocanonical judgment that 'the worship of idols not to be named is the beginning... and the end of all evil' supports John's coupling of the evil-dominated world with the warning against idols. Idolatry as the root of the world's evil frames John's final exhortation. The connection is thematic and faint.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+[
+  {
+    "id": "6.1",
+    "ch": 6,
+    "ref": "6:1-2",
+    "echoes": [
+      {
+        "source": "Isaiah 52:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Slaves are to honor masters 'that the name of God and the doctrine not be blasphemed.' The motif of God's name being blasphemed among outsiders on account of his people echoes Isaiah 52:5 LXX, 'because of you my name is continually blasphemed among the nations,' which Paul cites explicitly at Romans 2:24. The conduct of the covenant community before observers determines whether God's name is honored or reviled.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:20-23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Ezekiel develops the same theme that Israel 'profaned my holy name among the nations' so that God acts to vindicate it. The Pastoral concern that believing slaves not cause God's name to be blasphemed by outsiders draws on this prophetic logic of the name's holiness being bound to the people's behavior. Closely paired with Isaiah 52:5 as the wellspring of the 'name blasphemed' tradition.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 24:11-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The grave sin of 'blaspheming the Name' is codified in the Holiness legislation on the blasphemer. The Pastoral fear that misconduct leads outsiders to blaspheme God's name may faintly trade on this background sense of the Name's sanctity, though the verbal link is general rather than specific.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.3",
+    "ch": 6,
+    "ref": "6:3-5",
+    "echoes": [
+      {
+        "source": "Proverbs 28:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The portrait of the conceited teacher 'obsessed with arguments' who breeds 'envy, strife, insulting' recalls wisdom's contrast between the greedy/proud who stir up strife and the trusting who prosper. The catalogue of social vices arising from pride and contention reflects the sapiential pattern rather than any one quotation.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 13:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'By pride comes only contention' supplies the wisdom commonplace standing behind the picture of the conceited heretic who produces disputes and word-battles. The link is thematic, illustrating the proverbial association of arrogance with quarreling.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 23:4-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The charge that the false teachers 'suppose that godliness is a means of gain' anticipates the chapter's critique of money-driven religion and resonates with wisdom's warning against wearing oneself out to be rich. A faint forward link to the avarice motif developed in vv.9-10.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.6",
+    "ch": 6,
+    "ref": "6:6-8",
+    "echoes": [
+      {
+        "source": "Job 1:21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'We brought nothing into the world, and we certainly can't carry anything out' closely renders Job's confession, 'Naked I came from my mother's womb, and naked I will return there.' The shared logic of human poverty at birth and at death grounds the call to contentment and is the primary scriptural source for v.7.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 5:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'As he came from his mother's womb, naked shall he go again as he came, and shall take nothing for his labor.' Qoheleth's meditation on the impossibility of carrying wealth out of life is a direct conceptual parallel to v.7 and reinforces the Job allusion. The pairing forms the wisdom backbone of the contentment teaching.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 49:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'For when he dies he will carry nothing away; his glory will not descend after him.' The psalm's reflection that the rich take nothing in death directly parallels the claim that we 'can't carry anything out.' A strong supporting witness to the same death-and-dispossession tradition.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 5:1-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ben Sira warns against relying on wealth and saying 'I have enough,' urging the reader not to follow heart and strength after riches. The deuterocanonical wisdom on the futility of trusting possessions undergirds the contentment ethic of vv.6-8 and the warnings of vv.9-10.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 30:8-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Agur's prayer, 'feed me with the food that is needful for me,' seeking neither poverty nor riches, supplies the ideal of sufficiency behind 'having food and clothing, we will be content.' The wisdom request for daily necessities is the closest sapiential parallel to v.8.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 28:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jacob's vow asks God for 'bread to eat and clothing to wear,' the same minimal pairing of food and clothing that defines contentment in v.8. The verbal pairing may stand behind Paul's formula, though it is a common biblical idiom of basic provision.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 8:3-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wilderness lesson that God provided manna and that clothing did not wear out teaches dependence on God for daily food and covering. This forms a faint background to the food-and-clothing sufficiency that the believer is to rest content in.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.9",
+    "ch": 6,
+    "ref": "6:9-10",
+    "echoes": [
+      {
+        "source": "Proverbs 15:27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He who is greedy for gain troubles his own house.' The maxim that avarice brings ruin upon the grasping person directly underwrites 'the love of money is a root of all kinds of evil' and the picture of those who 'pierced themselves through with many sorrows.' A core wisdom source for v.10.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 27:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Many have sinned for the sake of profit, and he who seeks to multiply gain will turn his eye away.' Ben Sira's aphorism that the pursuit of money is itself a cause of sin is the closest known parallel to 'the love of money is a root of all kinds of evil.' Strong deuterocanonical antecedent for v.10.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 31:5-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He who loves gold will not be justified... Gold has been a stumbling block to many, and their destruction has met them face to face. It is a snare to those who are devoted to it.' The imagery of gold as a snare causing ruin parallels both the 'snare' of v.9 and the 'root of evil' of v.10. A remarkably close sapiential model.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 5:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He who loves silver shall not be satisfied with silver, nor he who loves abundance with increase.' Qoheleth's insight into the insatiability of money-love directly parallels the diagnosis of those 'determined to be rich' and 'the love of money.' A direct wisdom witness to the avarice critique.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 23:4-5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Don't weary yourself to be rich... riches certainly sprout wings.' The warning against straining to be wealthy maps onto 'those who are determined to be rich fall into a temptation and a snare.' The fleeting, ensnaring character of riches grounds vv.9-10.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 28:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A stingy man hurries after riches, and doesn't know that poverty waits for him.' The proverb that the avaricious rush toward wealth only to meet ruin parallels the trajectory of those who 'fall into... ruin and destruction.' Supporting wisdom source.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 1:18-19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'So are the ways of everyone who is greedy for gain. It takes away the life of its owners.' Wisdom's claim that greed is self-destructive, ambushing the very ones who seek it, parallels those who in greed 'pierced themselves through with many sorrows.' A self-harm motif resonant with v.10.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 11:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'If you pursue, you will not overtake... and you will not escape by fleeing.' Ben Sira's counsel against frenetic pursuit of gain resonates with those 'determined to be rich' who fall into a snare. A faint deuterocanonical parallel.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.11",
+    "ch": 6,
+    "ref": "6:11-12",
+    "echoes": [
+      {
+        "source": "Deuteronomy 33:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The address 'man of God' is the standard Hebrew Bible title for a prophet or authorized servant of God, applied to Moses ('the man of God') and frequently to figures like Elijah and Elisha. Timothy is cast in this prophetic-leadership lineage, charged to embody covenant virtue.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 9:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Samuel is repeatedly called 'the man of God,' establishing the title as a designation for a trusted seer who speaks for the Lord. The Pastoral epithet for Timothy draws on this same OT usage of the authorized divine spokesman.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 21:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He who follows after righteousness and kindness finds life, righteousness, and honor.' The exhortation to 'follow after righteousness... and gentleness' and so 'lay hold of eternal life' resonates with wisdom's promise that pursuing righteousness leads to life. A thematic virtue-pursuit parallel.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.13",
+    "ch": 6,
+    "ref": "6:13-16",
+    "echoes": [
+      {
+        "source": "Nehemiah 9:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You give life to all of them' praises the one God who made and sustains all things. The charge before 'God, who gives life to all things' (v.13) echoes this confession of the Creator as life-giver to the whole creation. A direct conceptual parallel to the life-giving formula.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:39",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I kill and I make alive... there is no god with me.' God's exclusive prerogative over life and death undergirds 'God, who gives life to all things' and the doxology's stress that he 'alone has immortality.' Supports both the life-giver and sole-sovereign motifs of vv.13-16.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 10:17",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'For Yahweh your God, he is God of gods and Lord of lords.' The doxology's title 'King of kings, and Lord of lords' (v.15) directly takes up this Deuteronomic confession of God's supremacy over all powers. The clearest verbal source for the title.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 136:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Give thanks to the God of gods... to the Lord of lords.' The liturgical pairing of these superlatives reinforces the 'Lord of lords' title of v.15 and its hymnic, doxological setting. A strong secondary witness alongside Deuteronomy 10:17.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:47",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Nebuchadnezzar confesses Daniel's God as 'God of gods, and Lord of kings.' The royal-supremacy formula praising the God who is over all kings parallels 'King of kings, and Lord of lords.' Reflects the apocalyptic vocabulary of divine kingship behind v.15.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:20",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'You cannot see my face, for man may not see me and live.' The doxology's 'whom no man has seen, nor can see' (v.16) directly echoes God's word to Moses on the impossibility of beholding the divine face. A primary scriptural source for the invisibility motif.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 104:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God is 'covered with light as with a garment.' 'Dwelling in unapproachable light' (v.16) draws on this hymnic image of God clothed in light. The closest scriptural antecedent for the light-dwelling description.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 24:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The glory of the Lord appeared 'like a devouring fire' on the mountain, inaccessible to the people. The unapproachable, blazing presence informs the 'unapproachable light' in which God dwells. A faint Sinai-theophany resonance.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 36:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'For with you is the spring of life. In your light we will see light.' The association of God with life and with light loosely supports the doxology's coupling of the life-giver (v.13) with the God of unapproachable light (v.16). A thematic resonance rather than a citation.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 60:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Yahweh will be your everlasting light.' The eschatological depiction of God as light may faintly inform the doxology's 'unapproachable light.' A distant resonance secondary to Psalm 104:2.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.17",
+    "ch": 6,
+    "ref": "6:17-19",
+    "echoes": [
+      {
+        "source": "Psalm 62:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'If riches increase, don't set your heart on them.' The charge that the rich not 'have their hope set on the uncertainty of riches' closely matches the psalm's warning against fixing the heart on growing wealth. A primary source for v.17.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 11:28",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'He who trusts in his riches will fall.' The contrast between trusting riches and the alternative directly parallels the command not to hope in 'the uncertainty of riches' but on the living God. A core wisdom antecedent for v.17.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 23:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Riches 'certainly sprout wings, like an eagle they fly toward the sky.' The fleeting, unreliable nature of wealth grounds the phrase 'the uncertainty of riches.' A vivid wisdom image of money's instability.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Don't let the rich man glory in his riches; but let him who glories glory in this, that he... knows me.' The redirection of the wealthy from boasting in riches to glorying in God parallels the charge that the rich not be haughty but hope on the living God. A strong source for the structure of v.17.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 8:17-18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Beware lest you say... My power and the might of my hand has gotten me this wealth. But you shall remember Yahweh your God, for it is he who gives you power to get wealth.' The warning against pride in self-made riches and the reminder that God is the giver parallels the charge against the haughty rich and the God 'who richly provides us with everything.'",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 19:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He who has pity on the poor lends to Yahweh; he will reward him.' The exhortation that the rich 'be rich in good works, ready to distribute,' 'laying up in store... a good foundation against the time to come' echoes the wisdom principle that generosity to the needy is treasure stored with God. Grounds the storing-up imagery of v.19.",
+        "contested": false
+      },
+      {
+        "source": "Tobit 4:7-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Give alms from your possessions... you will be laying up a good treasure for yourself against the day of necessity.' Tobit's almsgiving counsel that charity stores up a treasure for the day of need is a remarkably close parallel to 'laying up in store... a good foundation against the time to come' (v.19). A strong deuterocanonical source.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 29:11-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Lay up your treasure according to the commandments... and it will profit you more than gold. Store up almsgiving in your treasury, and it will rescue you from all affliction.' Ben Sira's image of almsgiving as treasure that delivers in the future directly parallels the rich laying up a good foundation against the time to come. Close sapiential antecedent for v.19.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 30:8-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Agur's prayer against riches that lead one to deny God and against poverty that leads to theft frames wealth as spiritually perilous. This wisdom ambivalence about riches faintly supports the warning that the rich not be haughty nor trust their wealth.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.20",
+    "ch": 6,
+    "ref": "6:20-21",
+    "echoes": [
+      {
+        "source": "Proverbs 4:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Keep your heart with all diligence, for out of it is the wellspring of life.' The command 'guard that which is committed to you' draws on the wisdom ideal of vigilant safekeeping of what is precious. A thematic resonance with the keeping/guarding motif.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 14:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Stay away from a foolish man, for you won't find knowledge on his lips.' The injunction to turn away from 'the empty chatter and oppositions of the knowledge falsely so called' resonates with wisdom's warning to avoid the fool's pseudo-knowledge. A faint sapiential parallel to the rejection of false gnosis.",
+        "contested": true
+      }
+    ]
+  }
+]

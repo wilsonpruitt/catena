@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-4",
+    "echoes": [
+      {
+        "source": "Psalm 86:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The letter's keynote, Gaius and the elder's children 'walking in truth,' draws on the Psalter's idiom for fidelity to God's revealed way: 'teach me your way, O LORD; I will walk in your truth.' The same construction of walking in/according to truth recurs as the praise the elder repeats four times.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 2:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Deuteronomistic standard for the faithful, who 'walk before me in truth with all their heart,' supplies the covenantal background for the elder's joy that his children walk in truth. Cf. also 2 Kings 20:3.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prayer that Gaius 'may prosper in all things' as his soul prospers loosely recalls the wisdom promise that the righteous one 'in whatever he does, he prospers.' The link is thematic rather than verbal and the everyday health-wish formula carries most of the freight.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:5-8",
+    "echoes": [
+      {
+        "source": "Genesis 18:1-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Gaius's reception of brothers who are also 'strangers' and his sending them on worthily reflects the patriarchal paradigm of hospitality, where Abraham receives unknown travelers and provisions them for the road. This Abrahamic model stands behind the early Christian valuing of welcome to itinerant messengers.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 19:34",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The praise of love shown to 'brothers and strangers' rests on the Holiness Code's command that the sojourner be treated as a native and loved as oneself. The pairing of love and the resident alien gives the commendation its scriptural weight.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 10:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Deuteronomic charge to 'love the stranger' undergirds the elder's commendation of hospitality to traveling brothers who are strangers to Gaius. It belongs to the same Torah tradition of sheltering the sojourner that the letter assumes as virtue.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:9-10",
+    "echoes": [
+      {
+        "source": "Proverbs 16:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Diotrephes 'who loves to be first' and lords it over the assembly embodies the proud heart that wisdom warns precedes destruction. The portrait of self-exaltation refusing the brothers is drawn against the Proverbs critique of haughtiness.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 18:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Diotrephes, who isolates the church from the elder's emissaries and expels those who would receive them, recalls the wisdom saying about one who separates himself and rejects sound counsel. The connection is thematic.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 10:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "His 'unjustly accusing us with wicked words' resonates with the wisdom condemnation of the slanderer and the one who utters falsehood. A faint sapiential coloring rather than a specific citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:11",
+    "echoes": [
+      {
+        "source": "Psalm 34:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The exhortation 'don't imitate that which is evil, but that which is good' restates the psalm's classic two-ways summons to 'depart from evil, and do good.' The antithesis of evil and good as a moral test of belonging to God is the same.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 37:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Depart from evil, and do good; and dwell forevermore' parallels the letter's contrast between the one who does good and is of God and the one who does evil and has not seen God. The reward of abiding maps onto the Johannine sense of being 'of God.'",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 1:16-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prophetic call to 'cease to do evil; learn to do well' supplies the same evil/good imperative that the elder applies to discerning true discipleship. One strand of the broader scriptural two-ways tradition.",
+        "contested": false
+      },
+      {
+        "source": "Amos 5:14-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Seek good, and not evil, that you may live... Hate evil, love good' shares the moral logic that doing good aligns one with God and doing evil estranges one from him. A thematic echo within the prophetic two-ways material.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:12",
+    "echoes": [
+      {
+        "source": "Proverbs 22:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Demetrius 'has the testimony of all, and of the truth itself' commends the good name that wisdom prizes above riches: 'a good name is rather to be chosen than great riches.' The value placed on public good repute stands behind the commendation.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 7:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The well-attested name of Demetrius faintly recalls Qoheleth's praise that 'a good name is better than precious ointment.' A general sapiential valuing of reputation rather than a deliberate citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:13-14",
+    "echoes": [
+      {
+        "source": "Numbers 6:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The closing benediction 'Peace be to you' carries the priestly blessing's gift of shalom, the customary Hebrew word of farewell and blessing. The link is to a standard liturgical formula rather than a pointed allusion.",
+        "contested": true
+      }
+    ]
+  }
+]

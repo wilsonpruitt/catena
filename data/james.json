@@ -1,0 +1,1524 @@
+{
+  "slug": "james",
+  "name": "James",
+  "subtitle": "A Mirror Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "James holds the word up like a mirror: be doers of the word and not hearers only, who look at their face and forget what they saw. The letter is the New Testament’s book of wisdom, woven from Proverbs and Sirach and the prophets — the rich and the poor, the bridled tongue, the royal law to love your neighbor as yourself, Abraham and Rahab justified by works, the patience of Job and the prayer of Elijah, the harvest of righteousness sown in peace. To look in and walk away unchanged is to miss it. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where the writer follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1",
+      "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are in the Dispersion: Greetings.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 30:1-4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "It shall happen, when all these things have come on you, the blessing and the curse, which I have set before you, and you shall call them to mind among all the nations, where Yahweh your God has driven you, and return to Yahweh your God, and obey his voice according to all that I command you this day, you and your children, with all your heart, and with all your soul; that then Yahweh your God will release you from captivity, have compassion on you, and […]",
+          "note": "James addresses 'the twelve tribes which are in the Dispersion,' invoking the deuteronomic theology of Israel scattered among the nations and the promised regathering. The Diaspora language presupposes the exile-and-return pattern Moses foretells, with the LXX term diaspora derived from this and related passages."
+        },
+        {
+          "source": "Genesis 49:28",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "All these are the twelve tribes of Israel, and this is what their father spoke to them and blessed them. He blessed everyone according to his blessing.",
+          "note": "The phrase 'the twelve tribes' rests on Jacob's blessing of his sons, the foundational enumeration of the tribes of Israel. James reclaims the full eschatological Israel as the addressee of his letter."
+        },
+        {
+          "source": "Exodus 24:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Moses wrote all Yahweh’s words, and rose up early in the morning, and built an altar under the mountain, and twelve pillars for the twelve tribes of Israel.",
+          "note": "The constitution of Israel as twelve tribes at Sinai (twelve pillars for the twelve tribes) lies behind the corporate self-understanding James assumes. Faint background to the tribal designation.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 147:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh builds up Jerusalem. He gathers together the outcasts of Israel.",
+          "note": "The LXX speaks of the Lord gathering the dispersed (diasporas) of Israel, reinforcing the regathering hope implicit in James's address to scattered tribes. A faint scriptural resonance with the Dispersion motif.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:2-4",
+      "text": "Count it all joy, my brothers, when you fall into various temptations, knowing that the testing of your faith produces endurance. Let endurance have its perfect work, that you may be perfect and complete, lacking in nothing.",
+      "echoes": [
+        {
+          "source": "Sirach 2:1-6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "My son, if you come to serve the Lord, Prepare your soul for temptation. Set your heart aright, and constantly endure, And make not haste in time of calamity. Cleave to him, and depart not, That you may be increased at your latter end. Accept whatever is brought upon you, And be longsuffering when you passest into humiliation. For gold is tried in the fire, And acceptable men in the furnace of humiliation. Put your trust in him, and he will help you: […]",
+          "note": "Sirach's instruction, 'My son, if you come to serve the Lord, prepare your soul for testing... accept whatever befalls you, for gold is tested in the fire,' is the closest verbal and conceptual parallel to James's call to count trials as joy because testing produces endurance. The wisdom theme of the testing of the righteous undergirds the whole passage."
+        },
+        {
+          "source": "Wisdom of Solomon 3:4-6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For even if in the sight of men they be punished, Their hope is full of immortality; And having borne a little chastening, they will receive great good; Because God made trial of them, and found them worthy of himself. As gold in the furnace he proved them, And as a whole burnt offering he accepted them.",
+          "note": "Wisdom describes the righteous being 'tried like gold in the furnace' and found worthy of God, a refining-through-affliction theology that matches James's claim that tested faith yields endurance and perfection. The deuterocanonical wisdom tradition shapes James's reading of suffering."
+        },
+        {
+          "source": "Job 1-2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God, and turned away from evil. There were born to him seven sons and three daughters. His possessions also were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household; so that this man was the greatest of all the children of the east. His sons went and held a feast in the […]",
+          "note": "Job is the paradigmatic example of the testing of the righteous producing steadfast endurance, a connection James himself makes explicit in 5:11. The trials-into-perfection logic of James 1 draws on the Joban pattern of the patient sufferer."
+        },
+        {
+          "source": "Genesis 22:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "After these things, God tested Abraham, and said to him, “Abraham!” He said, “Here I am.”",
+          "note": "The binding of Isaac, where 'God tested Abraham,' is the foundational scriptural instance of testing that proves and perfects faith. It stands behind James's positive valuation of trials as the proving ground of faith."
+        },
+        {
+          "source": "Proverbs 17:3",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The refining pot is for silver, and the furnace for gold, but Yahweh tests the hearts.",
+          "note": "'The crucible is for silver, and the furnace for gold, but the Lord tests hearts.' The refining-as-testing metaphor that James assumes for faith is a wisdom commonplace rooted here."
+        },
+        {
+          "source": "Deuteronomy 8:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "You shall remember all the way which Yahweh your God has led you these forty years in the wilderness, that he might humble you, to prove you, to know what was in your heart, whether you would keep his commandments, or not.",
+          "note": "God led Israel in the wilderness 'to humble you, testing you to know what was in your heart.' The wilderness testing motif provides a covenantal backdrop to James's pedagogy of trial-induced maturity.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:5-8",
+      "text": "But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach; and it will be given to him. But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed. For let that man not think that he will receive anything from the Lord. He is a double-minded man, unstable in all his ways.",
+      "echoes": [
+        {
+          "source": "Proverbs 2:3-6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yes, if you call out for discernment, and lift up your voice for understanding; If you seek her as silver, and search for her as for hidden treasures: then you will understand the fear of Yahweh, and find the knowledge of God. For Yahweh gives wisdom. Out of his mouth comes knowledge and understanding.",
+          "note": "'If you call out for insight... then you will find the knowledge of God, for the Lord gives wisdom.' James's 'if any of you lacks wisdom, let him ask of God who gives' directly echoes the Proverbial promise that God is the giver of wisdom to those who seek it."
+        },
+        {
+          "source": "1 Kings 3:9-12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Give your servant therefore an understanding heart to judge your people, that I may discern between good and evil; for who is able to judge this your great people?” The speech pleased the Lord, that Solomon had asked this thing. God said to him, “Because you have asked this thing, and have not asked for yourself long life, neither have asked riches for yourself, nor have asked the life of your enemies, but have asked for yourself understanding to discern […]",
+          "note": "Solomon asks God for wisdom to govern and God grants it generously, the paradigmatic instance of asking God for wisdom and receiving it. James's exhortation to ask God for wisdom presupposes this Solomonic precedent."
+        },
+        {
+          "source": "Wisdom of Solomon 7:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For this cause I prayed, and understanding was given me: I called upon God, and there came to me a spirit of wisdom.",
+          "note": "'I prayed, and understanding was given me; I called upon God, and the spirit of wisdom came to me.' This deuterocanonical reworking of Solomon's prayer closely matches James's pattern of asking and receiving wisdom from God."
+        },
+        {
+          "source": "Sirach 1:1-10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "All wisdom comes from the Lord, And is with him forever. The sand of the seas, and the drops of rain, And the days of eternity, who shall count? The height of the heaven, and the breadth of the earth, And the deep, and wisdom, who shall search them out? Wisdom has been created before all things, And the understanding of prudence from everlasting. To whom has the root of wisdom been revealed? And who has known her shrewd counsels? There is one wise, […]",
+          "note": "Sirach affirms that all wisdom is from the Lord, who 'lavished her upon those who love him.' The generosity of God in giving wisdom, central to James 1:5, is a hallmark of Sirach's opening hymn to wisdom."
+        },
+        {
+          "source": "Isaiah 57:20",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "But the wicked are like the troubled sea; for it can’t rest, and its waters cast up mire and dirt.",
+          "note": "'The wicked are like the tossing sea... its waters toss up mire and dirt.' James's image of the doubter as 'a wave of the sea, driven by the wind and tossed' draws on Isaiah's simile of the restless, unstable sea for the unrighteous."
+        },
+        {
+          "source": "Proverbs 3:5-6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Trust in Yahweh with all your heart, and don’t lean on your own understanding. In all your ways acknowledge him, and he will make your paths straight.",
+          "note": "'Trust in the Lord with all your heart, and do not lean on your own understanding.' The single-minded trust James demands over against the double-minded doubter resonates with the wholehearted reliance Proverbs commends.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 12:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Everyone lies to his neighbor. They speak with flattering lips, and with a double heart.",
+          "note": "'They utter lies... with a double heart they speak.' James's 'double-minded man, unstable in all his ways' may echo the biblical idiom of the divided heart condemned in the Psalms.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 1:28",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Disobey not the fear of the Lord; And come not to him with a double heart.",
+          "note": "'Do not approach the Lord with a divided heart.' Sirach's warning against the double heart directly anticipates James's condemnation of the dipsychos (double-minded) doubter who must not expect to receive from the Lord."
+        }
+      ]
+    },
+    {
+      "id": "1.9",
+      "ch": 1,
+      "ref": "1:9-11",
+      "text": "But let the brother in humble circumstances glory in his high position; and the rich, in that he is made humble, because like the flower in the grass, he will pass away. For the sun arises with the scorching wind, and withers the grass, and the flower in it falls, and the beauty of its appearance perishes. So also will the rich man fade away in his pursuits.",
+      "echoes": [
+        {
+          "source": "Isaiah 40:6-8",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "The voice of one saying, “Cry!” One said, “What shall I cry?” “All flesh is like grass, and all its glory is like the flower of the field. The grass withers, the flower fades, because Yahweh’s breath blows on it. Surely the people are like grass. The grass withers, the flower fades; but the word of our God stands forever.”",
+          "note": "'All flesh is grass... the grass withers, the flower fades.' James's portrait of the rich passing away 'like the flower in the grass,' withered by the scorching sun, is a near-quotation of Isaiah's oracle on the transience of mortal glory before the abiding word of God."
+        },
+        {
+          "source": "Psalm 103:15-16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "As for man, his days are like grass. As a flower of the field, so he flourishes. For the wind passes over it, and it is gone. Its place remembers it no more.",
+          "note": "'As for man, his days are like grass; he flourishes like a flower of the field, for the wind passes over it, and it is gone.' James's image of the rich man fading like a flower scorched and blown away closely parallels this Psalm's meditation on human transience."
+        },
+        {
+          "source": "Job 14:1-2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Man, who is born of a woman, is of few days, and full of trouble. He grows up like a flower, and is cut down. He also flees like a shadow, and doesn’t continue.",
+          "note": "'Man... comes out like a flower and withers; he flees like a shadow and continues not.' Job's lament over the fleeting flower-life of mortals reinforces James's warning that the rich will fade away in their pursuits."
+        },
+        {
+          "source": "Psalm 102:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "My heart is blighted like grass, and withered, for I forget to eat my bread.",
+          "note": "'My heart is struck down like grass and has withered.' The withering-grass image for human frailty resonates faintly with James's depiction of the rich man's perishing beauty.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 14:18",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "As of the leaves flourishing on a thick tree, Some it sheds, and some it makes to grow; So also of the generations of flesh and blood, One comes to an end, and another is born.",
+          "note": "'Like flourishing leaves on a spreading tree which sheds some and puts forth others, so are the generations of flesh and blood: one dies and another is born.' Sirach's foliage-of-the-flesh image parallels James's meditation on the fading of mortal wealth."
+        },
+        {
+          "source": "1 Samuel 2:7-8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh makes poor, and makes rich. He brings low, he also lifts up. He raises up the poor out of the dust. He lifts up the needy from the dunghill, To make them sit with princes, and inherit the throne of glory. For the pillars of the earth are Yahweh’s. He has set the world on them.",
+          "note": "Hannah's song proclaims that the Lord 'brings low and exalts; he raises the poor from the dust.' The reversal James announces, the lowly exalted and the rich humbled, draws on this scriptural pattern of God's status-reversal."
+        },
+        {
+          "source": "Jeremiah 9:23-24",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Thus says Yahweh, Don’t let the wise man glory in his wisdom, neither let the mighty man glory in his might, don’t let the rich man glory in his riches; but let him who glories glory in this, that he has understanding, and knows me, that I am Yahweh who exercises loving kindness, justice, and righteousness, in the earth: for in these things I delight, says Yahweh.",
+          "note": "'Let not the rich man boast in his riches, but let him who boasts boast in this, that he understands and knows me.' James's redirection of the rich man's glory toward his humbling echoes Jeremiah's reordering of the grounds for boasting."
+        }
+      ]
+    },
+    {
+      "id": "1.12",
+      "ch": 1,
+      "ref": "1:12",
+      "text": "Blessed is the man who endures temptation, for when he has been approved, he will receive the crown of life, which the Lord promised to those who love him.",
+      "echoes": [
+        {
+          "source": "Daniel 12:12",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Blessed is he who waits, and comes to the one thousand three hundred thirty-five days.",
+          "note": "'Blessed is he who waits.' James's beatitude on the man who endures testing echoes the apocalyptic blessing pronounced on those who persevere to the eschatological reward."
+        },
+        {
+          "source": "Zechariah 6:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son of Zephaniah, for a memorial in Yahweh’s temple.",
+          "note": "Zechariah's 'crown' set in the temple as a memorial provides faint background to James's promised 'crown of life' for those who endure. The royal/priestly crown imagery is suggestive but not directly quoted.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom of Solomon 5:16",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Therefore will they receive the crown of royal dignity And the diadem of beauty from the Lord’s hand; Because with his right hand will he cover them, And with his arm will he shield them.",
+          "note": "The righteous 'will receive a glorious crown and a beautiful diadem from the hand of the Lord.' This deuterocanonical promise of a crown to the steadfast righteous closely matches James's crown of life awarded to those who endure and love God."
+        },
+        {
+          "source": "Exodus 20:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "and showing loving kindness to thousands of those who love me and keep my commandments.",
+          "note": "God shows steadfast love 'to those who love me and keep my commandments.' James's phrase 'those who love him' draws on the deuteronomic/Decalogue language of love for God as the covenantal mark of the faithful who receive his promise."
+        },
+        {
+          "source": "Sirach 1:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The fear of the Lord is the crown of wisdom, Making peace and perfect health to flourish.",
+          "note": "Sirach calls the fear of the Lord 'the crown of wisdom, making peace and perfect health to flourish.' The crown-as-reward-of-fidelity imagery resonates faintly with James's crown of life.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.13",
+      "ch": 1,
+      "ref": "1:13-15",
+      "text": "Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one. But each one is tempted, when he is drawn away by his own lust, and enticed. Then the lust, when it has conceived, bears sin; and the sin, when it is full grown, produces death.",
+      "echoes": [
+        {
+          "source": "Sirach 15:11-20",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Say not you, It is through the Lord that I fell away; For you shall not do the things that he hates. Say not you, It is he that caused me to err; For he has no need of a sinful man. The Lord hates every abomination; And those who fear him love it not. He himself made man from the beginning, And left him in the hand of his own counsel. If you will, you shall keep the commandments; And to perform faithfulness is of your own good pleasure. He has set fire […]",
+          "note": "'Do not say, It was the Lord's doing that I fell away... he himself made man from the beginning and left him in the power of his own choice.' Sirach explicitly denies that God is the author of sin and locates temptation in human free choice, the precise theology James voices in saying God tempts no one."
+        },
+        {
+          "source": "Genesis 3:1-7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Now the serpent was more subtle than any animal of the field which Yahweh God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden?’” The woman said to the serpent, “We may eat fruit from the trees of the garden, but not the fruit of the tree which is in the middle of the garden. God has said, ‘You shall not eat of it, neither shall you touch it, lest you die.’” The serpent said to the woman, “You won’t surely […]",
+          "note": "The Eden narrative of desire (the fruit 'a delight to the eyes') giving birth to transgression and thence to death stands behind James's genealogy of sin: lust conceives, bears sin, and sin brings forth death. The fall pattern shapes his anatomy of temptation."
+        },
+        {
+          "source": "Proverbs 7:6-27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For at the window of my house, I looked out through my lattice. I saw among the simple ones. I discerned among the youths a young man void of understanding, passing through the street near her corner, he went the way to her house, in the twilight, in the evening of the day, in the middle of the night and in the darkness. Behold, there a woman met him with the attire of a prostitute, and with crafty intent. She is loud and defiant. Her feet don’t stay in […]",
+          "note": "The seductress of Proverbs 7 lures the youth so that 'her house is the way to Sheol, going down to the chambers of death.' James's image of enticing desire that conceives and ends in death echoes this Wisdom portrayal of temptation-to-death."
+        },
+        {
+          "source": "Genesis 4:7",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.”",
+          "note": "'Sin is crouching at the door, and its desire is for you, but you must rule over it.' The personification of sin as a lurking, desiring power that James develops in the conceive-and-bear imagery resonates with God's warning to Cain."
+        },
+        {
+          "source": "Genesis 2:17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "but you shall not eat of the tree of the knowledge of good and evil; for in the day that you eat of it, you will surely die.”",
+          "note": "The Edenic sentence 'in the day you eat of it you shall surely die' establishes the sin-death linkage that James assumes when full-grown sin produces death. Faint background to the genealogy of death.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 21:2-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Flee from sin as from the face of a serpent; For if you draw near it will bite you: The teeth thereof are the teeth of a lion, Slaying the souls of men. All iniquity is as a two-edged sword; Its stroke has no healing.",
+          "note": "'Flee from sin as from a snake... its teeth are lion's teeth, destroying the souls of men.' Sirach's image of sin as a deadly devouring power resonates faintly with James's sin-bearing-death sequence.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.16",
+      "ch": 1,
+      "ref": "1:16-18",
+      "text": "Don’t be deceived, my beloved brothers. Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, nor turning shadow. Of his own will he gave birth to us by the word of truth, that we should be a kind of first fruits of his creatures.",
+      "echoes": [
+        {
+          "source": "Genesis 1:14-18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "God said, “Let there be lights in the expanse of sky to divide the day from the night; and let them be for signs to mark seasons, days, and years; and let them be for lights in the expanse of sky to give light on the earth”; and it was so. God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars. God set them in the expanse of sky to give light to the earth, and to rule over the day […]",
+          "note": "God's 'Father of lights' designates him as Creator of the heavenly luminaries set in the firmament on the fourth day. James draws on the creation account to name God as source of the celestial lights, then contrasts their changing shadows with his own constancy."
+        },
+        {
+          "source": "Malachi 3:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“For I, Yahweh, don’t change; therefore you, sons of Jacob, are not consumed.",
+          "note": "'For I the Lord do not change.' James's claim that with the Father of lights there is 'no variation, nor turning shadow' affirms divine immutability in the very terms Malachi uses to assure Israel of God's unchanging fidelity."
+        },
+        {
+          "source": "Numbers 23:19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "God is not a man, that he should lie, nor the son of man, that he should repent. Has he said, and will he not do it? Or has he spoken, and will he not make it good?",
+          "note": "'God is not man, that he should lie, or a son of man, that he should change his mind.' Balaam's oracle on God's unchanging reliability undergirds James's contrast between God's constancy and the shifting shadows of the luminaries."
+        },
+        {
+          "source": "Psalm 136:7-9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "To him who made the great lights; for his loving kindness endures forever: The sun to rule by day; for his loving kindness endures forever; The moon and stars to rule by night; for his loving kindness endures forever:",
+          "note": "The hymn praises God who made 'the great lights... the sun to rule over the day, the moon and stars to rule over the night.' James's 'Father of lights' draws on this liturgical confession of God as maker of the heavenly bodies."
+        },
+        {
+          "source": "Exodus 23:19",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "The first of the first fruits of your ground you shall bring into the house of Yahweh your God. “You shall not boil a young goat in its mother’s milk.",
+          "note": "'The best of the firstfruits of your ground you shall bring into the house of the Lord.' James's claim that we are 'a kind of first fruits of his creatures,' brought forth by the word of truth, applies the cultic firstfruits law to the new-birth of believers as God's consecrated portion."
+        },
+        {
+          "source": "Deuteronomy 26:1-11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "It shall be, when you have come in to the land which Yahweh your God gives you for an inheritance, possess it, and dwell in it, that you shall take some of the first of all the fruit of the ground, which you shall bring in from your land that Yahweh your God gives you. You shall put it in a basket, and shall go to the place which Yahweh your God shall choose, to cause his name to dwell there. You shall come to the priest who shall be in those days, and […]",
+          "note": "The firstfruits offering ritual, with its confession of God's saving acts, lies behind James's designation of believers as firstfruits. The dedication of the first and best to God interprets the believers' status among his creatures."
+        },
+        {
+          "source": "Jeremiah 2:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Israel was holiness to Yahweh, the first fruits of his increase. All who devour him shall be held guilty. Evil shall come on them,”’ says Yahweh.”",
+          "note": "'Israel was holy to the Lord, the firstfruits of his harvest.' James's 'firstfruits of his creatures' transfers to the reborn community Jeremiah's designation of Israel as God's firstfruits, holy and set apart."
+        },
+        {
+          "source": "Genesis 1:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "God said, “Let there be light,” and there was light.",
+          "note": "God's creative word, 'Let there be light,' resonates with James's pairing of the Father of lights with the begetting 'word of truth' by which God gives new birth. Faint creation-by-word background.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 8:22-31",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Yahweh possessed me in the beginning of his work, before his deeds of old. I was set up from everlasting, from the beginning, before the earth existed. When there were no depths, I was born, when there were no springs abounding with water. Before the mountains were settled in place, before the hills, I was born; while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world. When he established the heavens, I was […]",
+          "note": "Wisdom present with God at creation provides a faint backdrop to God begetting believers by the word of truth as firstfruits of his creatures. Contested wisdom-cosmology resonance.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.19",
+      "ch": 1,
+      "ref": "1:19-21",
+      "text": "So, then, my beloved brothers, let every man be swift to hear, slow to speak, and slow to anger; for the anger of man doesn’t produce the righteousness of God. Therefore, putting away all filthiness and overflowing of wickedness, receive with humility the implanted word, which is able to save your souls.",
+      "echoes": [
+        {
+          "source": "Proverbs 10:19",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "In the multitude of words there is no lack of disobedience, but he who restrains his lips does wisely.",
+          "note": "'When words are many, transgression is not lacking, but whoever restrains his lips is prudent.' James's counsel to be 'slow to speak' draws directly on the Wisdom tradition's repeated commendation of restrained speech."
+        },
+        {
+          "source": "Proverbs 17:27-28",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He who spares his words has knowledge. He who is even tempered is a man of understanding. Even a fool, when he keeps silent, is counted wise. When he shuts his lips, he is thought to be discerning.",
+          "note": "'Whoever restrains his words has knowledge... even a fool who keeps silent is counted wise.' The pairing of measured speech with wisdom underlies James's swift-to-hear, slow-to-speak triad."
+        },
+        {
+          "source": "Proverbs 14:29",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He who is slow to anger has great understanding, but he who has a quick temper displays folly.",
+          "note": "'Whoever is slow to anger has great understanding, but he who has a hasty temper exalts folly.' James's 'slow to anger,' with the claim that human anger does not produce God's righteousness, restates this Proverb's praise of restrained wrath."
+        },
+        {
+          "source": "Proverbs 15:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+          "note": "'A soft answer turns away wrath, but a harsh word stirs up anger.' James's concern that the anger of man does not work God's righteousness resonates with the Proverbial linkage of speech and the management of anger."
+        },
+        {
+          "source": "Ecclesiastes 7:9",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Don’t be hasty in your spirit to be angry, for anger rests in the bosom of fools.",
+          "note": "'Be not quick in your spirit to become angry, for anger lodges in the heart of fools.' James's 'slow to anger' directly parallels Qoheleth's warning against hasty wrath."
+        },
+        {
+          "source": "Sirach 5:11-13",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Be swift to hear; And with patience make your answer. If you have understanding, answer your neighbor; And if not, let your hand be upon your mouth. Glory and dishonor is in talk: And the tongue of a man is his fall.",
+          "note": "'Be quick to hear, but deliberate in answering... let your life be sincere.' Sirach's near-identical counsel to be swift in listening and slow in reply is the closest extant verbal parallel to James's triad of swift-to-hear, slow-to-speak."
+        },
+        {
+          "source": "Proverbs 29:20",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Do you see a man who is hasty in his words? There is more hope for a fool than for him.",
+          "note": "'Do you see a man who is hasty in his words? There is more hope for a fool than for him.' The warning against hasty speech reinforces James's slow-to-speak exhortation."
+        },
+        {
+          "source": "Sirach 1:22-24",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Unjust wrath can never be justified; For the sway of his wrath is his downfall. A man that is longsuffering will bear for a season, And afterward gladness will spring up to him; He will hide his words for a season, And the lips of many will tell forth his understanding.",
+          "note": "'Unjust anger cannot be justified... a wise man will hold his tongue until the right moment.' Sirach's linkage of controlled anger and restrained speech resonates with James's exhortation on listening, speaking, and wrath.",
+          "contested": true
+        },
+        {
+          "source": "Jeremiah 31:33",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But this is the covenant that I will make with the house of Israel after those days, says Yahweh: I will put my law in their inward parts, and in their heart will I write it; and I will be their God, and they shall be my people:",
+          "note": "The new-covenant law 'written on the heart' resonates faintly with James's 'implanted word which is able to save your souls,' an internalized word effecting salvation. Contested but thematically apt.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.22",
+      "ch": 1,
+      "ref": "1:22-25",
+      "text": "But be doers of the word, and not only hearers, deluding your own selves. For if anyone is a hearer of the word and not a doer, he is like a man looking at his natural face in a mirror; for he sees himself, and goes away, and immediately forgets what kind of man he was. But he who looks into the perfect law of freedom, and continues, not being a hearer who forgets, but a doer of the work, this man will be blessed in what he does.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 30:11-14",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For this commandment which I command you this day is not too hard for you or too distant. It is not in heaven, that you should say, “Who will go up for us to heaven, and bring it to us, and proclaim it to us, that we may do it?” Neither is it beyond the sea, that you should say, “Who will go over the sea for us, and bring it to us, and proclaim it to us, that we may do it?” But the word is very near to you, in your mouth and in your heart, that you may do […]",
+          "note": "Moses insists the commandment is 'not too hard... but very near you, in your mouth and in your heart, so that you can do it.' James's demand to be doers and not merely hearers of the word reflects the deuteronomic insistence that the word is given to be done."
+        },
+        {
+          "source": "Ezekiel 33:31-32",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "They come to you as the people come, and they sit before you as my people, and they hear your words, but don’t do them; for with their mouth they show much love, but their heart goes after their gain. Behold, you are to them as a very lovely song of one who has a pleasant voice, and can play well on an instrument; for they hear your words, but they don’t do them.",
+          "note": "The people 'hear your words, but they will not do them'; the prophet is to them like a pleasant singer they enjoy yet disobey. James's hearers-who-are-not-doers, self-deluded, directly mirrors Ezekiel's indictment of those who listen without obeying."
+        },
+        {
+          "source": "Leviticus 19:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "The doing of the law that culminates in love of neighbor (cited by James in 2:8) stands behind his 'perfect law of freedom' that demands enactment, not mere hearing. Faint anticipatory link.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 19:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh’s law is perfect, restoring the soul. Yahweh’s testimony is sure, making wise the simple.",
+          "note": "'The law of the Lord is perfect, reviving the soul.' James's 'perfect law of freedom' that blesses the doer draws on the Psalter's praise of the perfect, soul-restoring Torah."
+        },
+        {
+          "source": "Deuteronomy 4:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Now, Israel, listen to the statutes and to the ordinances, which I teach you, to do them; that you may live, and go in and possess the land which Yahweh, the God of your fathers, gives you.",
+          "note": "'Listen to the statutes and rules that I am teaching you, and do them, that you may live.' The hear-and-do-that-you-may-live formula resonates with James's promise that the doer of the work will be blessed.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 19:20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "All wisdom is the fear of the Lord; And in all wisdom is the doing of the law.",
+          "note": "'All wisdom is the fear of the Lord, and in all wisdom there is the fulfilment of the law.' Sirach's pairing of wisdom with doing the law resonates faintly with James's doer-of-the-word who is blessed.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.26",
+      "ch": 1,
+      "ref": "1:26-27",
+      "text": "If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless. Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.",
+      "echoes": [
+        {
+          "source": "Psalm 39:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I said, “I will watch my ways, so that I don’t sin with my tongue. I will keep my mouth with a bridle while the wicked is before me.”",
+          "note": "'I will guard my ways, that I may not sin with my tongue; I will guard my mouth with a muzzle.' James's image of bridling the tongue as the mark of true religion draws directly on the psalmist's resolve to muzzle his speech."
+        },
+        {
+          "source": "Psalm 141:3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Set a watch, Yahweh, before my mouth. Keep the door of my lips.",
+          "note": "'Set a guard, O Lord, over my mouth; keep watch over the door of my lips.' The plea for divine restraint of the tongue parallels James's demand that the religious man bridle his tongue lest his religion be worthless."
+        },
+        {
+          "source": "Proverbs 21:23",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Whoever guards his mouth and his tongue keeps his soul from troubles.",
+          "note": "'Whoever keeps his mouth and his tongue keeps himself out of trouble.' The Wisdom commendation of tongue-control reinforces James's linkage of bridled speech with genuine piety."
+        },
+        {
+          "source": "Isaiah 1:17",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Learn to do well. Seek justice. Relieve the oppressed. Judge the fatherless. Plead for the widow.”",
+          "note": "'Bring justice to the fatherless, plead the widow's cause.' James's definition of pure religion as visiting orphans and widows in their affliction restates Isaiah's prophetic summons to care for the fatherless and the widow as the true worship God desires."
+        },
+        {
+          "source": "Deuteronomy 10:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He does execute justice for the fatherless and widow, and loves the foreigner, in giving him food and clothing.",
+          "note": "God 'executes justice for the fatherless and the widow.' James grounds pure religion in imitating the God who defends orphans and widows, a defining mark of Israel's covenant ethics."
+        },
+        {
+          "source": "Exodus 22:22-24",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“You shall not take advantage of any widow or fatherless child. If you take advantage of them at all, and they cry at all to me, I will surely hear their cry; and my wrath will grow hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.",
+          "note": "'You shall not mistreat any widow or fatherless child.' The covenant law's protection of widows and orphans, with divine wrath against their oppressors, undergirds James's identification of their care as undefiled religion."
+        },
+        {
+          "source": "Sirach 35:14-19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He will in no wise despise the supplication of the fatherless; Nor the widow, when she pours out her tale. Do not the tears of the widow run down her cheek? And is not her cry against him that has caused them to fall? He that serves God according to his good pleasure shall be accepted, And his supplication shall reach to the clouds. The prayer of the humble pierces the clouds; And till it come near, he will not be comforted; And he will not depart, till […]",
+          "note": "'He will not ignore the supplication of the orphan, nor the widow when she pours out her complaint.' Sirach's portrait of God hearing the cry of orphans and widows reinforces James's standard of true religion as their care."
+        },
+        {
+          "source": "Isaiah 1:10-17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Hear Yahweh’s word, you rulers of Sodom! Listen to the law of our God, you people of Gomorrah! “What are the multitude of your sacrifices to me?”, says Yahweh. “I have had enough of the burnt offerings of rams, and the fat of fed animals. I don’t delight in the blood of bulls, or of lambs, or of male goats. When you come to appear before me, who has required this at your hand, to trample my courts? Bring no more vain offerings. Incense is an abomination […]",
+          "note": "Isaiah rejects cultic observance divorced from justice, calling instead to 'wash yourselves... cease to do evil' and defend the oppressed. James's contrast of worthless versus pure-and-undefiled religion enacts this prophetic critique of empty ritual."
+        },
+        {
+          "source": "Zechariah 7:9-10",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“Thus has Yahweh of Armies spoken, saying, ‘Execute true judgment, and show kindness and compassion every man to his brother. Don’t oppress the widow, nor the fatherless, the foreigner, nor the poor; and let none of you devise evil against his brother in your heart.’",
+          "note": "'Do not oppress the widow, the fatherless, the sojourner, or the poor.' Zechariah's prophetic restatement of covenant care for the vulnerable resonates with James's measure of authentic religion."
+        },
+        {
+          "source": "Psalm 68:5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "A father of the fatherless, and a defender of the widows, is God in his holy habitation.",
+          "note": "'Father of the fatherless and protector of widows is God in his holy habitation.' James's God-and-Father before whom pure religion attends to orphans and widows echoes this Psalmic title for the divine defender of the vulnerable."
+        },
+        {
+          "source": "Isaiah 52:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Depart, depart, go out from there, touch no unclean thing! Go out of the midst of her! Cleanse yourselves, you who bear the vessels of Yahweh.",
+          "note": "'Touch no unclean thing... purify yourselves.' James's call to keep oneself 'unstained by the world' resonates faintly with the prophetic summons to ritual and moral purity over against defiling contact.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 4:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Be as a father to the fatherless, And instead of a husband to their mother: So will you be as a son of the Most High, And he will love you more than your mother does.",
+          "note": "'Be a father to orphans, and like a husband to their mother.' Sirach's exhortation to care for orphans and widows resonates with James's standard of pure religion, reinforcing the Wisdom tradition's mercy ethic.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "ch": 2,
+      "ref": "2:1-7",
+      "text": "My brothers, don’t hold the faith of our Lord Jesus Christ of glory with partiality. For if a man with a gold ring, in fine clothing, comes into your synagogue, and a poor man in filthy clothing also comes in; and you pay special attention to him who wears the fine clothing, and say, “Sit here in a good place”; and you tell the poor man, “Stand there,” or “Sit by my footstool”; haven’t you shown partiality among yourselves, and become judges with evil thoughts? Listen, my beloved brothers. Didn’t God choose those who are poor in this world to be rich in faith, and heirs of the Kingdom which he promised to those who love him? But you have dishonored the poor man. Don’t the rich oppress you, and personally drag you before the courts? Don’t they blaspheme the honorable name by which you are called?",
+      "echoes": [
+        {
+          "source": "Leviticus 19:15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall do no injustice in judgment. You shall not be partial to the poor, nor show favoritism to the great; but you shall judge your neighbor in righteousness.",
+          "note": "James condemns showing partiality (prosopolempsia) in the assembly. Leviticus 19:15 is the foundational prohibition: 'you shall not be partial to the poor or defer to the great, but in righteousness shall you judge your neighbor.' The verbal and thematic correspondence is strong, and the same chapter supplies the love-command James quotes in v.8."
+        },
+        {
+          "source": "Deuteronomy 1:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall not show partiality in judgment; you shall hear the small and the great alike. You shall not be afraid of the face of man, for the judgment is God’s. The case that is too hard for you, you shall bring to me, and I will hear it.”",
+          "note": "Deuteronomy 1:17 enjoins judges to 'not be partial in judgment; you shall hear the small and the great alike.' James's scene of seating the rich well and the poor poorly enacts the very partiality this Mosaic charge to judges forbids. Volume and recurrence support the echo though no quotation is made."
+        },
+        {
+          "source": "Deuteronomy 16:19",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise, and perverts the words of the righteous.",
+          "note": "'You shall not pervert justice; you shall not be partial' reinforces the impartiality motif standing behind James's rebuke of favoritism toward the rich. Part of the cluster of Deuteronomic impartiality texts; less verbally distinctive than Leviticus 19:15."
+        },
+        {
+          "source": "Proverbs 24:23",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "These also are sayings of the wise. To show partiality in judgment is not good.",
+          "note": "'It is not good to show partiality in judgment.' James's wisdom idiom and concern with favoritism in judging ('judges with evil thoughts,' v.4) resonates with this proverb. Conceptual echo within the impartiality tradition."
+        },
+        {
+          "source": "1 Samuel 2:8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He raises up the poor out of the dust. He lifts up the needy from the dunghill, To make them sit with princes, and inherit the throne of glory. For the pillars of the earth are Yahweh’s. He has set the world on them.",
+          "note": "Hannah's song: God 'raises up the poor from the dust... to make them sit with princes and inherit a seat of honor.' James 2:5 says God chose the poor to be heirs of the kingdom, reversing the world's status-seating. The seating/inheritance reversal aligns closely with James's argument."
+        },
+        {
+          "source": "Psalm 113:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He raises up the poor out of the dust. Lifts up the needy from the ash heap;",
+          "note": "'He raises the poor from the dust and lifts the needy from the ash heap, to make them sit with princes.' James 2:5's election of the poor to royal inheritance draws on this reversal-of-status theme common to the Psalms of the anawim."
+        },
+        {
+          "source": "Proverbs 14:21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He who despises his neighbor sins, but blessed is he who has pity on the poor.",
+          "note": "'Whoever despises his neighbor is a sinner, but blessed is he who is generous to the poor.' James rebukes those who 'dishonored the poor man' (v.6). Faint wisdom-tradition echo of honoring rather than shaming the poor.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 22:22-23",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Don’t exploit the poor, because he is poor; and don’t crush the needy in court; for Yahweh will plead their case, and plunder the life of those who plunder them.",
+          "note": "'Do not rob the poor... for the LORD will plead their cause.' James 2:6 describes the rich who oppress and 'drag you before the courts.' Faint echo of the oppressed-poor / oppressor-rich topos; the Lord's vindication is implied in James's eschatology.",
+          "contested": true
+        },
+        {
+          "source": "Amos 2:6-7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus says Yahweh: “For three transgressions of Israel, yes, for four, I will not turn away its punishment; because they have sold the righteous for silver, and the needy for a pair of shoes; They trample on the dust of the earth on the head of the poor, and deny justice to the oppressed; and a man and his father use the same maiden, to profane my holy name;",
+          "note": "Amos indicts those who 'sell the righteous for silver and the needy for a pair of sandals... trample the head of the poor.' James's portrait of rich oppressors dragging the poor to court stands in this prophetic stream of social critique. Conceptual, not verbal.",
+          "contested": true
+        },
+        {
+          "source": "Amos 8:4-6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Hear this, you who desire to swallow up the needy, and cause the poor of the land to fail, Saying, ‘When will the new moon be gone, that we may sell grain? And the Sabbath, that we may market wheat, making the ephah small, and the shekel large, and dealing falsely with balances of deceit; that we may buy the poor for silver, and the needy for a pair of shoes, and sell the sweepings with the wheat?’”",
+          "note": "Amos condemns those who 'trample on the needy and bring the poor of the land to an end.' James 2:6's oppressing rich participate in the same prophetic denunciation of economic exploitation. Faint thematic resonance.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 24:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The son of the Israelite woman blasphemed the Name, and cursed; and they brought him to Moses. His mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan.",
+          "note": "The blasphemer who 'blasphemed the Name' (ha-Shem) in Leviticus 24 underlies Jewish reverence for the divine Name. James 2:7 says the rich 'blaspheme the honorable name by which you are called.' Faint allusion to the gravity of blaspheming the Name invoked over God's people.",
+          "contested": true
+        },
+        {
+          "source": "Amos 9:12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "that they may possess the remnant of Edom, and all the nations who are called by my name,” says Yahweh who does this.",
+          "note": "'...all the nations who are called by my name' (cited at Acts 15:17 in the Jacobite context). James 2:7's 'honorable name by which you are called' evokes the biblical idiom of bearing God's name. Faint and contested as a direct source.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 28:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "All the peoples of the earth shall see that you are called by Yahweh’s name, and they will be afraid of you.",
+          "note": "'All the peoples of the earth shall see that you are called by the name of the LORD.' James 2:7's language of bearing the honorable name draws on this covenantal idiom of God's name invoked over his people. Faint background echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.8",
+      "ch": 2,
+      "ref": "2:8-13",
+      "text": "However, if you fulfill the royal law, according to the Scripture, “You shall love your neighbor as yourself,” you do well. But if you show partiality, you commit sin, being convicted by the law as transgressors. For whoever keeps the whole law, and yet stumbles in one point, he has become guilty of all. For he who said, “Do not commit adultery,” also said, “Do not commit murder.” Now if you do not commit adultery, but murder, you have become a transgressor of the law. So speak, and so do, as men who are to be judged by a law of freedom. For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:18",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "Explicit quotation introduced as 'the Scripture': 'You shall love your neighbor as yourself.' James names this the 'royal law.' This is a formal citation of Leviticus 19:18, the same Holiness Code chapter that grounds his impartiality argument."
+        },
+        {
+          "source": "Exodus 20:13",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "“You shall not murder.",
+          "note": "James cites 'Do not commit murder' as the word of the lawgiver (v.11). This is the Decalogue commandment, Exodus 20:13. Quoted alongside the adultery commandment to argue the law's unity."
+        },
+        {
+          "source": "Exodus 20:14",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "“You shall not commit adultery.",
+          "note": "James cites 'Do not commit adultery' (v.11) from the Decalogue, Exodus 20:14. The pairing of adultery and murder is a formal scriptural citation establishing that breaking one point makes one a transgressor of all."
+        },
+        {
+          "source": "Deuteronomy 5:17",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "“You shall not murder.",
+          "note": "The Decalogue's murder prohibition also appears at Deuteronomy 5:17; James's citation draws on the Decalogue in either form. Listed as an alternate source for the murder commandment quoted in v.11.",
+          "altSource": "Exodus 20:13"
+        },
+        {
+          "source": "Deuteronomy 5:18",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "“You shall not commit adultery.",
+          "note": "The adultery prohibition also stands at Deuteronomy 5:18; James's quotation reflects the Decalogue. Provided as the Deuteronomic parallel to the Exodus citation in v.11.",
+          "altSource": "Exodus 20:14"
+        },
+        {
+          "source": "Proverbs 21:13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Whoever stops his ears at the cry of the poor, he will also cry out, but shall not be heard.",
+          "note": "'Whoever closes his ear to the cry of the poor will himself call out and not be answered.' James 2:13 says 'judgment is without mercy to one who has shown no mercy.' The lex talionis of mercy/mercilessness is closely paralleled."
+        },
+        {
+          "source": "Micah 6:8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He has shown you, O man, what is good. What does Yahweh require of you, but to act justly, to love mercy, and to walk humbly with your God?",
+          "note": "'...to do justice, and to love mercy (hesed), and to walk humbly with your God.' James's exaltation of mercy as triumphing over judgment (v.13) draws on the prophetic prizing of mercy as the heart of covenant obedience."
+        },
+        {
+          "source": "Zechariah 7:9-10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Thus has Yahweh of Armies spoken, saying, ‘Execute true judgment, and show kindness and compassion every man to his brother. Don’t oppress the widow, nor the fatherless, the foreigner, nor the poor; and let none of you devise evil against his brother in your heart.’",
+          "note": "'Render true judgments, show kindness and mercy... do not oppress the widow, the fatherless, the sojourner, or the poor.' James links impartial judgment with mercy toward the poor in the same breath. Strong thematic correspondence."
+        },
+        {
+          "source": "Sirach 28:1-4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He that takes vengeance will find vengeance from the Lord; And he will surely make firm his sins. Forgive your neighbor the hurt that he has done you; And then your sins will be pardoned when you pray. Man cherisheth anger against man; And does he seek healing from the Lord? Upon a man like himself he has no mercy; And does he make supplication for his own sins?",
+          "note": "Ben Sira: 'Forgive your neighbor the wrong he has done, and then your sins will be pardoned... Does anyone harbor anger against another, and expect healing from the Lord?' James 2:13's principle that the merciless receive merciless judgment closely parallels this deuterocanonical wisdom on reciprocal mercy."
+        },
+        {
+          "source": "Tobit 4:7-11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Give alms from your possessions. When you give alms, don’t let your eye be envious. Don’t turn away your face from any poor man, and the face of God won’t be turned away from you. As your possessions are, give alms of it according to your abundance. If you have little, don’t be afraid to give alms according to that little; for you lay up a good treasure for yourself against the day of necessity; because alms-giving delivers from death, and doesn’t allow […]",
+          "note": "Tobit's almsgiving counsel: 'give alms from your possessions... almsgiving delivers from death.' James's coupling of mercy/almsgiving with deliverance at judgment (v.13) resonates with this deuterocanonical theology of merciful deeds. Conceptual echo."
+        },
+        {
+          "source": "Proverbs 19:17",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He who has pity on the poor lends to Yahweh; he will reward him.",
+          "note": "'Whoever is generous to the poor lends to the LORD, and he will repay him for his deed.' Background to James's mercy-rewarded-at-judgment principle. Faint wisdom echo within the mercy cluster.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.14",
+      "ch": 2,
+      "ref": "2:14-26",
+      "text": "What good is it, my brothers, if a man says he has faith, but has no works? Can faith save him? And if a brother or sister is naked and in lack of daily food, and one of you tells them, “Go in peace, be warmed and filled”; and yet you didn’t give them the things the body needs, what good is it? Even so faith, if it has no works, is dead in itself. Yes, a man will say, “You have faith, and I have works.” Show me your faith without works, and I by my works will show you my faith. You believe that God is one. You do well. The demons also believe, and shudder. But do you want to know, vain man, that faith apart from works is dead? Wasn’t Abraham our father justified by works, in that he offered up Isaac his son on the altar? You see that faith worked with his works, and by works faith was perfected; and the Scripture was fulfilled which says, “Abraham believed God, and it was accounted to him as righteousness”; and he was called the friend of God. You see then that by works, a man is justified, and not only by faith. In the same way, wasn’t Rahab the prostitute also justified by works, in that she received the messengers, and sent them out another way? For as the body apart from the spirit is dead, even so faith apart from works is dead.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 6:4",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Hear, Israel: Yahweh is our God. Yahweh is one.",
+          "note": "'You believe that God is one' (v.19) cites the Shema, Deuteronomy 6:4, 'Hear, O Israel: the LORD our God, the LORD is one.' James affirms monotheism then notes even demons hold it and shudder, making the point that bare belief without works is insufficient."
+        },
+        {
+          "source": "Genesis 22:9-12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "They came to the place which God had told him of. Abraham built the altar there, and laid the wood in order, bound Isaac his son, and laid him on the altar, on the wood. Abraham stretched out his hand, and took the knife to kill his son. Yahweh’s angel called to him out of the sky, and said, “Abraham, Abraham!” He said, “Here I am.” He said, “Don’t lay your hand on the boy, neither do anything to him. For now I know that you fear God, since you have not […]",
+          "note": "'Abraham our father justified by works, in that he offered up Isaac his son on the altar' (v.21) refers directly to the Aqedah, Genesis 22:9-12, where Abraham binds Isaac on the altar and the angel stays his hand. The binding is James's proof that Abraham's faith was completed by works."
+        },
+        {
+          "source": "Genesis 15:6",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "He believed in Yahweh; and he reckoned it to him for righteousness.",
+          "note": "Formal citation: 'the Scripture was fulfilled which says, \"Abraham believed God, and it was accounted to him as righteousness\"' (v.23). This is a verbatim quotation of Genesis 15:6, here read as fulfilled in the Aqedah."
+        },
+        {
+          "source": "Isaiah 41:8",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“But you, Israel, my servant, Jacob whom I have chosen, the seed of Abraham my friend,",
+          "note": "'He was called the friend of God' (v.23). Isaiah 41:8 calls Israel the offspring of 'Abraham my friend' (LXX: 'whom I loved'). This title for Abraham, not stated in Genesis, is James's scriptural warrant for naming him God's friend."
+        },
+        {
+          "source": "2 Chronicles 20:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Didn’t you, our God, drive out the inhabitants of this land before your people Israel, and give it to the seed of Abraham your friend forever?",
+          "note": "Jehoshaphat's prayer recalls God giving the land to the descendants of 'Abraham your friend forever.' Together with Isaiah 41:8 this is the scriptural basis for James 2:23's 'friend of God' epithet. Listed as parallel source.",
+          "altSource": "Isaiah 41:8"
+        },
+        {
+          "source": "Joshua 2:1-21",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Joshua the son of Nun secretly sent two men out of Shittim as spies, saying, “Go, view the land, including Jericho.” They went and came into the house of a prostitute whose name was Rahab, and slept there. The king of Jericho was told, “Behold, men of the children of Israel came in here tonight to spy out the land.” The king of Jericho sent to Rahab, saying, “Bring out the men who have come to you, who have entered into your house; for they have come to […]",
+          "note": "'Rahab the prostitute also justified by works, in that she received the messengers, and sent them out another way' (v.25) refers to Joshua 2, where Rahab hides the Israelite spies and lets them down by another route. Her hospitable, faith-driven deed is James's second exemplum of justifying works."
+        },
+        {
+          "source": "Joshua 6:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The city shall be devoted, even it and all that is in it, to Yahweh. Only Rahab the prostitute shall live, she and all who are with her in the house, because she hid the messengers that we sent.",
+          "note": "Joshua 6:17,22-25 records Rahab and her household being spared at Jericho's fall because she hid the messengers. James 2:25's commendation of Rahab presupposes this deliverance as the vindication of her works. Supplies the outcome of the act James cites."
+        },
+        {
+          "source": "Genesis 18:17-19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh said, “Will I hide from Abraham what I do, since Abraham has surely become a great and mighty nation, and all the nations of the earth will be blessed in him? For I have known him, to the end that he may command his children and his household after him, that they may keep the way of Yahweh, to do righteousness and justice; to the end that Yahweh may bring on Abraham that which he has spoken of him.”",
+          "note": "God's deliberation, 'Shall I hide from Abraham what I am about to do?', reflects the intimacy underlying the 'friend of God' tradition. Faint background echo to James 2:23's friendship motif; the explicit title comes from Isaiah/Chronicles.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 26:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "because Abraham obeyed my voice, and kept my requirements, my commandments, my statutes, and my laws.”",
+          "note": "'Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws.' This obedience tradition supports James's claim that Abraham's faith was perfected by works (v.22). Conceptual echo of Abraham as the man whose faith issued in obedience.",
+          "contested": true
+        },
+        {
+          "source": "1 Maccabees 2:52",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Was not Abraham found faithful in temptation, and it was reckoned to him for righteousness?",
+          "note": "Mattathias's deathbed exhortation: 'Was not Abraham found faithful when tested, and it was reckoned to him as righteousness?' This deuterocanonical text already fuses Genesis 15:6 with the Aqedah-as-test (Genesis 22), exactly the synthesis James makes in vv.21-23. Strong evidence James draws on this interpretive tradition."
+        },
+        {
+          "source": "Sirach 44:19-21",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Abraham was a great father of a multitude of nations; And there was none found like him in glory; Who kept the law of the Most High, And was taken into covenant with him: In his flesh he established the covenant; And when he was proved, he was found faithful. Therefore he assured him by an oath, That the nations should be blessed in his seed; That he would multiply him as the dust of the earth, And exalt his seed as the stars, And cause them to inherit […]",
+          "note": "Ben Sira's praise of Abraham: 'kept the law of the Most High... when tested he was found faithful,' linking covenant, testing, and reckoned righteousness. James's works-completing-faith reading of Abraham stands in this Second Temple tradition. Deuterocanonical interpretive parallel."
+        },
+        {
+          "source": "Genesis 22:16-18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "and said, “I have sworn by myself, says Yahweh, because you have done this thing, and have not withheld your son, your only son, that I will bless you greatly, and I will multiply your seed greatly like the stars of the heavens, and like the sand which is on the seashore. Your seed will possess the gate of his enemies. All the nations of the earth will be blessed by your seed, because you have obeyed my voice.”",
+          "note": "The angel's oath after the binding, 'because you have done this... I will surely bless you,' grounds the reward of Abraham's obedient act. Reinforces James's point (v.22) that faith was perfected through the work of offering Isaac. Faint extension of the Aqedah citation.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 58:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Isn’t it to distribute your bread to the hungry, and that you bring the poor who are cast out to your house? When you see the naked, that you cover him; and that you not hide yourself from your own flesh?",
+          "note": "True fasting is 'to share your bread with the hungry... when you see the naked, to cover him.' James 2:15-16's example of a brother 'naked and in lack of daily food' whom one fails to clothe and feed echoes this prophetic critique of empty piety divorced from deeds of mercy. Faint thematic echo.",
+          "contested": true
+        },
+        {
+          "source": "Job 31:19-20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "if I have seen any perish for want of clothing, or that the needy had no covering; if his heart hasn’t blessed me, if he hasn’t been warmed with my sheep’s fleece;",
+          "note": "Job's defense: 'if I have seen anyone perish for lack of clothing... if his body has not blessed me for warming him with the fleece of my sheep.' James's hollow 'be warmed and filled' (v.16) without provision inverts Job's actual care for the naked and cold. Faint wisdom echo.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 15:7-8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "If a poor man, one of your brothers, is with you within any of your gates in your land which Yahweh your God gives you, you shall not harden your heart, nor shut your hand from your poor brother; but you shall surely open your hand to him, and shall surely lend him sufficient for his need, which he lacks.",
+          "note": "'You shall not harden your heart or shut your hand against your poor brother, but open your hand to him.' James 2:15-16 rebukes the empty word that withholds 'the things the body needs' from a needy brother. Faint Torah echo of obligatory open-handedness.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.1",
+      "ch": 3,
+      "ref": "3:1-2",
+      "text": "Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment. For in many things we all stumble. If anyone doesn’t stumble in word, the same is a perfect man, able to bridle the whole body also.",
+      "echoes": [
+        {
+          "source": "Proverbs 10:19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "In the multitude of words there is no lack of disobedience, but he who restrains his lips does wisely.",
+          "note": "James's warning that teachers face a heavier judgment and that the one who does not stumble in word is perfect rests on the wisdom axiom that 'when words are many, transgression is not lacking.' Volume is conceptual rather than verbal, but the coherence with James's whole tongue-theme is high."
+        },
+        {
+          "source": "Sirach 14:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Blessed is the man that has not slipped with his mouth, And is not pricked with sorrow for sins.",
+          "note": "Ben Sira's beatitude, 'Blessed is the one who does not blunder with his lips,' is the nearest Second-Temple parallel to 'if anyone does not stumble in word, he is a perfect man.' Recurrence in the sapiential stream James draws on raises the confidence.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.2",
+      "ch": 3,
+      "ref": "3:3-5",
+      "text": "Indeed, we put bits into the horses’ mouths so that they may obey us, and we guide their whole body. Behold, the ships also, though they are so big and are driven by fierce winds, are yet guided by a very small rudder, wherever the pilot desires. So the tongue is also a little member, and boasts great things. See how a small fire can spread to a large forest!",
+      "echoes": [
+        {
+          "source": "Psalm 39:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I said, “I will watch my ways, so that I don’t sin with my tongue. I will keep my mouth with a bridle while the wicked is before me.”",
+          "note": "The image of bridling the mouth/body is voiced in the Psalter: 'I will guard my ways, that I may not sin with my tongue; I will bridle my mouth.' James reuses the same controlling-the-tongue metaphor that the psalm applies to speech, transferring it to the bit-and-bridle figure."
+        },
+        {
+          "source": "Psalm 32:9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Don’t be like the horse, or like the mule, which have no understanding, who are controlled by bit and bridle, or else they will not come near to you.",
+          "note": "The horse curbed with bit and bridle so it will not stray is the psalm's image for the need of restraint; James literalizes it ('we put bits into the horses' mouths') to argue the small member governs the whole body."
+        }
+      ]
+    },
+    {
+      "id": "3.3",
+      "ch": 3,
+      "ref": "3:6-8",
+      "text": "And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna. For every kind of animal, bird, creeping thing, and thing in the sea, is tamed, and has been tamed by mankind. But nobody can tame the tongue. It is a restless evil, full of deadly poison.",
+      "echoes": [
+        {
+          "source": "Sirach 28:13-26",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Curse the whisperer and double-tongued: For he has destroyed many that were at peace. A third person’s tongue has shaken many, And dispersed them from nation to nation; And it has pulled down strong cities, And overthrown the houses of great men. A third person’s tongue has cast out brave women, And deprived them of their labors. He that hearkens to it will not find rest, Nor shall he dwell quietly. The stroke of a whip makes a mark in the flesh; But the […]",
+          "note": "Ben Sira's extended denunciation of 'the third tongue' that 'has destroyed strong cities' and is a scourge of fire is the closest antecedent to James's 'the tongue is a fire… a restless evil.' The shared fire-imagery and the theme of the untamable, ruinous tongue make this the controlling Second-Temple subtext."
+        },
+        {
+          "source": "Proverbs 16:27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "A worthless man devises mischief. His speech is like a scorching fire.",
+          "note": "'A worthless man… his speech is like a scorching fire' supplies the proverbial root of James's tongue-as-fire. The volume is moderate but the figure is distinctive."
+        },
+        {
+          "source": "Psalm 140:3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "They have sharpened their tongues like a serpent. Viper’s poison is under their lips. Selah.",
+          "note": "'They make their tongue sharp as a serpent's; adder's poison is under their lips' stands behind James's 'full of deadly poison.' The pairing of the tongue with serpent venom is rare enough to mark a genuine echo."
+        },
+        {
+          "source": "Psalm 120:2-4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Deliver my soul, Yahweh, from lying lips, from a deceitful tongue. What will be given to you, and what will be done more to you, you deceitful tongue? Sharp arrows of the mighty, with coals of juniper.",
+          "note": "The deceitful tongue answered with 'glowing coals of the broom tree' shares the tongue-and-fire association, a fainter contributory echo.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 1:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”",
+          "note": "'Every kind of animal, bird, creeping thing, and sea creature is tamed by mankind' recalls the creation grant of dominion over the beasts; James turns the trope ironically — humanity tames the beasts but cannot tame its own tongue.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.4",
+      "ch": 3,
+      "ref": "3:9-12",
+      "text": "With it we bless our God and Father, and with it we curse men, who are made in the image of God. Out of the same mouth comes blessing and cursing. My brothers, these things ought not to be so. Does a spring send out from the same opening fresh and bitter water? Can a fig tree, my brothers, yield olives, or a vine figs? Thus no spring yields both salt water and fresh water.",
+      "echoes": [
+        {
+          "source": "Genesis 1:26-27",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "God said, “Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.” God created man in his own image. In God’s image he created him; male and female he created them.",
+          "note": "Cursing 'men, who are made in the image of God' depends directly on the creation of humanity in God's image; the inconsistency of blessing God and cursing his image-bearers is the moral force of the passage."
+        },
+        {
+          "source": "Genesis 5:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "This is the book of the generations of Adam. In the day that God created man, he made him in God’s likeness.",
+          "note": "'In the likeness of God he made him' reinforces the image-of-God ground; Genesis 9:6 ('whoever sheds man's blood… for God made man in his own image') is the same principle applied to harming the image-bearer.",
+          "altSource": "Genesis 9:6"
+        },
+        {
+          "source": "Sirach 27:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The fruit of a tree declares the husbandry thereof; So is the utterance of the thought of the heart of a man.",
+          "note": "'The fruit discloses the cultivation of a tree; so the expression of a thought discloses the heart' is the sapiential source of James's fig-tree/vine and spring analogies, where the source determines the fruit."
+        },
+        {
+          "source": "Proverbs 18:21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Death and life are in the power of the tongue; those who love it will eat its fruit.",
+          "note": "'Death and life are in the power of the tongue' undergirds the blessing-and-cursing antithesis as a faint background echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.5",
+      "ch": 3,
+      "ref": "3:13-18",
+      "text": "Who is wise and understanding among you? Let him show by his good conduct that his deeds are done in gentleness of wisdom. But if you have bitter jealousy and selfish ambition in your heart, don’t boast and don’t lie against the truth. This wisdom is not that which comes down from above, but is earthly, sensual, and demonic. For where jealousy and selfish ambition are, there is confusion and every evil deed. But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy. Now the fruit of righteousness is sown in peace by those who make peace.",
+      "echoes": [
+        {
+          "source": "Wisdom 7:22-30",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For she that is the architect of all things taught me, even wisdom. For there is in her a spirit quick of understanding, holy, Alone in kind, manifold, Subtil, freely moving, Clear in utterance, unpolluted, Distinct, unharmed, Loving what is good, keen, unhindered, Beneficent, loving toward man, Stedfast, sure, free from care, All-powerful, all-surveying, And penetrating through all spirits That are quick of understanding, pure, most subtle: For wisdom is […]",
+          "note": "The catalog of wisdom's qualities — 'intelligent, holy, … pure, … beneficent, … unhampered' — is the closest model for James's 'wisdom from above is first pure, then peaceable, gentle… full of mercy and good fruits, impartial and sincere.' The list-form and the heavenly origin of wisdom align closely."
+        },
+        {
+          "source": "Proverbs 2:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For Yahweh gives wisdom. Out of his mouth comes knowledge and understanding.",
+          "note": "'The Lord gives wisdom; from his mouth come knowledge and understanding' grounds James's distinction of a wisdom that 'comes down from above' against an earthly counterfeit."
+        },
+        {
+          "source": "Isaiah 32:17",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "The work of righteousness will be peace; and the effect of righteousness, quietness and confidence forever.",
+          "note": "'The effect of righteousness will be peace' stands directly behind 'the fruit of righteousness is sown in peace by those who make peace,' linking righteousness and shalom as James does."
+        },
+        {
+          "source": "Hosea 10:12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Sow to yourselves in righteousness, reap according to kindness. Break up your fallow ground; for it is time to seek Yahweh, until he comes and rains righteousness on you.",
+          "note": "'Sow for yourselves righteousness; reap steadfast love' supplies the agricultural metaphor of sowing-and-reaping righteousness that James applies to peacemakers."
+        },
+        {
+          "source": "Proverbs 11:18",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Wicked people earn deceitful wages, but one who sows righteousness reaps a sure reward.",
+          "note": "'One who sows righteousness gets a sure reward' (cf. 11:30, 'the fruit of the righteous is a tree of life') reinforces the harvest-of-righteousness figure.",
+          "altSource": "Proverbs 11:30"
+        },
+        {
+          "source": "Sirach 1:1-10",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "All wisdom comes from the Lord, And is with him forever. The sand of the seas, and the drops of rain, And the days of eternity, who shall count? The height of the heaven, and the breadth of the earth, And the deep, and wisdom, who shall search them out? Wisdom has been created before all things, And the understanding of prudence from everlasting. To whom has the root of wisdom been revealed? And who has known her shrewd counsels? There is one wise, […]",
+          "note": "Ben Sira's teaching that all wisdom is from the Lord and poured out on the faithful is the wider sapiential horizon for James's heavenly wisdom.",
+          "contested": true
+        },
+        {
+          "source": "Amos 6:12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Do horses run on the rocky crags? Does one plow there with oxen? But you have turned justice into poison, and the fruit of righteousness into bitterness;",
+          "note": "Amos's complaint that the people 'have turned justice into poison and the fruit of righteousness into wormwood' is the prophetic inverse of James's peaceful harvest of righteousness — a faint contrastive echo.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.1",
+      "ch": 4,
+      "ref": "4:1-3",
+      "text": "Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members? You lust, and don’t have. You kill, covet, and can’t obtain. You fight and make war. You don’t have, because you don’t ask. You ask, and don’t receive, because you ask with wrong motives, so that you may spend it for your pleasures.",
+      "echoes": [
+        {
+          "source": "Exodus 20:17",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor’s.”",
+          "note": "'You lust and do not have; you kill, covet, and cannot obtain' traces the chain of conflict to covetous desire, the disorder the tenth commandment forbids. The volume is thematic but coheres with James's diagnosis of war from within."
+        },
+        {
+          "source": "Genesis 4:5-8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "but he didn’t respect Cain and his offering. Cain was very angry, and the expression on his face fell. Yahweh said to Cain, “Why are you angry? Why has the expression of your face fallen? If you do well, won’t it be lifted up? If you don’t do well, sin crouches at the door. Its desire is for you, but you are to rule over it.” Cain said to Abel, his brother, “Let’s go into the field.” While they were in the field, Cain rose up against Abel, his brother, […]",
+          "note": "The progression from frustrated desire to murder ('you kill, covet') echoes Cain, whose envy of his brother led to the first killing; James 3-4 elsewhere leans on the genealogy of sin from desire.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.2",
+      "ch": 4,
+      "ref": "4:4-6",
+      "text": "You adulterers and adulteresses, don’t you know that friendship with the world is hostility toward God? Whoever therefore wants to be a friend of the world makes himself an enemy of God. Or do you think that the Scripture says in vain, “The Spirit who lives in us yearns jealously”? But he gives more grace. Therefore it says, “God resists the proud, but gives grace to the humble.”",
+      "echoes": [
+        {
+          "source": "Hosea 1-3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh’s word that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel. When Yahweh spoke at first by Hosea, Yahweh said to Hosea, “Go, take for yourself a wife of prostitution and children of unfaithfulness; for the land commits great adultery, forsaking Yahweh.” So he went and took Gomer the daughter of Diblaim; and she conceived, and bore him a […]",
+          "note": "'You adulterers and adulteresses! friendship with the world is hostility toward God' deploys the prophetic figure of Israel's covenant-breaking as spiritual adultery, of which Hosea's marriage to Gomer is the paradigm. The single vocative 'adulteresses' presupposes the whole prophetic marriage-metaphor."
+        },
+        {
+          "source": "Exodus 20:5",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "you shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and on the fourth generation of those who hate me,",
+          "note": "'The Spirit who dwells in us yearns jealously' rests on the self-revelation of the LORD as 'a jealous God'; the divine jealousy that brooks no rival is exactly what makes friendship with the world enmity. Exodus 34:14 ('the LORD, whose name is Jealous') is the same datum.",
+          "altSource": "Exodus 34:14"
+        },
+        {
+          "source": "Proverbs 3:34",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "Surely he mocks the mockers, but he gives grace to the humble.",
+          "note": "James cites it with a formula ('therefore it says'): 'God opposes the proud but gives grace to the humble' reproduces the Septuagint of Proverbs 3:34 nearly verbatim (the Greek reads 'the Lord opposes the arrogant'). The same verse is cited at 1 Peter 5:5.",
+          "lxxText": "The Lord resists the proud; but he gives grace to the humble."
+        },
+        {
+          "source": "Deuteronomy 32:21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "They have moved me to jealousy with that which is not God. They have provoked me to anger with their vanities. I will move them to jealousy with those who are not a people. I will provoke them to anger with a foolish nation.",
+          "note": "The Song of Moses, where Israel 'made me jealous with what is no god,' is part of the jealousy-of-God background to v.5.",
+          "contested": true
+        },
+        {
+          "source": "Zechariah 8:2",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus says Yahweh of Armies: “I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.”",
+          "note": "'I am jealous for Zion with great jealousy' supplies a prophetic restatement of the divine jealousy James invokes for the indwelling Spirit.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "4.3",
+      "ch": 4,
+      "ref": "4:7-10",
+      "text": "Be subject therefore to God. But resist the devil, and he will flee from you. Draw near to God, and he will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded. Lament, mourn, and weep. Let your laughter be turned to mourning, and your joy to gloom. Humble yourselves in the sight of the Lord, and he will exalt you.",
+      "echoes": [
+        {
+          "source": "Zechariah 1:3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Therefore tell them: Thus says Yahweh of Armies: ‘Return to me,’ says Yahweh of Armies, ‘and I will return to you,’ says Yahweh of Armies.",
+          "note": "'Draw near to God, and he will draw near to you' restates the covenant promise 'Return to me… and I will return to you.' The reciprocal-approach formula is distinctive to this prophetic call to repentance."
+        },
+        {
+          "source": "Malachi 3:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "From the days of your fathers you have turned aside from my ordinances, and have not kept them. Return to me, and I will return to you,” says Yahweh of Armies. “But you say, ‘How shall we return?’",
+          "note": "'Return to me, and I will return to you' is the same drawing-near formula; Malachi's setting of repentance and cleansing matches James's summons to sinners and the double-minded."
+        },
+        {
+          "source": "Isaiah 1:16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Wash yourselves, make yourself clean. Put away the evil of your doings from before my eyes. Cease to do evil.",
+          "note": "'Wash yourselves; make yourselves clean' lies behind 'cleanse your hands, you sinners,' the prophetic call to moral purification."
+        },
+        {
+          "source": "Psalm 24:4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He who has clean hands and a pure heart; who has not lifted up his soul to falsehood, and has not sworn deceitfully.",
+          "note": "'Clean hands and a pure heart' is the temple-entrance requirement that James fuses with Isaiah: 'cleanse your hands… purify your hearts.' The pairing of hands and heart is verbally close."
+        },
+        {
+          "source": "Job 22:29",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "When they cast down, you shall say, ‘be lifted up.’ He will save the humble person.",
+          "note": "'When they are humbled you say, It is because of pride; but he saves the lowly' anticipates 'humble yourselves before the Lord, and he will exalt you.' The humbling-then-exalting reversal is the same."
+        },
+        {
+          "source": "Proverbs 29:23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "A man’s pride brings him low, but one of lowly spirit gains honor.",
+          "note": "'One's pride will bring him low, but the lowly in spirit will obtain honor' is the proverb James restates as 'humble yourselves before the Lord, and he will exalt you.'"
+        },
+        {
+          "source": "Joel 2:12-13",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“Yet even now,” says Yahweh, “turn to me with all your heart, and with fasting, and with weeping, and with mourning.” Tear your heart, and not your garments, and turn to Yahweh, your God; for he is gracious and merciful, slow to anger, and abundant in loving kindness, and relents from sending calamity.",
+          "note": "'Return to me with all your heart, with fasting, weeping, and mourning' supplies the lament-and-mourning summons ('let your laughter be turned to mourning')."
+        }
+      ]
+    },
+    {
+      "id": "4.4",
+      "ch": 4,
+      "ref": "4:11-12",
+      "text": "Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law, but a judge. Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?",
+      "echoes": [
+        {
+          "source": "Deuteronomy 32:39",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“See now that I myself am he. There is no god with me. I kill and I make alive. I wound and I heal. There is no one who can deliver out of my hand.",
+          "note": "'There is one lawgiver and judge, he who is able to save and to destroy' echoes the Song of Moses, 'I kill and I make alive… there is none who can deliver out of my hand' — the sole divine prerogative over life and death."
+        },
+        {
+          "source": "Isaiah 33:22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For Yahweh is our judge. Yahweh is our lawgiver. Yahweh is our king. He will save us.",
+          "note": "'The LORD is our judge; the LORD is our lawgiver; the LORD is our king; he will save us' is the nearest verbal antecedent to James's 'one lawgiver and judge… able to save.' The triad judge/lawgiver/savior is distinctive."
+        },
+        {
+          "source": "Leviticus 19:16",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“‘You shall not go up and down as a slanderer among your people. “‘You shall not endanger the life of your neighbor. I am Yahweh.",
+          "note": "'You shall not go around as a slanderer among your people' grounds 'do not speak against one another,' part of the same Holiness-Code love-of-neighbor James reads as the royal law."
+        }
+      ]
+    },
+    {
+      "id": "4.5",
+      "ch": 4,
+      "ref": "4:13-17",
+      "text": "Come now, you who say, “Today or tomorrow let’s go into this city, and spend a year there, trade, and make a profit.” Whereas you don’t know what your life will be like tomorrow. For what is your life? For you are a vapor, that appears for a little time, and then vanishes away. For you ought to say, “If the Lord wills, we will both live, and do this or that.” But now you glory in your boasting. All such boasting is evil. To him therefore who knows to do good, and doesn’t do it, to him it is sin.",
+      "echoes": [
+        {
+          "source": "Proverbs 27:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Don’t boast about tomorrow; for you don’t know what a day may bring.",
+          "note": "'Do not boast about tomorrow, for you do not know what a day may bring' is the proverb James expands into the rebuke of merchants who plan a year's trade 'whereas you do not know what tomorrow will bring.'"
+        },
+        {
+          "source": "Psalm 39:5-6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Behold, you have made my days hand breadths. My lifetime is as nothing before you. Surely every man stands as a breath.” Selah. “Surely every man walks like a shadow. Surely they busy themselves in vain. He heaps up, and doesn’t know who shall gather.",
+          "note": "'Man is a mere breath… a man heaps up wealth and does not know who will gather' stands behind 'you are a vapor that appears for a little time and then vanishes,' the breath-brevity figure applied to acquisitive boasting."
+        },
+        {
+          "source": "Sirach 11:18-19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "There is that waxes rich by his wariness and pinching, And this is the portion of his reward: When he says, I have found rest, And now will I eat of my goods; Yet he knows not what time will pass, And he will leave them to others, and die.",
+          "note": "Ben Sira's rich man who says 'I have found rest, now I shall feast on my goods' yet does not know that death is near is the wisdom prototype of James's presumptuous merchant."
+        },
+        {
+          "source": "Job 7:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Oh remember that my life is a breath. My eye shall no more see good.",
+          "note": "'Remember that my life is a breath' contributes to the mist-and-vapor brevity-of-life motif.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.1",
+      "ch": 5,
+      "ref": "5:1-6",
+      "text": "Come now, you rich, weep and howl for your miseries that are coming on you. Your riches are corrupted and your garments are moth-eaten. Your gold and your silver are corroded, and their corrosion will be for a testimony against you, and will eat your flesh like fire. You have laid up your treasure in the last days. Behold, the wages of the laborers who mowed your fields, which you have kept back by fraud, cry out, and the cries of those who reaped have entered into the ears of the Lord of Armies. You have lived delicately on the earth, and taken your pleasure. You have nourished your hearts as in a day of slaughter. You have condemned, you have murdered the righteous one. He doesn’t resist you.",
+      "echoes": [
+        {
+          "source": "Isaiah 13:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Wail; for the day of Yahweh is at hand! It will come as destruction from the Almighty.",
+          "note": "'Come now, you rich, weep and howl' opens with the prophetic woe-cry, 'Wail, for the day of the LORD is near.' The same howling-summons announces eschatological judgment on the complacent."
+        },
+        {
+          "source": "Amos 6:1-7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Woe to those who are at ease in Zion, and to those who are secure on the mountain of Samaria, the notable men of the chief of the nations, to whom the house of Israel come! Go to Calneh, and see; and from there go to Hamath the great; then go down to Gath of the Philistines. are they better than these kingdoms? or is their border greater than your border? Those who put far away the evil day, and cause the seat of violence to come near; Who lie on beds of […]",
+          "note": "Amos's woe on those 'at ease… who lie on beds of ivory and eat lambs from the flock' and 'are not grieved over the ruin of Joseph' is the prophetic template for James's denunciation of the luxurious rich who have 'lived delicately on the earth.' The coherence of theme and the day-of-slaughter motif are strong."
+        },
+        {
+          "source": "Deuteronomy 24:14-15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You shall not oppress a hired servant who is poor and needy, whether he is one of your brothers, or one of the foreigners who are in your land within your gates. In his day you shall give him his hire, neither shall the sun go down on it; for he is poor, and sets his heart on it; lest he cry against you to Yahweh, and it be sin to you.",
+          "note": "'You shall give him his wages… lest he cry against you to the LORD' is the law James indicts the rich for breaking: 'the wages of the laborers you kept back by fraud cry out.' The crying-out-to-God of withheld wages is verbally and legally precise."
+        },
+        {
+          "source": "Leviticus 19:13",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall not oppress your neighbor, nor rob him. “‘The wages of a hired servant shall not remain with you all night until the morning.",
+          "note": "'The wages of a hired worker shall not remain with you all night until the morning' is the Holiness-Code companion to Deuteronomy 24, prohibiting exactly the withholding James condemns."
+        },
+        {
+          "source": "Malachi 3:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against the perjurers, and against those who oppress the hireling in his wages, the widow, and the fatherless, and who deprive the foreigner of justice, and don’t fear me,” says Yahweh of Armies.",
+          "note": "The LORD comes in judgment 'against those who oppress the hired worker in his wages,' a prophetic restatement of the offense and the cry that reaches God."
+        },
+        {
+          "source": "Genesis 4:10",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh said, “What have you done? The voice of your brother’s blood cries to me from the ground.",
+          "note": "'The voice of your brother's blood is crying to me from the ground' is the archetype of injustice that cries out to God, behind 'the cries… have entered the ears of the Lord of Hosts.'"
+        },
+        {
+          "source": "Job 13:28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "though I am decaying like a rotten thing, like a garment that is moth-eaten.",
+          "note": "'Man wastes away like a rotten thing, like a garment that is moth-eaten' contributes the corrosion-and-moth imagery of decaying wealth (cf. Isaiah 50:9; 51:8).",
+          "contested": true,
+          "altSource": "Isaiah 51:8"
+        },
+        {
+          "source": "Wisdom 2:10-20",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Let us oppress the righteous poor; Let us not spare the widow, Nor reverence the hairs of the old man gray for length of years. But let our strength be to us a law of righteousness; For that which is weak is found to be of no service. But let us lie in wait for the righteous man, Because he is of disservice to us, And is contrary to our works, And upbraids us with sins against the law, And lays to our charge sins against our discipline. He professes to […]",
+          "note": "The wicked who 'oppress the righteous poor man' and resolve to 'condemn him to a shameful death' is the Second-Temple righteous-sufferer scene behind 'you have condemned, you have murdered the righteous one. He does not resist you.'"
+        }
+      ]
+    },
+    {
+      "id": "5.2",
+      "ch": 5,
+      "ref": "5:7-11",
+      "text": "Be patient therefore, brothers, until the coming of the Lord. Behold, the farmer waits for the precious fruit of the earth, being patient over it, until it receives the early and late rain. You also be patient. Establish your hearts, for the coming of the Lord is at hand. Don’t grumble, brothers, against one another, so that you won’t be judged. Behold, the judge stands at the door. Take, brothers, for an example of suffering and of patience, the prophets who spoke in the name of the Lord. Behold, we call them blessed who endured. You have heard of the patience of Job, and have seen the Lord in the outcome, and how the Lord is full of compassion and mercy.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 11:14",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "that I will give the rain of your land in its season, the former rain and the latter rain, that you may gather in your grain, your new wine, and your oil.",
+          "note": "'I will give the rain for your land in its season, the early rain and the later rain' is the covenant promise James invokes for the patient farmer who waits 'until it receives the early and late rain.' The early/late-rain pair is distinctive."
+        },
+        {
+          "source": "Joel 2:23",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Be glad then, you children of Zion, and rejoice in Yahweh, your God; for he gives you the former rain in just measure, and he causes the rain to come down for you, the former rain and the latter rain, as before.",
+          "note": "'He has given the early rain… the early and the latter rain' restates the same agricultural promise as a sign of restoration, reinforcing the patient-farmer figure."
+        },
+        {
+          "source": "Jeremiah 5:24",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Neither do they say in their heart, ‘Let us now fear Yahweh our God, who gives rain, both the former and the latter, in its season; who preserves to us the appointed weeks of the harvest.’",
+          "note": "'Let us fear the LORD… who gives the rain in its season, the autumn and the spring rains' supplies a further early/late-rain antecedent."
+        },
+        {
+          "source": "Job 1:21-22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He said, “Naked I came out of my mother’s womb, and naked shall I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.” In all this, Job did not sin, nor charge God with wrongdoing.",
+          "note": "'You have heard of the steadfastness of Job, and seen the outcome of the Lord' depends on the Job narrative — his endurance under loss without sin, and the restored 'outcome' of Job 42. James makes Job the type of patient endurance.",
+          "altSource": "Job 42:10-17"
+        },
+        {
+          "source": "Exodus 34:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh passed by before him, and proclaimed, “Yahweh! Yahweh, a merciful and gracious God, slow to anger, and abundant in loving kindness and truth,",
+          "note": "'How the Lord is full of compassion and mercy' reproduces the LORD's self-revelation, 'merciful and gracious, slow to anger, abounding in steadfast love' — the formula echoed across the Psalter (103:8; 111:4).",
+          "altSource": "Psalm 103:8"
+        }
+      ]
+    },
+    {
+      "id": "5.3",
+      "ch": 5,
+      "ref": "5:12",
+      "text": "But above all things, my brothers, don’t swear, neither by heaven, nor by the earth, nor by any other oath; but let your “yes” be “yes”, and your “no”, “no”; so that you don’t fall into hypocrisy.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall not swear by my name falsely, and profane the name of your God. I am Yahweh.",
+          "note": "'Do not swear… let your yes be yes' rests on 'you shall not swear by my name falsely,' the Holiness-Code regulation of oaths that James radicalizes into avoiding oaths altogether."
+        },
+        {
+          "source": "Deuteronomy 23:21-23",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "When you vow a vow to Yahweh your God, you shall not be slack to pay it; for Yahweh your God will surely require it of you; and it would be sin in you. But if you refrain from making a vow, it shall be no sin in you. You shall observe and do that which has gone out of your lips. Whatever you have vowed to Yahweh your God as a freewill offering, which you have promised with your mouth, you must do.",
+          "note": "The law on vows — that one must perform what is sworn and that refraining from vowing is no sin — is the legal background to James's counsel against swearing."
+        },
+        {
+          "source": "Sirach 23:9-11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Accustom not your mouth to an oath; And be not accustomed to the naming of the Holy One. For as a servant that is continually scourged will not lack a bruise, So he also that swears and names God continually will not be cleansed from sin. A man of many oaths will be filled with iniquity; And the scourge will not depart from his house: If he shall offend, his sin will be upon him; And if he disregard it, he has sinned doubly; And if he has sworn in vain, […]",
+          "note": "'Do not accustom your mouth to oaths… a man who swears many oaths is full of iniquity' is the wisdom counsel against swearing that most closely parallels James.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 66:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus says Yahweh, “Heaven is my throne, and the earth is my footstool: what kind of house will you build to me? and what place shall be my rest?",
+          "note": "'Heaven is my throne and the earth is my footstool' grounds the prohibition of swearing 'by heaven or by earth,' since both belong to God.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "5.4",
+      "ch": 5,
+      "ref": "5:13-18",
+      "text": "Is any among you suffering? Let him pray. Is any cheerful? Let him sing praises. Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord, and the prayer of faith will heal him who is sick, and the Lord will raise him up. If he has committed sins, he will be forgiven. Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective. Elijah was a man with a nature like ours, and he prayed earnestly that it might not rain, and it didn’t rain on the earth for three years and six months. He prayed again, and the sky gave rain, and the earth produced its fruit.",
+      "echoes": [
+        {
+          "source": "1 Kings 17:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Elijah the Tishbite, who was of the foreigners of Gilead, said to Ahab, “As Yahweh, the God of Israel, lives, before whom I stand, there shall not be dew nor rain these years, but according to my word.”",
+          "note": "'Elijah… prayed earnestly that it might not rain, and it did not rain' draws directly on Elijah's word that 'there shall be neither dew nor rain these years, except by my word.' James reads the drought as answered prayer."
+        },
+        {
+          "source": "1 Kings 18:41-45",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Elijah said to Ahab, “Get up, eat and drink; for there is the sound of abundance of rain.” So Ahab went up to eat and to drink. Elijah went up to the top of Carmel; and he bowed himself down on the earth, and put his face between his knees. He said to his servant, “Go up now, look toward the sea.” He went up, and looked, and said, “There is nothing.” He said, “Go again” seven times. On the seventh time, he said, “Behold, a small cloud, like a man’s hand, […]",
+          "note": "'He prayed again, and the sky gave rain' depends on Elijah on Carmel bowing to the ground in prayer until the rain came. The two-part drought-and-rain narrative is the backbone of James's example of the righteous person's prayer."
+        },
+        {
+          "source": "Psalm 34:15",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh’s eyes are toward the righteous. His ears listen to their cry.",
+          "note": "'The eyes of the LORD are toward the righteous, and his ears toward their cry' grounds 'the insistent prayer of a righteous person is powerfully effective.'"
+        },
+        {
+          "source": "Proverbs 15:8",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The sacrifice made by the wicked is an abomination to Yahweh, but the prayer of the upright is his delight.",
+          "note": "'The prayer of the upright is acceptable to him' (cf. 15:29, 'he hears the prayer of the righteous') is the proverbial basis for the efficacy of the righteous person's prayer.",
+          "altSource": "Proverbs 15:29"
+        },
+        {
+          "source": "Sirach 48:1-3",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Also there arose Elijah the prophet as fire, And his word burned like a torch: Who brought a famine upon them, And by his zeal made them few in number. By the word of the Lord he shut up the heaven: Thrice did he thus bring down fire.",
+          "note": "Ben Sira's praise of Elijah, who 'shut up the heavens' and 'brought down fire,' is the Second-Temple reception of the drought-prayer that James presupposes.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 10:12",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Hatred stirs up strife, but love covers all wrongs.",
+          "note": "'Love covers all offenses' stands behind 'he who turns a sinner… will cover a multitude of sins,' the proverb of love covering sin applied to restoring the wanderer."
+        },
+        {
+          "source": "Ezekiel 33:8-9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "When I tell the wicked, O wicked man, you shall surely die, and you don’t speak to warn the wicked from his way; that wicked man shall die in his iniquity, but his blood will I require at your hand. Nevertheless, if you warn the wicked of his way to turn from it, and he doesn’t turn from his way; he shall die in his iniquity, but you have delivered your soul.",
+          "note": "The watchman who warns the wicked to turn 'will have saved his life' is the prophetic logic behind saving a soul from death by turning the sinner back (cf. Ezekiel 3:18-21).",
+          "altSource": "Ezekiel 3:18-21"
+        },
+        {
+          "source": "Daniel 12:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Those who are wise shall shine as the brightness of the expanse; and those who turn many to righteousness as the stars forever and ever.",
+          "note": "'Those who turn many to righteousness' shine like the stars — a faint echo behind turning a sinner from the error of his way.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

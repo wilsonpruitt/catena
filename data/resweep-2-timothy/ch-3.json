@@ -1,0 +1,220 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-9",
+    "echoes": [
+      {
+        "source": "Genesis 6:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The catalog of human depravity in the 'last days' draws on the antediluvian corruption tradition, where the wickedness of mankind was great and every imagination of the heart was only evil continually. The eschatological intensification of vice echoes the primeval flood-generation's total moral collapse.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 6:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The earth corrupted and filled with violence before the flood furnishes a scriptural type for the moral degeneration of the last days. 'Corrupted in mind' (v. 8) verbally recalls the corruption motif of the Genesis flood narrative.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 20:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Disobedient to parents' inverts the fifth commandment to honor father and mother. The vice catalog functions in part as a reversal of the Decalogue, listing the breaking of commands as a sign of last-days lawlessness.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 10:2-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The portrait of the proud, boastful, God-denying wicked who oppress and prosper resembles the psalmist's description of the arrogant oppressor who says God has forgotten. The cluster of pride, greed, and contempt for the holy parallels this lament's indictment.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 36:1-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wicked who has no fear of God, flatters himself, and devises mischief parallels the impostors who hold a form of godliness while denying its power. The self-deceiving, God-ignoring wickedness matches the vice list's portrait.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 29:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Holding a form of godliness, but having denied its power' echoes the prophetic indictment of those who honor God with their lips while their heart is far from him, whose worship is merely a commandment of men. The hollow, powerless piety is the prophets' charge against false religion.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 7:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jannes and Jambres who 'opposed Moses' are the unnamed Egyptian magicians who matched Aaron's signs with their secret arts before Pharaoh. The names derive from Jewish tradition (Targums, CD, the lost book of Jannes and Jambres); the canonical referent is the Exodus contest of the magicians.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 7:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The magicians of Egypt did the same with their enchantments, opposing Moses by replicating the plague of blood and hardening Pharaoh's resistance to the truth. This is part of the Exodus magician cycle that Paul invokes by the names Jannes and Jambres.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 8:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The magicians brought up frogs with their enchantments, again imitating the sign and resisting Moses. This continues the contest tradition Paul compresses into the named opposition of Jannes and Jambres.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 8:18-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The magicians could not produce the gnats and confessed 'This is the finger of God'; their failure marks the limit of their power. 'Their folly will be evident to all' (v. 9) alludes to this public exposure of the magicians' impotence before God's true work.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 9:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The magicians could not stand before Moses because of the boils, the climactic public defeat of those who opposed him. This caps the magician tradition behind Jannes and Jambres, whose 'folly became evident.'",
+        "contested": false
+      },
+      {
+        "source": "Jannes and Jambres",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Paul names the two Egyptian magicians from a developed extrabiblical tradition (the pseudepigraphal book of Jannes and Jambres, the Damascus Document, and the Targums) rather than from the bare Exodus text. The pseudepigraphal source supplies the names absent from the canonical narrative.",
+        "contested": true,
+        "altSource": "Exodus 7:11"
+      },
+      {
+        "source": "Genesis 39:6-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The picture of those who 'creep into houses and take captive gullible women loaded down with sins, led away by various lusts' faintly recalls the seduction tradition; some see a generalized echo of household predation. The connection is thematic and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.10",
+    "ch": 3,
+    "ref": "3:10-13",
+    "echoes": [
+      {
+        "source": "Psalm 34:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The Lord delivered me out of them all' closely echoes the psalm's 'Many are the afflictions of the righteous, but the LORD delivers him out of them all.' The verbal correspondence of the righteous sufferer rescued from all troubles is strong.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22:4-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The trust that God delivers those who cry to him, who were not put to shame, parallels Paul's testimony of rescue from persecution. The righteous-sufferer-vindicated pattern resonates faintly.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 11:32-35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The end-time deceivers who 'grow worse and worse, deceiving and being deceived' and the refining persecution of those who know God resemble Daniel's apocalyptic scenario of flatterers, deceit, and the testing of the wise in the latter days. The eschatological framing of persecution and deception aligns.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.14",
+    "ch": 3,
+    "ref": "3:14-17",
+    "echoes": [
+      {
+        "source": "Psalm 19:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'holy Scriptures which are able to make you wise for salvation' echoes 'the law of the LORD is perfect... making wise the simple.' The conviction that God's word imparts saving wisdom is rooted in this psalm's praise of Torah.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 119:98-100",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The commandments that make the psalmist 'wiser than my enemies' and give more understanding than teachers stand behind the claim that Scripture makes one wise. The lifelong formation in the word echoes this Torah-wisdom motif.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:5-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The charge to keep, teach, and not forget the statutes which are the people's wisdom, passing them to children, undergirds 'from infancy you have known the holy Scriptures.' The intergenerational transmission of God's law as wisdom is the Deuteronomic pattern.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The command to teach God's words diligently to children from earliest years grounds Timothy's knowing the sacred writings 'from infancy.' The household catechesis of Scripture reflects the Shema's instruction.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'All Scripture is God-breathed' (theopneustos) evokes the creative breath of God that animated the man, who became a living being when God breathed into him. Scripture's life-giving divine breath parallels the breath of life at creation.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 8:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Man does not live by bread alone, but by every word that proceeds from the mouth of the LORD' stands behind the conviction that the God-breathed word sustains and equips life. Scripture as the word from God's mouth animating the believer reflects this manna lesson.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 33:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'By the word of the LORD the heavens were made, and all their host by the breath of his mouth' offers a creation-by-divine-breath background for 'God-breathed' Scripture. The pairing of word and breath of God's mouth resonates with theopneustos.",
+        "contested": true
+      },
+      {
+        "source": "Nehemiah 9:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's good Spirit given to instruct his people, and the law taught for their instruction, parallels Scripture's profit 'for teaching... for instruction in righteousness.' The motif of the inspired word teaching the people of God resonates faintly.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 19:8-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The precepts of the LORD that are right, the commandment pure enlightening the eyes, and the word more to be desired than gold, by which the servant is warned, parallel Scripture's profit for teaching, reproof, correction, and training in righteousness. The functional benefits of God's word match closely.",
+        "contested": false
+      },
+      {
+        "source": "Joshua 1:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The charge to meditate on the book of the law to do all written in it, so as to be prosperous and successful, parallels Scripture equipping the man of God 'for every good work.' The word-formed competence for faithful action resonates.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 24:23-34",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's identification of the law of Moses with wisdom that fills people with understanding and instruction offers a deuterocanonical analogue to Scripture making one wise for salvation. The Torah-as-wisdom theme parallels Paul's claim.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 15:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The reference to the God who 'inspired him with an active soul and breathed into him a living spirit' connects the breath of God with life and knowledge, a deuterocanonical background for the God-breathed (theopneustos) word. The divine inbreathing motif resonates faintly.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,952 @@
+{
+  "slug": "2-thessalonians",
+  "name": "2 Thessalonians",
+  "subtitle": "A Reckoning Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "Where the first letter comforted the grieving, the second steadies the alarmed: the day of the Lord has not already come. Paul sets the scene from the prophets — the Lord Jesus revealed from heaven in flaming fire, inflicting vengeance on those who do not know God, the man of lawlessness exalting himself in the temple of God as Daniel and Isaiah foretold, until the Lord destroys him with the breath of his mouth. It is a letter of judgment held back and judgment sure, and of standing firm until then. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where the writer follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-2",
+      "text": "Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father, and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+      "echoes": [
+        {
+          "source": "Numbers 6:25-26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.’",
+          "note": "The epistolary salutation 'Grace to you and peace' draws on the Aaronic blessing, where the LORD's gracious face and the gift of peace (shalom) are pronounced over Israel. Paul reworks the priestly benediction into a christological greeting that names both Father and Lord Jesus as its source. The link is formulaic and contested as a deliberate allusion.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:3-4",
+      "text": "We are bound to always give thanks to God for you, brothers, even as it is appropriate, because your faith grows exceedingly, and the love of each and every one of you towards one another abounds; so that we ourselves boast about you in the assemblies of God for your patience and faith in all your persecutions and in the afflictions which you endure.",
+      "echoes": [
+        {
+          "source": "Jeremiah 9:23-24",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus says Yahweh, Don’t let the wise man glory in his wisdom, neither let the mighty man glory in his might, don’t let the rich man glory in his riches; but let him who glories glory in this, that he has understanding, and knows me, that I am Yahweh who exercises loving kindness, justice, and righteousness, in the earth: for in these things I delight, says Yahweh.",
+          "note": "Paul's 'boast about you in the assemblies of God' inverts Jeremiah's prohibition against boasting in wisdom, might, or wealth, redirecting glorying toward what God has wrought in the believers' faith. The motif of legitimate versus illegitimate boasting is a Pauline staple rooted in this oracle. Faint and contested here, since the object of boasting differs.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 7:21-25",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I saw, and the same horn made war with the saints, and prevailed against them; until the ancient of days came, and judgment was given to the saints of the Most High, and the time came that the saints possessed the kingdom. Thus he said, The fourth animal shall be a fourth kingdom on earth, which shall be diverse from all the kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces. As for the ten horns, out of this […]",
+          "note": "The endurance of the assembly under 'persecutions and afflictions' resonates with Daniel's vision of the little horn making war on and wearing out the holy ones before their vindication. The apocalyptic pattern of saints suffering prior to the kingdom undergirds the whole chapter. The verbal contact is thematic rather than lexical.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "ch": 1,
+      "ref": "1:5",
+      "text": "This is an obvious sign of the righteous judgment of God, to the end that you may be counted worthy of the Kingdom of God, for which you also suffer.",
+      "echoes": [
+        {
+          "source": "Psalm 9:7-8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "But Yahweh reigns forever. He has prepared his throne for judgment. He will judge the world in righteousness. He will administer judgment to the peoples in uprightness.",
+          "note": "The phrase 'righteous judgment of God' echoes the psalmic confession that the LORD has established his throne for judgment and will judge the world in righteousness. Paul reads present suffering as evidence that this just verdict is already operative. The righteousness-of-judgment language is pervasive in the Psalter (cf. Psalm 96:13; 98:9).",
+          "altSource": "Psalm 96:13; Psalm 98:9"
+        },
+        {
+          "source": "Daniel 7:18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "But the saints of the Most High shall receive the kingdom, and possess the kingdom forever, even forever and ever.",
+          "note": "Being 'counted worthy of the Kingdom of God, for which you also suffer' draws on Daniel's promise that the holy ones of the Most High shall receive and possess the kingdom after the beast's oppression. The pairing of present affliction with future royal vindication is distinctively Danielic. Cf. Daniel 7:22, 27.",
+          "altSource": "Daniel 7:22,27"
+        },
+        {
+          "source": "Wisdom 3:4-6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For even if in the sight of men they be punished, Their hope is full of immortality; And having borne a little chastening, they will receive great good; Because God made trial of them, and found them worthy of himself. As gold in the furnace he proved them, And as a whole burnt offering he accepted them.",
+          "note": "The idea that suffering is the means by which believers are 'counted worthy' of the kingdom parallels Wisdom's teaching that the righteous, though chastened and tested like gold in the furnace, are found worthy of God and accepted. This deuterocanonical theodicy of vindication-through-affliction closely matches Paul's logic in 1:5. A strong conceptual echo."
+        },
+        {
+          "source": "2 Maccabees 6:30-7:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "and when he was at the point to die with the stripes, he groaned aloud and said, To the Lord, that has the holy knowledge, it is manifest that, whereas I might have been delivered from death, I endure sore pains in my body by being scourged; but in soul I gladly suffer these things for my fear of him. So this man also died after this manner, leaving his death for an ensample of nobleness and a memorial of virtue, not only to the young but also to the […]",
+          "note": "The martyr-theology that suffering for God qualifies one for the kingdom and resurrection vindication has its narrative archetype in the deaths of Eleazar and the seven brothers. Paul's framing of persecution as a 'sign' pointing to just recompense shares this martyrological worldview. Thematic rather than verbal.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "ch": 1,
+      "ref": "1:6-7",
+      "text": "Since it is a righteous thing with God to repay affliction to those who afflict you, and to give relief to you who are afflicted with us, when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire,",
+      "echoes": [
+        {
+          "source": "Deuteronomy 32:35",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Vengeance is mine, and recompense, at the time when their foot slides; for the day of their calamity is at hand. Their doom rushes at them.”",
+          "note": "'A righteous thing with God to repay affliction to those who afflict you' enacts the lex talionis of the Song of Moses, where vengeance and recompense belong to the LORD. Paul grounds eschatological retribution in this Torah principle of divine, not human, requital. Cf. the same passage cited at Romans 12:19.",
+          "altSource": "Deuteronomy 32:41,43"
+        },
+        {
+          "source": "Isaiah 66:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "A voice of tumult from the city, a voice from the temple, a voice of Yahweh that renders recompense to his enemies.",
+          "note": "Isaiah's 'voice of the LORD that renders recompense to his enemies' supplies the recompense-on-the-afflicters logic of 1:6, and the surrounding oracle (66:5-16) frames the whole 2 Thessalonians 1 scenario of relief for the oppressed and fiery requital for foes. This is the chapter's controlling intertext. High confidence given the dense cluster of contacts across 1:6-10."
+        },
+        {
+          "source": "Isaiah 66:15",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For, behold, Yahweh will come with fire, and his chariots shall be like the whirlwind; to render his anger with fierceness, and his rebuke with flames of fire.",
+          "note": "'When the Lord Jesus is revealed from heaven... in flaming fire' renders Isaiah's theophany: the LORD will come in fire, his chariots like the whirlwind, to render his anger in fury and his rebuke with flames of fire. Paul transfers this divine advent to the revealed Lord Jesus. The combination of coming, fire, and recompense is verbally and conceptually tight."
+        },
+        {
+          "source": "Isaiah 35:4",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Tell those who have a fearful heart, “Be strong. Don’t be afraid. Behold, your God will come with vengeance, God’s retribution. He will come and save you.",
+          "note": "The pairing of vengeance on oppressors with rescue ('relief') for the afflicted matches Isaiah's promise that God will come with vengeance, with divine recompense, to save you. Paul's antithesis of affliction-for-afflicters and relief-for-the-afflicted reflects this two-sided day of the LORD. A genuine but less verbally specific contact."
+        },
+        {
+          "source": "Psalm 137:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Daughter of Babylon, doomed to destruction, he will be happy who rewards you, as you have served us.",
+          "note": "The repayment formula 'to repay affliction to those who afflict you' resonates with the imprecatory blessing on whoever repays Babylon what she has done to Zion. The measure-for-measure justice is shared, though Paul reserves the act to God's eschatological judgment rather than human agents. Contested as a direct source.",
+          "contested": true
+        },
+        {
+          "source": "Zechariah 14:5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall flee by the valley of my mountains; for the valley of the mountains shall reach to Azel; yes, you shall flee, just like you fled from before the earthquake in the days of Uzziah king of Judah. Yahweh my God will come, and all the holy ones with you./f + Septuagint reads “him” instead of “you”./f*",
+          "note": "'Revealed from heaven with his mighty angels' draws on Zechariah's day-of-the-LORD coming, when the LORD my God will come, and all the holy ones with him. The retinue of accompanying holy ones is a standard feature of the parousia that Paul applies to Jesus. Cf. Deuteronomy 33:2.",
+          "altSource": "Deuteronomy 33:2; Zechariah 14:5"
+        },
+        {
+          "source": "Daniel 7:9-10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I saw until thrones were placed, and one who was ancient of days sat: his clothing was white as snow, and the hair of his head like pure wool; his throne was fiery flames, and its wheels burning fire. A fiery stream issued and came out from before him: thousands of thousands ministered to him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.",
+          "note": "The fiery apparatus of judgment — a stream of fire issuing before the Ancient of Days while thousands of angels attend — informs the 'flaming fire' and 'mighty angels' of the Lord's revelation. Daniel's heavenly courtroom supplies both the fire and the angelic host of the judgment scene. Combined with the Son of Man advent of 7:13.",
+          "altSource": "Daniel 7:13-14"
+        },
+        {
+          "source": "Isaiah 30:27-30",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, Yahweh’s name comes from far away, burning with his anger, and in thick rising smoke. His lips are full of indignation, and his tongue is as a devouring fire. His breath is as an overflowing stream that reaches even to the neck, to sift the nations with the sieve of destruction; and a bridle that leads to ruin will be in the jaws of the peoples. You will have a song, as in the night when a holy feast is kept; and gladness of heart, as when one […]",
+          "note": "Isaiah's portrait of the name of the LORD coming from afar, burning with anger, his tongue a devouring fire, with flame and tempest, parallels the fiery, wrathful advent of 1:7-8. The shared imagery of divine arrival in consuming fire to judge the nations supports a faint echo. Contested as a distinct source amid the Isaianic cluster.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 19:16-18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "On the third day, when it was morning, there were thunders and lightnings, and a thick cloud on the mountain, and the sound of an exceedingly loud trumpet; and all the people who were in the camp trembled. Moses led the people out of the camp to meet God; and they stood at the lower part of the mountain. Mount Sinai, all it, smoked, because Yahweh descended on it in fire; and its smoke ascended like the smoke of a furnace, and the whole mountain quaked […]",
+          "note": "The Sinai theophany — the LORD descending in fire amid smoke and trembling — stands behind the biblical grammar of God revealed in 'flaming fire.' Paul's parousia language is colored by this foundational fire-theophany even where no single verse is quoted. Faint and diffuse.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:8-10",
+      "text": "giving vengeance to those who don’t know God, and to those who don’t obey the Good News of our Lord Jesus, who will pay the penalty: eternal destruction from the face of the Lord and from the glory of his might, when he comes to be glorified in his saints, and to be admired among all those who have believed (because our testimony to you was believed) in that day.",
+      "echoes": [
+        {
+          "source": "Jeremiah 10:25",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Pour out your wrath on the nations that don’t know you, and on the families that don’t call on your name: for they have devoured Jacob, yes, they have devoured him and consumed him, and have laid waste his habitation.",
+          "note": "'Giving vengeance to those who don't know God' echoes Jeremiah's prayer that God pour out his wrath on the nations that know him not and on the peoples that do not call on his name. Paul takes up this categorization of the godless as those who 'do not know God' as the object of eschatological vengeance. Closely paralleled by Psalm 79:6.",
+          "altSource": "Psalm 79:6"
+        },
+        {
+          "source": "Psalm 79:6",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Pour out your wrath on the nations that don’t know you; on the kingdoms that don’t call on your name;",
+          "note": "The plea to 'pour out your anger on the nations that do not know you, and on the kingdoms that do not call on your name' is the closest Psalter parallel to 1:8's vengeance on 'those who don't know God.' Together with Jeremiah 10:25 it supplies the formulaic designation of the wicked. High confidence as a shared source."
+        },
+        {
+          "source": "Isaiah 66:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I also will choose their delusions, and will bring their fears on them; because when I called, no one answered; when I spoke, they didn’t listen; but they did that which was evil in my eyes, and chose that in which I didn’t delight.”",
+          "note": "Isaiah's indictment of those who, when God called, did not answer and did not obey but did evil, undergirds 1:8's 'those who don't obey the Good News.' The Isaiah 66 oracle thus frames both halves of 1:8 — not knowing God and not obeying. Reinforces the chapter's saturation in Isaiah 66."
+        },
+        {
+          "source": "Isaiah 2:10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Enter into the rock, and hide in the dust, from before the terror of Yahweh, and from the glory of his majesty.",
+          "note": "'Eternal destruction from the face of the Lord and from the glory of his might' renders Isaiah's refrain: hide in the rock from before the terror of the LORD and from the glory of his majesty, when he rises to terrify the earth. The double phrase 'face/terror of the Lord' and 'glory of his might/majesty' is a near-quotation. The thrice-repeated refrain anchors the verse.",
+          "altSource": "Isaiah 2:19,21"
+        },
+        {
+          "source": "Isaiah 2:19",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Men shall go into the caves of the rocks, and into the holes of the earth, from before the terror of Yahweh, and from the glory of his majesty, when he arises to shake the earth mightily.",
+          "note": "The repetition at 2:19 (and 2:21) — fleeing to caves from before the terror of the LORD and the glory of his majesty, when he rises to terrify the earth — supplies the exclusionary 'from the face of the Lord and from the glory of his might' in 1:9. The refrain's threefold form makes the dependence especially secure.",
+          "altSource": "Isaiah 2:21"
+        },
+        {
+          "source": "Psalm 89:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "a very awesome God in the council of the holy ones, to be feared above all those who are around him?",
+          "note": "'Glorified in his saints' and 'admired' draws on the picture of a God greatly feared in the council of the holy ones and awesome above all around him. The parousia in which Christ is glorified amid his holy ones reflects this assembly of the heavenly host marveling at God. Cf. Psalm 68:35.",
+          "altSource": "Psalm 68:35"
+        },
+        {
+          "source": "Isaiah 49:3",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "and he said to me, “You are my servant; Israel, in whom I will be glorified.”",
+          "note": "'To be glorified in his saints' echoes the Servant oracle, 'You are my servant, Israel, in whom I will be glorified.' Paul applies the motif of God being glorified in his people to the eschatological revelation of the Lord Jesus in his believers. A genuine but transposed contact."
+        },
+        {
+          "source": "Isaiah 66:5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Hear Yahweh’s word, you who tremble at his word: “Your brothers who hate you, who cast you out for my name’s sake, have said, ‘Let Yahweh be glorified, that we may see your joy;’ but it is those who shall be disappointed.",
+          "note": "Isaiah 66:5's promise that the LORD will appear to the joy of the persecuted faithful while their mockers are put to shame matches 1:10's vindicating appearance 'glorified in his saints.' The same oracle's reversal — glory for the oppressed, judgment for oppressors — pervades 2 Thessalonians 1. Consistent with the chapter's Isaiah 66 frame."
+        },
+        {
+          "source": "Isaiah 2:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The lofty looks of man will be brought low, the haughtiness of men will be bowed down, and Yahweh alone will be exalted in that day.",
+          "note": "The eschatological tag 'in that day,' when 'the LORD alone will be exalted,' colors 1:10's 'in that day' when Christ is glorified and admired. Isaiah 2:11,17 supplies the day-of-the-LORD formula of exclusive divine exaltation that Paul reads christologically. Faint, given how conventional the phrase is.",
+          "contested": true,
+          "altSource": "Isaiah 2:17"
+        }
+      ]
+    },
+    {
+      "id": "1.6",
+      "ch": 1,
+      "ref": "1:11-12",
+      "text": "To this end we also pray always for you, that our God may count you worthy of your calling, and fulfill every desire of goodness and work of faith, with power; that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.",
+      "echoes": [
+        {
+          "source": "Isaiah 66:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Hear Yahweh’s word, you who tremble at his word: “Your brothers who hate you, who cast you out for my name’s sake, have said, ‘Let Yahweh be glorified, that we may see your joy;’ but it is those who shall be disappointed.",
+          "note": "The prayer 'that the name of our Lord Jesus may be glorified in you, and you in him' continues the Isaiah 66 motif of the LORD being glorified before and within his vindicated people. The mutual glorification reflects the oracle's promise that God will show his glory to the faithful. Faint within the chapter's broader Isaianic frame.",
+          "contested": true
+        },
+        {
+          "source": "Malachi 1:11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For from the rising of the sun even to the going down of the same, my name is great among the nations, and in every place incense will be offered to my name, and a pure offering: for my name is great among the nations,” says Yahweh of Armies.",
+          "note": "'That the name of our Lord Jesus may be glorified' resonates with Malachi's oracle that God's name will be great among the nations, from the rising of the sun to its setting. Paul transfers the magnification of the divine name to the name of the Lord Jesus. Thematic and contested as a deliberate source.",
+          "contested": true,
+          "altSource": "Isaiah 24:15"
+        },
+        {
+          "source": "Psalm 86:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "All nations you have made will come and worship before you, Lord. They shall glorify your name.",
+          "note": "The glorifying of the Lord's name among believers echoes the psalmist's expectation that all nations will come, worship, and glorify God's name. The eschatological honoring of the name underlies 1:12. A faint, diffuse contact within a common biblical topos.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "ch": 2,
+      "ref": "2:1-2",
+      "text": "Now, brothers, concerning the coming of our Lord Jesus Christ, and our gathering together to him, we ask you not to be quickly shaken in your mind, nor yet be troubled, either by spirit, or by word, or by letter as from us, saying that the day of Christ had come.",
+      "echoes": [
+        {
+          "source": "Joel 2:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Blow the trumpet in Zion, and sound an alarm in my holy mountain! Let all the inhabitants of the land tremble, for the day of Yahweh comes, for it is close at hand:",
+          "note": "The eschatological 'day of the Lord' (here 'day of Christ/the Lord') that Paul corrects the Thessalonians about derives its weight from the prophetic Day-of-the-Lord tradition, of which Joel is a primary witness. Joel sounds the alarm that the day is near and dreadful."
+        },
+        {
+          "source": "Joel 2:31",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "The sun will be turned into darkness, and the moon into blood, before the great and terrible day of Yahweh comes.",
+          "note": "The 'great and awesome day of the Lord' with cosmic signs feeds the apocalyptic timetable Paul is addressing. The Thessalonians' panic that the day had already come presupposes this prophetic frame."
+        },
+        {
+          "source": "Amos 5:18-20",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“Woe to you who desire the day of Yahweh! Why do you long for the day of Yahweh? It is darkness, and not light. As if a man fled from a lion, and a bear met him; Or he went into the house and leaned his hand on the wall, and a snake bit him. Won’t the day of Yahweh be darkness, and not light? Even very dark, and no brightness in it?",
+          "note": "Amos's reversal of the Day of the Lord into darkness rather than light is foundational to the NT's sober expectation of that day. Paul's warning against premature certainty draws on this prophetic gravity."
+        },
+        {
+          "source": "Zephaniah 1:14-15",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The great day of Yahweh is near. It is near, and hurries greatly, the voice of the day of Yahweh. The mighty man cries there bitterly. That day is a day of wrath, a day of distress and anguish, a day of trouble and ruin, a day of darkness and gloom, a day of clouds and blackness,",
+          "note": "Zephaniah's 'day of the Lord is near' with wrath and distress contributes to the prophetic Day-of-the-Lord matrix behind Paul's eschatology."
+        },
+        {
+          "source": "Isaiah 13:6-9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Wail; for the day of Yahweh is at hand! It will come as destruction from the Almighty. Therefore all hands will be feeble, and everyone’s heart will melt. They will be dismayed. Pangs and sorrows will seize them. They will be in pain like a woman in labor. They will look in amazement one at another. Their faces will be faces of flame. Behold, the day of Yahweh comes, cruel, with wrath and fierce anger; to make the land a desolation, and to destroy its […]",
+          "note": "Isaiah's 'day of the Lord' coming as destruction from the Almighty is part of the broad prophetic stream informing Paul's 'day of Christ.'",
+          "contested": true
+        },
+        {
+          "source": "Malachi 4:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“For, behold, the day comes, it burns as a furnace; and all the proud, and all who work wickedness, will be stubble; and the day that comes will burn them up,” says Yahweh of Armies, “that it shall leave them neither root nor branch.",
+          "note": "The burning day of the Lord in Malachi belongs to the prophetic Day tradition that frames Paul's correction; faint and diffuse.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 27:12-13",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "It will happen in that day, that Yahweh will thresh from the flowing stream of the Euphrates to the brook of Egypt; and you will be gathered one by one, children of Israel. It will happen in that day that a great trumpet will be blown; and those who were ready to perish in the land of Assyria, and those who were outcasts in the land of Egypt, shall come; and they will worship Yahweh in the holy mountain at Jerusalem.",
+          "note": "Paul's 'our gathering together to him' (episynagoge) echoes the prophetic hope of God gathering scattered Israel one by one at the trumpet. The ingathering of the elect is a stock eschatological motif rooted here."
+        },
+        {
+          "source": "Deuteronomy 30:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "If your outcasts are in the uttermost parts of the heavens, from there Yahweh your God will gather you, and from there he will bring you back.",
+          "note": "The promise that the Lord will gather the dispersed from the ends of the heavens undergirds the eschatological 'gathering together to him.' This is the seedbed of the NT gathering-of-the-elect language."
+        },
+        {
+          "source": "Zechariah 2:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Come! Come! Flee from the land of the north,’ says Yahweh; ‘for I have spread you abroad as the four winds of the sky,’ says Yahweh.",
+          "note": "Zechariah's call to the scattered people belongs to the ingathering hope behind episynagoge; faint.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 50:5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Gather my saints together to me, those who have made a covenant with me by sacrifice.”",
+          "note": "'Gather my faithful ones to me' offers a verbal-conceptual parallel to the assembling of believers to the Lord, though Paul does not cite it.",
+          "contested": true
+        },
+        {
+          "source": "2 Maccabees 2:7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But when Jeremiah perceived it, he blamed them, saying, Yes and the place shall be unknown until God gather the people again together, and mercy come:",
+          "note": "The deuterocanonical hope that God will 'gather his people together' (episynagoge cognate) when mercy comes parallels Paul's gathering-to-him language. Possible shared eschatological idiom.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "ch": 2,
+      "ref": "2:3-4",
+      "text": "Let no one deceive you in any way. For it will not be, unless the departure comes first, and the man of sin is revealed, the son of destruction, he who opposes and exalts himself against all that is called God or that is worshiped; so that he sits as God in the temple of God, setting himself up as God.",
+      "echoes": [
+        {
+          "source": "Daniel 11:36",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "The king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvelous things against the God of gods; and he shall prosper until the indignation be accomplished; for that which is determined shall be done.",
+          "note": "The man of sin who 'opposes and exalts himself against all that is called God' closely tracks Daniel's king who 'shall do as he wills, exalt himself above every god, and speak astonishing things against the God of gods.' This is the principal scriptural template for the figure."
+        },
+        {
+          "source": "Daniel 11:31",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Forces shall stand on his part, and they shall profane the sanctuary, even the fortress, and shall take away the continual burnt offering, and they shall set up the abomination that makes desolate.",
+          "note": "Daniel's profanation of the sanctuary and setting up the abomination underlies Paul's 'sits as God in the temple of God.' The desecration-of-the-temple motif is drawn directly from Daniel's depiction of the eschatological tyrant."
+        },
+        {
+          "source": "Daniel 12:11",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "From the time that the continual burnt offering shall be taken away, and the abomination that makes desolate set up, there shall be one thousand two hundred ninety days.",
+          "note": "The 'abomination that makes desolate' set up in the temple grounds Paul's image of the lawless one seating himself in God's temple. Daniel's desolating abomination is the prototype of the temple usurpation."
+        },
+        {
+          "source": "Daniel 9:27",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He shall make a firm covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the offering to cease; and on the wing of abominations shall come one who makes desolate; and even to the full end, and that determined, shall wrath be poured out on the desolate.",
+          "note": "The covenant-breaker who sets the abomination on a wing of the temple feeds the temple-defilement element of Paul's portrait of the man of lawlessness."
+        },
+        {
+          "source": "Daniel 7:25",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He shall speak words against the Most High, and shall wear out the saints of the Most High; and he shall think to change the times and the law; and they shall be given into his hand until a time and times and half a time.",
+          "note": "The little horn that 'speaks words against the Most High' and exalts itself supplies the blasphemous self-deification of the man of sin."
+        },
+        {
+          "source": "Daniel 8:9-12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Out of one of them came out a little horn, which grew exceeding great, toward the south, and toward the east, and toward the glorious land. It grew great, even to the army of the sky; and some of the army and of the stars it cast down to the ground, and trampled on them. Yes, it magnified itself, even to the prince of the army; and it took away from him the continual burnt offering, and the place of his sanctuary was cast down. The army was given over to […]",
+          "note": "The little horn that grows great, casts down the host, magnifies itself against the prince and takes away the regular sacrifice prefigures the lawless one's assault on God and his sanctuary."
+        },
+        {
+          "source": "Daniel 8:25",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Through his policy he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and he shall destroy many in their security. He shall also stand up against the prince of princes; but he shall be broken without hand.",
+          "note": "The horn that magnifies himself and 'rises up against the Prince of princes' contributes to the self-exalting opposition to God that defines the man of lawlessness."
+        },
+        {
+          "source": "Ezekiel 28:2",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Son of man, tell the prince of Tyre, Thus says the Lord Yahweh: Because your heart is lifted up, and you have said, I am a god, I sit in the seat of God, in the midst of the seas; yet you are man, and not God, though you set your heart as the heart of God—",
+          "note": "The prince of Tyre who says 'I am a god, I sit in the seat of gods' is a close conceptual and verbal parallel to the man of sin 'setting himself up as God' and sitting in God's temple. The blasphemous claim to deity and the enthroned posture both resonate."
+        },
+        {
+          "source": "Isaiah 14:13-14",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "You said in your heart, “I will ascend into heaven! I will exalt my throne above the stars of God! I will sit on the mountain of assembly, in the far north! I will ascend above the heights of the clouds! I will make myself like the Most High!”",
+          "note": "The king of Babylon's boast, 'I will ascend... I will make myself like the Most High,' is a primary source for the self-exaltation of the man of lawlessness 'against all that is called God.' The hubristic ascent against the divine is the shared core."
+        },
+        {
+          "source": "Ezekiel 28:6-9",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "therefore thus says the Lord Yahweh: Because you have set your heart as the heart of God, therefore, behold, I will bring strangers on you, the terrible of the nations; and they shall draw their swords against the beauty of your wisdom, and they shall defile your brightness. They shall bring you down to the pit; and you shall die the death of those who are slain, in the heart of the seas. Will you yet say before him who kills you, I am God? but you are […]",
+          "note": "The rebuke that the self-deifying prince is 'a man and not a god' continues the Tyre oracle's exposure of blasphemous self-deification, paralleling the man of sin's pretension to godhood."
+        },
+        {
+          "source": "Daniel 11:37",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Neither shall he regard the gods of his fathers, nor the desire of women, nor regard any god; for he shall magnify himself above all.",
+          "note": "The king who 'pays no heed to any god, for he magnifies himself above all' extends the self-exaltation directly behind Paul's description of opposition to every object of worship."
+        },
+        {
+          "source": "Daniel 8:23",
+          "type": "echo",
+          "confidence": "low",
+          "text": "In the latter time of their kingdom, when the transgressors have come to the full, a king of fierce face, and understanding dark sentences, shall stand up.",
+          "note": "The rise of a bold king 'when transgressors have reached their full measure' may inform Paul's sequence of the rebellion/apostasy preceding the lawless one's revelation.",
+          "contested": true
+        },
+        {
+          "source": "1 Maccabees 1:54",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "And on the fifteenth day of Chislev, in the hundred and forty and fifth year, they built an abomination of desolation upon the altar, and in the cities of Judah on every side they built idol altars.",
+          "note": "Antiochus's setting up of the 'abomination of desolation' on the altar is the historical realization of Daniel's prophecy and a deuterocanonical witness to the temple-desecration imagery behind Paul's man of sin."
+        },
+        {
+          "source": "1 Maccabees 1:43",
+          "type": "echo",
+          "confidence": "low",
+          "text": "and many of Israel consented to his worship, and sacrificed to the idols, and profaned the Sabbath.",
+          "note": "The wider Maccabean apostasy narrative, where many abandon the law, can stand behind Paul's 'departure/rebellion' that comes first; faint and analogical.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "ch": 2,
+      "ref": "2:5-7",
+      "text": "Don’t you remember that, when I was still with you, I told you these things? Now you know what is restraining him, to the end that he may be revealed in his own season. For the mystery of lawlessness already works. Only there is one who restrains now, until he is taken out of the way.",
+      "echoes": [
+        {
+          "source": "Habakkuk 2:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
+          "note": "The vision that 'awaits its appointed time' and will not delay may inform Paul's notion of the lawless one being revealed 'in his own season' and the present restraint. Conceptual parallel of an appointed eschatological moment.",
+          "contested": true,
+          "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry."
+        },
+        {
+          "source": "Daniel 11:35",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Some of those who are wise shall fall, to refine them, and to purify, and to make them white, even to the time of the end; because it is yet for the time appointed.",
+          "note": "Daniel's testing 'until the time of the end, for it is yet for the appointed time' parallels the idea that the revelation of the lawless one waits for its set season.",
+          "contested": true
+        },
+        {
+          "source": "Daniel 11:36",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvelous things against the God of gods; and he shall prosper until the indignation be accomplished; for that which is determined shall be done.",
+          "note": "The clause 'till the indignation is accomplished, for what is determined shall be done' supplies a sense of restraint until an appointed limit, paralleling Paul's restrainer holding back until the set time.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.4",
+      "ch": 2,
+      "ref": "2:8-10",
+      "text": "Then the lawless one will be revealed, whom the Lord will kill with the breath of his mouth, and destroy by the manifestation of his coming; even he whose coming is according to the working of Satan with all power and signs and lying wonders, and with all deception of wickedness for those who are being lost, because they didn’t receive the love of the truth, that they might be saved.",
+      "echoes": [
+        {
+          "source": "Isaiah 11:4",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "but with righteousness he will judge the poor, and decide with equity for the humble of the earth. He will strike the earth with the rod of his mouth; and with the breath of his lips he will kill the wicked.",
+          "note": "'The Lord will kill with the breath of his mouth' draws almost verbatim on the messianic ruler who 'with the breath of his lips shall kill the wicked.' Paul applies Isaiah's portrait of the slaying breath of the Branch directly to Christ's destruction of the lawless one."
+        },
+        {
+          "source": "Job 4:9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "By the breath of God they perish. By the blast of his anger are they consumed.",
+          "note": "'By the breath of God they perish, and by the blast of his anger they are consumed' parallels destruction by the divine breath. A complementary source for the slaying-breath image."
+        },
+        {
+          "source": "Isaiah 30:27-28",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, Yahweh’s name comes from far away, burning with his anger, and in thick rising smoke. His lips are full of indignation, and his tongue is as a devouring fire. His breath is as an overflowing stream that reaches even to the neck, to sift the nations with the sieve of destruction; and a bridle that leads to ruin will be in the jaws of the peoples.",
+          "note": "The Lord's breath like an overflowing stream and devouring fire executing judgment resonates with destruction by the breath of his mouth; faint.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 30:33",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For his burning place has long been ready. Yes, for the king it is prepared. He has made its pyre deep and large with fire and much wood. Yahweh’s breath, like a stream of sulfur, kindles it.",
+          "note": "The breath of the Lord kindling the pyre for the king (Topheth) parallels the breath that destroys the eschatological tyrant.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 33:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "By Yahweh’s word, the heavens were made; all their army by the breath of his mouth.",
+          "note": "'By the breath of his mouth all the host' were made; here the same creative-destroying breath of the mouth is turned to judgment. Verbal echo of 'breath of his mouth.'",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 13:1-3",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "If a prophet or a dreamer of dreams arises in your midst you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, “Let us go after other gods” (which you have not known) “and let us serve them”; you shall not listen to the words of that prophet, or to that dreamer of dreams; for Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul.",
+          "note": "The false prophet who performs 'signs and wonders' to lead people astray, sent as a test, closely informs the lawless one's coming 'with all power and signs and lying wonders' and the resulting deception. Deuteronomy's framework of God permitting deceptive signs to test loyalty is foundational."
+        },
+        {
+          "source": "Exodus 7:11-12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Then Pharaoh also called for the wise men and the sorcerers. They also, the magicians of Egypt, did the same thing with their enchantments. For they each cast down their rods, and they became serpents: but Aaron’s rod swallowed up their rods.",
+          "note": "Pharaoh's magicians counterfeiting Moses' signs is the paradigm of 'lying wonders' opposing God's truth, standing behind Satan's deceptive power in the lawless one."
+        },
+        {
+          "source": "Exodus 7:22",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The magicians of Egypt did the same thing with their enchantments; and Pharaoh’s heart was hardened, and he didn’t listen to them; as Yahweh had spoken.",
+          "note": "The magicians replicating the sign 'by their secret arts,' hardening resistance to God, parallels the counterfeit signs that deceive those who reject the truth."
+        },
+        {
+          "source": "Daniel 8:24-25",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "His power shall be mighty, but not by his own power; and he shall destroy wonderfully, and shall prosper in what he does; and he shall destroy the mighty ones and the holy people. Through his policy he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and he shall destroy many in their security. He shall also stand up against the prince of princes; but he shall be broken without hand.",
+          "note": "The horn that destroys 'by his cunning' and prospers through deceit parallels the lawless one operating with deception and false wonders."
+        }
+      ]
+    },
+    {
+      "id": "2.5",
+      "ch": 2,
+      "ref": "2:11-12",
+      "text": "Because of this, God sends them a working of error, that they should believe a lie; that they all might be judged who didn’t believe the truth, but had pleasure in unrighteousness.",
+      "echoes": [
+        {
+          "source": "Isaiah 6:9-10",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He said, “Go, and tell this people, ‘You hear indeed, but don’t understand; and you see indeed, but don’t perceive.’ Make the heart of this people fat. Make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and turn again, and be healed.”",
+          "note": "God's judicial hardening so that the people hear but do not understand underlies Paul's 'God sends them a working of error, that they should believe a lie.' The motif of divinely-sent blindness on those who reject truth is central."
+        },
+        {
+          "source": "Isaiah 29:10",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For Yahweh has poured out on you a spirit of deep sleep, and has closed your eyes, the prophets; and he has covered your heads, the seers.",
+          "note": "The Lord pouring out a 'spirit of deep sleep,' closing eyes, parallels the strong delusion God sends so that they believe what is false. Judicial stupefaction is the shared idea."
+        },
+        {
+          "source": "1 Kings 22:22-23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh said to him, ‘How?’ He said, ‘I will go out and will be a lying spirit in the mouth of all his prophets.’ He said, ‘You will entice him, and will also prevail. Go out and do so.’ Now therefore, behold, Yahweh has put a lying spirit in the mouth of all these your prophets; and Yahweh has spoken evil concerning you.”",
+          "note": "The 'lying spirit' the Lord puts in the mouth of the prophets to entice Ahab to his doom is a close parallel to God sending a 'working of error' so they believe a lie unto judgment. God's sovereign use of deception against the condemned is the shared logic."
+        },
+        {
+          "source": "Ezekiel 14:9",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "If the prophet is deceived and speak a word, I, Yahweh, have deceived that prophet, and I will stretch out my hand on him, and will destroy him from the midst of my people Israel.",
+          "note": "'If the prophet is deceived... I the Lord have deceived that prophet' supplies the same theology of divinely-sent delusion upon those who turn from God, directly paralleling Paul's God-sent error."
+        },
+        {
+          "source": "2 Chronicles 18:21-22",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“He said, ‘I will go, and will be a lying spirit in the mouth of all his prophets.’ “He said, ‘You will entice him, and will prevail also. Go and do so.’ “Now therefore, behold, Yahweh has put a lying spirit in the mouth of these your prophets; and Yahweh has spoken evil concerning you.”",
+          "note": "The parallel account of the lying spirit permitted by the Lord to deceive Ahab's prophets reinforces the source for God sending a delusion that leads to judgment."
+        },
+        {
+          "source": "Exodus 4:21",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Yahweh said to Moses, “When you go back into Egypt, see that you do before Pharaoh all the wonders which I have put in your hand, but I will harden his heart and he will not let the people go.",
+          "note": "The Lord hardening Pharaoh's heart so he will not believe parallels God sending a working of error so that they believe the lie and are condemned. The Pharaoh-hardening pattern stands behind judicial delusion.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 7:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will harden Pharaoh’s heart, and multiply my signs and my wonders in the land of Egypt.",
+          "note": "'I will harden Pharaoh's heart' continues the hardening motif that informs the God-sent delusion upon unbelievers; faint and analogical.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 44:18-20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "They don’t know, neither do they consider: for he has shut their eyes, that they can’t see; and their hearts, that they can’t understand. No one thinks, neither is there knowledge nor understanding to say, “I have burned part of it in the fire. Yes, I have also baked bread on its coals. I have roasted meat and eaten it. Shall I make the rest of it into an abomination? Shall I bow down to a tree trunk?” He feeds on ashes. A deceived heart has turned him […]",
+          "note": "The idolaters whose eyes are shut so they cannot understand, feeding on ashes and a 'deluded heart,' parallels those who believe the lie; faint.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.6",
+      "ch": 2,
+      "ref": "2:13-15",
+      "text": "But we are bound to always give thanks to God for you, brothers loved by the Lord, because God chose you from the beginning for salvation through sanctification of the Spirit and belief in the truth; to which he called you through our Good News, for the obtaining of the glory of our Lord Jesus Christ. So then, brothers, stand firm, and hold the traditions which you were taught by us, whether by word, or by letter.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 7:6-7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For you are a holy people to Yahweh your God. Yahweh your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth. Yahweh didn’t set his love on you, nor choose you, because you were more in number than any people; for you were the fewest of all peoples:",
+          "note": "God 'chose you' not for your numbers but in love is the election language behind 'God chose you from the beginning for salvation.' Paul transposes Israel's election to the believing community."
+        },
+        {
+          "source": "Deuteronomy 26:18-19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh has declared this day that you are a people for his own possession, as he has promised you, and that you should keep all his commandments. He will make you high above all nations that he has made, in praise, in name, and in honor; and that you may be a holy people to Yahweh your God, as he has spoken.",
+          "note": "The Lord taking Israel as his treasured, holy people set high for praise and glory parallels the choosing for salvation and obtaining glory. The covenant-election frame with firstfruits context (Deut 26) resonates."
+        },
+        {
+          "source": "Deuteronomy 26:2",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "that you shall take some of the first of all the fruit of the ground, which you shall bring in from your land that Yahweh your God gives you. You shall put it in a basket, and shall go to the place which Yahweh your God shall choose, to cause his name to dwell there.",
+          "note": "A textual variant of v.13 reads 'as firstfruits' (aparchen) rather than 'from the beginning'; the firstfruits offering commanded here would then stand behind believers chosen as firstfruits for salvation.",
+          "contested": true,
+          "altSource": "Exodus 23:19"
+        },
+        {
+          "source": "Jeremiah 2:3",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Israel was holiness to Yahweh, the first fruits of his increase. All who devour him shall be held guilty. Evil shall come on them,”’ says Yahweh.”",
+          "note": "Israel as 'the firstfruits of his harvest, holy to the Lord' parallels the firstfruits-for-salvation reading of v.13. Supports the variant in which believers are God's elect firstfruits.",
+          "contested": true,
+          "altSource": "Deuteronomy 26:10"
+        },
+        {
+          "source": "Deuteronomy 14:2",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For you are a holy people to Yahweh your God, and Yahweh has chosen you to be a people for his own possession, above all peoples who are on the face of the earth.",
+          "note": "'The Lord has chosen you to be a people for his treasured possession' reinforces the election language behind God's choosing the Thessalonians for salvation."
+        },
+        {
+          "source": "Isaiah 41:8-9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“But you, Israel, my servant, Jacob whom I have chosen, the seed of Abraham my friend, You whom I have taken hold of from the ends of the earth, and called from its corners, and said to you, ‘You are my servant, I have chosen you and not cast you away;’",
+          "note": "'Israel, my chosen... I have chosen you and not cast you off' parallels Paul's 'God chose you... for salvation' through calling. The prophetic election-and-call pattern is applied to the church."
+        },
+        {
+          "source": "Ezekiel 36:26-27",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I will also give you a new heart, and I will put a new spirit within you; and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. I will put my Spirit within you, and cause you to walk in my statutes, and you shall keep my ordinances, and do them.",
+          "note": "The promise of a new spirit causing the people to walk in God's statutes parallels 'sanctification of the Spirit' as the means of salvation; faint and conceptual.",
+          "contested": true
+        },
+        {
+          "source": "Leviticus 20:7-8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“‘Sanctify yourselves therefore, and be holy; for I am Yahweh your God. You shall keep my statutes, and do them. I am Yahweh who sanctifies you.",
+          "note": "'Consecrate yourselves... I am the Lord who sanctifies you' parallels sanctification as God's work in setting apart his people; faint.",
+          "contested": true
+        },
+        {
+          "source": "Exodus 14:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Moses said to the people, “Don’t be afraid. Stand still, and see the salvation of Yahweh, which he will work for you today: for the Egyptians whom you have seen today, you shall never see them again.",
+          "note": "'Stand firm and see the salvation of the Lord' offers a verbal-conceptual parallel to Paul's exhortation to 'stand firm,' though Paul's idiom is broadly Septuagintal.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.7",
+      "ch": 2,
+      "ref": "2:16-17",
+      "text": "Now our Lord Jesus Christ himself, and God our Father, who loved us and gave us eternal comfort and good hope through grace, comfort your hearts and establish you in every good work and word.",
+      "echoes": [
+        {
+          "source": "Isaiah 51:12",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“I, even I, am he who comforts you: who are you, that you are afraid of man who shall die, and of the son of man who shall be made as grass;",
+          "note": "'I, I am he who comforts you' lies behind 'God our Father... who gave us eternal comfort.' The divine self-designation as the comforter of his people resonates with Paul's benediction."
+        },
+        {
+          "source": "Isaiah 40:1",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“Comfort, comfort my people,” says your God.",
+          "note": "'Comfort, comfort my people' establishes the prophetic theme of divine consolation that informs 'eternal comfort and good hope.'"
+        },
+        {
+          "source": "Isaiah 49:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Sing, heavens; and be joyful, earth; and break out into singing, mountains: for Yahweh has comforted his people, and will have compassion on his afflicted.",
+          "note": "'The Lord has comforted his people' continues the Isaianic consolation motif behind God's gift of eternal comfort; faint.",
+          "contested": true
+        },
+        {
+          "source": "Isaiah 66:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As one whom his mother comforts, so will I comfort you; and you will be comforted in Jerusalem.”",
+          "note": "'As one whom his mother comforts, so I will comfort you' parallels the divine comfort Paul invokes; faint.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 112:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "His heart is established. He will not be afraid in the end when he sees his adversaries.",
+          "note": "'His heart is established/steady' parallels the prayer that God 'establish your hearts.' A possible Septuagintal verbal echo (sterizo/heart).",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.1",
+      "ch": 3,
+      "ref": "3:1-2",
+      "text": "Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be glorified, even as also with you; and that we may be delivered from unreasonable and evil men; for not all have faith.",
+      "echoes": [
+        {
+          "source": "Psalm 147:15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He sends out his commandment to the earth. His word runs very swiftly.",
+          "note": "Paul asks that 'the word of the Lord may spread rapidly (lit. run) and be glorified.' The psalm pictures God sending his command to the earth, his word running swiftly. The shared image of the divine word personified as a swift runner is striking and likely deliberate."
+        },
+        {
+          "source": "Isaiah 55:11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "so shall my word be that goes out of my mouth: it shall not return to me void, but it shall accomplish that which I please, and it shall prosper in the thing I sent it to do.",
+          "note": "Isaiah's word that goes out from God's mouth and does not return empty but accomplishes its purpose underlies Paul's confidence that the gospel word will run and be glorified. The efficacious, mission-accomplishing word is the conceptual backdrop."
+        },
+        {
+          "source": "Psalm 140:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Deliver me, Yahweh, from the evil man. Preserve me from the violent man;",
+          "note": "Paul's plea to be 'delivered from unreasonable and evil men' echoes the psalmist's prayer to be rescued from evil and violent men. A common lament idiom rather than a specific citation.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.3",
+      "ch": 3,
+      "ref": "3:3-5",
+      "text": "But the Lord is faithful, who will establish you, and guard you from the evil one. We have confidence in the Lord concerning you, that you both do and will do the things we command. May the Lord direct your hearts into the love of God, and into the patience of Christ.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 7:9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Know therefore that Yahweh your God himself is God, the faithful God, who keeps covenant and loving kindness with them who love him and keep his commandments to a thousand generations,",
+          "note": "'But the Lord is faithful' draws on the covenantal confession that the Lord is the faithful God who keeps covenant. The predicate 'faithful' (pistos) of God is rooted in this Deuteronomic and broader OT formula of divine covenant fidelity."
+        },
+        {
+          "source": "Psalm 121:7",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh will keep you from all evil. He will keep your soul.",
+          "note": "'The Lord... will guard you from the evil one' echoes the psalm's promise that the Lord will keep/guard you from all evil and will keep your life. The verb of divine guarding (phylasso) against evil is the shared note; Paul personalizes 'evil' as 'the evil one.'"
+        },
+        {
+          "source": "1 Chronicles 29:18",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh, the God of Abraham, of Isaac, and of Israel, our fathers, keep this forever in the imagination of the thoughts of the heart of your people, and prepare their heart for you;",
+          "note": "'May the Lord direct your hearts into the love of God' recalls David's prayer that the Lord direct/establish the hearts of the people toward himself. The idiom of God directing the human heart toward devotion is the link."
+        },
+        {
+          "source": "Proverbs 16:9",
+          "type": "echo",
+          "confidence": "low",
+          "text": "A man’s heart plans his course, but Yahweh directs his steps.",
+          "note": "The notion that the Lord 'directs' a person's heart/steps, while the human plans, lies behind Paul's wish that the Lord direct their hearts. A wisdom commonplace about divine guidance of the inner life.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.6",
+      "ch": 3,
+      "ref": "3:6-12",
+      "text": "Now we command you, brothers, in the name of our Lord Jesus Christ, that you withdraw yourselves from every brother who walks in rebellion, and not after the tradition which they received from us. For you know how you ought to imitate us. For we didn’t behave ourselves rebelliously among you, neither did we eat bread from anyone’s hand without paying for it, but in labor and travail worked night and day, that we might not burden any of you; not because we don’t have the right, but to make ourselves an example to you, that you should imitate us. For even when we were with you, we commanded you this: “If anyone will not work, neither let him eat.” For we hear of some who walk among you in rebellion, who don’t work at all, but are busybodies. Now those who are that way, we command and exhort in the Lord Jesus Christ, that with quietness they work, and eat their own bread.",
+      "echoes": [
+        {
+          "source": "Genesis 3:19",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "By the sweat of your face will you eat bread until you return to the ground, for out of it you were taken. For you are dust, and to dust you shall return.”",
+          "note": "'If anyone will not work, neither let him eat' rests on the primeval verdict that by the sweat of your face you shall eat bread. The post-Eden link between toil and bread is the theological ground of Paul's labor rule, including his own working night and day for his bread."
+        },
+        {
+          "source": "Proverbs 10:4",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "He becomes poor who works with a lazy hand, but the hand of the diligent brings wealth.",
+          "note": "The wisdom contrast between the slack/idle hand bringing poverty and the diligent hand bringing wealth underlies Paul's rebuke of those who refuse to work. Proverbs' sustained ethic of diligence vs. sloth shapes his command."
+        },
+        {
+          "source": "Proverbs 6:6-11",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Go to the ant, you sluggard. Consider her ways, and be wise; which having no chief, overseer, or ruler, provides her bread in the summer, and gathers her food in the harvest. How long will you sleep, sluggard? When will you arise out of your sleep? A little sleep, a little slumber, a little folding of the hands to sleep: so your poverty will come as a robber, and your scarcity as an armed man.",
+          "note": "The sluggard sent to the ant, who provides her food by labor, and the warning that poverty comes on the lazy, parallels Paul's portrait of the idle who refuse to work. A central sloth-condemning passage in the wisdom tradition."
+        },
+        {
+          "source": "Proverbs 19:15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Slothfulness casts into a deep sleep. The idle soul shall suffer hunger.",
+          "note": "'Idleness casts into a deep sleep, and the slack person will go hungry' closely mirrors Paul's pairing of idleness with not eating. A pointed wisdom maxim on the cost of laziness.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 28:19",
+          "type": "echo",
+          "confidence": "low",
+          "text": "One who works his land will have an abundance of food; but one who chases fantasies will have his fill of poverty.",
+          "note": "'Whoever works his land will have plenty of bread, but he who follows worthless pursuits will have plenty of poverty' echoes Paul's bread-and-work logic and his complaint about busybodies pursuing nothing useful.",
+          "contested": true
+        },
+        {
+          "source": "Sirach 33:27-28",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Send him to labor, that he be not idle; For idleness teaches much mischief. Set him to work, as is fit for him; And if he obey not, make his fetters heavy.",
+          "note": "Ben Sira urges putting an idle servant to work lest idleness teach mischief, since idleness breeds trouble. This deuterocanonical labor wisdom is close in spirit to Paul's treatment of the idle who become busybodies."
+        }
+      ]
+    },
+    {
+      "id": "3.13",
+      "ch": 3,
+      "ref": "3:13",
+      "text": "But you, brothers, don’t be weary in doing well.",
+      "echoes": [
+        {
+          "source": "Isaiah 40:31",
+          "type": "echo",
+          "confidence": "low",
+          "text": "But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.",
+          "note": "'Don't be weary in doing well' may echo Isaiah's promise that those who wait on the Lord will renew strength, run and not be weary, walk and not faint. The shared vocabulary of not growing weary is suggestive but the Isaian context is endurance, not active well-doing.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.14",
+      "ch": 3,
+      "ref": "3:14-15",
+      "text": "If any man doesn’t obey our word in this letter, note that man, that you have no company with him, to the end that he may be ashamed. Don’t count him as an enemy, but admonish him as a brother.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:17",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“‘You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not bear sin because of him.",
+          "note": "'Don't count him as an enemy, but admonish him as a brother' enacts the Holiness Code command not to hate your brother in your heart but to reason with/reprove your neighbor. The pattern of corrective rebuke that preserves fraternal love is the same."
+        }
+      ]
+    },
+    {
+      "id": "3.16",
+      "ch": 3,
+      "ref": "3:16-18",
+      "text": "Now may the Lord of peace himself give you peace at all times in all ways. The Lord be with you all. The greeting of me, Paul, with my own hand, which is the sign in every letter: this is how I write. The grace of our Lord Jesus Christ be with you all. Amen.",
+      "echoes": [
+        {
+          "source": "Numbers 6:26",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh lift up his face toward you, and give you peace.’",
+          "note": "'May the Lord of peace himself give you peace' draws on the Aaronic blessing, where the Lord lifts up his countenance upon you and gives you peace. Paul reshapes the priestly benediction's gift of shalom into a benediction from the 'Lord of peace.'"
+        },
+        {
+          "source": "Judges 6:24",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Then Gideon built an altar there to Yahweh, and called it “Yahweh is Peace.” To this day it is still in Ophrah of the Abiezrites.",
+          "note": "Gideon's altar named 'The Lord is Peace' (YHWH-shalom) supplies a precedent for the divine title 'Lord of peace.' The naming of God by peace is the conceptual link, though Paul's phrasing is his own.",
+          "contested": true
+        },
+        {
+          "source": "Ruth 2:4",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Behold, Boaz came from Bethlehem, and said to the reapers, “Yahweh be with you.” They answered him, “Yahweh bless you.”",
+          "note": "'The Lord be with you all' echoes the customary Israelite greeting/blessing, as when Boaz greets the reapers, 'The Lord be with you.' A liturgical-blessing formula rather than a quotation.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

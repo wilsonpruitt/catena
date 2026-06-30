@@ -1,0 +1,140 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-7",
+    "echoes": [
+      {
+        "source": "Exodus 18:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jethro's criteria for appointing leaders over Israel — capable, God-fearing, trustworthy men who hate dishonest gain — supply the scriptural template for the qualified overseer. The cluster of 'without reproach,' 'not greedy for money,' and good character closely tracks this paradigm of vetted communal leadership.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 1:13",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Moses' charge to select 'wise, understanding, and respected men' as heads parallels the demand that the overseer be sensible and have good testimony. A secondary witness to the same leader-selection topos as Exodus 18.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 16:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Pride goes before destruction, a haughty spirit before a fall' underwrites the warning that a new convert, being puffed up, may 'fall into the same condemnation as the devil.' The pride-then-fall logic is the wisdom commonplace Paul deploys.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 14:12-15",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "The fall of the Day Star, brought down to Sheol for his self-exalting ambition, lies behind 'the condemnation of the devil' when read through later traditions identifying this figure with Satan's primal pride. Contested because Isaiah's oracle targets the king of Babylon; the diabolical reading is a development.",
+        "contested": true,
+        "altSource": "Ezekiel 28:11-17"
+      },
+      {
+        "source": "Proverbs 31:4-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The counsel that rulers should not crave wine lest they pervert judgment resonates with 'not a drinker' among qualifications for one who governs God's household. A faint thematic link within the broader wisdom critique of drunken leadership.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Abraham is chosen precisely because he will 'command his children and his household' to keep the way of the LORD — a faint figural anticipation of the principle that one who rules his own house well is fit to care for the assembly of God.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 91:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'snare of the fowler' from which God delivers feeds the imagery of 'the snare of the devil' into which the disreputable overseer may fall. Faint; 'snare' is a common metaphor shared with Proverbs 29:25.",
+        "contested": true,
+        "altSource": "Proverbs 29:25"
+      }
+    ]
+  },
+  {
+    "id": "3.8",
+    "ch": 3,
+    "ref": "3:8-13",
+    "echoes": [
+      {
+        "source": "Sirach 5:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ben Sira's warning against being called 'double-tongued' (dilogos / the slanderer's two-faced speech) directly parallels the deacon requirement 'not double-tongued.' The deuterocanonical wisdom tradition is the nearest verbal antecedent for this rare moral term.",
+        "contested": false,
+        "altSource": "Sirach 28:13"
+      },
+      {
+        "source": "Proverbs 11:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A gossip betrays a confidence, but the trustworthy keep a secret' undergirds both 'not double-tongued' for deacons and 'not slanderers' for the women. The contrast of the talebearer against the faithful person is the wisdom backdrop.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 18:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'not greedy for money' (lit. 'not greedy for dishonest gain') required of deacons echoes Jethro's stipulation that leaders 'hate bribes/dishonest gain,' extending the same integrity standard from overseers to assistants.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "3.14",
+    "ch": 3,
+    "ref": "3:14-16",
+    "echoes": [
+      {
+        "source": "Deuteronomy 5:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The living God' — a recurring covenant epithet first voiced at Horeb ('who has heard the voice of the living God?') — names the church as 'the assembly of the living God.' The phrase carries the Sinai contrast between Israel's true God and lifeless idols.",
+        "contested": false,
+        "altSource": "Joshua 3:10"
+      },
+      {
+        "source": "1 Kings 7:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Solomon's two bronze pillars Jachin ('he establishes') and Boaz ('in him is strength') at the temple porch supply the architectural image behind the church as 'the pillar and ground of the truth.' The temple/pillar metaphor casts the assembly as the structure that upholds revealed truth.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 9:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom 'has built her house, she has hewn her seven pillars' lends a sapiential resonance to 'house of God' as a pillared structure of truth. Faint and secondary to the temple-pillar imagery.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 68:18",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "'You ascended on high, leading captives' stands behind the hymn's closing 'received up in glory,' the standard OT ascent-text in early Christian exaltation language. Faint because the verbal contact is thematic (ascent/glory) rather than quotation.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The one like a son of man presented before the Ancient of Days and given dominion, served by 'all peoples, nations, and languages,' figurally anticipates the hymn's arc — seen by angels, proclaimed among the nations, received up in glory. A heavenly enthronement pattern rather than a citation.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 52:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant before whom nations and kings are startled, who is 'proclaimed' where unheard, faintly underlies 'preached among the nations, believed on in the world.' A thin link to the Isaianic mission-to-the-nations motif.",
+        "contested": true,
+        "altSource": "Isaiah 49:6"
+      }
+    ]
+  }
+]

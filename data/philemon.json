@@ -1,0 +1,175 @@
+{
+  "slug": "philemon",
+  "name": "Philemon",
+  "subtitle": "A Welcome Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "Paul’s shortest letter asks one thing: welcome back Onesimus, a runaway slave, no longer as a slave but as a beloved brother. Beneath the gracious appeal runs the deep grammar of Scripture — the brother received, the debt charged to another’s account, the providence that turns a wrong into good as it did with Joseph and his brothers. It is a small letter in which the gospel quietly undoes a hierarchy. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where the writer follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-3",
+      "text": "Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our beloved fellow worker, to the beloved Apphia, to Archippus, our fellow soldier, and to the assembly in your house: Grace to you and peace from God our Father and the Lord Jesus Christ.",
+      "echoes": []
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:4-7",
+      "text": "I thank my God always, making mention of you in my prayers, hearing of your love, and of the faith which you have toward the Lord Jesus, and toward all the saints; that the fellowship of your faith may become effective, in the knowledge of every good thing which is in us in Christ Jesus. For we have much joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother.",
+      "echoes": [
+        {
+          "source": "Proverbs 25:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As the cold of snow in the time of harvest, so is a faithful messenger to those who send him; for he refreshes the soul of his masters.",
+          "note": "Paul says the hearts (literally bowels/inward parts) of the saints have been 'refreshed' through Philemon. Proverbs likens a faithful messenger to the cold of snow that 'refreshes the soul' of his masters, the nearest sapiential parallel to this language of inward refreshment. The link is verbal and thematic rather than a citation, and Paul develops it more pointedly at v20.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "ch": 1,
+      "ref": "1:8-9",
+      "text": "Therefore though I have all boldness in Christ to command you that which is appropriate, yet for love’s sake I rather beg, being such a one as Paul, the aged, but also a prisoner of Jesus Christ.",
+      "echoes": []
+    },
+    {
+      "id": "1.4",
+      "ch": 1,
+      "ref": "1:10-11",
+      "text": "I beg you for my child, whom I have become the father of in my chains, Onesimus, who once was useless to you, but now is useful to you and to me.",
+      "echoes": []
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:12-14",
+      "text": "I am sending him back. Therefore receive him, that is, my own heart, whom I desired to keep with me, that on your behalf he might serve me in my chains for the Good News. But I was willing to do nothing without your consent, that your goodness would not be as of necessity, but of free will.",
+      "echoes": []
+    },
+    {
+      "id": "1.6",
+      "ch": 1,
+      "ref": "1:15-16",
+      "text": "For perhaps he was therefore separated from you for a while, that you would have him forever, no longer as a slave, but more than a slave, a beloved brother, especially to me, but how much rather to you, both in the flesh and in the Lord.",
+      "echoes": [
+        {
+          "source": "Leviticus 25:39-43",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“‘If your brother has grown poor among you, and sells himself to you; you shall not make him to serve as a slave. As a hired servant, and as a temporary resident, he shall be with you; he shall serve with you until the Year of Jubilee: then he shall go out from you, he and his children with him, and shall return to his own family, and to the possession of his fathers. For they are my servants, whom I brought out of the land of Egypt. They shall not be […]",
+          "note": "Paul asks Philemon to receive Onesimus 'no longer as a slave, but more than a slave, a beloved brother.' The Holiness Code forbids treating an impoverished Israelite who sells himself as a slave, requiring instead that he be held as a hired worker and a brother, not ruled over harshly. Paul effectively extends this Israelite kinship-over-bondage principle to a Christian master and his returning slave."
+        },
+        {
+          "source": "Deuteronomy 15:12-15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "If your brother, a Hebrew man, or a Hebrew woman, is sold to you, and serves you six years; then in the seventh year you shall let him go free from you. When you let him go free from you, you shall not let him go empty. You shall furnish him liberally out of your flock, out of your threshing floor, and out of your wine press. As Yahweh your God has blessed you, you shall give to him. You shall remember that you were a slave in the land of Egypt, and […]",
+          "note": "The Deuteronomic slave law mandates release of a Hebrew bondservant and generous provision out of remembered solidarity ('you were a slave in Egypt'). Paul's reconfiguring of Onesimus from slave to beloved brother, no longer held under necessity, resonates with this manumission-and-fraternity ethic, though Paul never cites the statute."
+        },
+        {
+          "source": "Deuteronomy 23:15-16",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall not deliver to his master a servant who has escaped from his master to you. He shall dwell with you, in your midst, in the place which he shall choose within one of your gates, where it pleases him best. You shall not oppress him.",
+          "note": "The law forbids returning an escaped slave to his master and requires letting him dwell freely where he chooses. Paul's careful handling of the fugitive Onesimus, sending him back only as a free brother and asking Philemon not to reclaim him as property, stands in deliberate tension and dialogue with this provision. Many read the whole letter as Paul navigating around the spirit of this command.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 45:5-8",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Now don’t be grieved, nor angry with yourselves, that you sold me here, for God sent me before you to preserve life. For these two years the famine has been in the land, and there are yet five years, in which there will be neither plowing nor harvest. God sent me before you to preserve for you a remnant in the earth, and to save you alive by a great deliverance. So now it wasn’t you who sent me here, but God, and he has made me a father to Pharaoh, lord […]",
+          "note": "'Perhaps he was separated from you for a while, that you would have him forever' echoes Joseph's providential reading of his own separation from his family: 'God sent me before you to preserve life... it was not you who sent me here, but God.' Paul, like Joseph, reframes a painful parting as hidden divine purpose that yields a greater, lasting reunion."
+        },
+        {
+          "source": "Genesis 50:20",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As for you, you meant evil against me, but God meant it for good, to bring to pass, as it is this day, to save many people alive.",
+          "note": "Joseph's summary, 'you meant evil against me, but God meant it for good,' undergirds Paul's 'perhaps' of v15, where Onesimus's wrong and flight are recast as occasion for good. The thematic kinship is strong even though Paul borrows no wording.",
+          "contested": true
+        },
+        {
+          "source": "Genesis 29:14",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Laban said to him, “Surely you are my bone and my flesh.” He lived with him for a month.",
+          "note": "Onesimus is now to be received as a brother 'both in the flesh and in the Lord.' Laban's welcome of Jacob, 'surely you are my bone and my flesh,' is the paradigmatic Hebrew idiom for kinship recognition that overrides prior status. The connection is faint and conceptual.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.7",
+      "ch": 1,
+      "ref": "1:17-19",
+      "text": "If then you count me a partner, receive him as you would receive me. But if he has wronged you at all, or owes you anything, put that to my account. I, Paul, write this with my own hand: I will repay it (not to mention to you that you owe to me even your own self besides).",
+      "echoes": [
+        {
+          "source": "Genesis 43:9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "I’ll be collateral for him. From my hand will you require him. If I don’t bring him to you, and set him before you, then let me bear the blame forever,",
+          "note": "'If he has wronged you or owes you anything, put that to my account... I will repay it' enacts the role of surety. Judah pledges himself for Benjamin: 'I will be surety for him; of my hand you shall require him.' Paul stands as personal guarantor for Onesimus exactly as Judah does for his brother, assuming the debt against himself."
+        },
+        {
+          "source": "Genesis 44:32",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For your servant became collateral for the boy to my father, saying, ‘If I don’t bring him to you, then I will bear the blame to my father forever.’",
+          "note": "Judah restates his suretyship before Joseph, 'I became surety for the boy to my father,' offering to bear the consequence in the brother's place. Paul's handwritten pledge to absorb Onesimus's debt and stand in his stead closely parallels this self-substituting guarantee for a kinsman."
+        },
+        {
+          "source": "Proverbs 6:1-3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "My son, if you have become collateral for your neighbor, if you have struck your hands in pledge for a stranger; You are trapped by the words of your mouth. You are ensnared with the words of your mouth. Do this now, my son, and deliver yourself, since you have come into the hand of your neighbor. Go, humble yourself. Press your plea with your neighbor.",
+          "note": "Proverbs repeatedly treats the giving of surety for another as a weighty, self-binding act ('if you have struck your hands in pledge for a stranger... you are snared by the words of your mouth'). Paul knowingly takes on precisely this binding pledge for Onesimus, inverting the proverb's caution into voluntary love.",
+          "contested": true
+        },
+        {
+          "source": "Proverbs 11:15",
+          "type": "echo",
+          "confidence": "low",
+          "text": "He who is collateral for a stranger will suffer for it, but he who refuses pledges of collateral is secure.",
+          "note": "'He who is surety for a stranger will suffer for it.' Paul's assumption of Onesimus's liability deliberately embraces the cost the proverb warns against, making the sapiential surety-language a backdrop for his act of intercession.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.8",
+      "ch": 1,
+      "ref": "1:20-22",
+      "text": "Yes, brother, let me have joy from you in the Lord. Refresh my heart in the Lord. Having confidence in your obedience, I write to you, knowing that you will do even beyond what I say. Also, prepare a guest room for me, for I hope that through your prayers I will be restored to you.",
+      "echoes": [
+        {
+          "source": "Proverbs 25:13",
+          "type": "echo",
+          "confidence": "low",
+          "text": "As the cold of snow in the time of harvest, so is a faithful messenger to those who send him; for he refreshes the soul of his masters.",
+          "note": "'Refresh my heart in the Lord' picks up the language of inward refreshment from v7. Proverbs' image of the faithful messenger who 'refreshes the soul of his masters' is the closest wisdom parallel to this petition for refreshment as the fruit of obedient love.",
+          "contested": true
+        },
+        {
+          "source": "2 Kings 4:8-10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "It fell on a day, that Elisha passed to Shunem, where there was a prominent woman; and she persuaded him to eat bread. So it was, that as often as he passed by, he turned in there to eat bread. She said to her husband, “See now, I perceive that this is a holy man of God, that passes by us continually. Please let us make a little room on the wall. Let us set for him there a bed, a table, a chair, and a lamp stand. It shall be, when he comes to us, that he […]",
+          "note": "'Prepare a guest room for me' faintly recalls the Shunammite woman who prepares a small upper room for Elisha so the man of God may lodge with her. The shared motif is hospitality of a lodging readied for an honored servant of God, though Paul uses ordinary travel language without scriptural signal.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.9",
+      "ch": 1,
+      "ref": "1:23-25",
+      "text": "Epaphras, my fellow prisoner in Christ Jesus, greets you, as do Mark, Aristarchus, Demas, and Luke, my fellow workers. The grace of our Lord Jesus Christ be with your spirit. Amen.",
+      "echoes": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-3",
+    "echoes": [
+      { "source": "Deuteronomy 13:1-5", "type": "allusion", "confidence": "medium", "note": "'False prophets arose among the people, as false teachers will be among you' presupposes the Mosaic law on the prophet who entices Israel after other gods and must be purged — the Deuteronomic category of the false prophet.", "contested": false },
+      { "source": "Jeremiah 23:16-17", "type": "echo", "confidence": "medium", "note": "Jeremiah's false prophets who 'speak visions of their own minds' and lead the people astray supply the prophetic backdrop to the destructive teachers with their 'deceptive words.'", "contested": false },
+      { "source": "Ezekiel 13:3-10", "type": "echo", "confidence": "low", "note": "Ezekiel's foolish prophets who follow their own spirit and whitewash the wall add to the false-prophet portrait.", "contested": true }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:4-10",
+    "echoes": [
+      { "source": "Genesis 6:1-4", "type": "allusion", "confidence": "high", "note": "'God did not spare the angels when they sinned, but cast them down to Tartarus' draws on the sons of God who took human wives before the flood, read in Second-Temple tradition as the rebellion of the Watchers.", "contested": false },
+      { "source": "1 Enoch 10:4-6", "type": "allusion", "confidence": "medium", "note": "The binding of the sinful angels in 'pits of darkness, reserved for judgment' follows the Enochic account of the Watchers chained in the valleys of the earth until the day of judgment — the explicit source of the imprisonment imagery (pseudepigraphal; cf. Jude 6).", "contested": true },
+      { "source": "Genesis 7:1", "type": "allusion", "confidence": "high", "note": "'He did not spare the ancient world but preserved Noah with seven others… when he brought a flood' rests on the flood narrative and the eight souls saved in the ark.", "contested": false, "altSource": "Genesis 6:8-9" },
+      { "source": "Genesis 19:24-25", "type": "allusion", "confidence": "high", "note": "'Turning the cities of Sodom and Gomorrah into ashes, condemned them… an example' draws directly on the destruction of the cities by fire and sulfur as a paradigm of judgment.", "contested": false },
+      { "source": "Genesis 19:7-16", "type": "allusion", "confidence": "high", "note": "'Delivered righteous Lot, distressed by the lustful life of the wicked' depends on Lot's rescue from Sodom; Peter reads him as the righteous man tormented among the lawless.", "contested": false },
+      { "source": "Wisdom 10:6", "type": "echo", "confidence": "medium", "note": "Wisdom's account that she 'rescued a righteous man when the ungodly were perishing' as fire fell on Pentapolis is the Second-Temple reading of Lot as the rescued righteous one.", "contested": false },
+      { "source": "Psalm 34:17-19", "type": "echo", "confidence": "medium", "note": "'The LORD knows how to deliver the godly… and to keep the unrighteous under punishment' restates the psalm's confidence that the LORD delivers the righteous out of all their afflictions.", "contested": false }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:11-16",
+    "echoes": [
+      { "source": "Zechariah 3:2", "type": "allusion", "confidence": "medium", "note": "That even angels 'do not bring a railing judgment' against the dignitaries before the Lord parallels the rebuke 'The LORD rebuke you, O Satan' — the restraint of the angel before God that Jude 9 makes explicit.", "contested": false },
+      { "source": "Psalm 49:12", "type": "echo", "confidence": "medium", "note": "'Like unreasoning animals, born natural creatures to be taken and destroyed' echoes the psalm's 'man… is like the beasts that perish,' the bestial-and-doomed figure for those without understanding.", "contested": false, "altSource": "Psalm 49:20" },
+      { "source": "Numbers 22:21-35", "type": "allusion", "confidence": "high", "note": "'They followed the way of Balaam… who loved the wages of wrongdoing, but was rebuked… a mute donkey spoke with a man's voice and stopped the madness of the prophet' depends directly on Balaam and the speaking donkey of Numbers 22.", "contested": false },
+      { "source": "Numbers 31:16", "type": "echo", "confidence": "medium", "note": "Balaam's later role in enticing Israel to sin at Peor ('loved the wages of wrongdoing') deepens the indictment of the false teachers' greed (cf. Deuteronomy 23:4-5).", "contested": false, "altSource": "Deuteronomy 23:4-5" }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:17-22",
+    "echoes": [
+      { "source": "Jeremiah 2:13", "type": "echo", "confidence": "medium", "note": "'Wells without water' inverts the prophetic image of the LORD as 'the fountain of living waters' whom the people forsook for 'broken cisterns that can hold no water' — the false teachers promise water and give none.", "contested": false },
+      { "source": "Proverbs 26:11", "type": "quotation", "confidence": "high", "note": "Peter cites it as a 'true proverb': 'The dog turns to his own vomit again' reproduces Proverbs 26:11, 'like a dog that returns to his vomit is a fool who repeats his folly.' The washed-sow saying is paired with it as a popular proverb.", "contested": false },
+      { "source": "Proverbs 26:3", "type": "echo", "confidence": "low", "note": "The broader proverbial portrait of the fool incorrigible in folly stands behind the double proverb of the dog and the sow.", "contested": true }
+    ]
+  }
+]

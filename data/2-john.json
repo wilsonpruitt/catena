@@ -1,0 +1,203 @@
+{
+  "slug": "2-john",
+  "name": "2 John",
+  "subtitle": "A Truth Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "A short letter to a chosen lady and her children, 2 John walks the line between truth and deception. Love is walking according to the commandments; the commandment, from the beginning, is to love one another — but the love that abides in truth must also refuse the deceivers who do not confess Christ, not even receiving them into the house. Truth and love are not rivals here; they keep each other honest. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where the writer follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-3",
+      "text": "The elder, to the chosen lady and her children, whom I love in truth; and not I only, but also all those who know the truth; for the truth’s sake, which remains in us, and it will be with us forever: Grace, mercy, and peace will be with us, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 7:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For you are a holy people to Yahweh your God. Yahweh your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth.",
+          "note": "The greeting to the \"chosen (elect) lady and her children\" draws on Israel's status as the people the LORD chose for himself out of all peoples. The personified \"lady\" likely figures the church as the elect community, transferring covenant-election language to it."
+        },
+        {
+          "source": "Isaiah 62:1-5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until her righteousness go out as brightness, and her salvation as a lamp that burns. The nations shall see your righteousness, and all kings your glory, and you shall be called by a new name, which the mouth of Yahweh shall name. You shall also be a crown of beauty in the hand of Yahweh, and a royal diadem in the hand of your God. You shall no more be termed Forsaken; […]",
+          "note": "The address to a beloved \"lady\" personifying the covenant community recalls the OT habit of personifying Zion/Jerusalem as a woman (daughter of Zion, the bride). The figure of the church as an elect woman with children stands in this tradition.",
+          "contested": true
+        },
+        {
+          "source": "Lamentations 1:1",
+          "type": "echo",
+          "confidence": "low",
+          "text": "How the city sits solitary, that was full of people! She has become as a widow, who was great among the nations! She who was a princess among the provinces has become tributary!",
+          "note": "The personification of the community as a lady (\"the elect lady\") echoes the OT convention of figuring the city/people as a woman, as Lamentations personifies Jerusalem as a bereaved lady. Faint and structural rather than verbal.",
+          "contested": true
+        },
+        {
+          "source": "Numbers 6:25-26",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.’",
+          "note": "The salutation \"Grace, mercy, and peace... from God the Father\" stands in the line of the Aaronic blessing, which invokes the LORD's grace and peace upon the people. The conceptual debt is to the priestly benediction even though the wording is recast.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 25:10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "All the paths of Yahweh are loving kindness and truth to such as keep his covenant and his testimonies.",
+          "note": "The pairing of \"truth\" with \"love/mercy\" that pervades the opening (loved in truth; grace, mercy in truth and love) recalls the steadfast-love-and-faithfulness word-pair characteristic of the Psalter. The covenant virtues hesed and emet underlie the Johannine \"love and truth.\"",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "ch": 1,
+      "ref": "1:4",
+      "text": "I rejoice greatly that I have found some of your children walking in truth, even as we have been commanded by the Father.",
+      "echoes": [
+        {
+          "source": "Psalm 86:11",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Teach me your way, Yahweh. I will walk in your truth. Make my heart undivided to fear your name.",
+          "note": "\"Walking in truth\" renders an OT idiom for fidelity to God; the psalmist asks to be taught the LORD's way so as to walk in his truth. The behavioral sense of \"truth\" as covenant loyalty, not mere doctrine, is the OT background."
+        },
+        {
+          "source": "2 Kings 20:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "“Remember now, Yahweh, I beg you, how I have walked before you in truth and with a perfect heart, and have done that which is good in your sight.” Hezekiah wept bitterly.",
+          "note": "Hezekiah's plea that he walked before the LORD \"in truth\" supplies the same idiom of life-conduct as fidelity. The elder's joy at children \"walking in truth\" reuses this covenant-walk language.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:5-6",
+      "text": "Now I beg you, dear lady, not as though I wrote to you a new commandment, but that which we had from the beginning, that we love one another. This is love, that we should walk according to his commandments. This is the commandment, even as you heard from the beginning, that you should walk in it.",
+      "echoes": [
+        {
+          "source": "Leviticus 19:18",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“‘You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am Yahweh.",
+          "note": "The commandment \"that we love one another,\" identified as that held \"from the beginning,\" rests on the Torah command to love your neighbor as yourself. The Johannine \"new/old commandment\" tension presupposes this foundational Levitical law as the love commandment's source."
+        },
+        {
+          "source": "Deuteronomy 5:33",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "You shall walk in all the way which Yahweh your God has commanded you, that you may live, and that it may be well with you, and that you may prolong your days in the land which you shall possess.",
+          "note": "\"This is love, that we should walk according to his commandments\" reflects the Deuteronomic equation of loving/serving God with walking in all his commandments. Love is defined as obedient covenant-walk, the central Deuteronomic logic."
+        },
+        {
+          "source": "Deuteronomy 6:5",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "You shall love Yahweh your God with all your heart, with all your soul, and with all your might.",
+          "note": "The fusion of love and commandment-keeping echoes the Shema's call to love the LORD with the commandments laid on the heart in the surrounding verses. The elder's collapse of love into walking in the commandments is thoroughly Deuteronomic."
+        },
+        {
+          "source": "2 Kings 23:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "The king stood by the pillar, and made a covenant before Yahweh, to walk after Yahweh, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and all his soul, to confirm the words of this covenant that were written in this book: and all the people stood to the covenant.",
+          "note": "Josiah's covenant \"to walk after the LORD and keep his commandments... with all his heart\" models the formula of love expressed as walking in the commandments. The verbal pairing of walking and keeping commandments parallels v.6.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.7",
+      "ch": 1,
+      "ref": "1:7",
+      "text": "For many deceivers have gone out into the world, those who don’t confess that Jesus Christ came in the flesh. This is the deceiver and the Antichrist.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 13:1-5",
+          "type": "echo",
+          "confidence": "low",
+          "text": "If a prophet or a dreamer of dreams arises in your midst you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, “Let us go after other gods” (which you have not known) “and let us serve them”; you shall not listen to the words of that prophet, or to that dreamer of dreams; for Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul. […]",
+          "note": "The \"many deceivers\" who have gone out and lead astray recall the Deuteronomic prophet or dreamer who seduces Israel to falsehood and must be rejected. The category of the deceiver who tests the community's loyalty is Deuteronomic, though John applies it Christologically.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.8",
+      "ch": 1,
+      "ref": "1:8-9",
+      "text": "Watch yourselves, that we don’t lose the things which we have accomplished, but that we receive a full reward. Whoever transgresses and doesn’t remain in the teaching of Christ, doesn’t have God. He who remains in the teaching, the same has both the Father and the Son.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 4:9",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Only be careful, and keep your soul diligently, lest you forget the things which your eyes saw, and lest they depart from your heart all the days of your life; but make them known to your children and your children’s children;",
+          "note": "\"Watch yourselves, that we don't lose the things we have accomplished\" reuses the recurrent Deuteronomic warning to take heed to oneself lest one forget and fall away. The reflexive self-guarding against loss is a hallmark Deuteronomic exhortation."
+        },
+        {
+          "source": "Deuteronomy 4:23",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Be careful, lest you forget the covenant of Yahweh your God, which he made with you, and make yourselves an engraved image in the form of anything which Yahweh your God has forbidden you.",
+          "note": "The same \"take heed to yourselves lest you forget the covenant\" formula reinforces the warning against losing what has been gained. The self-watch protects the relationship already established with God.",
+          "contested": true
+        },
+        {
+          "source": "Ruth 2:12",
+          "type": "echo",
+          "confidence": "low",
+          "text": "May Yahweh repay your work, and a full reward be given you from Yahweh, the God of Israel, under whose wings you have come to take refuge.”",
+          "note": "The hope to \"receive a full reward\" echoes Boaz's blessing that Ruth receive a full reward from the LORD under whose wings she has taken refuge. The image of a complete recompense for faithful conduct supplies the background.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.10",
+      "ch": 1,
+      "ref": "1:10-11",
+      "text": "If anyone comes to you, and doesn’t bring this teaching, don’t receive him into your house, and don’t welcome him, for he who welcomes him participates in his evil works.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 13:6-11",
+          "type": "echo",
+          "confidence": "low",
+          "text": "If your brother, the son of your mother, or your son, or your daughter, or the wife of your bosom, or your friend, who is as your own soul, entices you secretly, saying, “Let us go and serve other gods,” which you have not known, you, nor your fathers; of the gods of the peoples who are around you, near to you, or far off from you, from the one end of the earth even to the other end of the earth; you shall not consent to him, nor listen to him; neither […]",
+          "note": "The refusal to receive the false teacher into one's house or greet him parallels the Deuteronomic command to show no pity and not consent to the one who entices to apostasy. The separation from the corrupter to avoid sharing his guilt reflects this Torah severity toward enticement.",
+          "contested": true
+        },
+        {
+          "source": "Psalm 50:18",
+          "type": "echo",
+          "confidence": "low",
+          "text": "When you saw a thief, you consented with him, and have participated with adulterers.",
+          "note": "\"He who welcomes him participates in his evil works\" recalls the indictment that one who consents to and keeps company with the wicked shares their portion. The principle that fellowship implicates one in another's sin underlies the prohibition.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.12",
+      "ch": 1,
+      "ref": "1:12-13",
+      "text": "Having many things to write to you, I don’t want to do so with paper and ink, but I hope to come to you, and to speak face to face, that our joy may be made full. The children of your chosen sister greet you. Amen.",
+      "echoes": [
+        {
+          "source": "Numbers 12:8",
+          "type": "echo",
+          "confidence": "low",
+          "text": "With him, I will speak mouth to mouth, even plainly, and not in riddles; and he shall see Yahweh’s form. Why then were you not afraid to speak against my servant, against Moses?”",
+          "note": "The wish to come and speak \"face to face\" rather than with paper and ink echoes the OT idiom of direct, mouth-to-mouth speech, as the LORD spoke with Moses plainly and not in riddles. The idiom marks the intimacy of unmediated presence over written communication.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

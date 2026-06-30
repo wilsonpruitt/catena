@@ -1,0 +1,269 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-11",
+    "echoes": [
+      {
+        "source": "Joel 2:1-2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The phrase 'the day of the Lord' (5:2) draws directly on the prophetic Day-of-the-Lord tradition, of which Joel is a primary witness: a day of darkness and gloom announced with alarm. Paul assumes his readers know the concept without explanation, presupposing the prophetic background.",
+        "contested": false
+      },
+      {
+        "source": "Amos 5:18-20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Amos memorably reframes the day of the Lord as darkness and not light, an inversion that Paul exploits when he contrasts the children of light/day with those overtaken in darkness (5:4-5). The thematic pairing of the Day with darkness and sudden doom is shared.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 1:14-15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Zephaniah describes the day of the Lord as near, hastening, a day of wrath, distress, and ruin coming suddenly. Paul's 'sudden destruction' and the appointment 'not to wrath' (5:3, 9) echo this Day-of-the-Lord wrath vocabulary.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Malachi's coming day burning like an oven that overtakes the wicked contributes to the burning, inescapable judgment color of Paul's Day-of-the-Lord imagery (5:2-3). Faint and one of several Day texts standing behind the motif.",
+        "contested": true,
+        "altSource": "Joel 2:1-2"
+      },
+      {
+        "source": "Jeremiah 6:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul's 'Peace and safety, then sudden destruction' (5:3) inverts the false-prophet slogan 'Peace, peace, when there is no peace.' Jeremiah condemns those who heal the wound lightly by crying peace; Paul makes the same false security the prelude to sudden ruin.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 8:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "A near-doublet of Jer 6:14, again denouncing 'Peace, peace, when there is no peace.' It reinforces the false-peace background of the 'Peace and safety' slogan in 5:3.",
+        "contested": false,
+        "altSource": "Jeremiah 6:14"
+      },
+      {
+        "source": "Ezekiel 13:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Ezekiel likewise indicts prophets who say 'Peace' when there is no peace, whitewashing a flimsy wall that will fall. The deceptive cry of peace followed by sudden collapse parallels Paul's 'Peace and safety, then sudden destruction' (5:3).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 13:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Paul compares the sudden destruction to 'birth pains on a pregnant woman' (5:3). Isaiah's oracle on the day of the Lord against Babylon uses the same labor-pang simile for inescapable terror, tying the metaphor directly to a Day-of-the-Lord context.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah pictures a pregnant woman writhing and crying out in her labor pains as an image of distress, a standard prophetic figure that informs Paul's labor-pain simile for sudden destruction (5:3).",
+        "contested": false,
+        "altSource": "Isaiah 13:8"
+      },
+      {
+        "source": "Jeremiah 6:24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah describes anguish and pain 'like a woman in labor' on hearing of coming disaster, in the same context as the false-peace slogan of 6:14. The shared labor-pang imagery for sudden, inescapable calamity stands behind 5:3.",
+        "contested": false,
+        "altSource": "Isaiah 13:8"
+      },
+      {
+        "source": "Isaiah 59:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The armor metaphor 'breastplate of faith and love, and for a helmet the hope of salvation' (5:8) reworks Isaiah's portrait of the Divine Warrior who 'put on righteousness as a breastplate, and a helmet of salvation on his head.' Paul transfers God's own armor to the believer and recasts the virtues.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 5:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Wisdom, itself dependent on Isa 59:17, depicts the Lord taking 'holiness as an invincible shield' and putting on righteousness as a breastplate, arming creation against enemies. It is a likely mediating deuterocanonical witness for Paul's armor imagery in 5:8.",
+        "contested": true,
+        "altSource": "Isaiah 59:17"
+      },
+      {
+        "source": "Isaiah 2:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's call to 'walk in the light of the LORD' offers a faint background for Paul's 'children of light... children of the day' (5:5) language of belonging to the light rather than darkness. Contested and one of several light/darkness texts.",
+        "contested": true,
+        "altSource": "Isaiah 60:1-3"
+      },
+      {
+        "source": "Isaiah 60:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's eschatological light shining on God's people while darkness covers the nations supplies a faint backdrop to the light/day versus night/darkness antithesis of 5:4-5. Faint and figural rather than verbal.",
+        "contested": true,
+        "altSource": "Isaiah 2:5"
+      }
+    ]
+  },
+  {
+    "id": "5.12",
+    "ch": 5,
+    "ref": "5:12-15",
+    "echoes": [
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'See that no one returns evil for evil' (5:15) restates the Holiness Code's prohibition of vengeance and grudge-bearing, the verse that culminates in 'love your neighbor as yourself.' Paul's command not to retaliate but to pursue the good for one another draws on this foundational text.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 20:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Don't say, I will repay evil' in Proverbs is the closest sapiential parallel to Paul's 'no one returns evil for evil' (5:15), commending waiting on the Lord rather than retaliating.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 24:29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Don't say, I will do to him as he has done to me; I will repay the man according to his work' parallels Paul's prohibition of repaying evil for evil (5:15), reinforcing the wisdom-tradition rejection of tit-for-tat retaliation.",
+        "contested": false,
+        "altSource": "Proverbs 20:22"
+      },
+      {
+        "source": "Proverbs 17:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever rewards evil for good, evil shall not depart from his house' shares the evil-for-good/evil-for-evil idiom that Paul negates in 5:15. Faint and contested against the stronger Prov 20:22 and Lev 19:18.",
+        "contested": true,
+        "altSource": "Proverbs 20:22"
+      },
+      {
+        "source": "Psalm 34:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Depart from evil, and do good; seek peace, and pursue it' resonates with Paul's clustered exhortations to 'always follow after that which is good' and 'be at peace among yourselves' (5:13, 15). A possible sapiential backdrop, faint.",
+        "contested": true,
+        "altSource": "Proverbs 20:22"
+      }
+    ]
+  },
+  {
+    "id": "5.16",
+    "ch": 5,
+    "ref": "5:16-22",
+    "echoes": [
+      {
+        "source": "Job 34:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elihu's 'Let us choose for ourselves that which is right; let us know among ourselves what is good' offers a faint sapiential parallel to Paul's 'Test all things, and hold firmly that which is good' (5:21), the discernment of good from its counterfeit.",
+        "contested": true,
+        "altSource": "Job 12:11"
+      },
+      {
+        "source": "Job 12:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Doesn't the ear try words, even as the palate tastes its food?' supplies a testing/discernment image akin to Paul's command to test everything (5:21). Faint and figural.",
+        "contested": true,
+        "altSource": "Job 34:4"
+      },
+      {
+        "source": "Psalm 34:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Taste and see that the LORD is good' parallels the discern-the-good motif of 'Test all things, and hold firmly that which is good' (5:21). Faint and contested.",
+        "contested": true,
+        "altSource": "Job 34:4"
+      },
+      {
+        "source": "Amos 5:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Hate the evil, love the good' parallels Paul's paired commands to 'hold firmly that which is good' and 'abstain from every form of evil' (5:21-22). A faint prophetic-ethical backdrop.",
+        "contested": true,
+        "altSource": "Psalm 97:10"
+      },
+      {
+        "source": "Psalm 97:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You who love the LORD, hate evil' resonates with the good/evil antithesis of 'hold firmly that which is good... abstain from every form of evil' (5:21-22). Faint.",
+        "contested": true,
+        "altSource": "Amos 5:15"
+      },
+      {
+        "source": "Psalm 34:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will bless the LORD at all times; his praise shall continually be in my mouth' offers a faint backdrop to the continual praise and thanksgiving commanded in 'Rejoice always... In everything give thanks' (5:16-18). Faint and contested.",
+        "contested": true,
+        "altSource": "Psalm 34:14"
+      }
+    ]
+  },
+  {
+    "id": "5.23",
+    "ch": 5,
+    "ref": "5:23-28",
+    "echoes": [
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prayer that the believer's 'whole spirit, soul, and body' be preserved blameless (5:23) reflects an anthropology rooted in Genesis, where God breathes the breath of life into the body so that the man becomes a living soul. Faint and figural.",
+        "contested": true,
+        "altSource": "Deuteronomy 6:5"
+      },
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Shema's command to love God with heart, soul, and might gives a faint background to Paul's whole-person sanctification of 'spirit, soul, and body' (5:23). Contested as a verbal source.",
+        "contested": true,
+        "altSource": "Genesis 2:7"
+      },
+      {
+        "source": "Judges 6:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The divine title 'the God of peace' (5:23) draws on Israel's covenantal naming of God with peace, as where Gideon names the altar 'The LORD is Peace.' A faint backdrop to Paul's recurring peace-of-God title.",
+        "contested": true,
+        "altSource": "Numbers 6:26"
+      },
+      {
+        "source": "Numbers 6:24-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Aaronic blessing's climactic gift of peace ('the LORD... give you peace') stands faintly behind the benedictory 'God of peace' and the wish for blameless preservation in the closing prayer (5:23). Faint and figural.",
+        "contested": true,
+        "altSource": "Judges 6:24"
+      },
+      {
+        "source": "Deuteronomy 7:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Know therefore that the LORD your God... is the faithful God' undergirds Paul's assurance 'He who calls you is faithful' (5:24). A faint covenantal echo of God's reliability to fulfill his word.",
+        "contested": true,
+        "altSource": "Deuteronomy 32:4"
+      },
+      {
+        "source": "Deuteronomy 32:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A God of faithfulness who does no wrong' resonates with 'He who calls you is faithful, who will also do it' (5:24). Faint and one of several covenant-faithfulness texts.",
+        "contested": true,
+        "altSource": "Deuteronomy 7:9"
+      }
+    ]
+  }
+]

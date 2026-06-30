@@ -1,0 +1,289 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-5",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Shema's command to love God with the whole self stands behind 'when we love God and keep his commandments.' John makes love of God inseparable from obedience, exactly the link Deuteronomy forges. Loving God and keeping commandments are presented as a single covenantal disposition.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'His commandments are not grievous' closely echoes Moses' insistence that 'this commandment which I command you this day is not too hard for you, neither is it far off.' Both texts answer an anticipated objection that God's law is an unbearable weight. The shared logic is that those rightly related to God find his demands livable, not crushing.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 7:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The pairing of loving God with keeping his commandments matches the covenant formula describing God's faithfulness to 'them that love him and keep his commandments.' John inverts the perspective to the believer's side but preserves the same Deuteronomic word-pair. The covenantal idiom of love-plus-obedience is distinctively Mosaic.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The promise that God will 'circumcise your heart... to love the LORD your God' anticipates John's notion that the one born of God both believes and loves. The new birth that produces obedient love develops the Deuteronomic hope of an inwardly transformed, God-loving heart. Both locate the capacity to love God in a divine act upon the person.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 98:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'This is the victory that has overcome the world' draws on the psalmic celebration that God's 'right hand and his holy arm hath gotten him the victory.' The vocabulary of decisive divine victory is transferred to faith's triumph over the world. The believer shares in a conquest that is ultimately God's own.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 44:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The motif that victory comes 'not by their own sword' but by God's arm and favor underlies John's claim that the overcoming power is faith rather than human strength. The world is conquered by a God-given means, not by force. The echo is faint and thematic.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:47",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalmist's delight in commandments he loves complements John's claim that God's commandments 'are not grievous.' Both portray the law as an object of love rather than burden. The connection is conceptual, supporting the un-burdensome framing of obedience.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 3:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wisdom appeal to keep the father's commandments in the heart parallels John's keeping-commandments-as-love. Proverbs frames obedience as life-giving rather than oppressive. A faint sapiential backdrop to John's gentle yoke.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.6",
+    "ch": 5,
+    "ref": "5:6-12",
+    "echoes": [
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'There are three who testify... and the three agree as one' applies the Mosaic rule that a matter is established 'at the mouth of two witnesses, or at the mouth of three witnesses.' John assembles exactly the legally sufficient number of corroborating witnesses to validate the testimony about the Son. The juridical framework of accredited witnesses is drawn straight from the Torah's evidentiary law.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 17:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The companion legal principle requiring multiple witnesses to establish a capital matter reinforces John's threefold testimony. The Spirit, water, and blood function as the plurality of witnesses that secures conviction in God's case for his Son. The forensic logic of confirmed testimony is Deuteronomic.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 35:30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The legal insistence that no single witness suffices, but a plurality establishes the verdict, undergirds John's grouping of three concurring witnesses. The motif that life-and-death matters demand corroborated testimony fits John's life-giving testimony about the Son. A further Pentateuchal source for the witness-rule.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 17:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The blood among the witnesses evokes the Levitical principle that 'the life of the flesh is in the blood' and that blood makes atonement. John's 'water and blood' draws atoning significance from the sacrificial system where blood is the witnessing, life-bearing agent. The blood testifies because it is the locus of atoning life.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 16:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Day of Atonement sprinkling of blood stands behind the atoning weight John gives 'the blood.' The cleansing blood ritual informs the salvific testimony of Christ's blood. A faint cultic resonance underlying the witness of blood.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 19:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'water of purification' from the red heifer informs the cleansing connotation of 'the water' among the witnesses. Purifying water and atoning blood together echo the Pentateuchal rites of cleansing. The pairing of water and blood recalls Israel's purification system.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 24:6-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The covenant ratification in which Moses applies the blood and the people pledge obedience associates blood with sealed testimony. John's blood-witness to the Son parallels the blood that confirmed the covenant. A faint covenantal-blood backdrop to the witnessing blood.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 43:10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God's declaration 'Ye are my witnesses... that ye may know and believe me' parallels John's structure of divine testimony aimed at belief and knowledge of God. The 'testimony of God' that one must receive develops Isaiah's courtroom scenes where God testifies to himself. Both stage a trial in which God's own witness compels faith.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 55:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The offer of 'an everlasting covenant... the sure mercies of David' and the call to 'hear, and your soul shall live' resonate with John's 'God gave to us eternal life.' Hearing God's testimony issues in life. A faint resonance for life granted through receiving God's word.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 8:35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom's promise 'whoso findeth me findeth life' parallels 'He who has the Son has the life.' Possessing the divine gift is possessing life itself. A sapiential echo for life located in a person to be found.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 1:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The portrayal of the Spirit as a witness who searches and testifies of inward truth resonates with 'It is the Spirit who testifies, because the Spirit is the truth.' The deuterocanonical conception of the Spirit as truthful witness anticipates John's Spirit-testimony. The connection is thematic and faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.13",
+    "ch": 5,
+    "ref": "5:13-17",
+    "echoes": [
+      {
+        "source": "Psalm 145:18-19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'If we ask anything according to his will, he listens to us' echoes the psalm that 'the LORD is nigh unto all them that call upon him... he will hear their cry, and will save them.' Both ground confident prayer in God's reliable hearing of those rightly disposed toward him. The assurance that petitions are heard is psalmic.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 15:30-31",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The 'sin leading to death,' for which intercession is withheld, draws on the Torah's distinction between unintentional sin (atonable) and the 'high-handed' sin that 'reproacheth the LORD,' whose soul 'shall be utterly cut off.' John's two-tier sin scheme mirrors the Pentateuchal contrast between forgivable error and defiant apostasy that forfeits atonement. The deadly sin is the presumptuous, deliberate rejection that excludes from the covenant.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 2:25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Eli's words, 'if a man sin against the LORD, who shall intreat for him?'—spoken of sons whom the LORD willed to slay—anticipate the sin for which John says one should not pray. Both mark a sin so grave that intercession is futile or inappropriate. The notion of a sin beyond the reach of petition is shared.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 7:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God's command to Jeremiah, 'pray not thou for this people... for I will not hear thee,' parallels John's 'I don't say that he should make a request concerning this.' Both texts identify a condition of sin under which intercession is forbidden or pointless. The withholding of prayer for the hardened sinner is a prophetic precedent.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 15:27-28",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The provision of atonement for the soul that 'sinneth through ignorance' corresponds to John's 'sin not leading to death,' for which one may pray and receive life. The forgivable, unintentional category in the Torah underlies John's lesser sin. The two-fold sin distinction is rooted in sacrificial law.",
+        "contested": false
+      },
+      {
+        "source": "Job 42:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's instruction that Job pray for his friends so they be not dealt with after their folly models intercession granting life to fellow sinners. John's 'he shall ask, and God will give him life' parallels the effective intercession for another's sin. A faint precedent for life secured through a brother's prayer.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 20:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise that Abraham 'shall pray for thee, and thou shalt live' anticipates intercession that restores life to a sinner. John's framework of asking on behalf of a sinning brother to gain him life resonates with this pattern. The link is faint and thematic.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 22:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The oracle that 'this iniquity shall not be purged from you till ye die' depicts an unpardonable sin terminating in death, paralleling John's 'sin leading to death.' Both envision guilt that atonement cannot reach. A faint prophetic analogue to the deadly sin.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.18",
+    "ch": 5,
+    "ref": "5:18-21",
+    "echoes": [
+      {
+        "source": "Exodus 20:3-4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Keep yourselves from idols' enforces the first and second commandments against having other gods and making graven images. John ends by recalling the Decalogue's foundational prohibition of idolatry as the boundary of covenant loyalty. To 'keep from idols' is to keep the first words of Sinai.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:7-9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Deuteronomic restatement of the prohibition against other gods and idols stands directly behind John's closing command. The contrast between the 'true God' and lifeless idols mirrors Deuteronomy's exclusive covenant claim. John's farewell is a compressed reaffirmation of the Mosaic anti-idolatry charge.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 10:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jeremiah's contrast that 'the LORD is the true God... the living God' against the worthless idols he has just mocked directly informs John's 'This is the true God' followed by 'keep yourselves from idols.' The polemical pairing of the one true God with the renunciation of idols is shared. John echoes Jeremiah's living-and-true-God formula and its anti-idol thrust.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 115:4-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The mockery of idols that are the work of men's hands, who 'have eyes... but they see not,' underlies John's antithesis between the true God and idols. The closing warning assumes the psalmist's verdict on idols as dead and powerless. The 'true God and eternal life' is the living antithesis to lifeless images.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The evil one doesn't touch him' and 'the whole world lies in the power of the evil one' presuppose the primeval enmity between the serpent and the offspring of the woman. The one born of God is guarded against the serpent who holds the world. The protology of the serpent-adversary informs John's cosmic dualism.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 4:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Sin 'lieth at the door' desiring to master Cain, while the called one must rule over it, parallels the one born of God who 'keeps himself' so the evil one cannot touch him. Both portray an external malevolent power kept at bay by the faithful. A faint backdrop to self-keeping against an encroaching evil.",
+        "contested": true
+      },
+      {
+        "source": "Job 1:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The hedge God set 'about him, and about his house' that the adversary could not breach parallels the one born of God whom 'the evil one doesn't touch.' Divine protection bars the satan's reach in both. A faint analogue for the believer's guarded immunity.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 32:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Song of Moses naming God 'a God of truth and without iniquity, just and right' resonates with John's 'him who is true' and 'the true God.' The divine attribute of truth/faithfulness is a Pentateuchal predicate. A faint resonance for the God who is true.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 65:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Blessing and swearing 'by the God of truth' anticipates John's emphatic 'the true God.' The covenant God defined over against false gods is the God of truth. A faint prophetic precedent for the title.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 14:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The deuterocanonical judgment that 'the worship of idols not to be named is the beginning... and the end of all evil' supports John's coupling of the evil-dominated world with the warning against idols. Idolatry as the root of the world's evil frames John's final exhortation. The connection is thematic and faint.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-3",
+    "echoes": [
+      {
+        "source": "Deuteronomy 7:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The greeting to the \"chosen (elect) lady and her children\" draws on Israel's status as the people the LORD chose for himself out of all peoples. The personified \"lady\" likely figures the church as the elect community, transferring covenant-election language to it.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 62:1-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The address to a beloved \"lady\" personifying the covenant community recalls the OT habit of personifying Zion/Jerusalem as a woman (daughter of Zion, the bride). The figure of the church as an elect woman with children stands in this tradition.",
+        "contested": true
+      },
+      {
+        "source": "Lamentations 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The personification of the community as a lady (\"the elect lady\") echoes the OT convention of figuring the city/people as a woman, as Lamentations personifies Jerusalem as a bereaved lady. Faint and structural rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 6:25-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The salutation \"Grace, mercy, and peace... from God the Father\" stands in the line of the Aaronic blessing, which invokes the LORD's grace and peace upon the people. The conceptual debt is to the priestly benediction even though the wording is recast.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 25:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The pairing of \"truth\" with \"love/mercy\" that pervades the opening (loved in truth; grace, mercy in truth and love) recalls the steadfast-love-and-faithfulness word-pair characteristic of the Psalter. The covenant virtues hesed and emet underlie the Johannine \"love and truth.\"",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:4",
+    "echoes": [
+      {
+        "source": "Psalm 86:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Walking in truth\" renders an OT idiom for fidelity to God; the psalmist asks to be taught the LORD's way so as to walk in his truth. The behavioral sense of \"truth\" as covenant loyalty, not mere doctrine, is the OT background.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 20:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Hezekiah's plea that he walked before the LORD \"in truth\" supplies the same idiom of life-conduct as fidelity. The elder's joy at children \"walking in truth\" reuses this covenant-walk language.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:5-6",
+    "echoes": [
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The commandment \"that we love one another,\" identified as that held \"from the beginning,\" rests on the Torah command to love your neighbor as yourself. The Johannine \"new/old commandment\" tension presupposes this foundational Levitical law as the love commandment's source.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:33",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"This is love, that we should walk according to his commandments\" reflects the Deuteronomic equation of loving/serving God with walking in all his commandments. Love is defined as obedient covenant-walk, the central Deuteronomic logic.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The fusion of love and commandment-keeping echoes the Shema's call to love the LORD with the commandments laid on the heart in the surrounding verses. The elder's collapse of love into walking in the commandments is thoroughly Deuteronomic.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 23:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Josiah's covenant \"to walk after the LORD and keep his commandments... with all his heart\" models the formula of love expressed as walking in the commandments. The verbal pairing of walking and keeping commandments parallels v.6.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.7",
+    "ch": 1,
+    "ref": "1:7",
+    "echoes": [
+      {
+        "source": "Deuteronomy 13:1-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The \"many deceivers\" who have gone out and lead astray recall the Deuteronomic prophet or dreamer who seduces Israel to falsehood and must be rejected. The category of the deceiver who tests the community's loyalty is Deuteronomic, though John applies it Christologically.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.8",
+    "ch": 1,
+    "ref": "1:8-9",
+    "echoes": [
+      {
+        "source": "Deuteronomy 4:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"Watch yourselves, that we don't lose the things we have accomplished\" reuses the recurrent Deuteronomic warning to take heed to oneself lest one forget and fall away. The reflexive self-guarding against loss is a hallmark Deuteronomic exhortation.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The same \"take heed to yourselves lest you forget the covenant\" formula reinforces the warning against losing what has been gained. The self-watch protects the relationship already established with God.",
+        "contested": true
+      },
+      {
+        "source": "Ruth 2:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The hope to \"receive a full reward\" echoes Boaz's blessing that Ruth receive a full reward from the LORD under whose wings she has taken refuge. The image of a complete recompense for faithful conduct supplies the background.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.10",
+    "ch": 1,
+    "ref": "1:10-11",
+    "echoes": [
+      {
+        "source": "Deuteronomy 13:6-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The refusal to receive the false teacher into one's house or greet him parallels the Deuteronomic command to show no pity and not consent to the one who entices to apostasy. The separation from the corrupter to avoid sharing his guilt reflects this Torah severity toward enticement.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 50:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"He who welcomes him participates in his evil works\" recalls the indictment that one who consents to and keeps company with the wicked shares their portion. The principle that fellowship implicates one in another's sin underlies the prohibition.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.12",
+    "ch": 1,
+    "ref": "1:12-13",
+    "echoes": [
+      {
+        "source": "Numbers 12:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wish to come and speak \"face to face\" rather than with paper and ink echoes the OT idiom of direct, mouth-to-mouth speech, as the LORD spoke with Moses plainly and not in riddles. The idiom marks the intimacy of unmediated presence over written communication.",
+        "contested": true
+      }
+    ]
+  }
+]

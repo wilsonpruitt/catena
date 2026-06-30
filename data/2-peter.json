@@ -1,0 +1,472 @@
+{
+  "slug": "2-peter",
+  "name": "2 Peter",
+  "subtitle": "A Warning Made of Scripture",
+  "translation": "World English Bible",
+  "howToRead": "Against teachers who scoff at the promise of his coming, 2 Peter marshals Scripture as warning. The examples are a catalog of judgment and rescue — the angels who sinned, the flood that spared only Noah, the ash of Sodom and the rescue of Lot, the madness of Balaam rebuked by his donkey — and the promise stands: the day of the Lord will come like a thief, the heavens dissolved, and new heavens and a new earth in which righteousness dwells. Remember the words of the prophets; the prophetic word is no cleverly devised myth. The chips beside each passage name the Scripture underneath it — solid for a formal quotation, dashed for an allusion, dotted for a fainter echo, ◇ for a figural pattern that borrows no words. A lighter chip and a trailing ? mark an echo that is faint or contested. Where the writer follows the Greek of the Septuagint against the Hebrew, both readings are shown.",
+  "pericopes": [
+    {
+      "id": "1.1",
+      "ch": 1,
+      "ref": "1:1-4",
+      "text": "Simon Peter, a servant and apostle of Jesus Christ, to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ: Grace to you and peace be multiplied in the knowledge of God and of Jesus our Lord, seeing that his divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us by his own glory and virtue; by which he has granted to us his precious and exceedingly great promises; that through these you may become partakers of the divine nature, having escaped from the corruption that is in the world by lust.",
+      "echoes": [
+        {
+          "source": "Genesis 1:26-27",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "God said, “Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.” God created man in his own image. In God’s image he created him; male and female he created them.",
+          "note": "Becoming 'partakers of the divine nature' having escaped corruption draws on the creation of humanity in God's image and likeness — the restoration of the image is the goal of the divine promises."
+        },
+        {
+          "source": "Psalm 82:6",
+          "type": "echo",
+          "confidence": "low",
+          "text": "I said, “You are gods, all of you are sons of the Most High.",
+          "note": "'I said, you are gods, sons of the Most High' is the scriptural datum behind the deifying participation language of v.4.",
+          "contested": true
+        },
+        {
+          "source": "Wisdom 6:17-20",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For her true beginning is desire of discipline; And the care for discipline is love of her; And love of her is observance of her laws; And to give heed to her laws confirmeth incorruption; And incorruption brings near to God; So then desire of wisdom promoteth to a kingdom.",
+          "note": "Wisdom's sorites, ascending from desire of instruction to love and incorruption that 'brings one near to God,' is the closest Second-Temple model for Peter's chain of virtues beginning here and listed in vv.5-7.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.2",
+      "ch": 1,
+      "ref": "1:5-11",
+      "text": "Yes, and for this very cause adding on your part all diligence, in your faith supply moral excellence; and in moral excellence, knowledge; and in knowledge, self-control; and in self-control patience; and in patience godliness; and in godliness brotherly affection; and in brotherly affection, love. For if these things are yours and abound, they make you to be not idle nor unfruitful to the knowledge of our Lord Jesus Christ. For he who lacks these things is blind, seeing only what is near, having forgotten the cleansing from his old sins. Therefore, brothers, be more diligent to make your calling and election sure. For if you do these things, you will never stumble. For thus you will be richly supplied with the entrance into the eternal Kingdom of our Lord and Savior, Jesus Christ.",
+      "echoes": [
+        {
+          "source": "Wisdom 6:17-20",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "For her true beginning is desire of discipline; And the care for discipline is love of her; And love of her is observance of her laws; And to give heed to her laws confirmeth incorruption; And incorruption brings near to God; So then desire of wisdom promoteth to a kingdom.",
+          "note": "The graded virtue-chain ('in faith supply moral excellence; and in moral excellence, knowledge…') follows the sapiential sorites-form most fully developed in Wisdom 6, where one virtue leads to the next and finally to nearness to God."
+        },
+        {
+          "source": "Isaiah 5:1-7",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Let me sing for my well beloved a song of my beloved about his vineyard. My beloved had a vineyard on a very fruitful hill. He dug it up, gathered out its stones, planted it with the choicest vine, built a tower in its midst, and also cut out a wine press therein. He looked for it to yield grapes, but it yielded wild grapes. “Now, inhabitants of Jerusalem and men of Judah, please judge between me and my vineyard. What could have been done more to my […]",
+          "note": "The contrast of being 'not idle nor unfruitful' versus barrenness recalls the prophetic vineyard expected to bear fruit; a faint coherence with the fruitfulness theme.",
+          "contested": true
+        },
+        {
+          "source": "Deuteronomy 7:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For you are a holy people to Yahweh your God. Yahweh your God has chosen you to be a people for his own possession, above all peoples who are on the face of the earth.",
+          "note": "'Make your calling and election sure' presupposes Israel's election as a chosen people, the covenant language Peter applies to the church's assurance."
+        }
+      ]
+    },
+    {
+      "id": "1.3",
+      "ch": 1,
+      "ref": "1:12-15",
+      "text": "Therefore I will not be negligent to remind you of these things, though you know them, and are established in the present truth. I think it right, as long as I am in this tent, to stir you up by reminding you; knowing that the putting off of my tent comes swiftly, even as our Lord Jesus Christ made clear to me. Yes, I will make every effort that you may always be able to remember these things even after my departure.",
+      "echoes": [
+        {
+          "source": "Isaiah 38:12",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "My dwelling is removed, and is carried away from me like a shepherd’s tent. I have rolled up, like a weaver, my life. He will cut me off from the loom. From day even to night you will make an end of me.",
+          "note": "'As long as I am in this tent… the putting off of my tent comes swiftly' uses the body-as-tent figure of Hezekiah's lament, 'my dwelling is plucked up and removed from me like a shepherd's tent.'"
+        },
+        {
+          "source": "Wisdom 9:15",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For a corruptible body weighs down the soul, And the earthy frame lies heavy on a mind that is full of cares.",
+          "note": "'The perishable body weighs down the soul, and this earthy tent burdens the mind' is the Hellenistic-Jewish source of the tent-of-the-body image Peter uses for his approaching death.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "1.4",
+      "ch": 1,
+      "ref": "1:16-18",
+      "text": "For we did not follow cunningly devised fables, when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty. For he received from God the Father honor and glory, when the voice came to him from the Majestic Glory, “This is my beloved Son, in whom I am well pleased.” We heard this voice come out of heaven when we were with him on the holy mountain.",
+      "echoes": [
+        {
+          "source": "Psalm 2:7",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I will tell of the decree. Yahweh said to me, “You are my son. Today I have become your father.",
+          "note": "The Transfiguration voice 'This is my beloved Son' fuses the royal-enthronement decree 'You are my Son' with the beloved-son language; Peter cites it as eyewitness confirmation of Christ's majesty."
+        },
+        {
+          "source": "Isaiah 42:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“Behold, my servant, whom I uphold; my chosen, in whom my soul delights— I have put my Spirit on him. He will bring justice to the nations.",
+          "note": "'In whom I am well pleased' reflects the Servant call, 'my chosen, in whom my soul delights,' the second strand woven into the heavenly voice."
+        },
+        {
+          "source": "Genesis 22:2",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "He said, “Now take your son, your only son, whom you love, even Isaac, and go into the land of Moriah. Offer him there for a burnt offering on one of the mountains which I will tell you of.”",
+          "note": "'Your son, your only son… whom you love' supplies the 'beloved Son' resonance, with the Aqedah lurking behind the Father's word over Jesus."
+        },
+        {
+          "source": "Exodus 24:15-17",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Moses went up on the mountain, and the cloud covered the mountain. Yahweh’s glory settled on Mount Sinai, and the cloud covered it six days. The seventh day he called to Moses out of the midst of the cloud. The appearance of Yahweh’s glory was like devouring fire on the top of the mountain in the eyes of the children of Israel.",
+          "note": "'The holy mountain' and the voice from 'the Majestic Glory' recall Sinai, where the glory of the LORD settled on the mountain and God spoke from the cloud.",
+          "altSource": "Psalm 2:6"
+        }
+      ]
+    },
+    {
+      "id": "1.5",
+      "ch": 1,
+      "ref": "1:19-21",
+      "text": "We have the more sure word of prophecy; and you do well that you heed it, as to a lamp shining in a dark place, until the day dawns, and the morning star arises in your hearts: knowing this first, that no prophecy of Scripture is of private interpretation. For no prophecy ever came by the will of man: but holy men of God spoke, being moved by the Holy Spirit.",
+      "echoes": [
+        {
+          "source": "Psalm 119:105",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Your word is a lamp to my feet, and a light for my path.",
+          "note": "'A lamp shining in a dark place' applies the psalm's 'your word is a lamp to my feet' to the prophetic word the readers do well to heed until the day dawns."
+        },
+        {
+          "source": "Numbers 24:17",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "I see him, but not now. I see him, but not near. A star will come out of Jacob. A scepter will rise out of Israel, and shall strike through the corners of Moab, and break down all the sons of Sheth.",
+          "note": "'The morning star arises in your hearts' draws on Balaam's oracle, 'a star shall come out of Jacob,' the messianic star of dawn (cf. Malachi 4:2, the sun of righteousness).",
+          "altSource": "Malachi 4:2"
+        },
+        {
+          "source": "2 Samuel 23:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "“The Spirit of Yahweh spoke by me. His word was on my tongue.",
+          "note": "'No prophecy ever came by the will of man, but holy men spoke being moved by the Holy Spirit' rests on David's claim, 'The Spirit of the LORD speaks by me; his word is on my tongue' — the model of Spirit-carried prophecy."
+        },
+        {
+          "source": "Numbers 24:2-4",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Balaam lifted up his eyes, and he saw Israel dwelling according to their tribes; and the Spirit of God came on him. He took up his parable, and said, “Balaam the son of Beor says, the man whose eyes are open says; he says, who hears the words of God, who sees the vision of the Almighty, falling down, and having his eyes open:",
+          "note": "Balaam, on whom 'the Spirit of God came,' uttering the oracle of 'one who hears the words of God,' is a further instance of prophecy that comes not by human will but by the Spirit."
+        }
+      ]
+    },
+    {
+      "id": "2.1",
+      "ch": 2,
+      "ref": "2:1-3",
+      "text": "But false prophets also arose among the people, as false teachers will also be among you, who will secretly bring in destructive heresies, denying even the Master who bought them, bringing on themselves swift destruction. Many will follow their immoral ways, and as a result, the way of the truth will be maligned. In covetousness they will exploit you with deceptive words: whose sentence now from of old doesn’t linger, and their destruction will not slumber.",
+      "echoes": [
+        {
+          "source": "Deuteronomy 13:1-5",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "If a prophet or a dreamer of dreams arises in your midst you, and he gives you a sign or a wonder, and the sign or the wonder comes to pass, of which he spoke to you, saying, “Let us go after other gods” (which you have not known) “and let us serve them”; you shall not listen to the words of that prophet, or to that dreamer of dreams; for Yahweh your God is testing you, to know whether you love Yahweh your God with all your heart and with all your soul. […]",
+          "note": "'False prophets arose among the people, as false teachers will be among you' presupposes the Mosaic law on the prophet who entices Israel after other gods and must be purged — the Deuteronomic category of the false prophet."
+        },
+        {
+          "source": "Jeremiah 23:16-17",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Thus says Yahweh of Armies, Don’t listen to the words of the prophets who prophesy to you: they teach you vanity; they speak a vision of their own heart, and not out of the mouth of Yahweh. They say continually to those who despise me, Yahweh has said, You shall have peace; and to everyone who walks in the stubbornness of his own heart they say, No evil shall come on you.",
+          "note": "Jeremiah's false prophets who 'speak visions of their own minds' and lead the people astray supply the prophetic backdrop to the destructive teachers with their 'deceptive words.'"
+        },
+        {
+          "source": "Ezekiel 13:3-10",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Thus says the Lord Yahweh, Woe to the foolish prophets, who follow their own spirit, and have seen nothing! Israel, your prophets have been like foxes in the waste places. You have not gone up into the gaps, neither built up the wall for the house of Israel, to stand in the battle in the day of Yahweh. They have seen falsehood and lying divination, who say, Yahweh says; but Yahweh has not sent them: and they have made men to hope that the word would be […]",
+          "note": "Ezekiel's foolish prophets who follow their own spirit and whitewash the wall add to the false-prophet portrait.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "2.2",
+      "ch": 2,
+      "ref": "2:4-10",
+      "text": "For if God didn’t spare angels when they sinned, but cast them down to Tartarus, and committed them to pits of darkness, to be reserved for judgment; and didn’t spare the ancient world, but preserved Noah with seven others, a preacher of righteousness, when he brought a flood on the world of the ungodly; and turning the cities of Sodom and Gomorrah into ashes, condemned them to destruction, having made them an example to those who would live ungodly; and delivered righteous Lot, who was very distressed by the lustful life of the wicked (for that righteous man dwelling among them, was tormented in his righteous soul from day to day with seeing and hearing lawless deeds): the Lord knows how to deliver the godly out of temptation and to keep the unrighteous under punishment for the day of judgment; but chiefly those who walk after the flesh in the lust of defilement, and despise authority. Daring, self-willed, they are not afraid to speak evil of dignitaries;",
+      "echoes": [
+        {
+          "source": "Genesis 6:1-4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "When men began to multiply on the surface of the ground, and daughters were born to them, God’s sons saw that men’s daughters were beautiful, and they took any that they wanted for themselves as wives. Yahweh said, “My Spirit will not strive with man forever, because he also is flesh; so his days will be one hundred twenty years.” The Nephilim were in the earth in those days, and also after that, when God’s sons came in to men’s daughters and had children […]",
+          "note": "'God did not spare the angels when they sinned, but cast them down to Tartarus' draws on the sons of God who took human wives before the flood, read in Second-Temple tradition as the rebellion of the Watchers."
+        },
+        {
+          "source": "1 Enoch 10:4-6",
+          "type": "allusion",
+          "confidence": "low",
+          "text": "[source text not in the World English Bible]",
+          "note": "The binding of the sinful angels in 'pits of darkness, reserved for judgment' follows the Enochic account of the Watchers chained in the valleys of the earth until the day of judgment — the explicit source of the imprisonment imagery (pseudepigraphal; cf. Jude 6).",
+          "contested": true
+        },
+        {
+          "source": "Genesis 7:1",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Yahweh said to Noah, “Come with all of your household into the ship, for I have seen your righteousness before me in this generation.",
+          "note": "'He did not spare the ancient world but preserved Noah with seven others… when he brought a flood' rests on the flood narrative and the eight souls saved in the ark.",
+          "altSource": "Genesis 6:8-9"
+        },
+        {
+          "source": "Genesis 19:24-25",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Then Yahweh rained on Sodom and on Gomorrah sulfur and fire from Yahweh out of the sky. He overthrew those cities, all the plain, all the inhabitants of the cities, and that which grew on the ground.",
+          "note": "'Turning the cities of Sodom and Gomorrah into ashes, condemned them… an example' draws directly on the destruction of the cities by fire and sulfur as a paradigm of judgment."
+        },
+        {
+          "source": "Genesis 19:7-16",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "He said, “Please, my brothers, don’t act so wickedly. See now, I have two virgin daughters. Please let me bring them out to you, and you may do to them what seems good to you. Only don’t do anything to these men, because they have come under the shadow of my roof.” They said, “Stand back!” Then they said, “This one fellow came in to live as a foreigner, and he appoints himself a judge. Now will we deal worse with you, than with them!” They pressed hard on […]",
+          "note": "'Delivered righteous Lot, distressed by the lustful life of the wicked' depends on Lot's rescue from Sodom; Peter reads him as the righteous man tormented among the lawless."
+        },
+        {
+          "source": "Wisdom 10:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "While the ungodly were perishing, wisdom delivered a righteous man, When he fled from the fire that descended out of heaven on Pentapolis.",
+          "note": "Wisdom's account that she 'rescued a righteous man when the ungodly were perishing' as fire fell on Pentapolis is the Second-Temple reading of Lot as the rescued righteous one."
+        },
+        {
+          "source": "Psalm 34:17-19",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The righteous cry, and Yahweh hears, and delivers them out of all their troubles. Yahweh is near to those who have a broken heart, and saves those who have a crushed spirit. Many are the afflictions of the righteous, but Yahweh delivers him out of them all.",
+          "note": "'The LORD knows how to deliver the godly… and to keep the unrighteous under punishment' restates the psalm's confidence that the LORD delivers the righteous out of all their afflictions."
+        }
+      ]
+    },
+    {
+      "id": "2.3",
+      "ch": 2,
+      "ref": "2:11-16",
+      "text": "whereas angels, though greater in might and power, don’t bring a railing judgment against them before the Lord. But these, as unreasoning creatures, born natural animals to be taken and destroyed, speaking evil in matters about which they are ignorant, will in their destroying surely be destroyed, receiving the wages of unrighteousness; people who count it pleasure to revel in the daytime, spots and defects, reveling in their deceit while they feast with you; having eyes full of adultery, and who can’t cease from sin; enticing unsettled souls; having a heart trained in greed; children of cursing; forsaking the right way, they went astray, having followed the way of Balaam the son of Beor, who loved the wages of wrongdoing; but he was rebuked for his own disobedience. A mute donkey spoke with a man’s voice and stopped the madness of the prophet.",
+      "echoes": [
+        {
+          "source": "Zechariah 3:2",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Yahweh said to Satan, “Yahweh rebuke you, Satan! Yes, Yahweh who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”",
+          "note": "That even angels 'do not bring a railing judgment' against the dignitaries before the Lord parallels the rebuke 'The LORD rebuke you, O Satan' — the restraint of the angel before God that Jude 9 makes explicit."
+        },
+        {
+          "source": "Psalm 49:12",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "But man, despite his riches, doesn’t endure. He is like the animals that perish.",
+          "note": "'Like unreasoning animals, born natural creatures to be taken and destroyed' echoes the psalm's 'man… is like the beasts that perish,' the bestial-and-doomed figure for those without understanding.",
+          "altSource": "Psalm 49:20"
+        },
+        {
+          "source": "Numbers 22:21-35",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Balaam rose up in the morning, and saddled his donkey, and went with the princes of Moab. God’s anger was kindled because he went; and Yahweh’s angel placed himself in the way for an adversary against him. Now he was riding on his donkey, and his two servants were with him. The donkey saw Yahweh’s angel standing in the way, with his sword drawn in his hand; and the donkey turned aside out of the way, and went into the field. Balaam struck the donkey, to […]",
+          "note": "'They followed the way of Balaam… who loved the wages of wrongdoing, but was rebuked… a mute donkey spoke with a man's voice and stopped the madness of the prophet' depends directly on Balaam and the speaking donkey of Numbers 22."
+        },
+        {
+          "source": "Numbers 31:16",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against Yahweh in the matter of Peor, and so the plague was among the congregation of Yahweh.",
+          "note": "Balaam's later role in enticing Israel to sin at Peor ('loved the wages of wrongdoing') deepens the indictment of the false teachers' greed (cf. Deuteronomy 23:4-5).",
+          "altSource": "Deuteronomy 23:4-5"
+        }
+      ]
+    },
+    {
+      "id": "2.4",
+      "ch": 2,
+      "ref": "2:17-22",
+      "text": "These are wells without water, clouds driven by a storm; for whom the blackness of darkness has been reserved forever. For, uttering great swelling words of emptiness, they entice in the lusts of the flesh, by licentiousness, those who are indeed escaping from those who live in error; promising them liberty, while they themselves are bondservants of corruption; for a man is brought into bondage by whoever overcomes him. For if, after they have escaped the defilement of the world through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in it and overcome, the last state has become worse for them than the first. For it would be better for them not to have known the way of righteousness, than, after knowing it, to turn back from the holy commandment delivered to them. But it has happened to them according to the true proverb, “The dog turns to his own vomit again,” and “the sow that has washed to wallowing in the mire.”",
+      "echoes": [
+        {
+          "source": "Jeremiah 2:13",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "“For my people have committed two evils: they have forsaken me, the spring of living waters, and cut them out cisterns, broken cisterns, that can hold no water.",
+          "note": "'Wells without water' inverts the prophetic image of the LORD as 'the fountain of living waters' whom the people forsook for 'broken cisterns that can hold no water' — the false teachers promise water and give none."
+        },
+        {
+          "source": "Proverbs 26:11",
+          "type": "quotation",
+          "confidence": "high",
+          "text": "As a dog that returns to his vomit, so is a fool who repeats his folly.",
+          "note": "Peter cites it as a 'true proverb': 'The dog turns to his own vomit again' reproduces Proverbs 26:11, 'like a dog that returns to his vomit is a fool who repeats his folly.' The washed-sow saying is paired with it as a popular proverb."
+        },
+        {
+          "source": "Proverbs 26:3",
+          "type": "echo",
+          "confidence": "low",
+          "text": "A whip is for the horse, a bridle for the donkey, and a rod for the back of fools!",
+          "note": "The broader proverbial portrait of the fool incorrigible in folly stands behind the double proverb of the dog and the sow.",
+          "contested": true
+        }
+      ]
+    },
+    {
+      "id": "3.1",
+      "ch": 3,
+      "ref": "3:1-7",
+      "text": "This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you; that you should remember the words which were spoken before by the holy prophets, and the commandments of us, the apostles of the Lord and Savior: knowing this first, that in the last days mockers will come, walking after their own lusts, and saying, “Where is the promise of his coming? For, from the day that the fathers fell asleep, all things continue as they were from the beginning of the creation.” For this they willfully forget, that there were heavens from of old, and an earth formed out of water and amid water, by the word of God; by which means the world that then was, being overflowed with water, perished. But the heavens that now are, and the earth, by the same word have been stored up for fire, being reserved against the day of judgment and destruction of ungodly men.",
+      "echoes": [
+        {
+          "source": "Jeremiah 17:15",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "Behold, they tell me, Where is Yahweh’s word? let it come now.",
+          "note": "The mockers' taunt 'Where is the promise of his coming?' echoes the scoffers of Jeremiah, 'Where is the word of the LORD? Let it come!' — the derision of a delayed divine word."
+        },
+        {
+          "source": "Isaiah 5:19",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Who say, “Let him make speed, let him hasten his work, that we may see it; and let the counsel of the Holy One of Israel draw near and come, that we may know it!”",
+          "note": "'Let him be quick… that we may know it' — the mockers who dare God's purpose to hurry — is the prophetic prototype of those who scoff at the deferred day of the Lord."
+        },
+        {
+          "source": "Ezekiel 12:22",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Son of man, what is this proverb that you have in the land of Israel, saying, The days are prolonged, and every vision fails?",
+          "note": "'The days grow long, and every vision comes to nothing' is the proverb of delay Ezekiel must refute, parallel to 'all things continue as they were from the beginning of creation.'"
+        },
+        {
+          "source": "Genesis 1:6-9",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.” God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so. God called the expanse “sky”. There was evening and there was morning, a second day. God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear”; and it was so.",
+          "note": "'By the word of God… an earth formed out of water and amid water' draws on the creation, where God's word separated the waters and gathered them so dry land appeared."
+        },
+        {
+          "source": "Psalm 33:6",
+          "type": "allusion",
+          "confidence": "medium",
+          "text": "By Yahweh’s word, the heavens were made; all their army by the breath of his mouth.",
+          "note": "'By the word of the LORD the heavens were made' grounds Peter's insistence that the heavens existed 'by the word of God,' the same creative word that now reserves them for fire."
+        },
+        {
+          "source": "Genesis 7:11-23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on the same day all the fountains of the great deep were burst open, and the sky’s windows were opened. It rained on the earth forty days and forty nights. In the same day Noah, and Shem, Ham, and Japheth—the sons of Noah—and Noah’s wife and the three wives of his sons with them, entered into the ship— they, and every animal after its kind, all the […]",
+          "note": "'The world that then was, being overflowed with water, perished' depends on the flood that destroyed the ancient world — the precedent for a coming judgment, now by fire."
+        }
+      ]
+    },
+    {
+      "id": "3.2",
+      "ch": 3,
+      "ref": "3:8-10",
+      "text": "But don’t forget this one thing, beloved, that one day is with the Lord as a thousand years, and a thousand years as one day. The Lord is not slow concerning his promise, as some count slowness; but is patient with us, not wishing that any should perish, but that all should come to repentance. But the day of the Lord will come as a thief in the night; in which the heavens will pass away with a great noise, and the elements will be dissolved with fervent heat, and the earth and the works that are in it will be burned up.",
+      "echoes": [
+        {
+          "source": "Psalm 90:4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "For a thousand years in your sight are just like yesterday when it is past, like a watch in the night.",
+          "note": "'One day is with the Lord as a thousand years, and a thousand years as one day' restates the psalm's 'a thousand years in your sight are but as yesterday when it is past' — God's time is not man's, answering the charge of delay."
+        },
+        {
+          "source": "Ezekiel 18:23",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "Have I any pleasure in the death of the wicked? says the Lord Yahweh; and not rather that he should return from his way, and live?",
+          "note": "'Not wishing that any should perish, but that all should come to repentance' reflects the LORD's declaration, 'Have I any pleasure in the death of the wicked… and not rather that he should turn from his way and live?'",
+          "altSource": "Ezekiel 33:11"
+        },
+        {
+          "source": "Habakkuk 2:3",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
+          "note": "'The Lord is not slow concerning his promise' answers the vision that 'awaits its appointed time… if it seems slow, wait for it; it will surely come.'",
+          "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry."
+        },
+        {
+          "source": "Joel 2:13",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Tear your heart, and not your garments, and turn to Yahweh, your God; for he is gracious and merciful, slow to anger, and abundant in loving kindness, and relents from sending calamity.",
+          "note": "God 'gracious and merciful, slow to anger… and relents over disaster' grounds the patience that defers judgment for repentance (cf. Jonah 4:2).",
+          "altSource": "Jonah 4:2"
+        },
+        {
+          "source": "Isaiah 34:4",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "All of the army of the sky will be dissolved. The sky will be rolled up like a scroll, and all its armies will fade away, as a leaf fades from off a vine or a fig tree.",
+          "note": "'The heavens will pass away… the host of heaven shall rot away, and the skies roll up like a scroll' is the prophetic dissolution of the heavens behind 'the heavens will pass away with a great noise, and the elements will be dissolved.'"
+        },
+        {
+          "source": "Micah 1:4",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "The mountains melt under him, and the valleys split apart, like wax before the fire, like waters that are poured down a steep place.",
+          "note": "'The mountains will melt… like wax before the fire' supplies the melting-by-fire imagery of the day of the Lord."
+        }
+      ]
+    },
+    {
+      "id": "3.3",
+      "ch": 3,
+      "ref": "3:11-18",
+      "text": "Therefore since all these things will be destroyed like this, what kind of people ought you to be in holy living and godliness, looking for and earnestly desiring the coming of the day of God, which will cause the burning heavens to be dissolved, and the elements will melt with fervent heat? But, according to his promise, we look for new heavens and a new earth, in which righteousness dwells. Therefore, beloved, seeing that you look for these things, be diligent to be found in peace, without defect and blameless in his sight. Regard the patience of our Lord as salvation; even as our beloved brother Paul also, according to the wisdom given to him, wrote to you; as also in all of his letters, speaking in them of these things. In those, there are some things that are hard to understand, which the ignorant and unsettled twist, as they also do to the other Scriptures, to their own destruction. You therefore, beloved, knowing these things beforehand, beware, lest being carried away with the error of the wicked, you fall from your own steadfastness. But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and forever. Amen.",
+      "echoes": [
+        {
+          "source": "Isaiah 65:17",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“For, behold, I create new heavens and a new earth; and the former things shall not be remembered, nor come into mind.",
+          "note": "'New heavens and a new earth, in which righteousness dwells' draws directly on 'I create new heavens and a new earth,' the prophetic promise of a renewed creation."
+        },
+        {
+          "source": "Isaiah 66:22",
+          "type": "allusion",
+          "confidence": "high",
+          "text": "“For as the new heavens and the new earth, which I will make, shall remain before me,” says Yahweh, “so your seed and your name shall remain.",
+          "note": "'The new heavens and the new earth that I make shall remain before me' is the companion promise behind Peter's hope of the abiding new creation where righteousness is at home."
+        },
+        {
+          "source": "Isaiah 51:6",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Lift up your eyes to the heavens, and look on the earth beneath; for the heavens shall vanish away like smoke, and the earth shall wax old like a garment; and those who dwell therein shall die in the same way: but my salvation shall be forever, and my righteousness shall not be abolished.",
+          "note": "'The heavens vanish like smoke, the earth will wear out like a garment… but my salvation will be forever' frames the dissolution-and-enduring-righteousness contrast Peter draws."
+        },
+        {
+          "source": "Zephaniah 1:18",
+          "type": "echo",
+          "confidence": "medium",
+          "text": "Neither their silver nor their gold will be able to deliver them in the day of Yahweh’s wrath, but the whole land will be devoured by the fire of his jealousy; for he will make an end, yes, a terrible end, of all those who dwell in the land.",
+          "note": "'In the fire of his jealousy all the earth shall be consumed' is a further day-of-the-LORD-by-fire antecedent for the burning heavens and melting elements.",
+          "altSource": "Malachi 4:1"
+        },
+        {
+          "source": "Leviticus 22:21",
+          "type": "echo",
+          "confidence": "low",
+          "text": "Whoever offers a sacrifice of peace offerings to Yahweh to accomplish a vow, or for a freewill offering, of the herd or of the flock, it shall be perfect to be accepted. It shall have no defect.",
+          "note": "Being found 'without defect and blameless' uses the cultic language of the unblemished offering applied to the readers' moral state at the coming.",
+          "contested": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-7",
+    "echoes": [
+      {
+        "source": "Numbers 12:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Entrusting the deposit to 'faithful men' who can teach others recalls the OT ideal of the trustworthy servant, paradigmatically Moses who is 'faithful in all my house.' The transmission-by-faithful-stewards motif underlies Paul's chain of witnesses.",
+        "contested": true,
+        "altSource": "Proverbs 13:17"
+      },
+      {
+        "source": "Deuteronomy 20:5-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The soldier who must not be 'entangled in the affairs of life' so he can please his commander echoes the holy-war muster law, which exempts the man who has built a house, planted a vineyard, or betrothed a wife so that the army on campaign is undistracted. The single-minded enlisted soldier is the shared image.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 20:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'farmers who labor must be first to get a share of the crops' draws on the Torah principle that the one who plants the vineyard rightly enjoys its fruit. The labor-then-reward logic runs through the soldier/athlete/farmer triad.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 27:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He who tends a fig tree will eat its fruit' is the closest sapiential parallel to the laboring farmer who earns the first share. Paul applies the proverb's reward-for-tending logic to gospel ministry.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 25:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The right of the agricultural laborer to a share of the produce echoes the ox-treading-grain principle Paul elsewhere applies to ministry support. Faint but thematically continuous with the farmer image.",
+        "contested": true,
+        "altSource": "Leviticus 19:13"
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:8-13",
+    "echoes": [
+      {
+        "source": "2 Samuel 7:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Jesus Christ... of the seed of David' invokes the Davidic covenant promise that God will raise up David's offspring and establish his kingdom forever. Paul reads the resurrection as the fulfillment of the dynastic promise of an everlasting seed.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Davidic-seed Christology resonates with the shoot from the stump of Jesse, the messianic branch of David's line. Combined with v.10's root of Jesse, it grounds the title in prophetic messianism.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'root of Jesse' standing as a banner to which the nations rally undergirds the risen seed of David proclaimed in Paul's gospel for the chosen ones. Reinforces the Davidic-messiah background.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 132:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The fruit of your body I will set on your throne' restates the sworn promise of a Davidic heir behind 'of the seed of David.' A liturgical witness to the covenant Paul presupposes.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'If we are faithless, he remains faithful; he cannot deny himself' echoes the Song of Moses' confession of God as the faithful Rock, without iniquity, just and upright. Divine constancy despite human failure is the shared theology.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 23:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He cannot deny himself' restates Balaam's oracle that God is not a man that he should lie, nor change his mind; what he has said he will do. The immutability of God's own word grounds the faithful saying.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 65:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Paul's endurance 'for the chosen ones' sake' picks up Isaiah's promise that God's chosen/elect will inherit and possess. The remnant-election vocabulary colors the eschatological 'salvation with eternal glory.'",
+        "contested": true,
+        "altSource": "Isaiah 45:4"
+      },
+      {
+        "source": "Isaiah 55:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'But God's word isn't chained' faintly echoes the promise that the word going out from God's mouth will not return empty but accomplishes its purpose. The irrepressible, effective word is the common motif against Paul's chains.",
+        "contested": true,
+        "altSource": "Psalm 107:20"
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:14-19",
+    "echoes": [
+      {
+        "source": "Numbers 16:5",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The Lord knows those who are his' quotes Moses' answer to Korah's rebellion, when the Lord makes known who is his and who is holy. Paul stamps this as the first half of the seal on God's firm foundation amid the disruption of false teachers (Hymenaeus, Philetus) — a deliberate Korah typology of schism within the covenant community.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 16:26",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Let everyone who names the name of the Lord depart from unrighteousness' draws directly on Moses' command to depart from the tents of the wicked men (Korah, Dathan, Abiram) lest one be swept away in their sins. The Korah scene supplies both halves of the v.19 double seal: God knows his own, and the faithful must separate from the rebels.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Everyone who names the name of the Lord' echoes Isaiah's confession that only your name we acknowledge/invoke, contrasting the true God with other lords who ruled. Supplies the naming-the-Name half of the citation alongside the Korah command.",
+        "contested": true,
+        "altSource": "Leviticus 24:16"
+      },
+      {
+        "source": "Isaiah 52:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Depart from unrighteousness' resonates with the exodus-from-Babylon summons, 'Depart, depart, touch no unclean thing... be clean, you who bear the vessels of the Lord.' The separation-and-purity demand (and the vessel imagery picked up in vv.20-21) makes this a strong secondary source for the seal.",
+        "contested": false
+      },
+      {
+        "source": "Job 36:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Depart from unrighteousness/iniquity' parallels Elihu's word that God commands them to return from iniquity. A sapiential analogue to the moral-separation clause.",
+        "contested": true,
+        "altSource": "Psalm 34:14"
+      },
+      {
+        "source": "Psalm 6:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Depart from me, all you workers of iniquity' supplies a Psalter idiom of separation from the wicked that the v.19 seal recasts as an imperative on those who name the Name. Faint and one of several possible backgrounds.",
+        "contested": true,
+        "altSource": "Proverbs 3:7"
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:20-21",
+    "echoes": [
+      {
+        "source": "Wisdom of Solomon 15:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The potter who from the same clay molds both vessels for clean uses and their opposites, deciding the use of each, is the closest antecedent to the great house with vessels for honor and dishonor. Strong deuterocanonical parallel for the honorable/dishonorable distinction.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 18:1-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The potter reworking the clay 'as it seemed good to him,' with God's sovereign right over the house of Israel like clay in the potter's hand, underlies the vessels-for-honor-or-dishonor image and the call to be made fit for the master's use.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Shall the thing made say of its maker, He did not make me?' frames the made vessel's subordination to its fashioner, the conceptual ground for a vessel cleansing itself for honorable use under the master.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 45:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Woe to him who strives with his Maker... shall the clay say to the potter, What are you making?' reinforces the potter-and-clay sovereignty motif behind the honor/dishonor vessels. Pairs with 29:16 as the prophetic clay backdrop.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 33:10-13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "As clay is in the potter's hand to mold as he pleases, so humanity is in the hand of the Maker who appoints some for honor and some for dishonor — verbal and conceptual proximity to vessels for honor and dishonor in a household.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 5:2-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Belshazzar's praise of gods of gold, silver, bronze, iron, wood, and stone supplies the closest OT catalogue of vessel materials (here gold, silver, wood, clay). The list of materials, not the theology, is the link.",
+        "contested": true,
+        "altSource": "Esther 1:7"
+      },
+      {
+        "source": "Leviticus 11:32-33",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The purity rules distinguishing vessels of wood and clay and requiring cleansing or breaking faintly inform 'if anyone purges himself... he will be a vessel for honor, sanctified.' The clean-vessel cultic background colors the sanctification language.",
+        "contested": true,
+        "altSource": "Numbers 19:15"
+      }
+    ]
+  },
+  {
+    "id": "2.5",
+    "ch": 2,
+    "ref": "2:22-26",
+    "echoes": [
+      {
+        "source": "Psalm 24:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Calling on the Lord 'out of a pure heart' echoes the ascent liturgy's requirement of clean hands and a pure heart to stand in God's holy place. The pure-heart qualification for approaching God is the shared demand.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:32",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Those who call on the Lord' draws on the promise that everyone who calls on the name of the Lord shall be saved, the OT formula for the worshipping covenant people. Paul restricts it to those who call from a pure heart.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 34:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Pursue righteousness... and peace' echoes the wisdom imperative to depart from evil, do good, and seek peace and pursue it. The verb 'pursue' applied to peace is a notable verbal contact.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Pursue righteousness' resonates with Isaiah's address to those who pursue righteousness and seek the Lord. A secondary prophetic backdrop to the chain of virtues to pursue.",
+        "contested": true,
+        "altSource": "Proverbs 21:21"
+      },
+      {
+        "source": "Isaiah 42:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Lord's servant must not quarrel but be gentle... patient' echoes the Servant of the Lord who will not cry out or lift up his voice in the street and will not break a bruised reed. The non-contentious, gentle servant typology shapes the ideal teacher.",
+        "contested": true,
+        "altSource": "Numbers 12:3"
+      },
+      {
+        "source": "Genesis 8:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Flee youthful lusts' faintly recalls the verdict that the inclination of the human heart is evil from youth. The youth-as-locus-of-sinful-impulse motif lies behind the warning.",
+        "contested": true,
+        "altSource": "Psalm 25:7"
+      },
+      {
+        "source": "Psalm 91:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Recovering 'out of the devil's snare' having been 'taken captive' echoes deliverance from the snare of the fowler. The trap-and-rescue imagery supplies the OT coloring for the diabolical snare.",
+        "contested": true,
+        "altSource": "Psalm 124:7"
+      },
+      {
+        "source": "Wisdom of Solomon 12:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's giving 'repentance leading to a full knowledge of the truth' parallels the affirmation that God judges gradually and gives room/opportunity for repentance. A deuterocanonical analogue to the divine grant of repentance.",
+        "contested": true,
+        "altSource": "Wisdom of Solomon 11:23"
+      }
+    ]
+  }
+]
