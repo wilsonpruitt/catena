@@ -1,0 +1,429 @@
+[
+  {
+    "id": "17.1",
+    "ch": 17,
+    "ref": "17:1-5",
+    "echoes": [
+      {
+        "source": "Daniel 7:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You gave him authority over all flesh' (v2) reprises the one like a son of man to whom 'was given dominion... that all peoples should serve him.' High Volume in the verbal pairing of given-authority + universal scope; Recurrence is strong since Johannine and Synoptic Son of Man material draws steadily on Dan 7. Coherent with John's glorification-by-exaltation logic.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 8:22-31",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'The glory which I had with you before the world existed' (v5) figures the Son after personified Wisdom, who was beside God 'before the beginning of the earth' rejoicing in the inhabited world. Availability and Recurrence are high in Johannine Logos/Wisdom Christology (cf. John 1); the conceptual fit (preexistent agent of creation, delight/glory shared) is strong though the wording is not quoted.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 90:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Before the world existed' (v5) echoes 'before the mountains were brought forth, or ever you had formed the earth... from everlasting.' The temporal formula for divine pre-creation eternity coheres with the Son's claim to preexistent glory; Volume modest, supported by the same idiom in Wisdom traditions.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Before the world existed' (v5) presupposes the creation account's absolute beginning, the backdrop against which the Son's pre-cosmic glory is asserted. Faint by itself but coherent with John 1:1's deliberate 'In the beginning' recasting of Genesis.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I have accomplished the work which you gave me to do' (v4) faintly mirrors God finishing the work of creation and resting. Possible figural completion-of-work motif, but the language is generic; marked contested for low Volume.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 9:23-24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'This is eternal life, that they should know you, the only true God' (v3) recasts 'let him who boasts boast in this, that he understands and knows me, that I am the LORD.' Knowing God as the supreme good is the load-bearing parallel; high Coherence with John's salvific epistemology and strong Recurrence of this Jeremianic theme in Second-Temple piety.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 6:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'That they should know you' as life (v3) resonates with 'I desire... the knowledge of God rather than burnt offerings.' Knowledge of God as the heart of the covenant relationship supplies a coherent OT substratum, though John intensifies it to eternal life.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 15:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'To know your power is the root of immortality' is a remarkably close conceptual antecedent to 'this is eternal life, that they should know you' (v3). Availability (deuterocanonical, pre-Johannine) and Coherence are high; the equation knowledge-of-God = immortality is nearly verbal, strengthening the case as a Second-Temple bridge.",
+        "contested": false
+      },
+      {
+        "source": "Habakkuk 2:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They should know you' coupled with 'glorify' (vv1-3) faintly recalls 'the earth will be filled with the knowledge of the glory of the LORD.' Knowledge-plus-glory cluster offers thematic coherence but Volume is low and diffuse.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 6:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The only true God' (v3) presses the Shema's confession of the one LORD. Monotheistic exclusivity is the coherent backdrop, and John's 'only true' renders the Shema's uniqueness; modest Volume since the wording is interpretive rather than quoted.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 24:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Personified Wisdom 'created before the ages' supplies a Second-Temple analogue to the Son's glory 'before the world existed' (v5). Reinforces the Wisdom-preexistence channel alongside Proverbs 8; low independent Volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.2",
+    "ch": 17,
+    "ref": "17:6-10",
+    "echoes": [
+      {
+        "source": "Exodus 3:14-15",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'I revealed your name to the people' (v6) figures Jesus' mission as the disclosure of the divine Name first given at the bush, where God names himself I AM and 'this is my name forever.' John's recurrent egō eimi sayings make this Name-revelation channel highly coherent and recurrent.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I revealed your name' (v6) draws on the LORD's promise 'I will proclaim before you my name, the LORD.' The pattern of God making his Name known through a mediator coheres with the prayer's theology; Volume modest but the Name-proclamation motif recurs across the chapter (vv11,26).",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:5-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Sinai theophany where the LORD 'proclaimed the name of the LORD' (grace, truth, steadfast love) underlies 'I revealed your name' (v6) and feeds John's grace-and-truth framework. Coherent and recurrent with John 1:14-17; the manifest-Name act is the shared structure.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Therefore my people shall know my name' anticipates 'I revealed your name to the people... they have known' (vv6-7). The eschatological Name-knowledge promised to the elect people coheres tightly with Jesus' report to the Father; moderate Volume via the shared name/know pairing.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will tell of your name to my brothers' is the psalmist's vow that 'I revealed your name to the people whom you gave me' (v6) enacts. Recurrence is strong (Ps 22 pervades the Johannine passion); Coherence high since the speaker declares the Name to a given community.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 33:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They have kept your word' (v6) echoes Levi who 'kept your word and held to your covenant.' The covenant-fidelity idiom for the consecrated supports the priestly coloring of the prayer; low Volume, generic phrasing.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 7:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The people whom you have given me out of the world... they were yours' (vv6,9) recasts Israel as God's own chosen possession 'out of all peoples.' Election-from-the-nations language is the coherent backdrop, though John substitutes 'world' for 'peoples'; low Volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.3",
+    "ch": 17,
+    "ref": "17:11-12",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-27",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'Holy Father, keep them through your name' (v11) figures the Aaronic blessing where the LORD 'keep you' and 'so shall they put my name upon the people of Israel, and I will bless them.' The conjunction of keeping + the Name placed on the people is a strong, specific structural parallel to Jesus' priestly petition.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:17",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'That they may be one, even as we are' (v11) figures the two sticks joined 'that they may become one in your hand,' Ezekiel's sign of regathered, unified Israel. The oneness-of-the-people motif is coherent with John's unity petitions (vv21-23) and recurs there, strengthening the figural reading.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 3:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Keeping the people in the Name 'that they may be one' (v11) echoes the promise that purified peoples will 'call upon the name of the LORD and serve him with one accord' (lit. one shoulder). Name + unity cluster is coherent though the Volume is faint.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 41:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'None of them is lost except the son of destruction, that the Scripture might be fulfilled' (v12) points to 'my close friend... who ate my bread, has lifted his heel against me,' the betrayal text John explicitly cites at 13:18. High Coherence and Recurrence make this the leading scriptural referent for the fulfillment formula here.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 109:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The son of destruction' whose loss fulfills Scripture (v12) is illumined by 'may his days be few; may another take his office,' the imprecation later applied to Judas in Acts. The betrayer-who-must-be-replaced motif coheres with the fulfillment claim; medium since John does not quote it here.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 15-17",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The 'son of destruction' (v12) is typologically prefigured by Ahithophel, David's trusted counselor who betrays him, crosses with him over the brook, and hangs himself. The David/Jesus typology with a betraying intimate provides coherent, recurrent narrative substance behind Judas; figural rather than verbal.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 57:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Semitic idiom 'son of destruction/perdition' (v12) resembles prophetic 'children of transgression, offspring of deceit.' Supplies an OT pattern for the 'son of X' designation of the doomed, but the specific phrase is not borrowed; low Volume, contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.4",
+    "ch": 17,
+    "ref": "17:13-16",
+    "echoes": [
+      {
+        "source": "Psalm 16:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'That they may have my joy made full in themselves' (v13) resonates with 'in your presence there is fullness of joy.' The eschatological-fullness-of-joy-before-God motif is coherent with Jesus' departure-to-the-Father context; moderate Volume on the shared joy/fullness pairing.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 69:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The world hated them' (v14) draws on 'those who hate me without cause are more than the hairs of my head,' a psalm John cites for groundless hatred (cf. 15:25 'they hated me without a cause'). Recurrence in the Johannine farewell makes the hatred-without-cause echo coherent here.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 121:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Keep them from the evil one' (v15) parallels 'The LORD will keep you from all evil; he will keep your life.' The divine keeping/guarding-from-evil idiom is coherent with the prayer's repeated 'keep' language (vv11-12), though 'the evil one' personalizes it; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Keep them from the evil one' (v15) faintly invokes the primeval serpent/adversary whose enmity God will overcome. Provides the figural source for a personal evil agent, but the connection is inferential; low Volume, contested.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 23:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They are not of the world even as I am not of the world' (v16) echoes Israel 'a people dwelling alone, and not counting itself among the nations.' The set-apart, distinct-from-the-nations identity coheres with the disciples' otherworldly status; faint and generic.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.5",
+    "ch": 17,
+    "ref": "17:17-19",
+    "echoes": [
+      {
+        "source": "Exodus 28:41",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'Sanctify them in your truth... for their sakes I sanctify myself' (vv17,19) figures the consecration of Aaron and his sons to priestly service ('anoint them, ordain them, and consecrate them'). The setting-apart-for-sacred-mission language gives the prayer its priestly architecture; coherent and recurrent across vv17-19.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 8",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The ordination rite consecrating Aaron underlies the double sanctification of disciples and self (vv17,19). Jesus as both consecrating priest and consecrated offering coheres with the chapter's high-priestly framing; figural Volume is substantial though no single verse is quoted.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 40:13",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'Sanctify them' (v17) recalls the command to clothe and 'consecrate' Aaron that he may serve as priest. Reinforces the consecration channel alongside Exod 28 and Lev 8; counted separately but lower independent Volume.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 11:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Sanctify yourselves' as preparation to encounter the LORD offers an OT idiom behind 'sanctify them' (v17). Generic consecration language; supportive but faint, marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 1:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I sanctified you... and appointed you a prophet to the nations' parallels both 'sanctify them' and the sending 'into the world' (vv17-18). The set-apart-and-sent pattern for the prophetic commission coheres tightly with the disciples' consecration-for-mission; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 119:142",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Your word is truth' (v17) closely renders 'your law is truth' (Ps 119:142) and 'the sum of your word is truth' (119:160). Near-verbal correspondence gives high Volume; the equation of God's word with truth is the precise scriptural ground for the petition.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 119:160",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The sum of your word is truth, and every one of your righteous rules endures forever' is the most exact antecedent of 'your word is truth' (v17). High Volume and Coherence; listed alongside 119:142 as the twin source of the maxim.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 7:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your words are truth' in David's prayer offers a second OT formulation behind 'your word is truth' (v17). Supports the maxim but with lower Volume than the Psalm 119 parallels; contested as the primary referent.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 6:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'As you sent me into the world, so I have sent them' (v18) faintly recalls the prophetic sending 'Whom shall I send... Here I am, send me.' The divine commissioning-and-being-sent pattern is coherent though the wording is general; low Volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.6",
+    "ch": 17,
+    "ref": "17:20-23",
+    "echoes": [
+      {
+        "source": "Ezekiel 37:22",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'That they may all be one' / 'perfected into one' (vv21-23) figures Ezekiel's promise 'I will make them one nation... and one king shall be king over them all.' The unification of God's scattered people under one head is a coherent, recurrent figural backdrop for the Johannine unity petitions.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:17",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The two sticks 'joined... one in your hand' is the enacted sign behind repeated 'that they may be one' (vv21-22). Reinforces the Ezekiel reunification channel introduced at v11; coherent and recurrent, figural rather than verbal.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 3:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peoples serving the LORD 'with one accord' echoes the unity 'that the world may believe' (vv21-23). The purified-and-unified-nations motif coheres with the missional aim of the unity but the Volume is faint.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 34:29-35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The glory which you have given me, I have given to them' (v22) faintly mirrors Moses' face shining with reflected divine glory after Sinai. The motif of communicated/derivative glory is coherent, but John speaks of indwelling glory rather than facial radiance; low Volume.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 8:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Glory bestowed on the disciples (v22) loosely recalls humanity 'crowned with glory and honor.' Generic glory-conferral idiom; supportive but faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 7:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You... loved them, even as you loved me' (v23) echoes the LORD setting his love on Israel not for their greatness but because he loved them. The gratuitous divine love for the elect community coheres with the prayer, though John extends it to the disciples through the Son; low Volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "17.7",
+    "ch": 17,
+    "ref": "17:24-26",
+    "echoes": [
+      {
+        "source": "Proverbs 8:22-31",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'You loved me before the foundation of the world' and 'see my glory' (v24) figure the Son after Wisdom delighted in by God before creation. The pre-cosmic love/glory shared between Father and agent is the same Wisdom channel that frames v5; coherent and recurrent within the prayer.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 90:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Before the foundation of the world' (v24) reuses the pre-creation eternity idiom of 'from everlasting... before... you had formed the earth.' Matches the temporal frame asserted of the Father-Son love and glory; moderate Volume via the recurring formula.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:18",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'That they may see my glory' (v24) figures Moses' request 'Show me your glory' and the Sinai vision tradition. John transposes the longed-for sight of divine glory into the disciples' eschatological seeing of the Son's glory; coherent with the chapter's glory and Name theology.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 9:24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Righteous Father, the world has not known you, but I knew you' (v25) recalls the LORD who 'practices steadfast love, justice, and righteousness' and the boast of knowing him from 9:23-24. The righteousness-plus-knowledge cluster ties v25 back to v3's eternal-life-as-knowledge; coherent, moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 79:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The world has not known you' (v25) echoes 'the nations that do not know you,' the contrast between God's people and the ignorant nations. Coherent with John's world/disciples antithesis but the phrasing is generic; low Volume.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 33:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I made known to them your name, and will make it known' (v26) reprises 'I will proclaim before you my name, the LORD,' closing the inclusio with v6. The ongoing proclamation of the Name as the vehicle of God's presence and love is coherent and recurrent across the prayer.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:23",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I made known to them your name... that the love... may be in them' (v26) resonates with God's resolve to 'vindicate the holiness of my great name' so the nations know him, paired in Ezekiel with the indwelling Spirit (36:26-27). The hallowing-of-the-Name leading to interior transformation coheres with John's Name-and-indwelling climax; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I made known to them your name, and will make it known' (v26) restates the psalmist's vow 'I will tell of your name to my brothers,' bracketing the prayer with v6. The repeated declaration of the Name to the community gives strong Coherence and Recurrence within John.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 39:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I made known to them your name' (v26) echoes 'I will make my holy name known in the midst of my people Israel.' Reinforces the make-known-the-Name channel alongside Exod 33 and Isa 52:6; lower independent Volume, contested.",
+        "contested": true
+      }
+    ]
+  }
+]

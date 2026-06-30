@@ -1,0 +1,297 @@
+[
+  {
+    "id": "9.1",
+    "ch": 9,
+    "ref": "9:1-5",
+    "echoes": [
+      {
+        "source": "Exodus 20:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The disciples' question 'who sinned, this man or his parents' presupposes the Decalogue principle of God visiting the iniquity of fathers upon children. The transgenerational logic is precisely what is at issue; Volume is moderate and Coherence high, since Johannine sin-theology engages the retribution framework only to overturn it.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 18:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel's countervailing principle that 'the son shall not bear the iniquity of the father' frames the very debate the disciples raise. Jesus' answer ('neither did this man sin, nor his parents') aligns with Ezekiel's repudiation of inherited guilt, making this a coherent and available Second-Temple intertext.",
+        "contested": true,
+        "altSource": "Deuteronomy 24:16"
+      },
+      {
+        "source": "Job 4:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The friends' assumption that suffering proves prior sin (Eliphaz: 'who ever perished, being innocent?') is the wisdom-debate background to the disciples' question. Job as a whole resists the suffering-equals-sin calculus; the echo is thematic and diffuse rather than verbal.",
+        "contested": true,
+        "altSource": "Job 8:4"
+      },
+      {
+        "source": "Exodus 4:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "YHWH to Moses: 'Who makes a man dumb or deaf, or seeing or blind? Is it not I, the LORD?' This grounds blindness in God's sovereign purpose, exactly Jesus' reframing ('that the works of God might be revealed'). Coherence is high since the giver of sight here becomes incarnate as the light-bringer.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I am the light of the world' resonates with Zion's eschatological illumination where YHWH's light shines on a darkened earth. The light-of-the-nations motif is available and coherent with John's worldwide scope, though no verbal citation links them.",
+        "contested": true,
+        "altSource": "Isaiah 42:6"
+      },
+      {
+        "source": "Psalm 27:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The LORD is my light and my salvation' supplies a scriptural backdrop for Jesus' self-identification as light, especially apposite as a blind man is about to receive sight/salvation. The echo is conceptual; Volume is low and many candidates compete.",
+        "contested": true,
+        "altSource": "Psalm 36:9"
+      }
+    ]
+  },
+  {
+    "id": "9.2",
+    "ch": 9,
+    "ref": "9:6-7",
+    "echoes": [
+      {
+        "source": "Genesis 2:7",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Jesus forms mud from spittle and the ground and applies it to make eyes whole, evoking the Creator forming the man from the dust of the ground. The clay-and-creation figure casts the healing as a new-creation act by the agent of Genesis 1's 'let there be light'; Coherence with the light-of-the-world saying is strong.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'ground/dust' material of the healing recalls the adamic dust to which humanity belongs. The reversal — dust here restores rather than condemns — supports a new-creation reading, though the link rides on the same Genesis 2-3 imagery as the stronger 2:7 echo.",
+        "contested": true,
+        "altSource": "Genesis 2:7"
+      },
+      {
+        "source": "Isaiah 8:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "John glosses Siloam as 'Sent,' and the pool's name derives from the gently-flowing 'waters of Shiloah' that Judah despised in Isaiah 8:6. The deliberate etymological note signals figural intent: the rejected waters become the means of sight, and 'Sent' identifies Jesus as the one sent by the Father. High Volume via the explicit gloss.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 49:10",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "The Hebrew 'Shiloh' ('until Shiloh comes') was read messianically in Second-Temple tradition and shares the consonantal root behind Siloam/'Sent.' John's 'Sent One' Christology may exploit this resonance, but the linguistic bridge is contested and the gloss more naturally targets Isaiah's Shiloah.",
+        "contested": true,
+        "altSource": "Isaiah 8:6"
+      },
+      {
+        "source": "2 Kings 5:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Go, wash' in a specific body of water and be made whole closely patterns Elisha's command to Naaman to wash in the Jordan and be cleansed. The prophetic-healing-by-washing type, with obedience producing restoration, is coherent and the man's later confession that Jesus is 'a prophet' reinforces the Elijah/Elisha matrix.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 35:5",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Then the eyes of the blind shall be opened' is the eschatological sign of God's coming; the actual opening of a blind man's eyes enacts it. The healing is a programmatic fulfillment-sign, and John repeatedly frames Jesus' works as the dawning of the promised age. High Coherence and Recurrence across Isaiah's sight oracles.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "9.3",
+    "ch": 9,
+    "ref": "9:8-12",
+    "echoes": [
+      {
+        "source": "Isaiah 29:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In that day...the eyes of the blind shall see out of obscurity' supplies the eschatological frame as neighbors marvel that the beggar now sees. The pericope is largely narrative dialogue, so the echo is ambient rather than pointed, carried over from the healing itself.",
+        "contested": true,
+        "altSource": "Isaiah 35:5"
+      }
+    ]
+  },
+  {
+    "id": "9.4",
+    "ch": 9,
+    "ref": "9:13-17",
+    "echoes": [
+      {
+        "source": "Exodus 20:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The conflict turns on Jesus 'making mud' and healing on the Sabbath, engaging the Decalogue's Sabbath command and its later halakhic elaborations (kneading clay was forbidden work). The Sabbath statute is the legal axis of the Pharisees' charge that Jesus is 'not from God.'",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The healed man's verdict 'He is a prophet' invokes the Mosaic promise of a prophet like Moses whom Israel must heed. John develops the prophet-like-Moses Christology, and the sign-working healer fits the criterion of the true prophet; Coherence with John's wider Moses typology is strong.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "9.5",
+    "ch": 9,
+    "ref": "9:18-23",
+    "echoes": [
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The interrogation of the parents to corroborate the son's testimony reflects the Torah's two-or-three-witnesses requirement that governs Johannine 'witness' motifs. The link is structural/legal rather than verbal, and the courtroom framing is broadly Deuteronomic.",
+        "contested": true,
+        "altSource": "Deuteronomy 17:6"
+      }
+    ]
+  },
+  {
+    "id": "9.6",
+    "ch": 9,
+    "ref": "9:24-34",
+    "echoes": [
+      {
+        "source": "Joshua 7:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Give glory to God' is a near-verbatim adjuration formula: Joshua so charges Achan to confess before God in a judicial setting. The Pharisees use the identical oath-formula to pressure the man to recant, marking his testimony as sworn courtroom speech. High Volume via the fixed idiom.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Give glory to the God of Israel' as a confessional demand recurs in the Philistine episode, reinforcing the formula behind 9:24. It is a secondary witness to the same idiom rather than an independent source; Joshua 7:19 is the closer judicial parallel.",
+        "contested": true,
+        "altSource": "Joshua 7:19"
+      },
+      {
+        "source": "Deuteronomy 34:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'We are disciples of Moses... God has spoken to Moses' echoes the Torah's claim that no prophet arose like Moses, whom YHWH knew face to face. The Pharisees stake authority on Mosaic revelation, the very framework John uses to argue Jesus surpasses Moses. Coherence high within the chapter's Moses polemic.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 12:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'With him I speak mouth to mouth' grounds the unique standing of Moses claimed by 'God has spoken to Moses.' The Pharisees' 'we know God has spoken to Moses, but we don't know where this man is from' trades on this Mosaic-speech privilege. Available and coherent with the disciples-of-Moses boast.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 66:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'If I regard iniquity in my heart, the Lord will not hear me' is closely paraphrased by 'God does not listen to sinners, but to the worshiper who does his will.' The man invokes a wisdom-psalm axiom about answered prayer to argue Jesus is from God. High Coherence and near-propositional match.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 15:29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The LORD is far from the wicked, but he hears the prayer of the righteous' is the proverbial doublet behind 9:31's 'God does not listen to sinners but to the worshiper who does his will.' Recurrence with Psalm 66:18 strengthens both as the wisdom substrate of the man's argument.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 1:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'When you spread out your hands I will hide my eyes... I will not hear' supplies the prophetic version of God refusing to hear sinners. It reinforces 9:31 alongside the psalm and proverb, broadening the 'God hears the righteous' axiom across Torah-Prophets-Writings.",
+        "contested": true,
+        "altSource": "Psalm 66:18"
+      },
+      {
+        "source": "Psalm 34:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The eyes of the LORD are toward the righteous, and his ears toward their cry' is a further wisdom witness to the principle that God hears the God-fearing but not the wicked. It coheres with 9:31 and adds Recurrence, though the man's wording is closest to Psalm 66:18 and Proverbs 15:29.",
+        "contested": true,
+        "altSource": "Proverbs 15:29"
+      },
+      {
+        "source": "Sirach 35:13-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira affirms that God hears the prayer of the humble and the one who serves him with his whole heart, a deuterocanonical articulation of the doctrine in 9:31. Available within Second-Temple piety and coherent, though the canonical psalm/proverb are the nearer sources.",
+        "contested": true,
+        "altSource": "Psalm 66:18"
+      },
+      {
+        "source": "Isaiah 35:5",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'Since the world began it was never heard that anyone opened the eyes of a man born blind' frames the sign as unprecedented — only God can do the eschatological eye-opening of Isaiah 35:5. The man's argument turns the prophetic sign-act into proof of divine origin. Coherence with the chapter's controlling Isaianic motif.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 146:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD opens the eyes of the blind' names eye-opening as a distinctly divine work, undergirding 'if this man were not from God he could do nothing.' The man reasons exactly along the psalm's lines, attributing a God-only act to Jesus. Strong Coherence with John's high Christology.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "9.7",
+    "ch": 9,
+    "ref": "9:35-41",
+    "echoes": [
+      {
+        "source": "Isaiah 6:9-10",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'I came for judgment, that those who don't see may see, and those who see may become blind' inverts and fulfills Isaiah's commission to blind the seeing and deafen the hearing. John elsewhere cites Isaiah 6:10 explicitly (12:40), making this the controlling intertext for the chapter's sight/blindness-as-judgment theme. High Recurrence and Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:18-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Who is blind but my servant... seeing many things, but you do not observe' supplies the prophetic paradox of those who possess sight yet remain blind, mirroring the Pharisees who 'see' yet have sin remaining. Coherent with the judicial blinding motif and available within the Isaianic servant oracles.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Bring forth the people who are blind, yet have eyes, and the deaf who have ears' reinforces the sighted-yet-blind paradox applied to the Pharisees. Secondary to Isaiah 6 and 42; adds Recurrence to the Isaianic blindness cluster but contributes little independently.",
+        "contested": true,
+        "altSource": "Isaiah 42:18"
+      },
+      {
+        "source": "Isaiah 29:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's stupefied, blinded leaders ('they are blind... the LORD has poured on you a spirit of deep sleep, and has closed your eyes') parallel the self-confident Pharisees judged blind. The judicial-blinding theme coheres, though the verbal contact is faint amid the stronger Isaiah 6 link.",
+        "contested": true,
+        "altSource": "Isaiah 6:9"
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "'Do you believe in the Son of Man?' (a strong textual variant for 'Son of God') invokes the Danielic Son of Man before whom worship is rendered, fitting the man's response of belief and worship in 9:38. The link depends on the variant reading, so confidence is low though the title is Danielic.",
+        "contested": true,
+        "altSource": "Psalm 80:17"
+      },
+      {
+        "source": "Isaiah 29:18",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'In that day the deaf shall hear... and the eyes of the blind shall see out of obscurity and darkness' frames the chapter's resolution: a blind man comes to physical and spiritual sight while the seeing are darkened. The double movement realizes Isaiah's reversal-of-perception oracle and coheres with the light/darkness frame.",
+        "contested": false
+      }
+    ]
+  }
+]

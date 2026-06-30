@@ -1,0 +1,485 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-5",
+    "echoes": [
+      {
+        "source": "Genesis 1:1",
+        "type": "figural",
+        "confidence": "high",
+        "note": "John opens with the exact phrase 'In the beginning' (en archē), the LXX incipit of Genesis 1:1, signaling a deliberate re-narration of creation. Volume is maximal (verbatim phrase in the most marked position of the Gospel) and recurrence strong (creation language saturates vv.1-5). Thematic coherence is total: John reads the Genesis creation through the lens of the Word as agent.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:3",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Creation 'by the word' ('Let there be light') is recast as creation 'through him,' the Logos (v.3). The Genesis pattern of God speaking the world into being is the conceptual substrate for 'all things were made through him.' High thematic coherence between divine speech-act and the personified Word.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 33:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'By the word of the LORD the heavens were made' is the clearest OT text crediting creation to God's spoken word, the Jewish exegetical bridge from Genesis to a creative Logos. Strong thematic coherence with v.3 ('all things were made through him') and availability secure in Second-Temple liturgy.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 8:22-31",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Personified Wisdom, 'with' God 'in the beginning' as the agent/craftsman of creation, is the primary background for the Word who 'was with God' and through whom all things were made. Recurrence of the with-God-at-creation motif and high thematic coherence; widely recognized as John's Wisdom-Christology source.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 7:22-26",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Wisdom as the 'breath of the power of God,' a pure effulgence of glory, an unspotted mirror, and the light surpassing all light underwrites John's identification of the Word with life and light (vv.4-5). Availability secure (deuterocanonical, first century) and strong thematic coherence with the light/glory motifs of the Prologue.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 9:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'O God... who made all things by your word, and by your wisdom formed man' explicitly pairs word and wisdom as co-agents of creation, the exact fusion John performs on the Logos. Medium confidence because it is conceptual parallel rather than verbal, but thematic coherence with v.3 is high.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 24:1-9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Wisdom's self-praise, coming forth from the mouth of the Most High and present from the beginning, is a key model for the pre-existent Word. Sirach 24 is the most sustained Wisdom-tabernacle hymn and is recurrent across the Prologue (see also v.14). High thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The darkness over the deep before the first light is evoked by 'the light shines in the darkness' (v.5). The creation-from-darkness sequence reinforces the Genesis 1 framing; medium confidence as the verbal contact is thematic (light/darkness) rather than lexical.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 36:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'For with you is the fountain of life; in your light we see light' fuses life and light as divine gifts, exactly the pairing of v.4 ('in him was life, and the life was the light of men'). Thematic coherence is high; flagged medium for absence of verbal borrowing.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 9:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The people who walked in darkness have seen a great light' offers the light-shining-in-darkness topos. Low confidence and somewhat contested: the motif is broad and could derive from several light texts, but it coheres with the Prologue's darkness-versus-light contest.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 8:35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever finds me finds life' links personified Wisdom directly to life, supporting the life-in-the-Word claim of v.4. Faint and contested, but coherent with the broader Wisdom substrate already established.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:6-9",
+    "echoes": [
+      {
+        "source": "Malachi 3:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Behold, I send my messenger' frames John as the divinely sent forerunner ('there came a man, sent from God'). The sending-of-the-messenger motif is the standard prophetic preparation pattern and coheres with John's witness role; medium because the verbal link is conceptual.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A light to the nations' resonates with 'the true light that enlightens everyone' (v.9), the universal scope of illumination. Low confidence: the universalizing of light is a shared Isaianic theme rather than a direct quotation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 27:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The LORD is my light and my salvation' supplies the divine-light identification that the Prologue transfers to the Logos. Faint and contested; included for recurrence of the light-as-God motif.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:10-13",
+    "echoes": [
+      {
+        "source": "Sirach 24:7-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Wisdom seeks a resting place among the nations and is given Israel as her inheritance; the motif of the agent of creation coming to her own people who variously receive or reject her underlies vv.10-11. Thematic coherence with the Wisdom-rejection pattern is strong; medium for lack of verbal contact.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 1:24-28",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Wisdom calls but is not received ('I called and you refused'), the rejection-of-Wisdom topos behind 'his own didn't receive him' (v.11). The motif of the personified divine agent spurned by her people coheres tightly with John's tragic note.",
+        "contested": false
+      },
+      {
+        "source": "1 Enoch 42:1-2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Wisdom finds no dwelling place among humans and returns to heaven, the most pointed Second-Temple parallel to the Word coming to his own and being rejected (vv.10-11). Pseudepigraphal but genuinely warranted here: the Wisdom-withdrawal pattern matches John's reversal closely. Contested as to direct dependence.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 14:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You are the children of the LORD your God' supplies the divine-sonship category recast as the 'right to become God's children' (v.12). Low confidence; the sonship-of-God-people motif is broad across the OT.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 32:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The God who gave you birth' offers a God-as-begetter image behind 'born... of God' (v.13). Faint and contested, but coheres with the divine-generation language that replaces ordinary descent.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 1:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You are children of the living God,' the promise of new divine sonship to those who were not a people, resonates with becoming God's children by birth from God (vv.12-13). Low confidence; thematic rather than verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:14-18",
+    "echoes": [
+      {
+        "source": "Exodus 25:8-9",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'The Word became flesh and lived (eskēnōsen, 'tabernacled') among us' deliberately evokes the sanctuary that God commanded so he might 'dwell among them.' The tabernacle-pitching verb is the load-bearing figural cue: the incarnate Word is the new tent of meeting. High volume and thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 40:34-35",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The glory of the LORD filling the tabernacle is the template for 'we saw his glory' (v.14): the indwelling Word manifests the kabod that once filled the tent. The tabernacle-plus-glory pairing makes the figural reading near-certain. High coherence and recurrence with the Sinai cycle.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Full of grace and truth' renders the LXX/Hebrew formula 'abounding in steadfast love (hesed) and faithfulness ('emet)' from God's self-revelation to Moses. This is the densest verbal-conceptual borrowing of the Prologue's climax (vv.14,17). Very high thematic coherence: the glory Israel saw at Sinai is now seen in the Word.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:18-23",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Moses' request to see God's glory, granted only as a passing of God's goodness while his face remains unseen, undergirds both 'we saw his glory' and 'no one has seen God at any time' (vv.14,18). The contrast (Moses denied the face; the Son makes God known) is structured directly on this scene.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:20",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'No one has seen God at any time' (v.18) closely restates 'you cannot see my face, for no one may see me and live.' High volume and a near-citation level of verbal coherence; the Son's making-God-known answers the Sinai limitation.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 24:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Wisdom is commanded to 'pitch her tent (kataskēnōson) in Jacob,' the closest Second-Temple antecedent to the Word tabernacling among us (v.14). The tent-pitching verb plus the creation-agent identity makes Sirach 24 a primary source for the whole Prologue. High coherence and recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 31:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The law was given through Moses' (v.17) refers to the Sinai giving of the tablets 'written with the finger of God.' The Moses-law / Christ-grace antithesis is built on the Sinai law-giving as its foil. Secure availability and strong thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:29-35",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Moses' face shining with reflected glory after seeing God contrasts with the Son who is himself the glory and declares the Father (vv.14,18). The Sinai-radiance scene reinforces the Moses-versus-Word comparison; medium for absence of direct verbal borrowing here.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 4:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "At Horeb Israel heard a voice but 'saw no form,' the unseen-God theme behind v.18. The motif of God unseen yet now declared by the Son coheres with John's Sinai contrast; medium confidence.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 8:30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Wisdom beside God as the delighting child/craftsman supports 'the one and only Son, who is in the bosom of the Father' (v.18), the intimate, eternal closeness of the agent to God. Coheres with the Wisdom substrate established in the opening; medium.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 7:25-26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Wisdom as the radiance of God's glory and image of his goodness underlies 'we saw his glory' and the Son as the one who makes the unseen God known (vv.14,18). Reinforces the glory/visibility theme; medium for conceptual rather than verbal link.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 14:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'grace and truth' (hesed-we-emet) divine-attribute formula recurs in Moses' intercession, strengthening recurrence of the Exodus 34:6 source behind v.14/17. Listed low because Exodus 34:6 is the primary locus; this is a secondary witness.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 85:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Steadfast love and faithfulness meet together' pairs hesed and 'emet, the same word-pair behind 'grace and truth.' Faint and contested as a direct source, but evidences the recurrence of the formula in Israel's vocabulary.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:19-28",
+    "echoes": [
+      {
+        "source": "Isaiah 40:3",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "John explicitly quotes 'I am the voice of one crying in the wilderness, Make straight the way of the Lord' (v.23) with the formula 'as Isaiah the prophet said.' This is a formal citation: maximal volume and an attributed source. Thematic coherence with John's preparatory role is exact.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The priests' question 'Are you Elijah?' (v.21) invokes the promise that God will send Elijah before the great day of the LORD. The expectation is directly named, so the allusion is secure; John's denial plays against this eschatological script. High coherence.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Are you the prophet?' (v.21) draws on Moses' promise that God would raise up 'a prophet like me,' a fixed eschatological category in Second-Temple Judaism. The interrogation triad (Christ/Elijah/the prophet) is built on this expectation. High availability and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The messenger sent to prepare the way before the Lord stands behind both the Elijah question and the way-preparation quotation of v.23. Recurrence with Mal 4:5 strengthens the Elijah-forerunner background; medium since Isaiah 40 carries the explicit citation.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 1:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah's wilderness/garb profile underlies why John is asked whether he is Elijah (v.21). Faint here (John's Gospel omits the camel-hair description) but coheres with the Elijah typology; low and somewhat contested in John specifically.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:29-34",
+    "echoes": [
+      {
+        "source": "Exodus 12:3-13",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Behold, the Lamb of God who takes away the sin of the world' (v.29) reads Jesus through the Passover lamb whose blood delivers Israel. John's later Passover chronology (Jesus dying as the lambs are slain, no bones broken) confirms this figural channel. High volume and thematic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Servant 'led like a lamb to the slaughter' who bears the sin of many is the strongest source for a sin-bearing Lamb (v.29), since the Passover lamb is not explicitly sin-removing. The combination of lamb imagery with sin-bearing points decisively to the Servant Song. High coherence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:8",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'God will provide himself the lamb' (the Aqedah) supplies a God-provided sacrificial lamb that became central in Second-Temple atonement reflection, coherent with 'the Lamb of God' (the lamb God provides). Medium because the verbal link is the divine-provision phrase rather than direct quotation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The Spirit of the LORD shall rest on him' undergirds the Spirit 'descending and remaining on him' (vv.32-33); the abiding (not transient) anointing marks the messianic endowment. High thematic coherence with the messianic identification that follows.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'My chosen, on whom I have put my Spirit' fuses the Servant with the Spirit-resting/abiding motif of vv.32-34, and 'Son of God' (v.34, with a known variant 'chosen one') strengthens the Servant link. High coherence between Spirit-endowed Servant and the baptismal attestation.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:2",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The Spirit hovering over the waters at creation, evoked by the Spirit descending over the baptismal waters as a dove (v.32), ties the Spirit-baptism to a new-creation motif consonant with the Prologue's Genesis framing. Medium: the dove-over-water image is the figural cue.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 8:8-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Noah's dove returning over the receding flood-waters offers a dove-over-water image often linked to the baptismal dove (v.32) and to new creation after judgment. Low and contested as a deliberate source, but recurrent in early Jewish-Christian dove symbolism.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 29:38-42",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The daily Tamid lamb offered morning and evening provides another sacrificial-lamb backdrop for 'the Lamb of God' (v.29) alongside Passover and Isaiah 53. Low confidence; included for recurrence of cultic lamb imagery available to John.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 11:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I was like a gentle lamb led to the slaughter' echoes the innocent-victim lamb of v.29, reinforcing the Isaiah 53 sense. Faint and contested as an independent source but a genuine OT lamb-as-victim parallel.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.7",
+    "ch": 1,
+    "ref": "1:35-42",
+    "echoes": [
+      {
+        "source": "Isaiah 53:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The repeated 'Behold, the Lamb of God' (v.36) re-applies the same Servant-lamb identification, the recurrence of which (vv.29,36) strengthens the Isaiah 53 reading under Hays' recurrence criterion. Medium as it is a restatement of the v.29 source.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 17:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' renaming of Simon to Cephas/Peter (v.42) follows the OT pattern of God renaming at covenant calling (Abram to Abraham). The name-change-as-vocation motif coheres with the call narrative; low because no single text is quoted.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 32:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jacob renamed Israel after the encounter at the Jabbok is a second instance of the divine-renaming pattern behind Simon to Cephas (v.42), and anticipates the Jacob/Israel motifs that culminate in v.51. Low and contested as a direct source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "1.8",
+    "ch": 1,
+    "ref": "1:43-51",
+    "echoes": [
+      {
+        "source": "Genesis 28:12",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'You will see heaven opened and the angels of God ascending and descending on the Son of Man' (v.51) is an explicit re-reading of Jacob's ladder, with the verbs 'ascending and descending' lifted from the dream. John relocates the ladder onto the Son of Man, who becomes the bridge between heaven and earth. Maximal figural volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Philip's 'him of whom Moses in the law... wrote' (v.45) identifies Jesus as the prophet-like-Moses, the figure promised in Moses' words. Secure availability and high coherence with the messianic-fulfillment claim that frames the disciple-gathering.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 27:35",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'An Israelite indeed, in whom is no deceit' (v.47) plays on Jacob, of whom Isaac said 'your brother came with deceit'; Nathanael is the true Israel without the guile that named Jacob. The Jacob contrast prepares directly for the Jacob's-ladder saying of v.51. Strong figural coherence and recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Micah 4:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Every man under his vine and under his fig tree' is the eschatological-peace idiom evoked by Nathanael 'under the fig tree' (v.48), suggesting a pious Israelite awaiting the messianic age, possibly studying Torah. Medium: the fig-tree setting is the cue, common to several peace texts.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 3:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You will invite one another under the vine and under the fig tree,' the messianic-day promise, reinforces the 'under the fig tree' setting of v.48 as a sign of the dawning messianic peace Nathanael recognizes in his confession. Medium, recurrent with Micah 4:4.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Nathanael's confession 'you are the Son of God! You are King of Israel!' (v.49) draws on the royal coronation oracle naming the Davidic king God's son. Strong coherence between Son-of-God and King titles; medium for the conceptual rather than verbal link.",
+        "contested": false
+      },
+      {
+        "source": "Zephaniah 3:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The remnant of Israel 'shall do no injustice and speak no lies; nor shall a deceitful tongue be found' supplies the no-deceit ideal of the true Israelite applied to Nathanael (v.47). Coheres with the genuine-Israel motif; medium.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 32:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Blessed is the man... in whose spirit there is no deceit' offers the no-guile ideal behind 'in whom is no deceit' (v.47). Low and contested as a direct source but a genuine parallel to the guileless-Israelite commendation.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The title 'Son of Man' coming with heaven (v.51) draws on the heavenly one 'like a son of man' who approaches the Ancient of Days. John fuses the Danielic Son of Man with the Jacob's-ladder vision; medium because the borrowing is the title and the opened-heaven setting rather than a quotation.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 28:17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jacob's 'this is the gate of heaven' at Bethel undergirds 'heaven opened' (v.51), reinforcing the Bethel-ladder figural reading where the Son of Man is the locus of access to heaven. Medium, recurrent with Genesis 28:12.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The heavens were opened and I saw visions of God' supplies the opened-heaven apocalyptic idiom of v.51. Low confidence: a standard visionary formula rather than a specific source, but coherent with the heavenly disclosure promised.",
+        "contested": true
+      }
+    ]
+  }
+]

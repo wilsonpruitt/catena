@@ -1,0 +1,335 @@
+[
+  {
+    "id": "7.1",
+    "ch": 7,
+    "ref": "7:1-9",
+    "echoes": [
+      {
+        "source": "Leviticus 23:33-43",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The whole chapter is framed by 'the Feast of the Jews, the Feast of Booths' (v.2), the pilgrimage festival Leviticus institutes with its seven days of dwelling in booths and rejoicing 'before the LORD your God.' Availability and volume are high: the named feast supplies the liturgical theater (water-libation, temple lights) that every subsequent saying exploits. John deliberately stages Jesus' self-disclosure against this Mosaic ordinance.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 16:13-15",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Deuteronomy's parallel legislation makes Booths a mandatory pilgrimage to 'the place the LORD will choose' (Jerusalem/temple), explaining the pressure to 'go up to the feast' (vv.3,8,10). The Deuteronomic command to 'rejoice in your feast' undergirds the brothers' urging that Jesus 'reveal yourself to the world' at the festival. Coherence with the going-up-to-Judea motif is strong.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 69:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Even his brothers didn't believe in him' (v.5) coheres with the psalm of the righteous sufferer, 'I have become a stranger to my brothers, an alien to my mother's children' — a psalm John cites elsewhere for Jesus' zeal and rejection. Recurrence of Psalm 69 in the Fourth Gospel raises the plausibility that the brothers' unbelief is read figurally through the estranged sufferer.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.2",
+    "ch": 7,
+    "ref": "7:10-13",
+    "echoes": [
+      {
+        "source": "Deuteronomy 16:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'When his brothers had gone up to the feast, then he also went up' enacts the Deuteronomic requirement that every male 'appear before the LORD' three times a year, Booths being one. The going-up language and the search 'at the feast' (v.11) presuppose the pilgrim crowds the law gathers. Coherence with the festival frame is strong though the verbal contact is general.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "7.3",
+    "ch": 7,
+    "ref": "7:14-24",
+    "echoes": [
+      {
+        "source": "Deuteronomy 18:18-19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'My teaching is not mine, but his who sent me' (v.16) and 'he who sent me is true' echo the prophet-like-Moses who speaks only what God commands, into whose mouth God puts his words. The sending/speaking-not-from-self language is the diagnostic mark distinguishing the true prophet (Deut 18) from one who speaks presumptuously. Strong coherence with John's prophet-Christology, reinforced by v.40 ('truly the prophet').",
+        "contested": false
+      },
+      {
+        "source": "Numbers 16:28",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Moses' self-authentication, 'the LORD has sent me to do all these works, and I have not done them of my own accord,' supplies the precise idiom of vv.17-18 ('if I am speaking from myself... seeks his own glory'). The criterion of not seeking one's own glory but the sender's marks divine commission. Availability and verbal coherence are good even if the contact is unmarked.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 33:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Didn't Moses give you the law, and yet none of you keeps the law?' (v.19) directly invokes the Mosaic Torah as a body, with the Pentateuch as availability. The argument turns on the law's own internal logic, and John names Moses three times in this unit. Quotation-strength reference to Torah as institution rather than a single verse.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 12:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'On the Sabbath you circumcise a boy' (vv.22-23) rests on the law that a male child is circumcised 'on the eighth day,' which can fall on a Sabbath, overriding Sabbath rest. Leviticus 12:3 is the explicit eighth-day legislation Jesus reasons from a fortiori (if circumcision overrides Sabbath, how much more healing a whole man). High volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 17:10-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Moses has given you circumcision (not that it is of Moses, but of the fathers)' (v.22) corrects the attribution to the Abrahamic covenant, where God commands circumcision on the eighth day as the sign 'between me and you.' The patriarchal origin ('of the fathers') points precisely to Genesis 17, prior to Moses. Direct conceptual citation.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Don't judge according to appearance, but judge righteous judgment' (v.24) echoes the Holiness Code's command, 'you shall do no injustice in judgment... in righteousness you shall judge your neighbor.' The pairing of forbidden partial judgment with commanded righteous judgment matches Leviticus closely. High coherence; the verse recurs as a juridical touchstone in this chapter (cf. vv.51).",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 1:16-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The charge to judges, 'judge righteously... you shall not be partial in judgment... you shall not be afraid of the face of man,' undergirds 'judge righteous judgment' (v.24) and anticipates Nicodemus' procedural appeal (v.51). Recurrence within the chapter strengthens the figural reading of impartial judgment. Verbal overlap is with the 'righteous judgment' idiom.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:3-4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The messianic shoot 'shall not judge by what his eyes see... but with righteousness he shall judge' is the prophetic mirror of v.24's 'do not judge by appearance but judge righteous judgment.' Coherence with John's messianic theme (the crowd debating whether Jesus is the Christ) makes this more than coincidental, though John gives no citation formula. Contested as an unmarked echo.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 7:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Render true judgment, show kindness and mercy' is one more prophetic locus for the impartial-justice ideal behind v.24. Volume is low and the contact is thematic rather than verbal, but Zechariah's prominence elsewhere in John 7 (rivers of living water) raises availability. Marked contested and low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.4",
+    "ch": 7,
+    "ref": "7:25-31",
+    "echoes": [
+      {
+        "source": "Isaiah 53:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'When the Christ comes, no one will know where he comes from' (v.27) reflects a strand of expectation about the Messiah's hidden origin; Isaiah's 'as for his generation, who considered it?' was read in Second-Temple sources for the servant's obscure origin. The hiddenness motif coheres with John's irony that they know Jesus' earthly origin but not his heavenly one (vv.28-29). Contested and allusive.",
+        "contested": true
+      },
+      {
+        "source": "Micah 5:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The popular belief about the Messiah's unknown origin (v.27) stands in tension with, and presupposes, the Bethlehem expectation made explicit at v.42. Micah's 'whose origins are from of old, from ancient days' could itself feed the 'no one will know where he comes from' tradition. Low volume here; the fuller Micah contact belongs to 7.6.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.5",
+    "ch": 7,
+    "ref": "7:32-36",
+    "echoes": [
+      {
+        "source": "Deuteronomy 4:29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You will seek me, and won't find me' (v.34) inverts the Deuteronomic promise 'you will seek the LORD your God and you will find him, if you search with all your heart.' The reversal (seeking without finding) functions as covenantal judgment language. Volume and verbal contact are modest; marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 1:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'They will seek me diligently but will not find me' is Wisdom's verdict on those who spurned her, closely matching 'you will seek me, and won't find me' (v.34). The Wisdom-Christology of John (incarnate Logos withdrawing) gives strong coherence, and the verbal parallel is tight. The unmarked allusion fits John's pattern of figural Wisdom motifs.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 5:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They shall go to seek the LORD, but they will not find him; he has withdrawn from them' parallels the seek-but-not-find judgment of v.34. Hosea casts it as God hiding because of unfaithfulness, coherent with the crowd's unbelief. Low volume, offered as an alternate prophetic source.",
+        "contested": true,
+        "altSource": "Amos 8:12"
+      },
+      {
+        "source": "Isaiah 11:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Will he go to the Dispersion among the Greeks?' (v.35) ironically gestures toward the prophetic ingathering of the scattered, where the messianic root 'gathers the dispersed of Judah from the four corners of the earth.' John's irony (the mission to the Greeks the speakers mock) coheres with the Diaspora-ingathering hope. Contested, thematic.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.6",
+    "ch": 7,
+    "ref": "7:37-39",
+    "echoes": [
+      {
+        "source": "Zechariah 14:8",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'From within him will flow rivers of living water' (v.38), declared 'on the last and greatest day' of Booths, draws on Zechariah's eschatological vision read at the feast: 'living waters shall flow out from Jerusalem.' Zechariah 14 is the Tabernacles lectionary, explicitly naming the feast (14:16-19), giving maximal availability and coherence. This is the spine of John's water typology here.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 47:1-12",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The temple-river vision, water flowing from beneath the threshold and swelling into a life-giving river, supplies the 'rivers of living water' imagery flowing from the new temple (Jesus/the believer). High volume and coherence: John casts Jesus' body as the eschatological temple source. The plural 'rivers' and life-giving flow match Ezekiel's swelling stream.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 78:15-16",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'He split the rocks in the wilderness... brought streams out of the rock and caused waters to run down like rivers' is the wilderness water-from-the-rock typology underlying 'rivers of living water' at the water-libation feast. Booths commemorated wilderness dwelling; the rock-water gift is the natural figural source. The verbal 'rivers' (potamous) coheres with John's plural.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 20:11",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Moses striking the rock so that 'water came out abundantly' is the foundational wilderness rock-water event behind v.38, tied to Booths' commemoration of the wilderness sojourn and its water-pouring rite. Coherence is strong; offered alongside Exodus 17:6 as the source-event for the rock typology. Medium because the contact is mediated through the Psalm/feast tradition.",
+        "contested": false,
+        "altSource": "Exodus 17:6"
+      },
+      {
+        "source": "Isaiah 58:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You shall be like a watered garden, like a spring of water whose waters do not fail' supplies the image of the believer as an unfailing inward source ('from within him will flow'), matching the interiority of v.38. Isaiah's spring-that-fails-not coheres with the Spirit's permanence (v.39). A plausible component of John's composite scriptural citation.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 44:3",
+        "type": "echo",
+        "confidence": "high",
+        "note": "'I will pour water on the thirsty land... I will pour my Spirit upon your offspring' directly joins water-outpouring to Spirit-giving, exactly the move John makes when he glosses the living water as 'the Spirit' (v.39). The water/Spirit equation gives strong coherence and supplies the interpretive key John attaches to the saying. High confidence as a Spirit-water source.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 12:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'With joy you will draw water from the wells of salvation' was the text sung at the Tabernacles water-libation (the Hallel/water-drawing rite). The festal water-drawing ceremony is precisely the backdrop of Jesus' invitation 'if anyone is thirsty, let him come to me and drink' (v.37). Coherence with the liturgical setting is high; verbal contact moderate.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 55:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Ho, everyone who thirsts, come to the waters' is the closest invitation-formula to v.37, 'if anyone is thirsty, let him come to me and drink.' The thirst-come-drink structure and free offer match. John re-voices the prophetic summons with Jesus as the water-giver; medium confidence as an unmarked but strongly parallel allusion.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 18:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The words of a man's mouth are deep waters; the fountain of wisdom is a flowing stream' may feed the 'rivers of living water... from within him' image, linking inner source to wisdom/teaching. Low volume, offered because John's living-water motif elsewhere blends Wisdom and Spirit. Contested.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:28",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I will pour out my Spirit on all flesh' grounds v.39's note that the Spirit 'was not yet given,' since the prophetic Spirit-outpouring awaited the eschaton. The pouring-out language coheres with the water imagery and explains the deferral until Jesus is glorified. Medium as background to the editorial Spirit comment.",
+        "contested": true
+      },
+      {
+        "source": "Joel 3:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'A fountain shall come forth from the house of the LORD' joins the Zechariah/Ezekiel temple-spring cluster behind the 'rivers of living water.' Joel's fountain from the temple coheres with Jesus as the eschatological temple-source on the feast day. Offered as a recurrent member of the temple-river tradition John draws on.",
+        "contested": true,
+        "altSource": "Zechariah 13:1"
+      }
+    ]
+  },
+  {
+    "id": "7.7",
+    "ch": 7,
+    "ref": "7:40-44",
+    "echoes": [
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'This is truly the prophet' (v.40) names the eschatological prophet-like-Moses God promised to raise up, 'to him you shall listen.' Booths' Mosaic/wilderness setting and Jesus' Moses-discourse earlier (vv.19-23) make the Deuteronomic prophet the precise referent. High coherence and recurrence of the prophet motif in John (cf. 1:21, 6:14).",
+        "contested": false
+      },
+      {
+        "source": "Micah 5:2",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The Christ comes... from Bethlehem, the village where David was' (v.42) reflects the scribal reading of Micah, 'But you, Bethlehem Ephrathah... from you shall come forth for me one who is to be ruler in Israel.' John presents the crowd citing Scripture ('Hasn't the Scripture said'), the nearest thing to a formal quotation in the chapter. Maximal volume and availability.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 7:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The Christ comes of the seed of David' (v.42) invokes the Davidic covenant, 'I will raise up your offspring after you... and I will establish his kingdom.' The 'seed of David' formula is the covenantal root of messianic expectation the crowd recites. Strong coherence with the Bethlehem-of-David clause and the whole is-this-the-Christ debate.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 89:3-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I have made a covenant with my chosen one... I will establish your offspring forever' restates the Davidic 'seed' promise behind v.42. The psalm's covenant-with-David vocabulary reinforces the 'seed of David' expectation; medium because 2 Samuel 7 is the more direct source. Recurrence of the Davidic-seed theme raises coherence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 132:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The LORD swore to David... one of the fruit of your body I will set on your throne' is another locus of the Davidic-seed oath underlying 'the seed of David' (v.42). The Bethlehem/David pairing coheres with the throne-promise. Offered as a member of the Davidic-covenant cluster the crowd's scriptural objection presupposes.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.8",
+    "ch": 7,
+    "ref": "7:45-53",
+    "echoes": [
+      {
+        "source": "Deuteronomy 1:16-17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Nicodemus' 'Does our law judge a man, unless it first hears from him personally?' (v.51) applies the Mosaic charge to judges, 'hear the cases between your brothers and judge righteously... you shall not be partial.' The duty to hear a party before condemning is the procedural core of the Deuteronomic judicial code. High coherence with the chapter's 'judge righteous judgment' (v.24).",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 19:15-18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Nicodemus' appeal to due process (v.51) reflects the law of inquiry and witnesses, where judges 'shall inquire diligently' and a matter is established only after examination. The insistence that the law not condemn without first hearing the accused matches the diligent-inquiry requirement. Strong verbal-conceptual contact and recurrence of the fair-hearing theme.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'No prophet has arisen out of Galilee' (v.52) is John's irony against the very prophet-like-Moses expectation (v.40); the Pharisees deny on geographical grounds what Scripture and Jonah (a Galilean prophet) would unsettle. The prophet motif from Deuteronomy frames the dismissal as mistaken. Medium; functions through dramatic irony rather than citation.",
+        "contested": true,
+        "altSource": "2 Kings 14:25"
+      },
+      {
+        "source": "Isaiah 9:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Search, and see that no prophet has arisen out of Galilee' (v.52) is ironized by Isaiah's prophecy that 'Galilee of the nations' would see a great light — a messianic dawn from the despised region. John's reader hears the Pharisees contradicting Scripture's own honoring of Galilee. Low volume and unmarked; offered as the corrective subtext.",
+        "contested": true
+      }
+    ]
+  }
+]

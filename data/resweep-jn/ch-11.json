@@ -1,0 +1,303 @@
+[
+  {
+    "id": "11.1",
+    "ch": 11,
+    "ref": "11:1-16",
+    "echoes": [
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'sickness not unto death but for the glory of God' frames Lazarus' death as a stage on which divine life-giving will be displayed, echoing the Creator who breathes life into dust. Faint, but coheres with John's creation theology (1:1-4) and the breath-of-life motif that undergirds resurrection texts. Contested.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Jesus' euphemism that Lazarus 'has fallen asleep' and will be awakened maps onto Daniel's 'many who sleep in the dust of the earth shall awake,' the classic OT idiom for resurrection as awakening from sleep. Volume is moderate (shared sleep/awaken vocabulary) and coheres with the chapter's resurrection program. Availability secure as the seminal resurrection text.",
+        "contested": false
+      },
+      {
+        "source": "Job 14:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Job's 'man lies down and rises not till the heavens are no more; they will not awake nor be roused from their sleep' supplies the sleep-of-death idiom that Jesus inverts by awakening Lazarus. Coherence is good but volume is faint and the idiom is widely diffused. Contested as a specific source.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 13:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Lighten my eyes lest I sleep the sleep of death' associates sleep with death and divine light, resonating with both the 'fallen asleep' euphemism and Jesus' day/night light saying (vv.9-10). Faint and idiomatic; offered honestly as low-confidence.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 13:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' walking-in-the-day-versus-stumbling-in-the-dark saying echoes the prophetic 'give glory to the LORD before he brings darkness, before your feet stumble on the twilight mountains.' Shared stumble/light/darkness imagery; coherence with Johannine light theme but low volume. Contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.2",
+    "ch": 11,
+    "ref": "11:17-27",
+    "echoes": [
+      {
+        "source": "Daniel 12:2",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Martha's confession 'I know he will rise again in the resurrection at the last day' is precisely the Danielic doctrine of bodily resurrection at the end, the only OT text giving it explicit shape. High volume and recurrence; Jesus then collapses 'the last day' into his own person ('I am the resurrection'). Availability and coherence are strong.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:1-14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The whole Lazarus episode enacts Ezekiel's vision: God opens graves, raises the dead, and gives life by his Spirit/word so that 'you shall know that I am the LORD.' 'I am the resurrection and the life' figurally fulfills Yahweh's promise to raise the dead from their tombs. High volume of shared grave/raising imagery and strong coherence with the sign's purpose (that they may believe / know).",
+        "contested": false
+      },
+      {
+        "source": "Hosea 13:14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Shall I ransom them from the power of Sheol? Shall I redeem them from Death?' grounds the hope that death is not final, the hope Martha voices. Jesus as 'the resurrection and the life' answers Hosea's rhetorical challenge to Death. Moderate volume; coheres with the chapter's victory-over-death theme.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:19",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Your dead shall live; their bodies shall rise. Awake and sing, you who dwell in the dust!' is the Isaianic resurrection promise underlying both Martha's last-day hope and the literal raising of Lazarus. Strong volume (dead-shall-live, awake-from-dust) and coherence with Daniel 12:2 cluster.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:39",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I kill and I make alive' is the foundational divine self-claim that only God gives and takes life; Jesus' 'I am the resurrection and the life' assumes this prerogative in the first person. The 'I am' form coheres with the Johannine egō eimi sayings rooted in Deuteronomy/Isaiah self-declarations. Moderate volume.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 2:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Hannah's 'The LORD kills and brings to life; he brings down to Sheol and raises up' parallels Deuteronomy 32:39 as the OT confession of God's resurrection power that Jesus now wields. Coheres with the life-giving claim; moderate volume via the kill/make-alive pairing.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 118:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I shall not die, but live, and recount the deeds of the LORD' resonates with Jesus' promise that the believer 'shall never die.' Faint verbal contact; offered as low-confidence given the Psalm's broader Passion-week use. Contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.3",
+    "ch": 11,
+    "ref": "11:28-37",
+    "echoes": [
+      {
+        "source": "Psalm 56:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You have kept count of my tossings; put my tears in your bottle' frames divine attentiveness to human weeping, resonating with Jesus weeping and being deeply moved at the tomb. Faint and thematic rather than verbal; coherence with the compassion motif but low volume. Contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jesus 'troubled in spirit' and weeping, 'a man of sorrows and acquainted with grief,' figures the Servant who bears human sorrow. Coheres with the chapter's later substitution theme (Caiaphas, vv.50-52) and John's Servant Christology. Moderate volume via the grief/sorrow correspondence.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 50:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Joseph weeping over and mourning his dead father supplies a patriarchal precedent for righteous weeping over the dead, ambient behind 'Jesus wept.' Very faint, generic mourning topos; honestly low-confidence. Contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 35:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The bystanders' 'this man who opened the eyes of the blind' recalls Isaiah's eschatological sign that 'the eyes of the blind shall be opened,' which John applies to Jesus' ch.9 sign. The cross-reference here invokes that Isaianic frame as proof of life-giving power. Low volume in this pericope; contested as a direct echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.4",
+    "ch": 11,
+    "ref": "11:38-44",
+    "echoes": [
+      {
+        "source": "Ezekiel 37:1-14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The command 'Lazarus, come out!' and the dead man emerging from the cave-tomb enact Ezekiel's 'I will open your graves and raise you from your graves' brought to life by the word. The grave-clothes/loosing imagery and the loud summoning voice are strongly coherent with the dry-bones vivification by God's word. Highest-volume figural anchor of the chapter.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 17:17-24",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Elijah raising the widow of Zarephath's son is the foundational prophet-raises-the-dead type that Jesus surpasses; cf. the 'four days' to magnify the miracle. Strong recurrence (paired with Elisha) and coherence: a prophet's word/prayer restores a dead son to life. Availability secure.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:32-37",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Elisha raising the Shunammite's son completes the prophetic resurrection pattern behind the Lazarus sign; the restored child and Jesus' restored friend share the dead-son-revived type. High recurrence with 1 Kings 17; coherence with John's portrayal of Jesus as the prophet greater than Elijah/Elisha.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jesus' creative summons by 'a loud voice' that calls the dead into life echoes the divine word that calls being out of nothing ('Let there be light'), consistent with John's prologue identifying Jesus as the creative Word. Moderate volume; strong coherence with Johannine creation/word theology.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The bodily emergence of one who slept in the dust anticipates Daniel's awakening of those who sleep in the dust; Lazarus is a proleptic enactment of the last-day resurrection Martha named (v.24). Moderate volume here, reinforcing the chapter-wide Danielic frame.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:19",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'Awake and sing, you who dwell in the dust; your dead shall live' is enacted as Lazarus is summoned from the dust of the tomb. The literal raising performs Isaiah's promise; moderate volume reinforcing the resurrection-promise cluster of the chapter.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "11.5",
+    "ch": 11,
+    "ref": "11:45-53",
+    "echoes": [
+      {
+        "source": "Isaiah 53:5-8",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Caiaphas' 'it is better that one man die for the people' unwittingly states the Servant's vicarious substitution: 'he was cut off from the land of the living for the transgression of my people.' John flags it as prophecy, making the one-dies-for-the-many a deliberate Isaianic atonement type. High volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "That Jesus would die 'not for the nation only but to gather the scattered children of God into one' echoes the Servant's commission to be 'a light to the nations' and to restore the dispersed of Israel, widening salvation beyond the nation. Moderate volume; coheres with John's universalizing of the death's scope.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 34:12-13",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Gather together into one the children of God who are scattered' enacts the shepherd-God's promise to 'seek out my scattered sheep and gather them from where they were scattered.' Strong volume on the gather/scatter vocabulary and coherence with John 10's shepherd theme. Availability secure.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:21-22",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Following the dry-bones grave-opening, Ezekiel 37 promises to 'gather' the scattered Israelites 'and make them one nation' — precisely the gathering-into-one of v.52. The same chapter that grounds the resurrection sign grounds the ingathering, a tight intra-Ezekielian coherence. High volume.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:3-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He will gather you again from all the peoples where the LORD scattered you... from there he will gather you' is the covenantal ingathering-of-the-dispersed promise behind 'gather into one the scattered children of God.' Moderate-to-high volume on the scatter/gather diaspora language; coherence with the universal scope.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He will assemble the banished of Israel and gather the dispersed of Judah from the four corners of the earth' supplies the eschatological-ingathering idiom for gathering the scattered children of God. Moderate volume; recurs with Deuteronomy 30 and Ezekiel 34/37 in the dispersion-gathering cluster.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 23:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I will gather the remnant of my flock out of all the countries where I have driven them' parallels Ezekiel 34 in the shepherd-gathers-the-scattered motif behind v.52. Moderate volume, reinforcing the gathering theme; coheres with John's flock/shepherd imagery.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 10:8-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will gather them in... though I scattered them among the nations, yet in far countries they shall remember me' echoes the scatter/gather pattern of v.52. Faint relative to the stronger Ezekiel/Deuteronomy parallels; offered as low-confidence. Contested.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 50:20",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Caiaphas' malicious counsel that providentially saves many enacts Joseph's 'you meant evil against me, but God meant it for good, to keep many people alive.' The dramatic irony of unwitting prophecy producing salvation is strongly coherent; moderate volume via the evil-counsel-turned-deliverance pattern.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 35:33",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The notion that the land/nation is preserved by a death ('no expiation for the land for blood except by the blood of him who shed it') faintly underlies Caiaphas' calculus that one death spares the nation. Low volume and contested as a deliberate echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "11.6",
+    "ch": 11,
+    "ref": "11:54-57",
+    "echoes": [
+      {
+        "source": "Numbers 9:6-12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The pilgrims going up 'to purify themselves' before Passover reflects the Mosaic requirement of ritual purity to keep the feast (Num 9 provides for the unclean). Moderate volume on the Passover-purification linkage; coheres with John's framing of Jesus' death at Passover. Availability secure as the Passover-law text.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 30:17-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Hezekiah's Passover, where many who had not purified themselves needed cleansing to eat the Passover, supplies the concrete precedent for pilgrims purifying themselves before the feast (v.55). Moderate volume; coheres with the purification-for-Passover theme. Contested only as to which purification text is primary.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 12:1-13",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'The Passover of the Jews was at hand' sets the death-plot against the Passover-lamb backdrop that John develops (cf. 1:29; 19:14), figuring Jesus as the Passover lamb slain for the people — tying back to Caiaphas' one-dies-for-many. Moderate volume here but high coherence with John's Passover Christology.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 19:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Purification before the feast also evokes the corpse-uncleanness law requiring cleansing — pointed given the chapter's tombs and a four-days-dead body. Faint and inferential; offered as low-confidence. Contested.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 19:3-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus withdrawing to the wilderness region near Ephraim to avoid the murder-plot faintly mirrors prophets (Elijah, David) fleeing to the wilderness when sought to be killed. Generic flight-to-wilderness topos, low volume. Contested.",
+        "contested": true
+      }
+    ]
+  }
+]

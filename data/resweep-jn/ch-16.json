@@ -1,0 +1,267 @@
+[
+  {
+    "id": "16.1",
+    "ch": 16,
+    "ref": "16:1-4",
+    "echoes": [
+      {
+        "source": "Numbers 25:6-13",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'Whoever kills you will think that he offers service to God' figurally invokes the Phinehas-zeal pattern, where killing in defense of God's honor is reckoned righteous and brings a covenant of priesthood. John frames synagogue persecution as misdirected cultic zeal; coherence with the prophet-killing motif is high, and Phinehas was the paradigmatic Second-Temple model of lethal zeal (1 Macc 2:26, 54).",
+        "contested": true,
+        "altSource": "1 Maccabees 2:23-28"
+      },
+      {
+        "source": "Psalm 69:7-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Persecution 'for your sake' / zeal for God's house consuming the persecutor sits behind the idea that opponents act in supposed devotion. John 2:17 already cited this psalm, so recurrence within the Gospel supports a faint echo of the zeal-as-cover motif, but volume here is thin.",
+        "contested": true,
+        "altSource": "Numbers 25:11"
+      },
+      {
+        "source": "Isaiah 66:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah 66:5 speaks of brethren who hate and cast out the faithful 'for my name's sake,' claiming it is God who is glorified — strikingly close to expulsion from the synagogue done as service to God. Volume and coherence are strong; the verb of casting out the faithful from the cultic community matches John's aposynagogos.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 24:20-22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The killing of Zechariah the prophet in the temple court typifies prophets slain by the very people of God under pretense of fidelity. As a representative of the persecuted-prophets tradition it coheres with Jesus' warning that disciples will be killed by those who think they serve God.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.2",
+    "ch": 16,
+    "ref": "16:5-11",
+    "echoes": [
+      {
+        "source": "Isaiah 11:2-4",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The Paraclete as 'Spirit of truth' who convicts the world recalls the Spirit of the LORD resting on the shoot of Jesse — wisdom, counsel, and judging with righteousness, reproving the earth. The convicting/judicial function of the Spirit (krinei, elenxei) coheres tightly with Isaiah's Spirit-endowed righteous judge.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 41:21-29",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The Spirit convicting 'the world about sin, righteousness, and judgment' enacts the divine lawsuit (rib) of Deutero-Isaiah, where God prosecutes the nations and their idols, exposing their case as nothing. John's forensic vocabulary (elenchein, krisis, dikaiosyne) coheres with the Isaianic courtroom, supplying the conceptual matrix for the Paraclete's prosecutorial role.",
+        "contested": true,
+        "altSource": "Isaiah 43:8-13"
+      },
+      {
+        "source": "Genesis 3:15",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'The prince of this world has been judged' figurally evokes the protoevangelium's sentence on the serpent, read in Second-Temple tradition as the crushing of the adversary. The judgment of the ruler coheres with John's wider serpent/devil typology (8:44), though the verbal link is faint.",
+        "contested": true,
+        "altSource": "Isaiah 24:21-22"
+      },
+      {
+        "source": "Isaiah 24:21-22",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Isaiah foretells the LORD punishing 'the host of the high ones' and the kings of the earth, shut up and visited after many days — a judgment of cosmic rulers that prefigures the 'prince of this world' being judged. The motif of a heavenly ruler subjected to verdict coheres with John 16:11.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 3:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The satan/accuser rebuked and condemned in the heavenly court anticipates the ruler of this world being judged. The forensic setting where the accuser is himself overruled coheres with the Paraclete (Advocate) replacing the prosecuting adversary.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.3",
+    "ch": 16,
+    "ref": "16:12-15",
+    "echoes": [
+      {
+        "source": "Isaiah 11:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'Spirit of truth' who guides into all truth draws on the Spirit of wisdom and understanding; the leading/guiding function recalls the Spirit as teacher. Recurrence of the Spirit-of-truth title in John strengthens the Isaianic resonance.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 25:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Guide me in your truth and teach me' supplies the precise idiom of being led/guided into truth (hodegein + aletheia in LXX), matching 'he will guide you into all truth.' Volume is notable because the verb and noun co-occur as in John 16:13.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 143:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your good Spirit will lead me' pairs the divine Spirit with guidance into right paths, coherent with the Paraclete leading disciples. The conjunction of Spirit and leading reinforces the guidance motif though the wording is more distant than Psalm 25.",
+        "contested": true
+      },
+      {
+        "source": "Amos 3:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Lord GOD will do nothing but he reveals his secret to his servants the prophets' undergirds 'he will declare to you things that are coming' — the Spirit functioning as the prophetic revealer of God's hidden future. Coherence with the disclosure-of-the-future clause is good though the allusion is diffuse.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:28-29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'There is a God in heaven who reveals secrets and has made known what shall come to pass' parallels the Spirit declaring 'things that are coming.' The apocalyptic disclosure of the future coheres with the Paraclete's revelatory role.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.4",
+    "ch": 16,
+    "ref": "16:16-22",
+    "echoes": [
+      {
+        "source": "Isaiah 26:17-19",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The woman in labor whose anguish turns to deliverance, set beside resurrection ('your dead shall live'), is the controlling figure behind sorrow-turned-to-joy and 'I will see you again.' Volume is high (extended birth-pang image), recurrence strong in the prophets, and coherence with John's death-to-resurrection movement is exact.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 66:7-14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Zion's painless birth issuing in joy, comfort, and rejoicing hearts ('your heart shall rejoice') is closely echoed by 'your heart will rejoice, and no one will take your joy away.' The labor-to-joy reversal and the explicit heart-rejoicing give high volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Micah 4:9-10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Zion in labor 'like a woman in travail' who must groan before being delivered prefigures the disciples' pangs preceding deliverance. The eschatological birth-pang motif coheres with Jesus' 'her time has come' / 'a human being is born into the world.'",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 30:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The day of distress likened to a man in the pangs of a woman in labor — Jacob's trouble out of which he is saved — supplies the tribulation-then-salvation structure of 16:20-22. Coherence with the messianic 'birth-pangs' tradition is strong.",
+        "contested": true,
+        "altSource": "Isaiah 13:8"
+      },
+      {
+        "source": "Isaiah 26:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Hide yourselves for a little while (mikron) until the indignation passes' is the closest LXX source for the repeated 'a little while' bracketing distress before vindication. The mikron-then-deliverance pattern coheres tightly with 16:16-19.",
+        "contested": false
+      },
+      {
+        "source": "Haggai 2:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Yet once, it is a little while (mikron), and I will shake the heavens' offers an eschatological 'little while' before God's decisive intervention. It supports the 'little while' time-marker, though the shaking-the-cosmos context is only loosely coherent.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'After two days he will revive us; on the third day he will raise us up, that we may live before him' undergirds the short-interval-then-seeing-again pattern of 'a little while... and you will see me.' The revival-after-brief-interval coheres with the resurrection sense, though John does not cite it.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 30:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Weeping may endure for a night, but joy comes in the morning' is a tight aphoristic match for 'you will weep and lament... but your sorrow will be turned into joy.' The night-weeping/morning-joy reversal coheres precisely with the sorrow-to-joy promise.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow' is verbally close to 'your sorrow will be turned into joy.' The turning-of-mourning-to-joy in the new-covenant restoration passage gives strong coherence.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "16.5",
+    "ch": 16,
+    "ref": "16:23-28",
+    "echoes": [
+      {
+        "source": "Psalm 37:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Delight yourself in the LORD, and he will give you the desires of your heart' resonates with 'whatever you ask of the Father in my name, he will give it.' The granting-of-petitions motif coheres, though the link is generic to OT prayer theology.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 65:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Before they call, I will answer' frames the eschatological 'in that day' when asking yields immediate granting, coherent with 16:23-24's day of unhindered prayer. The new-creation setting matches John's 'in that day' marker.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 12:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God speaks to Moses 'mouth to mouth, clearly (plainly), and not in dark speeches' — the plain-speech vs. figures-of-speech contrast (16:25) echoes the riddle/plain-revelation distinction. Coherence with 'no more speak in figures but tell you plainly' is suggestive.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.6",
+    "ch": 16,
+    "ref": "16:29-33",
+    "echoes": [
+      {
+        "source": "Zechariah 13:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Strike the shepherd, and the sheep shall be scattered' lies behind 'you will be scattered, everyone to his own place, and you will leave me alone.' The scattering-of-the-flock-at-the-shepherd's-smiting is a recognized passion testimony; coherence is strong even without formal citation.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 2:1-9",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'I have overcome the world' enacts the divine-warrior/royal-Son motif of Psalm 2, where the nations rage but the enthroned Son subdues them. The cosmic conquest coheres with John's 'ruler of this world' being judged and the Son's victory over a hostile world.",
+        "contested": true,
+        "altSource": "Psalm 110:1"
+      },
+      {
+        "source": "Isaiah 9:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'That in me you may have peace' amid tribulation evokes the messianic 'Prince of Peace' whose government brings peace without end. The peace-in-the-Son motif coheres with John's farewell shalom (cf. 14:27), though volume here is low.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 41:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Fear not, for I am with you' undergirds 'cheer up!' and 'the Father is with me' as divine-presence reassurance against a hostile world. The do-not-fear / I-am-with-you formula coheres with Jesus' encouragement, though it is a widespread OT idiom.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The everlasting dominion given to the one like a son of man, that all should serve him, frames 'I have overcome the world' as the Son of Man's universal triumph over the nations. The cosmic victory coheres with Johannine exaltation, though the link is thematic.",
+        "contested": true
+      }
+    ]
+  }
+]

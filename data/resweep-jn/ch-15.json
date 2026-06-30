@@ -1,0 +1,242 @@
+[
+  {
+    "id": "15.1",
+    "ch": 15,
+    "ref": "15:1-8",
+    "echoes": [
+      {
+        "source": "Psalm 80:8-16",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The vine 'brought out of Egypt' that God planted and tended is the controlling image Jesus reworks: Israel-as-vine becomes Jesus the true vine. High volume and coherence — Ps 80 also has God's hand burning/cutting the vine (v.16), feeding the imagery of branches thrown into the fire in 15:6, and v.17 'the son of man' whom God strengthens.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 5:1-7",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The Song of the Vineyard: God's well-tended vineyard yields wild grapes and is judged. Jesus' 'true vine' answers Israel's failure to bear fruit; the Father as vinedresser (georgos) who prunes parallels the owner who tends and then strips Isaiah's vineyard. Strong thematic coherence on fruit-bearing and judgment.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 2:21",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'I planted you a choice vine... how then have you turned degenerate, a wild vine?' The contrast between the genuine (true) vine and the degenerate vine sharpens Jesus' 'I am the TRUE vine' — he is what planted Israel was meant to be. High coherence and availability.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 15:1-8",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The vine-wood good for nothing but fuel, burned in the fire — directly underwrites 15:6, branches gathered, cast into fire, and burned. Ezekiel says the unfruitful vine is given to the fire for fuel; the verbal/conceptual link to the withered branch burned is strong.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 17:5-10",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The vine planted and tended, which will or won't flourish and may wither, contributes to the cluster of prophetic vine imagery of planting, pruning and withering behind 15:1-6. Recurrence within the vine-of-Israel tradition strengthens it even though no single verbal quotation.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 19:10-14",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Israel as a fruitful vine plucked up in fury, withered, and consumed by fire — same fruit/wither/fire complex as 15:2,6. Part of the recurrent Ezekiel vine-judgment tradition Jesus inverts as the true vine that abides.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 10:1",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'Israel is a luxuriant vine that yields its fruit' yet turns to idolatry. Reinforces the vine-of-Israel topos of fruit that should but fails to glorify God, the backdrop for the true vine bearing 'much fruit' to the Father's glory (15:8).",
+        "contested": false
+      },
+      {
+        "source": "Psalm 1:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The righteous as a tree planted by water 'that yields its fruit in its season' and does not wither frames the abiding/fruit-bearing/withering antithesis of 15:2-6. Coherence with the abide-and-bear-fruit motif; tree rather than vine, so a softer echo.",
+        "contested": true,
+        "altSource": "Jeremiah 17:8"
+      },
+      {
+        "source": "Jeremiah 17:7-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The one who trusts the Lord is like a tree planted by water that does not cease to bear fruit even in drought. Parallels remaining/abiding and continual fruit-bearing of the abiding branch (15:4-5); shares the 'not wither / bears fruit' contrast.",
+        "contested": true,
+        "altSource": "Psalm 1:3"
+      },
+      {
+        "source": "Isaiah 27:2-6",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The restored 'pleasant vineyard' that God keeps and waters night and day so Jacob 'shall fill the whole world with fruit' — the eschatological reversal of Isa 5. Jesus the true vine realizes this fruitful vineyard; coherence with 15:8's much fruit and the keeping/tending Father.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 49:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Judah's blessing binds the foal 'to the vine, his donkey's colt to the choice vine,' a messianic vine image read of the coming ruler. A faint contributory resonance to messianic 'true vine' typology rather than a direct source.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 24:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom says 'I spread out my branches like a terebinth... like a vine I caused loveliness to bud, and my blossoms became glorious and abundant fruit.' Personified Wisdom as a fruitful vine offers a Second-Temple analogue to the 'I am the vine' self-predication, supporting the figural reading.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "15.2",
+    "ch": 15,
+    "ref": "15:9-17",
+    "echoes": [
+      {
+        "source": "Deuteronomy 7:6-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You did not choose me, but I chose you' (15:16) echoes Israel's election: the Lord chose them not for their merit but in love. Strong coherence on divine election and love; covenantal keeping of commandments (15:10) belongs to the same Deuteronomic frame.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 41:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Abraham my friend' (lit. the one who loved me) — the title 'friend of God' Jesus confers, 'I have called you friends' (15:14-15). The friendship/election language ('Israel... whom I have chosen, offspring of Abraham my friend') gives high availability and coherence to the friend motif.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 20:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Abraham your friend' — second OT witness to the Abraham-as-friend-of-God title that 'you are my friends' (15:14) actualizes for the disciples. Recurrence with Isa 41:8 strengthens the friend-of-God tradition behind the saying.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Lord spoke to Moses 'as a man speaks to his friend' — the paradigm of intimate friendship with God in which the friend is told the divine purposes, matching 15:15: not servants but friends, 'for everything I heard from my Father I have made known to you.'",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:17-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Shall I hide from Abraham what I am about to do?' — the friend of God is not kept ignorant of the master's plans, precisely the logic of 15:15 ('the servant doesn't know what his lord does... I have made known to you'). Coherence with the friend-vs-servant distinction.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Love your neighbor as yourself' underlies the new commandment to 'love one another' (15:12,17). Availability and thematic coherence are strong, though Jesus reframes the measure as 'as I have loved you.'",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 18:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jonathan's covenant love for David, loving him 'as his own soul' and risking his life, is the paradigmatic OT instance of self-giving friendship behind 'greater love has no one than to lay down his life for his friends' (15:13). Faint but coherent.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 5:1-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The vineyard the Beloved tends out of love continues from 15:1-8 into the love/fruit language here (15:9-16); election to 'go and bear fruit that should remain' recalls God's purpose for his loved vineyard. Secondary recurrence of the chapter's controlling image.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "15.3",
+    "ch": 15,
+    "ref": "15:18-25",
+    "echoes": [
+      {
+        "source": "Psalm 35:19",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Let not those who hate me without cause wink the eye.' One of the two psalms behind the explicit citation 'They hated me without a cause' (15:25), introduced as 'written in their law.' Verbal correspondence to the hate-without-cause phrase is exact; a Davidic-righteous-sufferer text.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 69:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'More than the hairs of my head are those who hate me without cause.' The other source of 15:25's formula; Ps 69 is heavily used of Jesus' passion elsewhere, raising its likelihood here. Exact verbal match to 'hated me without a cause.'",
+        "contested": false
+      },
+      {
+        "source": "Psalm 109:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They... attack me without cause' — a further Davidic lament of causeless hatred in the same psalmic stream that supplies 15:25. A contributory background witness rather than the cited text.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 38:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Those who hate me wrongfully are mighty' — another lament-of-the-righteous text echoing causeless hatred of the innocent sufferer, coherent with the world's hatred theme (15:18-25) and the citation in 15:25.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 21:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Have you found me, O my enemy?' / hating the prophet who confronts sin parallels 15:22-24: the world hates Jesus because his coming and works expose its sin, leaving it 'no excuse.' A faint resonance with the prophetic pattern of being hated for exposing guilt.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 66:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your brothers who hate you and cast you out for my name's sake' anticipates being persecuted 'for my name's sake' (15:21). The phrase about suffering on account of God's name gives coherence to the disciples' share in the world's hatred.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "15.4",
+    "ch": 15,
+    "ref": "15:26-27",
+    "echoes": [
+      {
+        "source": "Isaiah 11:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Spirit of the Lord shall rest on him, the Spirit of wisdom... and knowledge' grounds the title 'the Spirit of truth' (15:26) in the prophetic Spirit who imparts true knowledge of God. Coherence with the Spirit's testifying/witness role; medium volume.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 4:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Not by might... but by my Spirit, says the Lord' — divine action accomplished by the Spirit rather than human power, a backdrop to the Paraclete's empowering witness (15:26-27). A faint thematic echo rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:28-29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promised outpouring of the Spirit on God's people stands behind Jesus' promise to 'send' the Spirit who, with the disciples, testifies (15:26-27). Availability of the eschatological Spirit-gift tradition; low verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 11:25-29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Spirit placed on the elders so they prophesy, and Moses' wish that all the Lord's people might have the Spirit, anticipates the Spirit given so the disciples 'also testify' (15:27). Faint coherence with Spirit-enabled witness.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,309 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-8",
+    "echoes": [
+      {
+        "source": "Ezekiel 36:25-27",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Being 'born of water and spirit' fuses the two halves of Ezekiel's new-covenant oracle: God sprinkles 'clean water' for cleansing and puts a 'new spirit' within. The water-then-spirit sequence and the regeneration theme give high volume and coherence; Jesus' rebuke that 'the teacher of Israel' should know this presumes a known prophetic text.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:9-14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The wind that 'blows where it wants to' and the one 'born of the Spirit' echo Ezekiel's valley vision where the ruach/breath comes from the four winds to give life. The Hebrew ruach pun (wind/spirit/breath) underlies both Ezek 37 and John 3:8; high coherence with the new-creation/resurrection motif of new birth.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:33",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The new-covenant promise of an inward, Spirit-written law ('I will put my law within them') coheres with regeneration 'from above.' Recurrence of new-covenant texts (alongside Ezek 36-37) strengthens the cluster, though John makes no verbal quotation.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 19:17-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'water of cleansing' / sprinkling rite for purification may stand behind 'born of water,' especially given v.25's dispute 'about purification.' Faint and contested; the water imagery is more naturally Ezekiel's, but the purification context raises availability.",
+        "contested": true,
+        "altSource": "Ezekiel 36:25"
+      },
+      {
+        "source": "Ecclesiastes 11:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'As you do not know the way of the wind (ruach)... so you do not know the work of God' supplies the exact analogy of 3:8: the unknowable course of the wind/spirit mirrors the mystery of divine begetting in the womb. High coherence and a shared sapiential ruach-pun; verbal volume is moderate.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 104:3-4,30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Psalm makes winds God's messengers and 'when you send forth your Spirit (ruach), they are created.' Resonates with wind/Spirit/new-creation in 3:5-8 but is faint and diffuse.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Spirit/wind (ruach) hovering at creation undergirds 'born of the Spirit' as new creation; coheres with John's creation framing (1:1-3) but verbal contact with ch.3 is faint.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God breathing the breath of life to make the man a living being stands behind Spirit-begetting as the giving of new life; low volume, drawn in by the ruach/breath cluster of 3:6-8.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:9-13",
+    "echoes": [
+      {
+        "source": "Proverbs 30:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Who has ascended to heaven and come down? ... What is his name, and his son's name?' is strikingly answered by 3:13 ('No one has ascended... but he who descended, the Son of Man'). High volume of shared ascent/descent language plus the 'son' motif; a recognized wisdom backdrop.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Who will ascend to heaven for us to bring it down?' frames revelation as something no human can fetch from heaven; 3:13 inverts this — the Son of Man alone has descended bearing heavenly things. Coherent revelation-from-above theme; moderate verbal contact.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Son of Man' coming with the clouds of heaven supplies the title and the heaven-earth movement that John reworks as descent/ascent. Recurrent Johannine Son-of-Man usage gives coherence, though here the motion is reversed.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Israel does not know, my people do not understand' may color Jesus' rebuke of 'the teacher of Israel' who does not understand (3:10). Faint thematic echo of Israel's failure to perceive.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 9:16-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'We can hardly guess at what is on earth... but who has traced out what is in the heavens? Who has learned your counsel unless you have given wisdom and sent your holy spirit?' closely parallels 3:12's earthly-vs-heavenly things and the Spirit-given knowledge of 3:8-11. Strong conceptual coherence (Second-Temple availability).",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 30:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I have not learned wisdom, nor have I knowledge of the Holy One' immediately precedes the ascent question and reinforces the human inability to grasp heavenly things (3:12); faint, drawn in with v.4.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:14-15",
+    "echoes": [
+      {
+        "source": "Numbers 21:8-9",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The explicit typological centerpiece: 'As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up.' Direct verbal and figural correspondence — the lifted bronze serpent that the snake-bitten looked to and lived prefigures the crucified Son giving eternal life to those who believe. Maximal volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 16:5-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Wisdom midrash on Numbers 21 clarifies that 'the one who turned toward it was saved, not by what was seen, but by you, the Savior of all' — exactly John's point that the serpent saves by directing faith beyond itself to God. Strong Second-Temple interpretive parallel, high coherence with 3:15's believing-and-living.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Servant who is 'lifted up (hypsothesetai) and exalted' supplies the double sense of John's hypsoo (crucified/exalted) Son of Man. LXX verbal contact with the lifting-up vocabulary that John deploys here and in 8:28; 12:32-34.",
+        "contested": true,
+        "altSource": "Isaiah 6:1"
+      },
+      {
+        "source": "2 Kings 18:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Hezekiah's destruction of the bronze serpent (Nehushtan) is part of the object's canonical afterlife and may inform the careful 'not the bronze itself but faith' nuance; faint, supplementary to Num 21.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:16-21",
+    "echoes": [
+      {
+        "source": "Genesis 22:2,12,16",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'God so loved the world that he gave his one and only Son' echoes the Aqedah where God says of Isaac 'your son, your only son, whom you love' and credits Abraham who 'did not withhold' him. The LXX agapetos / monogenes-equivalent and the giving of the beloved only son give strong figural volume and coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The light has come into the world' and nations coming to the light coheres with Isaiah's 'Arise, shine, for your light has come.' Recurrent Johannine light-coming-into-the-world motif (cf. 1:9; 8:12); moderate verbal contact.",
+        "contested": false
+      },
+      {
+        "source": "Job 24:13-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The evildoers who 'rebel against the light,' who do their deeds in darkness and for whom 'morning is like deep darkness,' closely parallel 3:19-20: those who do evil hate the light lest their works be exposed. Strong thematic coherence of light/darkness moral exposure.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 9:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The people who walked in darkness have seen a great light' supplies the light-into-darkness frame of 3:19; faint, part of the broader Isaianic light cluster.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 8:35-36",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Whoever finds me finds life... all who hate me love death' parallels the believe-and-live / hate-the-light-love-darkness antithesis of 3:16-20 in a wisdom register; faint.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 16:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The salvific 'looking' that brings life carries over from 3:14-15 into the believing-for-eternal-life of 3:15-16; low independent volume here, recurrence within the pericope cluster.",
+        "contested": true,
+        "altSource": "Numbers 21:8-9"
+      },
+      {
+        "source": "Genesis 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Their works were evil' (3:19) faintly recalls the flood-judgment verdict that human deeds were continually evil; low volume, judgment register.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.5",
+    "ch": 3,
+    "ref": "3:22-30",
+    "echoes": [
+      {
+        "source": "Jeremiah 33:11",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'The voice of the bridegroom and the voice of the bride' as the sound of restored joy underlies the Baptist as 'friend of the bridegroom' who rejoices at the bridegroom's voice (3:29). Coherent eschatological-wedding-joy motif; moderate verbal contact via 'voice of the bridegroom.'",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 62:5",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'As the bridegroom rejoices over the bride, so shall your God rejoice over you' establishes God/Messiah as bridegroom to his people; John casts Jesus as that bridegroom 'who has the bride.' Strong thematic coherence within the OT marriage-of-YHWH typology.",
+        "contested": false
+      },
+      {
+        "source": "Song of Songs 5:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The bridegroom and his companions/'friends' at the wedding feast resonate with the 'friend of the bridegroom' figure; faint, supplies the nuptial-companion role.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 2:19-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "YHWH betrothing Israel to himself stands within the marriage typology that makes the messianic-bridegroom image legible; faint background, no verbal contact.",
+        "contested": true,
+        "altSource": "Isaiah 62:5"
+      },
+      {
+        "source": "Daniel 2:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A man can receive nothing unless it has been given him from heaven' (3:27) coheres with the sapiential/apocalyptic axiom that God gives and removes authority (cf. Dan 2:21,37); faint, conceptual.",
+        "contested": true,
+        "altSource": "Proverbs 16:33"
+      }
+    ]
+  },
+  {
+    "id": "3.6",
+    "ch": 3,
+    "ref": "3:31-36",
+    "echoes": [
+      {
+        "source": "Proverbs 30:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He who comes from above/from heaven is above all' recapitulates the ascent/descent and heavenly-origin question of Prov 30:4 already invoked at 3:13; recurrence within the chapter strengthens the link.",
+        "contested": false,
+        "altSource": "Deuteronomy 30:12"
+      },
+      {
+        "source": "Isaiah 11:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'God gives the Spirit without measure' (3:34) contrasts/develops the Spirit resting on the messianic shoot; Isaiah's lavish Spirit-endowment of the anointed coheres with the immeasurable Spirit on the sent one. Moderate thematic volume.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 18:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He whom God has sent speaks the words of God' (3:34) echoes the promised prophet-like-Moses in whose mouth God puts his words. Coherent with John's sent-one-speaks-God's-words theme; moderate verbal contact.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 22:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Father loves the Son and has given all things into his hand' (3:35) recapitulates the beloved-Son giving of 3:16 / the Aqedah; recurrence within the chapter, low independent volume.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Given all things into his hand' resonates with the Son of Man given dominion and all peoples serving him; faint, draws on the Danielic enthronement already present at 3:13-14.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The wrath that 'remains' on the one who disobeys the Son (3:36) faintly echoes 'kiss the Son lest he be angry'—submit to the Son or face wrath. Low verbal volume, coherent judgment register.",
+        "contested": true
+      },
+      {
+        "source": "Habakkuk 2:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The one who believes... has life' vs. the disobedient who 'won't see life' faintly mirrors the righteous living by faith over against the unbelieving; faint, conceptual.",
+        "contested": true
+      }
+    ]
+  }
+]

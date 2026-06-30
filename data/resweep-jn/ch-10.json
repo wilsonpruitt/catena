@@ -1,0 +1,284 @@
+[
+  {
+    "id": "10.1",
+    "ch": 10,
+    "ref": "10:1-6",
+    "echoes": [
+      {
+        "source": "Ezekiel 34:1-16",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Ezekiel 34 is the controlling subtext for the whole discourse: false shepherds who do not enter rightly and exploit the flock vs. the true shepherd. The thief/robber who climbs in 'some other way' answers Ezekiel's self-feeding shepherds, and the rightful shepherd entering by the door answers the LORD's own shepherding. High volume, recurrence across the chapter, and coherence with John's polemic against Israel's leaders.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 27:16-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses asks the LORD to appoint a shepherd who leads Israel 'out' and brings them 'in,' so the congregation not be sheep without a shepherd. John's shepherd who 'leads them out' (v.3) and goes before them (v.4) echoes the leading-out/going-before language of the appointment of a shepherd over Israel.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 95:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The sheep listen to his voice' and refusal to follow strangers resonates with 'the sheep of his hand. Today, if you would hear his voice.' The motif of the flock recognizing and hearing the shepherd's voice is verbally and thematically coherent.",
+        "contested": true,
+        "altSource": "Psalm 100:3"
+      },
+      {
+        "source": "Psalm 100:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'We are his people, and the sheep of his pasture' supplies the flock-belonging frame behind the shepherd who knows his own and calls them by name. Faint; competes with Psalm 95 and the broader shepherd-of-Israel topos.",
+        "contested": true,
+        "altSource": "Psalm 95:7"
+      },
+      {
+        "source": "Zechariah 11:4-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Zechariah's flock 'doomed to slaughter' under worthless shepherds who do not care for the sheep, and the breaking of the bond with the flock, anticipates John's thieves/robbers contrasted with the true shepherd. Recurs more strongly at vv.11-13, but the false-shepherd indictment colors the parable here.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "10.2",
+    "ch": 10,
+    "ref": "10:7-10",
+    "echoes": [
+      {
+        "source": "Psalm 118:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'This is the gate of the LORD; the righteous will enter into it' undergirds Jesus' self-identification as the door through which one 'enters in' and 'will be saved.' Psalm 118 is a major Johannine/Synoptic source and the entering-and-being-saved language coheres with the entrance-gate motif.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 34:1-16",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'All who came before me are thieves and robbers' continues the indictment of Israel's bad shepherds in Ezekiel 34, while 'find pasture' (v.9) directly echoes the LORD's promise to feed his flock in good pasture (Ezek 34:14). Strong recurrence and coherence with the governing subtext.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 27:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Will go in and go out, and will find pasture' echoes the shepherd who leads Israel 'out' and brings them 'in' so they may be led to pasture. The go-in/go-out idiom for secure shepherded life is shared, though common in the OT.",
+        "contested": true,
+        "altSource": "Deuteronomy 31:2"
+      },
+      {
+        "source": "Jeremiah 23:1-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Woe to the shepherds who destroy and scatter the sheep' parallels the thief who 'comes to steal, kill, and destroy.' Jeremiah promises to set up shepherds who will feed the flock so none is lacking, coherent with John's life-giving shepherd over against destroyers.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "10.3",
+    "ch": 10,
+    "ref": "10:11-18",
+    "echoes": [
+      {
+        "source": "Ezekiel 34:11-16",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The LORD himself seeks, gathers, and feeds the scattered sheep, rescuing them from where they were scattered in the day of clouds. Jesus as the good shepherd who knows his own enacts the LORD's own pastoral self-commitment, making the divine claim of Ezekiel 34 the load-bearing subtext.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 34:23-24",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'I will set up one shepherd over them, my servant David... and I the LORD will be their God.' This is the source of the singular good shepherd and converges with v.16's 'one flock, one shepherd.' High volume and exact thematic match to the Davidic-messianic single shepherd.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'David my servant shall be king over them; and they all shall have one shepherd' is the closest verbal antecedent to 'one flock, one shepherd' (v.16). Recurs with Ezek 34:23 and reinforces the reunification of a divided flock under one Davidic shepherd.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He will feed his flock like a shepherd; he will gather the lambs in his arm' supplies the tender LORD-as-shepherd image behind the good shepherd who lays down his life for the sheep. Coherent with John's identification of Jesus with the LORD's own shepherding care.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 23:1-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD is my shepherd... though I walk through the valley of the shadow of death.' The good shepherd who lays down his life and faces the wolf evokes the shepherd who protects through death's shadow. Strong cultural availability, though the laying-down-of-life motif goes beyond Psalm 23.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 11:15-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'worthless shepherd' who deserts the flock, does not care for the perishing, and abandons them to be devoured is the negative counterpart to John's hired hand who flees the wolf and does not care for the sheep. Verbal and thematic coherence in the abandonment/devouring imagery.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 34:5-6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Without a shepherd the flock 'became food for all the beasts of the field, and were scattered.' The wolf that snatches and scatters the sheep (v.12) replays Ezekiel's scattering and devouring of the unshepherded flock.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 56:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Lord GOD, who gathers the outcasts of Israel, says, Yet others will I gather besides his own that are gathered.' This is the strongest antecedent for the 'other sheep... not of this fold' whom the shepherd must also bring (v.16), grounding the Gentile ingathering.",
+        "contested": false
+      },
+      {
+        "source": "Micah 2:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will surely gather all of you, Jacob... I will put them together like the sheep of Bozrah... they will swarm with people.' Supplies the regathering-into-one-flock image behind the 'one flock' formed from other sheep. Coherent but competes with Ezekiel/Isaiah gathering texts.",
+        "contested": true,
+        "altSource": "Ezekiel 37:21-24"
+      },
+      {
+        "source": "Micah 5:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He shall stand and shepherd his flock in the strength of the LORD' offers the messianic ruler-as-shepherd whose flock dwells securely 'to the ends of the earth,' faintly behind the universal one-flock vision. Lower volume than the Ezekiel cluster.",
+        "contested": true,
+        "altSource": "Ezekiel 34:23"
+      },
+      {
+        "source": "Isaiah 53:6-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'All we like sheep have gone astray... the LORD has laid on him the iniquity of us all,' and the servant who 'poured out his soul to death.' The shepherd who lays down his life for the sheep may fuse the suffering servant with the shepherd. Contested and faint in John, which rarely cites Isaiah 53 explicitly.",
+        "contested": true,
+        "altSource": "Zechariah 13:7"
+      }
+    ]
+  },
+  {
+    "id": "10.4",
+    "ch": 10,
+    "ref": "10:19-21",
+    "echoes": [
+      {
+        "source": "Isaiah 35:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Then the eyes of the blind will be opened' lies behind the crowd's argument that a demoniac cannot open the eyes of the blind (v.21), recalling ch.9 and the messianic sign. Faint here; carried over from the healing narrative rather than newly invoked.",
+        "contested": true,
+        "altSource": "Isaiah 42:7"
+      }
+    ]
+  },
+  {
+    "id": "10.5",
+    "ch": 10,
+    "ref": "10:22-30",
+    "echoes": [
+      {
+        "source": "1 Maccabees 4:36-59",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Feast of the Dedication (Hanukkah) commemorates Judas Maccabeus' cleansing and rededication of the temple altar, the festival's institution. John's explicit setting at this feast (v.22) frames Jesus, the one whom the Father 'consecrated' (v.36), as the true dedicated/sanctified one. High availability as Second-Temple background.",
+        "contested": false
+      },
+      {
+        "source": "2 Maccabees 10:1-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Parallel account of the purification and rededication of the temple and the eight-day festival 'in the manner of Tabernacles,' establishing the Dedication setting. Reinforces 1 Macc 4 as the festival's narrative grounding for John's winter feast.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 34:11-16",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'My sheep hear my voice... and they follow me' (v.27) restates the LORD's own knowing and gathering of his flock from Ezekiel 34, now claimed by Jesus. The sustained shepherd theme links the Dedication confrontation back to the discourse's governing subtext.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'There is no one who can deliver out of my hand' undergirds 'no one will snatch them out of my hand' (v.28) and 'out of my Father's hand' (v.29). The security-in-the-divine-hand idiom is a deliberate divine self-claim applied to Jesus.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:39",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'There is no one who can deliver out of my hand' (the same idiom) with 'I kill and I make alive' stands behind Jesus giving eternal life and holding the sheep inviolably. Reinforces the divine-hand security motif alongside Isaiah.",
+        "contested": true,
+        "altSource": "Isaiah 43:13"
+      },
+      {
+        "source": "Deuteronomy 6:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Hear, O Israel: the LORD our God, the LORD is one' resonates behind 'I and the Father are one' (v.30). The Shema's oneness language is reframed christologically; coherent with the blasphemy charge that follows, though the unity claimed is functional/relational.",
+        "contested": true,
+        "altSource": "Zechariah 14:9"
+      }
+    ]
+  },
+  {
+    "id": "10.6",
+    "ch": 10,
+    "ref": "10:31-39",
+    "echoes": [
+      {
+        "source": "Psalm 82:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus cites verbatim 'I said, you are gods' (v.34) from the law to defend calling himself Son of God. This is the only formal OT citation in the chapter, introduced with 'Isn't it written in your law,' and the argument turns on the precise wording. Highest volume and clarity.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 82:1-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Beyond the quoted v.6, the whole psalm frames those 'to whom the word of God came' (v.35) as the divine council/judges called 'gods,' supplying the a-fortiori logic for the one the Father consecrated. The surrounding context, not just the citation, drives the defense.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 1:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Before you came forth out of the womb I sanctified you; I appointed you a prophet' parallels 'the one whom the Father sanctified and sent into the world' (v.36). The consecrate-and-send pattern of prophetic commissioning is closely echoed.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 28:41",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The consecration of Aaron and his sons to serve the LORD provides cultic resonance for the Father's 'sanctifying' of Jesus, fitting the Dedication setting where the altar itself is consecrated. Faint and competes with the prophetic-commission sense of Jer 1:5.",
+        "contested": true,
+        "altSource": "Jeremiah 1:5"
+      },
+      {
+        "source": "Leviticus 24:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He who blasphemes the name of the LORD shall surely be put to death... shall stone him' grounds the crowd's move to stone Jesus 'for blasphemy' (vv.31-33). The stoning-for-blasphemy procedure is the legal backdrop the narrative presupposes.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "10.7",
+    "ch": 10,
+    "ref": "10:40-42",
+    "echoes": []
+  }
+]

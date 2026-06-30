@@ -1,0 +1,226 @@
+[
+  {
+    "id": "20.1",
+    "ch": 20,
+    "ref": "20:1-2",
+    "echoes": [
+      {
+        "source": "Genesis 1:1-5",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The resurrection occurs on 'the first day of the week' 'while it was still dark,' deliberately echoing the first day of creation when light dawns over darkness (Gen 1:3-5). John, who opened his Gospel 'In the beginning' (Jn 1:1 = Gen 1:1), frames the resurrection as inaugurated new creation; high Coherence with the Gospel's creation Christology and strong Volume in the temporal marker.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:8-15",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The tomb is in a garden (Jn 19:41), and the empty-tomb scene is staged there, recalling Eden where God placed the man (Gen 2:8,15). The garden setting binds the whole pericope to a new-Adam/new-creation typology that surfaces explicitly when Mary mistakes Jesus for the gardener (20:15).",
+        "contested": false
+      },
+      {
+        "source": "Song of Songs 3:1-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Mary comes seeking 'the Lord' in the dark and finds the place empty, mirroring the bride who 'on my bed by night sought him whom my soul loves; I sought him, but found him not.' The Song's seeking-not-finding-then-finding pattern unfolds across 20:1-16; medium Volume but strong Coherence given Jewish nuptial readings of the Song available in the Second-Temple period.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.2",
+    "ch": 20,
+    "ref": "20:3-10",
+    "echoes": [
+      {
+        "source": "Psalm 16:10",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The narrator notes 'they didn't know the Scripture, that he must rise from the dead' (20:9); the OT warrant most plausibly in view is 'you will not abandon my soul to Sheol, nor allow your holy one to see corruption,' the standard apostolic resurrection proof-text. The reference is generic ('the Scripture') so the source is reconstructed from early Christian usage.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The third-day raising ('after two days he will revive us; on the third day he will raise us up') is a candidate background for the conviction that Jesus 'must rise.' Faint and contested: John never cites Hosea, and the day-count is implicit, lowering Volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.3",
+    "ch": 20,
+    "ref": "20:11-13",
+    "echoes": [
+      {
+        "source": "Exodus 25:18-22",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Mary sees 'two angels in white sitting, one at the head, and one at the feet, where the body of Jesus had lain' — a striking image of the two cherubim of beaten gold facing each other over the mercy seat of the ark, between whom God's presence dwelt. The empty slab framed by two angels figures the tomb as the new holy of holies; high Coherence with Johannine temple typology.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 10:5-6",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "The dazzling angelic figures 'in white' draw on the Danielic vision of the man clothed in linen with a face like lightning. Volume is modest since John specifies only white garments, but the radiant-angel topos is widely available in apocalyptic.",
+        "contested": true
+      },
+      {
+        "source": "Song of Songs 5:6-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Mary's lament 'they have taken away my Lord, and I don't know where they have laid him' continues the bride-seeking-her-beloved pattern of the Song (5:6 'I sought him, but I could not find him'). Reinforces the 20:1 allusion through Recurrence within the same scene.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.4",
+    "ch": 20,
+    "ref": "20:14-18",
+    "echoes": [
+      {
+        "source": "Genesis 2:8-15",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Mary supposes the risen Jesus to be 'the gardener' in the garden of the tomb — John's deliberate irony casting Jesus as the new Adam who tends the garden (Gen 2:15), undoing Eden's loss. The garden + gardener convergence raises Volume and Coherence above the faint garden echo of 20:1.",
+        "contested": false
+      },
+      {
+        "source": "Song of Songs 3:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Scarcely had I passed them when I found him whom my soul loves. I held him, and would not let him go' lies behind Mary's recognition and Jesus' 'Don't hold me' (20:16-17). The seeking-then-clinging sequence completes the Canticle pattern begun at 20:1; medium confidence on the cumulative force of the recurrence.",
+        "contested": true
+      },
+      {
+        "source": "Ruth 1:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' covenant formula 'my Father and your Father, my God and your God' (20:17) echoes Ruth's pledge 'your people shall be my people, and your God my God,' a paradigmatic statement of incorporative belonging. Faint verbal contact ('your God / my God') with strong thematic Coherence to adoption.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 22:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Go to my brothers' (20:17) recalls the vindicated sufferer's vow 'I will declare your name to my brothers,' the turn from passion to proclamation in the psalm John has quoted at the cross (19:24). The Psalm 22 frame gives 'my brothers' high Coherence and Recurrence within the Johannine passion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 89:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The royal-messianic 'He will call to me, You are my Father, my God' supplies covenantal background for 'my Father... my God,' linking Jesus' filial claim to the Davidic adoption oracle. Low Volume; one of several candidate Father/God formulae.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.5",
+    "ch": 20,
+    "ref": "20:19-23",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The risen Jesus' threefold greeting 'Peace be to you' (20:19,21,26) functions as the eschatological enactment of the Aaronic priestly blessing 'the LORD lift up his countenance on you and give you peace.' Medium Volume (shared 'peace') with strong Coherence as the resurrected high-priestly Lord blesses his gathered people.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:7",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Jesus 'breathed on them' and said 'Receive the Holy Spirit' — the verb (enephysesen, LXX of Gen 2:7) directly evokes God breathing the breath of life into Adam's nostrils so he became a living being. John presents the Spirit-impartation as new creation/new Adam; very high Volume given the rare shared verb and high Coherence with the Gospel's creation theology.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:9-10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Come from the four winds, O breath, and breathe on these slain, that they may live' stands behind Jesus breathing Spirit into the disciples after the resurrection. Ezekiel's vivified corpses give the scene its resurrection-and-Spirit valence; high Coherence and shared breath/Spirit (ruach/pneuma) vocabulary reinforce the Genesis 2:7 figure.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 15:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He failed to know the one who formed him and inspired him with an active soul and breathed into him a living spirit' restates Gen 2:7 in Second-Temple idiom, evidencing the availability of the breath-of-life motif John reworks. Deuterocanonical witness rather than a direct source.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 22:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The authority to forgive or retain sins ('he shall open, and no one shall shut; he shall shut, and no one shall open') parallels the key-of-the-house-of-David grant of binding/loosing power. The remit-or-retain antithesis matches the open/shut structure of the oracle; medium confidence on the structural rather than verbal link.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 43:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I, even I, am he who blots out your transgressions for my own sake' grounds the forgiveness of sins as a divine prerogative now delegated to the disciples (20:23). Faint background highlighting that sin-forgiveness is God's act, sharpening the Christological claim.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.6",
+    "ch": 20,
+    "ref": "20:24-29",
+    "echoes": [
+      {
+        "source": "Psalm 35:23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Thomas' confession 'My Lord and my God!' (20:28) reproduces the psalmist's vocative 'my God and my Lord' (LXX Ps 34:23: ho theos mou kai ho kyrios mou). The unusual paired address gives high Volume; John climaxes the Gospel by directing to Jesus the cry the psalmist directs to YHWH.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 86:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Thomas addresses Jesus with the divine titles 'Lord... God' that the psalter repeatedly couples ('you, O Lord, are a God merciful and gracious'), reinforcing the deliberate transfer of YHWH-language to the risen Christ. Supporting Recurrence behind the primary Ps 35:23 allusion.",
+        "contested": true
+      },
+      {
+        "source": "Habakkuk 2:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Blessed are those who have not seen, and have believed' (20:29) coheres with 'the righteous shall live by his faith,' the OT charter of faith-not-sight. Thematic rather than verbal; faint and one of several wisdom/faith backgrounds.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "20.7",
+    "ch": 20,
+    "ref": "20:30-31",
+    "echoes": [
+      {
+        "source": "Habakkuk 2:2-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'These are written, that you may believe' enacts the prophetic command 'Write the vision; make it plain... it awaits its appointed time,' grounding the inscribed witness-for-faith in the OT theology of the written vision that calls for belief. Medium Coherence with the Gospel's purpose statement; verbal contact is on the writing-for-faith motif.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:1-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The notion of words 'written in this book' so that the faithful 'may have life' faintly recalls Daniel's sealed book and those 'found written in the book' who awake to everlasting life. Low Volume; offered as a faint life-through-the-book resonance.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The confessional goal 'that Jesus is the Christ, the Son of God' draws on the royal-messianic decree 'You are my Son,' the OT title-cluster (Messiah / Son of God) John affirms. Background to the titulature rather than a quotation.",
+        "contested": true
+      }
+    ]
+  }
+]

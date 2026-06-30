@@ -1,0 +1,422 @@
+[
+  {
+    "id": "14.1",
+    "ch": 14,
+    "ref": "14:1-4",
+    "echoes": [
+      {
+        "source": "Psalm 23:6",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Jesus' promise to receive disciples into the 'Father's house' where they will dwell forever figurally fulfills the psalmist's hope to 'dwell in the house of the LORD forever.' Coherence is strong: John repeatedly reads the temple/house of God Christologically (2:16-21), and the eternal abode (monai) recasts the psalm's permanent residence in God's house. Volume rests on the shared house-dwelling motif rather than a verbal quotation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 27:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'One thing I have asked... to dwell in the house of the LORD all the days of my life' supplies the prototypical longing for permanent residence in God's house that 14:2-3 grants the disciples. Recurrence of the 'house of the LORD as abode' topos in the Psalter strengthens the case; the contestation is that John gives no verbal cue, only the dwelling theme.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 84:1-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'How lovely is your dwelling place... blessed are those who dwell in your house' frames the temple as the place of beatitude, the same register behind the 'many rooms' in the Father's house. Low confidence: thematically apt but adds no distinctive lexeme beyond the shared house/dwelling idea, and competes with the other Psalter echoes.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 25:8-9",
+        "type": "figural",
+        "confidence": "low",
+        "note": "'Let them make me a sanctuary, that I may dwell among them' establishes the tabernacle as God's dwelling, the OT substrate John reworks when Jesus prepares an eternal dwelling-place and elsewhere reads his own body as the temple. Figural rather than verbal; the connection runs through John's larger temple Christology more than through 14:2 itself.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 10:33-34",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The ark going ahead 'to seek out a resting place' for Israel offers a faint Exodus-journey backdrop to Jesus going ahead to 'prepare a place' for his followers. Volume is weak and the lexical overlap thin; flagged low and contested as a possible wilderness-itinerary resonance rather than a deliberate citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.2",
+    "ch": 14,
+    "ref": "14:5-7",
+    "echoes": [
+      {
+        "source": "Psalm 25:4-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Make me to know your ways, O LORD... lead me in your truth' fuses 'way' and 'truth' in a prayer for divine guidance, the very pairing Jesus claims to embody as 'the way and the truth.' Coherence is high with the Psalter's 'way of the LORD' theology; John transfers the divine path/truth that leads to God onto Jesus himself, who is now the access to the Father.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 86:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Teach me your way, O LORD, that I may walk in your truth' again binds 'way' and 'truth' as the route to communion with God, paralleling 14:6's claim that the way and truth lead to the Father. Recurrence of this way/truth collocation across the Psalter raises Volume; the contestation is that John offers no formula-citation, only the absorbed idiom.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 35:8",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The 'Holy Way' on which the redeemed travel to Zion provides a prophetic 'way' that leads God's people home, figurally fulfilled when Jesus is the exclusive 'way' to the Father's house. Coherence with John's homecoming theme (14:2-3) is strong; the singular eschatological highway resonates with Jesus as the one road of return.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 30:15-20",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Moses sets before Israel 'life' and 'the way' of obeying the LORD, the choice that is itself 'your life' and the means to dwell in the land. Jesus' self-identification as 'the way... and the life' recasts this Deuteronomic life-through-the-way into a person; Coherence is reinforced by 14:15's love-and-keep-commandments idiom drawn from the same book.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 34:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The LORD proclaims himself 'abounding in steadfast love and faithfulness (emet/aletheia),' the covenant 'truth' that John's prologue already applied to the incarnate Word (1:14, 'full of grace and truth'). Jesus' claim to be 'the truth' thus draws on the Sinai self-revelation of God's faithfulness; medium confidence given the strong Johannine recurrence of 'truth' language.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 8:32-35",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom declares 'whoever finds me finds life' and blesses those who keep her 'ways,' supplying a way/life nexus mediated by a personified divine figure. Jesus as 'the way... and the life' through whom one reaches the Father parallels the Wisdom-mediator pattern; low confidence because the verbal links are diffuse and the Wisdom backdrop is more securely felt in John 1.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I have chosen the way of faithfulness (truth)' once more couples 'way' and 'truth' as the path of covenant fidelity. It adds Recurrence to the way/truth motif behind 14:6 but is too generic on its own; flagged low and contested as cumulative support rather than a discrete source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.3",
+    "ch": 14,
+    "ref": "14:8-11",
+    "echoes": [
+      {
+        "source": "Exodus 33:18-23",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Philip's 'show us the Father' directly replays Moses' 'show me your glory,' to which God replies that no one can see his face and live. John inverts the denial: the one who has seen Jesus has seen the Father, fulfilling the Sinai longing to behold God. High Volume and Coherence given the explicit 'show us'/'show me' request and John's programmatic 'no one has ever seen God; the only Son has made him known' (1:18).",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The LORD spoke to Moses 'face to face, as a man speaks to his friend,' yet 33:20 forbids seeing God's face directly; this tension is exactly what 14:9 resolves by locating the Father's visible presence in Jesus. Coherence with the surrounding Exodus 33 theophany strengthens the medium rating beyond the headline 33:18-23 allusion.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 4:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "At Horeb Israel 'heard the sound of words but saw no form,' codifying that God is heard, not seen. Jesus' claim that his words are the Father's and that seeing him is seeing the Father answers this aniconic tradition. Low confidence: thematic counterpoint rather than verbal echo, supporting the 'unseen God' frame behind the pericope.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 18:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God promises a prophet 'in whose mouth I will put my words... he shall speak all that I command him,' the pattern Jesus claims in 14:10: 'the words I speak are not from myself; the Father does his works.' The prophet-like-Moses speech-formula gives modest Coherence with John's sent-one Christology; low because John does not cite the prophet text here.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 12:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Moses uniquely beholds 'the form of the LORD' and speaks with him 'mouth to mouth,' a near-vision that 14:9 surpasses by granting the disciples the Father in the Son. Faint, contested support for the seeing-God motif; the lexical overlap is limited to the shared theophanic register.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.4",
+    "ch": 14,
+    "ref": "14:12-14",
+    "echoes": [
+      {
+        "source": "Deuteronomy 11:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel had 'seen all the great work of the LORD that he did,' framing God's redemptive deeds as 'works' the people witness; Jesus speaks of 'the works that I do' continuing in his followers. Low confidence: 'works of the LORD' is a broad Deuteronomic idiom rather than a targeted source, offering only thematic coloring to 14:12.",
+        "contested": true
+      },
+      {
+        "source": "Joshua 24:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel served the LORD all the days that the elders 'had known all the work of the LORD that he did for Israel,' another instance of redemptive deeds as 'works.' It reinforces the OT 'works of God' register behind Jesus' 'greater works,' but is too generic to credit as a specific allusion; flagged low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 26:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You have indeed done all our works for us,' confessing that human works are wrought by God, resonates faintly with 14:12's promise that believers will do the works Jesus does because he goes to the Father. Low and contested: a thematic affinity about divinely-empowered works rather than a deliberate citation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 145:18-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The LORD is near to all who call on him... he fulfills the desire of those who fear him' undergirds the answered-petition promise of 14:13-14 ('whatever you ask in my name'). The granting-of-requests motif is widespread in the Psalter; low confidence because no single verse is verbally anchored, though it situates Jesus in the role of the request-granting LORD.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.5",
+    "ch": 14,
+    "ref": "14:15-17",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Shema's command to 'love the LORD your God' grounds the love-of-God demanded in 14:15, now reoriented to Jesus: 'if you love me, keep my commandments.' Coherence is strong because John fuses love and obedience in the Deuteronomic manner; medium rather than high since the wording is paraphrased and reattributed to Jesus.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 7:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God keeps covenant 'with those who love him and keep his commandments,' the precise love+keep-commandments pairing echoed in 14:15 and 14:21. Recurrence of this formula across Deuteronomy raises Volume; the contestation is that John supplies the idiom without a citation marker.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 20:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Decalogue promises steadfast love 'to those who love me and keep my commandments,' the foundational love-and-obey formula behind 14:15. Strong Coherence with John's repeated linkage of loving Jesus and keeping his word; medium because it is one of several overlapping Pentateuchal sources for the same idiom.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 36:27",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'I will put my Spirit within you, and cause you to walk in my statutes' supplies the new-covenant gift of an indwelling Spirit that produces obedience, exactly the logic of 14:15-17 where loving-and-obeying flows into the Paraclete who 'will be in you.' High Coherence: the Spirit given to dwell within and to enable commandment-keeping is Ezekiel's signature promise.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The Spirit of the LORD shall rest on him, the Spirit of wisdom... and of knowledge' anchors the messianic 'Spirit of truth' the Father gives in 14:17. Coherence is good because Isaiah's endowing Spirit is a Spirit of knowledge/truth resting permanently; medium given the conceptual rather than verbal link to 'Spirit of truth.'",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 63:10-11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Israel 'grieved his Holy Spirit,' yet God 'put in the midst of them his Holy Spirit,' one of the rare OT uses of 'his Holy Spirit' that the Paraclete passages presuppose. The motif of God placing his Spirit among the people undergirds 14:16-17's abiding Counselor; medium for the shared 'Holy Spirit' terminology with the wider Isaianic-Spirit complex.",
+        "contested": true
+      },
+      {
+        "source": "Joel 2:28-29",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'I will pour out my Spirit on all flesh' is the eschatological Spirit-bestowal that 14:16-17 promises in personalized form as the indwelling Paraclete. Coherence is solid within John's realized-eschatology of the Spirit's coming; medium because John individualizes the corporate outpouring and offers no verbal quotation.",
+        "contested": true
+      },
+      {
+        "source": "Haggai 2:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'My Spirit remains in your midst; do not fear' couples the abiding Spirit with the dismissal of fear, paralleling the Paraclete who abides 'forever' alongside 14:27's 'let not your heart be afraid.' Low confidence: a suggestive thematic pairing of abiding-Spirit and courage rather than a demonstrable citation.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 11:25-29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The LORD takes the Spirit on Moses and places it on the seventy, with Moses wishing all the LORD's people were prophets endowed with the Spirit. This distribution of the Spirit to the community prefigures the Paraclete given to all the disciples; low and contested because the link is conceptual, lacking the 'Spirit of truth' vocabulary.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 1:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A holy and disciplined spirit will flee from deceit' and (1:7) 'the Spirit of the Lord has filled the world' offer a Second-Temple 'spirit of truth/wisdom that the deceitful world cannot hold,' resonant with 14:17's Spirit 'whom the world cannot receive.' Low confidence: deuterocanonical mood-music supporting the truth-vs-world contrast rather than a direct source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.6",
+    "ch": 14,
+    "ref": "14:18-21",
+    "echoes": [
+      {
+        "source": "Isaiah 62:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall no more be termed Forsaken (Azubah)... for the LORD delights in you' counters abandonment with renewed presence, faintly behind 'I will not leave you orphans (orphanous); I will come to you.' Low confidence: the not-forsaking promise is thematically apt but lacks the orphan lexeme; flagged contested as ambient consolation language.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 31:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He will not leave you or forsake you' is the classic divine-presence assurance, recast in 14:18 as Jesus' pledge not to abandon his own. The not-forsake formula gives modest Coherence with the consolation here; low because John uses the distinctive 'orphans' image rather than the Deuteronomic wording.",
+        "contested": true
+      },
+      {
+        "source": "Joshua 1:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will not leave you or forsake you,' God's commissioning promise to Joshua, contributes to the OT not-forsake topos standing behind 'I will not leave you orphans.' Recurrence of this formula (Deut/Josh) raises its cumulative Volume slightly, but the link to 14:18 remains thematic; low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 68:5",
+        "type": "figural",
+        "confidence": "low",
+        "note": "God as 'father of the fatherless (orphans)' supplies the one strong OT orphan-care motif behind Jesus' refusal to leave the disciples 'orphans.' Figural and contested: the shared orphan vocabulary is suggestive, but John applies it to bereaved disciples rather than to literal orphans, so the connection is allusive at best.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:2-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'After two days he will revive us... that we may live before him,' a revival-after-a-little-while hope, lightly resonates with 14:19, 'because I live, you also will live,' and 'yet a little while.' Low confidence: the life-after-interval pattern is genuinely parallel but verbally diffuse, and the resurrection-on-the-third-day reading is contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.7",
+    "ch": 14,
+    "ref": "14:22-24",
+    "echoes": [
+      {
+        "source": "Leviticus 26:11-12",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'I will make my dwelling among you... and I will walk among you and be your God' is the covenant indwelling formula that 14:23 personalizes: 'we will come to him and make our home (monen) with him.' High Coherence because John reuses the same divine-dwelling-with-the-people promise, now realized as Father and Son abiding with the believer.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:27",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'My dwelling place shall be with them, and I will be their God,' the new-covenant restatement of God dwelling among his people, reinforces the indwelling promise of 14:23. Recurrence of the 'dwelling with them' formula (Lev/Ezek) strengthens Volume; medium because John gives the topos individual rather than national scope.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 2:10-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will dwell in your midst... and many nations shall join themselves to the LORD... and shall be my people,' an eschatological in-dwelling promise resonant with the Father and Son making their home with the one who loves Jesus. Low confidence: it adds Recurrence to the divine-indwelling motif but contributes no distinctive wording to 14:23.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 6:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'These words that I command you... shall be on your heart,' the Shema's call to internalize God's word, undergirds 14:23-24's 'keep my word'/'the word you hear is the Father's.' Low and contested: the keep-the-word idiom is broadly Deuteronomic and not anchored to a single verse here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.8",
+    "ch": 14,
+    "ref": "14:25-27",
+    "echoes": [
+      {
+        "source": "Numbers 6:24-26",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The Aaronic blessing climaxes 'the LORD... give you peace (shalom),' the priestly bestowal of divine peace that Jesus reissues as 'Peace I leave with you; my peace I give to you.' High Coherence: Jesus speaks the priestly gift-of-peace formula directly, distinguishing his giving from the world's, just as the blessing conveys God's own peace.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You keep him in perfect peace whose mind is stayed on you,' linking peace with an untroubled, trusting heart, parallels 14:27's 'my peace I give... let not your heart be troubled.' Coherence is strong between the peace-and-undisturbed-heart pairing; medium because the connection is thematic rather than a verbal citation.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 57:19",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Peace, peace, to the far and to the near, says the LORD; and I will heal him' is God's gift of peace to his people, the prophetic backdrop to Jesus bestowing his own peace. Medium for the shared divine-gift-of-peace motif; John heightens it by contrasting Jesus' peace with the world's hollow giving.",
+        "contested": true
+      },
+      {
+        "source": "Haggai 2:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'In this place I will give peace, declares the LORD of hosts,' tying peace to the eschatological house/temple, resonates with the farewell peace given amid the 'Father's house' discourse. Low confidence: a thematic temple-peace link rather than a verbal one, supplementing the stronger Aaronic and Isaianic echoes.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 11:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The resting 'Spirit of wisdom and understanding' that teaches and counsels stands behind the Paraclete who 'will teach you all things' (14:26). Low and contested here because the teaching-Spirit link is better located at 14:17; included for the instructive-Spirit motif that the reminder-and-teaching function of the Counselor presupposes.",
+        "contested": true
+      },
+      {
+        "source": "Nehemiah 9:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You gave your good Spirit to instruct them,' a rare OT statement of the Spirit as teacher of God's people, parallels the Paraclete who 'will teach you all things.' Low confidence: genuine conceptual match for the teaching-Spirit, but verbally remote and not signaled as a source by John.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "14.9",
+    "ch": 14,
+    "ref": "14:28-31",
+    "echoes": [
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall love the LORD your God' lies behind 14:28's 'if you loved me' and 14:31's 'that the world may know that I love the Father,' transposing the Shema's love onto the Father-Son relation. Low and contested: it reiterates the Deuteronomic love idiom already credited at 14:15, here governing Jesus' own filial love.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 6:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The commandment... that the LORD commanded me to teach you' models the obedient mediator who does only as God commanded, the pattern Jesus claims in 14:31, 'as the Father commanded me, so I do.' Low confidence: the as-commanded obedience motif is generically Deuteronomic, supplying coloring rather than a specific source.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 27:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Moses commissions Joshua 'as the LORD directed... so he did,' the do-as-commanded formula echoed in Jesus' 'as the Father commanded me, even so I do.' Low and contested: a faint obedient-agent parallel without verbal anchoring; one of several Pentateuchal 'as commanded, so he did' instances.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:15",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The protoevangelium's enmity between the serpent and the woman's seed faintly underlies 'the ruler of this world comes, and he has nothing in me,' where the satanic adversary advances but holds no claim on Jesus. Figural and contested: John's 'ruler of this world' draws on a Second-Temple satanology more than on a single Genesis verse, so the link is thematic.",
+        "contested": true
+      },
+      {
+        "source": "Job 1:6-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Adversary (ha-satan) who roams the earth and is granted limited power over the righteous supplies an OT antecedent for 'the ruler of this world' who comes but 'has nothing in' Jesus. Low confidence: it grounds the accusing-adversary figure conceptually, but John's title and the 'no claim on me' idea outrun anything verbal in Job.",
+        "contested": true
+      }
+    ]
+  }
+]

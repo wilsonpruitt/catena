@@ -1,0 +1,219 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-9",
+    "echoes": [
+      {
+        "source": "Deuteronomy 2:14",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The man has been infirm 'thirty-eight years.' Volume: the number is exact and otherwise unmotivated, and Deut 2:14 marks precisely thirty-eight years from Kadesh-barnea until the wilderness generation that could not enter the land had died off. Coherence: John repeatedly frames Jesus' signs against an exodus/wilderness backdrop (manna in ch. 6, water in ch. 7, serpent in 3:14), so a paralytic stranded thirty-eight years beside healing water he cannot reach evokes the generation barred from the promised land's rest. Recurrence: low (the figure is unique to this scene), and many read the number as merely realistic, so contested but the coincidence with the sole OT '38 years' is striking.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 47:1-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Healing water by the temple/sheep gate, a pool whose stirring brings cure, faintly recalls Ezekiel's eschatological river flowing from the temple that heals all it touches. Volume is low (no shared wording) and Recurrence weak, but Coherence with John's temple-and-water typology (cf. 7:38) gives it some force. Faint and contested; the immediate Bethesda tradition is folk-medical rather than scriptural.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 35:5-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The gathered 'blind, lame, paralyzed' and the command to the lame man to rise and walk echoes Isaiah's promise that in the day of salvation 'the lame shall leap like a deer.' Volume thematic only; Coherence high with the sign's meaning (Jesus as the one who fulfills the healing of the eschaton). Recurrence low within John. Honestly faint.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 15:26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I am the LORD who heals you' stands behind the whole motif of God as healer at the waters; the angel-stirred pool offers a counterfeit/lesser healing that Jesus' word transcends. Volume low, Recurrence low; included as a maximal, faint candidate for the divine-healer background.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:10-18",
+    "echoes": [
+      {
+        "source": "Jeremiah 17:21-22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The objection 'It is not lawful for you to carry the mat' on the Sabbath rests directly on the prophetic Sabbath law forbidding bearing a burden on the Sabbath day. Volume: the specific prohibition of carrying a load on the Sabbath is verbal and conceptual bedrock here; Jeremiah is the sharpest scriptural articulation. Coherence: the entire pericope turns on Sabbath legality. Recurrence: the same burden-bearing prohibition recurs (Neh 13:15-19), so the charge is grounded in available scripture, not later tradition alone.",
+        "contested": false,
+        "altSource": "Nehemiah 13:15-19"
+      },
+      {
+        "source": "Exodus 20:8-11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Sabbath controversy ('because he did these things on the Sabbath') invokes the Decalogue Sabbath command. Volume: foundational; the legal framework the Jews enforce is the fourth commandment. Coherence: high, the dispute is explicitly about Sabbath observance. Recurrence: the parallel Deut 5:12-15 reinforces availability. This is the law Jesus is accused of breaking, making it load-bearing for the whole chapter.",
+        "contested": false,
+        "altSource": "Deuteronomy 5:12-15"
+      },
+      {
+        "source": "Genesis 2:2-3",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'My Father is still working, so I am working, too' answers the Sabbath charge by appeal to creation: God rested on the seventh day, yet (so the live Second-Temple debate, e.g. Philo, Leg. All. 1.5-6; later rabbinic discussion) God never ceases the works of giving life and rendering judgment, which alone are his prerogative even on the Sabbath. Volume: the rest of Gen 2:2-3 is exactly the premise Jesus' claim contests. Coherence: very high — it generates the equal-with-God charge in v.18 and the life/judgment exposition that follows. Recurrence: the creation Sabbath underlies the whole Bethesda-on-the-Sabbath structure. Availability: the 'God works even on the Sabbath' tradition is attested in Second-Temple/early-rabbinic sources.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom of Solomon 2:16-18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus 'called God his own Father, making himself equal with God,' provoking a death plot — closely paralleling the ungodly in Wisdom who plot against the righteous one precisely because 'he calls himself a child of the Lord' and 'boasts that God is his father.' Volume: strong conceptual and near-verbal overlap on the Father-claim provoking lethal hostility. Coherence: high with John's righteous-sufferer framing. Recurrence: the Wisdom passage informs passion narratives broadly. A deuterocanonical source, hence flagged but well-grounded.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 14:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The charge that Jesus made 'himself equal with God' could be heard against the background of the proud one who said 'I will make myself like the Most High' — the accusers frame Jesus' self-equation as that blasphemous presumption. Volume low and the resonance is in the accusers' mouths, not the narrator's. Coherence moderate; included as a faint, contested candidate for the 'equal with God' polemic.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:19-23",
+    "echoes": [
+      {
+        "source": "Deuteronomy 32:39",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'As the Father raises the dead and gives them life, even so the Son also gives life' draws on the Song of Moses' exclusive divine self-claim, 'I kill and I make alive,' which makes giving life and putting to death God's sole prerogative. Volume: strong conceptual identity (raising the dead / making alive). Coherence: very high — this is the theological warrant for the equal-with-God claim, transferring the uniquely divine life-giving power to the Son. Recurrence: the make-alive formula recurs (1 Sam 2:6; cf. v.21,24-29 below).",
+        "contested": false,
+        "altSource": "1 Samuel 2:6"
+      },
+      {
+        "source": "1 Samuel 2:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Hannah's confession 'The LORD kills and makes alive; he brings down to Sheol and raises up' supplies the same death-and-resurrection-as-divine-act idiom undergirding 'the Father raises the dead.' Volume: shared raise/make-alive language. Coherence: high. Recurrence: reinforces Deut 32:39; together they establish that life-giving is an exclusively divine work now exercised by the Son.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'The Father... has given all judgment to the Son, that all may honor the Son even as they honor the Father' reflects Daniel's one like a son of man to whom is given dominion and the worship/service of all peoples. Volume: conceptual (universal honor/authority granted by God to a son-of-man figure), made explicit when v.27 names him 'son of man.' Coherence: high with John's transfer of judgment and honor. Recurrence: Danielic son-of-man framing recurs across the Gospel tradition; here it grounds the demand that all honor the Son.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "5.4",
+    "ch": 5,
+    "ref": "5:24-29",
+    "echoes": [
+      {
+        "source": "Daniel 12:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'All who are in the tombs will hear his voice and come out, those who have done good to the resurrection of life, those who have done evil to the resurrection of judgment' is John's closest verbal-conceptual echo of Daniel's 'many who sleep in the dust of the earth shall awake, some to everlasting life, some to shame and everlasting contempt.' Volume: high — the two-outcome resurrection of the dead is distinctively Daniel's. Coherence: very high with the life/judgment theme. Recurrence: Daniel 12 is the seminal OT resurrection text and is the available source for the double resurrection.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'He gave him authority to execute judgment, because he is a son of man' explicitly grounds the Son's judging authority in the Danielic son-of-man who receives dominion and an everlasting kingdom from the Ancient of Days. Volume: the anarthrous 'son of man' plus granted judging authority is a direct Danielic signal. Coherence: very high. Recurrence: ties the resurrection-judgment scene to the dominion granted in Dan 7. This is the clearest figural citation in the discourse.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 37:1-14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The dead hearing the life-giving voice of the Son of God and coming alive from the tombs resonates with Ezekiel's valley of dry bones, where God's word/breath summons the dead to life and opens the graves ('I will open your graves and raise you'). Volume: shared open-graves and voice-summons imagery. Coherence: high with the resurrection theme. Recurrence: Ezekiel 37 is a stock resurrection-of-Israel text; somewhat less verbally precise than Dan 12, hence medium.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your dead shall live; their bodies shall rise... the earth will give birth to the dead' is another available resurrection oracle behind 'those in the tombs will come out.' Volume thematic; Coherence high; Recurrence modest. A genuine but secondary candidate to Daniel 12, flagged faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.5",
+    "ch": 5,
+    "ref": "5:30-38",
+    "echoes": [
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The whole witness section ('If I testify about myself, my witness is not valid... It is another who testifies about me') applies the Torah's rule that a matter is established only by two or three witnesses. Volume: the legal principle is structurally determinative — Jesus marshals multiple corroborating witnesses (John, the works, the Father, the Scriptures) precisely to satisfy this requirement. Coherence: very high. Recurrence: the two-witness rule recurs (Deut 17:6; Num 35:30) and is invoked elsewhere in John (8:17).",
+        "contested": false,
+        "altSource": "Deuteronomy 17:6"
+      },
+      {
+        "source": "Exodus 33:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'You have neither heard his voice at any time, nor seen his form' inverts and presupposes the Sinai tradition that no one can see God's face/form and live, and that Israel heard the voice but saw no form (Deut 4:12). Volume: the voice/form pairing is a deliberate scriptural touchstone. Coherence: high — the point is that the accusers, unlike the Son, have no immediate access to the Father. Recurrence: the no-form motif is firmly grounded in the Sinai narratives.",
+        "contested": false,
+        "altSource": "Deuteronomy 4:12"
+      },
+      {
+        "source": "Psalm 132:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "John the Baptist as 'the burning and shining lamp' may echo the prepared 'lamp for my anointed' set before the messianic king, casting John as the lamp pointing to the coming one. Volume low (single image), Recurrence low; Coherence moderate with John's witness-to-the-light theme (cf. 1:8). Faint and contested.",
+        "contested": true,
+        "altSource": "Sirach 48:1"
+      }
+    ]
+  },
+  {
+    "id": "5.6",
+    "ch": 5,
+    "ref": "5:39-47",
+    "echoes": [
+      {
+        "source": "Deuteronomy 18:15-18",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Moses wrote about me... if you believed Moses you would believe me' centers on the Pentateuch as christological witness, with the prophet-like-Moses promise the prime text Jesus claims Moses 'wrote' concerning him. Volume: conceptual but specific — the expectation of a coming prophet whom Israel must heed. Coherence: very high; the chapter's climax makes Moses Jesus' chief scriptural witness and accuser. Recurrence: Deut 18 is the standard prophet-like-Moses proof-text in the NT (cf. Acts 3:22).",
+        "contested": false
+      },
+      {
+        "source": "Genesis 3:15",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Among the things 'Moses wrote' about Christ, the protoevangelium (the seed of the woman crushing the serpent) is a candidate text for what Jesus claims the Pentateuch foretells of him. Volume: low (not quoted); the verse names no specific passage. Coherence: moderate within a figural reading of Genesis as messianic. Recurrence: low in John. Included as a maximal, contested specification of 'he wrote about me.'",
+        "contested": true,
+        "altSource": "Genesis 49:10"
+      },
+      {
+        "source": "Exodus 32:31-32",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'There is one who accuses you, even Moses, on whom you have set your hope' ironically reverses Moses' role as Israel's intercessor who pleaded for the people; the very mediator they trust becomes their accuser. Volume low, Recurrence low, but Coherence moderate with the reversal motif. Faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 31:26-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses as accuser fits the Torah's own provision that the book of the law be placed 'as a witness against you' because of Israel's rebellion. Volume: conceptual but apt — Moses' writings testify against unbelief, exactly Jesus' charge ('if you don't believe his writings'). Coherence: high with the witness/accusation framing. Recurrence: moderate; strengthens the figural reading of Moses-as-witness.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:4-5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You don't have God's love in yourselves' and 'how can you believe, who... don't seek the glory from the only God' resonate with the Shema's call to love the one God with whole heart. Volume low (no quotation), but Coherence moderate: the indictment is that those who recite love of the one God fail to love and honor him. Faint, contested, included for completeness.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-6",
+    "echoes": [
+      {
+        "source": "Genesis 33:18-19",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Sychar lies near the plot of ground at Shechem that Jacob purchased; v5's 'parcel of ground that Jacob gave to his son Joseph' anchors the scene in this patriarchal land-grant. High Volume (named geography) and Coherence with John's Jacob/Joseph framing.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 48:22",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Jacob's deathbed gift of an extra 'portion' (shekem/Shechem) to Joseph is the explicit referent of v5, where the well stands on land Jacob gave Joseph. Strong verbal-thematic Coherence; the giving-of-portion motif underwrites the woman's later 'our father Jacob who gave us the well.'",
+        "contested": false
+      },
+      {
+        "source": "Joshua 24:32",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Joseph's bones were buried in the parcel at Shechem that Jacob bought, the same patriarchal plot John names. Availability and Coherence are strong; it reinforces the Jacob-Joseph-Shechem matrix even if John cites no text.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 29:1-14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The classic betrothal type-scene: a man journeys, sits/stops at a well, a woman comes to draw, water is given, she runs to tell her household. v6 'sat down by the well' mirrors Jacob meeting Rachel at the well. High Recurrence (three OT instances) and Volume; the reader primed for betrothal finds a startling inversion.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 24:10-27",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The Rebekah betrothal scene at the well: servant asks 'give me a drink,' woman draws, kinship and marriage follow. John's scene reuses the well-meeting template down to the request for water (v7). Strong Volume and Recurrence; coheres with the type-scene channel John exploits.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 2:15-21",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Moses, a stranger in foreign territory (Midian), sits by a well where women come to draw; betrothal to Zipporah follows. As the third betrothal-at-well scene it raises Recurrence, strengthening the type even if the verbal contact with John is looser than Genesis 24/29.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:7-15",
+    "echoes": [
+      {
+        "source": "Genesis 24:17",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Eliezer's 'Let me drink, I pray thee' to Rebekah at the well is verbally echoed by Jesus' 'Give me a drink' (v7), continuing the betrothal type-scene into the dialogue itself. Volume is moderate (short shared phrase) but Coherence with the well-meeting frame is high.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 2:13",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Israel forsook the LORD, 'the fountain of living waters,' for broken cisterns; Jesus offers the 'living water' (hydor zon) the woman cannot draw from a deep well. High Volume (rare exact phrase 'living water/fountain of living waters') and Coherence: Jesus is the true fountain over against a cistern that cannot hold.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Those who forsake the LORD have forsaken 'the fountain of living waters'; the doubled Jeremianic phrase raises Recurrence and makes the divine self-identification as living-water source the most likely source-pool for v10-14.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 14:8",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "On the eschatological day 'living waters shall go out from Jerusalem.' Jesus relocates that eschatological living water into himself given to a Samaritan, fitting John's realized-eschatology and the 'hour comes and now is' just ahead. Moderate Volume, strong thematic Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 12:3",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'With joy shall you draw water out of the wells of salvation' joins drawing water (the woman's task) to salvation (v22 'salvation is from the Jews'). Coherence is good; the drawing-water verb links the literal and figural planes.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 55:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Everyone who thirsts, come to the waters... without money' parallels Jesus' free 'gift of God' (v10) of water that ends thirst (v14). Strong Coherence with John's thirst/gift language; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 58:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The blessed will be 'like a spring of water, whose waters fail not' — the interior, never-failing spring matches v14's 'well of water springing up to eternal life.' Coherence high on the perpetual-inner-spring image; Volume modest.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The redeemed 'shall not hunger nor thirst,' for God leads them by springs of water — paralleling 'never thirst again' (v14). Faint, but coherent with the never-thirst promise.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 47:1-12",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The life-giving river flowing from the temple, deepening and bringing life, is a leading source for NT living-water imagery. John makes Jesus the temple-source of the eschatological water; moderate Volume, strong Coherence with the temple/water/life nexus.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 36:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'With you is the fountain of life' grounds the divine-fountain motif; Jesus' gift becomes 'a well of water springing up to eternal life' (v14). Coherence with the life-fountain image is high; Volume modest.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 18:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The wellspring of wisdom is a flowing brook' and Proverbs' fountain-of-life sayings supply the sapiential backdrop for water = life/wisdom. Faint verbal contact; contributes to the broader well/fountain field.",
+        "contested": true
+      },
+      {
+        "source": "Song of Songs 4:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The beloved is 'a well of living waters' — a rare exact match to 'living water,' and, given the betrothal type-scene already in play, a thematically apt nuptial overtone. Volume on the phrase is notable but the connection is contested.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 26:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaac's servants find 'a well of springing water' (be'er mayim chayyim) — the same idiom rendered 'well of water springing up' in v14, set again in patriarchal well-digging. Reinforces the patriarchal-well + living-water overlap.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 24:21",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Wisdom says 'those who drink me will thirst for more'; Jesus inverts it — whoever drinks his water 'will never thirst again' (v14). Likely deliberate contrast with the sapiential tradition; Availability secure as Second-Temple deuterocanon.",
+        "contested": true,
+        "altSource": "Sirach 15:3"
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:16-19",
+    "echoes": [
+      {
+        "source": "2 Kings 17:24-34",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The Samaritans were resettled foreign peoples who 'feared the LORD and served their own gods'; the woman's 'five husbands' has long been read as a figure for this syncretism (Josephus counts five settler nations/deities). Coherence with John's Samaritan setting is high, though the allegory of the number is debated.",
+        "contested": true,
+        "altSource": "2 Kings 17:29-31"
+      },
+      {
+        "source": "Hosea 2:2-13",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Israel as the adulterous wife pursuing many lovers/baalim supplies the prophetic marriage-and-apostasy grammar behind the husbands motif. Faint and contested, but coherent with reading the woman's marital history as covenantal figure.",
+        "contested": true,
+        "altSource": "Jeremiah 3:1-10"
+      },
+      {
+        "source": "1 Samuel 9:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prophet as 'seer' who knows hidden things lies behind the woman's 'I perceive you are a prophet' (v19) after Jesus discloses her secret. Faint lexical contact; supports the prophet-recognition motif.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:20-26",
+    "echoes": [
+      {
+        "source": "Deuteronomy 11:29",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The blessing was set on Mount Gerizim, the Samaritan holy mountain the woman means by 'this mountain' (v20). High Volume and Availability: the Gerizim/Jerusalem dispute is the precise OT fault-line John dramatizes.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 27:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Six tribes stand on Gerizim to pronounce blessing, grounding the Samaritan claim that 'our fathers worshiped in this mountain.' Coheres with v20; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 12:5-14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Worship is to be at 'the place the LORD shall choose,' the Deuteronomic charter behind the Jewish claim that 'in Jerusalem is the place where people ought to worship' (v20). High Coherence: Jesus transcends the very 'place' debate this text founds (v21-23).",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:15-18",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Moses promised a prophet 'like me' who would speak all God commands; the Samaritan Taheb expectation rests here, matching the woman's 'when Messiah comes he will declare to us all things' (v25). High Coherence with Samaritan messianism and Jesus' 'I am he' (v26).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'My people shall know my name... that I am he that speaks' supplies the divine 'I am he' (ego eimi ho lalon) Jesus uses in v26, knitting revelation-of-name to direct speech. Volume is strong on the unusual 'he that speaks / I am he' formula.",
+        "contested": false,
+        "altSource": "Isaiah 43:10"
+      },
+      {
+        "source": "Exodus 3:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The divine self-naming 'I AM' stands behind John's recurring ego eimi, here in v26. Faint at this point (the absolute uses come later in John), but Availability and Coherence with John's theme are real.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 31:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Egyptians are flesh, and not spirit' gives the flesh/spirit contrast informing 'God is spirit' (v24). Faint and contested, but a plausible OT seed for the spirit-worship claim.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 2:2-3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Nations stream to Zion, for 'out of Zion shall go forth the law' — backing 'salvation is from the Jews' (v22). Coherence good for the Jew-as-source-of-salvation claim; moderate Volume.",
+        "contested": false,
+        "altSource": "Genesis 12:3"
+      }
+    ]
+  },
+  {
+    "id": "4.5",
+    "ch": 4,
+    "ref": "4:27-30",
+    "echoes": [
+      {
+        "source": "Genesis 24:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Rebekah 'ran and told' her household after the well encounter; the woman leaves her water pot and runs to tell the city (v28-29), completing the betrothal type-scene's go-and-announce beat. Faint verbal contact but coherent with the type-scene already established.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.6",
+    "ch": 4,
+    "ref": "4:31-38",
+    "echoes": [
+      {
+        "source": "Deuteronomy 8:3",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Man lives not by bread alone but by what proceeds from God's mouth; Jesus' 'I have food you don't know about... to do the will of him who sent me' (v32-34) reuses this contrast of bodily food with God's word/will. Strong Coherence; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "Job 23:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I have esteemed the words of his mouth more than my necessary food' parallels Jesus' food-as-doing-God's-will. Faint, supporting the word/will-over-food motif.",
+        "contested": true
+      },
+      {
+        "source": "Amos 9:13",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The eschatological harvest where 'the plowman overtakes the reaper' — sowing and reaping collapse together — underlies 'fields white for harvest already' and sower-and-reaper rejoicing together (v35-36). High Coherence with realized harvest; Volume strong on the compressed-harvest image.",
+        "contested": false
+      },
+      {
+        "source": "Joel 3:13",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'Put in the sickle, for the harvest is ripe' supplies the ripe/ready harvest call behind v35. Coherence is good, though Joel's harvest is judgment, making the transfer to mission-harvest somewhat contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 126:5-6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Those who sow in tears reap in joy, going out and returning rejoicing — matching 'he who sows and he who reaps may rejoice together' (v36). Coherence good on the joint sow/reap rejoicing; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "Micah 6:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You shall sow but not reap' typifies the sow-one/reap-another proverb cited in v37. One of several covenant-curse/proverb backgrounds; faint individually.",
+        "contested": true,
+        "altSource": "Deuteronomy 28:30"
+      },
+      {
+        "source": "Job 31:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let me sow, and another eat' is a close formal analogue to the proverb 'one sows and another reaps' (v37). Faint but apt for the sowing/reaping-by-different-parties saying.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.7",
+    "ch": 4,
+    "ref": "4:39-42",
+    "echoes": [
+      {
+        "source": "Isaiah 49:6",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The Servant made 'salvation to the ends of the earth' / light to the nations stands behind 'the Savior of the world' confessed by Samaritans (v42), extending salvation beyond Israel. Strong Coherence with the universal-salvation theme; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 45:21-22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A just God and a Savior... look unto me, all the ends of the earth' is the OT locus for God as universal Savior, reframed as 'Savior of the world.' Volume good on the Savior-for-all-earth formula.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'All the ends of the earth shall see the salvation of our God' supports the world-wide Savior confession in v42. Faint but coherent with the universalizing of salvation.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'After two days he will revive us' may color the deliberate 'he stayed there two days' (v40) before life/belief spreads, given John's symbolic use of time. Faint and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.8",
+    "ch": 4,
+    "ref": "4:43-45",
+    "echoes": [
+      {
+        "source": "Jeremiah 11:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The men of Jeremiah's own town Anathoth sought his life, illustrating the prophet dishonored in his own country (v44). Offered as an OT exemplar of the rejected-prophet motif rather than a verbal source; faint and contested.",
+        "contested": true,
+        "altSource": "Amos 7:12-13"
+      }
+    ]
+  },
+  {
+    "id": "4.9",
+    "ch": 4,
+    "ref": "4:46-54",
+    "echoes": [
+      {
+        "source": "1 Kings 17:17-24",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Elijah revives the widow's dying son and the mother's faith follows; Jesus' word 'your son lives' (v50-53) reprises the prophet who restores a son at the point of death. High Coherence and a strong type for the life-giving prophetic word; the 'son lives' acclamation closely matches.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:18-37",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Elisha restores the Shunammite's dead son, again a prophet giving life to a child amid a parent's plea. Reinforces (with 1 Kings 17) the son-restored-by-prophetic-word type; high Recurrence strengthens the channel.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 107:20",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'He sent his word, and healed them' precisely captures the healing-at-a-distance by bare word (v50-53), where the father believes 'the word that Jesus spoke.' Strong Coherence on word-as-healing-agent; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 5:1-14",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Naaman, a Gentile official, is healed at a distance through the prophet's word without the prophet's presence — paralleling the royal official whose son is healed by Jesus' remote command. Coherence good on official-faith-by-word; moderate Volume.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 20:1-7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Hezekiah is 'sick unto death' and healed by the prophet's word, with the recovery confirmed by a sign tied to a precise hour — echoing the son 'at the point of death' (v47) and the verified 'seventh hour' of recovery (v52). Coherence good on the point-of-death/hour-confirmed pattern.",
+        "contested": false,
+        "altSource": "Isaiah 38:1-8"
+      }
+    ]
+  }
+]

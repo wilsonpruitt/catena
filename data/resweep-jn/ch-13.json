@@ -1,0 +1,338 @@
+[
+  {
+    "id": "13.1",
+    "ch": 13,
+    "ref": "13:1-3",
+    "echoes": [
+      {
+        "source": "Exodus 12",
+        "type": "figural",
+        "confidence": "high",
+        "note": "John frames the entire farewell on the eve of 'the feast of the Passover,' deliberately situating Jesus' self-giving against the exodus deliverance. Volume and coherence are high in John, which has already cast Jesus as the lamb (1:29) and dates the crucifixion to Passover. The footwashing supper thus becomes the new Passover meal of departure.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Father had given all things into his hands' echoes the giving of universal dominion to the one like a son of man. The handing-over language coheres with John's repeated Son-of-Man glorification motif and prepares for 13:31. Coherence is strong though the wording is general.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 8:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'All things into his hands' may echo the psalmist's 'you put all things under his feet/gave him dominion.' The thought-rhyme of universal subjection is present but the verbal overlap is faint and the motif is widely diffused.",
+        "contested": true,
+        "altSource": "Daniel 7:14"
+      },
+      {
+        "source": "Jeremiah 31:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Having loved his own... he loved them to the end' resonates with the LORD's everlasting love and faithful hesed toward his own people. The covenant-love register fits, but the wording is too common to claim a deliberate citation.",
+        "contested": true,
+        "altSource": "Deuteronomy 7:8"
+      }
+    ]
+  },
+  {
+    "id": "13.2",
+    "ch": 13,
+    "ref": "13:2",
+    "echoes": [
+      {
+        "source": "1 Chronicles 21:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The devil having already put into the heart of Judas to betray him' echoes the Satan who 'stood up against Israel and incited David.' The pattern of the adversary inciting a human agent to a destructive deed coheres with the fuller 'Satan entered into him' of 13:27. Availability and recurrence in Second-Temple Satan-tradition support the link.",
+        "contested": false
+      },
+      {
+        "source": "Job 1:6-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The accuser figure who provokes harm against the righteous undergirds the Johannine 'devil.' The connection is thematic rather than verbal and the Job satan is a heavenly prosecutor, so the echo is faint.",
+        "contested": true,
+        "altSource": "1 Chronicles 21:1"
+      }
+    ]
+  },
+  {
+    "id": "13.3",
+    "ch": 13,
+    "ref": "13:4-11",
+    "echoes": [
+      {
+        "source": "Genesis 18:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Abraham's 'let a little water be brought and wash your feet' establishes footwashing as the host's act of hospitality, here inverted so the Lord performs the servant's task. The image is the closest patriarchal antecedent and coheres with John's reversal of status. Recurrence of the motif across Genesis strengthens availability.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 25:41",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Abigail's 'a servant to wash the feet of my lord's servants' marks footwashing as the lowliest slave duty. Jesus assuming exactly this office dramatizes 13:16 (the servant not greater than his lord). The status-coherence is strong.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 30:19-21",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The priestly laver where Aaron and his sons wash hands and feet to be clean for service frames footwashing as cultic purification for ministry. Jesus' 'if I don't wash you, you have no part with me' reads the act as priestly consecration. Coherence with the cleansing language is high.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 19",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The water of purification that cleanses defilement supplies the conceptual background for 'completely clean.' The transfer from ritual to christological cleansing fits John's pattern of fulfilling purification rites. The link is conceptual, not verbal.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 51:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Wash me, and I shall be whiter than snow' supplies the imagery of moral cleansing behind 'you are clean.' The penitential washing register coheres with Jesus distinguishing the bathed-and-clean from the betrayer. Wording overlaps in the wash/clean pairing.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:25",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'I will sprinkle clean water on you, and you shall be clean' is the eschatological cleansing promise most verbally aligned with 'you are clean.' Its new-covenant context coheres with the new commandment of 13:34. Volume of the clean-water motif raises confidence.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 13:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The fountain opened 'for sin and for impurity' supplies an eschatological cleansing backdrop. The connection is thematic and the wording does not closely match. Marked faint.",
+        "contested": true,
+        "altSource": "Ezekiel 36:25"
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'beautiful feet' of the herald is sometimes invoked behind footwashing, but the link is associative only and the volume is negligible. Listed for completeness and marked contested.",
+        "contested": true,
+        "altSource": "Genesis 18:4"
+      }
+    ]
+  },
+  {
+    "id": "13.4",
+    "ch": 13,
+    "ref": "13:12-17",
+    "echoes": [
+      {
+        "source": "1 Samuel 25:41",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A servant is not greater than his lord' restates the lord/servant hierarchy that Abigail's footwashing self-description presumes, now made the basis for mutual service. The status logic coheres tightly with the preceding act. Recurrence of the master/servant ordering across the OT supports availability.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 24:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'One who is sent is not greater than he who sent him' reflects the shaliach principle dramatized by Abraham's commissioned servant who acts with his master's authority. The agency concept is Second-Temple and pervasive, so the echo is conceptual and faint.",
+        "contested": true,
+        "altSource": "1 Samuel 25:41"
+      },
+      {
+        "source": "Psalm 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Blessed are you if you do them' adopts the OT beatitude form that ties blessing to doing the will/law. The macarism cadence is biblical but generic, so the link is to a form rather than a text.",
+        "contested": true,
+        "altSource": "Psalm 119:1-2"
+      }
+    ]
+  },
+  {
+    "id": "13.5",
+    "ch": 13,
+    "ref": "13:18-20",
+    "echoes": [
+      {
+        "source": "Psalm 41:9",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Explicitly introduced 'that the Scripture may be fulfilled,' Jesus cites 'He who eats bread with me has lifted up his heel against me.' This is a formal quotation, John's clearest OT citation in the chapter, applying the lament of the betrayed righteous sufferer to Judas. Volume, recurrence in the Passion tradition, and coherence are all maximal.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 3:14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'That when it happens, you may believe that I am he' (ego eimi) draws on the divine self-naming 'I AM.' The absolute ego eimi pervades John's Christology and here is tied to prediction-and-fulfillment as proof of identity. Coherence with the Johannine I-AM sayings is very high.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:10",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'That you may know and believe me... that I am he' supplies the exact pattern of foretelling-so-you-may-believe-I-am-he that John reproduces in 13:19. The Deutero-Isaian 'I am he' (ani hu) is the immediate scriptural matrix for the Johannine ego eimi. Verbal and structural overlap are strong.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 46:9-10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Declaring the end from the beginning... before it happens' grounds Jesus' 'I tell you before it happens' as the divine prerogative of predictive sovereignty. The link reinforces the I-am theme and coheres with Isaiah 43. Recurrence of this announce-beforehand motif in Isaiah raises confidence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 48:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I declared them to you from of old, before they came to pass... lest you say my idol did them' parallels Jesus telling them beforehand so they will believe. The fore-announcement-for-faith logic matches closely. A near-doublet of Isaiah 46, strengthening the cluster.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 55:12-14",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The betrayal by 'my equal, my companion, my familiar friend' with whom 'we took sweet counsel together' reinforces the table-companion betrayal of Psalm 41 applied to Judas. It is a coherent secondary lament of intimate treachery. Offered as an alternate/reinforcing source.",
+        "contested": false,
+        "altSource": "Psalm 41:9"
+      },
+      {
+        "source": "Genesis 3:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'heel' of the lifted-heel quotation can evoke the protoevangelium's heel-bruising enmity, given Satan's role in the betrayal. The catchword link is suggestive but the underlying Hebrew terms differ and the connection is interpretive. Marked contested.",
+        "contested": true,
+        "altSource": "Psalm 41:9"
+      },
+      {
+        "source": "2 Samuel 15:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ahithophel, David's trusted counselor turned conspirator (and traditionally linked to Psalm 41/55), is a typological forerunner of the intimate betrayer. The echo is mediated through the psalm rather than direct. Faint, marked contested.",
+        "contested": true,
+        "altSource": "Psalm 41:9"
+      }
+    ]
+  },
+  {
+    "id": "13.6",
+    "ch": 13,
+    "ref": "13:21-30",
+    "echoes": [
+      {
+        "source": "Psalm 41:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The dipped morsel handed to the betrayer at table enacts the just-quoted 'he who eats bread with me,' so the narrative dramatizes the scripture already cited. Coherence with 13:18 is exact. The shared-bread treachery is the controlling image.",
+        "contested": false
+      },
+      {
+        "source": "1 Chronicles 21:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Satan entered into him' completes the inciting-adversary pattern begun in 13:2, recalling the Satan who moved a man to a ruinous act. The intensification from 'put into the heart' to 'entered' tracks Second-Temple demonological development. Coherence is strong.",
+        "contested": false
+      },
+      {
+        "source": "Ruth 2:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Dip your morsel in the wine' is the only OT scene of a dipped morsel offered at a meal, providing possible verbal coloring for the dipped piece of bread. The setting is benevolent, not treacherous, so the link is lexical and faint. Marked contested.",
+        "contested": true,
+        "altSource": "Psalm 41:9"
+      },
+      {
+        "source": "Job 24:13-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'It was night' fits the OT topos of evildoers as those who rebel against the light and work in darkness. John's pervasive light/darkness dualism makes the closing clause symbolically charged. The echo is to a motif rather than a specific text.",
+        "contested": true,
+        "altSource": "Isaiah 5:20"
+      },
+      {
+        "source": "Deuteronomy 15:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The disciples' guess that Judas should 'give something to the poor' reflects the Deuteronomic almsgiving duty toward the poor at the feast. The connection is to ordinary festal piety and only incidental to the narrative. Faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.7",
+    "ch": 13,
+    "ref": "13:31-35",
+    "echoes": [
+      {
+        "source": "Daniel 7:13-14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Now the Son of Man has been glorified' draws on the one like a son of man who receives glory and dominion. John transposes the apocalyptic enthronement onto the hour of the cross, his signature reading of Daniel's glorification. Volume, recurrence, and coherence across John are maximal.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:3",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'You are my servant, Israel, in whom I will be glorified' provides the servant-glorification pattern behind 'God has been glorified in him... God will glorify him.' The mutual glorifying of God and his agent coheres with John's Servant Christology. The verbal overlap on 'glorified in' is notable.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Love one another' restates 'you shall love your neighbor as yourself,' the OT love command Jesus calls 'new' by christological measure ('as I have loved you'). Availability and recurrence are high; the command is the explicit scriptural substrate of the new commandment. Coherence with the footwashing example is strong.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:31-34",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Calling the love command 'new' evokes the new covenant with the law written on the heart, fitting the Passover/farewell setting. John presents internalized covenant love as the mark of the disciples. The conceptual coherence is strong though the wording is not quoted.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Shema's 'love the LORD your God' stands behind the love command, here redirected to mutual love as the visible sign of belonging to Jesus. Pairing neighbor-love (Lev 19:18) with covenant love is a standard Second-Temple combination. Echo is conceptual.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 36:26-27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The promise of a new heart and spirit enabling obedience underlies the capacity to keep the 'new' commandment of love. The link is thematic to the new-covenant cluster and not verbally explicit. Faint, marked contested.",
+        "contested": true,
+        "altSource": "Jeremiah 31:31-34"
+      }
+    ]
+  },
+  {
+    "id": "13.8",
+    "ch": 13,
+    "ref": "13:36-38",
+    "echoes": [
+      {
+        "source": "Proverbs 16:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter's confident boast 'I will lay down my life for you,' answered by the prediction of a threefold denial, fits the wisdom pattern that pride precedes a fall. The connection is to a proverbial topos rather than a cited text. Faint and marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 41:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The chapter's frame of intimate failure (betrayal by Judas, denial by Peter) extends the trusted-companion turning-away motif of the cited psalm to the inner circle. The link is structural across the pericopes rather than to the wording here. Faint.",
+        "contested": true,
+        "altSource": "Psalm 41:9"
+      }
+    ]
+  }
+]

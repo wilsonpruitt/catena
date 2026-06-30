@@ -1,0 +1,200 @@
+[
+  {
+    "id": "21.1",
+    "ch": 21,
+    "ref": "21:1-14",
+    "echoes": [
+      {
+        "source": "Ezekiel 47:9-10",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Ezekiel's temple river makes the sea teem with fish 'of every kind,' with fishermen spreading nets from Engedi to Eneglaim. John's miraculous catch of fish 'of every kind' (the 153 traditionally read as the count of fish species) and the unbroken net coheres with Ezekiel's eschatological ingathering. Volume is moderate but the thematic coherence (river/sea, abundance, fishing, no-loss) is strong; contested but widely proposed.",
+        "contested": true,
+        "altSource": "Habakkuk 1:14-15"
+      },
+      {
+        "source": "Genesis 1:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The mandate to subdue and have dominion over 'the fish of the sea' lurks behind a restored humanity gathering the fish at the creative word of the risen Lord. Faint: shared lexeme 'fish of the sea' and a new-creation framing (resurrection 'after these things'), but no verbal citation and the link is thematic.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 11:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Moses asks whether all the fish of the sea could be gathered to feed the people; John presents an answering abundance gathered by Jesus' word. Faint association on the motif of impossible provision of fish answered by divine sufficiency; offered only as a contested resonance.",
+        "contested": true
+      },
+      {
+        "source": "Jonah 1:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter is addressed as 'Simon, son of Jonah' (vv.15-17) amid a sea/fish narrative; the Jonah-the-prophet sea imagery may color the scene of disciples on the deep at night. Faint and largely onomastic; included honestly as contested.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:7-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter, 'naked,' covers himself before encountering the Lord (v.7), recalling the shame/covering of Eden when the man hid from the LORD's presence. Faint verbal touch ('naked') with a coherent theme of standing exposed before the divine; contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.2",
+    "ch": 21,
+    "ref": "21:9-14",
+    "echoes": [
+      {
+        "source": "Genesis 18:1-8",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The LORD appears and a meal is set before him/by him; here the risen Lord hosts a theophanic breakfast none dare question. Faint typological resonance of divine appearance plus prepared food; coherence with John's revelation motif ('revealed himself') but no verbal anchor.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 19:5-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah, exhausted, is given bread baked on coals by the LORD's messenger and strengthened for the journey; Jesus provides bread and fish from a charcoal fire to strengthen the disciples for mission. Faint but coherent provision-meal-after-failure motif; contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.3",
+    "ch": 21,
+    "ref": "21:15-17",
+    "echoes": [
+      {
+        "source": "Ezekiel 34:23",
+        "type": "figural",
+        "confidence": "high",
+        "note": "God promises to set up 'one shepherd' to feed and tend the flock. Jesus' triple charge to Peter—'feed my lambs / tend my sheep / feed my sheep'—delegates this messianic shepherd office. High volume of shepherd language, strong coherence with Johannine 'good shepherd' (ch.10), and clear availability in Ezekiel 34's feed/tend vocabulary.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 23:1-2",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The LORD as shepherd who feeds and leads the flock supplies the foundational pastoral imagery taken up in the commission to feed and tend sheep. Coherent and available, though general; the verbal link is thematic (shepherd/feed) rather than a citation.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 23:1-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Against false shepherds who scatter, God will raise shepherds who 'feed' the flock so none is missing. Peter's reinstatement as a true shepherd who feeds coheres tightly with Jeremiah's contrast; moderate volume in shared feed/shepherd vocabulary.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The LORD 'will feed his flock like a shepherd' and gently carry the lambs—matching the specific pairing of lambs and sheep in Peter's threefold charge. Strong coherence and the distinctive lamb/sheep doublet raise volume above the generic shepherd topos.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 27:16-17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses asks God to appoint a successor so the congregation is not 'as sheep without a shepherd'; Joshua is commissioned over the flock. Jesus' commissioning of Peter to shepherd reprises this succession-of-shepherd pattern; coherent with the leadership-transfer theme of John 21.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 11:4-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prophet is told to 'feed the flock' destined for slaughter, foreshadowing a shepherd's costly office immediately before Peter's death-prophecy (vv.18-19). Faint but coherent given the adjoining martyrdom prediction; contested.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 22:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The thrice-repeated 'Simon, son of Jonah, do you love me?' echoes the testing/love idiom of the Aqedah where God names the beloved son in a graduated demand. Faint structural resonance (threefold address, love, testing); offered as contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.4",
+    "ch": 21,
+    "ref": "21:18-19",
+    "echoes": [
+      {
+        "source": "Isaiah 65:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I have stretched out my hands all day long' supplies a possible scriptural backdrop for 'you will stretch out your hands,' read by early Christians as crucifixion imagery. Faint verbal touch ('stretch out hands'); coherent with the death-prophecy but contested as the source.",
+        "contested": true,
+        "altSource": "Psalm 88:9"
+      },
+      {
+        "source": "Psalm 88:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The afflicted 'spread out my hands' to God in a context of approaching death; resonates with Peter's foretold death by stretched-out hands and being led where he does not wish. Faint, generic gesture-language; contested.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 12:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Qoheleth's contrast of youth and the days of trouble in old age frames the 'when you were young... when you are old' antithesis of Peter's prophecy. Faint thematic parallel of life-stage contrast; offered as contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.5",
+    "ch": 21,
+    "ref": "21:20-24",
+    "echoes": [
+      {
+        "source": "Numbers 9:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter's 'Lord, what about this man?' and Jesus' deferral ('what is that to you? You follow me') faintly mirror the pattern of deferred answers awaiting the Lord's will. Very faint structural resonance; included only as low-confidence and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "21.6",
+    "ch": 21,
+    "ref": "21:25",
+    "echoes": [
+      {
+        "source": "Sirach 43:27-28",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Ben Sira's doxological hyperbole—'we could say more but could never say enough... he is greater than all his works'—matches John's closing topos that the world could not contain the books recording Jesus' deeds. Strong coherence in the inexhaustible-divine-works rhetoric; a recognized Second-Temple parallel to the hyperbole.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 12:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Of making many books there is no end' supplies the proverbial frame for John's hyperbole about innumerable books. Moderate volume via the shared 'books' motif and a fitting scribal-colophon function closing the work; coherent with an editorial epilogue.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 18:4-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'To whom has he given power to declare his works? Who can search out his mighty deeds?'—the immeasurability of God's works that no one can fully recount. Faint but coherent with John's claim that the world cannot hold the record of Jesus' deeds; contested.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 40:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's wondrous deeds 'are more than can be numbered'—the same hyperbole of innumerable divine works underlying John's uncontainable books. Faint and generic; offered as a contested resonance.",
+        "contested": true
+      }
+    ]
+  }
+]

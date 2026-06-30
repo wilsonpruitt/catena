@@ -1,0 +1,246 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-11",
+    "echoes": [
+      {
+        "source": "Amos 9:13-14",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The eschatological promise that the mountains shall drip sweet wine and the hills flow with it stands behind Cana's superabundance (six jars of 20-30 gallons each become the best wine). Coherence is high: John frames the sign as the dawn of the messianic age in which the prophets' image of overflowing wine is realized. Availability and Recurrence of the wine-of-the-age topos across the prophets strengthen the echo.",
+        "contested": false
+      },
+      {
+        "source": "Joel 3:18",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Joel's day-of-the-Lord vision of mountains dripping with new wine belongs to the same prophetic abundance-of-wine cluster that informs Cana. The figural logic is that Jesus' first sign inaugurates that promised day. Coherence with John's 'his hour' / eschatological framing supports the reading though the verbal contact is thematic not lexical.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 25:6",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Isaiah's eschatological banquet on Zion of rich food and well-aged wines for all peoples is the messianic-feast type that Cana's wedding banquet enacts. Volume is moderate (banquet + choice wine); Coherence is strong since the ruler praises the 'good wine kept until now,' echoing the aged-wine motif. The wedding setting reinforces the feast typology.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 31:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah's restoration oracle promises radiance over the LORD's goodness, the grain, the wine, and the oil, with mourning turned to joy. The new-covenant abundance (same chapter as the new covenant) coheres with John's inaugural sign of joy and wine. The contact is thematic and the echo faint.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 49:11-12",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Jacob's blessing of Judah, who 'washes his garments in wine' with eyes darker than wine, is a classic messianic-Davidic prophecy of wine-abundance attached to the coming ruler from Judah. Second-Temple readers (cf. Targums) read this messianically, so Availability is strong. Cana's prodigal wine figurally fulfills the Shiloh oracle's vinous excess.",
+        "contested": false
+      },
+      {
+        "source": "Song of Songs 5:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Song's wedding/erotic imagery of wine ('your love is better than wine,' the bridegroom and bride) supplies a nuptial-wine matrix that John's wedding sign may evoke, especially given the bridegroom motif. Volume is diffuse and the echo is faint and contested, but Coherence with John's broader bridegroom Christology (cf. 3:29) supports listing it.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 62:4-5",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Isaiah names restored Zion 'married' (Beulah) and depicts God rejoicing over her as a bridegroom over a bride. The Cana wedding, where the bridegroom motif surfaces and Jesus implicitly assumes the true bridegroom's role, figurally enacts this nuptial covenant imagery. Coherence with John's bridegroom Christology strengthens the link.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 2:19-20",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Hosea's promise that the LORD will betroth Israel to himself forever in righteousness and faithfulness is foundational to the YHWH-as-bridegroom typology activated at a wedding where Jesus quietly occupies the bridegroom's place. Availability and Recurrence of the divine-marriage theme support a figural echo. Hosea 2:21-22 also pairs betrothal with abundance of grain, wine, and oil.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 11-15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "John explicitly notes the six stone jars were set 'after the Jews' way of purifying'; the Levitical purity code (clean/unclean, washings) is the institution being named. Volume is high (direct reference to the purification system) and Coherence is strong: Jesus transforms the water of ritual purification into the wine of the new age, signaling supersession of the old cleansing rites.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The water of purification / red-heifer lustration ordinance is part of the specific 'purifying' system John references with the stone jars (stone vessels in particular resisted impurity per Second-Temple halakhah). Coherence supports it: the water-for-cleansing motif is precisely what Jesus repurposes. Slightly lower volume than Leviticus since John's phrase is general.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 7:17-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The first Mosaic sign turned water into blood; John's first sign turns water into wine, a possible deliberate Moses/Jesus typological inversion (curse vs. joy). Coherence with John's broader Moses Christology (1:17) gives it some weight, but the contrast is subtle and the echo contested.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 9:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The sapiential exhortation to drink wine with a merry heart as God's gift frames wine as a sign of divine favor and joy, the affective register of Cana's abundance. Volume is low and the link diffuse; listed as a faint wisdom-tradition resonance.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 31:27-28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's praise of wine as gladness of heart 'created from the beginning for joy,' drunk in season, supplies a deuterocanonical wisdom backdrop to Cana's celebratory wine. Availability is solid (Second-Temple sapiential text); the echo is thematic and faint.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "John 2:1 'on the third day' may complete John's opening week (day-counting from 1:29, 35, 43) evoking the seven-day creation framework that the Prologue's 'In the beginning' inaugurates, making Cana a new-creation climax. The echo is structural and contested but coherent with John's deliberate Genesis 1 architecture.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'On the third day' as a marker of restoration/raising ('on the third day he will raise us up that we may live before him') may color John's 'third day' at Cana, anticipating resurrection-glory language that returns at 2:19-22. Coherence with the chapter's later three-days-temple saying supports a faint thematic echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:12",
+    "echoes": []
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:13-22",
+    "echoes": [
+      {
+        "source": "Psalm 69:9",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "John 2:17 explicitly cites 'Zeal for your house will eat me up' (gegraptai), a verbatim quotation of Psalm 69:9a. Volume is maximal (formal citation), and Psalm 69 is a major Johannine passion testimony (cf. the vinegar of 19:28-29 from Ps 69:21), giving high Recurrence and Coherence within John's passion typology.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 14:21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Zechariah's eschatological vision ends 'there shall no longer be a trader in the house of the LORD of hosts on that day' when all vessels in the temple become holy. Jesus' expulsion of the sellers and his 'do not make my Father's house a marketplace' directly enacts this oracle. Volume and Coherence are strong; the day-of-the-LORD purification of the temple is precisely the action depicted.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:1-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Malachi's prophecy that 'the Lord whom you seek will suddenly come to his temple' to purify the sons of Levi like a refiner is enacted as Jesus comes to the temple in judgment. Coherence is strong (sudden coming, purgation of temple commerce/cult) and Recurrence high in the gospels' temple theology. The refining-judgment frame fits the whip and overturning of tables.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 9:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Hosea's 'I will drive them out of my house' for their wickedness offers a prophetic precedent for expulsion from God's house, resonating with Jesus throwing the merchants out of the temple. Volume is low and verbal contact partial; listed as a faint judgment-on-the-temple echo.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 40-47",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Ezekiel's vision of the new, purified eschatological temple (and the life-giving water flowing from it) stands behind Jesus' 'destroy this temple and in three days I will raise it,' interpreted as the temple of his body replacing the building. Coherence is strong with John's temple-replacement Christology; the figural new-temple typology supports a medium-confidence link.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 7:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's temple sermon denounces those who make the LORD's house 'a den of robbers'; Jesus' 'do not make my Father's house a marketplace' belongs to the same prophetic critique of commercializing/profaning the temple. The synoptics quote Jer 7:11 directly; John's wording diverges ('marketplace' vs. 'den of robbers') but the underlying allusion is strong.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 6:12-13",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The Branch who 'shall build the temple of the LORD' may inform John's claim that Jesus will raise the temple in three days, identifying him as the messianic temple-builder. Coherence with the new-temple Christology supports it, but verbal contact is faint and the link contested.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "John dates the cleansing to 'the Passover of the Jews' (2:13), invoking the Exodus Passover institution that frames Jesus' whole Jerusalem ministry and ultimately his death as the true paschal lamb (cf. 19:36). Volume is moderate (explicit feast reference) and Coherence high within John's paschal Christology.",
+        "contested": false
+      },
+      {
+        "source": "Nehemiah 13:7-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Nehemiah's zealous cleansing of the temple chambers of Tobiah's goods provides a scriptural model of reforming zeal that purges the temple of intrusion, resonating with Jesus' 'zeal' and his expulsion of the traders. The echo is faint and typological rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 93:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Holiness befits your house, O LORD, forevermore' undergirds the indignation at profaning the Father's house, the principle Jesus enforces. Volume is low and the connection conceptual; included as a faint sanctity-of-the-house resonance.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:23-25",
+    "echoes": [
+      {
+        "source": "1 Samuel 16:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The LORD looks on the heart' while man looks on outward appearance is the classic text for divine knowledge of the inner person, directly behind 'he knew what was in man.' Volume and Coherence are strong: Jesus exercises the uniquely divine prerogative of reading hearts, a Johannine claim to his deity. The conceptual contact is precise.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I the LORD search the heart and test the mind, to give every man according to his ways' ascribes heart-searching to YHWH alone; John applies this to Jesus, who 'knew everyone' and needed no testimony about man. Coherence is high within John's high Christology; the divine heart-searcher motif is the operative background.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 139:1-4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The psalm's confession that the LORD searches and knows everything, discerning thoughts from afar before a word is spoken, is the paradigmatic statement of omniscient knowledge of persons that John attributes to Jesus. Volume and Coherence are strong; this is a leading text for the divine knowledge Jesus possesses.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 8:39",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Solomon's temple prayer affirms that God alone 'knows the hearts of all the children of mankind.' Set against the temple context just preceding (2:13-22), Jesus' knowledge of all hearts pointedly claims the prerogative Solomon reserved to God alone, reinforcing the divine-knowledge Christology. Coherence with the chapter's temple frame strengthens it.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 11:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'O LORD of hosts, who judges righteously, who tests the heart and the mind' is another heart-testing formula in the same cluster as 17:10; it reinforces the divine-omniscience background without distinct verbal contact of its own. Listed as a corroborating faint echo.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 42:18-20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's praise of the Most High who 'searches out the abyss and the human heart' and from whom no thought is hidden offers a deuterocanonical parallel to Jesus knowing what is in man. Availability is good; the echo is thematic, reinforcing the omniscience motif rather than supplying a direct source.",
+        "contested": true
+      }
+    ]
+  }
+]

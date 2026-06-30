@@ -1,0 +1,385 @@
+[
+  {
+    "id": "19.1",
+    "ch": 19,
+    "ref": "19:1-3",
+    "echoes": [
+      {
+        "source": "Isaiah 50:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The flogging and the slapping ('they kept slapping him') strongly recall the Servant who gives his back to those who strike and his cheeks to those who pluck the beard, not hiding his face from shame and spitting. High volume of shared imagery (back smitten, face struck) and coherence with John's Servant-passion frame.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:3-5",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The Servant despised, wounded, and bruised stands behind the whole scourging scene; John reads the passion through the Suffering Servant. Coherence is strong across the chapter even where no formula is used.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22:6-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The mockery of the crowned 'king' echoes the scorned righteous sufferer who is a reproach and despised, mocked by onlookers. Recurrence is high since John quotes Psalm 22:18 later in the chapter, raising the availability and coherence of the whole psalm.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 9:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The ironic crowning and hailing of a humble king may faintly invoke Zechariah's king who comes lowly; John used Zech 9:9 explicitly at the entry (12:15), making it available. Faint and contested as background coloring only.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "19.2",
+    "ch": 19,
+    "ref": "19:4-7",
+    "echoes": [
+      {
+        "source": "Zechariah 6:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Pilate's 'Behold, the man!' (idou ho anthropos) may echo 'Behold, the man whose name is the Branch' who shall build the temple, a messianic-royal-priestly figure. John has a temple-body theme (2:19-21); coherence is suggestive though contested, since the Greek wording differs.",
+        "contested": true,
+        "altSource": "1 Samuel 9:17"
+      },
+      {
+        "source": "1 Samuel 9:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The LORD's word to Samuel, 'Behold the man... he shall reign over my people,' offers an ironic royal echo to Pilate's presentation of the true (rejected) king. Faint; offered as alternative to the Zechariah Branch reading.",
+        "contested": true,
+        "altSource": "Zechariah 6:12"
+      },
+      {
+        "source": "Leviticus 24:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'We have a law, and by our law he ought to die, because he made himself the Son of God' invokes the Torah blasphemy statute commanding death for one who blasphemes the Name. The charge is legally grounded in this verse; high coherence with the trial logic.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The death sentence for a presumptuous prophet who speaks in God's name may secondarily inform 'by our law he ought to die.' Lower volume than Lev 24:16, offered as supplementary legal background.",
+        "contested": true,
+        "altSource": "Leviticus 24:16"
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The title 'Son of God' adjacent to the heavenly 'one like a son of man' may stand faintly behind the Jewish leaders' accusation. Contested and faint; the divine-sonship charge is the chapter's pivot.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "19.3",
+    "ch": 19,
+    "ref": "19:8-12",
+    "echoes": [
+      {
+        "source": "Daniel 2:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' 'You would have no power at all against me, unless it were given to you from above' echoes Daniel's confession that God removes and sets up kings and gives authority. Coherent with John's theology of derived earthly power; medium volume.",
+        "contested": false,
+        "altSource": "Daniel 4:17"
+      },
+      {
+        "source": "Daniel 4:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The Most High rules in the kingdom of men and gives it to whomever he will' directly grounds the claim that Pilate's authority is given 'from above.' Strong conceptual coherence; paired with Dan 2:21.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 8:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'By me kings reign and rulers decree justice' (Wisdom speaking) faintly supports the notion that governing authority is divinely delegated. Lower volume than Daniel; offered as wisdom-tradition background.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 6:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Deuterocanonical: 'your dominion was given you from the Lord, and your sovereignty from the Most High,' addressed to rulers, closely matches 'given to you from above.' Available in the Second-Temple period; faint but apt.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "19.4",
+    "ch": 19,
+    "ref": "19:13-16",
+    "echoes": [
+      {
+        "source": "Exodus 12:6",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The handing over at the Preparation of Passover, 'about the sixth hour,' coincides with the time the Passover lambs began to be slain; John times the sentence to the lamb-slaughter. High coherence with John's lamb Christology (1:29) and the unbroken-bones citation later.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 14:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The LORD shall be king over all the earth' may be ironically inverted by 'We have no king but Caesar.' Faint; the kingship motif is dense here but the verbal link is loose.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 8:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel's rejection of God as king ('they have rejected me from being king over them') resonates with the priests' 'We have no king but Caesar.' Coherent theological irony, but contested as a deliberate echo.",
+        "contested": true,
+        "altSource": "Judges 8:23"
+      }
+    ]
+  },
+  {
+    "id": "19.5",
+    "ch": 19,
+    "ref": "19:17-18",
+    "echoes": [
+      {
+        "source": "Genesis 22:6",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Jesus 'bearing his cross' to the place of execution evokes Isaac carrying the wood of his own sacrifice up the mount. The Aqedah was a live Second-Temple typology; medium volume and good coherence with the lamb/son themes.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Crucifixion 'with him two others, on either side one' enacts the Servant being 'numbered with the transgressors.' John shares the Servant frame though, unlike Luke 22:37, he does not cite it; coherence is strong.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "19.6",
+    "ch": 19,
+    "ref": "19:19-22",
+    "echoes": [
+      {
+        "source": "Psalm 2:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The inscription proclaiming Jesus 'King of the Jews,' published in three languages, ironically broadcasts the enthronement of God's king ('I have set my king on Zion'). Faint; the royal-psalm coloring is thematic rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 11:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The trilingual title heralding the king to all peoples ('many of the Jews read it') faintly recalls the root of Jesse standing as a signal to the nations. Faint and contested; offered for the universal-proclamation motif.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "19.7",
+    "ch": 19,
+    "ref": "19:23-24",
+    "echoes": [
+      {
+        "source": "Psalm 22:18",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Explicit fulfillment citation: 'They parted my garments among them, and for my cloak they cast lots,' verbatim from the LXX. John reads the two clauses as distinct acts (dividing the garments, casting lots for the tunic). Maximum volume and the chapter's anchor citation.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 28:31-32",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The seamless tunic 'woven from the top throughout' recalls the high priest's robe of the ephod, woven in one piece with a reinforced opening so it would not tear. Suggests Jesus as priest-victim; medium volume, debated but coherent with John's temple-body theme.",
+        "contested": true,
+        "altSource": "Leviticus 16:4"
+      },
+      {
+        "source": "Leviticus 16:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The high priest's holy linen tunic worn on the Day of Atonement adds priestly resonance to the seamless coat. Faint; offered alongside the Exodus 28 robe reading.",
+        "contested": true,
+        "altSource": "Exodus 28:31-32"
+      }
+    ]
+  },
+  {
+    "id": "19.8",
+    "ch": 19,
+    "ref": "19:25-27",
+    "echoes": [
+      {
+        "source": "Genesis 3:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus addressing his mother as 'Woman' and constituting a new family at the cross may echo Eve as 'the mother of all living,' with Mary as a new-Eve figure. Faint and contested; the 'Woman' address recurs in John (2:4).",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 13:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The scattering implied by the cross scene (shepherd struck, family reordered) faintly invokes 'strike the shepherd and the sheep will be scattered.' Very faint here; the verse is more at home in the arrest narratives.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "19.9",
+    "ch": 19,
+    "ref": "19:28-30",
+    "echoes": [
+      {
+        "source": "Psalm 69:21",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'I am thirsty,' said 'that the Scripture might be fulfilled,' and the answering vinegar (oxos) draw directly on 'for my thirst they gave me vinegar to drink.' John signals fulfillment explicitly; high volume and the primary referent.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22:15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'My tongue cleaves to my jaws' / 'my strength is dried up' supplies the thirst motif alongside Psalm 69. Recurrence is high (Ps 22:18 already quoted), so coherence is strong; medium volume secondary source.",
+        "contested": false,
+        "altSource": "Psalm 69:21"
+      },
+      {
+        "source": "Exodus 12:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The vinegar is raised on 'hyssop,' the very plant used to apply the Passover blood to the doorposts. John alone names hyssop, fusing the drink-offering with Passover typology; high coherence with the chapter's lamb framing.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'It is finished' (tetelestai) echoes the completion of creation, 'the heavens and the earth were finished... God finished his work,' presenting the cross as the consummation of God's work. Coherent with John's new-creation framing (cf. 20:22); medium volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "19.10",
+    "ch": 19,
+    "ref": "19:31-37",
+    "echoes": [
+      {
+        "source": "Exodus 12:46",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'A bone of him will not be broken' fulfills the Passover-lamb statute that no bone of it shall be broken. John's wording matches the LXX prohibition; this is the chapter's clearest Passover-typology citation, making Jesus the true paschal lamb.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 9:12",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The second-Passover law repeats 'they shall not break a bone of it,' reinforcing the lamb identification behind John's unbroken-bones citation. Paired with Exodus 12:46 as the dual Torah source.",
+        "contested": false,
+        "altSource": "Exodus 12:46"
+      },
+      {
+        "source": "Psalm 34:20",
+        "type": "quotation",
+        "confidence": "medium",
+        "note": "'He keeps all his bones; not one of them is broken,' spoken of the righteous sufferer the LORD delivers, is the likeliest source if John intends the righteous-one rather than (or as well as) the lamb. Strong verbal match; many read this as the primary referent.",
+        "contested": true,
+        "altSource": "Exodus 12:46"
+      },
+      {
+        "source": "Zechariah 12:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'They will look on him whom they pierced,' the second explicit fulfillment formula, cites the mourning over the pierced one in Zechariah. John follows a textual tradition reading 'pierced' (cf. Rev 1:7); high volume and the climactic citation.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 13:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Immediately after the piercing in Zechariah, 'a fountain shall be opened... for sin and uncleanness,' resonates with the blood and water flowing from the pierced side. Adjacent context to the quoted 12:10; medium volume and coherent.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 47:1-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The water from the pierced side may evoke the temple stream flowing from the sanctuary to give life, supporting John's body-as-temple motif. Faint and contested; thematic rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 17:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Water issuing from the struck rock at Horeb offers a faint typological background to the water from Jesus' side. Low volume; Paul (1 Cor 10:4) develops the rock typology more than John.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 20:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The water gushing when the rock is struck twice parallels the flow from the struck side; faint, offered alongside Exodus 17:6 as wilderness-water background.",
+        "contested": true,
+        "altSource": "Exodus 17:6"
+      }
+    ]
+  },
+  {
+    "id": "19.11",
+    "ch": 19,
+    "ref": "19:38-42",
+    "echoes": [
+      {
+        "source": "Isaiah 53:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Burial by the wealthy Joseph of Arimathea and Nicodemus, with a lavish hundred pounds of spices in a new tomb, fulfills 'they made his grave... with a rich man in his death.' Strong coherence with John's pervasive Servant typology; high volume.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 16:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "King Asa's burial laid on a bier filled with spices prepared by the perfumer's art parallels the royal, spice-laden entombment of Jesus, underscoring his kingship even in death. Medium volume; matches the regal scale of the myrrh and aloes.",
+        "contested": true
+      },
+      {
+        "source": "Song of Songs 4:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The myrrh and aloes recall the garden spices ('myrrh and aloes, with all the chief spices') of the beloved, and the burial 'in a garden' invites Song-of-Songs garden resonance. Faint; develops more fully in John 20's garden encounter.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Burial in a garden may echo Eden, supporting John's new-creation/new-Adam reading of the resurrection that follows. Faint and contested; thematic link to the garden setting.",
+        "contested": true,
+        "altSource": "Song of Songs 4:14"
+      },
+      {
+        "source": "Psalm 45:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The royal wedding psalm's 'myrrh and aloes and cassia' on the king's garments offers a faint regal-spice background to the myrrh-and-aloes burial. Low volume; reinforces the king motif.",
+        "contested": true
+      }
+    ]
+  }
+]

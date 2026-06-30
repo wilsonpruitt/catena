@@ -1,0 +1,345 @@
+[
+  {
+    "id": "18.1",
+    "ch": 18,
+    "ref": "18:1-11",
+    "echoes": [
+      {
+        "source": "2 Samuel 15:23",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Jesus crosses the brook Kidron with his disciples to a garden where he is betrayed, deliberately retracing David's flight across the Kidron under the betrayal of his counselor Ahithophel. The verbal anchor cheimarros tou Kedron (LXX) is exact and singular, and John alone of the evangelists names the wadi, signaling a typological David-suffers-betrayal pattern with high Volume and Coherence.",
+        "contested": false
+      },
+      {
+        "source": "2 Samuel 15:30",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "David ascends the Mount of Olives weeping, head covered, abandoned by intimates, the very topography to which Jesus 'often met' (Gethsemane lies on Olivet's slope). The shared geography plus the betrayed-king-in-anguish motif coheres with the Kidron crossing of v.1, strengthening the Davidic typology though John omits the agony itself.",
+        "contested": true
+      },
+      {
+        "source": "2 Samuel 17:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ahithophel the betrayer hangs himself once his counsel fails, a fate the Synoptic Judas shares; the Kidron-crossing frame invites the reader to map Judas onto Ahithophel. Faint here because John does not narrate Judas's death, so the link rests on the larger Davidic matrix rather than this pericope's wording.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 2:8",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The arrest in a 'garden' (kepos), a setting unique to John among the passion accounts and reprised at the tomb (19:41; 20:15), evokes Eden as the place where humanity's fall began and where the new Adam now reverses it through obedience. The Coherence with John's new-creation theology (cf. 20:22) gives the figural reading weight despite no verbal quotation.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 3:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' absolute 'I am' (ego eimi) before the arresting party, at which they fall back, deploys the divine self-naming of the burning bush as rendered in the LXX (ego eimi ho on). The soldiers' collapse functions as a theophanic reaction, and John's repeated, climactic placement of ego eimi gives high Volume and Coherence with the Gospel's I-am Christology.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Deutero-Isaiah's 'that you may know and believe... that I am he' (ego eimi) supplies the monotheistic confessional sense John attaches to Jesus' self-declaration. The Isaianic ego eimi formula is the most plausible Second-Temple background for the absolute usage, reinforcing Exodus 3:14 and adding Recurrence across John's I-am sayings.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 27:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'When evildoers came against me... they stumbled and fell' matches the soldiers going backward and falling to the ground at Jesus' word. The psalm of the righteous sufferer whose assailants collapse gives strong thematic Coherence; the falling-enemies motif is the verbal hinge linking the scene to the lament tradition.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 35:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Let them be turned back and brought to confusion who plot my hurt' supplies the enemies-driven-backward motif (apostrapheien eis ta opiso, LXX) that matches the arrest party's recoil (eis ta opiso). The shared lexeme eis ta opiso strengthens Volume above a merely thematic link in this cluster of persecution psalms.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 56:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Then my enemies will turn back in the day when I call' offers another lament instance of foes turning back before the trusting sufferer, coherent with the soldiers' collapse. Low confidence as one of several overlapping psalm parallels rather than a distinct verbal source.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 40:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Let them be turned back and put to shame who seek my life' pairs the very verbs John uses (seek/zetein, turn back) as the soldiers 'seek' Jesus and go backward. Faint and contested, included for Recurrence within the righteous-sufferer psalm pattern behind the recoil.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 75:8",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Jesus' 'the cup which the Father has given me, shall I not drink it?' draws on the prophetic cup of wrath, here the cup in the LORD's hand of foaming wine that the wicked must drain. The cup-of-judgment metaphor is the controlling image, and John's substitution of obedience-unto-death for the Synoptic prayer to remove the cup gives the figural reading high Volume and Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You have drunk... the cup of his wrath, the bowl of staggering' names the cup Jerusalem must drink, the background for the cup the Father gives Jesus to drink in the people's place. The Isaianic cup of staggering is a primary source of the metaphor, and Jesus' willing acceptance coheres with the Servant's vicarious suffering.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:22",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The LORD takes the cup of staggering from Jerusalem's hand and gives it to her tormentors; Jesus, drinking the cup, figurally takes it back so the people need not drink. The removal-and-transfer logic coheres with the substitution theme, supplementing 51:17 as the cup-of-wrath source.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 25:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Take this cup of the wine of wrath from my hand, and make all the nations drink it' provides the most explicit OT 'cup the LORD gives to drink' formula, matching John's 'cup the Father has given.' The giving-of-the-cup wording strengthens the wrath-cup background behind Jesus' question.",
+        "contested": true
+      },
+      {
+        "source": "Lamentations 4:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The cup shall pass to you also; you shall become drunk' continues the cup-of-judgment idiom, reinforcing the figural cup Jesus accepts. Low confidence as a secondary witness within the broader prophetic cup tradition rather than a direct source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.2",
+    "ch": 18,
+    "ref": "18:12-14",
+    "echoes": [
+      {
+        "source": "Genesis 22:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus is 'bound' (edesan) and led to the priests, faintly echoing the binding (aqedah) of Isaac, the beloved son bound for sacrifice. Low and contested: John supplies no verbal Isaac marker, so the link rests on the bound-sacrificial-son typology that informs Johannine atonement theology elsewhere.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 16:32-33",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Caiaphas the high priest 'that year' unwittingly presides over the death that atones for the people, mirroring the high priest's Day of Atonement role of securing the nation's expiation. The priestly-mediator framing coheres with John's irony that Caiaphas prophesies the saving death, though the connection is conceptual rather than verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.3",
+    "ch": 18,
+    "ref": "18:15-18",
+    "echoes": [
+      {
+        "source": "Psalm 1:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter stands and warms himself among the servants and officers ranged against Jesus, faintly inverting the blessed man who does not 'stand in the way of sinners.' Faint and contested; the standing-among-the-wicked motif is suggestive of the first psalm's contrast but lacks verbal anchor.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 36:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The charcoal fire (anthrakia) at which the company warms itself in the cold recalls the brazier before which the king burns Jeremiah's scroll, an image of hostility toward the prophetic word. Low confidence: a shared cold-weather brazier setting without further verbal contact, included for maximal coverage.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.4",
+    "ch": 18,
+    "ref": "18:19-24",
+    "echoes": [
+      {
+        "source": "Isaiah 45:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' 'I spoke openly to the world... I said nothing in secret' closely matches the LORD's 'I have not spoken in secret, in a place of a land of darkness' (LXX ouk en kruphe... en topo skoteino). The shared 'not in secret' (en kruphe) idiom and the public-revelation claim give strong Volume, casting Jesus' testimony in the voice of the self-revealing God of Isaiah.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 48:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'From the beginning I have not spoken in secret' provides a second Isaianic 'not in secret' declaration reinforcing Jesus' open-teaching claim. The Recurrence of the formula across Isaiah 45 and 48 strengthens the allusion's plausibility as deliberate adoption of divine speech.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 50:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "An officer strikes Jesus on the face for his answer, enacting the Servant's 'I gave my back to the smiters... I did not hide my face from shame and spitting.' The striking-of-the-cheek of the obedient Servant gives high Coherence with the Johannine passion's Servant Christology, and the blow on the innocent witness matches the Servant's non-resistance.",
+        "contested": false
+      },
+      {
+        "source": "Micah 5:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'With a rod they strike the judge of Israel on the cheek' supplies a prophetic oracle of the ruler struck on the face, matching the officer's slap of Jesus. The cheek-striking of the messianic judge gives Coherence with John's royal-Christology trial scene, though the verbal contact is through the shared act rather than quotation.",
+        "contested": true
+      },
+      {
+        "source": "Lamentations 3:30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Let him give his cheek to the one who strikes him; let him be filled with insults' commends the silent acceptance of the blow that Jesus models when struck and then reasons quietly rather than retaliating. The give-the-cheek motif coheres with the righteous-sufferer pattern shaping the interrogation scene.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 22:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zedekiah strikes the true prophet Micaiah on the cheek for his testimony before the king, a striking-the-faithful-prophet parallel to the officer's blow on Jesus. Low confidence; one of several OT cheek-blow scenes, included for the prophet-struck-for-truth Recurrence.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 22:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The officer's rebuke 'Do you answer the high priest like that?' invokes the Torah prohibition against reviling a ruler of the people, ironically applied to silence the true Lord. Faint and contested; the link is the legal premise behind the officer's charge rather than a quotation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.5",
+    "ch": 18,
+    "ref": "18:25-27",
+    "echoes": [
+      {
+        "source": "Psalm 41:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter's threefold denial by the charcoal fire belongs to the cluster of intimate-betrayal motifs John draws from Psalm 41:9 ('my close friend in whom I trusted... has lifted his heel against me'), already cited at 13:18. Low here because the psalm's primary referent is Judas; Peter's failure echoes the broader friend-failure pattern rather than the verse directly.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 13:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Strike the shepherd, and the sheep will be scattered' undergirds the disciples' collapse, of which Peter's denial is the sharpest instance. Faint in John, which lacks the Synoptic citation, so the scattering-of-the-flock motif is conceptual support rather than a marked allusion.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.6",
+    "ch": 18,
+    "ref": "18:28-32",
+    "echoes": [
+      {
+        "source": "Exodus 12:8",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The accusers avoid defilement so they may 'eat the Passover,' even as they deliver the true Passover lamb to slaughter, a Johannine irony tied to the Exodus 12 paschal meal. The Coherence with John's paschal-lamb chronology (19:14, 19:36) gives the figural Passover framing real weight in this transitional pericope.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 9:6-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The concern over ritual defilement that would bar one from keeping the Passover reflects the purity legislation of Numbers 9, sharpening the irony of scrupulous purity beside judicial murder. Low confidence; the purity premise is conceptual background rather than an evoked text.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.7",
+    "ch": 18,
+    "ref": "18:33-38",
+    "echoes": [
+      {
+        "source": "Daniel 7:14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "Jesus' kingship 'not of this world,' a dominion not delivered by force, enacts the everlasting, non-earthly kingdom given to the one like a son of man. John's royal trial coheres with Daniel's vision of a heaven-bestowed, indestructible reign that 'shall not pass away,' giving the figural Son-of-Man kingship high Coherence with Johannine Christology.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:27",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The kingdom given to the saints of the Most High, an everlasting dominion all peoples shall serve, supplies the otherworldly-sovereignty register behind Jesus' claim that his servants do not fight for an earthly realm. Recurrence within Daniel 7 reinforces the Son-of-Man kingdom background of the Pilate dialogue.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:6",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Pilate's interrogation of Jesus' kingship before the nations replays the royal psalm in which the LORD installs his anointed king on Zion while rulers conspire against him. The king-versus-the-rulers-of-the-earth frame gives Coherence with the Barabbas/Pilate scene, casting Jesus as the Messiah-king the nations reject.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The kings of the earth set themselves... against the LORD and his anointed' frames the rulers' collusion against the true king, matching Pilate and the chief priests arrayed against Jesus the King of the Jews. The conspiracy-of-rulers motif strengthens the messianic-king reading of the trial.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 55:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I have given him as a witness (martys) to the peoples, a leader and commander' resonates with Jesus' 'I have come... that I should testify to the truth.' Low confidence; the witness-to-the-nations idea coheres with the kingship dialogue but lacks decisive verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 22:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Micaiah's resolve to speak only what is true before the king parallels Jesus' mission to 'testify to the truth' before Pilate, the true-witness-before-the-ruler motif. Faint and contested, included for the prophet-bears-truth Recurrence behind the trial.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:160",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The sum of your word is truth' stands behind Pilate's question 'What is truth?' and Jesus' truth-witness, since for John truth (aletheia) is the revelation of God enacted in Jesus. Faint; the link is thematic to John's truth motif rather than to a quoted verse.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "18.8",
+    "ch": 18,
+    "ref": "18:38-40",
+    "echoes": [
+      {
+        "source": "Leviticus 16:7-10",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "Pilate's Passover custom of releasing one prisoner while Jesus goes to death evokes the two-goats rite: one set free, the other slain to bear the people's sin. The released-Barabbas/condemned-Jesus pairing gives the scapegoat typology real Coherence with John's substitutionary 'one man for the people' (11:50; 18:14).",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:6",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'The LORD has laid on him the iniquity of us all' frames the swap by which the guilty robber goes free and the innocent one is condemned in his place. The Servant who bears others' sin coheres tightly with the Barabbas substitution, strengthening John's vicarious-death reading.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant 'numbered with the transgressors' resonates with Jesus condemned in the place of Barabbas the robber/insurrectionist. Low confidence here since John does not crucify Jesus between criminals as the Synoptics do; the link rests on the with-the-transgressors theme.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 12:5-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Passover-release custom set against the choice of the lamb-king to die deepens John's paschal irony, in which the unblemished lamb is rejected while a 'robber' is freed. Faint; the paschal framing is structural to the pericope but the connection to the lamb selection is conceptual.",
+        "contested": true
+      }
+    ]
+  }
+]

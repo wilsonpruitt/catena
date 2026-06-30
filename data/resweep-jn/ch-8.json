@@ -1,0 +1,366 @@
+[
+  {
+    "id": "8.1",
+    "ch": 8,
+    "ref": "8:1-11",
+    "echoes": [
+      {
+        "source": "Leviticus 20:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The accusers' charge presupposes the Holiness Code's death sentence for adultery, which Leviticus prescribes for both parties. High Volume and Coherence: the scene is staged as a halakhic test about applying exactly this statute, and the conspicuous absence of the male partner exposes the accusers' selective use of the law.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 22:22-24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The specific penalty of stoning (rather than unspecified execution) for a betrothed woman taken in adultery supplies the legal frame the Pharisees invoke when they say Moses commanded stoning. High Coherence with their wording; the citation of 'Moses commanded us to stone' points to the Deuteronomic form of the law.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 17:7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' 'let him who is without sin throw the first stone' reworks the rule that the hands of the witnesses shall be first against the condemned to put away evil. High Coherence: Jesus accepts the procedure but disqualifies the witnesses morally rather than legally, turning the witness-stone rule back on the accusers.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 13:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The parallel statute that the informer's hand shall be first to execute reinforces the witness-first-stone tradition behind v.7. Lower Volume than 17:7 but the same legal motif; Recurrence within Deuteronomy strengthens that the 'first stone' formula is the intended backdrop.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 23:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The prohibition of joining hands with a wicked man as a malicious witness illumines the narrator's note that they spoke 'testing him, that they might accuse him.' Moderate Coherence: the accusers function as the malicious witnesses the law forbids, an irony built on this statute.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 23:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Keep far from a false charge, and do not kill the innocent' coheres with Jesus' refusal to condemn and with exposing the accusers' bad faith. Contested because the verbal contact is thematic rather than lexical, but the coherence with the pericope's concern for unjust killing is strong.",
+        "contested": true
+      },
+      {
+        "source": "Susanna 1:1-64",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The Susanna narrative (Greek Daniel) is the closest Second-Temple analogue: a wise judge intervenes in a capital adultery accusation, tests and discredits the accusers, and saves the accused. High Coherence and Availability; the figural pattern of a Daniel-like discerner overturning a rigged witness procedure plausibly shapes the scene, though direct dependence is debated.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 17:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' twice-noted writing on the ground may evoke 'those who turn away from you shall be written in the earth, for they have forsaken the LORD, the fountain of living water.' Coherence with John's living-water theme is suggestive, but the gesture is unexplained in the text and the link remains a classic patristic conjecture.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 31:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The detail that Jesus wrote 'with his finger' may recall the finger of God inscribing the tablets of the law, casting the lawgiver writing afresh over against those who wield Moses' law. Low Volume and contested; the verbal hook ('finger,' 'wrote') is real but the application is speculative.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The two-or-three-witness requirement hovers over a scene where the accusers withdraw one by one until no valid witness remains to condemn. Faint here and developed explicitly in 8:17; flagged for Recurrence across the chapter rather than strong presence in this pericope.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.2",
+    "ch": 8,
+    "ref": "8:12-20",
+    "echoes": [
+      {
+        "source": "Isaiah 9:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I am the light of the world... will have the light of life' draws on the people who walked in darkness seeing a great light. High Volume in the light/darkness antithesis and strong Coherence with John's prologue light theme; Isaiah's dawning light on those in the land of deep darkness is a primary source for Johannine light Christology.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:6-7",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Servant given as 'a light to the nations' to open blind eyes underwrites the universal scope of 'light of the world.' High Coherence: John repeatedly casts Jesus in Servant terms, and the worldwide reach of the light matches Isaiah's covenant-to-the-peoples commission.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'I will give you as a light to the nations, that my salvation may reach to the end of the earth' supplies the 'of the world' scope of Jesus' claim. High Recurrence with 42:6 and strong Coherence with John's mission to gather scattered children of God.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 60:1-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Arise, shine, for your light has come... nations shall come to your light' frames the eschatological light to which peoples are drawn. High Coherence with the Tabernacles setting and with Jesus as the light that the world follows; the procession-to-the-light image matches 'he who follows me.'",
+        "contested": false
+      },
+      {
+        "source": "Exodus 13:21",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The pillar of fire that led Israel by night so they could walk is the exodus type behind 'he who follows me will not walk in darkness but have the light of life.' High Coherence given the Tabernacles temple-lamp ceremony commemorating wilderness guidance; Jesus presents himself as the guiding light-presence for a new exodus.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 27:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'The LORD is my light and my salvation' lends the divine self-designation Jesus appropriates. Moderate Volume; Coherence is strong because John's 'I am' light-claim takes up a predicate Scripture reserves for the LORD, reinforcing the chapter's high Christology.",
+        "contested": false
+      },
+      {
+        "source": "Wisdom 7:26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Wisdom as 'a reflection of eternal light' and unspotted mirror of God supplies Second-Temple Wisdom-light language close to John's incarnate Logos-light. Good Availability and Coherence with Johannine Wisdom Christology, though the link is conceptual rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 14:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Zechariah's Tabernacles-day vision of continuous light ('at evening time there shall be light'), read liturgically at the feast, situates Jesus' light-claim within the festival's eschatological imagery. Moderate Coherence with the temple setting of v.20.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:105",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Your word is a lamp to my feet and a light to my path' links walking, word, and light, themes that converge in the pericope. Low Volume and contested; offered for the walking-by-light motif rather than a distinct source.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 19:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'It is written in your law that the testimony of two people is true' explicitly cites the two-or-three-witness statute. High Volume (near-quotation) and total Coherence; Jesus appeals to this rule to count himself and the Father as the two valid witnesses.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 17:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The parallel formulation that a matter is established on the evidence of two or three witnesses reinforces the law Jesus cites in v.17. Recurrence within Deuteronomy strengthens the witness-law backdrop; slightly lower Volume than 19:15.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 35:30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The capital-case rule requiring multiple witnesses extends the legal field Jesus invokes. Low Volume; included for Recurrence of the witness statute across the Pentateuch rather than as a primary source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.3",
+    "ch": 8,
+    "ref": "8:21-30",
+    "echoes": [
+      {
+        "source": "Exodus 3:14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Unless you believe that I am he, you will die in your sins' and 'then you will know that I am he' deploy the absolute egō eimi rooted in God's self-revelation 'I AM WHO I AM.' High Coherence with the chapter's climactic I AM in v.58; Jesus appropriates the divine Name as the object of saving faith.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'That you may know and believe me and understand that I am he' (LXX hina pisteusēte... hoti egō eimi) supplies the exact 'believe that I am he' construction of v.24,28. High Volume and Coherence; Isaiah's courtroom of witnesses for the one God matches John's witness theme and 'I am he' formula.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 41:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I, the LORD, the first, and with the last; I am he' (egō eimi) furnishes the same self-predication tied to God's sovereignty over the generations. Recurrence with 43:10 strengthens the case that John draws the absolute 'I am he' from Deutero-Isaiah's monotheistic self-declarations.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 52:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'My servant shall be exalted and lifted up' undergirds 'when you have lifted up the Son of Man.' John's double-meaning of hypsoō (crucifixion/exaltation) coheres tightly with Isaiah's Servant who is lifted up; moderate Volume but high thematic Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 21:8-9",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The bronze serpent lifted on a pole so that those who look live is the lifting-up type John established in 3:14 and recalls here with 'lifted up the Son of Man.' Recurrence across John and Coherence of the look-and-live/lift-and-know pattern support a figural reading.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 3:18",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You will die in your sins' echoes Ezekiel's watchman warning that the wicked 'shall die in his iniquity' if unwarned. Moderate Coherence: John uses the prophetic death-in-sin formula for those who reject the light, and Ezekiel is its densest source.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 18:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel's repeated 'he shall die in his iniquity' for the unrepentant strengthens the prophetic background of 'die in your sins.' Lower Volume than 3:18; included for Recurrence of the formula within Ezekiel.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 1:28",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You will seek me and not find me; where I am going you cannot come' resonates with Wisdom's warning that those who refused her 'will seek me diligently but will not find me.' Faint and contested, but the seek-but-not-find judgment pattern coheres with Johannine Wisdom Christology.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.4",
+    "ch": 8,
+    "ref": "8:31-47",
+    "echoes": [
+      {
+        "source": "Genesis 22:17",
+        "type": "figural",
+        "confidence": "high",
+        "note": "The dispute turns on being 'Abraham's seed,' invoking the patriarchal promise that Abraham's offspring would be multiplied. High Coherence: Jesus concedes physical descent (sperma) but redefines true sonship by deeds, pressing the gap between biological seed and genuine children of Abraham.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 21:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'A slave does not remain in the house forever; the son remains forever' alludes to Sarah's demand that the slave woman's son not inherit with the free son, the Isaac/Ishmael household division. High Coherence; the slave-vs-son contrast that grounds Jesus' freedom argument is drawn from this Genesis scene of casting out the bondservant.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 12:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Abrahamic blessing-to-the-nations promise underlies the claim to do 'the works of Abraham,' i.e., faith-hospitality toward God's messenger rather than murder. Moderate Coherence; Abraham's welcome of divine visitors stands behind 'you would do the works of Abraham.'",
+        "contested": true
+      },
+      {
+        "source": "Genesis 18:1-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Abraham's hospitable reception of the LORD and his angels at Mamre exemplifies 'the works of Abraham' that the hostile interlocutors fail to imitate by seeking to kill Jesus. Coherence is good in Jewish exegesis that paired Abraham's welcome with his descendants' murderous rejection of prophets.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 3:1-5",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'You are of your father the devil... a liar and the father of lies' reads the Eden serpent's deceit as the devil's primal lie that brought death. High Coherence: the murderer-from-the-beginning and liar-from-the-beginning charges fuse the serpent's deception with the death it caused, the dominant Second-Temple reading of Genesis 3.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 4:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A murderer from the beginning' likely also evokes Cain's killing of Abel, the first human murder, traditionally traced to the devil's influence (cf. 1 John 3:12, but the OT base is Genesis 4). Moderate Coherence with 'you seek to kill me,' aligning the accusers with the archetypal fratricide.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom 2:24",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Through the devil's envy death entered the world' is the clearest Second-Temple bridge interpreting Genesis 3 as the devil being a murderer from the beginning. High Availability and Coherence; this verse supplies precisely the devil-as-death-bringer logic John's charge presupposes.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 1:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'We were not born of sexual immorality' (porneia) may carry the prophetic charge that idolatrous Israel was born of harlotry; the interlocutors deny the very status the prophets assigned faithless Israel. Faint and contested, offered for the figural irony of the porneia denial.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.5",
+    "ch": 8,
+    "ref": "8:48-59",
+    "echoes": [
+      {
+        "source": "Exodus 3:14",
+        "type": "figural",
+        "confidence": "high",
+        "note": "'Before Abraham came into existence, I AM' (egō eimi) climactically claims the divine Name revealed at the burning bush, asserting timeless self-existence over against Abraham's createdness. Highest Volume of the chapter and total Coherence; the immediate attempt to stone him for blasphemy confirms the hearers grasped a divine self-identification.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 43:10-13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Deutero-Isaiah's 'I am he... before me no god was formed... I am God, and also henceforth I am he' provides the absolute, eternal egō eimi that v.58 enacts. High Coherence and Recurrence (also behind 8:24,28); John draws the unqualified I AM from Isaiah's monotheistic self-declarations.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 41:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Who has performed this... calling the generations from the beginning? I, the LORD, the first, and with the last; I am he' supplies the over-the-generations claim implicit in standing before Abraham. Moderate Volume; reinforces the Isaianic I AM backdrop.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 17:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Your father Abraham rejoiced to see my day' connects to Abraham's laughter/rejoicing at the promise of Isaac, read in Jewish tradition as joy over the messianic future. Moderate Coherence; the verb of rejoicing and the forward-looking 'day' are anchored in the covenant-promise scenes of Abraham.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 22:1-14",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The Aqedah, where Abraham 'saw the place afar off' and named the mount 'the LORD will provide/be seen,' was widely read as Abraham foreseeing the day of deliverance, illuminating 'he saw it and was glad.' Good Availability in Second-Temple Abraham traditions and Coherence with Abraham's prophetic sight.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 24:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'They took up stones to throw at him' enacts the statute that one who blasphemes the Name shall be stoned by all the congregation. High Coherence: the stoning response directly judges Jesus' I AM as blasphemous use of the divine Name, so the law of Leviticus 24 is the operative legal backdrop.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 90:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Before the mountains were brought forth... from everlasting to everlasting you are God' parallels the pre-Abrahamic eternity asserted in v.58. Low Volume and verbal contact, but coheres with the claim to existence prior to creation/patriarch.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 89:48",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'What man can live and never see death?' frames the dispute over Jesus' promise that one who keeps his word 'will never see death,' which the hearers measure against Abraham's death. Faint; offered for the see/taste-death motif rather than as a primary source.",
+        "contested": true
+      },
+      {
+        "source": "Habakkuk 1:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The prophets dying yet the patriarch's hope of seeing God's 'day' resonates faintly with prophetic 'in your days' announcements of a work to be marveled at. Highly contested and low Volume; included only for maximal coverage of the 'see my day' language.",
+        "contested": true
+      }
+    ]
+  }
+]
