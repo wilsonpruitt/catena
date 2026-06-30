@@ -1,0 +1,1148 @@
+{
+  "meta": {
+    "dataset": "Catena — the New Testament's use of the Old",
+    "kind": "lxx-divergences",
+    "license": "CC BY-SA 4.0",
+    "attribution": "Wilson Pruitt / Wroot Press — catena.wrootpress.com",
+    "versification": "KJV/WEB",
+    "refKeyScheme": "OSIS osisRef",
+    "sourceCommit": "5c184f9",
+    "generated": "2026-06-30"
+  },
+  "divergences": [
+    {
+      "source": {
+        "refKey": "Isa.40.3-Isa.40.5",
+        "refDisplay": "Isaiah 40:3–5"
+      },
+      "citing": {
+        "refKey": "Matt.3.1-Matt.3.12",
+        "refDisplay": "Matthew 3:1–12"
+      },
+      "hebrewText": "The voice of one who calls out, “Prepare the way of Yahweh in the wilderness! Make a level highway in the desert for our God. Every valley shall be exalted, and every mountain and hill shall be made low. The uneven shall be made level, and the rough places a plain. Yahweh’s glory shall be revealed, and all flesh shall see it together; for the mouth of Yahweh has spoken it.”",
+      "lxxText": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make straight the paths of our God. Every valley shall be filled, and every mountain and hill shall be brought low: and all the crooked ways shall become straight, and the rough places plains. And the glory of the Lord shall appear, and all flesh shall see the salvation of God: for the Lord has spoken it.",
+      "note": "Beyond the quoted v.3, the whole Isaianic New Exodus / wilderness-highway scene shapes the pericope: comfort after exile, the revealing glory of the Lord, all flesh seeing salvation. The wilderness setting of John's preaching enacts the prophetic return-from-exile pattern.",
+      "provenance": "https://catena.wrootpress.com/matthew#p-3.1"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1-Isa.61.3",
+        "refDisplay": "Isaiah 61:1–3"
+      },
+      "citing": {
+        "refKey": "Matt.5.1-Matt.5.12",
+        "refDisplay": "Matthew 5:1–12"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound; to proclaim the year of Yahweh’s favor, and the day of vengeance of our God; to comfort all who mourn; to appoint to those who mourn in Zion, to give to them a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of […]",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind; to declare the acceptable year of the Lord, and the day of recompence; to comfort all that mourn; that there should be given to them that mourn in Sion glory instead of ashes, the oil of joy to the mourners, the garment of glory for the spirit of heaviness: and […]",
+      "note": "Isaiah's anointed proclaims good news to the poor and comfort to all who mourn; multiple beatitudes (poor, mourning-comforted, righteousness) cluster on this Servant text, which Jesus elsewhere claims.",
+      "provenance": "https://catena.wrootpress.com/matthew#p-5.1"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Matt.11.1-Matt.11.6",
+        "refDisplay": "Matthew 11:1–6"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "'to preach good news to the poor' (anointed Servant) supplies the climactic 'the poor have good news preached to them' — the same verb/theme Jesus claims as his own programmatic mission (cf. Luke 4:18).",
+      "provenance": "https://catena.wrootpress.com/matthew#p-11.1"
+    },
+    {
+      "source": {
+        "refKey": "Isa.29.13",
+        "refDisplay": "Isaiah 29:13"
+      },
+      "citing": {
+        "refKey": "Matt.15.1-Matt.15.9",
+        "refDisplay": "Matthew 15:1–9"
+      },
+      "hebrewText": "The Lord said, “Because this people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;",
+      "lxxText": "And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men.",
+      "note": "Formula-cited ('Well did Isaiah prophesy of you'). Mt 15:8-9 reproduces Isaiah's indictment of lip-service worship ('this people draw near with their mouth... but their heart is far from me... in vain do they worship, teaching as doctrines the commandments of men'). Verbatim LXX-leaning quotation; the climactic charge of the pericope.",
+      "provenance": "https://catena.wrootpress.com/matthew#p-15.1"
+    },
+    {
+      "source": {
+        "refKey": "Ps.8.2",
+        "refDisplay": "Psalm 8:2"
+      },
+      "citing": {
+        "refKey": "Matt.19.13-Matt.19.15",
+        "refDisplay": "Matthew 19:13–15"
+      },
+      "hebrewText": "From the lips of babes and infants you have established strength, because of your adversaries, that you might silence the enemy and the avenger.",
+      "lxxText": "Out of the mouth of babes and sucklings hast thou perfected praise, because of thine enemies; that thou mightest put down the enemy and avenger.",
+      "note": "The kingdom belonging to little children resonates with the Psalmist's 'out of the mouth of babes' as the locus of God's praise/strength; thematic only.",
+      "provenance": "https://catena.wrootpress.com/matthew#p-19.4"
+    },
+    {
+      "source": {
+        "refKey": "Ps.8.2",
+        "refDisplay": "Psalm 8:2"
+      },
+      "citing": {
+        "refKey": "Matt.21.12-Matt.21.17",
+        "refDisplay": "Matthew 21:12–17"
+      },
+      "hebrewText": "From the lips of babes and infants you have established strength, because of your adversaries, that you might silence the enemy and the avenger.",
+      "lxxText": "Out of the mouth of babes and sucklings hast thou perfected praise, because of thine enemies; that thou mightest put down the enemy and avenger.",
+      "note": "Jesus answers the indignant priests by citing Psalm 8:2 (21:16): 'Out of the mouth of babes and nursing babies you have perfected praise' (the LXX form 'perfected praise' rather than MT 'established strength'), legitimating the children's Hosanna as God-ordained praise.",
+      "provenance": "https://catena.wrootpress.com/matthew#p-21.2"
+    },
+    {
+      "source": {
+        "refKey": "Zech.12.10",
+        "refDisplay": "Zechariah 12:10"
+      },
+      "citing": {
+        "refKey": "Matt.24.29-Matt.24.31",
+        "refDisplay": "Matthew 24:29–31"
+      },
+      "hebrewText": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.",
+      "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son.",
+      "note": "'all the tribes of the earth will mourn' draws on Zechariah 12:10-14, 'they shall look on him whom they have pierced, and mourn... the land shall mourn, each family by itself,' the eschatological mourning of the tribes/families at the appearance of the one they pierced.",
+      "provenance": "https://catena.wrootpress.com/matthew#p-24.6"
+    },
+    {
+      "source": {
+        "refKey": "Hab.2.3",
+        "refDisplay": "Habakkuk 2:3"
+      },
+      "citing": {
+        "refKey": "Matt.25.1-Matt.25.13",
+        "refDisplay": "Matthew 25:1–13"
+      },
+      "hebrewText": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
+      "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry.",
+      "note": "'Though it tarry, wait for it; because it will surely come, it will not delay' frames the theme of the bridegroom's delay (v.5) and the call to keep ready through the apparent postponement of the appointed time.",
+      "provenance": "https://catena.wrootpress.com/matthew#p-25.1"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Mark.1.1-Mark.1.1",
+        "refDisplay": "Mark 1:1–1"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "The Servant 'anointed to bring good news' supplies another Isaianic root for Mark's euangelion. Verbal contact is faint here and the link is largely thematic; included for maximal coverage because Mark's Jesus is the Spirit-anointed herald (cf. 1:10).",
+      "provenance": "https://catena.wrootpress.com/mark#p-1.1"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1-Isa.61.2",
+        "refDisplay": "Isaiah 61:1–2"
+      },
+      "citing": {
+        "refKey": "Mark.1.14-Mark.1.15",
+        "refDisplay": "Mark 1:14–15"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound; to proclaim the year of Yahweh’s favor, and the day of vengeance of our God; to comfort all who mourn;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind; to declare the acceptable year of the Lord, and the day of recompence; to comfort all that mourn;",
+      "note": "'The time is fulfilled' resonates with Isaiah 61:2's 'the acceptable year of the LORD,' the proclamation of the eschatological jubilee by the Spirit-anointed herald (cf. Jesus' anointing at 1:10). Volume is moderate on the 'favorable/fulfilled time' motif; coherence with the gospel-of-God framing is good, though Mark does not quote it as Luke does.",
+      "provenance": "https://catena.wrootpress.com/mark#p-1.5"
+    },
+    {
+      "source": {
+        "refKey": "Isa.29.13",
+        "refDisplay": "Isaiah 29:13"
+      },
+      "citing": {
+        "refKey": "Mark.7.6-Mark.7.13",
+        "refDisplay": "Mark 7:6–13"
+      },
+      "hebrewText": "The Lord said, “Because this people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;",
+      "lxxText": "And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men.",
+      "note": "Formal citation introduced 'as it is written': 'This people honors me with their lips, but their heart is far from me; in vain do they worship me, teaching as doctrines the commandments of men.' Mark follows the LXX, whose 'teaching as doctrines the commandments of men' supplies the polemical hinge against human tradition that the Hebrew lacks. Maximal volume, recurrence, and thematic coherence; this is the load-bearing OT text of the pericope.",
+      "provenance": "https://catena.wrootpress.com/mark#p-7.2"
+    },
+    {
+      "source": {
+        "refKey": "Zech.12.10-Zech.12.14",
+        "refDisplay": "Zechariah 12:10–14"
+      },
+      "citing": {
+        "refKey": "Mark.13.24-Mark.13.27",
+        "refDisplay": "Mark 13:24–27"
+      },
+      "hebrewText": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn. In that day there will be a great mourning in Jerusalem, like the mourning of Hadadrimmon in the valley of Megiddon. The land will mourn, every family apart; the family of the house of […]",
+      "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son. In that day the lamentation in Jerusalem shall be very great, as the mourning for the pomegranate grove cut down in the plain. And the land shall lament in separate families, the […]",
+      "note": "'They will look on him whom they have pierced' and the mourning of the tribes lies behind 'they will see the Son of Man'; the seeing-and-mourning at the coming one is more explicit in Matthew 24:30 and Revelation 1:7 but may color Mark's 'they will see.' Faint in Mark, marked contested.",
+      "provenance": "https://catena.wrootpress.com/mark#p-13.7"
+    },
+    {
+      "source": {
+        "refKey": "Zech.12.10",
+        "refDisplay": "Zechariah 12:10"
+      },
+      "citing": {
+        "refKey": "Mark.14.62",
+        "refDisplay": "Mark 14:62"
+      },
+      "hebrewText": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.",
+      "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son.",
+      "note": "Zechariah's oracle that 'they shall look on him whom they have pierced' anticipates the council 'seeing' the vindicated Son of Man, a connection drawn explicitly elsewhere in the NT. The verb of seeing the rejected-yet-coming one resonates with Jesus' 'you will see,' lending an eschatological-recognition overtone.",
+      "provenance": "https://catena.wrootpress.com/mark#p-14.15"
+    },
+    {
+      "source": {
+        "refKey": "Zech.12.10",
+        "refDisplay": "Zechariah 12:10"
+      },
+      "citing": {
+        "refKey": "Mark.15.16-Mark.15.20",
+        "refDisplay": "Mark 15:16–20"
+      },
+      "hebrewText": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.",
+      "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son.",
+      "note": "The piercing thorn-crown and abuse of the one who is 'King' faintly anticipate Zechariah's 'they shall look on me whom they have pierced' and the mourning for a smitten royal figure. The link is thematic and contested, resting on the broader Zecharian shepherd-king matrix Mark uses elsewhere.",
+      "provenance": "https://catena.wrootpress.com/mark#p-15.3"
+    },
+    {
+      "source": {
+        "refKey": "Zech.12.10",
+        "refDisplay": "Zechariah 12:10"
+      },
+      "citing": {
+        "refKey": "Luke.2.25-Luke.2.35",
+        "refDisplay": "Luke 2:25–35"
+      },
+      "hebrewText": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.",
+      "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son.",
+      "note": "The piercing 'sword' anticipating grief over the child has been read against Zechariah's 'they shall look on me whom they have pierced, and mourn,' associated with a future piercing of the LORD's chosen. The piercing-and-mourning link is suggestive but indirect here, hence a contested faint echo.",
+      "provenance": "https://catena.wrootpress.com/luke#p-2.6"
+    },
+    {
+      "source": {
+        "refKey": "Isa.40.3-Isa.40.5",
+        "refDisplay": "Isaiah 40:3–5"
+      },
+      "citing": {
+        "refKey": "Luke.3.3-Luke.3.6",
+        "refDisplay": "Luke 3:3–6"
+      },
+      "hebrewText": "The voice of one who calls out, “Prepare the way of Yahweh in the wilderness! Make a level highway in the desert for our God. Every valley shall be exalted, and every mountain and hill shall be made low. The uneven shall be made level, and the rough places a plain. Yahweh’s glory shall be revealed, and all flesh shall see it together; for the mouth of Yahweh has spoken it.”",
+      "lxxText": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make straight the paths of our God. Every valley shall be filled, and every mountain and hill shall be brought low: and all the crooked ways shall become straight, and the rough places plains. And the glory of the Lord shall appear, and all flesh shall see the salvation of God: for the Lord has spoken it.",
+      "note": "Luke gives the fullest NT citation of Isaiah 40:3-5, uniquely extending the quotation through v.5 to \"all flesh shall see the salvation of God,\" following the LXX (which reads \"the salvation of God\" where MT has \"the glory of the LORD\"). The explicit citation formula (\"as it is written in the book of the words of Isaiah\") and verbatim LXX wording give maximal Volume; the extension serves Luke's universal-salvation theme.",
+      "provenance": "https://catena.wrootpress.com/luke#p-3.2"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Luke.4.14-Luke.4.15",
+        "refDisplay": "Luke 4:14–15"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "'Jesus returned in the power of the Spirit' anticipates the Spirit-anointing announced in the Nazareth quotation that follows (vv.18-19, Isa 61:1). Faint as a standalone allusion here but coherent with Luke's Spirit-Christology drawn from Isaiah.",
+      "provenance": "https://catena.wrootpress.com/luke#p-4.2"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1-Isa.61.2",
+        "refDisplay": "Isaiah 61:1–2"
+      },
+      "citing": {
+        "refKey": "Luke.4.16-Luke.4.21",
+        "refDisplay": "Luke 4:16–21"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound; to proclaim the year of Yahweh’s favor, and the day of vengeance of our God; to comfort all who mourn;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind; to declare the acceptable year of the Lord, and the day of recompence; to comfort all that mourn;",
+      "note": "The Nazareth scroll reading 'The Spirit of the Lord is on me, because he has anointed me to preach good news to the poor... release to the captives... recovering of sight to the blind... to proclaim the acceptable year of the Lord' is a formal citation of Isaiah 61:1-2 (LXX). Highest Volume in the chapter; explicitly introduced as 'the book of the prophet Isaiah.'",
+      "provenance": "https://catena.wrootpress.com/luke#p-4.3"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Luke.4.42-Luke.4.44",
+        "refDisplay": "Luke 4:42–44"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "'I must preach the good news of the Kingdom of God... for this reason I have been sent' echoes the commissioning of the Isaiah 61:1 herald ('he has sent me to preach good news') that opened the chapter. Inclusio-like Recurrence binding the chapter to its Isaianic program; faint as a standalone allusion.",
+      "provenance": "https://catena.wrootpress.com/luke#p-4.9"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1-Isa.61.3",
+        "refDisplay": "Isaiah 61:1–3"
+      },
+      "citing": {
+        "refKey": "Luke.6.20-Luke.6.23",
+        "refDisplay": "Luke 6:20–23"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound; to proclaim the year of Yahweh’s favor, and the day of vengeance of our God; to comfort all who mourn; to appoint to those who mourn in Zion, to give to them a garland for ashes, the oil of joy for mourning, the garment of praise for the spirit of […]",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind; to declare the acceptable year of the Lord, and the day of recompence; to comfort all that mourn; that there should be given to them that mourn in Sion glory instead of ashes, the oil of joy to the mourners, the garment of glory for the spirit of heaviness: and […]",
+      "note": "The beatitudes for the poor, the mourning (who will laugh/rejoice), and the comforted directly draw on Isaiah's good-news-to-the-poor and comfort-for-mourners, which Luke programmatically makes Jesus' manifesto (cf. Luke 4:18). High Volume, Recurrence in Luke, and strong Coherence.",
+      "provenance": "https://catena.wrootpress.com/luke#p-6.5"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Luke.7.18-Luke.7.23",
+        "refDisplay": "Luke 7:18–23"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "The climactic 'the poor have good news preached to them' cites Isaiah 61:1, the same text Jesus reads as his manifesto in Luke 4:18. Its placement as the answer's capstone and its recurrence across Luke make this the interpretive key: Jesus identifies himself as the anointed herald of Isaiah's jubilee.",
+      "provenance": "https://catena.wrootpress.com/luke#p-7.3"
+    },
+    {
+      "source": {
+        "refKey": "Ps.51.4",
+        "refDisplay": "Psalm 51:4"
+      },
+      "citing": {
+        "refKey": "Luke.15.17-Luke.15.19",
+        "refDisplay": "Luke 15:17–19"
+      },
+      "hebrewText": "Against you, and you only, have I sinned, and done that which is evil in your sight; that you may be proved right when you speak, and justified when you judge.",
+      "lxxText": "Against thee only have I sinned, and done evil before thee: that thou mightest be justified in thy sayings, and mightest overcome when thou art judged.",
+      "note": "'Against you, you only, have I sinned, and done what is evil in your sight' supplies the language of sinning before God's sight that the son rehearses. As the paradigmatic penitential psalm it carries high recurrence in Jewish repentance piety, cohering with Luke's repentance theme (vv.7,10). Distinctive 'in your sight' overlap.",
+      "provenance": "https://catena.wrootpress.com/luke#p-15.5"
+    },
+    {
+      "source": {
+        "refKey": "Hab.2.3",
+        "refDisplay": "Habakkuk 2:3"
+      },
+      "citing": {
+        "refKey": "Luke.18.1-Luke.18.8",
+        "refDisplay": "Luke 18:1–8"
+      },
+      "hebrewText": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
+      "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry.",
+      "note": "Habakkuk promises the vision awaits its appointed time, hastens to the end, will not lie, and 'though it delay, wait for it.' The parable's tension between God's apparent patience/delay and his coming swift vindication, capped by 'when the Son of Man comes,' resonates with this eschatological delay-yet-certain motif. Coherent with Luke's vindication eschatology.",
+      "provenance": "https://catena.wrootpress.com/luke#p-18.1"
+    },
+    {
+      "source": {
+        "refKey": "Prov.3.34",
+        "refDisplay": "Proverbs 3:34"
+      },
+      "citing": {
+        "refKey": "Luke.18.9-Luke.18.14",
+        "refDisplay": "Luke 18:9–14"
+      },
+      "hebrewText": "Surely he mocks the mockers, but he gives grace to the humble.",
+      "lxxText": "The Lord resists the proud; but he gives grace to the humble.",
+      "note": "The maxim 'God resists the proud but gives grace to the humble' underwrites the closing logion that the self-exalting are humbled and the self-humbling exalted. The Pharisee's proud self-display versus the tax collector's lowliness is precisely this proverb's contrast, and the LXX wording was a standard Second-Temple proof text. Strong coherence with Luke's reversal theme.",
+      "provenance": "https://catena.wrootpress.com/luke#p-18.2"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Luke.18.35-Luke.18.43",
+        "refDisplay": "Luke 18:35–43"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "The Servant anointed to proclaim 'recovery of sight to the blind' (so the LXX, taken up at Luke 4:18) faintly underlies the Jericho restoration as fulfillment of the Jubilee announcement. Faint here, strong in Luke overall. Low confidence.",
+      "provenance": "https://catena.wrootpress.com/luke#p-18.7"
+    },
+    {
+      "source": {
+        "refKey": "Zech.12.10-Zech.12.12",
+        "refDisplay": "Zechariah 12:10–12"
+      },
+      "citing": {
+        "refKey": "Luke.23.27-Luke.23.31",
+        "refDisplay": "Luke 23:27–31"
+      },
+      "hebrewText": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn. In that day there will be a great mourning in Jerusalem, like the mourning of Hadadrimmon in the valley of Megiddon. The land will mourn, every family apart; the family of the house of […]",
+      "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son. In that day the lamentation in Jerusalem shall be very great, as the mourning for the pomegranate grove cut down in the plain. And the land shall lament in separate families, the […]",
+      "note": "Mourning by the inhabitants of Jerusalem 'family by family' over the one they pierced may color the weeping daughters of Jerusalem. The link is thematic (Jerusalem's mourning) rather than verbal; offered faintly.",
+      "provenance": "https://catena.wrootpress.com/luke#p-23.5"
+    },
+    {
+      "source": {
+        "refKey": "Zech.12.10",
+        "refDisplay": "Zechariah 12:10"
+      },
+      "citing": {
+        "refKey": "Luke.23.47-Luke.23.49",
+        "refDisplay": "Luke 23:47–49"
+      },
+      "hebrewText": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.",
+      "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son.",
+      "note": "The multitudes 'beating their breasts' over the crucified one resonates with the mourning of Zechariah 12:10-12, 'they shall look on him whom they pierced and mourn.' Luke's repentant breast-beating crowd (cf. 18:13) faintly draws on this Jerusalem-mourning prophecy.",
+      "provenance": "https://catena.wrootpress.com/luke#p-23.11"
+    },
+    {
+      "source": {
+        "refKey": "Hab.1.5",
+        "refDisplay": "Habakkuk 1:5"
+      },
+      "citing": {
+        "refKey": "John.8.48-John.8.59",
+        "refDisplay": "John 8:48–59"
+      },
+      "hebrewText": "“Look among the nations, watch, and wonder marvelously; for I am working a work in your days, which you will not believe though it is told you.",
+      "lxxText": "Behold, ye despisers, and look, and wonder marvelously, and vanish: for I work a work in your days, which ye will in no wise believe, though a man declare it to you.",
+      "note": "The prophets dying yet the patriarch's hope of seeing God's 'day' resonates faintly with prophetic 'in your days' announcements of a work to be marveled at. Highly contested and low Volume; included only for maximal coverage of the 'see my day' language.",
+      "provenance": "https://catena.wrootpress.com/john#p-8.5"
+    },
+    {
+      "source": {
+        "refKey": "Zech.12.10",
+        "refDisplay": "Zechariah 12:10"
+      },
+      "citing": {
+        "refKey": "John.19.31-John.19.37",
+        "refDisplay": "John 19:31–37"
+      },
+      "hebrewText": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.",
+      "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son.",
+      "note": "'They will look on him whom they pierced,' the second explicit fulfillment formula, cites the mourning over the pierced one in Zechariah. John follows a textual tradition reading 'pierced' (cf. Rev 1:7); high volume and the climactic citation.",
+      "provenance": "https://catena.wrootpress.com/john#p-19.10"
+    },
+    {
+      "source": {
+        "refKey": "Amos.9.11-Amos.9.12",
+        "refDisplay": "Amos 9:11–12"
+      },
+      "citing": {
+        "refKey": "Acts.1.6-Acts.1.8",
+        "refDisplay": "Acts 1:6–8"
+      },
+      "hebrewText": "In that day I will raise up the tent of David who is fallen, and close up its breaches, and I will raise up its ruins, and I will build it as in the days of old; that they may possess the remnant of Edom, and all the nations who are called by my name,” says Yahweh who does this.",
+      "lxxText": "In that day I will raise up the tabernacle of David that is fallen, and will rebuild the ruins of it, and will set up the parts thereof that have been broken down, and will build it up as in the ancient days: that the remnant of men, and all the Gentiles upon whom my name is called, may earnestly seek me, saith the Lord who does all these things.",
+      "note": "The apostles' question, 'are you now restoring the kingdom to Israel?', sits atop the prophetic hope of the rebuilt 'booth of David' that the remnant and the nations might seek the Lord. Volume: no shared wording here. Recurrence: notable — Luke quotes Amos 9:11-12 at the Jerusalem council (Acts 15:16-17) precisely to interpret how the restored Davidic kingdom includes the nations, which is exactly the tension between v.6 (Israel) and v.8 (the earth). Thematic coherence good; low confidence because the link is conceptual and back-referenced rather than verbal here.",
+      "provenance": "https://catena.wrootpress.com/acts#p-1.2"
+    },
+    {
+      "source": {
+        "refKey": "Zech.12.10",
+        "refDisplay": "Zechariah 12:10"
+      },
+      "citing": {
+        "refKey": "Acts.2.37-Acts.2.41",
+        "refDisplay": "Acts 2:37–41"
+      },
+      "hebrewText": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.",
+      "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son.",
+      "note": "Being 'cut to the heart' (katenygēsan, v.37) on recognizing the one they crucified resonates with Zechariah's promise that they will 'look on him whom they pierced' and mourn. Low verbal volume (different roots), but thematic coherence (contrition over the slain/pierced one) is suggestive; contested.",
+      "provenance": "https://catena.wrootpress.com/acts#p-2.6"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Acts.4.23-Acts.4.31",
+        "refDisplay": "Acts 4:23–31"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "'Your holy servant Jesus, whom you anointed' (v.27) may also evoke Isa 61:1, 'the Spirit of the Lord is upon me, because he has anointed me,' the Servant's Spirit-anointing for proclamation — coherent with the anointed-Servant motif but without verbal borrowing here. Low and contested.",
+      "provenance": "https://catena.wrootpress.com/acts#p-4.4"
+    },
+    {
+      "source": {
+        "refKey": "Amos.5.25",
+        "refDisplay": "Amos 5:25"
+      },
+      "citing": {
+        "refKey": "Acts.7.35-Acts.7.43",
+        "refDisplay": "Acts 7:35–43"
+      },
+      "hebrewText": "“Did you bring to me sacrifices and offerings in the wilderness forty years, house of Israel?",
+      "lxxText": "Have ye offered to me victims and sacrifices, O house of Israel, forty years in the wilderness?",
+      "note": "'Did you offer to me slain animals and sacrifices forty years in the wilderness, O house of Israel?' is a direct citation of Amos following the Septuagint.",
+      "provenance": "https://catena.wrootpress.com/acts#p-7.6"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Acts.10.34-Acts.10.43",
+        "refDisplay": "Acts 10:34–43"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "'God anointed him with the Holy Spirit and with power, who went about doing good' reflects 'the Spirit of the Lord GOD is upon me, because the LORD has anointed me' to bring good news and release. The Spirit-anointing summary of Jesus' ministry draws on this servant text. High coherence.",
+      "provenance": "https://catena.wrootpress.com/acts#p-10.5"
+    },
+    {
+      "source": {
+        "refKey": "Hab.1.5",
+        "refDisplay": "Habakkuk 1:5"
+      },
+      "citing": {
+        "refKey": "Acts.13.38-Acts.13.41",
+        "refDisplay": "Acts 13:38–41"
+      },
+      "hebrewText": "“Look among the nations, watch, and wonder marvelously; for I am working a work in your days, which you will not believe though it is told you.",
+      "lxxText": "Behold, ye despisers, and look, and wonder marvelously, and vanish: for I work a work in your days, which ye will in no wise believe, though a man declare it to you.",
+      "note": "'Behold, you scoffers, and wonder, and perish; for I work a work in your days, a work you will not believe though one declares it' is quoted verbatim (LXX, 'scoffers/despisers') as the prophetic warning closing the sermon. Explicit citation, maximal volume.",
+      "provenance": "https://catena.wrootpress.com/acts#p-13.8"
+    },
+    {
+      "source": {
+        "refKey": "Amos.9.11-Amos.9.12",
+        "refDisplay": "Amos 9:11–12"
+      },
+      "citing": {
+        "refKey": "Acts.15.12-Acts.15.21",
+        "refDisplay": "Acts 15:12–21"
+      },
+      "hebrewText": "In that day I will raise up the tent of David who is fallen, and close up its breaches, and I will raise up its ruins, and I will build it as in the days of old; that they may possess the remnant of Edom, and all the nations who are called by my name,” says Yahweh who does this.",
+      "lxxText": "In that day I will raise up the tabernacle of David that is fallen, and will rebuild the ruins of it, and will set up the parts thereof that have been broken down, and will build it up as in the ancient days: that the remnant of men, and all the Gentiles upon whom my name is called, may earnestly seek me, saith the Lord who does all these things.",
+      "note": "James's formal scriptural proof (vv.16-17): 'I will... build the tabernacle of David which has fallen... that the rest of men may seek after the Lord, all the Gentiles who are called by my name.' This follows the Septuagint against the Hebrew: MT 'that they may possess the remnant of Edom' becomes LXX 'that the rest of mankind may seek' (Heb. yireshu 'possess' read as yidreshu 'seek'; 'Edom' read as 'adam, mankind) — the very reading that makes Gentile inclusion the prophetic point. Highest volume and decisive function in the argument.",
+      "provenance": "https://catena.wrootpress.com/acts#p-15.3"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Acts.26.16-Acts.26.18",
+        "refDisplay": "Acts 26:16–18"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "The cluster 'open their eyes... receive remission of sins' faintly recalls the Servant-Anointed's mission to proclaim liberty to captives and opening of the prison — release and forgiveness as the substance of the sent one's task.",
+      "provenance": "https://catena.wrootpress.com/acts#p-26.5"
+    },
+    {
+      "source": {
+        "refKey": "Hab.2.3",
+        "refDisplay": "Habakkuk 2:3"
+      },
+      "citing": {
+        "refKey": "Rom.1.1-Rom.1.7",
+        "refDisplay": "Romans 1:1–7"
+      },
+      "hebrewText": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
+      "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry.",
+      "note": "The gospel 'promised before' (v.2) and the apostolic 'set apart' echo the prophetic-promise schema; faint thematic link to the awaited word that surely comes. Low volume, no verbal borrowing here, but coheres with the Hab 2:4 citation in 1:17.",
+      "provenance": "https://catena.wrootpress.com/romans#p-1.1"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Rom.1.1-Rom.1.7",
+        "refDisplay": "Romans 1:1–7"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "Set-apart, Spirit-anointed proclamation of good news. Faint; supports the euangelizo background but little distinctive verbal contact.",
+      "provenance": "https://catena.wrootpress.com/romans#p-1.1"
+    },
+    {
+      "source": {
+        "refKey": "Ps.51.4",
+        "refDisplay": "Psalm 51:4"
+      },
+      "citing": {
+        "refKey": "Rom.3.1-Rom.3.8",
+        "refDisplay": "Romans 3:1–8"
+      },
+      "hebrewText": "Against you, and you only, have I sinned, and done that which is evil in your sight; that you may be proved right when you speak, and justified when you judge.",
+      "lxxText": "Against thee only have I sinned, and done evil before thee: that thou mightest be justified in thy sayings, and mightest overcome when thou art judged.",
+      "note": "Verbatim citation introduced by 'as it is written' in 3:4: 'that you might be justified in your words, and might prevail when you come into judgment' = LXX Psalm 50:6, David's confession in the Miserere. Paul deploys it to vindicate God's righteousness against human faithlessness: God is justified (proven right) precisely when humans are shown liars.",
+      "provenance": "https://catena.wrootpress.com/romans#p-3.1"
+    },
+    {
+      "source": {
+        "refKey": "Prov.3.34",
+        "refDisplay": "Proverbs 3:34"
+      },
+      "citing": {
+        "refKey": "Rom.12.9-Rom.12.21",
+        "refDisplay": "Romans 12:9–21"
+      },
+      "hebrewText": "Surely he mocks the mockers, but he gives grace to the humble.",
+      "lxxText": "The Lord resists the proud; but he gives grace to the humble.",
+      "note": "'God resists the proud but gives grace to the humble' undergirds 'associate with the humble; do not be high-minded' (12:16); the humility motif is the same wisdom orientation James and 1 Peter also draw from this verse.",
+      "provenance": "https://catena.wrootpress.com/romans#p-12.3"
+    },
+    {
+      "source": {
+        "refKey": "Deut.32.43",
+        "refDisplay": "Deuteronomy 32:43"
+      },
+      "citing": {
+        "refKey": "Rom.15.7-Rom.15.13",
+        "refDisplay": "Romans 15:7–13"
+      },
+      "hebrewText": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
+      "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people.",
+      "note": "Second link (15:10), formula-introduced ('Again he says'): 'Rejoice, you Gentiles, with his people.' Follows the longer LXX/Qumran (4QDeut) text of the Song of Moses, where the nations are summoned to rejoice WITH Israel — exactly the with-his-people inclusion Paul needs. High volume; the Song of Moses is a recurring witness to the nations' destiny.",
+      "provenance": "https://catena.wrootpress.com/romans#p-15.2"
+    },
+    {
+      "source": {
+        "refKey": "Hab.1.5",
+        "refDisplay": "Habakkuk 1:5"
+      },
+      "citing": {
+        "refKey": "1Cor.1.18-1Cor.1.25",
+        "refDisplay": "1 Corinthians 1:18–25"
+      },
+      "hebrewText": "“Look among the nations, watch, and wonder marvelously; for I am working a work in your days, which you will not believe though it is told you.",
+      "lxxText": "Behold, ye despisers, and look, and wonder marvelously, and vanish: for I work a work in your days, which ye will in no wise believe, though a man declare it to you.",
+      "note": "'I am doing a work in your days that you would not believe if told' offers a scriptural template for God accomplishing salvation through means the wise reject as incredible. The thematic coherence with the cross as God's unbelievable 'good pleasure' is suggestive, but the verbal link is faint.",
+      "provenance": "https://catena.wrootpress.com/1-corinthians#p-1.4"
+    },
+    {
+      "source": {
+        "refKey": "Ps.2.9",
+        "refDisplay": "Psalm 2:9"
+      },
+      "citing": {
+        "refKey": "1Cor.4.14-1Cor.4.21",
+        "refDisplay": "1 Corinthians 4:14–21"
+      },
+      "hebrewText": "You shall break them with a rod of iron. You shall dash them in pieces like a potter’s vessel.”",
+      "lxxText": "Thou shalt rule them with a rod of iron; thou shalt dash them in pieces as a potter's vessel.",
+      "note": "The messianic 'rod of iron' with which the king may break the nations could color Paul's threatened apostolic 'rod' (v.21), framing his authority in quasi-royal terms. Contested and faint: the immediate background is paternal/wisdom discipline, not royal judgment, so the Psalm 2 register is a possible overtone at best.",
+      "provenance": "https://catena.wrootpress.com/1-corinthians#p-4.4"
+    },
+    {
+      "source": {
+        "refKey": "Prov.3.11-Prov.3.12",
+        "refDisplay": "Proverbs 3:11–12"
+      },
+      "citing": {
+        "refKey": "1Cor.11.27-1Cor.11.34",
+        "refDisplay": "1 Corinthians 11:27–34"
+      },
+      "hebrewText": "My son, don’t despise Yahweh’s discipline, neither be weary of his reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.",
+      "lxxText": "My son, despise not the chastening of the Lord; nor faint when thou art rebuked of him: for whom the Lord loves, he rebukes, and scourges every son whom he receives.",
+      "note": "Being 'punished by the Lord' so as not to be condemned (v.32) echoes 'do not despise the Lord's discipline... for the Lord reproves him whom he loves.' Strong coherence with the fatherly-discipline theme; medium volume.",
+      "provenance": "https://catena.wrootpress.com/1-corinthians#p-11.4"
+    },
+    {
+      "source": {
+        "refKey": "Prov.22.8-Prov.22.9",
+        "refDisplay": "Proverbs 22:8–9"
+      },
+      "citing": {
+        "refKey": "2Cor.9.6-2Cor.9.7",
+        "refDisplay": "2 Corinthians 9:6–7"
+      },
+      "hebrewText": "He who sows wickedness reaps trouble, and the rod of his fury will be destroyed. He who has a generous eye will be blessed; for he shares his food with the poor.",
+      "lxxText": "He that sows wickedness shall reap troubles; and shall fully receive the punishment of his deeds. God loves a cheerful and liberal man; but a man shall fully prove the folly of his works. He that has pity on the poor shall himself be maintained; for he has given of his own bread to the poor. He that gives liberally secures victory an honour; but he takes away the life of them that posses them.",
+      "note": "The sowing-and-reaping figure plus the 'bountiful eye' that is blessed for giving bread to the poor (22:8-9) supplies both halves of Paul's argument here and into v.7. The LXX expansion of 22:8 ('God blesses a cheerful man and a giver') is the most probable direct source of 'God loves a cheerful giver,' giving high recurrence and coherence across vv.6-7. Availability is secure since Paul cites Proverbs elsewhere.",
+      "provenance": "https://catena.wrootpress.com/2-corinthians#p-9.2"
+    },
+    {
+      "source": {
+        "refKey": "Prov.22.8",
+        "refDisplay": "Proverbs 22:8"
+      },
+      "citing": {
+        "refKey": "2Cor.9.6-2Cor.9.7",
+        "refDisplay": "2 Corinthians 9:6–7"
+      },
+      "hebrewText": "He who sows wickedness reaps trouble, and the rod of his fury will be destroyed.",
+      "lxxText": "He that sows wickedness shall reap troubles; and shall fully receive the punishment of his deeds. God loves a cheerful and liberal man; but a man shall fully prove the folly of his works.",
+      "note": "The clause 'God loves a cheerful giver' has no Hebrew counterpart but matches the Septuagintal plus to Proverbs 22:8b, 'God blesses a cheerful man and a giver,' nearly word for word in vocabulary (hilaron, didonta/doten). The verbal volume is high enough that most commentators treat this as Paul's source rather than free composition. The shift from 'blesses' to 'loves' is the only material variation.",
+      "provenance": "https://catena.wrootpress.com/2-corinthians#p-9.2"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Gal.5.1",
+        "refDisplay": "Galatians 5:1"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "The Servant's anointing 'to proclaim liberty to the captives' is a Second-Temple touchstone for eschatological release that Paul's freedom language may draw upon. Faint volume and no verbal quotation, but the messianic-liberty theme coheres with Christ as the agent who 'made us free.'",
+      "provenance": "https://catena.wrootpress.com/galatians#p-5.1"
+    },
+    {
+      "source": {
+        "refKey": "Prov.22.8",
+        "refDisplay": "Proverbs 22:8"
+      },
+      "citing": {
+        "refKey": "Gal.6.6-Gal.6.10",
+        "refDisplay": "Galatians 6:6–10"
+      },
+      "hebrewText": "He who sows wickedness reaps trouble, and the rod of his fury will be destroyed.",
+      "lxxText": "He that sows wickedness shall reap troubles; and shall fully receive the punishment of his deeds. God loves a cheerful and liberal man; but a man shall fully prove the folly of his works.",
+      "note": "\"Whoever sows injustice will reap calamity\" supplies the sapiential form of the maxim Paul cites in v.7. Volume is moderate and the proverb belongs to the same cluster as Job 4:8; coherence is high though no single source is quoted verbatim.",
+      "provenance": "https://catena.wrootpress.com/galatians#p-6.2"
+    },
+    {
+      "source": {
+        "refKey": "Ps.40.6",
+        "refDisplay": "Psalm 40:6"
+      },
+      "citing": {
+        "refKey": "Eph.5.1-Eph.5.2",
+        "refDisplay": "Ephesians 5:1–2"
+      },
+      "hebrewText": "Sacrifice and offering you didn’t desire. You have opened my ears. You have not required burnt offering and sin offering.",
+      "lxxText": "Sacrifice and offering thou wouldest not; but a body hast thou prepared me: whole-burnt-offering and sacrifice for sin thou didst not require.",
+      "note": "The contrast of obedient self-offering over against cultic sacrifice ('sacrifice and offering you did not desire') faintly colors Christ's acceptable self-gift. Low volume and contested, since Ephesians affirms rather than relativizes sacrifice; included for the offering/will-of-God nexus.",
+      "provenance": "https://catena.wrootpress.com/ephesians#p-5.1"
+    },
+    {
+      "source": {
+        "refKey": "Prov.3.11-Prov.3.12",
+        "refDisplay": "Proverbs 3:11–12"
+      },
+      "citing": {
+        "refKey": "Eph.6.1-Eph.6.4",
+        "refDisplay": "Ephesians 6:1–4"
+      },
+      "hebrewText": "My son, don’t despise Yahweh’s discipline, neither be weary of his reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.",
+      "lxxText": "My son, despise not the chastening of the Lord; nor faint when thou art rebuked of him: for whom the Lord loves, he rebukes, and scourges every son whom he receives.",
+      "note": "Fatherly 'discipline and instruction of the Lord' (paideia... kyriou, 6:4) echoes the wisdom tradition's language of the Lord's paideia of a son. Recurrence of paideia across Proverbs LXX supports coherence, though no single verse is quoted.",
+      "provenance": "https://catena.wrootpress.com/ephesians#p-6.1"
+    },
+    {
+      "source": {
+        "refKey": "Isa.29.13",
+        "refDisplay": "Isaiah 29:13"
+      },
+      "citing": {
+        "refKey": "Col.2.6-Col.2.8",
+        "refDisplay": "Colossians 2:6–8"
+      },
+      "hebrewText": "The Lord said, “Because this people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;",
+      "lxxText": "And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men.",
+      "note": "'After the tradition of men' (and the precepts of men in v.22) echoes Isaiah's indictment that the people's fear of God is a commandment of men taught by rote, the locus classicus for human tradition supplanting God's word. Recurrence within the chapter (v.22) and coherence with the polemic against the 'philosophy' strengthen the allusion.",
+      "provenance": "https://catena.wrootpress.com/colossians#p-2.3"
+    },
+    {
+      "source": {
+        "refKey": "Isa.29.13",
+        "refDisplay": "Isaiah 29:13"
+      },
+      "citing": {
+        "refKey": "Col.2.20-Col.2.23",
+        "refDisplay": "Colossians 2:20–23"
+      },
+      "hebrewText": "The Lord said, “Because this people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;",
+      "lxxText": "And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men.",
+      "note": "'According to the precepts and doctrines of men' renders Isaiah's 'their fear of me is a commandment of men taught by rote' (LXX: teaching the precepts/doctrines of men), the same phrase Jesus cites; the regulations 'don't handle, taste, touch' are these merely human precepts. High verbal volume and recurrence (cf. v.8) make this a near-quotation.",
+      "provenance": "https://catena.wrootpress.com/colossians#p-2.10"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "1Thess.1.4-1Thess.1.5",
+        "refDisplay": "1 Thessalonians 1:4–5"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "The gospel coming 'not in word only, but also in power and in the Holy Spirit' echoes the Spirit-anointed proclamation of good news (the LXX euangelisasthai with the Spirit of the Lord upon the herald). Coherence with Paul's evangel-in-Spirit is strong; verbal volume is moderate, supporting an echo of the Isaianic herald.",
+      "provenance": "https://catena.wrootpress.com/1-thessalonians#p-1.4"
+    },
+    {
+      "source": {
+        "refKey": "Hab.2.3",
+        "refDisplay": "Habakkuk 2:3"
+      },
+      "citing": {
+        "refKey": "2Thess.2.5-2Thess.2.7",
+        "refDisplay": "2 Thessalonians 2:5–7"
+      },
+      "hebrewText": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
+      "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry.",
+      "note": "The vision that 'awaits its appointed time' and will not delay may inform Paul's notion of the lawless one being revealed 'in his own season' and the present restraint. Conceptual parallel of an appointed eschatological moment.",
+      "provenance": "https://catena.wrootpress.com/2-thessalonians#p-2.3"
+    },
+    {
+      "source": {
+        "refKey": "Isa.29.13",
+        "refDisplay": "Isaiah 29:13"
+      },
+      "citing": {
+        "refKey": "2Tim.3.1-2Tim.3.9",
+        "refDisplay": "2 Timothy 3:1–9"
+      },
+      "hebrewText": "The Lord said, “Because this people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;",
+      "lxxText": "And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men.",
+      "note": "'Holding a form of godliness, but having denied its power' echoes the prophetic indictment of those who honor God with their lips while their heart is far from him, whose worship is merely a commandment of men. The hollow, powerless piety is the prophets' charge against false religion.",
+      "provenance": "https://catena.wrootpress.com/2-timothy#p-3.1"
+    },
+    {
+      "source": {
+        "refKey": "Isa.29.13",
+        "refDisplay": "Isaiah 29:13"
+      },
+      "citing": {
+        "refKey": "Titus.1.10-Titus.1.16",
+        "refDisplay": "Titus 1:10–16"
+      },
+      "hebrewText": "The Lord said, “Because this people draws near with their mouth and with their lips to honor me, but they have removed their heart far from me, and their fear of me is a commandment of men which has been taught;",
+      "lxxText": "And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men.",
+      "note": "Isaiah's people who 'draw near with their mouth… but have removed their heart far from me,' teaching 'the commandment of men,' stands behind both 'commandments of men who turn away from the truth' (1:14) and 'they profess that they know God, but by their works they deny him' (1:16). Lip-profession contradicted by life is the shared indictment.",
+      "provenance": "https://catena.wrootpress.com/titus#p-1.10"
+    },
+    {
+      "source": {
+        "refKey": "Prov.3.11-Prov.3.12",
+        "refDisplay": "Proverbs 3:11–12"
+      },
+      "citing": {
+        "refKey": "Titus.2.11-Titus.2.14",
+        "refDisplay": "Titus 2:11–14"
+      },
+      "hebrewText": "My son, don’t despise Yahweh’s discipline, neither be weary of his reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.",
+      "lxxText": "My son, despise not the chastening of the Lord; nor faint when thou art rebuked of him: for whom the Lord loves, he rebukes, and scourges every son whom he receives.",
+      "note": "Grace 'instructing/training us' (paideuō, v.12) to renounce ungodliness invokes the divine discipline tradition: the LORD chastens/instructs the one he loves as a father his son. The pedagogical grace of Titus is framed in this wisdom-discipline idiom.",
+      "provenance": "https://catena.wrootpress.com/titus#p-2.2"
+    },
+    {
+      "source": {
+        "refKey": "Deut.32.43",
+        "refDisplay": "Deuteronomy 32:43"
+      },
+      "citing": {
+        "refKey": "Heb.1.6",
+        "refDisplay": "Hebrews 1:6"
+      },
+      "hebrewText": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
+      "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people.",
+      "note": "A textual fork. The Hebrew of Deut 32:43 (‘Rejoice, you nations, with his people…’) has no such line; the clause exists only in the Septuagint the author read. Hays' first test — availability — in action: the Scripture available to him was the Greek Bible, and that is the text he quotes.",
+      "provenance": "https://catena.wrootpress.com/hebrews#p-1.3"
+    },
+    {
+      "source": {
+        "refKey": "Ps.97.7",
+        "refDisplay": "Psalm 97:7"
+      },
+      "citing": {
+        "refKey": "Heb.1.6",
+        "refDisplay": "Hebrews 1:6"
+      },
+      "hebrewText": "Let all them be shamed who serve engraved images, who boast in their idols. Worship him, all you gods!",
+      "lxxText": "Let all that worship graven images be ashamed, who boast of their idols; worship him, all ye his angels.",
+      "note": "The LXX of Ps 97:7 renders the Hebrew ‘all you gods (elohim)’ as ‘all his angels,’ giving the very clause Hebrews cites — hence many (Beale & Carson, NA28 margin) read Ps 97:7 LXX, not Deut 32:43, as the primary source. The WEB (Hebrew) shown here lacks the angelic wording; the divergence is the whole contest. A theophany-of-judgment psalm bent to the enthronement of the firstborn.",
+      "provenance": "https://catena.wrootpress.com/hebrews#p-1.3"
+    },
+    {
+      "source": {
+        "refKey": "Deut.32.43",
+        "refDisplay": "Deuteronomy 32:43"
+      },
+      "citing": {
+        "refKey": "Heb.1.6",
+        "refDisplay": "Hebrews 1:6"
+      },
+      "hebrewText": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
+      "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people.",
+      "note": "The Masoretic Hebrew of Deut 32:43 (shown here) shows what the Greek expanded: no command to worship and no angels. Included to mark the Hebrew-vs-LXX gap figurally — the Song of Moses' eschatological vindication is the frame into which the Greek tradition inserted the angelic homage Hebrews needs. Low volume; contested.",
+      "provenance": "https://catena.wrootpress.com/hebrews#p-1.3"
+    },
+    {
+      "source": {
+        "refKey": "Ps.104.4",
+        "refDisplay": "Psalm 104:4"
+      },
+      "citing": {
+        "refKey": "Heb.1.7",
+        "refDisplay": "Hebrews 1:7"
+      },
+      "hebrewText": "He makes his messengers winds; his servants flames of fire.",
+      "lxxText": "Who makes his angels spirits, and his ministers a flaming fire.",
+      "note": "A creation psalm. The Hebrew (here, WEB) reads ‘makes winds his messengers’; Hebrews follows the Greek word order — ‘makes his angels winds’ — bending the line toward angelology. The same reversible ambiguity the argument needs: angels are mutable servants, the Son is enthroned.",
+      "provenance": "https://catena.wrootpress.com/hebrews#p-1.4"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "Heb.1.8-Heb.1.9",
+        "refDisplay": "Hebrews 1:8–9"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "‘Has anointed you with the oil of gladness’ (v. 9) draws on the messianic-anointing register that Isa 61:1 made canonical for the title ‘Christ/anointed.’ Faint, no verbal volume — thematic coherence with the Son's anointing above his fellows.",
+      "provenance": "https://catena.wrootpress.com/hebrews#p-1.5"
+    },
+    {
+      "source": {
+        "refKey": "Ps.40.6-Ps.40.8",
+        "refDisplay": "Psalm 40:6–8"
+      },
+      "citing": {
+        "refKey": "Heb.10.1-Heb.10.10",
+        "refDisplay": "Hebrews 10:1–10"
+      },
+      "hebrewText": "Sacrifice and offering you didn’t desire. You have opened my ears. You have not required burnt offering and sin offering. Then I said, “Behold, I have come. It is written about me in the book in the scroll. I delight to do your will, my God. Yes, your law is within my heart.”",
+      "lxxText": "Sacrifice and offering thou wouldest not; but a body hast thou prepared me: whole-burnt-offering and sacrifice for sin thou didst not require. Then I said, Behold, I come: in the volume of the book it is written concerning me, I desired to do thy will, O my God, and thy law in the midst of mine heart.",
+      "note": "Another Greek/Hebrew fork, and the most consequential one. Where the Hebrew reads ‘ears you have opened (dug),’ the Septuagint that Hebrews quotes reads ‘a body you prepared for me’ — and on that ‘body’ the whole argument of the once-for-all bodily offering turns (v. 10). Availability again: the author's Bible was the Greek.",
+      "provenance": "https://catena.wrootpress.com/hebrews#p-10.1"
+    },
+    {
+      "source": {
+        "refKey": "Hab.2.3-Hab.2.4",
+        "refDisplay": "Habakkuk 2:3–4"
+      },
+      "citing": {
+        "refKey": "Heb.10.32-Heb.10.39",
+        "refDisplay": "Hebrews 10:32–39"
+      },
+      "hebrewText": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay. Behold, his soul is puffed up. It is not upright in him, but the righteous will live by his faith.",
+      "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry. If he should draw back, my soul has no pleasure in him: but the just shall live by my faith.",
+      "note": "‘The righteous will live by faith’ — Paul's great text (Rom 1:17; Gal 3:11) — here following the Greek, which adds ‘if he shrinks back, my soul has no pleasure in him.’ It is the hinge into chapter 11: faith defined, then paraded.",
+      "provenance": "https://catena.wrootpress.com/hebrews#p-10.5"
+    },
+    {
+      "source": {
+        "refKey": "Prov.3.11-Prov.3.12",
+        "refDisplay": "Proverbs 3:11–12"
+      },
+      "citing": {
+        "refKey": "Heb.12.5-Heb.12.13",
+        "refDisplay": "Hebrews 12:5–13"
+      },
+      "hebrewText": "My son, don’t despise Yahweh’s discipline, neither be weary of his reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.",
+      "lxxText": "My son, despise not the chastening of the Lord; nor faint when thou art rebuked of him: for whom the Lord loves, he rebukes, and scourges every son whom he receives.",
+      "note": "Wisdom's word on a father's discipline, applied to suffering: hardship is not God's absence but his fathering. The closing exhortation then borrows Isaiah's ‘strengthen the weak hands and feeble knees’ (Isa 35:3) and Proverbs' ‘make level paths’ (Prov 4:26).",
+      "provenance": "https://catena.wrootpress.com/hebrews#p-12.2"
+    },
+    {
+      "source": {
+        "refKey": "Prov.3.34",
+        "refDisplay": "Proverbs 3:34"
+      },
+      "citing": {
+        "refKey": "Jas.4.4-Jas.4.6",
+        "refDisplay": "James 4:4–6"
+      },
+      "hebrewText": "Surely he mocks the mockers, but he gives grace to the humble.",
+      "lxxText": "The Lord resists the proud; but he gives grace to the humble.",
+      "note": "James cites it with a formula ('therefore it says'): 'God opposes the proud but gives grace to the humble' reproduces the Septuagint of Proverbs 3:34 nearly verbatim (the Greek reads 'the Lord opposes the arrogant'). The same verse is cited at 1 Peter 5:5.",
+      "provenance": "https://catena.wrootpress.com/james#p-4.2"
+    },
+    {
+      "source": {
+        "refKey": "Prov.11.31",
+        "refDisplay": "Proverbs 11:31"
+      },
+      "citing": {
+        "refKey": "1Pet.4.12-1Pet.4.19",
+        "refDisplay": "1 Peter 4:12–19"
+      },
+      "hebrewText": "Behold, the righteous shall be repaid in the earth; how much more the wicked and the sinner!",
+      "lxxText": "If the righteous scarcely be saved, where shall the ungodly and the sinner appear?",
+      "note": "\"If it is hard for the righteous to be saved, what will happen to the ungodly and the sinner?\" (4:18) cites Proverbs 11:31 in its LXX form verbatim (the LXX renders the Hebrew as a saved/scarcely-saved a fortiori). Formula-cited proverb.",
+      "provenance": "https://catena.wrootpress.com/1-peter#p-4.3"
+    },
+    {
+      "source": {
+        "refKey": "Prov.3.34",
+        "refDisplay": "Proverbs 3:34"
+      },
+      "citing": {
+        "refKey": "1Pet.5.5-1Pet.5.11",
+        "refDisplay": "1 Peter 5:5–11"
+      },
+      "hebrewText": "Surely he mocks the mockers, but he gives grace to the humble.",
+      "lxxText": "The Lord resists the proud; but he gives grace to the humble.",
+      "note": "'God resists the proud, but gives grace to the humble' is a near-verbatim citation of Proverbs 3:34 LXX (which reads 'God' for MT 'he'/'the Lord'), introduced with proverbial authority; the same LXX form is quoted at James 4:6.",
+      "provenance": "https://catena.wrootpress.com/1-peter#p-5.2"
+    },
+    {
+      "source": {
+        "refKey": "Hab.2.3",
+        "refDisplay": "Habakkuk 2:3"
+      },
+      "citing": {
+        "refKey": "2Pet.3.8-2Pet.3.10",
+        "refDisplay": "2 Peter 3:8–10"
+      },
+      "hebrewText": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
+      "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry.",
+      "note": "'The Lord is not slow concerning his promise' answers the vision that 'awaits its appointed time… if it seems slow, wait for it; it will surely come.'",
+      "provenance": "https://catena.wrootpress.com/2-peter#p-3.2"
+    },
+    {
+      "source": {
+        "refKey": "Isa.61.1",
+        "refDisplay": "Isaiah 61:1"
+      },
+      "citing": {
+        "refKey": "1John.2.24-1John.2.27",
+        "refDisplay": "1 John 2:24–27"
+      },
+      "hebrewText": "The Spirit of the Lord Yahweh is on me; because Yahweh has anointed me to preach good news to the humble. He has sent me to bind up the broken hearted, to proclaim liberty to the captives, and release to those who are bound;",
+      "lxxText": "The Spirit of the Lord is upon me, because he has anointed me; he has sent me to preach glad tidings to the poor, to heal the broken in heart, to proclaim liberty to the captives, and recovery of sight to the blind;",
+      "note": "\"The Spirit of the Lord GOD is upon me, because the LORD has anointed me\" stands behind the believers' \"anointing from the Holy One.\" John democratizes the prophetic anointing of the Spirit so that all who abide are taught directly.",
+      "provenance": "https://catena.wrootpress.com/1-john#p-2.24"
+    },
+    {
+      "source": {
+        "refKey": "Zech.12.10",
+        "refDisplay": "Zechariah 12:10"
+      },
+      "citing": {
+        "refKey": "Rev.1.7-Rev.1.8",
+        "refDisplay": "Revelation 1:7–8"
+      },
+      "hebrewText": "I will pour on the house of David, and on the inhabitants of Jerusalem, the spirit of grace and of supplication; and they will look to me whom they have pierced; and they shall mourn for him, as one mourns for his only son, and will grieve bitterly for him, as one grieves for his firstborn.",
+      "lxxText": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son.",
+      "note": "'Those who pierced him' and 'all the tribes will mourn' weave together Zech 12:10's piercing and mourning. High verbal volume; John follows the Hebrew 'whom they pierced' (the LXX reads 'because they mocked/danced'), agreeing with John 19:37 against the LXX — a noted Hebrew-vs-LXX divergence.",
+      "provenance": "https://catena.wrootpress.com/revelation#p-1.3"
+    },
+    {
+      "source": {
+        "refKey": "Prov.3.11-Prov.3.12",
+        "refDisplay": "Proverbs 3:11–12"
+      },
+      "citing": {
+        "refKey": "Rev.3.14-Rev.3.22",
+        "refDisplay": "Revelation 3:14–22"
+      },
+      "hebrewText": "My son, don’t despise Yahweh’s discipline, neither be weary of his reproof: for whom Yahweh loves, he reproves; even as a father reproves the son in whom he delights.",
+      "lxxText": "My son, despise not the chastening of the Lord; nor faint when thou art rebuked of him: for whom the Lord loves, he rebukes, and scourges every son whom he receives.",
+      "note": "'Whom Yahweh loves, he reproves' — directly behind 3:19 'As many as I love, I reprove and chasten.' Very high verbal correspondence (love + reprove/discipline pairing). Rev tracks LXX Prov 3:12 (ὃν γὰρ ἀγαπᾷ κύριος παιδεύει), which Hebrews 12:5–6 also cites.",
+      "provenance": "https://catena.wrootpress.com/revelation#p-3.3"
+    },
+    {
+      "source": {
+        "refKey": "Deut.32.43",
+        "refDisplay": "Deuteronomy 32:43"
+      },
+      "citing": {
+        "refKey": "Rev.6.9-Rev.6.11",
+        "refDisplay": "Revelation 6:9–11"
+      },
+      "hebrewText": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
+      "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people.",
+      "note": "The Song of Moses promises that God will 'avenge the blood of his servants' and render vengeance on adversaries; the verbal core (avenge / blood / servants) is echoed directly in the martyrs' petition. LXX expands the blood-vengeance language, sharpening the parallel.",
+      "provenance": "https://catena.wrootpress.com/revelation#p-6.2"
+    },
+    {
+      "source": {
+        "refKey": "Hab.2.3",
+        "refDisplay": "Habakkuk 2:3"
+      },
+      "citing": {
+        "refKey": "Rev.10.4-Rev.10.7",
+        "refDisplay": "Revelation 10:4–7"
+      },
+      "hebrewText": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
+      "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry.",
+      "note": "'the vision... will not delay (lo yeacher)' / LXX 'it will not delay' underlies 'there will no longer be delay (chronos).' The LXX rendering with chronos/delay strengthens the verbal link; flagged LXX-vs-Hebrew (MT 'tarry', LXX delay) divergence.",
+      "provenance": "https://catena.wrootpress.com/revelation#p-10.2"
+    },
+    {
+      "source": {
+        "refKey": "Ps.2.9",
+        "refDisplay": "Psalm 2:9"
+      },
+      "citing": {
+        "refKey": "Rev.12.5-Rev.12.6",
+        "refDisplay": "Revelation 12:5–6"
+      },
+      "hebrewText": "You shall break them with a rod of iron. You shall dash them in pieces like a potter’s vessel.”",
+      "lxxText": "Thou shalt rule them with a rod of iron; thou shalt dash them in pieces as a potter's vessel.",
+      "note": "'You shall rule them with a rod of iron' — near-verbatim source for the male child who 'is to rule all the nations with a rod of iron' (poimanei en rhabdō sidēra). Rev follows LXX poimanei (shepherd/rule) over Hebrew tero'em (break). Repeated in Rev 2:27; 19:15.",
+      "provenance": "https://catena.wrootpress.com/revelation#p-12.2"
+    },
+    {
+      "source": {
+        "refKey": "Deut.32.43",
+        "refDisplay": "Deuteronomy 32:43"
+      },
+      "citing": {
+        "refKey": "Rev.16.1-Rev.16.7",
+        "refDisplay": "Revelation 16:1–7"
+      },
+      "hebrewText": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
+      "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people.",
+      "note": "Song of Moses: God 'avenges the blood of his servants.' The bowls as covenant vengeance for shed saintly blood; conceptual backbone of the 'they deserve this' verdict. LXX adds 'and will recompense.'",
+      "provenance": "https://catena.wrootpress.com/revelation#p-16.1"
+    },
+    {
+      "source": {
+        "refKey": "Deut.32.43",
+        "refDisplay": "Deuteronomy 32:43"
+      },
+      "citing": {
+        "refKey": "Rev.18.20-Rev.18.24",
+        "refDisplay": "Revelation 18:20–24"
+      },
+      "hebrewText": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
+      "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people.",
+      "note": "'Rejoice, O nations/heavens, with his people, for he avenges the blood of his servants' (LXX/4QDeut expanded) — the call for heaven to rejoice because God avenges his servants' blood parallels v.20 + v.24 (blood of prophets and saints avenged). Hays: thematic coherence; the vengeance-of-blood frame.",
+      "provenance": "https://catena.wrootpress.com/revelation#p-18.5"
+    },
+    {
+      "source": {
+        "refKey": "Deut.32.43",
+        "refDisplay": "Deuteronomy 32:43"
+      },
+      "citing": {
+        "refKey": "Rev.19.1-Rev.19.5",
+        "refDisplay": "Revelation 19:1–5"
+      },
+      "hebrewText": "Rejoice, you nations, with his people, for he will avenge the blood of his servants. He will take vengeance on his adversaries, and will make atonement for his land and for his people.",
+      "lxxText": "Rejoice, ye heavens, with him, and let all the angels of God worship him; rejoice ye Gentiles, with his people, and let all the sons of God strengthen themselves in him; for he will avenge the blood of his sons, and he will render vengeance, and recompense justice to his enemies, and will reward them that hate him; and the Lord shall purge the land of his people.",
+      "note": "Song of Moses: God 'avenges the blood of his servants' and 'renders vengeance to his adversaries' - the verbatim conceptual source of 'he has avenged the blood of his servants at her hand' (Rev 19:2). LXX expands with heavenly rejoicing, strengthening the link; cf. Rev 6:10. Volume + thematic coherence very high.",
+      "provenance": "https://catena.wrootpress.com/revelation#p-19.1"
+    },
+    {
+      "source": {
+        "refKey": "Ps.2.9",
+        "refDisplay": "Psalm 2:9"
+      },
+      "citing": {
+        "refKey": "Rev.19.14-Rev.19.16",
+        "refDisplay": "Revelation 19:14–16"
+      },
+      "hebrewText": "You shall break them with a rod of iron. You shall dash them in pieces like a potter’s vessel.”",
+      "lxxText": "Thou shalt rule them with a rod of iron; thou shalt dash them in pieces as a potter's vessel.",
+      "note": "'You shall break them with a rod of iron' - direct source of 'He will rule them with an iron rod' (Rev 19:15; cf. 2:27; 12:5). The MT reads 'break' (te-ro'em), the LXX 'shepherd/rule' (poimaneis); Rev follows the LXX 'rule/shepherd.' Flag MT-vs-LXX: John uses LXX poimaino.",
+      "provenance": "https://catena.wrootpress.com/revelation#p-19.4"
+    },
+    {
+      "source": {
+        "refKey": "Hab.2.3",
+        "refDisplay": "Habakkuk 2:3"
+      },
+      "citing": {
+        "refKey": "Rev.22.10-Rev.22.13",
+        "refDisplay": "Revelation 22:10–13"
+      },
+      "hebrewText": "For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it; because it will surely come. It won’t delay.",
+      "lxxText": "For the vision is yet for a time, and it shall shoot forth at the end, and not in vain: though he should tarry, wait for him; for he will surely come, and will not tarry.",
+      "note": "'The vision is yet for the appointed time... it will surely come, it will not delay' — supports 'the time is at hand' / 'I come quickly.' Faint, conceptual.",
+      "provenance": "https://catena.wrootpress.com/revelation#p-22.3"
+    }
+  ]
+}

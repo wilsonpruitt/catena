@@ -1,0 +1,43 @@
+{
+  "dataset": "Catena — the New Testament's use of the Old",
+  "kind": "manifest",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Wilson Pruitt / Wroot Press — catena.wrootpress.com",
+  "versification": "KJV/WEB",
+  "refKeyScheme": "OSIS osisRef",
+  "sourceCommit": "5c184f9",
+  "generated": "2026-06-30",
+  "extendedEchoes": 32,
+  "files": [
+    {
+      "name": "catena-echoes.jsonl",
+      "count": 9250,
+      "bytes": 7860013,
+      "desc": "Every echo as a typed, scored edge — one JSON object per line."
+    },
+    {
+      "name": "catena-fontium.json",
+      "count": 4531,
+      "bytes": 1896313,
+      "desc": "The inverted forward index: each source keyed to the New Testament places that reach for it."
+    },
+    {
+      "name": "catena-lxx-divergences.json",
+      "count": 81,
+      "bytes": 87543,
+      "desc": "Curated cases where the New Testament follows the Greek against the Hebrew."
+    },
+    {
+      "name": "README.md",
+      "count": null,
+      "bytes": 2727,
+      "desc": "Field reference, the dual-key scheme, and method."
+    },
+    {
+      "name": "LICENSE.txt",
+      "count": null,
+      "bytes": 824,
+      "desc": "CC BY-SA 4.0."
+    }
+  ]
+}

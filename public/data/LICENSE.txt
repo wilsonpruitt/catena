@@ -1,0 +1,18 @@
+Catena — open data
+Copyright (c) 2026 Wilson Pruitt / Wroot Press
+
+This dataset (the typed, confidence-scored echo identifications, editorial notes,
+and the inverted index) is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+You are free to share and adapt the material for any purpose, even commercially,
+under these terms:
+  - Attribution — credit "Wilson Pruitt / Wroot Press (catena.wrootpress.com)",
+    link the license, and indicate if changes were made.
+  - ShareAlike — if you remix or build upon the material, distribute your
+    contributions under the same license.
+
+Full legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+The underlying biblical text is the World English Bible (public domain).
