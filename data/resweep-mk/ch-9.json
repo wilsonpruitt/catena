@@ -1,0 +1,464 @@
+[
+  {
+    "id": "9.1",
+    "ch": 9,
+    "ref": "9:1",
+    "echoes": [
+      {
+        "source": "Daniel 7:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' promise that some standing here will see 'the Kingdom of God come with power' draws on Daniel's vision of dominion, glory, and an everlasting kingdom given to the one like a son of man. The conjunction of kingdom and divine power coheres with Daniel's eschatological enthronement scene. Recurrence of Danielic son-of-man and kingdom language throughout Mark strengthens the allusion.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:44",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The God of heaven setting up a kingdom that shall never be destroyed and that breaks all others supplies the apocalyptic backdrop for a kingdom arriving 'with power.' The volume is faint and the verbal overlap general, but the coherence with Mark's kingdom proclamation is real.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 52:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The good news that 'your God reigns' lies behind Markan kingdom-arrival language. The link to 9:1 specifically is faint and rests on the shared royal-reign theme rather than verbal contact.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.2",
+    "ch": 9,
+    "ref": "9:2-8",
+    "echoes": [
+      {
+        "source": "Exodus 24:16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Sinai theophany supplies Mark's frame: the glory of the LORD settled on the mountain, the cloud covered it six days, and on the seventh day God called to Moses out of the cloud. Mark's 'after six days,' the high mountain, the overshadowing cloud, and the voice from the cloud reproduce this cluster with high volume and tight coherence. The Transfiguration is staged as a new Sinai.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 24:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Moses goes up the mountain and the cloud covers it, the immediate setting for the giving of the covenant. Mark's ascent of three named companions onto a high mountain into a cloud reactivates this Sinai ascent. The recurrence of mountain-and-cloud theophany makes the availability and coherence criteria strong.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:29",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "When Moses came down from Sinai the skin of his face shone because he had talked with God, so that the people were afraid. Jesus' garments becoming dazzling white and the disciples' fear echo the transfigured radiance of Moses, while transposing the glory from reflected to inherent. The Moses-glory pattern is reinforced by Moses' actual presence on the mountain.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The LORD descended in the cloud and stood with Moses and proclaimed his name. The descending cloud and the divine voice in Mark cohere with this Sinai descent, reinforcing the Moses typology already active through Moses' appearance.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The heavenly voice 'This is my beloved Son' draws on the royal-enthronement decree 'You are my Son.' The divine sonship language frames Jesus as the messianic king. Recurrence of Psalm 2 at the baptism (Mark 1:11) and here establishes a Markan inclusio of divine attestation.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Moses promises a prophet like himself whom God will raise up, and commands 'to him you shall listen.' The heavenly 'Listen to him' verbally echoes this command, and the presence of Moses on the mountain makes the prophet-like-Moses identification pointed. Volume and coherence are both strong.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:1",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Behold my servant, my chosen, in whom my soul delights' stands behind the beloved-Son acclamation, blending servant election with sonship. The Markan voice fuses Psalm 2 royal sonship with Isaianic servant language. The servant motif coheres with the suffering Son of Man that immediately follows.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 22:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God's command to Abraham regarding 'your son, your only son, whom you love' supplies the Aqedah resonance behind 'my beloved Son.' The Greek agapetos echoes the Septuagint of Isaac, linking divine sonship to sacrificial offering, which coheres with Mark's passion theme. The connection is suggestive rather than verbally exact.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 4:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Elijah's appearance on the mountain activates the expectation that Elijah will come before the day of the LORD, made explicit in 9:11-13. His presence beside Moses pairs Law and Prophets as witnesses to Jesus. The motif is developed verbally in the following pericope.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The messenger sent to prepare the way contributes to the Elijah-forerunner complex evoked by Elijah's presence. The link here is indirect, mediated through Mark's broader Elijah typology.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 2:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Elijah's being taken up to heaven by chariot explains why he, like Moses (whose death and burial were hidden), is available to appear on the mountain rather than being among the dead. The translation traditions of both figures underwrite their eschatological reappearance. Coherence with Jewish expectation is strong though the verbal contact is nil.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 34:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Moses' death on Mount Nebo with no known grave fed traditions of his assumption, making his appearance alongside Elijah intelligible. The faint link supports the availability of Moses as a heavenly witness. It rests on later interpretive tradition rather than the text alone.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The clothing white as snow in Daniel's vision of the Ancient of Days lies behind Mark's description of garments dazzling white beyond any launderer's whitening. The apocalyptic-glory vocabulary transfers heavenly radiance onto Jesus. Volume is moderate and coheres with Mark's son-of-man Christology.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 16:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The glory of the LORD appearing in the cloud in the wilderness contributes to the cloud-glory motif overshadowing the disciples. The general theophanic cloud is shared, though Exodus 24 is the primary source. A faint reinforcing echo.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 23:42",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Peter's proposal to make three booths (skenai) may draw on the Feast of Booths command to dwell in temporary shelters, evoking eschatological feast and divine dwelling. The link is contested and may be incidental to Peter's confusion. If intended, it ties the theophany to Sukkot's hope of God's tabernacling presence.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 14:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Zechariah's vision of all nations keeping the Feast of Booths when the LORD becomes king supplies a possible eschatological-Sukkot backdrop to Peter's tents. The connection is faint and depends on reading the booths motif eschatologically. It coheres with the kingdom-with-power saying of 9:1.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.3",
+    "ch": 9,
+    "ref": "9:9-13",
+    "echoes": [
+      {
+        "source": "Malachi 4:5",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The scribal teaching that 'Elijah must come first' directly reflects Malachi's promise to send Elijah before the great and terrible day of the LORD. Jesus affirms and reinterprets this expectation, identifying the returned Elijah with John the Baptist. Verbal and thematic volume is high.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Elijah's task to 'turn the hearts' and so restore relationships underlies Jesus' phrase that Elijah 'restores all things.' The restoration motif is drawn directly from Malachi's commission. Coherence with the forerunner role is exact.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 48:10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Sirach interprets Malachi, saying Elijah is ready to calm wrath, turn the heart of the father to the son, and restore the tribes of Jacob. Jesus' wording that Elijah 'restores all things' tracks Sirach's restorationist gloss more closely than Malachi alone, demonstrating Second-Temple availability. This is a key deuterocanonical witness to the expectation Mark engages.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' question 'how is it written about the Son of Man, that he should suffer many things and be despised' draws on the servant who is despised and rejected by men. The suffering-and-despised pairing matches Isaiah's fourth servant song closely. Mark grounds the passion in this Scripture as 'written.'",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The servant who bears griefs and is esteemed stricken reinforces the 'suffer many things' clause. The vicarious-suffering theme coheres with Mark's repeated passion predictions. Volume is moderate alongside the stronger 53:3 contact.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The sufferer 'despised by the people' supplies a scriptural template for the Son of Man being 'despised.' Mark's passion narrative repeatedly draws on Psalm 22, making its recurrence a strong coherence indicator. The verbal contact on contempt strengthens the echo.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 19:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jezebel's threat to kill Elijah, who flees for his life, stands behind 'they have also done to him whatever they wanted,' applied to John the Baptist's persecution and death. The historical Elijah's suffering at royal hands prefigures the returned Elijah's fate. Coherence with the rejected-prophet pattern is strong.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 19:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah's lament that the Israelites have killed the prophets and seek his life reinforces the pattern that the forerunner suffers as the prophets did. The link to 'done to him whatever they wanted' is thematic. It supports reading John's death through an Elijah lens.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The title 'Son of Man,' twice used in this pericope, derives from Daniel's heavenly figure, here paradoxically joined to suffering. Mark fuses Danielic exaltation with Isaianic suffering. The recurrence of the title throughout Mark anchors the Danielic source.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 118:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The rejected stone supplies a scriptural pattern of the chosen one being despised and rejected, coherent with the Son of Man being 'set at nought.' Mark cites this psalm later (12:10), making its availability and recurrence plausible. The contact here is faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.4",
+    "ch": 9,
+    "ref": "9:14-29",
+    "echoes": [
+      {
+        "source": "Exodus 32:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus descending the mountain to find a disordered crowd and disputing scribes parallels Moses descending Sinai to find Israel corrupted around the golden calf. The 'faithless generation' rebuke echoes the wilderness apostasy. The narrative staging reinforces the Moses-on-the-mountain typology of the preceding scene.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 32:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' address 'O faithless generation' draws on the Song of Moses, which calls Israel a 'perverse and crooked generation' that has dealt corruptly and is not faithful. The generation-rebuke vocabulary is distinctively Deuteronomic. Mark frames the unbelieving crowd in covenant-lawsuit terms.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God hides his face from 'a perverse generation, children in whom is no faithfulness,' precisely the charge of faithlessness Jesus levels. The pairing of 'generation' with unbelief tracks this verse closely. It deepens the Song-of-Moses backdrop to the rebuke.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 14:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God's lament 'how long will this people despise me, and how long will they not believe' matches Jesus' double 'how long shall I be with you... how long shall I bear with you' aimed at unbelief. The wilderness-unbelief motif coheres with the faithless-generation theme. Volume is moderate.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 14:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's 'how long shall I bear with this evil congregation' supplies the bearing-with-unbelief vocabulary in Jesus' complaint. The wilderness murmuring pattern reinforces the Deuteronomy 32 frame. A faint reinforcing echo.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 22:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The boy 'like one dead' so that bystanders said 'He is dead,' followed by being raised up, faintly evokes the psalm of one poured out like water and brought to the dust of death yet vindicated. The death-to-life movement coheres with the resurrection foreshadowing of the chapter. Contact is thematic and low-volume.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 17:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah raising the widow's apparently dead son, after which the child revived, supplies an Elijah-resurrection template behind Jesus taking the boy by the hand and raising him so that he arose. Given the chapter's Elijah typology, the link has some coherence. Verbal contact is slight.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 4:34",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elisha reviving the Shunammite's dead son extends the prophetic resuscitation pattern that frames Jesus' raising of the boy. The motif of a prophet restoring a child reinforces the scene's prophetic resonance. The connection is faint and pattern-based.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.5",
+    "ch": 9,
+    "ref": "9:30-32",
+    "echoes": [
+      {
+        "source": "Isaiah 53:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Son of Man being 'handed over to the hands of men' echoes the servant whom the LORD delivered up for iniquity; the Septuagint's language of being given over underlies Mark's passion prediction. The vicarious handing-over coheres with Mark's Isaianic passion theme. Recurrence across the passion predictions strengthens it.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The servant 'poured out his soul to death' and 'was numbered with the transgressors,' having been delivered up. Mark's 'delivered into the hands of men... they will kill him' tracks the servant's being given over to death. The betrayal-and-death sequence aligns with the song's climax.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'After two days he will revive us; on the third day he will raise us up' is the most likely scriptural source for 'on the third day he will rise again.' The third-day resurrection timing coheres with the formulaic passion predictions. Volume is moderate; the verbal 'third day' contact is notable.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The title 'Son of Man' carries Danielic weight even when joined to betrayal and death, fusing exaltation with suffering. The recurrence across Mark's passion predictions establishes the Danielic source. Here the paradox of the heavenly figure killed is sharpest.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "9.6",
+    "ch": 9,
+    "ref": "9:33-37",
+    "echoes": [
+      {
+        "source": "Proverbs 16:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The dispute about who is greatest and Jesus' reversal that the first must be last and servant of all coheres with wisdom warnings that pride goes before destruction and humility precedes honor. The link is thematic rather than verbal. It situates the teaching in the OT wisdom reversal of status.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 15:33",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Before honor is humility' provides a wisdom backdrop to the last-shall-be-first saying and the embrace of the child. The contact is general and pattern-based. It reinforces the OT roots of Jesus' status reversal.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The servant who justifies many through humble service supplies a faint figural backdrop to 'servant of all.' The connection is thematic and depends on Mark's wider servant Christology. Low volume.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "9.7",
+    "ch": 9,
+    "ref": "9:38-41",
+    "echoes": [
+      {
+        "source": "Numbers 11:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "John's complaint about an outsider casting out demons in Jesus' name, and the demand to forbid him, closely parallels Joshua's plea that Moses forbid Eldad and Medad from prophesying outside the tent. Jesus' refusal to forbid mirrors Moses' magnanimous reply. The structural and thematic parallel is striking.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Joshua's 'My lord Moses, forbid them' is answered by Moses' wish that all the LORD's people were prophets. Mark casts the disciples as Joshua and Jesus as the larger-hearted Moses who will not restrict the Spirit's work. The parallel reinforces the Moses typology running through the chapter.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:29",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Moses' 'Would that all the LORD's people were prophets' anticipates Jesus' inclusive 'whoever is not against us is for us.' The generous expansion of authorized agency is shared. The echo completes the Eldad-and-Medad parallel.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "9.8",
+    "ch": 9,
+    "ref": "9:42-50",
+    "echoes": [
+      {
+        "source": "Isaiah 66:24",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The thrice-repeated 'where their worm does not die, and the fire is not quenched' is a near-verbatim quotation of Isaiah's closing vision of the corpses of rebels, an undying worm and unquenchable fire. This is the strongest OT contact in the chapter and supplies the imagery of Gehenna. The repetition underscores the volume and centrality.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 2:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Every sacrifice will be seasoned with salt' draws directly on the law that every grain offering be salted, never omitting the salt of the covenant. Mark's pairing of fire and salt with sacrifice reflects this cultic prescription. The verbal contact on salting the sacrifice is high.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 18:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'covenant of salt forever' between the LORD and the priests illuminates 'have salt in yourselves, and be at peace,' linking salt to enduring covenant fidelity. The covenant-of-salt motif undergirds the call to mutual peace. It strengthens the cultic-covenantal reading of the salt sayings.",
+        "contested": true
+      },
+      {
+        "source": "2 Chronicles 13:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The kingship given to David by 'a covenant of salt' reinforces salt as a symbol of permanent covenant, supporting Jesus' exhortation to keep salt and peace. The contact is general and reinforcing. It corroborates the covenant-of-salt background.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 43:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The priests casting salt on the offerings before the LORD adds to the salted-sacrifice background of 9:49. The cultic salting of offerings coheres with Mark's 'every sacrifice salted with salt.' A reinforcing low-volume echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 30:33",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Topheth prepared with fire and a great pile of wood, kindled by the breath of the LORD, contributes to the fiery-judgment imagery behind Gehenna and 'everyone salted with fire.' The link reinforces the burning-judgment theme. Volume is modest beside Isaiah 66.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 7:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The valley of the son of Hinnom (Ge-Hinnom), site of child sacrifice condemned by Jeremiah, is the geographical and historical root of 'Gehenna.' Mark's term presupposes this defiled valley as the image of fiery judgment. The connection is etymological and background rather than a verbal citation.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 19:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah renames Topheth the 'valley of slaughter,' deepening the Hinnom-valley associations behind Gehenna. The judgment-in-the-valley motif underlies Mark's hell imagery. A reinforcing background echo.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The resurrection of some to everlasting contempt provides an apocalyptic frame for the unending punishment evoked by the undying worm and unquenchable fire. The shame-and-punishment of the wicked coheres with Mark's warnings. The contact is thematic and reinforces the Isaiah 66 quotation.",
+        "contested": true
+      },
+      {
+        "source": "Judith 16:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Judith's hymn warns that the Lord will give fire and worms to the flesh of the nations, weeping in pain forever, a Second-Temple development of Isaiah 66:24. Its availability shows the worm-and-fire judgment circulating in the period Mark writes. It corroborates the deuterocanonical reception of the Isaiah imagery.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 13:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Bringing the remnant through the fire to refine them lies faintly behind 'everyone will be salted with fire,' if the fire is read as purifying rather than only punitive. The refining-fire motif coheres with a disciple-formation reading of the saying. Low volume and contested.",
+        "contested": true
+      }
+    ]
+  }
+]

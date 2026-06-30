@@ -1,0 +1,196 @@
+[
+  {
+    "id": "14.1",
+    "ch": 14,
+    "ref": "14:1-2",
+    "echoes": [
+      { "source": "Exodus 12:1-14", "type": "allusion", "confidence": "high", "note": "Mark times the whole Passion by 'the Passover and the unleavened bread,' invoking the foundational deliverance festival of Exodus 12 as the calendrical and theological frame. The recurrence of Passover language across the chapter (vv. 1, 12, 14, 16) raises the volume, and the coherence is total since Mark presents Jesus' death as a new exodus. The availability is secure as the institution narrative of Israel's central feast.", "contested": false },
+      { "source": "Psalm 2:2", "type": "echo", "confidence": "low", "note": "The chief priests and scribes who 'sought how they might seize him by deception, and kill him' enact the rulers who 'take counsel together against the Lord and against his anointed.' Mark has already cited Psalm 2 at the baptism, so recurrence supports a faint conspiratorial echo, though there is no verbal quotation here.", "contested": true },
+      { "source": "Psalm 31:13", "type": "echo", "confidence": "low", "note": "The plot to take Jesus' life 'by deception' resonates with the lament psalmist's complaint that his enemies 'scheme together against me, plotting to take my life.' The motif of conspiratorial counsel against the righteous sufferer belongs to the psalmic matrix Mark draws on throughout the Passion, but the link is thematic rather than verbal.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.2",
+    "ch": 14,
+    "ref": "14:3-9",
+    "echoes": [
+      { "source": "Deuteronomy 15:11", "type": "allusion", "confidence": "high", "note": "Jesus' saying 'you always have the poor with you' reproduces Deuteronomy's declaration that 'the poor will never cease out of the land,' which grounds the command to open one's hand to the needy. The verbal volume is high and the coherence sharp: Jesus does not dismiss the poor but cites the very text that mandates perpetual generosity, contrasting that standing obligation with the unrepeatable moment of his own burial.", "contested": false },
+      { "source": "Song of Songs 1:12", "type": "echo", "confidence": "medium", "note": "The woman's costly nard (nardos) poured on the reclining Jesus closely matches the bride's line, 'while the king sat at his table, my nard gave forth its fragrance.' The rare term nard and the banquet setting give real verbal volume, and the figural reading of the beloved anointing the king coheres with Mark's messianic scene, though Mark does not cite it.", "contested": true },
+      { "source": "2 Kings 9:1-6", "type": "echo", "confidence": "low", "note": "The pouring of oil over the head as an act that designates a king (Jehu anointed by Elisha's servant) supplies background for reading this anointing as royal/messianic. The connection is conceptual, drawing on Israel's anointing rites generally rather than a specific verbal parallel.", "contested": true },
+      { "source": "1 Samuel 10:1", "type": "echo", "confidence": "low", "note": "Samuel pouring a flask of oil on Saul's head and kissing him as the Lord's anointed offers the paradigmatic royal anointing on the head that Mark's scene quietly evokes (Christos = 'anointed'). The echo is thematic, suggesting kingship, with no direct verbal borrowing.", "contested": true },
+      { "source": "2 Chronicles 16:14", "type": "echo", "confidence": "low", "note": "Jesus interprets the anointing as preparation 'for the burying,' resonating with Israelite burial customs of anointing the dead with spices, as at Asa's funeral with its bed of spices. This supplies the cultural background for the burial reading, though it is a custom-echo rather than a cited text.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.3",
+    "ch": 14,
+    "ref": "14:10-11",
+    "echoes": [
+      { "source": "Zechariah 11:12", "type": "allusion", "confidence": "medium", "note": "Judas going to the priests who 'promised to give him money' to deliver Jesus evokes the shepherd-prophecy where the people 'weighed out thirty pieces of silver' as the price of the rejected shepherd. Mark, unlike Matthew, does not specify the sum, so the volume is lower, but the motif of betraying the shepherd for a priced payment coheres with Mark's shepherd-citation in v. 27.", "contested": true },
+      { "source": "Psalm 41:9", "type": "echo", "confidence": "medium", "note": "The intimate associate who turns to hand Jesus over begins the betrayed-friend motif that Mark develops at the table (v. 18); Psalm 41's 'my close friend who ate my bread has lifted his heel against me' is the controlling subtext. Here the link is anticipatory and thematic, with the verbal force concentrated in the meal scene that follows.", "contested": true },
+      { "source": "2 Samuel 15:31", "type": "echo", "confidence": "low", "note": "Ahithophel, David's trusted counselor who defected to Absalom, is the classic Old Testament type of the intimate betrayer, traditionally paired with Psalm 41 in readings of treachery against the anointed. Judas' defection coheres with this Ahithophel pattern, though the echo is typological rather than verbal.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.4",
+    "ch": 14,
+    "ref": "14:12-16",
+    "echoes": [
+      { "source": "Exodus 12:6", "type": "allusion", "confidence": "high", "note": "The disciples prepare 'on the first day of unleavened bread, when they sacrificed the Passover,' directly enacting Exodus 12's prescription that the lamb be killed at twilight on the appointed day. The volume is high and the coherence total as Mark stages the Last Supper as a Passover meal, drawing the institution narrative into the Passion frame.", "contested": false },
+      { "source": "Exodus 12:8", "type": "echo", "confidence": "medium", "note": "The instruction to 'prepare' the Passover and to eat it in a guest room invokes the Exodus regulation that the lamb be eaten roasted with unleavened bread and bitter herbs that same night. The preparatory action presupposes the full Exodus rubric, supplying the meal's content even where Mark abbreviates.", "contested": true },
+      { "source": "1 Samuel 10:2-7", "type": "echo", "confidence": "low", "note": "Jesus' detailed prediction that the disciples will meet a man carrying a water jar who leads them to a prepared place mirrors Samuel's sequence of precise sign-predictions to Saul ('you will meet... you will come... you will find'). The form of foreknown encounters fulfilled to the letter resonates, though there is no verbal citation.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.5",
+    "ch": 14,
+    "ref": "14:17-21",
+    "echoes": [
+      { "source": "Psalm 41:9", "type": "allusion", "confidence": "high", "note": "Jesus' words 'one of you will betray me—he who eats with me' and 'he who dips with me in the dish' draw their pathos directly from 'my close friend in whom I trusted, who ate my bread, has lifted his heel against me.' The shared scene of table fellowship turned to treachery gives high coherence, and the deliberate emphasis on shared eating supplies strong verbal volume for this load-bearing subtext.", "contested": false },
+      { "source": "Psalm 55:12-14", "type": "echo", "confidence": "medium", "note": "The lament over betrayal by 'a man my equal, my companion and familiar friend, with whom I kept pleasant company... in the house of God' parallels the intimate-betrayer motif of the meal. Its recurrence alongside Psalm 41 in the suffering-righteous tradition makes it a strong secondary subtext for the betrayed table-companion.", "contested": true },
+      { "source": "Daniel 7:13", "type": "echo", "confidence": "medium", "note": "Jesus' self-designation 'the Son of Man goes, even as it is written about him' presupposes the scriptural Son-of-Man figure that Mark will name explicitly in v. 62, framing his death as the destined path of that figure. The phrase 'as it is written' signals a scriptural script even though no single text is quoted, with Daniel 7 as the governing Son-of-Man matrix.", "contested": true },
+      { "source": "Isaiah 53:7-9", "type": "echo", "confidence": "low", "note": "The notion that 'the Son of Man goes as it is written' — a suffering and death foreordained in Scripture — coheres with the Servant who is led to slaughter according to God's purpose. Mark gives no quotation here, but the Servant Song is a leading candidate for the scriptural 'writing' about the Son of Man's fated suffering.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.6",
+    "ch": 14,
+    "ref": "14:22-25",
+    "echoes": [
+      { "source": "Exodus 24:8", "type": "allusion", "confidence": "high", "note": "'This is my blood of the covenant' formally echoes Moses' words at Sinai, 'Behold the blood of the covenant which the Lord has made with you,' as he dashes sacrificial blood on the people. The verbal correspondence (haima tes diathekes) is exact and the coherence high: Jesus enacts a covenant-ratifying blood rite that recapitulates and surpasses Sinai. This is the load-bearing intertext of the cup-word.", "contested": false },
+      { "source": "Isaiah 53:12", "type": "allusion", "confidence": "high", "note": "The blood 'poured out for many' draws on the Servant who 'poured out his soul to death' and 'bore the sin of many,' where the rare 'many' (rabbim/polloi) language is distinctively Isaianic. The combination of pouring-out unto death and vicarious 'for many' gives strong volume and coheres with Mark's ransom saying at 10:45, making Isaiah 53 a controlling subtext.", "contested": false },
+      { "source": "Jeremiah 31:31", "type": "allusion", "confidence": "medium", "note": "The covenant sealed in Jesus' blood evokes Jeremiah's promised 'new covenant' that the Lord will make with the house of Israel, written on the heart. Even in Mark's shorter 'blood of the covenant' reading, the eschatological covenant-renewal theme makes Jeremiah 31 a natural subtext; the explicit 'new' is firmer in the parallel traditions, lowering the volume slightly here.", "contested": true },
+      { "source": "Zechariah 9:11", "type": "echo", "confidence": "medium", "note": "Zechariah's 'because of the blood of my covenant with you, I will set your prisoners free' joins covenant-blood to eschatological release, matching Jesus' cup-word that looks ahead to the Kingdom (v. 25). The shared phrase 'blood of the covenant' in a deliverance context makes this a plausible secondary allusion within the same covenant-blood cluster.", "contested": true },
+      { "source": "Exodus 12:7", "type": "echo", "confidence": "medium", "note": "Within a Passover meal, the saving power of the lamb's blood smeared on the doorposts stands behind the cup of Jesus' blood that delivers 'many.' The Passover-blood and covenant-blood motifs fuse in Mark's scene, so Exodus 12 supplies the festal-blood resonance alongside the explicit Sinai citation.", "contested": true },
+      { "source": "Genesis 49:11", "type": "echo", "confidence": "low", "note": "Jacob's blessing of Judah, who 'washes his garments in wine and his robe in the blood of grapes,' was read messianically in Second-Temple tradition and links wine, blood, and the coming ruler. Jesus' 'fruit of the vine' and 'blood' in a kingdom-context may faintly evoke this royal vine-and-blood imagery, though the connection is associative.", "contested": true },
+      { "source": "Isaiah 25:6", "type": "echo", "confidence": "low", "note": "Jesus' vow to drink the fruit of the vine 'anew in the Kingdom of God' evokes the eschatological banquet on Zion where the Lord makes 'a feast of well-aged wines' for all peoples. The messianic-feast horizon coheres with Mark's kingdom-cup, supplying the festal-wine background for the eschatological pledge.", "contested": true },
+      { "source": "Amos 9:13-14", "type": "echo", "confidence": "low", "note": "The promise that in the restored kingdom 'the mountains shall drip sweet wine' and replanted vineyards yield abundance supports the eschatological vine-imagery of Jesus' pledge to drink anew in the Kingdom. The link is thematic, part of the prophetic vision of restored vintage in the age to come.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.7",
+    "ch": 14,
+    "ref": "14:26",
+    "echoes": [
+      { "source": "Psalm 113-118", "type": "allusion", "confidence": "high", "note": "'When they had sung a hymn' refers to the Hallel psalms sung at Passover, the fixed liturgical conclusion of the seder. The volume rests on established liturgical practice rather than a quoted line, but the coherence is strong: Mark places the praise of God's deliverance on Jesus' lips immediately before Gethsemane, and Psalm 118 in particular (already cited at 12:10-11 and the triumphal entry) frames his approaching vindication.", "contested": false },
+      { "source": "2 Samuel 15:30", "type": "echo", "confidence": "low", "note": "Jesus going out to the Mount of Olives in the night of betrayal evokes David ascending the Mount of Olives weeping as he flees Absalom's conspiracy, with Ahithophel's treachery in view. The geographical and situational parallel (the anointed crossing Olivet amid betrayal) supports a faint Davidic typology.", "contested": true },
+      { "source": "Zechariah 14:4", "type": "echo", "confidence": "low", "note": "The Mount of Olives is the site where, in Zechariah, the Lord's feet stand on the day of eschatological battle and deliverance. Mark's repeated staging of decisive moments on Olivet (chs. 11, 13, 14) may quietly trade on this prophetic geography, though the link is locational rather than verbal.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.8",
+    "ch": 14,
+    "ref": "14:27-31",
+    "echoes": [
+      { "source": "Zechariah 13:7", "type": "quotation", "confidence": "high", "note": "Mark introduces with 'it is written' and quotes 'I will strike the shepherd, and the sheep will be scattered,' a formal citation of Zechariah's sword-against-the-shepherd oracle. The volume is maximal and the coherence total: God himself strikes the shepherd, the disciples are the scattered flock, and the surrounding Zecharian context (the refining of the remnant) frames the Passion. Mark adapts the verb to a divine-passive/first-person form fitting his theology.", "contested": false },
+      { "source": "Ezekiel 34:5-6", "type": "echo", "confidence": "medium", "note": "Ezekiel's image of the flock 'scattered because there is no shepherd,' wandering over the mountains, reinforces the shepherd-and-sheep motif of the citation. Mark elsewhere casts the crowds as sheep without a shepherd (6:34), so this prophetic scattered-flock tradition coheres strongly and supplies depth to the Zechariah quotation.", "contested": true },
+      { "source": "Zechariah 13:8-9", "type": "echo", "confidence": "medium", "note": "The continuation of the struck-shepherd oracle — the remnant passed through fire, refined, and restored as God's people — coheres with Jesus' immediate promise of restoration after he is 'raised up' (v. 28). Reading the quotation in its Zecharian context illuminates the scattering-then-regathering pattern Mark builds into Peter's failure and recovery.", "contested": true },
+      { "source": "Psalm 23:1-4", "type": "echo", "confidence": "low", "note": "The shepherd-flock imagery and the dark valley of the night's events faintly evoke the shepherd psalm, though here the shepherd is struck rather than protecting. The connection is associative within the broader shepherd motif rather than a cited parallel.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.9",
+    "ch": 14,
+    "ref": "14:32-42",
+    "echoes": [
+      { "source": "Psalm 42:5-6", "type": "allusion", "confidence": "high", "note": "Jesus' words 'My soul is exceedingly sorrowful' closely echo the refrain 'Why are you cast down, O my soul, and why are you disquieted within me?' of the downcast psalmist. The verbal correspondence (perilypos / he psyche mou) is strong, and the coherence is high: Mark voices Gethsemane's anguish in the idiom of the lament psalms, casting Jesus as the suffering-yet-hoping righteous one.", "contested": false },
+      { "source": "Psalm 43:5", "type": "allusion", "confidence": "high", "note": "The repeated refrain 'Why are you cast down, O my soul?' continues into Psalm 43, the twin lament of 42, and undergirds Jesus' 'my soul is sorrowful even to death.' Its recurrence as a fixed refrain strengthens the allusion, and the psalmist's longing for God's deliverance coheres with Jesus' prayer that the hour might pass.", "contested": false },
+      { "source": "Psalm 42:11", "type": "echo", "confidence": "high", "note": "The third occurrence of the cast-down-soul refrain reinforces that Mark frames Jesus' sorrow through this specific psalmic complaint. The triple repetition across Psalms 42-43 mirrors the threefold prayer of Gethsemane, deepening the recurrence and coherence of the allusion.", "contested": false },
+      { "source": "Jonah 4:9", "type": "echo", "confidence": "medium", "note": "Jonah's 'I am angry enough to die' (lit. 'sorrowful unto death') supplies a verbal precedent for Jesus being grieved 'even to death.' The phrase 'unto death' as an intensifier of grief makes this a plausible secondary verbal echo, though Jonah's resentment differs sharply from Jesus' obedient sorrow.", "contested": true },
+      { "source": "Psalm 75:8", "type": "allusion", "confidence": "medium", "note": "Jesus' plea 'remove this cup from me' draws on the prophetic 'cup' of God's wrath and judgment, here Psalm 75's cup of foaming wine that the wicked must drink to the dregs. The metaphor of drinking a divinely appointed cup of suffering gives real volume and coheres with Mark's earlier cup-saying (10:38-39).", "contested": true },
+      { "source": "Isaiah 51:17", "type": "allusion", "confidence": "medium", "note": "Isaiah's 'cup of his wrath,' the 'cup of staggering' that Jerusalem has drunk to the dregs, is a leading source for the cup Jesus prays to have removed. The strong prophetic-cup tradition of divine judgment-wine coheres with Jesus drinking the cup on behalf of the 'many,' reinforcing the wrath-cup reading.", "contested": true },
+      { "source": "Jeremiah 25:15-29", "type": "echo", "confidence": "medium", "note": "Jeremiah's cup of wrath, which the nations must drink at God's hand, belongs to the same prophetic cluster that informs Jesus' 'cup.' Its recurrence across the prophets establishes the cup as a fixed symbol of appointed judgment, supporting the figural reading of Gethsemane's prayer.", "contested": true },
+      { "source": "Psalm 51:12", "type": "echo", "confidence": "low", "note": "The saying 'the spirit indeed is willing, but the flesh is weak' resonates with the penitential psalm's prayer for a willing/steadfast spirit ('uphold me with a willing spirit'). The spirit-versus-weak-flesh contrast may draw on this psalmic anthropology, though the link is conceptual rather than a direct citation.", "contested": true },
+      { "source": "Genesis 22:1-10", "type": "echo", "confidence": "low", "note": "The agonized obedience of the son who submits to the father's will ('not what I desire, but what you desire') faintly recalls the Aqedah, where Abraham obeys God's command to offer his beloved son. The figural resonance of obedient surrender of a son's life coheres with Mark's beloved-Son theology, though there is no verbal borrowing.", "contested": true },
+      { "source": "Daniel 7:13", "type": "echo", "confidence": "low", "note": "Jesus' announcement that 'the Son of Man is betrayed into the hands of sinners' continues Mark's Danielic Son-of-Man thread, here in its suffering aspect. The title carries the Daniel 7 background even as Mark inverts the figure's exaltation into delivery to sinners, anticipating the explicit citation at v. 62.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.10",
+    "ch": 14,
+    "ref": "14:43-49",
+    "echoes": [
+      { "source": "Psalm 41:9", "type": "echo", "confidence": "medium", "note": "Judas, 'one of the twelve,' identifying Jesus with a kiss completes the intimate-betrayer motif governed by Psalm 41's friend who shared bread and 'lifted his heel.' The treacherous gesture of affection from a close companion gives the arrest its psalmic depth, consummating the theme opened at the meal.", "contested": true },
+      { "source": "2 Samuel 20:9-10", "type": "echo", "confidence": "medium", "note": "Joab's murderous kiss of Amasa — 'he took him by the beard with his hand to kiss him' before stabbing him — is the Old Testament archetype of the deadly false kiss that Judas reenacts. The pairing of a feigned greeting-kiss with betrayal gives this a strong typological coherence, though Mark does not cite it.", "contested": true },
+      { "source": "Proverbs 27:6", "type": "echo", "confidence": "low", "note": "The proverb 'the kisses of an enemy are deceitful' (LXX) supplies a wisdom commentary on Judas' kiss, contrasting the faithful wounds of a friend with an enemy's profuse kisses. The conceptual fit is exact, but the connection is gnomic rather than a quoted source.", "contested": true },
+      { "source": "Isaiah 53:12", "type": "echo", "confidence": "low", "note": "Jesus' protest that they come 'as against a robber' and his arrest among the violent faintly anticipate the Servant 'numbered with the transgressors.' The motif of the innocent treated as a criminal coheres with Mark's Servant-shaped Passion, though here it is allusive and undeveloped.", "contested": true },
+      { "source": "Zechariah 13:7", "type": "echo", "confidence": "low", "note": "The arrest that precipitates the disciples' flight ('they all left him, and fled,' v. 50) enacts the scattering of the sheep foretold by the struck-shepherd oracle just quoted in v. 27. The narrative fulfills the citation, tying the arrest scene back to Zechariah's prophecy.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.11",
+    "ch": 14,
+    "ref": "14:50-52",
+    "echoes": [
+      { "source": "Amos 2:16", "type": "allusion", "confidence": "medium", "note": "The young man who 'left the linen cloth, and fled from them naked' closely matches Amos' oracle that 'he who is stout of heart among the mighty shall flee away naked in that day.' The distinctive image of fleeing naked in a day of judgment gives real verbal volume, and the coherence fits Mark's depiction of total abandonment as the day of reckoning falls on Jesus' followers.", "contested": true },
+      { "source": "Genesis 39:12", "type": "echo", "confidence": "low", "note": "The flight in which a garment is left behind in the grasping hands recalls Joseph fleeing Potiphar's wife, who 'caught him by his garment... and he left his garment in her hand, and fled.' The shared motif of escaping by abandoning the seized cloth supports a faint verbal echo, though the contexts differ.", "contested": true },
+      { "source": "Amos 9:1-3", "type": "echo", "confidence": "low", "note": "The wider Amos context of inescapable judgment, where none can flee the Lord's hand, reinforces the day-of-reckoning resonance of the naked flight. This strengthens the Amos 2:16 reading by establishing the prophet's recurring theme of futile flight in the day of judgment.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.12",
+    "ch": 14,
+    "ref": "14:53-54",
+    "echoes": [
+      { "source": "Psalm 38:11", "type": "echo", "confidence": "low", "note": "Peter following 'from a distance' while Jesus is led to the high priest faintly echoes the lament psalmist's complaint that 'my friends and companions stand aloof from my affliction, and my kinsmen stand far off.' The motif of associates keeping their distance from the suffering righteous one coheres with Peter's hesitant, fearful following.", "contested": true },
+      { "source": "Psalm 88:8", "type": "echo", "confidence": "low", "note": "The psalmist's 'you have caused my companions to shun me' belongs to the same lament tradition of friends who withdraw in the hour of suffering. Peter warming himself among the officers, distanced and soon to deny, fits this isolation motif, though the connection is thematic.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.13",
+    "ch": 14,
+    "ref": "14:55-59",
+    "echoes": [
+      { "source": "Psalm 27:12", "type": "allusion", "confidence": "high", "note": "The council seeking testimony as 'false witnesses rose up against him, breathing out violence' is precisely Mark's scene of those who 'gave false testimony against him.' The volume is strong (pseudomartyres), and the coherence is high: Mark casts Jesus as the persecuted righteous one of the psalms, hemmed in by lying witnesses, confident in God's vindication.", "contested": false },
+      { "source": "Psalm 35:11", "type": "allusion", "confidence": "high", "note": "'Malicious witnesses rise up; they ask me of things that I do not know' matches the false testimony and incoherent accusations leveled at Jesus. The recurrence of the false-witness motif across the lament psalms (27, 35) strengthens the allusion and frames the trial as the persecution of the innocent sufferer.", "contested": false },
+      { "source": "Psalm 109:2-3", "type": "echo", "confidence": "medium", "note": "The psalmist surrounded by 'lying tongues' and 'words of hatred' who 'attack me without cause' coheres with the conspiratorial false testimony of Mark's council. As another suffering-righteous psalm prominent in the Passion tradition, it reinforces the false-accusation matrix Mark draws on.", "contested": true },
+      { "source": "Daniel 6:4-5", "type": "echo", "confidence": "low", "note": "The plotters who seek a charge against the blameless Daniel and find none parallel the council that 'sought witnesses against Jesus... and found none.' The motif of conspirators unable to fault the righteous man until they manufacture a charge resonates, though the link is situational rather than verbal.", "contested": true },
+      { "source": "Susanna 1:34-43", "type": "echo", "confidence": "low", "note": "Susanna's ordeal by false witnesses whose testimony does not finally agree offers a Second-Temple type of the righteous condemned on perjured evidence that fails to cohere. Mark's note that the witnesses' testimony 'did not agree' echoes this exposure-of-false-witness pattern, supplying a deuterocanonical parallel.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.14",
+    "ch": 14,
+    "ref": "14:60-61",
+    "echoes": [
+      { "source": "Isaiah 53:7", "type": "allusion", "confidence": "high", "note": "Jesus' silence — 'he stayed quiet, and answered nothing' before his accusers — directly enacts the Servant who 'was oppressed and afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter... so he opened not his mouth.' The volume is high and the coherence total: Mark portrays Jesus' refusal to answer as the deliberate fulfillment of the silent Servant.", "contested": false },
+      { "source": "Psalm 38:13-14", "type": "echo", "confidence": "medium", "note": "The psalmist who, surrounded by accusers, becomes 'like a deaf man... like a mute man who does not open his mouth' offers a psalmic parallel to Jesus' silence under interrogation. This lament-psalm motif of the righteous keeping silence before false charges reinforces the Isaianic Servant-silence Mark foregrounds.", "contested": true },
+      { "source": "Psalm 39:9", "type": "echo", "confidence": "low", "note": "'I was mute; I did not open my mouth, for it is you who have done it' supplies a further psalmic instance of the sufferer's silent submission to God's hand. The connection deepens the lament-psalm coloring of Jesus' silence, though Isaiah 53 remains the controlling text.", "contested": true },
+      { "source": "Psalm 2:2", "type": "echo", "confidence": "low", "note": "The high priest's question 'Are you the Christ, the Son of the Blessed?' joins the titles 'anointed' and 'son' that Psalm 2 fuses ('the Lord and his anointed... you are my Son'). Mark's Christology trades on this royal-messianic psalm, lending the interrogation its scriptural charge even without quotation.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.15",
+    "ch": 14,
+    "ref": "14:62",
+    "echoes": [
+      { "source": "Psalm 110:1", "type": "quotation", "confidence": "high", "note": "Jesus' 'you will see the Son of Man sitting at the right hand of Power' fuses the enthronement oracle 'Sit at my right hand,' which Mark has just expounded at 12:36. The volume is maximal and the coherence climactic: the accused declares his coming vindication as the one seated at God's right hand, making this the decisive scriptural self-claim of the Gospel.", "contested": false },
+      { "source": "Daniel 7:13", "type": "quotation", "confidence": "high", "note": "'Coming with the clouds of the sky' quotes Daniel's vision of 'one like a son of man' who comes 'with the clouds of heaven' and is given everlasting dominion before the Ancient of Days. Mark fuses this with Psalm 110 into a single declaration, so that the Son of Man both sits enthroned and comes in glory; the conflation is the theological summit of Mark's Christology.", "contested": false },
+      { "source": "Exodus 3:14", "type": "echo", "confidence": "low", "note": "Jesus' bare 'I am' (ego eimi) in answer to the high priest may carry an overtone of the divine self-naming 'I AM' of the burning bush, especially given Mark's other ego-eimi sayings. The reading is contested, since the phrase functions primarily as a plain affirmative, but the loaded context invites the figural divine-name resonance.", "contested": true },
+      { "source": "Psalm 80:17", "type": "echo", "confidence": "low", "note": "'Let your hand be upon the man of your right hand, the son of man whom you made strong for yourself' uniquely joins 'son of man' with God's 'right hand,' the two elements Jesus combines. As a psalm that already braids these motifs, it may stand among the scriptural matrix behind the fused declaration.", "contested": true },
+      { "source": "Zechariah 12:10", "type": "echo", "confidence": "low", "note": "Zechariah's oracle that 'they shall look on him whom they have pierced' anticipates the council 'seeing' the vindicated Son of Man, a connection drawn explicitly elsewhere in the NT. The verb of seeing the rejected-yet-coming one resonates with Jesus' 'you will see,' lending an eschatological-recognition overtone.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.16",
+    "ch": 14,
+    "ref": "14:63-65",
+    "echoes": [
+      { "source": "Isaiah 50:6", "type": "allusion", "confidence": "high", "note": "The spitting, blindfolding, and beating — 'some began to spit on him, and to cover his face, and to beat him' — enact the Servant who said 'I gave my back to those who strike, and my cheeks to those who pull out the beard; I hid not my face from disgrace and spitting.' The specific cluster of spitting and striking the face gives high volume and coherence, casting the abuse as fulfillment of the third Servant Song.", "contested": false },
+      { "source": "Leviticus 21:10", "type": "allusion", "confidence": "medium", "note": "The high priest tearing his clothes at the alleged blasphemy ironically transgresses the Levitical rule that the high priest 'shall not tear his clothes.' Mark's readers attuned to Torah would register the violation, sharpening the irony that the one charged with blasphemy is condemned by a priest breaking his own consecration law. The allusion turns on the prohibition's reversal.", "contested": true },
+      { "source": "Micah 5:1", "type": "echo", "confidence": "low", "note": "Micah's 'they strike the judge of Israel on the cheek with a rod' (LXX 5:1) offers a prophetic image of the smitten ruler that resonates with the blows to Jesus' face. The motif of striking Israel's appointed judge/ruler coheres with Mark's mocked-king theme, though it is a faint secondary echo to Isaiah 50:6.", "contested": true },
+      { "source": "Isaiah 11:2-4", "type": "echo", "confidence": "low", "note": "The taunt 'Prophesy!' mockingly tests the messianic gift of discerning judgment that Isaiah ascribes to the shoot of Jesse, who judges not by what his eyes see. The irony of demanding prophecy from the blindfolded Messiah plays on this expectation, though the connection is thematic and undeveloped.", "contested": true },
+      { "source": "1 Kings 22:24", "type": "echo", "confidence": "low", "note": "Zedekiah striking the prophet Micaiah on the cheek and challenging his prophetic word ('How did the Spirit pass from me to speak to you?') parallels the officers striking Jesus and jeering 'Prophesy!' The pattern of slapping and taunting a true prophet supplies a faint Old Testament precedent.", "contested": true }
+    ]
+  },
+  {
+    "id": "14.17",
+    "ch": 14,
+    "ref": "14:66-72",
+    "echoes": [
+      { "source": "Psalm 41:9", "type": "echo", "confidence": "low", "note": "Peter's threefold denial, capping the abandonment by the inner circle, extends the Passion's betrayed-by-intimates theme rooted in the psalm of the friend who lifted his heel. While Judas is the primary referent, Peter's failure broadens the motif of the righteous sufferer forsaken even by his closest companions.", "contested": true },
+      { "source": "Psalm 31:11", "type": "echo", "confidence": "low", "note": "The psalmist who has become 'a horror to my acquaintances; those who see me in the street flee from me' resonates with Peter's recoil and the disciples' flight from association with Jesus. The lament motif of acquaintances disowning the afflicted one colors Peter's denials, though without verbal citation.", "contested": true },
+      { "source": "Psalm 38:11", "type": "echo", "confidence": "low", "note": "Peter's denial that he 'knows' Jesus enacts the lament theme of friends and kinsmen who 'stand far off' from the sufferer's affliction. The repeated psalmic image of withdrawn intimates frames Peter's failure as a further instance of the righteous one's abandonment, deepening Mark's lament-shaped Passion.", "contested": true }
+    ]
+  }
+]

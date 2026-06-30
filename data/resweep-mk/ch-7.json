@@ -1,0 +1,271 @@
+[
+  {
+    "id": "7.1",
+    "ch": 7,
+    "ref": "7:1-5",
+    "echoes": [
+      {
+        "source": "Exodus 30:18-21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Pharisaic 'tradition of the elders' on washing hands before eating develops from priestly ablution law, where Aaron and his sons must wash hands and feet before approaching the altar. Mark frames the dispute against this Torah backdrop of ritual purity, though the hand-washing of laypeople before ordinary meals is an extension beyond the written commandment, which is precisely Jesus' point. Availability and thematic coherence are strong; verbal volume is faint.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 11:32-40",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The catalogue of washings of cups, pitchers, bronze vessels, and couches echoes Leviticus' rules on vessels rendered unclean by contact and requiring rinsing or breaking. Mark's parenthetical ethnography (7:3-4) presupposes this purity system as the matrix for the elders' tradition. The coherence is high though no single verse is quoted.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 15:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Leviticus 15 makes hands a vector of impurity (one with a discharge who has not rinsed his hands conveys uncleanness) and prescribes rinsing vessels of wood and breaking those of clay. This is among the few Torah texts tying hand-rinsing to purity, plausibly seeding the elders' extension to all meals. Faint and contested but availability is genuine.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.2",
+    "ch": 7,
+    "ref": "7:6-13",
+    "echoes": [
+      {
+        "source": "Isaiah 29:13",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Formal citation introduced 'as it is written': 'This people honors me with their lips, but their heart is far from me; in vain do they worship me, teaching as doctrines the commandments of men.' Mark follows the LXX, whose 'teaching as doctrines the commandments of men' supplies the polemical hinge against human tradition that the Hebrew lacks. Maximal volume, recurrence, and thematic coherence; this is the load-bearing OT text of the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:12",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus cites the Decalogue commandment 'Honor your father and your mother' (attributed to Moses) as the divine command that Corban casuistry nullifies. Direct verbal quotation; the antithesis between this commandment and the tradition is the argument's spine.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:16",
+        "type": "quotation",
+        "confidence": "medium",
+        "note": "The Deuteronomic form of the honor-parents commandment is an equally valid source for 'Honor your father and your mother,' since Mark's citation could draw on either Decalogue. Listed as a parallel availability alongside Exodus 20:12; the verbal match is exact in both.",
+        "contested": false,
+        "altSource": "Exodus 20:12"
+      },
+      {
+        "source": "Exodus 21:17",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The paired citation 'He who speaks evil of father or mother, let him be put to death' quotes the capital statute of Exodus 21:17, reinforcing the gravity of the command being voided. Mark's wording tracks the LXX (kakologon). High volume and direct verbal correspondence.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 20:9",
+        "type": "quotation",
+        "confidence": "medium",
+        "note": "Leviticus 20:9 ('everyone who curses his father or mother shall be put to death') is a near-identical alternate source for the death-penalty clause and may stand behind Mark alongside Exodus 21:17. Strong availability; offered as parallel attestation.",
+        "contested": false,
+        "altSource": "Exodus 21:17"
+      },
+      {
+        "source": "Numbers 30:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Corban dispute turns on the binding force of a vow dedicating property to God; Numbers 30 is the Torah's law of vows ('he shall not break his word, he shall do according to all that proceeds out of his mouth'). Jesus' charge is that scribal handling of such irrevocable vows is used to override the prior duty to parents, so the vow legislation is the legal substrate of the controversy. Thematic coherence high; verbal volume moderate.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 23:21-23",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Deuteronomy's vow law ('when you make a vow to the LORD your God, you shall not delay to pay it... that which has gone out of your lips you shall keep') reinforces the irrevocability that makes Corban exploitable. A secondary witness to the vow background behind 7:11-12.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 27:9-28",
+        "type": "allusion",
+        "confidence": "low",
+        "note": "Leviticus 27 governs things devoted/dedicated to the LORD (cherem and votive gifts), the legal category 'Corban, that is, given to God' invokes. Mark's transliterated technical term presupposes this dedication law; the abuse is treating a thing as devoted to bar a creditor-parent. Availability genuine, volume faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.3",
+    "ch": 7,
+    "ref": "7:14-23",
+    "echoes": [
+      {
+        "source": "Genesis 6:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus relocates defilement to the heart: 'from within, out of the hearts of men, proceed evil thoughts.' Genesis 6:5 ('every imagination of the thoughts of his heart was only evil continually') is the foundational OT diagnosis of the heart as the source of evil intent. Strong thematic coherence; the vice-list in 7:21-22 unpacks this anthropology.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 8:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The post-flood verdict that 'the imagination of man's heart is evil from his youth' parallels Mark's claim that evil proceeds from within the heart. Together with Genesis 6:5 it supplies the Torah's most explicit teaching that defilement is interior and inborn, cohering with Jesus' redefinition of purity.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 17:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's 'the heart is deceitful above all things, and desperately corrupt' is the prophetic locus classicus for the heart as the seat of hidden defilement, matching Jesus' catalogue of deceit, covetousness, and wickedness emerging from within. High thematic coherence with the heart/exterior antithesis driving the pericope.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 11:1-23",
+        "type": "echo",
+        "confidence": "high",
+        "note": "Mark's editorial gloss 'thus he declared all foods clean' (7:19) directly engages the dietary code of Leviticus 11 distinguishing clean from unclean animals. Jesus' saying that nothing entering from outside can defile reframes and relativizes precisely this food legislation; the food laws are the explicit object of the controversy. Volume and coherence both high.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 14:3-21",
+        "type": "echo",
+        "confidence": "high",
+        "note": "Deuteronomy 14 is the parallel statute of clean and unclean foods that, with Leviticus 11, constitutes the dietary law Jesus' pronouncement on foods addresses. Equally available as the OT food-purity background to 'purifying all foods.'",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 17:10-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Leviticus 17's blood and carcass prohibitions extend the ingestion-as-defilement logic Jesus overturns. A secondary witness to the food-purity system at stake; fainter than Leviticus 11 / Deuteronomy 14.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 8:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Duplicate-domain note: the 'evil from youth' verdict also undergirds the comprehensiveness of the vice-list (adulteries, murders, thefts, covetings), framing human sin as welling up from the heart rather than contracted from without. Retained as a low echo on the catalog itself.",
+        "contested": true,
+        "altSource": "Genesis 6:5"
+      },
+      {
+        "source": "Proverbs 4:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Keep your heart with all diligence, for out of it are the issues of life' anticipates Mark's image of what 'proceeds out of' the person from the heart. Wisdom availability; verbal contact ('proceeds out') is suggestive but faint.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 1:30",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira repeatedly contrasts outward show with the heart and warns against hypocrisy ('exalt not yourself... the Lord will reveal your secrets'), part of the Second-Temple wisdom milieu locating defilement in interior disposition. Deuterocanonical availability supporting the heart-purity theme; contested and faint.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 15:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Mark's vice 'an evil eye' (ophthalmos poneros) is a Semitic idiom for stinginess/grudging that appears in Deuteronomy 15:9 ('your eye be evil against your poor brother'). The phrase in the vice-list plausibly draws on this OT idiom for ungenerous malice. Idiomatic availability; volume faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.4",
+    "ch": 7,
+    "ref": "7:24-30",
+    "echoes": [
+      {
+        "source": "1 Kings 17:8-24",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' withdrawal to the region of Tyre and Sidon and his healing of a Gentile woman's child recalls Elijah's sojourn with the Sidonian widow of Zarephath, whose son he restored, the paradigm of an Israelite prophet bringing life to a Gentile woman of that very coastland. Geographic and typological coherence is strong; the Sidonian-widow precedent frames the boundary-crossing mercy.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 12:3",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The 'children first... then the dogs' logic enacts the order of salvation in which blessing comes to Israel first and through Israel to the nations ('in you all families of the earth shall be blessed'). The Syrophoenician's faith anticipates the Abrahamic extension of blessing beyond Israel. Figural and contested, but thematically coherent with election-then-overflow.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The servant's mission to be 'a light to the nations' so that salvation reaches the ends of the earth resonates with the children's bread overflowing to a Gentile. Mark's narrative geography (Tyre, Decapolis) participates in the prophetic vision of the nations drawn in; faint figural availability.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 7:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' priority 'let the children be filled first' presupposes Israel's status as God's chosen children/people set apart from the nations (Deuteronomy 7's election language). The exchange negotiates that elect-Israel-first economy; availability strong, verbal volume faint.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 22:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'dogs' metaphor for Gentiles draws on a stock OT pejorative (e.g., 'dogs have surrounded me'), here softened to household pups under the table. The idiom's OT background gives the insult-and-reversal its bite. Lexical availability; contested and faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "7.5",
+    "ch": 7,
+    "ref": "7:31-37",
+    "echoes": [
+      {
+        "source": "Isaiah 35:5-6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The healing of a deaf man with a speech impediment, climaxing in 'he makes even the deaf hear and the mute speak,' enacts Isaiah's eschatological promise: 'then the ears of the deaf shall be unstopped... and the tongue of the mute shall sing.' Mark signals the messianic age dawning; volume, recurrence (cf. Isa 29:18; 42:18), and thematic coherence are all high.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The crowd's acclamation 'he has done all things well' (panta kalos pepoieken) echoes the creation refrain that God saw all he had made and it was 'very good' (LXX kala lian), casting Jesus' restorative work as a new creation. The verbal contact (kalos / kala) and theme of God making/doing all things well give the allusion real volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:18-19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'In that day the deaf shall hear the words of a book, and the eyes of the blind shall see' reinforces the deaf-hearing motif of Isaiah 35 and ties back to the chapter's earlier Isaiah 29:13 citation, giving recurrence within the same prophetic source. The opening of ears is the visible sign of the promise.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:11",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Who makes a man mute, or deaf... Is it not I, the LORD?' grounds the claim that making the deaf hear and the mute speak is a divine prerogative. The crowd's wonder implicitly attributes to Jesus a work Yahweh claims as his own. Thematic coherence high; specific verbal volume moderate.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Hear, you deaf, and look, you blind, that you may see' belongs to the cluster of Isaianic deaf/mute imagery animating this healing. A secondary witness reinforcing recurrence within Isaiah; fainter than 35:5-6.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 10:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Wisdom opened the mouth of the mute, and made the tongues of infants speak clearly' (of the Exodus deliverance) is a Second-Temple text pairing divine wisdom with the loosing of mute tongues, resonant with Jesus loosing the tongue so the man 'spoke clearly.' Deuterocanonical availability; contested and faint.",
+        "contested": true
+      },
+      {
+        "source": "Zephaniah 3:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'For then I will restore to the peoples a pure speech' offers an eschatological loosing-of-tongues motif consonant with the man speaking plainly in the Gentile Decapolis. Geographic-thematic resonance; very faint and contested.",
+        "contested": true
+      }
+    ]
+  }
+]

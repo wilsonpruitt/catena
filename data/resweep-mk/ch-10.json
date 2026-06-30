@@ -1,0 +1,431 @@
+[
+  {
+    "id": "10.1",
+    "ch": 10,
+    "ref": "10:1-12",
+    "echoes": [
+      {
+        "source": "Genesis 1:27",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus grounds marriage 'from the beginning of the creation' in 'God made them male and female,' a near-verbatim citation of the creation of humanity as male and female. High Volume and explicit appeal to creation order; the phrase functions as a formal scriptural authority over against Deuteronomy's concession. Availability and Coherence are secure within Mark's argument structure.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:24",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The words 'a man will leave his father and mother, and will join to his wife, and the two will become one flesh' reproduce the etiological marriage saying nearly word-for-word. This is the load-bearing prooftext; Jesus stacks it on Genesis 1:27 to argue indissolubility. Maximal Volume and Recurrence in early Jewish marriage discourse.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 24:1-4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The 'certificate of divorce' Moses 'allowed' is a direct invocation of the Mosaic divorce statute, named explicitly as Moses' command. Jesus cites it precisely in order to subordinate it as a concession to 'hardness of heart.' Explicit attribution to Moses makes this an unambiguous, high-Volume citation.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 2:14-16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Malachi rebukes faithless divorce, invokes 'the wife of your covenant,' appeals to the one-flesh creation ('did he not make them one?'), and reports that God 'hates divorce.' Jesus' fusion of one-flesh creation theology with a polemic against divorce coheres strongly with Malachi's distinctive argument. The shared appeal to creation against divorce raises this above generic thematic overlap.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 5:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The toledot restatement 'male and female he created them, and blessed them' reinforces the male-and-female creation formula Jesus cites. It is a secondary witness to the same tradition behind Genesis 1:27, strengthening Recurrence. Marked contested because Mark most plausibly draws on Genesis 1:27 directly.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 4:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The diagnosis 'for your hardness of heart' resonates with the Pentateuch's hardened-heart vocabulary, of which the Exodus Pharaoh cycle is the paradigm. The motif frames Israel's recalcitrance as the reason for the concession. Low confidence and contested: thematic vocabulary rather than a specific citation.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.2",
+    "ch": 10,
+    "ref": "10:13-16",
+    "echoes": [
+      {
+        "source": "Genesis 48:14-16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jacob lays his hands on Ephraim and Manasseh and blesses them, the foundational scene of patriarchal blessing by laying on of hands. Jesus 'took them in his arms, and blessed them, laying his hands on them' reenacts this gesture upon children. The verbal and ritual overlap (hands, blessing, children) gives the allusion real Volume.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 27:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The laying on of hands to convey authority and blessing (Moses on Joshua) is the OT background for the gesture Jesus performs. It supplies the Availability of the imposition-of-hands motif. Low confidence and contested because Mark's scene is blessing, not commissioning.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 131:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalmist stills his soul 'like a weaned child,' modeling trustful smallness before God, which coheres with receiving the kingdom 'like a little child.' The child as image of humble dependence is the shared note. Contested and low: thematic resonance without verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 4:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom prizes virtue over many children and the immortality of the righteous, part of a Second-Temple revaluation of childhood and worth. The faint resonance lies in valuing what the world overlooks, as the disciples overlook the children. Contested; included for maximal coverage of deuterocanonical availability.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.3",
+    "ch": 10,
+    "ref": "10:17-22",
+    "echoes": [
+      {
+        "source": "Exodus 20:12-16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus recites the second-table Decalogue commandments against murder, adultery, theft, false witness, and to honor father and mother, citing them as 'the commandments' the man knows. The wording follows the Decalogue directly. Highest Volume and explicit appeal to the Ten Words.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:16-20",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "The Deuteronomic recension of the same commandments is an equally valid source for Jesus' list, and the placement of 'Honor your father and mother' after the social prohibitions mirrors a known ordering. Marked as a parallel high-confidence citation alongside Exodus 20. The two Decalogue forms together secure the quotation.",
+        "contested": false,
+        "altSource": "Exodus 20:12-16"
+      },
+      {
+        "source": "Deuteronomy 24:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' extra commandment 'Do not defraud' (not in the Decalogue) echoes the Deuteronomic prohibition against defrauding or oppressing a hired laborer and withholding wages. Mark's insertion of defrauding into a Decalogue list points to this legal tradition on economic injustice. The targeted addition to a rich landholder gives the allusion coherence.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 19:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Holiness Code's 'you shall not defraud your neighbor nor rob him; the wages of a hired servant shall not remain with you overnight' is the strongest single source for Mark's 'Do not defraud.' Its pairing of fraud with withheld wages fits Jesus' demand that this wealthy man divest. Verbal contact on 'defraud' lifts this above generic.",
+        "contested": false,
+        "altSource": "Deuteronomy 24:14"
+      },
+      {
+        "source": "Deuteronomy 6:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' rejoinder 'No one is good except one—God' reflects the Shema's confession of God's oneness and uniqueness, here applied to the predicate of goodness. The 'one' (heis) language coheres with Deuteronomic monotheism. The link is conceptual but anchored in the distinctive 'one God' formula.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 118:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Give thanks to the LORD, for he is good' is the recurrent liturgical confession that God alone is good, the conviction behind Jesus' 'No one is good except one—God.' The refrain pervades the Psalter (106, 107, 136). Low and contested: a diffuse liturgical commonplace rather than a citation.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 19:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He who is kind to the poor lends to the LORD, and he will repay him' underwrites Jesus' logic that giving to the poor yields 'treasure in heaven.' The proverb's transaction of almsgiving credited with God grounds the heavenly-treasure promise. Coherence with the divestment command is strong.",
+        "contested": false
+      },
+      {
+        "source": "Sirach 29:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Lay up your treasure according to the commandments of the Most High, and it will profit you more than gold' is the closest Second-Temple parallel to 'you will have treasure in heaven.' The instruction to convert wealth into a heavenly account, set beside almsgiving, matches Jesus' counsel precisely. Availability and verbal proximity make this a primary deuterocanonical source.",
+        "contested": false
+      },
+      {
+        "source": "Tobit 4:7-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Tobit instructs giving alms from one's possessions, promising that almsgiving 'lays up a good treasure' and delivers from death. The almsgiving-as-stored-treasure theology directly parallels Jesus' 'give to the poor, and you will have treasure in heaven.' The shared treasure-and-deliverance logic strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Proverbs 3:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Honoring the LORD with one's wealth and firstfruits, with promised reward, lies in the background of redirecting possessions toward God. The wisdom pattern of wealth surrendered and divinely repaid coheres with the pericope. Low and contested: thematic.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 15:7-11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The open-handed command to give freely to the poor brother and not harden the heart frames Israel's duty to the needy, which Jesus presses to its limit. The almsgiving ethic supplies background for 'give to the poor.' Contested; a broad covenantal commonplace.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.4",
+    "ch": 10,
+    "ref": "10:23-31",
+    "echoes": [
+      {
+        "source": "Proverbs 11:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'He who trusts in his riches will fall' directly underlies Jesus' qualification 'how hard is it for those who trust in riches to enter the Kingdom.' The verbal target is the verb of trusting in wealth, not merely possessing it. The proverb supplies both diagnosis and outcome, giving solid Volume.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 49:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Those who 'trust in their wealth' cannot by any means ransom a person from death, exactly the impossibility Jesus presses: riches cannot purchase entry or salvation. The psalm's link between trust-in-riches and the limits of ransom coheres with the chapter's later ransom saying. Conceptual overlap is precise and recurrent.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 18:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Is anything too hard for the LORD?' is the canonical formula of divine possibility that Jesus restates as 'with men it is impossible, but not with God, for all things are possible with God.' Sarah's promised son against natural impossibility is the paradigm. The verbal and theological match (nothing too hard / all things possible) is strong.",
+        "contested": false
+      },
+      {
+        "source": "Job 42:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I know that you can do all things, and that no purpose of yours can be thwarted' is a near-formulaic source for 'all things are possible with God.' Job's confession of God's unbounded power matches Jesus' answer to 'who then can be saved?' The omnipotence formula recurs and coheres.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 8:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'If it is marvelous in the eyes of the remnant... should it also be marvelous in my eyes?' contrasts human limits with divine possibility in restoration. The reversal of what seems impossible to people coheres with Jesus' saying. Contested and low: thematic possibility-formula, no verbal lock.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 32:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Nothing is too hard for you' (Jeremiah's prayer) repeats the Genesis 18:14 omnipotence formula and reinforces Recurrence behind 'all things are possible with God.' Marked contested because Genesis 18:14 is the likelier primary source. Included for completeness of the divine-possibility tradition.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 2:7-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Hannah's song declares the LORD makes poor and makes rich, raises the poor from the dust, and reverses high and low, undergirding 'many who are first will be last; and the last first.' The eschatological reversal of status and wealth coheres tightly with Jesus' promise and warning. The reversal motif is verbally and thematically apt.",
+        "contested": false
+      },
+      {
+        "source": "Job 5:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God 'sets on high those who are lowly,' the wisdom statement of divine reversal that informs the first-last saying. It supports the reversal pattern's Recurrence. Contested and low: general reversal topos.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 28:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Covenant blessing promises abundance of children, livestock, and land 'a hundredfold' in plenty, faintly behind the promise of houses, family, and lands 'one hundred times more.' The hundredfold-in-the-land blessing supplies background imagery. Contested; thematic and inexact.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 26:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaac sows and reaps 'a hundredfold' because the LORD blessed him, a concrete OT instance of the hundredfold blessing language Jesus uses. It supplies Availability for 'one hundred times more.' Contested and low: a single lexical resonance.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.5",
+    "ch": 10,
+    "ref": "10:32-34",
+    "echoes": [
+      {
+        "source": "Isaiah 50:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The third Servant Song's 'I gave my back to those who strike, and my cheeks to those who pluck out the hair; I did not hide my face from shame and spitting' supplies the specifics of Jesus' passion forecast: mocking, spitting, and scourging. The catalogue of indignities matches Mark's verbs closely. High Volume and Coherence with Mark's Servant Christology.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:3-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Servant despised, oppressed, and led to death, then vindicated, frames the rejection-suffering-vindication shape of the passion prediction. Mark's 'condemn him to death... and on the third day he will rise' tracks the Servant's humiliation-and-exaltation arc. Recurrence of Isaiah 53 across the passion narrative strengthens this.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'After two days he will revive us; on the third day he will raise us up' is the principal OT source for the 'third day' resurrection formula. The phrase's distinctive temporal marker matches 'on the third day he will rise again.' Second-Temple use of Hosea 6:2 for resurrection timing raises its plausibility.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The Son of Man' as Jesus' self-designation derives from the one 'like a son of man' who comes to the Ancient of Days and receives dominion. Mark fuses this exalted figure with the suffering of the Servant. The title's repeated appearance in Mark and its Danielic root make the allusion strong.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The scorned and mocked sufferer ('all who see me mock me') anticipates 'they will mock him,' linking the prediction to the passion psalm Mark cites at the cross. The mockery motif coheres with Mark's later use of Psalm 22. Contested here because the contact is anticipatory and thematic.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.6",
+    "ch": 10,
+    "ref": "10:35-45",
+    "echoes": [
+      {
+        "source": "Isaiah 53:10-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Servant who 'pours out his soul to death,' 'bears the sin of many,' and makes his life a guilt offering 'for many' is the controlling source for 'to give his life as a ransom for many.' The distinctive vicarious 'for many' (rabbim) and the substitutionary death match decisively. This is the chapter's major Servant allusion, high in Volume and Coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 51:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jerusalem has drunk 'the cup of his wrath... the bowl of staggering,' the cup-of-judgment imagery behind 'the cup that I drink.' Jesus takes upon himself the cup of divine wrath the city must drink. The cup as wrath to be consumed coheres with the passion's substitutionary logic.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 75:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'In the hand of the LORD there is a cup... and he pours it out; surely all the wicked of the earth shall drain it' establishes the cup as the draught of God's judgment. Jesus' question 'are you able to drink the cup that I drink' draws on this judicial cup. The wrath-cup motif's Recurrence (Jeremiah 25, Isaiah 51) supports it.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 25:15-28",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The prophet makes the nations drink 'the cup of the wine of wrath,' the most extended OT development of the wrath-cup that Jesus alludes to. It strengthens the Recurrence of the cup-of-judgment tradition behind Mark 10:38. Marked contested only as to which cup-text is primary; Isaiah 51 and Psalm 75 are nearer.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "James and John request seats 'in your glory,' echoing the dominion and glory given to the son of man, while the right-and-left thrones evoke enthronement in the Danielic kingdom. The petition presupposes the Son of Man's coming glory. Coherence with the Daniel 7 background of Mark's Son of Man title supports the link.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 110:1",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The request to sit 'at your right hand' draws on the royal enthronement of the king at God's right hand. The right-hand seat of honor is the Psalm 110 image Mark elsewhere applies to Jesus. The single-side request makes the echo partial but apt; marked contested as to directness.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 9:24-26",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The 'anointed one' cut off and atonement made 'for iniquity' resonates faintly with the ransoming death 'for many.' It supplies a Second-Temple frame for a representative figure's atoning death. Low and contested: conceptual, no verbal lock.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Dominion is given to the saints, yet the kingdom's authority is from God, against which the Gentile kings who 'lord it over' their nations are contrasted. Jesus' antithesis between Gentile rulers' domination and servanthood draws on this kingdom-of-God-versus-beastly-empires schema. The contrast of empires coheres with Daniel 7.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 30:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The atonement-money 'ransom for his life' paid at the census supplies cultic background for lytron, 'ransom.' It frames a life-price offered to redeem. Contested and low: Mark's ransom is more directly Isaianic (53:10-12), but the redemption-price vocabulary is available here.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 25:48-49",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The kinsman-redeemer who pays a price to redeem (gaal/lytron) supplies the OT economy of ransom behind 'a ransom for many.' It contributes Availability for the redemption metaphor. Contested; background vocabulary rather than citation.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 49:7-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "No one can 'ransom' a brother or give God 'the price of his life,' for the ransom of a soul is costly, sharpening the surprise that the Son of Man does give exactly such a ransom 'for many.' The psalm sets up the impossibility Jesus' death answers. Contested and low: an inverted thematic contact.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "10.7",
+    "ch": 10,
+    "ref": "10:46-52",
+    "echoes": [
+      {
+        "source": "2 Samuel 7:12-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Bartimaeus hails Jesus as 'Son of David,' invoking the Davidic covenant promise of an everlasting throne to David's offspring. The acclamation is messianic, identifying Jesus as the promised royal heir as he approaches Jerusalem. The title's covenantal weight and its placement before the entry give the allusion high Volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 35:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Then the eyes of the blind shall be opened' is the prophetic sign of the coming salvation, fulfilled as Bartimaeus 'received his sight.' The opening of blind eyes marks the in-breaking of God's redemptive reign, coherent with Mark's framing of Jesus' mighty works. Strong Volume and a recurrent Isaianic restoration motif.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 146:8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD opens the eyes of the blind,' a direct attribution to God of the act Jesus performs, framing the healing as divine work. The psalm's catalogue of the LORD's saving deeds for the afflicted coheres with the beggar's restoration. The verbal match on opening blind eyes raises the allusion above generic.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Servant is given 'to open the eyes that are blind,' tying the sight-giving to the Servant's commission Mark develops in this chapter. The healing thus enacts the Servant program alongside the ransom saying. Coherence with the chapter's Servant theology supports the link.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 6:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'Have mercy on me, O LORD' is the recurrent psalmic cry for mercy that Bartimaeus repeats ('have mercy on me'). The petition voices the lament-form plea for divine compassion now directed to the Son of David. The Recurrence of 'have mercy on me' across the Psalter (Pss 6, 9, 41, 51) supports the echo; marked contested as a liturgical commonplace.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 29:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The eyes of the blind shall see out of obscurity and out of darkness' adds to the Isaianic chorus of restored sight behind the healing. It reinforces Recurrence of the opened-eyes promise. Contested and low: secondary to Isaiah 35:5.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 51:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Have mercy on me, O God, according to your steadfast love' is the best-known of the mercy-pleas and shapes the form of Bartimaeus' cry. It supplies the penitential-petition register. Contested and low: the cry is a stock liturgical phrase rather than a citation of this psalm specifically.",
+        "contested": true
+      }
+    ]
+  }
+]

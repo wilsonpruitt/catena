@@ -1,0 +1,90 @@
+[
+  {
+    "id": "12.1",
+    "ch": 12,
+    "ref": "12:1-12",
+    "echoes": [
+      { "source": "Isaiah 5:1-2", "type": "allusion", "confidence": "high", "note": "The parable's opening reproduces the Song of the Vineyard nearly clause for clause: a man plants a vineyard, sets a hedge/fence around it, digs a pit for the winepress, and builds a tower. The verbal volume is overwhelming (LXX Isaiah supplies phragmos 'hedge,' hypolenion 'winepress pit,' pyrgos 'tower'), and coherence is total since both texts indict Israel's leadership through the vineyard image. This is the load-bearing intertext of the pericope.", "contested": false },
+      { "source": "Isaiah 5:7", "type": "allusion", "confidence": "high", "note": "Isaiah identifies the vineyard explicitly as 'the house of Israel' and looks for justice but finds bloodshed; Mark's parable likewise turns on the owner seeking fruit and finding murderous tenants. The interpretive key Mark assumes — that the vineyard is the covenant people and the owner is God — is supplied directly by Isaiah 5:7, making the allusion not merely scenic but thematic.", "contested": false },
+      { "source": "Psalm 118:22-23", "type": "quotation", "confidence": "high", "note": "Mark 12:10-11 quotes verbatim from LXX Psalm 117(118): 'The stone which the builders rejected, the same was made the head of the corner; this was from the Lord, and it is marvelous in our eyes.' This is a formal citation introduced by 'Have you not read this Scripture,' and it functions as the parable's vindication of the slain son. The Volume and explicitness are maximal.", "contested": false },
+      { "source": "Isaiah 28:16", "type": "echo", "confidence": "medium", "note": "Isaiah's tested cornerstone laid in Zion belongs to the same Second-Temple 'stone' testimony cluster that Mark draws on via Psalm 118. While Mark quotes only the Psalm, the messianic-stone catena that early readers heard behind 'head of the corner' typically braided Isaiah 28:16 (precious cornerstone) and Daniel 2 with it, so its availability and coherence support a faint echo.", "contested": true },
+      { "source": "Daniel 2:34-35", "type": "echo", "confidence": "low", "note": "Daniel's stone, cut without hands, that destroys the kingdoms and fills the earth feeds the wider stone-testimonia tradition that Christian and Jewish readers associated with Psalm 118's rejected stone. The link here is associative rather than verbal and rests on the established recurrence of these texts together in the Second-Temple stone catena.", "contested": true },
+      { "source": "Genesis 22:2", "type": "echo", "confidence": "medium", "note": "The owner's 'one beloved son' (huion agapeton) whom he sends last echoes the Aqedah language where God names Isaac 'your beloved son.' Mark has already used 'beloved Son' at the baptism and transfiguration, so recurrence within the Gospel raises the volume; the figural resonance of a beloved son sent to death sharpens the parable's pathos.", "contested": true },
+      { "source": "Genesis 37:18-20", "type": "echo", "confidence": "low", "note": "The tenants' deliberation, 'Come, let us kill him, and the inheritance will be ours,' verbally mirrors Joseph's brothers' plot, 'Come, let us kill him... and we shall see what becomes of his dreams.' The conspiratorial cohortative 'Come, let us kill' is distinctive enough to register as a faint Joseph echo, reinforcing the motif of a beloved son betrayed by his own.", "contested": true },
+      { "source": "Psalm 80:8-16", "type": "echo", "confidence": "medium", "note": "Psalm 80 is the other major vineyard-as-Israel poem, lamenting that God brought a vine out of Egypt, broke down its hedges, and prays for the 'son' he made strong. Its pairing of vineyard imagery with a 'son of man at God's right hand' coheres with Mark's parable and its sequel, making it a plausible secondary scriptural matrix alongside Isaiah 5.", "contested": true },
+      { "source": "Jeremiah 7:25-26", "type": "echo", "confidence": "medium", "note": "The motif of God repeatedly sending his servants the prophets, who are beaten and killed, is a Deuteronomistic commonplace that Mark's sequence of mistreated servants dramatizes. Jeremiah's 'I sent you all my servants the prophets, daily rising up early and sending them, yet they did not listen' supplies the theology of the rejected-servant chain.", "contested": false },
+      { "source": "2 Chronicles 24:20-21", "type": "echo", "confidence": "medium", "note": "Zechariah son of Jehoiada, stoned to death in the temple court for prophesying, is the paradigmatic murdered messenger of the Chronicler. The tenants who 'threw stones' at and 'killed' the sent servants enact this Deuteronomistic pattern of prophet-killing, which Jesus elsewhere frames as Israel's history of rejecting its messengers.", "contested": true }
+    ]
+  },
+  {
+    "id": "12.2",
+    "ch": 12,
+    "ref": "12:13-17",
+    "echoes": [
+      { "source": "Genesis 1:26-27", "type": "echo", "confidence": "medium", "note": "Jesus' question 'Whose image (eikon) and inscription is this?' and the verdict 'render to God the things that are God's' trades on the assumption that, as the coin bears Caesar's image, the human person bears God's image and so is owed to God. The image-of-God theology of Genesis 1 supplies the unspoken second half of the antithesis; the eikon vocabulary strengthens the link.", "contested": true },
+      { "source": "Exodus 20:4", "type": "echo", "confidence": "low", "note": "The provocative display of a coin bearing the emperor's graven image in temple precincts plays on Israel's aniconic commitment against making images. The Decalogue's prohibition of graven images lurks behind the trap, since possessing Caesar's image already compromises the questioners, but the connection is thematic rather than cited.", "contested": true },
+      { "source": "Proverbs 24:21", "type": "echo", "confidence": "low", "note": "Proverbs' counsel to 'fear the Lord and the king, and do not associate with those who change' offers a wisdom precedent for distinguishing honor due to God from honor due to the sovereign. The conceptual parallel to 'render to Caesar and to God' is real but diffuse, with no verbal overlap.", "contested": true }
+    ]
+  },
+  {
+    "id": "12.3",
+    "ch": 12,
+    "ref": "12:18-27",
+    "echoes": [
+      { "source": "Deuteronomy 25:5-6", "type": "quotation", "confidence": "high", "note": "The Sadducees cite the levirate law almost verbatim: 'If a man's brother dies and leaves a wife and no child, his brother should take the wife and raise up offspring for his brother.' Mark frames it as 'Moses wrote to us,' a formal scriptural citation that sets up the resurrection test case.", "contested": false },
+      { "source": "Genesis 38:8", "type": "allusion", "confidence": "medium", "note": "The earliest narrative enactment of levirate duty is Onan, commanded to 'go in to your brother's wife and raise up offspring for your brother' — the precise idiom the Sadducees use. Genesis 38 is the practical backdrop to the Deuteronomic statute and likely shapes the wording of their hypothetical.", "contested": true },
+      { "source": "Exodus 3:6", "type": "quotation", "confidence": "high", "note": "Jesus' decisive proof of resurrection is the formal quotation of God's self-identification at the bush: 'I am the God of Abraham, the God of Isaac, and the God of Jacob.' He explicitly cites 'the book of Moses, in the passage about the bush,' and argues God is God of the living, not the dead. This is the pericope's load-bearing citation.", "contested": false },
+      { "source": "Tobit 3:7-8", "type": "echo", "confidence": "low", "note": "Sarah's seven successive husbands who die before consummation (each taken by the demon Asmodeus) is the closest Second-Temple analogue to the Sadducees' woman with seven husbands. Availability is strong (Tobit was widely read), and the shared number-seven serial-marriage motif suggests the deuterocanonical tale may color the construction of the test case.", "contested": true },
+      { "source": "Daniel 12:2-3", "type": "echo", "confidence": "medium", "note": "Daniel's promise that many who sleep in the dust will awake, and the wise will shine like the stars, is the clearest OT resurrection text and grounds the doctrine the Sadducees deny. Jesus' claim that the risen are 'like angels in heaven' coheres with Daniel's astral/angelic glorification of the righteous dead.", "contested": true },
+      { "source": "Genesis 18:14", "type": "echo", "confidence": "low", "note": "Jesus charges the Sadducees with not knowing 'the power of God,' the same divine power that, per Genesis, makes the barren conceive and does what is humanly impossible. The 'power of God' that raises the dead resonates with the patriarchal narratives of God overriding natural limits, though the link is conceptual.", "contested": true }
+    ]
+  },
+  {
+    "id": "12.4",
+    "ch": 12,
+    "ref": "12:28-34",
+    "echoes": [
+      { "source": "Deuteronomy 6:4-5", "type": "quotation", "confidence": "high", "note": "Jesus names the greatest commandment by quoting the Shema in full: 'Hear, O Israel, the Lord our God, the Lord is one; and you shall love the Lord your God with all your heart, soul, mind, and strength.' This is a formal, explicit citation of Israel's central confession, the pericope's anchor text.", "contested": false },
+      { "source": "Leviticus 19:18", "type": "quotation", "confidence": "high", "note": "The second commandment, 'You shall love your neighbor as yourself,' is quoted verbatim from the Holiness Code. Mark's pairing of Deuteronomy 6 and Leviticus 19 as the summary of the Law is a formal double citation that the scribe affirms.", "contested": false },
+      { "source": "Deuteronomy 4:35", "type": "echo", "confidence": "medium", "note": "The scribe's approving gloss, 'he is one, and there is no other but he,' echoes Deuteronomy's monotheistic confession 'the Lord is God; there is no other besides him.' This buttresses the Shema's 'the Lord is one' with the classic Deuteronomic affirmation of God's uniqueness.", "contested": false },
+      { "source": "Isaiah 45:21", "type": "echo", "confidence": "low", "note": "Deutero-Isaiah's repeated 'there is no other God besides me' supplies the same monotheistic formula the scribe uses ('there is none other but he'). Given the recurrence of this oneness language across Deuteronomy and Isaiah, the scribe's confession may draw on the broader prophetic monotheism as well as the Shema.", "contested": true },
+      { "source": "1 Samuel 15:22", "type": "allusion", "confidence": "medium", "note": "The scribe declares that loving God and neighbor is 'more than all whole burnt offerings and sacrifices,' echoing Samuel's rebuke that 'to obey is better than sacrifice.' The prioritizing of covenant love and obedience over cultic offering is a prophetic commonplace the scribe deliberately invokes.", "contested": false },
+      { "source": "Hosea 6:6", "type": "allusion", "confidence": "medium", "note": "Hosea's 'I desire mercy/steadfast love, not sacrifice, and the knowledge of God rather than burnt offerings' lies directly behind the scribe's ranking of love above 'whole burnt offerings.' The pairing of love-of-God with the relativizing of burnt offerings closely matches Hosea's formula.", "contested": false },
+      { "source": "Micah 6:6-8", "type": "echo", "confidence": "low", "note": "Micah's contrast between multiplied burnt offerings and the real requirement to do justice, love mercy, and walk humbly with God supplies the same prophetic logic the scribe applies. It belongs to the recurrent prophetic critique that ethical love outweighs sacrifice, reinforcing the scribe's verdict.", "contested": true },
+      { "source": "Joshua 22:5", "type": "echo", "confidence": "low", "note": "Joshua's exhortation to love the Lord, walk in his ways, and serve him 'with all your heart and all your soul' echoes the Shema's totalizing love-language that Jesus quotes. As a near-verbatim restatement of Deuteronomy's command, it shows the formula's currency but adds little beyond the primary citation.", "contested": true }
+    ]
+  },
+  {
+    "id": "12.5",
+    "ch": 12,
+    "ref": "12:35-37",
+    "echoes": [
+      { "source": "Psalm 110:1", "type": "quotation", "confidence": "high", "note": "Jesus quotes verbatim 'The Lord said to my Lord, Sit at my right hand until I make your enemies the footstool of your feet,' attributing it to David 'in the Holy Spirit.' This is the pericope's formal citation, the entire argument about the Messiah being David's Lord turns on it.", "contested": false },
+      { "source": "2 Samuel 7:12-14", "type": "echo", "confidence": "medium", "note": "The premise that the Christ is 'the son of David' rests on the Davidic covenant promise that God will raise up David's offspring and be a father to him. The scribal expectation Jesus interrogates is generated by Nathan's oracle, making it the necessary background to the riddle even though it is not quoted.", "contested": true },
+      { "source": "Psalm 8:6", "type": "echo", "confidence": "low", "note": "The 'footstool' / subjugation-of-enemies-under-the-feet motif overlaps with Psalm 8's 'you have put all things under his feet.' The enthronement imagery of dominion beneath the feet belongs to a recurring royal/messianic cluster that interpreters frequently read alongside Psalm 110.", "contested": true }
+    ]
+  },
+  {
+    "id": "12.6",
+    "ch": 12,
+    "ref": "12:38-40",
+    "echoes": [
+      { "source": "Exodus 22:22-24", "type": "allusion", "confidence": "medium", "note": "Jesus condemns scribes who 'devour widows' houses,' invoking the covenant's strict protection of widows: God hears the cry of any widow afflicted and his wrath burns against the oppressor. The exploitation of widows is precisely the sin the Torah threatens with divine vengeance, grounding the prophetic 'greater condemnation.'", "contested": false },
+      { "source": "Isaiah 10:1-2", "type": "allusion", "confidence": "medium", "note": "Isaiah pronounces woe on those who make widows their prey and rob the needy of justice, the same predatory devouring of widows Jesus denounces. The prophetic woe-against-widow-plunderers tradition supplies both the indictment and the eschatological judgment Jesus announces.", "contested": false },
+      { "source": "Deuteronomy 24:17", "type": "echo", "confidence": "low", "note": "The Torah's prohibition against perverting justice due the widow or taking her garment in pledge frames widows as the paradigmatic protected class. Jesus' charge that the scribes devour widows' houses presupposes this legal duty of care that they have inverted.", "contested": true },
+      { "source": "Malachi 3:5", "type": "echo", "confidence": "low", "note": "Malachi names those who oppress the widow among the wrongdoers God will swiftly judge. The pairing of widow-oppression with imminent divine reckoning parallels Jesus' 'these will receive greater condemnation,' reinforcing the prophetic-judgment frame.", "contested": true },
+      { "source": "Sirach 35:14-15", "type": "echo", "confidence": "low", "note": "Ben Sira insists God does not ignore the supplication of the widow nor her tears running down her cheek, and will repay her oppressor. This Second-Temple wisdom text, available to Mark's milieu, coheres with the indictment of those who profit from widows.", "contested": true }
+    ]
+  },
+  {
+    "id": "12.7",
+    "ch": 12,
+    "ref": "12:41-44",
+    "echoes": [
+      { "source": "1 Kings 17:8-16", "type": "echo", "confidence": "medium", "note": "The poor widow who gives 'all that she had to live on' strongly recalls the widow of Zarephath who, at Elijah's word, spends her last handful of meal trusting God for provision. The shared figure of a destitute widow giving her entire remaining sustenance makes this the closest narrative analogue and likely a deliberate typological echo.", "contested": true },
+      { "source": "Leviticus 27:30", "type": "echo", "confidence": "low", "note": "The treasury-offering setting and the contrast between giving from abundance versus giving all evoke the Torah's regulation of dedicated gifts and tithes. The widow's total gift outdoes proportional giving, implicitly measuring devotion against the cultic baseline of the tithe.", "contested": true },
+      { "source": "Deuteronomy 24:19-21", "type": "echo", "confidence": "low", "note": "Deuteronomy's gleaning laws structurally cast the widow as a recipient of charity, not a donor; Mark inverts the expectation by showing the widow as giver, which heightens the pathos of her poverty against the Torah's assumption that widows need provision rather than provide it.", "contested": true },
+      { "source": "2 Kings 12:9", "type": "echo", "confidence": "low", "note": "The temple treasury chest where money was cast, established in Jehoiada's reform, is the institutional backdrop of the scene. Mark's 'treasury' and the act of casting coins into it presuppose this cultic apparatus, a faint but concrete OT realia echo.", "contested": true }
+    ]
+  }
+]

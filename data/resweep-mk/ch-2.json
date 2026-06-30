@@ -1,0 +1,268 @@
+[
+  {
+    "id": "2.1",
+    "ch": 2,
+    "ref": "2:1-12",
+    "echoes": [
+      {
+        "source": "Isaiah 43:25",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The scribes' objection \"Who can forgive sins but God alone?\" (v.7) presupposes the prophetic axiom of Isa 43:25, \"I, even I, am he who blots out your transgressions for my own sake.\" High volume on the distinctive theology that pardon of sin is God's sole prerogative; Mark stages Jesus' authority precisely against this exclusive divine claim. Recurrence is strong in Isaiah's forgiveness oracles (44:22).",
+        "contested": false
+      },
+      {
+        "source": "Exodus 34:6-7",
+        "type": "echo",
+        "confidence": "high",
+        "note": "The covenant self-revelation of YHWH as the God \"forgiving iniquity and transgression and sin\" is the foundational text behind the scribes' assumption that forgiveness belongs to God alone. Thematic coherence is high: Jesus' pronouncement of forgiveness enacts a divine attribute scripturally reserved to the LORD. The verbal contact is via the shared lexeme of forgiving sin rather than direct quotation.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"The Son of Man has authority on earth to forgive sins\" (v.10) draws on Dan 7:13-14, where \"one like a son of man\" is given dominion and authority before the Ancient of Days. High distinctiveness in the title plus the keyword \"authority\" (exousia), which Mark recurs at 2:28 and the eschatological discourse (13:26). Mark transposes the heavenly investiture into earthly authority.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 103:3",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Who forgives all your iniquities, who heals all your diseases\" pairs forgiveness and healing exactly as Mark 2:1-12 does, where pardon is demonstrated by the cure of the paralytic. Thematic coherence is strong: the psalm makes the two divine acts a single benefaction, which is the logic of Jesus' \"which is easier\" challenge (v.9). Verbal volume is modest, carried by the forgiveness/healing pairing.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 35:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"Then shall the lame man leap like a deer\" anchors the healing of the paralytic in Isaiah's eschatological restoration, where bodily wholeness signals the inbreaking reign of God. Thematic coherence with Mark's miracle is high; the crowd's astonishment (\"We never saw anything like this!\", v.12) fits the new-thing motif of Isaiah 35 and 43. Verbal repetition is limited, so this is an echo rather than allusion.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 32:1-5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The psalm links the blessedness of the one \"whose transgression is forgiven\" with the bodily wasting that lifts when sin is confessed and pardoned. This is the closest OT paradigm for Mark's premise that the paralytic's deeper need is forgiveness, healed alongside the body. Coherence is strong though the verbal contact is thematic.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 130:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"But there is forgiveness with you, that you may be feared\" reinforces the scribal premise that pardon is a divine possession evoking reverence; the crowd's reaction is awe and glorifying God (v.12). Low volume and no verbal borrowing, but thematically coherent with the chapter's contest over who may forgive.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 24:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The scribes charge \"blasphemies\" (v.7); Lev 24:16 makes blasphemy of the Name a capital offense, supplying the legal background to their unspoken accusation. Coherence is high: Mark frames Jesus' forgiveness as an apparent usurpation of the divine Name that the Law guards. The link is conceptual rather than quoted.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 33:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"No inhabitant will say, 'I am sick'; the people who dwell there will be forgiven their iniquity\" joins healing and forgiveness as twin marks of Zion's restoration, exactly the combination Mark dramatizes. The echo is faint and verbally thin, but thematically apt to the pericope's fusion of the two.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.2",
+    "ch": 2,
+    "ref": "2:13-17",
+    "echoes": [
+      {
+        "source": "Hosea 6:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "\"I desire mercy and not sacrifice\" underlies Jesus' defense of eating with tax collectors and sinners and his mission \"to call sinners.\" Mark does not quote it (unlike Matt 9:13), but the mercy-over-cult logic governs the table-fellowship dispute, making this a genuine thematic echo. Recurrence within the Synoptic tradition strengthens the case even where Mark leaves it implicit.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 34:16",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"I will seek the lost, and I will bring back the strayed... but the fat and the strong I will destroy\" matches Jesus' physician saying: he comes for the sick, not the healthy, for sinners, not the self-righteous. The shepherd-God who seeks the weak is reworked into Jesus' calling of Levi and the sinners. Coherence and the recurrence of the shepherd motif in Mark (6:34) support an allusion.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 34:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The indictment of shepherds who did not heal the sick or seek the lost frames Jesus' physician aphorism (v.17) as a contrast to negligent leaders. The verbal contact is the sick/strayed sheep imagery rather than quotation, so an echo. It coheres with Mark's critique of the scribes and Pharisees.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 16:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"The LORD looks on the heart\" while man judges by outward appearance illuminates Jesus' choice of the tax collector Levi and his welcome of those the religious dismiss. Faint and verbally remote, but thematically coherent with the chapter's reversal of who is fit for God. Marked low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 9:1-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom's banquet invitation to the simple and those who lack sense offers a sapiential pattern for Jesus reclining at table with sinners and summoning them. The link rests on the meal-as-invitation-to-the-unworthy motif, with no verbal borrowing. Contested and low.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 8:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Is there no balm in Gilead? Is there no physician there?\" supplies the OT physician-for-the-sick imagery behind Jesus' aphorism in v.17. The shared healer/sickness vocabulary is suggestive though faint, and the prophetic question concerns the unhealed wound of God's people, coherent with Jesus' mission to sinners.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.3",
+    "ch": 2,
+    "ref": "2:18-22",
+    "echoes": [
+      {
+        "source": "Isaiah 62:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"As the bridegroom rejoices over the bride, so shall your God rejoice over you\" supplies the OT bridegroom-as-God imagery Jesus claims for himself in the fasting dispute (v.19). The metaphor of the wedding feast as the time of joy when fasting is impossible is distinctively prophetic, and Mark's recurrence of the eschatological-banquet theme supports the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Hosea 2:19-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Hosea's betrothal oracle, \"I will betroth you to me forever,\" establishes the covenant marriage between God and his people behind the bridegroom saying. Jesus casting himself as bridegroom appropriates this YHWH-as-husband tradition; the wedding joy that suspends fasting coheres with Hosea's restored marriage. The link is thematic rather than verbal.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Let the bridegroom leave his room\" amid a summons to fasting and assembly provides a Second-Temple resonance for the juxtaposition of bridegroom and fasting that Mark inverts. The verbal contact is the rare \"bridegroom\" lexeme in a fasting context, but the sense is opposite, so a faint contested echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 54:5-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"Your Maker is your husband\" continues the prophetic marriage metaphor that legitimates Jesus' bridegroom self-identification. No verbal borrowing, but it reinforces the availability of the God-as-husband tradition Jesus draws on. Contested and low.",
+        "contested": true
+      },
+      {
+        "source": "Amos 8:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"I will turn your feasts into mourning\" anticipates the day when the bridegroom is \"taken away\" and the guests will fast (v.20). The reversal of feast to mourning matches Mark's prediction of grief, an echo carried by theme rather than wording. Low and contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The bridegroom \"taken away\" (v.20) may glance at the servant who \"was taken away\" (cut off from the land of the living), hinting at the passion. Verbal overlap on the being-taken-away language is suggestive but slight, so a faint contested echo with possible passion typology.",
+        "contested": true
+      },
+      {
+        "source": "Job 32:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"My belly is like wine that has no vent; like new wineskins ready to burst\" is the closest OT image to Jesus' new-wine/old-skins parable (v.22). The shared bursting-new-wineskins picture gives a sapiential source for the figure, though Jesus applies it to the incompatibility of the new order with the old. Marked low.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 31:31-33",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The new-cloth and new-wine sayings figure the incompatibility of the inbreaking kingdom with the old order, typologically resonant with Jeremiah's new covenant that supersedes the broken one. There is no verbal borrowing, only a structural correspondence between new wine and new covenant. Listed as figural and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "2.4",
+    "ch": 2,
+    "ref": "2:23-28",
+    "echoes": [
+      {
+        "source": "1 Samuel 21:1-6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Jesus' question \"Did you never read what David did, when he had need... how he entered the house of God... and ate the show bread\" (vv.25-26) directly retells 1 Sam 21:1-6. High volume: the showbread, David's hunger, and the unlawfulness for non-priests are all reproduced. Mark's reference to Abiathar (vs. Ahimelech in the source) is the well-known crux but confirms the deliberate citation.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 24:5-9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The show bread (Bread of the Presence) and its rule that only the priests may eat it (v.26) come from Lev 24:5-9. Mark presupposes this legislation to make the David precedent meaningful: human need overrides cultic restriction. High coherence and verbal contact on \"show bread\" and \"lawful... except for the priests.\"",
+        "contested": false
+      },
+      {
+        "source": "Genesis 2:2-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"The Sabbath was made for man\" (v.27) appeals to the creation ordinance where God rests and hallows the seventh day for humanity's sake. Distinctive theology: Sabbath is grounded in creation, not merely Sinai, which supports Jesus' claim that it serves man. Strong thematic coherence with the original institution of rest.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:8-11",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The Decalogue Sabbath command, with its creation rationale, is the law the Pharisees invoke against the disciples' grain-plucking (v.24). Jesus does not abolish but reinterprets it: \"the Sabbath was made for man.\" High coherence; the dispute over what is \"lawful on the Sabbath\" presupposes this command.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 5:12-15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Deuteronomic Sabbath command, with its humanitarian rationale (so servants may rest), reinforces Jesus' principle that the Sabbath exists for human benefit. The man-centered framing in v.27 coheres especially with Deuteronomy's emphasis on rest for people. Allusion via the Sabbath legislation cited in the dispute.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 23:25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "\"When you come into your neighbor's standing grain, you may pluck the ears with your hand\" legitimates the disciples' action itself (v.23); the Pharisees object only to the Sabbath timing, not the plucking. This law shows the disciples were not stealing, sharpening the dispute as purely about Sabbath observance. Verbal contact on plucking ears of standing grain.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "\"The Son of Man is lord even of the Sabbath\" (v.28) again invokes the Danielic figure given universal dominion, here extended to lordship over the sacred day. The keyword authority/lordship recurs from v.10, binding the chapter's two Son of Man sayings to Dan 7:13-14. High distinctiveness in the title and the claim of comprehensive authority.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 31:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "\"You shall keep the Sabbath... whoever profanes it shall be put to death\" supplies the gravity behind the Pharisees' charge that the disciples do \"what is not lawful\" (v.24). The capital seriousness of Sabbath violation explains the intensity of the objection. Echo by legal background rather than quotation.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 15:32-36",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The narrative of the man executed for gathering sticks on the Sabbath illustrates the rigorist reading of Sabbath labor the Pharisees apply to grain-plucking. It supplies a precedent for treating such acts as forbidden work, against which Jesus' humane principle is set. Faint, contested echo via the work-on-Sabbath theme.",
+        "contested": true
+      },
+      {
+        "source": "1 Maccabees 2:39-41",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Maccabean decision that preserving life overrides strict Sabbath rest establishes a Second-Temple precedent that human need can qualify Sabbath law, the very logic of Jesus' argument. As an available pre-Markan deuterocanonical source it strengthens the plausibility of \"the Sabbath was made for man.\" The contact is conceptual, not verbal, so an echo.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The mercy-not-sacrifice principle that frames the table dispute (2.2) also undergirds the Sabbath argument: human need (hunger) outweighs ritual strictness. The recurrence of the same theme across both controversy stories supports a faint thematic echo here. Low and contested.",
+        "contested": true
+      }
+    ]
+  }
+]

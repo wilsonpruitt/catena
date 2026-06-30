@@ -1,0 +1,250 @@
+[
+  {
+    "id": "3.1",
+    "ch": 3,
+    "ref": "3:1-6",
+    "echoes": [
+      {
+        "source": "Deuteronomy 5:12-15",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Sabbath conflict presupposes the Decalogue Sabbath command, which in Deuteronomy's form roots the day in liberation and mercy ('that your servant may rest'). Jesus' 'is it lawful to do good?' reframes the commandment toward the merciful, life-giving intent the text already carries. High thematic coherence with the Deuteronomic humanitarian rationale.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 20:8-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The other Decalogue form of the Sabbath law stands directly behind the legal dispute over Sabbath healing. Availability and recurrence are strong; the verbal echo is to the command itself rather than to specific words of the verse.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jesus' antithesis 'to do good or to do harm, to save a life or to kill' mirrors the Deuteronomic covenant choice 'I have set before you life and death, good and evil.' The paired good/evil, life/death structure suggests a deliberate framing of Sabbath observance as a covenant life-or-death decision. Thematic coherence is high though no verbatim quotation.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 6:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Grieved at the hardening of their hearts' echoes Isaiah's prophecy of a people whose heart is made fat and unresponsive, a motif Mark deploys elsewhere for the obtuse. The vocabulary of hardened heart (porosis) recurs in Mark for opponents and disciples, raising recurrence and coherence.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 7:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The hardening-of-heart language evokes the Exodus Pharaoh tradition, where God hardens, or Pharaoh hardens, the heart against the works of God. Mark's opponents resist a manifest sign as Pharaoh resisted the plagues. Faint and thematic, marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Is it lawful to do good?' aligns with the prophetic priority of mercy over cultic/ritual scruple ('I desire mercy, not sacrifice'). The healing-over-Sabbath logic coheres with Hosea's critique, though Mark does not cite it. Low volume, contested.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 13:4-6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeroboam's hand withered and then restored offers an OT precedent of a withered/restored hand in a charged cultic confrontation. The verbal link (withered hand, restoration) is suggestive but the contexts differ sharply; possible figural resonance only.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.2",
+    "ch": 3,
+    "ref": "3:7-12",
+    "echoes": [
+      {
+        "source": "Isaiah 49:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The gathering of crowds from Idumaea, Tyre, Sidon and beyond the Jordan hints at the eschatological ingathering of the nations to the Servant who is a light to them. The named Gentile-adjacent regions raise coherence with Isaiah's universal scope, though the link is thematic, not verbal.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 107:20",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The mass healing of the afflicted who press to touch him echoes the psalm's 'he sent his word and healed them.' Recurrence of the healing-deliverance motif in the Psalms supports coherence; volume is low.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The unclean spirits' cry 'You are the Son of God' draws on the royal/messianic 'Son' tradition rooted in the enthronement psalm, already echoed at Jesus' baptism in Mark. Recurrence within Mark and availability of the title in Second Temple messianism strengthen the connection.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "3.3",
+    "ch": 3,
+    "ref": "3:13-19",
+    "echoes": [
+      {
+        "source": "Exodus 24:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus goes up the mountain and constitutes twelve, evoking Moses building twelve pillars for the twelve tribes at Sinai. The mountain ascent plus the number twelve makes the covenant-foundation typology strong; the appointment of twelve is widely read as Israel's eschatological reconstitution. High coherence and availability.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 49:28",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The deliberate count of twelve maps onto the twelve sons/tribes of Jacob, signaling the renewal of the twelve-tribe people around Jesus. Availability is total and the symbolism of twelve is unmistakable in a Jewish frame.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 28:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The twelve stones engraved with the names of the twelve tribes on the high priest's breastpiece reinforce the tribal symbolism of the named Twelve listed individually here. The naming of each disciple parallels the named tribal stones. Coherence is good though the echo is to the institution of twelve, not specific words.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 1:4-16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The selection of named tribal representatives, one set apart from each tribe to lead, parallels Jesus naming twelve leaders for the renewed Israel. The list-of-names form and representative function support coherence.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 11:16-17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Moses appointing leaders to share his authority/spirit prefigures Jesus appointing the Twelve to share his authority to preach and cast out demons. The delegation-of-authority motif coheres; verbal contact is faint.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 43:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Sons of Thunder' (Boanerges) may resonate with the storm/thunder theophany imagery applied to God's voice and zeal; thunder is a recurrent divine-presence symbol (Sinai, Psalm 29). The naming is suggestive but the OT anchor is diffuse, so marked contested and low.",
+        "contested": true,
+        "altSource": "Psalm 29:3"
+      },
+      {
+        "source": "Exodus 19:16-19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The mountain setting where the people are gathered and authority is conferred recalls the Sinai theophany with its thunder; the 'Sons of Thunder' epithet may draw on this. Faint, thematic, contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.4",
+    "ch": 3,
+    "ref": "3:20-30",
+    "echoes": [
+      {
+        "source": "Isaiah 49:24-25",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The strong-man parable, binding the strong man to plunder his house, closely tracks Isaiah's 'shall the prey be taken from the mighty?... I will contend... and save your children.' The vocabulary of the strong/mighty one and plunder/spoil maps onto the saying, and the theme of God liberating captives from a powerful captor gives high coherence. Strong volume for an OT background to the exorcism logic.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 53:12",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He shall divide the spoil with the strong' supplies the plunder-of-the-strong imagery underlying v.27. The Servant's victory and dividing of spoil coheres with Jesus despoiling Satan's house; an alternative or supplement to Isaiah 49.",
+        "contested": true,
+        "altSource": "Isaiah 49:24-25"
+      },
+      {
+        "source": "Psalm 18:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Deliverance 'from my strong enemy' parallels the binding of the strong man; the psalmist is rescued from a mightier foe by God's power. Thematic coherence with the rescue-from-the-strong motif; low volume.",
+        "contested": true
+      },
+      {
+        "source": "1 Samuel 16:14-23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Beelzebul charge and the question 'how can Satan cast out Satan?' play against OT traditions where an evil spirit from the Lord can be soothed, distinguishing genuine deliverance from collusion. Faint background to the exorcism dispute.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 18:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Baal/Beelzebul nomenclature derives from the lord-of-the-house/lord-of-flies deity polemicized in Kings; the scribes' charge weaponizes a pagan-deity name with deep OT polemical history (Ahaziah's inquiry of Baal-zebub in 2 Kings 1). Provides the name's availability and connotation.",
+        "contested": true,
+        "altSource": "2 Kings 1:2-3"
+      },
+      {
+        "source": "Numbers 15:30-31",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The unforgivable, eternally-condemning blasphemy against the Spirit echoes the Torah's 'high-handed' sin that cuts a person off with no atonement, the one defiant offense excluded from forgiveness. Coherence with the deliberate-sin-without-pardon category is strong.",
+        "contested": false
+      },
+      {
+        "source": "1 Samuel 3:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The iniquity of Eli's house shall not be atoned for by sacrifice forever' offers an OT precedent for a sin barred from forgiveness, paralleling the never-forgiven blasphemy. Thematic, low volume.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 63:10",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'They rebelled and grieved his holy Spirit, so he turned to be their enemy' is one of the rare OT texts naming the Holy Spirit and a rebellion against it. Attributing the Spirit's work to an unclean spirit (v.30) is precisely grieving/blaspheming the holy Spirit; availability of the exact phrase is notable.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 6:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Spirit's striving with humanity that does not abide forever offers a faint backdrop to a limit on forgiveness when the Spirit is rejected. Low volume and contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "3.5",
+    "ch": 3,
+    "ref": "3:31-35",
+    "echoes": [
+      {
+        "source": "Deuteronomy 33:9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Levi's blessing praises those who say of father, mother and brothers 'I do not know them,' keeping covenant over kin, exactly the relativizing of natural family for the sake of God's word that Jesus enacts. Strong thematic coherence with redefining kinship around obedience to God.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 32:27-29",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Levites' willingness to act against brother and son to do the Lord's will is invoked as covenant fidelity over blood ties, paralleling 'whoever does the will of God is my brother.' Thematic, low volume.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 40:8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'I delight to do your will, O my God' anchors the climactic criterion of kinship: doing the will of God. The will-of-God obedience theme has strong recurrence in the Psalter and high coherence with Jesus' redefinition of family.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 22:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will declare your name to my brothers' supplies a Davidic-righteous-sufferer model of a community of brothers gathered around the one who does God's will. Faint, but Psalm 22 is heavily mined by Mark's passion, raising recurrence.",
+        "contested": true
+      }
+    ]
+  }
+]

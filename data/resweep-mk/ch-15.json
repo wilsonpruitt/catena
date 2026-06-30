@@ -1,0 +1,155 @@
+[
+  {
+    "id": "15.1",
+    "ch": 15,
+    "ref": "15:1-5",
+    "echoes": [
+      { "source": "Isaiah 53:7", "type": "allusion", "confidence": "high", "note": "Jesus' refusal to answer Pilate's repeated questions ('Jesus made no further answer, so that Pilate marveled') enacts the Servant who 'was oppressed and afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter, and like a sheep before its shearers is silent, so he opened not his mouth.' The volume is high because Mark twice underscores the silence (vv. 4-5) precisely where defense is expected, and the Servant coherence runs through the whole passion. This is the load-bearing intertext of the trial.", "contested": false },
+      { "source": "Psalm 38:13-14", "type": "echo", "confidence": "medium", "note": "The suffering psalmist becomes 'like a deaf man' who 'hears not, and in whose mouth are no reproofs,' opening not his mouth before his accusers. The same psalm supplies later passion details (friends standing far off, v. 11), and its portrait of the afflicted righteous one mute before those who 'seek my hurt' coheres with Jesus' silence before Pilate.", "contested": true },
+      { "source": "Psalm 39:9", "type": "echo", "confidence": "low", "note": "'I was mute, I opened not my mouth, because you have done it' offers a further psalmic instance of the righteous sufferer's deliberate silence under affliction interpreted as God's doing. The link is conceptual rather than verbal but belongs to the same cluster of silent-sufferer texts available behind Mark's twice-noted silence.", "contested": true },
+      { "source": "Isaiah 50:7-8", "type": "echo", "confidence": "low", "note": "The third Servant Song's defendant who 'set my face like a flint,' confident that 'he who vindicates me is near' and asks 'who will contend with me?', frames the silent, composed bearing of the accused before a hostile tribunal. Its juridical setting coheres with Jesus standing wordless before Pilate's questions.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.2",
+    "ch": 15,
+    "ref": "15:6-15",
+    "echoes": [
+      { "source": "Isaiah 53:6", "type": "echo", "confidence": "medium", "note": "Pilate's 'handing over' (paredoken) of Jesus to be crucified continues the Servant motif that 'the Lord has laid on him the iniquity of us all' and that he was 'given up' for transgressions; the Greek paradidomi recurs across Mark's passion as the technical Servant-handing-over verb. The crowd's choice of a murderer-insurrectionist over the innocent one sharpens the substitution coherence.", "contested": true },
+      { "source": "Leviticus 16:7-10", "type": "figural", "confidence": "low", "note": "The release of Barabbas alongside the condemnation of Jesus has long been read figurally against the Day of Atonement's two goats: one released, one bearing sin to death. The pairing of a freed prisoner and a doomed one invites the scapegoat typology, though Mark makes no explicit citation and the connection rests on conceptual coherence.", "contested": true },
+      { "source": "Isaiah 53:11-12", "type": "echo", "confidence": "low", "note": "The innocent 'righteous one' delivered up while a guilty insurrectionist goes free echoes the Servant who 'bore the sin of many' and was 'numbered with transgressors.' The contrast between Barabbas the murderer and the sinless Jesus dramatizes the vicarious exchange the Servant Song announces.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.3",
+    "ch": 15,
+    "ref": "15:16-20",
+    "echoes": [
+      { "source": "Isaiah 50:6", "type": "allusion", "confidence": "high", "note": "The soldiers' mockery — striking Jesus' head, spitting on him, and abusing him — closely tracks the third Servant Song: 'I gave my back to those who struck me, and my cheeks to those who pulled out the beard; I hid not my face from shame and spitting.' The combination of striking and spitting (v. 19) is distinctive enough, and Isaiah 50 is so embedded in Mark's passion, that the allusion registers strongly.", "contested": false },
+      { "source": "Psalm 22:6-8", "type": "allusion", "confidence": "high", "note": "The mock-coronation — purple robe, thorn-crown, the sarcastic 'Hail, King of the Jews,' and homage — enacts the psalmist who is 'scorned by men and despised by the people,' mocked by all who see him. Psalm 22 is the controlling passion psalm in Mark 15, and the derisive royal homage coheres tightly with its portrait of the righteous sufferer made an object of contempt.", "contested": false },
+      { "source": "Psalm 69:19-20", "type": "echo", "confidence": "medium", "note": "'You know my reproach, and my shame and my dishonor... reproaches have broken my heart' supplies the other great passion psalm's vocabulary of public humiliation. Mark draws heavily on Psalm 69 (esp. v. 21), so the soldiers' degrading mockery resonates with this psalm's catalogue of shame as well.", "contested": true },
+      { "source": "Wisdom 2:19", "type": "echo", "confidence": "medium", "note": "The plotters in Wisdom resolve to 'test him with insult and torture, that we may find out how gentle he is, and make trial of his forbearance.' The soldiers' systematic insult and physical abuse of the mock-king enacts precisely this testing of the righteous one through outrage; the Wisdom passage is a key Second-Temple template for the mocked-righteous-sufferer that Mark's scene embodies.", "contested": true },
+      { "source": "Zechariah 12:10", "type": "echo", "confidence": "low", "note": "The piercing thorn-crown and abuse of the one who is 'King' faintly anticipate Zechariah's 'they shall look on me whom they have pierced' and the mourning for a smitten royal figure. The link is thematic and contested, resting on the broader Zecharian shepherd-king matrix Mark uses elsewhere.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.4",
+    "ch": 15,
+    "ref": "15:21-22",
+    "echoes": [
+      { "source": "Genesis 22:6", "type": "figural", "confidence": "low", "note": "The compelled bearing of the cross-beam out to the place of execution has been read figurally against Isaac, who 'carried the wood of the burnt offering... laid it on Isaac his son,' as the son bears the wood of his own sacrifice. The connection is typological and unmarked in Mark, resting on the Aqedah's availability as a beloved-son-to-sacrifice pattern.", "contested": true },
+      { "source": "Isaiah 53:4", "type": "echo", "confidence": "low", "note": "Simon of Cyrene compelled to 'bear' (airo) the cross can echo the Servant who 'has borne our griefs and carried our sorrows,' the burden-bearing language at the heart of the Song. The link is faint and lexical, but it belongs to the Servant coherence that pervades the chapter.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.5",
+    "ch": 15,
+    "ref": "15:23",
+    "echoes": [
+      { "source": "Psalm 69:21", "type": "allusion", "confidence": "high", "note": "The drink offered at the cross — here 'wine mixed with myrrh' — and again the vinegar of v. 36 derive from the psalmist's complaint, 'they gave me also gall for my food, and in my thirst they gave me vinegar to drink.' Matthew sharpens the link to 'gall,' but Mark's offered drugged/bitter wine already evokes the psalm's hostile offering. Psalm 69 is one of the two governing passion psalms here, so the volume and coherence are high.", "contested": false },
+      { "source": "Proverbs 31:6-7", "type": "echo", "confidence": "low", "note": "'Give strong drink to him who is perishing, and wine to those in bitter distress, let him drink and forget his poverty' provides a sapiential rationale for offering a numbing draught to the dying. The custom of a stupefying wine to the condemned may stand behind the gesture Jesus refuses, though the connection is conceptual.", "contested": true },
+      { "source": "Amos 2:8", "type": "echo", "confidence": "low", "note": "The motif of drinking 'the wine of the condemned' in a context of injustice offers a faint prophetic resonance with the bitter cup pressed on the crucified. The link is associative and contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.6",
+    "ch": 15,
+    "ref": "15:24",
+    "echoes": [
+      { "source": "Psalm 22:18", "type": "allusion", "confidence": "high", "note": "'They parted his garments among them, casting lots on them, what each should take' reproduces the psalm nearly verbatim: 'they divide my garments among them, and for my clothing they cast lots.' This is a formal-level allusion (near-quotation of LXX Psalm 21:19) embedded in the crucifixion narration itself, and it is the clearest single proof that Mark narrates the cross through Psalm 22. Volume and explicitness are maximal.", "contested": false }
+    ]
+  },
+  {
+    "id": "15.7",
+    "ch": 15,
+    "ref": "15:25-28",
+    "echoes": [
+      { "source": "Isaiah 53:12", "type": "quotation", "confidence": "high", "note": "Crucifixion between 'two robbers,' one on the right and one on the left, fulfills the Servant 'numbered with transgressors' — a link Mark (or the early textual tradition) makes explicit in v. 28, 'The Scripture was fulfilled, which says, He was numbered with transgressors.' This is a formal citation of Isaiah 53:12, even if v. 28 is text-critically secondary; the scene itself enacts the Servant being reckoned among the lawless.", "contested": false },
+      { "source": "Psalm 22:16", "type": "echo", "confidence": "low", "note": "'A company of evildoers encircle me; they have pierced my hands and feet' resonates with the crucifixion act and the criminals flanking Jesus. The LXX reading and the surrounding-by-the-wicked motif cohere with the scene, though Mark does not cite it directly here.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.8",
+    "ch": 15,
+    "ref": "15:29-32",
+    "echoes": [
+      { "source": "Psalm 22:7-8", "type": "allusion", "confidence": "high", "note": "The passersby who 'blasphemed him, wagging their heads' and the chief priests' taunt 'He saved others, he cannot save himself... let him come down' directly enact the psalm: 'All who see me mock me; they make mouths at me, they wag their heads: He committed himself to the Lord; let him deliver him, let him rescue him, since he delights in him.' Both the head-wagging gesture and the 'let God save him' challenge are present, making this a high-volume, double-feature allusion.", "contested": false },
+      { "source": "Wisdom 2:17-20", "type": "allusion", "confidence": "high", "note": "The mockers' logic — 'let the Christ come down... that we may see and believe' and 'he saved others, he cannot save himself' — closely matches Wisdom's ungodly: 'Let us see if his words are true... for if the righteous man is God's son, he will help him and deliver him from his adversaries. Let us condemn him to a shameful death, for he will be protected, according to what he says.' This deuterocanonical righteous-sufferer text is the strongest non-Psalmic intertext for the mockery, supplying the taunt's 'son of God / let God deliver him' shape.", "contested": false },
+      { "source": "Psalm 109:25", "type": "echo", "confidence": "medium", "note": "'I am an object of scorn to my accusers; when they see me, they wag their heads' supplies a second head-wagging derision text reinforcing Psalm 22:7. Psalm 109 is an imprecatory suffering psalm whose mocking accusers cohere with the crowd's gestures, raising the recurrence of the head-wagging motif.", "contested": true },
+      { "source": "Lamentations 2:15", "type": "echo", "confidence": "medium", "note": "'All who pass along the way clap their hands at you; they hiss and wag their heads at daughter Jerusalem' applies the passers-by-wagging-the-head gesture to the destroyed temple/city. Mark's mockers — who taunt the destroyer-of-the-temple as they pass by and wag their heads — fold the temple-destruction theme into the head-wagging derision, making Lamentations a coherent secondary echo.", "contested": true },
+      { "source": "Psalm 69:9", "type": "echo", "confidence": "low", "note": "'Zeal for your house has consumed me, and the reproaches of those who reproach you have fallen on me' resonates with the temple-destruction taunt hurled at Jesus ('you who destroy the temple'). The passion psalm's fusion of temple-zeal and reproach coheres with the mockery's content.", "contested": true },
+      { "source": "Psalm 22:1", "type": "echo", "confidence": "low", "note": "The taunt that God will not save the sufferer anticipates and frames the cry of dereliction (v. 34); the mockers unwittingly voice the psalm's opening abandonment that Jesus will quote. The recurrence of Psalm 22 across the scene strengthens this proleptic echo.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.9",
+    "ch": 15,
+    "ref": "15:33",
+    "echoes": [
+      { "source": "Amos 8:9", "type": "allusion", "confidence": "high", "note": "Darkness over the whole land from the sixth to the ninth hour (noon to mid-afternoon) enacts the day-of-the-Lord oracle: 'I will make the sun go down at noon, and darken the earth in broad daylight.' The midday darkening is distinctive and eschatologically loaded, and Amos's following line about turning feasts into mourning over an 'only son' coheres with the death of the beloved Son.", "contested": false },
+      { "source": "Exodus 10:21-23", "type": "allusion", "confidence": "medium", "note": "The plague of darkness over the land of Egypt — 'a darkness to be felt' for three days — supplies the exodus-judgment template for supernatural midday darkness. The coherence is strong (a divine darkness signaling judgment and deliverance) and the motif is widely available, reinforcing the cosmic-sign reading of the cross.", "contested": false },
+      { "source": "Joel 2:10", "type": "echo", "confidence": "medium", "note": "Joel's day-of-the-Lord darkening — 'the sun and the moon are darkened' — belongs to the prophetic cluster of cosmic gloom at divine judgment that Mark draws on (cf. Mark 13:24, quoting Joel/Isaiah). The crucifixion darkness signals the eschatological day breaking in, cohering with Joel's imagery.", "contested": true },
+      { "source": "Zephaniah 1:15", "type": "echo", "confidence": "low", "note": "'A day of darkness and gloom, a day of clouds and thick darkness' adds another day-of-the-Lord text to the matrix of judgment-darkness behind the noon gloom. The link is general but reinforces the prophetic recurrence of cosmic darkening at the day of wrath.", "contested": true },
+      { "source": "Isaiah 13:10", "type": "echo", "confidence": "low", "note": "'The sun will be dark at its rising' in Isaiah's oracle of cosmic upheaval contributes to the same prophetic darkening-of-the-luminaries tradition. Its availability strengthens the eschatological coloring of the crucifixion darkness, though it is not specifically cited here.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.10",
+    "ch": 15,
+    "ref": "15:34",
+    "echoes": [
+      { "source": "Psalm 22:1", "type": "quotation", "confidence": "high", "note": "Jesus' cry 'Eloi, Eloi, lama sabachthani?' — interpreted 'My God, my God, why have you forsaken me?' — is a formal quotation of the psalm's opening line, given in Aramaic (a Targum-like rendering of the Hebrew). This is the climactic citation that retrospectively unlocks the whole chapter's reliance on Psalm 22, and it is the highest-volume, most explicit OT use in Mark 15.", "contested": false },
+      { "source": "Psalm 22:19-21", "type": "echo", "confidence": "low", "note": "The same psalm Jesus cites turns from abandonment to a plea for help and ends in vindication and praise; readers who hear v. 1 are meant to hear the whole arc. The trajectory toward deliverance frames the dereliction cry as something other than final despair, supplying the coherence of the broader psalm.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.11",
+    "ch": 15,
+    "ref": "15:35-36",
+    "echoes": [
+      { "source": "Psalm 69:21", "type": "allusion", "confidence": "high", "note": "'One ran, and filling a sponge full of vinegar... gave it to him to drink' directly enacts 'in my thirst they gave me vinegar to drink.' The Greek oxos ('sour wine/vinegar') matches LXX Psalm 68:22 exactly, making this the chapter's second strong contact with Psalm 69 and a near-quotation of the offered drink.", "contested": false },
+      { "source": "Malachi 4:5", "type": "echo", "confidence": "medium", "note": "The bystanders' guess that Jesus is 'calling Elijah' and the wait to 'see whether Elijah comes' trade on the expectation, from Malachi, that 'Elijah the prophet' would come before the great day of the Lord. The Elijah-redivivus hope is the Second-Temple backdrop that makes the misheard 'Eloi' into a question about eschatological rescue.", "contested": true },
+      { "source": "2 Kings 2:11", "type": "echo", "confidence": "low", "note": "Elijah's translation to heaven without dying underlies the popular belief that he could return to intervene; the bystanders imagine him coming 'to take him down.' The link is to the Elijah-rescue tradition rather than a verbal parallel, but it grounds the crowd's expectation.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.12",
+    "ch": 15,
+    "ref": "15:37-38",
+    "echoes": [
+      { "source": "Exodus 26:31-33", "type": "allusion", "confidence": "high", "note": "The veil (katapetasma) of the temple torn in two evokes the curtain Exodus commands to be made, separating the Holy Place from the Most Holy and screening the divine presence. Mark's tearing of this barrier at Jesus' death signals access to God and/or judgment on the sanctuary; the specific cultic vocabulary makes the allusion firm.", "contested": false },
+      { "source": "Leviticus 16:2", "type": "echo", "confidence": "medium", "note": "The veil 'before the mercy seat' that only the high priest may pass on the Day of Atonement defines what the torn curtain guarded. Its rending at the moment of death coheres with an atonement reading — the way into the holiest opened — making Leviticus 16 a coherent secondary intertext to the Exodus veil.", "contested": true },
+      { "source": "Exodus 19:16-18", "type": "echo", "confidence": "low", "note": "The tearing open of the sacred boundary recalls Sinai's theophany where God descends in cloud and the mountain is wrapped in awe; some read the rent veil as a renewed theophanic disclosure paralleling the heavens 'torn' (schizomenous) at Jesus' baptism, the same verb. The Sinai echo is faint but coheres with Mark's tearing-open inclusio.", "contested": true },
+      { "source": "Isaiah 64:1", "type": "echo", "confidence": "low", "note": "'Oh that you would tear open (LXX) the heavens and come down' uses the same dramatic rending language for divine self-disclosure that Mark applies to the heavens at the baptism and arguably to the veil here. The verbal resonance of 'tearing' for God breaking through reinforces the theophanic reading.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.13",
+    "ch": 15,
+    "ref": "15:39",
+    "echoes": [
+      { "source": "Wisdom 2:18", "type": "echo", "confidence": "medium", "note": "The centurion's confession 'Truly this man was the Son of God' answers the mockers' Wisdom-shaped taunt: 'if the righteous man is God's son, God will help him.' What the ungodly proposed as a test, the Gentile soldier declares as truth at the moment of death, so the deuterocanonical righteous-son motif frames the irony of the climactic recognition.", "contested": true },
+      { "source": "Psalm 22:27-28", "type": "echo", "confidence": "low", "note": "The psalm Jesus quotes ends with 'all the ends of the earth shall remember and turn to the Lord; all the families of the nations shall worship.' The Gentile centurion's confession at the cross can be read as the first-fruits of that promised turning of the nations, cohering with the psalm's universal-worship climax.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.14",
+    "ch": 15,
+    "ref": "15:40-41",
+    "echoes": [
+      { "source": "Psalm 38:11", "type": "allusion", "confidence": "medium", "note": "The women 'watching from afar' echoes the lament 'My friends and companions stand aloof from my plague, and my kinsmen stand far off.' Mark's distinctive note that the followers observe 'from a distance' (apo makrothen) matches the psalm's portrait of the afflicted righteous one abandoned to watch alone, fitting the chapter's suffering-psalm weave.", "contested": false },
+      { "source": "Psalm 88:8", "type": "echo", "confidence": "low", "note": "'You have caused my companions to shun me; you have made me a horror to them' adds a second psalm of the friendless sufferer whose acquaintances are removed far off. Its bleak isolation coheres with the women keeping their distance at the cross.", "contested": true }
+    ]
+  },
+  {
+    "id": "15.15",
+    "ch": 15,
+    "ref": "15:42-47",
+    "echoes": [
+      { "source": "Isaiah 53:9", "type": "allusion", "confidence": "high", "note": "Burial by Joseph of Arimathea, a wealthy and prominent councillor who lays Jesus in his own rock-cut tomb, fulfills 'they made his grave with the wicked and with a rich man in his death, although he had done no violence.' The Servant's honorable burial 'with a rich man' coheres precisely with the rich Joseph's intervention, sealing the chapter's Servant frame.", "contested": false },
+      { "source": "Deuteronomy 21:22-23", "type": "allusion", "confidence": "high", "note": "The urgency to take the body down and bury it before nightfall on the Preparation Day reflects the law that a man hanged on a tree 'shall not remain all night... you shall bury him the same day, for a hanged man is cursed by God,' lest the land be defiled. This statute drives the same-day burial and carries the theology of the curse borne on the tree.", "contested": false },
+      { "source": "Joshua 10:26-27", "type": "echo", "confidence": "low", "note": "Joshua's taking down of the hanged kings at sunset and laying them in a cave, sealed with great stones, offers a narrative precedent for the same-day removal of a hanged body and burial behind a rolled stone. The link is conceptual but coheres with the Deuteronomic same-day-burial command and the stone at the tomb.", "contested": true },
+      { "source": "Genesis 23:19", "type": "echo", "confidence": "low", "note": "Abraham's burial of Sarah in a purchased cave-tomb hewn for the family establishes the patriarchal pattern of honorable interment in a rock-cut sepulchre. The dignity of Jesus' rock-tomb burial faintly recalls this venerable practice, though there is no verbal contact.", "contested": true }
+    ]
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "8.1",
+    "ch": 8,
+    "ref": "8:1-10",
+    "echoes": [
+      {
+        "source": "Exodus 16:1-35",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The feeding of the four thousand in a 'deserted place' (v.4) reprises the manna narrative: God satisfies a hungry multitude with bread in the wilderness. Volume is high via the desert setting and the disciples' incredulous 'from where' question, which echoes Israel's manna astonishment ('What is it?'). Mark's wilderness feedings deliberately retell the Exodus provision in messianic key.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 78:19-25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The disciples' 'From where could one satisfy these people with bread here in a deserted place?' answers, in the negative, Israel's taunt 'Can God prepare a table in the wilderness?' (Ps 78:19), which the psalm then resolves with manna ('bread of the mighty', v.25). Coherence with Mark's wilderness-feeding theology is strong, and the verbal frame of doubting provision in the desert is close.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:42-44",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Elisha's feeding of a hundred men from limited loaves, with leftovers remaining 'according to the word of the LORD,' is the closest prophetic prototype: insufficient bread, a doubting attendant ('How can I set this before a hundred?'), miraculous satiety, and surplus. Mark frames Jesus as the prophet-greater-than-Elisha, and the surplus motif (seven baskets) recalls the same pattern.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 11:13-22",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Moses' protest 'Where am I to get meat to give to all this people?' (Num 11:13) and the doubt that flesh could be found in the wilderness underlies the disciples' helpless question in v.4. Coherence with the wilderness-provision frame is high; this is a recurrent grumbling-and-provision pattern Mark draws upon.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 25:6-8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The eschatological banquet on the mountain where God 'makes for all peoples a feast of rich food' may color Mark's second feeding, traditionally read as extending to Gentile territory (the Decapolis). The volume is faint but coherent with Mark's movement of the bread to outsiders.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 107:4-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalm describes the hungry and faint wandering 'in a desert waste' whom the LORD 'satisfies' and 'fills with good things.' The verbal cluster of wilderness, fainting, hunger, and satisfaction overlaps the scene (note v.3 'faint on the way'), though without distinctive enough wording to rise above echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.2",
+    "ch": 8,
+    "ref": "8:11-13",
+    "echoes": [
+      {
+        "source": "Exodus 17:1-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Pharisees 'testing' Jesus by demanding a sign from heaven inverts Massah/Meribah, where Israel 'tested the LORD' by demanding proof ('Is the LORD among us or not?'). Mark casts the sign-seekers as the new wilderness generation that puts God to the test; the testing-in-the-desert motif coheres with the feeding context just preceding.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 6:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You shall not put the LORD your God to the test, as you tested him at Massah' provides the legal-theological frame for Jesus' refusal: the sign-demand is itself the forbidden testing. Coherence is strong with v.11's language of peirazo (testing).",
+        "contested": false
+      },
+      {
+        "source": "Psalm 95:8-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus' deep sigh and verdict that 'no sign will be given to this generation' echoes the psalm's oracle against the wilderness generation: 'Harden not your hearts as at Meribah... For forty years I loathed that generation.' The 'this generation' rebuke and divine grief/loathing are tightly coherent, and Mark develops the hardened-heart theme in v.17.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Song of Moses brands Israel 'a perverse and crooked generation' whose corruption is 'no longer his children's.' Jesus' indictment of 'this generation' draws on this prophetic vocabulary for a faithless cohort that demands proof yet will not believe.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 32:20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'They are a perverse generation, children in whom is no faithfulness'—God hides his face from them. The motif of a faithless 'generation' from which God withholds himself directly parallels Jesus withholding the sign and departing (v.13).",
+        "contested": false
+      },
+      {
+        "source": "Numbers 14:11",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'How long will this people despise me? And how long will they not believe in me, for all the signs which I have done?' frames the wilderness generation that, despite signs, refuses faith—precisely the dynamic Jesus laments before the sign-seekers.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.3",
+    "ch": 8,
+    "ref": "8:14-21",
+    "echoes": [
+      {
+        "source": "Exodus 12:14-20",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The warning to 'beware of the yeast/leaven of the Pharisees and of Herod' trades on the Passover prohibition of leaven, where leaven symbolizes corruption to be purged. The figural valence of leaven as pervasive moral contamination is rooted in the unleavened-bread legislation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 6:9-10",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' rebuke 'Having eyes, don't you see? Having ears, don't you hear?' directly applies Isaiah's commission oracle of a people who see but do not perceive and hear but do not understand. Mark already cited this text at 4:12; recurrence and verbal closeness make this a strong, deliberate appropriation now turned on the disciples themselves.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 5:21",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Hear this, O foolish and senseless people, who have eyes but do not see, who have ears but do not hear'—the near-exact phrasing of Jesus' double question. Jeremiah's indictment of a hardened, uncomprehending people supplies the prophetic template; the verbal volume is very high.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 12:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Son of man, you dwell in the midst of a rebellious house, who have eyes to see but do not see, ears to hear but do not hear, for they are a rebellious house.' This is the other classic seeing-not/hearing-not oracle, paired with hardness; its conjunction with rebellion coheres with Mark's hardened-heart charge in v.17.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 29:2-4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses tells Israel they saw the signs in Egypt 'yet to this day the LORD has not given you a heart to understand, or eyes to see, or ears to hear.' This explicitly links failure to perceive God's mighty works (the feedings) with an ungiven heart—exactly Jesus' point that the disciples fail to remember the loaves.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 63:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Why do you harden our hearts so that we do not fear you?' supplies the hardened-heart vocabulary that Jesus levels at the disciples ('Is your heart still hardened?'). The motif is recurrent in Mark (6:52), grounding the charge in prophetic lament over insensate Israel.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 95:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Harden not your hearts' carries forward from the sign-seeking pericope; the disciples' hardened hearts place them within the same warned-against wilderness generation that fails to read God's provision (the manna/loaves).",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.4",
+    "ch": 8,
+    "ref": "8:22-26",
+    "echoes": [
+      {
+        "source": "Isaiah 35:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Then the eyes of the blind shall be opened'—the healing of the blind man at Bethsaida enacts Isaiah's promise of eschatological restoration. Mark positions this sign as a figural opening of eyes that frames the disciples' partial sight; volume and coherence with the surrounding seeing/not-seeing motif are high.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 29:18",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'In that day...out of their gloom and darkness the eyes of the blind shall see'—paired in Isaiah with the deaf hearing, this restoration oracle undergirds the staged healing. The Isaianic blindness/sight complex is the controlling intertext for the whole pericope's placement.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 42:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Servant is given 'to open the eyes that are blind,' a commissioning that Mark sees fulfilled in Jesus' physical opening of blind eyes as a sign of his servant-messiahship—coherent with the suffering Son of Man developed just after (v.31).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 6:9-10",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "The two-stage cure—first blurred ('men like trees walking'), then clear sight—dramatizes the half-perceiving condition diagnosed by Isaiah's seeing-but-not-perceiving oracle. Mark figures the disciples' gradual, incomplete recognition of Jesus through the man's gradual healing; the structural coherence is strong even without verbal quotation.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 32:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The eyes of those who see will not be closed, and the ears of those who hear will listen' belongs to the cluster of restoration-of-sight oracles that Mark's healing actualizes. Faint but within the recurrent Isaianic field.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.5",
+    "ch": 8,
+    "ref": "8:27-30",
+    "echoes": [
+      {
+        "source": "Malachi 4:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The popular guess that Jesus is 'Elijah' draws directly on Malachi's promise to send Elijah before the great day of the LORD; the expectation of Elijah redivivus frames the crowd's christological speculation. Mark develops Elijah typology around John the Baptizer.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:15",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The opinion that Jesus is 'one of the prophets' resonates with the promise of a prophet 'like Moses' whom God would raise up; the prophet-like-Moses expectation is part of the matrix the crowd's answers reflect, sharpened by Mark's Moses/wilderness typology in the feedings.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 2:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Peter's confession 'You are the Christ' (the Anointed) actualizes the royal vocabulary of Psalm 2, where the nations rage against 'the LORD and his Anointed.' Mark's Christ-title carries the Davidic-king freight of this enthronement psalm, which surfaces explicitly at Jesus' trial and baptism.",
+        "contested": true
+      },
+      {
+        "source": "2 Samuel 7:12-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The title 'Christ' invokes the Davidic covenant promise of an anointed son whose throne is established forever. Coherence with Mark's Son-of-David theme (10:47) supports reading the confession against the Nathan oracle, though the link here is conceptual rather than verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.6",
+    "ch": 8,
+    "ref": "8:31-33",
+    "echoes": [
+      {
+        "source": "Isaiah 53:3-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "That 'the Son of Man must suffer many things... and be killed' draws on the Servant who was 'despised and rejected,' 'a man of sorrows,' who bore suffering and was 'cut off.' The necessity (dei) of redemptive suffering coheres with Isaiah 53's vicarious death; this is the foundational suffering-text behind Mark's passion predictions.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 118:22",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Be rejected by the elders, the chief priests, and the scribes' anticipates the rejected-stone of Psalm 118, which Mark quotes explicitly at 12:10 ('the stone the builders rejected'). The specific language of rejection by the leadership maps onto the builders' rejection, making this a deliberate, recurrent intertext.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The self-designation 'Son of Man' derives from Daniel's vision of 'one like a son of man' who comes with the clouds and receives dominion. Mark's title is recurrent and load-bearing; though here paired paradoxically with suffering, the Danielic figure of vindicated dominion underlies the whole Son-of-Man complex.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 22:6-8",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The motif of the righteous one despised and rejected ('a worm and not a man, scorned by mankind') feeds the suffering-Son-of-Man pattern; Mark draws heavily on Psalm 22 for the passion (15:34, 15:24), so its presence behind the first prediction is coherent and recurrent.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'After three days rise again' may echo Hosea's 'after two days he will revive us; on the third day he will raise us up.' The third-day-resurrection language is plausibly drawn from this oracle of restoration, a connection later interpreters made explicit.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 3:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Get behind me, Satan!' resonates with Zechariah's vision where 'the LORD rebuke you, O Satan' is spoken against the accuser. The act of rebuking the satan/adversary who opposes God's purpose coheres verbally and conceptually with Jesus' rebuke of Peter as voicing 'the things of men.'",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "8.7",
+    "ch": 8,
+    "ref": "8:34-38",
+    "echoes": [
+      {
+        "source": "Daniel 7:13-14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'When he comes in the glory of his Father with the holy angels' renders the Son of Man's coming in Daniel's vision, where the one like a son of man comes with the clouds before the Ancient of Days to receive glory and an everlasting kingdom. The conjunction of Son of Man, coming, and glory is a direct appropriation.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 14:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The LORD my God will come, and all the holy ones with him' supplies the entourage of 'holy angels/holy ones' accompanying the divine advent. Mark's coming Son of Man 'with the holy angels' draws on this theophany of God arriving with his holy retinue for judgment.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:9-10",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The throne-and-myriads scene—'thousand thousands served him'—reinforces the angelic-attendant imagery of the Son of Man's glorious advent in v.38. Coherent with the Danielic court of judgment that frames being 'ashamed' before the coming one.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 49:7-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'For what will a man give in exchange for his life?' closely parallels the psalm's reflection that no one can 'give to God a ransom for his life... for the redemption of their soul is costly.' The wisdom logic that life cannot be bought back with wealth underlies vv.36-37.",
+        "contested": false
+      },
+      {
+        "source": "Ecclesiastes 1:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'What does it profit a man, to gain the whole world?' echoes Qoheleth's recurring 'What profit (yitron) has a man of all his toil?'—the wisdom idiom of weighing profit against the vanity of worldly gain. Faint but coherent with the saying's sapiential cast.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 32:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'This adulterous and sinful generation' reprises the Song of Moses' 'perverse and crooked generation,' tying the audience of Jesus' words to the faithless wilderness cohort already invoked in the sign-seeking pericope. The recurrence of the 'generation' label within Mark 8 strengthens the link.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 2:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The charge 'adulterous... generation' draws on the prophetic figure of Israel as an unfaithful, adulterous spouse (Hosea's central metaphor), framing the present generation's unbelief as covenant infidelity. Faint, but within the prophetic adultery-as-apostasy tradition.",
+        "contested": true
+      }
+    ]
+  }
+]

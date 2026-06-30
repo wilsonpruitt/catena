@@ -1,0 +1,170 @@
+[
+  {
+    "id": "16.1",
+    "ch": 16,
+    "ref": "16:1-8",
+    "echoes": [
+      {
+        "source": "2 Maccabees 3:26",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The 'young man' (neaniskos) sitting in the tomb dressed in a white/dazzling robe matches the Second-Temple convention of angelic figures appearing as young men in bright apparel; in 2 Macc 3 two glorious young men in splendid robes (and elsewhere five) appear at the temple. Volume is moderate (shared vocabulary of youthful angelic messengers in shining garb) and the convention is widely available in Jewish literature of the era, supporting an angelophany reading of Mark's 'amazement.'",
+        "contested": false
+      },
+      {
+        "source": "2 Maccabees 11:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "A heavenly horseman in white apparel leads the Maccabean army, reinforcing the deuterocanonical topos of angelic deliverers clothed in white. The echo is faint and corroborative rather than a direct source, supporting the figural identification of Mark's white-robed youth as angelic.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The dazzling-white garment recalls Daniel's vision where the Ancient of Days' clothing is white as snow, the apocalyptic register from which heavenly whiteness derives; Mark's restrained 'white robe' partakes of this imagery cluster. Coherence with Mark's transfiguration whiteness (9:3) supports the link, though the specific divine throne setting is absent here.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 6:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Hosea's 'after two days he will revive us; on the third day he will raise us up' is the most plausible scriptural matrix for early Christian 'third day' resurrection language; though Mark does not say 'third day' here, the dawn-of-the-first-day raising participates in that pattern. Recurrence is high across the NT (1 Cor 15:4), but Mark 16's silence on explicit third-day phrasing keeps the volume low and the link contested.",
+        "contested": true
+      },
+      {
+        "source": "Jonah 1:17",
+        "type": "figural",
+        "confidence": "low",
+        "note": "Three days and nights in the fish became a stock figure for death-and-deliverance, invoked elsewhere in the Jesus tradition (the sign of Jonah). The empty-tomb scene enacts the emergence-from-the-deep pattern figurally, but Mark 16 makes no verbal contact, so the connection is thematic and faint.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 16:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You will not abandon my soul to Sheol, nor let your holy one see corruption' became the foundational psalm-text for resurrection proclamation (cited at Acts 2:27). The empty tomb dramatizes the body not seeing corruption, but Mark supplies no citation, so the resonance is conceptual and low-volume.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 15:16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The women's 'trembling and astonishment' and fear follows the conventional human response to theophany and divine deliverance, as in the Song of the Sea where trembling seizes the nations. The pattern of fear before God's saving acts is widely available; the link is to a topos rather than a specific text.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 10:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's companions are seized by great trembling and flee at an angelic vision, closely paralleling the women who flee in trembling from the white-robed messenger. This fear-and-flight response to an angelophany is a coherent Second-Temple convention that Mark's ending deploys, though no shared wording fixes the source.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.2",
+    "ch": 16,
+    "ref": "16:9-11",
+    "echoes": [
+      {
+        "source": "Hosea 6:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The longer ending's notice that Jesus 'had risen early on the first day of the week' reasserts the third-day/restoration pattern crystallized in Hosea's revival oracle. The connection remains a low-volume conceptual echo, since the appended ending narrates rather than cites Scripture.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.3",
+    "ch": 16,
+    "ref": "16:12-13",
+    "echoes": [
+      {
+        "source": "Genesis 18:1-2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus 'revealed in another form' to the two travelers evokes the biblical pattern of divine/angelic visitants appearing in altered or unrecognized guise to wayfarers, as the LORD appears to Abraham as travelers. The motif of hospitality-with-a-stranger-who-is-more-than-he-seems is available in the patriarchal narratives, though the link here is thematic and faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.4",
+    "ch": 16,
+    "ref": "16:14-18",
+    "echoes": [
+      {
+        "source": "Psalm 91:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The promise that believers 'will take up serpents; and if they drink any deadly thing, it will in no way hurt them' directly recalls Psalm 91's pledge that the faithful will tread on the serpent and the adder and be guarded from harm. Volume is moderate (shared serpent-and-protection imagery) and the psalm's protective register coheres with the signs-following-believers theme, making this the strongest OT echo in the longer ending.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The eschatological vision of the infant playing over the adder's den, harm undone in the messianic age, underlies the promise that serpents and poison will not hurt believers. The connection is to Isaiah's new-creation peace between humans and venomous creatures, a coherent backdrop for the signs, though no verbal citation is present.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 21:8-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The bronze-serpent episode, where looking to the lifted serpent neutralizes deadly snakebite, supplies a scriptural precedent for serpents made harmless to the faithful. The link is figural and low-volume, mediated by the wider tradition of God's people delivered from serpent venom.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The commission to 'go into all the world, and preach the Good News to the whole creation' echoes the Servant's mandate to be a light to the nations reaching to the end of the earth. The universalizing scope coheres with Isaianic mission theology, but the appended ending offers no quotation, keeping the volume low.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 96:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The call to declare God's glory and salvation among all nations stands behind the worldwide preaching commission. The enthronement-psalm summons to proclaim to every people is a coherent matrix for the universal mission, though the contact is thematic rather than verbal.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "16.5",
+    "ch": 16,
+    "ref": "16:19-20",
+    "echoes": [
+      {
+        "source": "Psalm 110:1",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Sat down at the right hand of God' is a formal allusion to Psalm 110:1, 'Sit at my right hand,' the most-cited OT verse in the NT and Mark's own christological touchstone (Mark 12:36; 14:62). Volume and recurrence are high, and the enthronement coheres with Mark's exaltation theology, making this an unmistakable, near-quotation reuse of the psalm.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 2:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jesus being 'received up into heaven' echoes Elijah's bodily assumption, the paradigmatic OT ascent narrative that shapes early Christian ascension language. The motif of a prophet taken up to heaven is coherent and available, supplying the narrative grammar for Mark's ascension notice, though the wording is shared with the Elijah cycle only loosely.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 5:24",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Enoch's being 'taken' by God, with the Second-Temple expansion of his heavenly ascent, contributes to the assumption tradition behind 'received up into heaven.' The echo is faint and corroborative of the broader taken-up-to-God pattern rather than a direct source.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:13-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The one like a son of man brought up to the Ancient of Days and given dominion provides an apocalyptic backdrop for Jesus' heavenly enthronement and the subsequent worldwide proclamation. Coherence with Mark's son-of-man enthronement language (14:62) supports the link, though the ascension verb here points more directly to Psalm 110 and the Elijah motif.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "id": "6.1",
+    "ch": 6,
+    "ref": "6:1-6",
+    "echoes": [
+      {
+        "source": "Jeremiah 11:21",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Jeremiah's own townsmen of Anathoth seek his life, the classic instance of a prophet rejected by his native place. Jesus' aphorism that a prophet lacks honor 'in his own country' and 'among his own relatives' coheres thematically with Jeremiah's hometown opposition. Recurrence of the rejected-prophet pattern across the OT strengthens the figural reading.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 12:6",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jeremiah is warned that even his brothers and his father's house deal treacherously with him. Mark's specification 'among his own relatives, and in his own house' closely tracks this kin-and-household betrayal motif. The verbal overlap of 'house' and 'kindred' makes the echo more than generic.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 19:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah laments rejection by his own people Israel despite his prophetic word, part of the OT type of the lone unhonored prophet. The thematic coherence with Jesus' rejection at Nazareth supports a faint echo, though no verbal link exists. Marked contested as a pattern-level resonance only.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 2:3-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel is sent to a rebellious house that will not listen, and is told to speak 'whether they hear or refuse to hear.' Jesus' marveling at their unbelief and inability to do mighty works mirrors the prophet sent to obstinate kin. The commissioning-to-the-resistant pattern coheres with Mark's portrait.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 53:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The Servant is 'despised and rejected' and not esteemed. Nazareth's being 'offended' at Jesus faintly anticipates the despised-Servant motif Mark develops toward the passion. Low confidence and contested: thematic only, no verbal contact here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.2",
+    "ch": 6,
+    "ref": "6:7-13",
+    "echoes": [
+      {
+        "source": "Exodus 12:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Israel eats the Passover with staff in hand, sandals on feet, dressed for urgent departure. The Twelve are likewise equipped with a staff and sandals only, traveling light and ready, evoking the Exodus-haste posture. The shared cluster of staff + sandals supports the allusion despite the differing inventory of permitted items.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 4:29",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Elisha sends Gehazi with staff in hand on an urgent prophetic errand, not to greet anyone on the way. The sending of agents bearing a staff, with authority over life and sickness, coheres with the Elijah/Elisha framing of the mission of the Twelve who heal and anoint. Recurrence of the prophet-sends-disciple type strengthens this.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 17:8-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah lodges in a single household (the widow of Zarephath) and is sustained there, a model of the prophet received into one house. Jesus' instruction to stay in one house until departure resonates faintly with this prophetic hospitality pattern. Contested, thematic coherence only.",
+        "contested": true
+      },
+      {
+        "source": "Nehemiah 5:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Nehemiah shakes out the fold of his garment as a prophetic sign-act of curse against those who break covenant. The disciples' shaking off the dust 'for a testimony against them' enacts the same symbolic withdrawal-and-witness gesture. The shared performative testimony-against-the-faithless motif supports the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 19:24-25",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The destruction of Sodom and Gomorrah is explicitly named by Jesus as the benchmark of judgment for towns that reject the messengers. This is a direct invocation of the OT narrative as the measure of eschatological accountability. High confidence given the named cities.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 9:1-3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elisha dispatches a member of the prophetic guild with anointing oil to act in Yahweh's name. The Twelve who 'anointed many with oil' for healing faintly echo prophetic anointing as a delegated sign-act. Contested and thematic; the OT oil here anoints a king, not the sick.",
+        "contested": true
+      },
+      {
+        "source": "Amos 7:14-15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Amos is a layman taken from his ordinary work and sent to prophesy, paralleling the commissioning of ordinary disciples to preach repentance. The send-the-unlikely-prophet motif coheres but lacks verbal contact. Marked contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.3",
+    "ch": 6,
+    "ref": "6:14-29",
+    "echoes": [
+      {
+        "source": "1 Kings 19:1-2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jezebel, the powerful queen, vows to kill the prophet Elijah, who is identified in this very passage (v. 15) with the figure expected to return. Herodias' relentless desire to kill John, the Elijah-figure, replays the Jezebel-versus-prophet conflict. Strong thematic coherence and recurrence, reinforced by Mark's explicit Elijah identification.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 21:1-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jezebel manipulates a royal feast and oath/legal machinery to bring about Naboth's death while the weak king Ahab acquiesces. Herodias engineers John's execution through her daughter at a banquet while a reluctant Herod yields, a deliberate Ahab-Jezebel-Naboth typology. The wicked-queen-orchestrates-judicial-murder pattern is tightly coherent.",
+        "contested": false
+      },
+      {
+        "source": "Esther 5:3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Ahasuerus, at a banquet, offers Esther her request 'up to half of my kingdom,' the exact royal-oath formula Herod swears to the dancing girl (also Esther 5:6; 7:2). The verbal correspondence is precise and distinctive, making this a near-quotation of the Persian-court motif. High volume and recurrence within Esther.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 18:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jezebel cuts off (kills) the prophets of Yahweh while Obadiah hides them, establishing the queen-as-prophet-killer. John's beheading at the queen's instigation reprises this. The Elijah-cycle background that Mark foregrounds strengthens the echo.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 18:16",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "John's charge, 'It is not lawful for you to have your brother's wife,' directly invokes the Levitical prohibition against uncovering the nakedness of a brother's wife. The legal ground of John's rebuke is this statute (cf. Lev 20:21). The verbal and legal correspondence is explicit.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 20:21",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "This statute declares it 'impurity' for a man to take his brother's wife, the precise offense John names against Herod for marrying Herodias. Together with Lev 18:16 it furnishes the explicit legal basis of the prophet's condemnation. Direct invocation of Torah.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 22:26-27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "King Ahab imprisons the prophet Micaiah for speaking an unwelcome word. Herod's binding John in prison for his unwelcome rebuke replays the king-imprisons-truthful-prophet motif. Contested, thematic coherence within the Kings prophetic cycle.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 38:6-13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah is imprisoned by officials while a vacillating king Zedekiah privately respects yet fails to protect him. Herod's fearing and gladly hearing John yet failing to save him mirrors the weak-king-and-imprisoned-prophet dynamic. Faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 29:25",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The fear of human opinion becomes a snare. Herod's capitulation 'for the sake of his oaths and of his dinner guests' illustrates this proverbial snare of social fear. Wisdom-thematic resonance only; contested.",
+        "contested": true
+      },
+      {
+        "source": "Judges 11:30-39",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jephthah's rash vow forces him to a deadly act he regrets, the king-bound-by-his-oath tragedy. Herod, 'exceedingly sorry' yet bound 'for the sake of his oaths,' replays this rash-vow type. Contested, thematic and structural parallel without verbal link.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 40:20-22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Pharaoh's birthday feast becomes the occasion of an execution, the only other clear OT royal birthday banquet ending in death. Herod's birthday supper culminating in beheading faintly recalls this. Low confidence, contested resonance.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.4",
+    "ch": 6,
+    "ref": "6:30-34",
+    "echoes": [
+      {
+        "source": "Numbers 27:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Moses prays for a successor so Israel will not be 'as sheep which have no shepherd,' the precise phrase Mark applies to the crowd. Jesus stepping in to teach is cast as the Moses-appointed shepherd over a leaderless people. Verbal correspondence and thematic coherence make this a strong allusion.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 22:17",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Micaiah sees Israel 'scattered on the mountains, as sheep that have no shepherd' because their king-shepherd has failed. With Herod's failure as shepherd-king just narrated, Mark's shepherdless-sheep description points pointedly to this text. Strong verbal and thematic fit.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 34:5",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Ezekiel indicts Israel's shepherds and says the flock was 'scattered, because there was no shepherd,' promising that God himself will shepherd them. Jesus' compassion and teaching enact Yahweh's promised shepherding of the abandoned flock. High thematic coherence with the immediately preceding failure of Herod.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 10:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The people 'wander like sheep; they are afflicted for lack of a shepherd' because false guidance has failed them. Mark's shepherdless crowd resonates with Zechariah's diagnosis. Verbal overlap on the shepherdless-sheep image supports a solid allusion, though Numbers/Ezekiel are nearer.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 27:16-17",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The leader is to 'go out before them and come in before them,' guiding their movements, language Mark's narrative of the crowd's pursuit and Jesus' going-out-to-teach faintly mirrors. Reinforces the Moses-successor framing of v.34. Contested as a secondary layer of the same Numbers context.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 18:13-18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Moses is so pressed by the people seeking him that he has no respite, prompting Jethro's counsel to share the load. The crowds giving Jesus and the Twelve 'no leisure so much as to eat' faintly recalls the overburdened-mediator scene. Contested, thematic only.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 23:1-4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Woe to shepherds who scatter the flock; God will gather his scattered sheep and raise true shepherds. The shepherdless crowd that Jesus gathers and teaches coheres with this oracle of regathering. Recurrence of the false-shepherd/true-shepherd theme strengthens the echo.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.5",
+    "ch": 6,
+    "ref": "6:35-44",
+    "echoes": [
+      {
+        "source": "2 Kings 4:42-44",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Elisha feeds a hundred men with twenty barley loaves, his servant objects at the inadequacy, all eat and there is food left over, with a word of the LORD that they shall eat and have some left. The structure of Mark's feeding (objection, insufficient bread, all filled, surplus gathered) closely follows this Elisha miracle. The strongest single source-text by structural correspondence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 16:4-18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God feeds Israel with manna in the wilderness so that 'they gathered, some more, some less... and they had no lack,' all eating to sufficiency. The desert-feeding of the multitude evokes the manna provision, with the 'deserted place' setting reinforcing the wilderness typology. High thematic coherence and recurrence in Israel's memory.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 78:19-29",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Israel asks 'Can God spread a table in the wilderness?' and God rains food so 'they ate and were well filled.' Mark's 'they all ate, and were filled' in a deserted place answers the psalm's challenge. The verbal echo of eating-and-being-filled in the desert supports a solid allusion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 23:1-2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The shepherd LORD makes his flock 'lie down in green pastures.' Mark's striking detail that the people sit on the 'green grass' immediately after the shepherdless-sheep statement links the feeding to the shepherd-feeds-his-flock psalm. The unusual 'green' notation strengthens the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 23:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You prepare a table before me'; the shepherd-host who provides a meal coheres with Jesus feeding the crowd after the shepherd motif. Contested, secondary to the green-pastures echo of v.2. Thematic resonance only.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 18:21-25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Moses organizes Israel into groups over 'thousands, hundreds, fifties, and tens' at Jethro's counsel. The crowd seated 'in groups... by hundreds and by fifties' deliberately arranges the people in the Mosaic wilderness-camp formation. The hundreds-and-fifties ordering is a distinctive verbal echo.",
+        "contested": false
+      },
+      {
+        "source": "Numbers 31:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Israel's host is officered by 'commanders of thousands and commanders of hundreds,' the wilderness military ordering. The ranked seating by hundreds and fifties faintly evokes the ordered camp/army of Israel. Contested, reinforces the Exodus 18 echo.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 4:1-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elisha multiplies a widow's small jar of oil to overflowing abundance. The Elisha-cycle motif of a prophet multiplying scarce food/provision reinforces the dominant 2 Kings 4:42-44 allusion. Contested, recurrence within the same prophetic cycle.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 17:8-16",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Elijah's word causes a widow's flour and oil not to fail through a famine. The prophet-makes-meager-food-suffice pattern coheres with the feeding miracle. Contested, faint Elijah/Elisha background to the loaves.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.6",
+    "ch": 6,
+    "ref": "6:45-52",
+    "echoes": [
+      {
+        "source": "Job 9:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God alone 'treads upon the waves of the sea,' an act reserved to the Creator. Jesus walking on the sea enacts this exclusively divine prerogative, presenting him in the role Job ascribes to God alone. The verbal correspondence (walking/treading on the sea) is precise and theologically loaded.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 77:19",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Your way was in the sea, your paths in the great waters,' celebrating God's saving passage through the sea at the Exodus. Jesus' path across the water reprises Yahweh's mastery of the deep in deliverance. Strong thematic coherence with the divine sea-crossing motif.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 33:19-23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Yahweh makes his glory 'pass by' Moses, the technical theophanic 'passing by.' Mark's odd note that Jesus 'would have passed by them' uses this theophany verb, signaling a divine self-disclosure on the water. The distinctive 'pass by' language anchors the allusion.",
+        "contested": false
+      },
+      {
+        "source": "1 Kings 19:11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Yahweh 'passed by' Elijah at Horeb in a theophany of wind and stillness. The same passing-by-of-God motif, paired with wind that ceases, undergirds Jesus' sea epiphany. Reinforces the Exodus 33-34 theophany reading; medium because Exodus is the primary lexical source.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 3:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "God reveals his name 'I AM' (egō eimi) to Moses. Jesus' self-identification 'It is I' (egō eimi) on the water, joined to the theophanic passing-by, evokes the divine Name as reassurance. The phrase plus the do-not-be-afraid formula marks a deliberate I-AM theophany.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 107:23-30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Those at sea in distress cry out, and God stills the storm so the waves are hushed and he brings them to harbor. Mark's distressed rowers, contrary wind, and the wind ceasing when Jesus enters the boat closely follow this psalm's sea-rescue script. Strong structural and thematic correspondence.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 65:7",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God 'stills the roaring of the seas, the roaring of their waves.' The wind ceasing at Jesus' presence enacts this divine sea-calming prerogative. Reinforces the Job 9 and Psalm 107 cluster; contested as a secondary witness.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 89:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'You rule the raging of the sea; when its waves rise, you still them.' Jesus' calming of the wind and waves manifests this sovereign rule over the sea. Recurrence of the God-rules-the-sea theme across the Psalter strengthens the echo.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 43:1-2",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Yahweh says 'Fear not... when you pass through the waters I will be with you,' joining the do-not-fear oracle to passage through the waters. Jesus' 'Don't be afraid' amid the sea echoes this salvation-oracle pattern. Contested but thematically apt to the I-AM theophany.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 51:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "God's arm dries the sea and makes a way for the redeemed to pass over, recalling the Exodus mastery of the deep. Jesus' walking on and crossing the sea faintly reprises this redemption-through-the-deep imagery. Contested, low verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "Habakkuk 3:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'You trampled the sea with your horses, the surging of mighty waters,' a theophany of God treading the sea in deliverance. Jesus treading the sea faintly echoes this divine-warrior imagery. Low confidence, contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "6.7",
+    "ch": 6,
+    "ref": "6:53-56",
+    "echoes": [
+      {
+        "source": "Numbers 15:38-39",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Israelites are commanded to wear tassels (the 'fringe') on the corners of their garments as a mark of holiness and remembrance of the commandments. The sick seeking to touch the 'fringe' of Jesus' garment invokes this distinctively Israelite tasseled hem. The specific 'fringe' term grounds the allusion.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 4:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The sun of righteousness shall arise with healing in its wings (hem/corners),' a promise of eschatological healing associated with the garment's corners/wings. The crowds healed by touching Jesus' garment-fringe evoke this healing-in-the-hem promise. Medium confidence given the wordplay on 'wings/corners' (kanaph) shared with the tassel.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 13:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Mere contact with Elisha's bones restores life, the OT motif of healing power conveyed by touching the prophet or his remains. The healing transmitted by touching Jesus' garment coheres with this contact-with-the-holy-one healing pattern. Contested, thematic resonance only.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 47:1-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Healing flows out from the temple/sanctuary to wherever the water reaches, an outward-radiating healing presence. Jesus moving through villages and country with healing extending to all who touch him faintly mirrors this radiating-healing motif. Low confidence, contested.",
+        "contested": true
+      }
+    ]
+  }
+]

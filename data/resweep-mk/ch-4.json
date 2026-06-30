@@ -1,0 +1,359 @@
+[
+  {
+    "id": "4.1",
+    "ch": 4,
+    "ref": "4:1-9",
+    "echoes": [
+      {
+        "source": "Isaiah 55:10-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Isaiah's image of rain and seed that gives bread and accomplishes God's purpose underwrites the sower parable's logic that the sown word inevitably bears fruit. Thematic coherence is strong (word = seed that does not return empty), and the harvest-yield climax in 4:8 mirrors Isaiah's effective word. Volume is moderate since Mark does not cite, but the recurrence of the word-as-seed motif across early Christian tradition supports availability.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 4:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah's 'Break up your fallow ground, and don't sow among thorns' supplies the precise agricultural antithesis of good soil versus thorn-choked ground seen in 4:7-8. The shared sowing-among-thorns image gives thematic coherence, though volume is faint and the wording is conventional farming language widely available in the prophets.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 10:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Hosea's 'Sow to yourselves in righteousness, reap according to kindness; break up your fallow ground' joins sowing and reaping as a covenant-fruit metaphor coherent with the parable's yield. The connection is thematic rather than verbal, and the sowing/harvest pairing is a stock prophetic idiom, so it remains faint.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 11:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Qoheleth's counsel to sow seed without knowing which will prosper resonates with the indiscriminate scattering across four soils in 4:4-8. The thematic coherence (uncertain outcome of sowing) is real but the image is proverbial, lowering volume and distinctiveness.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 26:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaac's hundredfold harvest as a sign of divine blessing offers a scriptural precedent for the climactic 'one hundred times' yield in 4:8. The hundredfold motif is distinctive enough to register, though Mark gives no other Isaac signals, keeping recurrence and volume low.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.2",
+    "ch": 4,
+    "ref": "4:9",
+    "echoes": [
+      {
+        "source": "Deuteronomy 29:4",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The summons 'Whoever has ears to hear, let him hear' inverts Deuteronomy's complaint that the LORD has not given Israel 'ears to hear,' setting up the hardening theme made explicit at 4:12. Thematic coherence with the eyes/ears-of-perception tradition is strong and recurs across Isaiah and Jeremiah, supporting the link even without verbatim citation.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 12:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel's rebellious house 'which have ears to hear, and don't hear' supplies nearly the exact idiom of the call to hearing in 4:9 and 4:23. The verbal overlap (ears to hear) and shared context of obstinate non-perception give good volume and coherence with Mark's hardening motif.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 5:21",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jeremiah's 'who have eyes, and don't see; who have ears, and don't hear' belongs to the same prophetic cluster Mark draws on for the ears-to-hear refrain. It reinforces recurrence within the Isaiah 6 family of hardening texts that frames the whole parables discourse.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.3",
+    "ch": 4,
+    "ref": "4:10-12",
+    "echoes": [
+      {
+        "source": "Isaiah 6:9-10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Mark 4:12 directly quotes Isaiah's commission ('seeing they may see, and not perceive; hearing they may hear, and not understand; lest they should turn and be forgiven'), with the wording closer to the Targum's 'be forgiven' than the MT/LXX 'be healed.' This is the chapter's central formal citation: high volume, explicit, and thematically governing the entire purpose-of-parables saying.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The disclosure of 'the mystery of the Kingdom of God' in 4:11 echoes Daniel's revealed 'mystery' (raz) of the coming kingdom that God makes known to the elect while it stays hidden from outsiders. The apocalyptic mystery-revelation vocabulary is distinctive and coherent with Mark's insider/outsider divide, giving solid thematic and verbal warrant.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 2:44",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Daniel's vision of the God of heaven setting up an indestructible kingdom underlies Mark's 'Kingdom of God' language as a revealed eschatological secret. Recurrence of the Danielic kingdom motif throughout Mark strengthens the coherence even though 4:11 cites no text.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 29:10-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Isaiah's theme of God sealing prophetic vision and giving a spirit of stupor so the people cannot understand parallels the deliberate withholding of perception in 4:11-12. It belongs to the same hardening tradition as Isaiah 6 and reinforces its recurrence, though Mark does not draw on its specific wording.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 78:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalmist's 'I will open my mouth in a parable' connects parabolic speech with hidden things 'from of old' (so used in Matthew's redaction of this material). For Mark the link is faint and indirect, registering only as thematic coherence between parable-speech and concealed mysteries.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.4",
+    "ch": 4,
+    "ref": "4:13-20",
+    "echoes": [
+      {
+        "source": "Isaiah 55:10-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The interpretation that 'the farmer sows the word' (4:14) makes explicit the Isaianic identification of God's effective word with seed that produces fruit. The allegory's insistence that the word bears thirty/sixty/hundredfold (4:20) coheres tightly with Isaiah's word that accomplishes its purpose and does not return empty.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 4:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The thorn-choked seed that 'becomes unfruitful' (4:18-19) recalls Jeremiah's warning not to sow among thorns, here moralized into the cares and riches that choke the word. The agricultural antithesis is coherent but the language is conventional, keeping it faint.",
+        "contested": true
+      },
+      {
+        "source": "Sirach 31:5-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ben Sira's warning that the lover of gold will not be justified and that riches are a stumbling block coheres with 'the deceitfulness of riches' that chokes the word in 4:19. The wisdom-tradition critique of wealth supplies a Second-Temple backdrop, though the connection is thematic rather than cited.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.5",
+    "ch": 4,
+    "ref": "4:21-23",
+    "echoes": [
+      {
+        "source": "Proverbs 20:27",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Proverbs' 'The spirit of man is the LORD's lamp, searching all his innermost parts' supplies a lamp-as-revelation image coherent with the saying that what is hidden must come to light (4:22). The lamp metaphor for disclosure of inner things gives thematic coherence, though Mark cites nothing and lamp imagery is widespread.",
+        "contested": true
+      },
+      {
+        "source": "Ecclesiastes 12:14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Qoheleth's conviction that God will bring every hidden work into judgment matches the principle 'there is nothing hidden, except that it should be made known' (4:22). The eschatological disclosure of the concealed is thematically coherent, though the wording is independent.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's praise that God 'reveals the deep and secret things' and that 'light dwells with him' resonates with the hidden-to-be-revealed/come-to-light pairing in 4:22, continuing the chapter's Danielic mystery-revelation vocabulary. The link is thematic and reinforces recurrence within the discourse.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.6",
+    "ch": 4,
+    "ref": "4:24-25",
+    "echoes": [
+      {
+        "source": "Proverbs 19:17",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The measure-for-measure principle that 'with whatever measure you measure, it will be measured to you' (4:24) draws on the wisdom logic of reciprocal recompense found in Proverbs' teaching that what one gives the LORD repays. The retributive-measure motif is coherent though proverbial and not specifically cited.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 9:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The saying 'to him who has, more will be given' (4:25) parallels Proverbs' wisdom-multiplication theme ('Give to a wise man, and he will be yet wiser'). The principle that receptivity yields increase is thematically coherent with the surrounding hearing-discourse, though faint.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 2:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's God who 'gives wisdom to the wise, and knowledge to those who have understanding' offers a Second-Temple precedent for the have/have-not multiplication of 4:25. The connection is thematic and reinforces the chapter's Danielic coloring, but remains faint.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.7",
+    "ch": 4,
+    "ref": "4:26-29",
+    "echoes": [
+      {
+        "source": "Joel 3:13",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The harvest climax 'he puts in the sickle, because the harvest has come' (4:29) closely echoes Joel's 'Put in the sickle; for the harvest is ripe.' The verbal overlap of sickle-and-ripe-harvest is distinctive (high volume) and coheres with Mark's eschatological framing of the kingdom's arrival as a reaping, making this the pericope's strongest link.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 1:11-12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The earth bearing fruit 'of itself' (automate)—blade, ear, full grain (4:28)—recalls the creation account of the earth bringing forth vegetation yielding seed after its kind. The motif of the earth's God-given autonomous fertility is thematically coherent, though Mark gives no verbal citation.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 19:9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The image of grain ripening to harvest draws on the broader Torah harvest framework, but the link is generic. Included for maximality; volume and distinctiveness are low and the coherence is only with the agricultural setting.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.8",
+    "ch": 4,
+    "ref": "4:30-32",
+    "echoes": [
+      {
+        "source": "Ezekiel 17:23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The mustard plant that puts out 'great branches, so that the birds of the sky can lodge under its shadow' (4:32) reworks Ezekiel's noble cedar planted on the mountain under which 'all birds of every wing' dwell in the shadow of its branches. The branches-shadow-birds-nesting cluster is verbally and thematically tight (high volume), and the imperial-tree-as-kingdom motif coheres with Mark's kingdom parable.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 4:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Nebuchadnezzar's tree whose branches shelter the beasts and in which 'the birds of the sky lived' supplies the proverbial great-tree-with-nesting-birds image behind 4:32. The recurrence of this kingdom-tree topos (Daniel 4:21 repeats it) gives strong availability and coherence with the contrast between the tiny seed and the sheltering kingdom.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 31:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Ezekiel's Assyrian cedar in whose boughs 'all the birds of the sky made their nests' and under whose shadow great nations lived belongs to the same world-tree tradition Mark evokes. The shared birds-nest-in-the-shadow image reinforces recurrence across the prophetic kingdom-tree corpus.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 4:21",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The reprise of the tree 'in whose branches the birds of the sky lived' restates the Danielic kingdom-tree, strengthening the topos behind 4:32 by recurrence within a single source. Its function is to confirm the availability of the great-tree-as-dominion symbol rather than to add new wording.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 104:12",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalm's 'birds of the sky' that nest by the branches and sing reflects the same creation-poetic image of birds lodging in foliage. It is a faint, generic parallel that adds coherence to the nesting-birds detail but lacks the kingdom-tree distinctiveness of Ezekiel and Daniel.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.9",
+    "ch": 4,
+    "ref": "4:33-34",
+    "echoes": [
+      {
+        "source": "Psalm 78:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The summary that Jesus spoke 'without a parable he didn't speak to them' resonates with the psalmist's 'I will open my mouth in a parable; I will utter dark sayings of old.' The link between exclusive parabolic teaching and revealed/concealed wisdom is thematically coherent, though for Mark it is faint and uncited.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "4.10",
+    "ch": 4,
+    "ref": "4:35-41",
+    "echoes": [
+      {
+        "source": "Psalm 107:23-30",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The storm-stilling sequence—seafarers in distress, a stormy wind lifting the waves, a cry to the LORD, and his making 'the storm a calm, so that its waves are still'—maps closely onto 4:37-39. The verbal echo of the LORD stilling waves into calm is distinctive (high volume) and thematically frames Jesus exercising divine prerogative over the sea.",
+        "contested": false
+      },
+      {
+        "source": "Jonah 1:4-16",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The scene of a prophet asleep in the boat during a great storm, woken by terrified sailors fearing death, with the sea growing calm once he acts, closely parallels 4:37-41. The shared narrative structure (sleeping figure, fear of perishing, calmed sea, awe-struck question) gives strong volume and coherence, with Jesus surpassing Jonah by commanding rather than being thrown overboard.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 89:9",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'You rule the pride of the sea. When its waves rise up, you still them' attributes to YHWH precisely the sea-rebuking power Jesus wields in 4:39. The distinctive divine-warrior motif of mastering the chaotic sea makes this a strong echo undergirding the disciples' question 'Who then is this?'",
+        "contested": false
+      },
+      {
+        "source": "Psalm 65:7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "God's stilling of 'the roaring of the seas, the roaring of their waves' supplies the same sea-mastery vocabulary applied to Jesus in 4:39. It reinforces the recurrence of the YHWH-stills-the-sea topos across the Psalter that frames the miracle's Christological force.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 106:9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "God's 'rebuke' of the Red Sea so that it dried up supplies the rebuke-of-the-sea verb (epitimao) used in 4:39, framing the calming as a divine-warrior subjugation of chaotic waters. The shared rebuking-the-sea motif gives good coherence with Mark's exodus-tinged sea command.",
+        "contested": true
+      },
+      {
+        "source": "Nahum 1:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Nahum's God who 'rebukes the sea, and makes it dry' provides another instance of the divine rebuke of the waters behind Jesus' command 'Peace! Be still!' (4:39). It strengthens the recurrence of the sea-rebuke tradition, though it is not specifically cited.",
+        "contested": true
+      },
+      {
+        "source": "Job 38:8-11",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The LORD's setting bounds for the sea—'thus far shall you come, but no further; and here shall your proud waves be stayed'—portrays the creator's unique authority over the deep that Jesus assumes in 4:39-41. The coherence with the disciples' awe at one who commands wind and sea is strong, supporting the figural Christology.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 104:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The waters fleeing at God's rebuke in the creation-psalm adds to the cluster of texts where the deity's voice masters the sea, coherent with Jesus' verbal command. It is a faint reinforcement of the sea-rebuke topos rather than a distinct source.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 4:8",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The psalmist's peaceful sleep in trust—'I will both lay down and sleep in peace'—offers a faint counterpoint to Jesus asleep amid the storm (4:38), portraying serene confidence in God. The link is thematic and weak, included for maximality.",
+        "contested": true
+      },
+      {
+        "source": "Wisdom of Solomon 14:1-4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Wisdom's portrait of God's providence guiding the sea-voyager safely through the waves provides a Second-Temple backdrop to deliverance from a storm at sea (4:37-39). It contributes thematic coherence and availability, but the connection is general rather than verbal.",
+        "contested": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "1.1",
+    "ch": 1,
+    "ref": "1:1-1",
+    "echoes": [
+      { "source": "Isaiah 52:7", "type": "allusion", "confidence": "medium", "note": "Mark's programmatic noun 'gospel/good news' (euangelion) leans on Isaiah's herald who publishes 'good news' that 'your God reigns.' Volume is conceptual rather than verbal in 1:1 itself, but recurrence is strong: Mark returns to Isaianic euangelizō language at 1:14-15 (the reign of God). Coherence is high since the whole Gospel frames itself as the announcement Isaiah anticipated.", "contested": false },
+      { "source": "Isaiah 40:9", "type": "echo", "confidence": "medium", "note": "Isaiah 40:9 pairs 'good tidings' with Zion's herald immediately before the 40:3 'voice in the wilderness' that Mark quotes in 1:3. The proximity of the two Isaiah loci makes it likely Mark heard 'gospel' from this same context. Volume is low in v.1 but the deliberate quotation of 40:3 two verses later raises availability and coherence.", "contested": true },
+      { "source": "Isaiah 61:1", "type": "echo", "confidence": "low", "note": "The Servant 'anointed to bring good news' supplies another Isaianic root for Mark's euangelion. Verbal contact is faint here and the link is largely thematic; included for maximal coverage because Mark's Jesus is the Spirit-anointed herald (cf. 1:10).", "contested": true },
+      { "source": "Psalm 2:7", "type": "allusion", "confidence": "medium", "note": "The title 'Son of God' in the superscription anticipates the divine voice of 1:11, which quotes Psalm 2:7. Volume in v.1 is a single title, but recurrence within the chapter (and at 9:7; 15:39) gives the royal-sonship reading strong coherence. The superscription programmatically front-loads the enthronement language Mark unpacks at the baptism.", "contested": false },
+      { "source": "2 Samuel 7:14", "type": "echo", "confidence": "low", "note": "Nathan's dynastic oracle ('I will be his father, he shall be my son') stands behind the messianic 'Son of God' title alongside Psalm 2. Verbal volume in Mark is minimal; the link is by way of the Davidic sonship tradition rather than direct citation, hence low and contested.", "contested": true, "altSource": "Psalm 2:7" },
+      { "source": "Genesis 1:1", "type": "echo", "confidence": "low", "note": "'The beginning' (archē) may evoke the Genesis incipit, casting Jesus' advent as a new creation. Volume is one word and many read 'beginning' merely as a heading for the narrative, so the echo is genuinely contested; coherence rises only if Mark intends a creation-typology, which 1:10-13 (Spirit, wilderness, wild beasts) may support.", "contested": true }
+    ]
+  },
+  {
+    "id": "1.2",
+    "ch": 1,
+    "ref": "1:2-8",
+    "echoes": [
+      { "source": "Malachi 3:1", "type": "quotation", "confidence": "high", "note": "Mark's 'Behold, I send my messenger before your face, who will prepare your way' is a near-verbatim citation of Malachi 3:1, though Mark misattributes the fused text to 'Isaiah.' Volume is maximal (sustained verbal repetition), and recurrence is confirmed by Mark 9:11-13, where the Elijah-messenger of Malachi is again applied to John. Coherence is total: the messenger prepares the way of the Lord.", "contested": false },
+      { "source": "Exodus 23:20", "type": "quotation", "confidence": "high", "note": "The opening clause 'Behold, I send my messenger before your face' matches Exodus 23:20 LXX (the angel guarding Israel on the wilderness road) even more closely than Malachi for the first half. Mark has conflated Exodus 23:20 with Malachi 3:1; the shared 'before your face' wording and new-Exodus 'way' imagery give high volume and coherence to a deliberate fusion.", "contested": false },
+      { "source": "Isaiah 40:3", "type": "quotation", "confidence": "high", "note": "'The voice of one crying in the wilderness, Make ready the way of the Lord' quotes Isaiah 40:3 (LXX), the only part Mark's 'as written in Isaiah' formula actually names. Volume is maximal and the wilderness/way motif structures the whole prologue (John baptizes 'in the wilderness,' 1:4). The new-Exodus comfort-of-Zion context is highly coherent with Mark's gospel announcement.", "contested": false },
+      { "source": "2 Kings 1:8", "type": "allusion", "confidence": "high", "note": "John's garb of camel's hair and a leather belt around the waist deliberately mirrors Elijah, 'a hairy man with a leather belt around his waist' (2 Kings 1:8 LXX, zōnēn dermatinēn perthan identical phrase). High volume in a distinctive sartorial detail; recurrence at Mark 9:13 ('Elijah has come') confirms the identification. Coherence is strong: John is the returning Elijah of Malachi.", "contested": false },
+      { "source": "Malachi 4:5", "type": "allusion", "confidence": "high", "note": "Malachi 4:5 (3:23 MT) promises Elijah's return 'before the great day of the LORD'; Mark casts John in this role, fusing it with the messenger of Malachi 3:1. Verbal volume in 1:2-8 is indirect, but the Elijah dress (v.6) and Mark 9:11-13 make the figural identification explicit and recurrent. Coherence is the engine of the whole prologue.", "contested": false },
+      { "source": "Zechariah 13:4", "type": "echo", "confidence": "low", "note": "Zechariah 13:4 mentions prophets wearing 'a hairy mantle' as a deceptive sign; some see John's camel-hair garment drawing on the generic prophetic-mantle convention rather than Elijah specifically. Volume is low and the negative valence in Zechariah weakens coherence; included as a contested alternate source for the prophet's dress.", "contested": true, "altSource": "2 Kings 1:8" },
+      { "source": "Leviticus 11:22", "type": "echo", "confidence": "low", "note": "John's diet of locusts reflects the one insect category Leviticus 11:22 permits as clean food, anchoring his wilderness asceticism in Torah dietary law. The contact is a single permitted-food detail with no verbal borrowing, so the echo is faint and contested; it functions mainly to authenticate his wilderness piety.", "contested": true }
+    ]
+  },
+  {
+    "id": "1.3",
+    "ch": 1,
+    "ref": "1:9-11",
+    "echoes": [
+      { "source": "Psalm 2:7", "type": "allusion", "confidence": "high", "note": "The heavenly voice 'You are my beloved Son' echoes the royal enthronement decree 'You are my Son' of Psalm 2:7. Volume is high (the opening clause is near-verbatim) and recurrence is strong (Mark 9:7; the title frames the Gospel). Coherence is maximal: the baptism functions as a messianic enthronement, declaring Jesus the Davidic king-son.", "contested": false },
+      { "source": "Isaiah 42:1", "type": "allusion", "confidence": "high", "note": "'In whom I am well pleased' draws on the Servant of Isaiah 42:1, 'my chosen, in whom my soul delights,' paired with the Spirit resting on him (v.10). Volume is high on the 'well pleased / delight' clause and the Spirit-endowment, and the fusion of royal Son (Ps 2) with suffering Servant (Isa 42) is a load-bearing Markan Christology. Coherence is high.", "contested": false },
+      { "source": "Isaiah 64:1", "type": "allusion", "confidence": "medium", "note": "Mark's distinctive 'the heavens being torn' (schizomenous) recalls Isaiah 64:1 LXX, 'O that you would rend the heavens and come down.' Volume rests on the violent verb 'tear,' which Mark uniquely chooses (vs. Matthew/Luke's 'opened') and reuses at the temple veil (15:38). Coherence is high: God rends the heavens to descend in the Spirit upon Jesus.", "contested": false },
+      { "source": "Genesis 22:2", "type": "echo", "confidence": "medium", "note": "'Beloved Son' (agapētos) may invoke Isaac, 'your only/beloved son,' in the Aqedah of Genesis 22:2 LXX, foreshadowing the offered son. Volume is the single distinctive adjective agapētos (which LXX uses for Isaac), giving real verbal contact; recurrence at 9:7 and the passion's sacrificial logic raise coherence. Genuinely contested—agapētos may simply intensify 'Son.'", "contested": true, "altSource": "Psalm 2:7" },
+      { "source": "Genesis 1:2", "type": "echo", "confidence": "low", "note": "The Spirit descending over the baptismal waters may evoke the Spirit/wind hovering over the primordial waters of Genesis 1:2, framing the baptism as new creation. Volume is conceptual only (no 'dove' in Genesis), so the link is faint; some rabbinic traditions compared the Genesis Spirit to a bird, which marginally supports it. Contested.", "contested": true },
+      { "source": "Ezekiel 1:1", "type": "echo", "confidence": "low", "note": "Ezekiel's inaugural vision opens with 'the heavens were opened and I saw visions of God,' a prophetic-commission topos that Mark's heaven-rending and Spirit-descent may share. Volume is low and the verb differs (open vs. tear), so this is a generic apocalyptic-opening echo rather than a targeted citation; included for completeness.", "contested": true },
+      { "source": "Isaiah 63:11-14", "type": "echo", "confidence": "low", "note": "Isaiah 63 recalls God putting his Holy Spirit among his people at the Exodus through the sea, a new-Exodus matrix coherent with Jesus' Spirit-anointing at the Jordan. The contact is thematic (Spirit + water + sonship of Israel) rather than verbal, so volume is low; it strengthens the new-Exodus reading of the whole prologue.", "contested": true }
+    ]
+  },
+  {
+    "id": "1.4",
+    "ch": 1,
+    "ref": "1:12-13",
+    "echoes": [
+      { "source": "Deuteronomy 8:2", "type": "figural", "confidence": "medium", "note": "Jesus' forty days 'tempted' in the wilderness recapitulates Israel's forty years in which the LORD led them to test (peirazō) them. Volume is thematic (forty + wilderness + testing) rather than verbal, but the typology of the new Israel re-running the wilderness probation is coherent and recurrent in early Christian reading. Mark, unlike Q, gives no scriptural debate, so the link is figural.", "contested": false },
+      { "source": "Exodus 34:28", "type": "echo", "confidence": "medium", "note": "Moses' forty days and forty nights on Sinai (also Exodus 24:18) supplies one of the canonical 'forty days' fasts that Jesus' wilderness sojourn evokes. Volume is the shared numeral and wilderness setting; the Moses typology is coherent with Mark's broader new-Exodus framing, though Mark's brevity keeps it allusive rather than verbal.", "contested": true, "altSource": "1 Kings 19:8" },
+      { "source": "1 Kings 19:5-8", "type": "allusion", "confidence": "medium", "note": "Elijah's forty days in the wilderness, sustained by an angel who 'served' him with food, closely parallels Mark's 'forty days... and the angels were serving him.' Volume includes the shared forty days plus angelic ministration, a distinctive combination; given Mark's heavy Elijah typology (John as Elijah, 1:6), recurrence and coherence are notable.", "contested": false },
+      { "source": "Psalm 91:11-13", "type": "echo", "confidence": "low", "note": "Psalm 91 promises angelic guardianship and treading on lion and serpent unharmed; Mark's pairing of 'wild animals' and 'angels serving him' may reflect this protection motif. Volume is low and indirect (the psalm is explicit in the Q temptation, not Mark), so for Mark this is a contested thematic echo rather than a citation.", "contested": true },
+      { "source": "Isaiah 11:6-9", "type": "figural", "confidence": "low", "note": "Jesus 'with the wild animals' may evoke the eschatological peace where beasts no longer harm, marking him as inaugurator of restored creation. Volume is purely thematic and the wild beasts in Mark could equally signal danger (cf. Ps 91), so the irenic-Eden reading is contested; included for the new-creation typology.", "contested": true },
+      { "source": "Genesis 3:1", "type": "echo", "confidence": "low", "note": "The new-Adam reading sees Jesus, tempted by Satan yet among the beasts and served by angels, reversing Adam's failure in the garden among the animals. Volume is conceptual (Satan as tempter, the beasts, paradise restored) with no verbal borrowing, so this Adam-Christ typology is faint and contested in Mark, who never names Adam.", "contested": true, "altSource": "Isaiah 11:6" }
+    ]
+  },
+  {
+    "id": "1.5",
+    "ch": 1,
+    "ref": "1:14-15",
+    "echoes": [
+      { "source": "Isaiah 52:7", "type": "allusion", "confidence": "high", "note": "'The kingdom of God is at hand' announced as 'good news' fulfills the herald of Isaiah 52:7 who proclaims good news and says 'Your God reigns.' Volume couples the distinctive verb euangelizō with the reign of God, both present here; recurrence binds it to 1:1's euangelion. Coherence is maximal—this is Mark's thesis statement drawn from Isaiah's gospel of God's kingship.", "contested": false },
+      { "source": "Daniel 2:44", "type": "allusion", "confidence": "medium", "note": "The expectation that 'the God of heaven will set up a kingdom that shall never be destroyed' supplies the apocalyptic content of Jesus' 'kingdom of God.' Volume is conceptual but the specific phrase 'kingdom of God/heaven' has its clearest Second-Temple anchor in Daniel; coherence with Mark's 'the time is fulfilled' (an apocalyptic timetable) is strong.", "contested": false },
+      { "source": "Daniel 7:13-14", "type": "echo", "confidence": "medium", "note": "The everlasting dominion given to the 'one like a son of man' is the kingdom Mark's Jesus proclaims and later claims (Mark 13:26; 14:62). In 1:15 the contact is thematic—the inbreaking eternal kingdom—rather than verbal, but the recurrence of Daniel 7 across Mark gives the echo real weight here.", "contested": true },
+      { "source": "Isaiah 61:1-2", "type": "echo", "confidence": "medium", "note": "'The time is fulfilled' resonates with Isaiah 61:2's 'the acceptable year of the LORD,' the proclamation of the eschatological jubilee by the Spirit-anointed herald (cf. Jesus' anointing at 1:10). Volume is moderate on the 'favorable/fulfilled time' motif; coherence with the gospel-of-God framing is good, though Mark does not quote it as Luke does.", "contested": true },
+      { "source": "Ezekiel 7:7", "type": "echo", "confidence": "low", "note": "Ezekiel 7:7,12 declare 'the time has come, the day is near,' a near-formula for Mark's 'the time is fulfilled.' Volume is the shared 'the time has come' idiom, but Ezekiel's announcement is judgment, not gospel, weakening coherence; included as a faint, contested verbal parallel.", "contested": true }
+    ]
+  },
+  {
+    "id": "1.6",
+    "ch": 1,
+    "ref": "1:16-20",
+    "echoes": [
+      { "source": "Jeremiah 16:16", "type": "allusion", "confidence": "medium", "note": "'I will make you into fishers for men' draws on Jeremiah 16:16, 'I will send for many fishers... and they shall fish them.' Volume rests on the distinctive 'fishers of men' image, which is rare in scripture; coherence is the chief question because Jeremiah's fishers gather for judgment while Jesus' gather for salvation, a deliberate transvaluation. Distinctiveness makes the allusion likely.", "contested": false },
+      { "source": "Ezekiel 47:10", "type": "echo", "confidence": "low", "note": "Ezekiel's vision of fishermen spreading nets along the life-giving temple river offers a more positive 'fishers' background than Jeremiah's judgment. Volume is low (no verbal contact beyond 'fishermen/nets') and the link is thematic, so it is a contested alternate backdrop to the call of the fishermen.", "contested": true, "altSource": "Jeremiah 16:16" },
+      { "source": "Amos 4:2", "type": "echo", "confidence": "low", "note": "Amos 4:2 threatens that the people will be taken away 'with fishhooks,' another OT fishing-for-people image. Volume is faint and, like Jeremiah, the valence is judgment; included for maximal coverage of the 'catching people' metaphor though coherence with Jesus' summons is weak.", "contested": true },
+      { "source": "1 Kings 19:19-21", "type": "allusion", "confidence": "medium", "note": "The abrupt prophetic call—Jesus passing by, the brothers immediately leaving father and livelihood—mirrors Elijah's call of Elisha, who left his oxen and his father to follow. Volume lies in the shared call-narrative form (summons in the midst of work, leaving family/trade), and Mark's pervasive Elijah typology raises coherence and recurrence for the pattern, even without direct quotation.", "contested": false }
+    ]
+  },
+  {
+    "id": "1.7",
+    "ch": 1,
+    "ref": "1:21-28",
+    "echoes": [
+      { "source": "Psalm 106:16", "type": "echo", "confidence": "low", "note": "The demon's confession 'the Holy One of God' uses a title applied in Psalm 106:16 (LXX 105:16) to Aaron, 'the holy one of the LORD.' Volume is the shared distinctive title, but its referent differs sharply (Aaron vs. Jesus), so the link is contested; it may simply mark Jesus as the consecrated agent of God whose holiness repels the unclean spirit.", "contested": true },
+      { "source": "Judges 13:7", "type": "echo", "confidence": "low", "note": "Samson is to be 'a Nazirite/holy one of God from the womb' (Judges 13:7; 16:17 LXX 'hagios theou'), the closest verbal match to the demon's 'Holy One of God.' Volume on the exact phrase is real, but the Samson connection is thematically thin, so this is a contested lexical parallel for the title rather than a developed allusion.", "contested": true, "altSource": "Psalm 106:16" },
+      { "source": "Isaiah 1:4", "type": "echo", "confidence": "low", "note": "'The Holy One of Israel,' Isaiah's signature divine title, may stand behind 'the Holy One of God' as a claim to Jesus' divine identity recognized by the demon. Volume is partial (Holy One + God/Israel) and the genitive differs, so coherence is suggestive but the link remains faint and contested.", "contested": true }
+    ]
+  },
+  {
+    "id": "1.8",
+    "ch": 1,
+    "ref": "1:29-31",
+    "echoes": [
+      { "source": "1 Kings 17:17-23", "type": "figural", "confidence": "low", "note": "Jesus taking the sick woman 'by the hand' and raising her up loosely follows the Elijah/Elisha healing pattern (Elijah revives the widow's son). Volume is purely formal (prophet restores a stricken person), with no verbal borrowing in Mark's terse account, so this is a contested figural echo riding on Mark's broader Elijah typology.", "contested": true },
+      { "source": "2 Kings 4:32-37", "type": "echo", "confidence": "low", "note": "Elisha's raising of the Shunammite's son by personal touch offers another prophetic-healing template for Jesus' gesture of taking the hand and 'raising' the feverish woman. The contact is thematic and the language non-distinctive, so the echo is faint; included to register the prophet-healer typology underlying the miracle.", "contested": true, "altSource": "1 Kings 17:17" }
+    ]
+  },
+  {
+    "id": "1.9",
+    "ch": 1,
+    "ref": "1:32-34",
+    "echoes": [
+      { "source": "Isaiah 53:4", "type": "echo", "confidence": "low", "note": "Mark's summary of Jesus healing 'all who were sick' and casting out demons resonates with the Servant who 'bore our infirmities,' the verse Matthew explicitly cites at this point. For Mark the link is unmarked and thematic, so volume is low and it is contested whether Mark intends the Servant-of-Isaiah reading here, though it coheres with the Isa 42 Servant motif of 1:11.", "contested": true }
+    ]
+  },
+  {
+    "id": "1.10",
+    "ch": 1,
+    "ref": "1:35-39",
+    "echoes": [
+      { "source": "Isaiah 50:4", "type": "echo", "confidence": "low", "note": "Jesus rising 'early in the morning' to a solitary place to pray faintly echoes the Servant who is wakened 'morning by morning' to hear and speak God's word. Volume is minimal (the morning-prayer motif) with no verbal borrowing, so this is a contested, low-confidence echo; it coheres only loosely with Mark's Servant Christology.", "contested": true }
+    ]
+  },
+  {
+    "id": "1.11",
+    "ch": 1,
+    "ref": "1:40-45",
+    "echoes": [
+      { "source": "Leviticus 14:2-4", "type": "allusion", "confidence": "high", "note": "Jesus' command to 'show yourself to the priest and offer for your cleansing the things which Moses commanded' directly invokes the leper's purification rite of Leviticus 14, where the cleansed person presents himself to the priest with the prescribed offerings. Volume is high (Mark names 'the things Moses commanded' for cleansing), coherence total, and the reference is explicit Torah citation in substance.", "contested": false },
+      { "source": "Leviticus 13:45-46", "type": "allusion", "confidence": "high", "note": "The leper's condition—ritual uncleanness and exclusion from the community—presupposes the diagnostic law of Leviticus 13, the necessary backdrop to the cleansing of v.42. Volume is conceptual but the legal framework is unmistakably in view (the leper must be declared clean by a priest), and it coheres tightly with the offering command of v.44.", "contested": false },
+      { "source": "2 Kings 5:1-14", "type": "allusion", "confidence": "medium", "note": "The cleansing of a leper evokes Elisha's healing of Naaman, the paradigmatic OT leprosy cure by a prophet. Volume is the shared distinctive event (only Elisha cleanses a leper in the OT narratives) plus Mark's Elijah/Elisha typology; coherence is strong, and Luke 4:27 makes the Naaman link explicit, supporting its availability and recurrence in the tradition.", "contested": false },
+      { "source": "Numbers 12:10-15", "type": "echo", "confidence": "low", "note": "Miriam's leprosy and Moses' intercession, with the priestly/Mosaic handling of her exclusion and restoration, sits in the background of leprosy as a divinely-managed impurity. Volume is low and the contact thematic rather than verbal, so this is a contested supporting echo to the Levitical leprosy frame.", "contested": true }
+    ]
+  }
+]

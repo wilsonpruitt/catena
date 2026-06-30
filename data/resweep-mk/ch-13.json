@@ -1,0 +1,555 @@
+[
+  {
+    "id": "13.1",
+    "ch": 13,
+    "ref": "13:1-2",
+    "echoes": [
+      {
+        "source": "Micah 3:12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jesus' oracle that not one stone of the temple will be left on another reprises the classic prophetic threat that Zion will be plowed as a field and the temple mount become a wooded height. Micah's word is itself remembered in Jeremiah 26:18 as a precedent for temple-doom prophecy, giving recurrence; the volume (a prophet announcing the sanctuary's ruin) is strong and the coherence with Jeremiah 7 below is tight.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 26:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Jeremiah's temple sermon threatens to make 'this house like Shiloh' and Jerusalem a curse, the OT template for a prophet predicting the sanctuary's destruction and being put on trial for it. Mark frames Jesus in exactly this Jeremianic role, and the temple-saying becomes evidence at his trial (Mark 14:58), so the figural coherence is high.",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 7:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The threat to do to 'this house which is called by my name' as was done to Shiloh undergirds the prediction that the great buildings will fall. Mark elsewhere quotes Jeremiah 7:11 ('den of robbers') at the temple cleansing, establishing recurrence of this chapter in the temple-confrontation narrative.",
+        "contested": false
+      },
+      {
+        "source": "Haggai 2:15",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The disciples' marveling at 'what stones, what buildings' inverts Haggai's prophecy of glory for the rebuilt house ('stone laid upon stone'); Jesus' reversal of stone-on-stone may play against the temple-construction language of the post-exilic prophets. Faint and contested.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 9:7-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The Deuteronomistic warning that if Israel forsakes the LORD 'this house will become a heap of ruins; everyone who passes will be appalled' supplies the covenantal logic for the temple's fall as judgment. Coherence with the prophetic temple-doom tradition is strong, though the specific 'stone on stone' idiom comes from Micah.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.2",
+    "ch": 13,
+    "ref": "13:3-4",
+    "echoes": [
+      {
+        "source": "Zechariah 14:4",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Jesus delivers the apocalyptic discourse seated on the Mount of Olives 'opposite the temple,' the very mountain where Zechariah says the LORD's feet will stand on the day of the LORD and the mount will split. The setting is freighted with eschatological geography, lending figural coherence to a discourse about the day of the LORD, though Mark does not cite the verse.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 11:23",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel's glory of the LORD departs the doomed temple and halts on 'the mountain east of the city,' i.e., Olivet; Jesus pronouncing the temple's destruction from that same eastern mountain may echo the departure-of-the-glory motif. Faint and dependent on topographical identification.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:6-7",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The disciples' double question — 'when will these things be, and what is the sign that all is about to be accomplished?' — closely tracks Daniel's question to the man clothed in linen, 'how long until the end of these wonders?' and the answer measuring the time of the end. Mark's eschatological timetable is structured by Daniel 12, giving this opening question strong Danielic coherence.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 8:19",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's 'I will tell you what will happen at the latter end of the indignation, for it pertains to the appointed time of the end' parallels the disciples' request to be told the sign of the consummation. The vocabulary of an 'appointed time of the end' shapes the whole discourse.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.3",
+    "ch": 13,
+    "ref": "13:5-8",
+    "echoes": [
+      {
+        "source": "Daniel 2:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'These things must happen' (Greek dei genesthai) verbally echoes Daniel 2:28 LXX, 'what must come to pass in the latter days,' the programmatic statement of apocalyptic necessity. Mark adopts Daniel's deterministic 'must' to frame the wars and disasters as the divinely fixed sequence before the end.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 19:2",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Nation will rise against nation, and kingdom against kingdom' closely reproduces Isaiah's oracle, 'I will stir up Egyptians against Egyptians... kingdom against kingdom.' The paired idiom of nation/kingdom conflict is distinctive enough (high volume) to mark deliberate use of Isaiah's day-of-the-LORD imagery of internecine collapse.",
+        "contested": false
+      },
+      {
+        "source": "2 Chronicles 15:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Nation was crushed by nation and city by city, for God troubled them with every distress' supplies the same nation-against-nation formula combined with God-sent 'trouble,' matching Mark's 'troubles.' The Chronicler's portrait of God-ordained civil chaos coheres with the apocalyptic catalogue.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 13:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The beginning of birth pains' draws on Isaiah's day-of-the-LORD oracle against Babylon where men are 'in anguish like a woman in labor.' Birth-pang imagery for eschatological tribulation is a recurrent prophetic topos (Isaiah 26:17; Jeremiah 22:23; Hosea 13:13), and Isaiah 13 also supplies the cosmic darkening cluster echoed later in 13:24, strengthening coherence.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 26:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Like a woman with child... cries out in her pangs, so were we before you, O LORD' is part of the proto-apocalyptic Isaiah Apocalypse (chs. 24-27) that supplies Mark with resurrection-and-tribulation imagery. The labor-pang figure for the people's distress before deliverance coheres tightly with Mark's 'beginning of birth pains.'",
+        "contested": false
+      },
+      {
+        "source": "Jeremiah 22:23",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'How you will groan when pangs come upon you, pain as of a woman in labor' applies the birth-pang figure specifically to Jerusalem/Judah's coming judgment, the very referent of Mark 13. The recurrence of the labor metaphor across the prophets for the city's doom supports its presence here.",
+        "contested": true
+      },
+      {
+        "source": "Hosea 13:13",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The pangs of childbirth come for him' as an image of Ephraim's crisis adds to the prophetic stock of birth-pang imagery behind Mark's phrase. Faint, included for recurrence within the tradition rather than distinctive verbal contact.",
+        "contested": true
+      },
+      {
+        "source": "Deuteronomy 13:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The warning 'do not be led astray' by 'many who come in my name' echoes Deuteronomy's law against the prophet or dream-diviner who arises to 'lead you astray' (LXX planao) from the LORD. The same planao verb and the testing-of-Israel motif recur in 13:22, indicating Deuteronomy 13 as a structuring subtext for the deception warnings.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:30-31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Wonders in the heavens and on the earth' before the day of the LORD lies behind the catalogue of cosmic and terrestrial signs (wars, earthquakes); Joel is quoted heavily in early Christian eschatology and resurfaces in Mark's darkening of sun and moon in 13:24. Faint here, marked for recurrence.",
+        "contested": true
+      },
+      {
+        "source": "Haggai 2:6-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will shake the heavens and the earth, the sea and the dry land, and all nations' supplies a prophetic precedent for cosmic-political upheaval (kingdoms, shaking) preceding the end. The 'shaking' language returns in 13:25 ('powers shaken'), giving the cluster coherence.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.4",
+    "ch": 13,
+    "ref": "13:9-13",
+    "echoes": [
+      {
+        "source": "Daniel 7:25",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Daniel's little horn that 'wears out the saints of the Most High' for an appointed time supplies the apocalyptic pattern of the faithful handed over to persecuting authorities before vindication. Mark's councils, beatings, and kings before whom believers stand instantiate the saints' tribulation under hostile rulers, a Danielic frame the discourse repeatedly invokes.",
+        "contested": true
+      },
+      {
+        "source": "Micah 7:6",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Brother will deliver up brother to death, and the father his child; children will rise against parents' is a near-verbatim use of Micah 7:6, 'the son treats the father with contempt... a man's enemies are the men of his own household.' The family-rending of the eschatological crisis is drawn directly from Micah's lament over a society in moral collapse; high volume and distinctiveness.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 49:6",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'The gospel must first be preached to all the nations' draws on the Servant's commission to be 'a light to the nations, that my salvation may reach to the end of the earth,' the Isaianic universalism behind the worldwide proclamation. The 'must' (eschatological necessity) plus the nations theme coheres with Isaiah's mission oracles.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:14",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The mandate that the good news be proclaimed 'to all the nations' echoes the dominion given to the one like a son of man, that 'all peoples, nations, and languages should serve him.' Since Mark 13:26 explicitly invokes Daniel 7:13, the universal-nations note here likely draws on the same vision's worldwide scope.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 119:46",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'I will speak of your testimonies before kings and not be ashamed' faintly parallels standing 'before rulers and kings... for a testimony.' The righteous-sufferer-before-rulers motif is diffuse in the Psalter; low confidence, included for the testimony-before-kings overlap.",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 1:7-9",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The promise 'do not be anxious what you will say... it is not you who speak but the Holy Spirit' echoes the LORD's commission to Jeremiah, 'do not say I am only a youth... I have put my words in your mouth,' the prophetic-inspiration topos. The assurance of divinely given speech before hostile powers follows the call-narrative pattern.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 4:12",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'I will be with your mouth and teach you what you shall speak' is the foundational promise of God-supplied speech for a reluctant messenger, directly behind 'say whatever is given you in that hour.' The Moses-commissioning of inspired speech reinforces the Jeremiah parallel.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:12-13",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "'He who endures to the end will be saved' resonates with Daniel's beatitude on the one who waits and reaches the end of the days ('blessed is he who waits... you shall stand in your allotted place at the end of the days'). The endurance-to-the-end-yields-deliverance logic is Danielic apocalyptic, coherent with Mark's framework.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Daniel's promise that 'your people shall be delivered, everyone found written in the book' stands behind the eschatological 'will be saved.' The deliverance of the faithful remnant through the unequaled tribulation (cited explicitly at 13:19) frames the salvation of the endurer here.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.5",
+    "ch": 13,
+    "ref": "13:14-20",
+    "echoes": [
+      {
+        "source": "Daniel 9:27",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The abomination of desolation' is a formal citation, named as 'spoken of by Daniel the prophet.' Daniel 9:27's 'abomination that makes desolate' upon the wing of the temple is the source phrase; Mark's masculine participle 'standing where it ought not' personalizes the desolator. The highest-volume Danielic anchor of the discourse.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 11:31",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Daniel 11:31's forces that 'profane the temple... and set up the abomination that makes desolate' supplies the historical referent (Antiochus' altar to Zeus) reapplied to a future profanation. Mark's 'standing where it ought not' (i.e., in the holy place) directly tracks this temple-desecration sense.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:11",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "Daniel 12:11 dates 'the abomination that makes desolate set up' to the countdown of the end (1,290 days), tying the phrase to the eschatological timetable Mark is expounding. The recurrence of the exact phrase across Daniel 9, 11, and 12 underwrites Mark's explicit appeal to 'Daniel the prophet.'",
+        "contested": false
+      },
+      {
+        "source": "1 Maccabees 1:54",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "1 Maccabees 1:54 narrates the fulfillment of Daniel, 'they erected a desolating sacrilege on the altar of burnt offering,' giving the concrete Second-Temple referent for the phrase. As a deuterocanonical witness to how 'abomination of desolation' was understood, it supplies the interpretive backdrop ('let the reader understand') for Mark's reuse.",
+        "contested": false
+      },
+      {
+        "source": "1 Maccabees 2:28",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Mattathias and his sons fled to the mountains' at the persecution provides the precise precedent for 'let those in Judea flee to the mountains.' The Maccabean flight from the desolating sacrilege is the paradigmatic response Mark commands, making this a strong situational echo within the same desolation script.",
+        "contested": false
+      },
+      {
+        "source": "Genesis 19:17",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Flee to the mountains... do not look back, do not stop' (the angels to Lot at Sodom) underlies the urgent flight commands — not going back from the roof or field for possessions. The Sodom-escape pattern of immediate, possession-abandoning flight before judgment coheres with Mark's instructions (cf. Luke's explicit 'remember Lot's wife').",
+        "contested": false
+      },
+      {
+        "source": "Daniel 12:1",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'Tribulation such as has not been from the beginning of creation... and never will be' closely renders Daniel 12:1, 'a time of trouble such as never has been since there was a nation till that time.' The unequaled-distress formula is distinctive and explicitly Danielic, the climactic tribulation before the deliverance of the elect.",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:2",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Joel's day of the LORD is 'a day of darkness... such as has never been from of old, nor will be again after,' an unequaled-day formula parallel to Daniel 12:1 and reused by Mark. Joel supplies both the superlative-distress idiom and (in 2:10, 31) the sun-moon darkening cluster Mark deploys at 13:24, strengthening coherence.",
+        "contested": false
+      },
+      {
+        "source": "Exodus 11:6",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A great cry... such as there has never been, nor ever will be again' (the plague of the firstborn) is an early instance of the unequaled-event formula that Daniel and Joel inherit. Faint, included as the deep background of the 'never before, never again' superlative.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 65:8-9",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The shortening of the days 'for the sake of the elect, whom he chose' resonates with Isaiah's promise to preserve a remnant 'for my servants' sake, that I may not destroy them all.' The mercy-for-the-chosen logic that mitigates total destruction parallels Mark's 'unless the Lord had shortened those days, no flesh would be saved.'",
+        "contested": true
+      },
+      {
+        "source": "1 Enoch 80:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "1 Enoch speaks of the days being shortened/disordered in the time of the sinners, a Second-Temple apocalyptic motif of cosmic time foreshortened in the last crisis. The pseudepigraphal parallel to 'he shortened the days' suggests a shared apocalyptic idiom rather than direct dependence; marked contested.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.6",
+    "ch": 13,
+    "ref": "13:21-23",
+    "echoes": [
+      {
+        "source": "Deuteronomy 13:1-3",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'False prophets will arise and show signs and wonders to lead astray' reproduces Deuteronomy's test: the prophet who 'gives a sign or wonder' and it comes to pass, yet leads you after other gods, is testing whether you love the LORD. The pairing of 'signs and wonders' with seductive false prophecy and the verb 'lead astray' (planao) is distinctively Deuteronomic.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 13:5",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Deuteronomy's verdict that such a prophet has 'spoken to lead you astray from the LORD your God' underlies Mark's 'that they may lead astray, if possible, even the elect.' The danger to even the faithful elect echoes the law's concern that the whole community could be seduced by validated false signs.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 18:20-22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The law on the presumptuous prophet who speaks in the LORD's name without commission supplements the false-prophet warning. Less verbally specific than Deuteronomy 13, included for the recurrent false-prophet legislation behind Mark's 'false christs and false prophets.'",
+        "contested": true
+      },
+      {
+        "source": "Jeremiah 6:13-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jeremiah's polemic against prophets who 'have healed the wound of my people lightly, saying peace, peace, when there is no peace' supplies the prophetic stock of deceiving prophets in a doomed Jerusalem. Faint and thematic rather than verbal; coheres with Mark's setting of false messianic claims amid the city's crisis.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.7",
+    "ch": 13,
+    "ref": "13:24-27",
+    "echoes": [
+      {
+        "source": "Isaiah 13:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The sun will be darkened, the moon will not give its light' is near-verbatim from Isaiah 13:10, 'the sun will be dark at its rising and the moon will not shed its light,' the day-of-the-LORD oracle against Babylon. The catastrophic dimming of the luminaries is the lead element of Mark's cosmic-collapse cluster; highest volume in the constellation.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 34:4",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The stars will be falling from heaven and the powers of the heavens will be shaken' draws on Isaiah 34:4, 'all the host of heaven shall rot away, the skies roll up like a scroll, all their host fall.' Mark's falling stars and shaken heavenly powers reproduce Isaiah's cosmic-judgment imagery (LXX 'the powers of the heavens shall melt').",
+        "contested": false
+      },
+      {
+        "source": "Joel 2:10",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'The sun and moon are darkened, and the stars withdraw their shining' (also 2:31, 3:15) is a primary source for Mark's three-element luminary collapse. Joel's day-of-the-LORD theophany combines earth-quaking, heaven-trembling, and darkened sun/moon/stars, matching Mark's whole cluster and reinforcing the multiply-attested character of the imagery.",
+        "contested": false
+      },
+      {
+        "source": "Ezekiel 32:7-8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Ezekiel's lament over Pharaoh: 'I will cover the heavens and darken their stars; I will cover the sun with a cloud, and the moon shall not give its light. All the bright lights of heaven I will darken,' supplies the exact 'moon shall not give its light' phrase Mark shares with Isaiah 13. A fourth witness in the darkening cluster, demonstrating Hays' recurrence.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:13",
+        "type": "quotation",
+        "confidence": "high",
+        "note": "'They will see the Son of Man coming in clouds with great power and glory' directly cites Daniel 7:13, 'one like a son of man came with the clouds of heaven.' This is the christological centerpiece of the discourse; Mark adds 'power and glory' from the dominion granted in 7:14, and the title 'Son of Man' is the load-bearing self-designation throughout Mark.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 7:14",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'With great power and glory' renders the gift to the son of man of 'dominion and glory and a kingdom, that all peoples should serve him.' Mark fuses 7:13's coming-on-clouds with 7:14's enthronement glory, so the Son of Man's parousia carries the universal dominion of Daniel's vision.",
+        "contested": false
+      },
+      {
+        "source": "Zechariah 2:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Gather the elect from the four winds' echoes Zechariah 2:6, 'I have spread you abroad as the four winds of heaven, declares the LORD,' a regathering-of-the-dispersed oracle. The eschatological ingathering of the scattered people from the four winds is the conceptual core of Mark's angelic harvest of the elect.",
+        "contested": false
+      },
+      {
+        "source": "Deuteronomy 30:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'If your outcasts are in the uttermost parts of heaven, from there the LORD will gather you' undergirds gathering the elect 'from the ends of the earth to the ends of the sky.' Deuteronomy's covenant promise of regathering the exiled from the extremities of earth and heaven matches Mark's double horizon precisely.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 11:11-12",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah's promise that the LORD will 'assemble the banished of Israel and gather the dispersed of Judah from the four corners of the earth' supplies the messianic-age ingathering behind Mark's gathering of the elect. The 'four corners/four winds' regathering is a recurrent restoration motif, here applied to the Son of Man's harvest.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 27:13",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'A great trumpet will be blown, and those who were lost... will come and worship the LORD' from the Isaiah Apocalypse provides the trumpet-summoned ingathering of the scattered; Matthew's parallel makes the trumpet explicit. Mark's angelic gathering coheres with this Isaianic regathering even without naming the trumpet.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 12:10-14",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'They will look on him whom they have pierced' and the mourning of the tribes lies behind 'they will see the Son of Man'; the seeing-and-mourning at the coming one is more explicit in Matthew 24:30 and Revelation 1:7 but may color Mark's 'they will see.' Faint in Mark, marked contested.",
+        "contested": true
+      },
+      {
+        "source": "Zechariah 14:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The LORD my God will come, and all the holy ones with him' parallels the Son of Man sending out his angels at the parousia. The accompanying-holy-ones motif of the day of the LORD coheres with Mark's angelic retinue; included for recurrence of the Zecharianic day-of-the-LORD material in this pericope.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 104:3",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'He makes the clouds his chariot, riding on the wings of the wind' is part of the OT cloud-rider theophany tradition (cf. Isaiah 19:1; Psalm 18:9-12) that informs the Son of Man's coming 'in clouds.' The divine-prerogative of cloud-borne arrival lends figural weight to Daniel 7's cloud-coming as Mark applies it.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.8",
+    "ch": 13,
+    "ref": "13:28-31",
+    "echoes": [
+      {
+        "source": "Joel 2:22",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The fig-tree parable ('the fig tree puts forth... you know summer is near') faintly recalls Joel's restoration imagery, 'the fig tree and vine give their full yield,' as a sign-bearing tree marking the season's turn. The fig tree elsewhere in Mark (11:13-21) carries judgment symbolism; here its budding signals nearness, a season-discernment topos. Contested.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 51:6",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'Heaven and earth will pass away, but my words will not pass away' draws on Isaiah 51:6, 'the heavens will vanish like smoke, the earth wear out like a garment... but my salvation will be forever.' The contrast between the perishing cosmos and the enduring divine word is distinctively Isaianic and high in volume.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 40:8",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "'The grass withers, the flower fades, but the word of our God will stand forever' is the closest source for the permanence of God's word over against transient creation. Mark transfers the abiding-word of Isaiah 40 to 'my words,' an implicit christological claim; the verbal contrast (pass away / not pass away vs. wither / stand forever) is strong.",
+        "contested": false
+      },
+      {
+        "source": "Psalm 102:25-27",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'They will perish, but you remain; they will all wear out like a garment... but you are the same' grounds 'heaven and earth will pass away.' The Psalm's contrast of the perishable heavens-and-earth with the unchanging LORD supplies the theological warrant Mark applies to the abiding word.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 34:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'All the host of heaven shall rot away and the skies roll up like a scroll' reinforces 'heaven and earth will pass away,' connecting this declaration to the cosmic-dissolution imagery already cited at 13:25. Recurrence of Isaiah 34 across the discourse supports its faint presence here.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 7:18",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'All these things' coming to pass before 'this generation' passes resonates with Daniel's assurance that 'the saints shall receive the kingdom... forever, forever and ever'; the certainty that the decreed events will be accomplished is Danielic. Faint, included for the apocalyptic guarantee that frames 'most certainly I say.'",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "13.9",
+    "ch": 13,
+    "ref": "13:32-37",
+    "echoes": [
+      {
+        "source": "Zechariah 14:7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'A unique day... known to the LORD' on which the timing is hidden faintly parallels 'of that day or hour no one knows... but only the Father.' Zechariah's day-of-the-LORD whose timing belongs to God alone coheres with Mark's reservation of the hour to the Father; contested.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:7-9",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Daniel is told 'the words are shut up and sealed until the time of the end' — the timing of the consummation is withheld even from the seer. Mark's 'no one knows the day or hour' continues this Danielic concealment of the appointed time, the necessary counterpart to the timetable expounded throughout the chapter.",
+        "contested": true
+      },
+      {
+        "source": "Habakkuk 2:1-3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The watchman who stations himself to keep watch (2:1) and the vision that 'awaits its appointed time... if it seems slow, wait for it' (2:3) supplies the watching-for-a-delayed-coming posture behind the doorkeeper commanded to keep watch and the repeated 'watch.' The waiting-watchman for an appointed-yet-delayed arrival is the Habakkuk pattern.",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 21:6-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "'Go, set a watchman... he calls, Upon a watchtower I stand continually by day, and at my post whole nights' provides the prophetic figure of the sentinel keeping watch through the night-watches. Mark's doorkeeper told to 'keep watch' and the listing of evening/midnight/cockcrow/morning watches draw on this watchman tradition.",
+        "contested": false
+      },
+      {
+        "source": "Malachi 3:1",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The Lord whom you seek will suddenly come to his temple' parallels the master who returns 'suddenly,' lest he find the servants sleeping. The sudden, unannounced arrival of the lord coheres with Malachi's suddenly-coming Lord; faint and contested, but Malachi is a recurrent source in Mark.",
+        "contested": true
+      },
+      {
+        "source": "Ezekiel 33:2-7",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Ezekiel's watchman charged with sounding the alarm and held accountable if he fails to keep watch supplies the responsibility-of-the-sentinel theme behind 'commanded the doorkeeper to keep watch.' Faint relative to Isaiah 21 and Habakkuk 2; included for the recurrent watchman motif.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 39:4",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The parable of the man who goes abroad, leaves his house, and assigns each servant authority over his work faintly recalls the trusted-steward-over-an-absent-master's-household pattern (e.g., Joseph over Potiphar's house). A diffuse OT household-management topos rather than a specific text; low confidence.",
+        "contested": true
+      },
+      {
+        "source": "Proverbs 7:9-10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The four night-watches (evening, midnight, cockcrow, morning) draw on the OT/Second-Temple reckoning of the night's divisions; Proverbs' 'in the twilight, in the evening, at the time of night and darkness' attests the watch-segmented night. Marked contested as a cultural-temporal echo rather than a quoted text.",
+        "contested": true
+      }
+    ]
+  }
+]

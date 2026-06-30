@@ -1,0 +1,191 @@
+[
+  {
+    "id": "5.1",
+    "ch": 5,
+    "ref": "5:1-20",
+    "echoes": [
+      {
+        "source": "Isaiah 65:4",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Isaiah indicts the rebellious people who 'sit among the graves and lodge in the secret places, who eat swine's flesh.' Mark's demoniac dwelling among the tombs (vv.2-3,5) coupled with the herd of swine (vv.11-13) gives a remarkably dense convergence of both motifs — graves and pigs — that no other OT text combines. High Volume and Thematic Coherence: both passages concern unclean, rebellious figures marked off from covenant life, met by a God who reveals himself to those not seeking him (Isa 65:1).",
+        "contested": false
+      },
+      {
+        "source": "Isaiah 65:3",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Continues the Isaiah 65 oracle: a people 'who provoke me to my face continually, sacrificing in gardens.' The demoniac's defiant, self-destructive crying out night and day (v.5) coheres with Isaiah's portrait of provocation and cultic impurity. Strengthens the recurrence of the Isaiah 65 background already secured by v.4.",
+        "contested": true
+      },
+      {
+        "source": "Isaiah 65:5",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The unclean of Isaiah say 'Keep to yourself, do not come near me, for I am too holy for you' — a perverse holiness that defiles. The demoniac's cry 'What have I to do with you... do not torment me' (v.7) and the swine's contagion echo the ironic uncleanness-as-holiness of Isa 65:5, where God calls such people 'a smoke in my nostrils.' Thematic coherence within the same oracle reinforces the allusion.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 1:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The drowning of the unclean spirits in the sea (v.13) and the larger Markan motif of mastering the deep (preceding stilling of the storm) draws on the chaos-waters over which God's spirit broods at creation. The sea as the locus into which disorder is cast is faintly evocative of the primeval deep, but the connection is thematic rather than verbal.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 14:27-28",
+        "type": "figural",
+        "confidence": "medium",
+        "note": "'Legion' — a Roman military term — and the herd's headlong rush into the sea where they are drowned (v.13) figurally re-enacts the destruction of Pharaoh's host swallowed by the sea. The numbering ('about two thousand'), the military diction, and the drowning of an enemy army in water echo the Exodus deliverance. Mark casts Jesus' exorcism as a new-Exodus liberation from an occupying force, a coherence many read in the Gerasene narrative.",
+        "contested": true
+      },
+      {
+        "source": "Exodus 15:1",
+        "type": "figural",
+        "confidence": "low",
+        "note": "The Song of the Sea celebrates that horse and rider were thrown into the sea. The drowning of Legion's host (v.13) resonates with this triumph-song over a defeated army cast into the waters, supporting the new-Exodus reading; faint and thematic, dependent on the Exodus 14 figural link.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 14:18",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The demoniac addresses Jesus as 'Son of the Most High God' (v.7), using El Elyon, the divine title first given by Melchizedek (Gen 14:18-20). The Septuagintal 'God Most High' is a recurrent OT designation (Ps 78:35; Dan 3:26) and here, on Gentile lips, signals recognition of Israel's God by an outsider/unclean source. Strong Availability and Volume for the title.",
+        "contested": false
+      },
+      {
+        "source": "Daniel 3:26",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Nebuchadnezzar calls the three 'servants of the Most High God' — the same Greek title used by the demoniac (v.7) and characteristic of Gentile recognition of Israel's God in the LXX. The pattern of a pagan figure confessing 'the Most High God' coheres with Mark's setting in Gentile Decapolis. Recurrence of the title in Daniel strengthens the figural background.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 107:10",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Psalm 107 describes those who 'sat in darkness and the shadow of death, bound in affliction and irons,' whom God delivers. The demoniac bound with chains and fetters, dwelling in deathly tombs and broken loose (vv.3-4), evokes this portrait of the captive freed by divine mercy. The same Psalm's later stilling of the storm (107:29) parallels Mark's preceding pericope, supporting recurrence; nonetheless verbal contact is faint.",
+        "contested": true
+      },
+      {
+        "source": "Numbers 19:16",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The Torah's gravest corpse-uncleanness law marks anyone touching a grave or the dead as defiled seven days. The demoniac's permanent residence among the tombs (vv.2-3,5) renders him maximally unclean by this standard, which Mark heightens by adjoining the swine. Thematic coherence with the wider Markan concern for purity boundaries crossed by Jesus.",
+        "contested": true
+      },
+      {
+        "source": "Leviticus 11:7-8",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "Swine are the paradigmatic unclean animal: 'of their flesh you shall not eat, and their carcasses you shall not touch.' The great herd of pigs (vv.11-13) signals the Gentile, unclean territory and supplies the fitting receptacle for unclean spirits. The legal designation of swine grounds the narrative's purity logic and reinforces the Isaiah 65:4 swine motif.",
+        "contested": false
+      }
+    ]
+  },
+  {
+    "id": "5.2",
+    "ch": 5,
+    "ref": "5:21-34",
+    "echoes": [
+      {
+        "source": "Leviticus 15:25-27",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "The woman 'with an issue of blood' (v.25) embodies the Levitical zavah: a woman with a discharge beyond her period is unclean all the days of the flow, and whatever and whoever she touches becomes unclean. Her touching Jesus' garment (v.27) inverts the expected contagion — purity flows outward rather than impurity inward. Very high Volume and Thematic Coherence; the legal background is essential to the scene's meaning.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 15:19",
+        "type": "allusion",
+        "confidence": "medium",
+        "note": "The baseline menstrual-impurity law ('seven days she shall be in her impurity, and whoever touches her shall be unclean') frames the chronic twelve-year condition (v.25). Establishes that the woman is perpetually outside normal social and cultic contact, deepening the audacity of her approach in the crowd.",
+        "contested": false
+      },
+      {
+        "source": "Leviticus 15:30",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "The law's resolution requires the priest to make atonement 'for her unclean discharge,' after which she is clean. Jesus' word 'be cured of your disease' (v.34) functions as the priestly declaration of restored cleanness, the discharge being 'dried up' (v.29). Thematic coherence: Jesus enacts the role the Levitical system assigns to atonement and priestly verdict.",
+        "contested": true
+      },
+      {
+        "source": "Malachi 4:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'The sun of righteousness shall rise with healing in its wings (kanaph)' — the same term denotes the hem/corner of a garment. The woman seeks healing by touching the edge of Jesus' clothes (vv.27-28), and Matthew/Luke specify the kraspedon (tassel). Faint but evocative: healing located in the garment's edge resonates with Malachi's healing 'in the wings.'",
+        "contested": true
+      },
+      {
+        "source": "Numbers 15:38-39",
+        "type": "echo",
+        "confidence": "low",
+        "note": "The command to wear tassels on the corners of garments as reminders of the commandments stands behind the Synoptic detail of touching the hem (here generalized as 'his clothes,' v.27). The healing power located in the garment's fringe gains resonance from the sanctity Torah attaches to the tassel; faint in Mark, who omits the tassel itself.",
+        "contested": true
+      },
+      {
+        "source": "2 Kings 13:21",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Contact with Elisha's bones revives a corpse — power transmitted by touch from a holy person even involuntarily. The woman's cure by touching Jesus' garment, with power 'gone out from him' (v.30), echoes the prophetic motif of healing virtue conveyed through physical contact. Thematic, supporting the Elijah-Elisha typology that pervades the chapter.",
+        "contested": true
+      }
+    ]
+  },
+  {
+    "id": "5.3",
+    "ch": 5,
+    "ref": "5:35-43",
+    "echoes": [
+      {
+        "source": "1 Kings 17:17-23",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Elijah raises the widow of Zarephath's son: he goes in to where the child lies, acts privately, and 'the soul of the child came into him again, and he revived,' then Elijah presents the living child. Mark's raising of Jairus' daughter — entering where the child lay (v.40), the restoring word, the return to life (v.42) — is patterned on this paradigmatic prophetic resurrection. Strong Volume and recurrence within the chapter's Elijah-Elisha typology.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:32-37",
+        "type": "allusion",
+        "confidence": "high",
+        "note": "Elisha raises the Shunammite's son: he enters alone with the dead child, shuts the door (cf. Jesus putting out the mourners, v.40), and the child revives; the mother falls at his feet (cf. Jairus, v.22). The closest single template for Jairus' daughter — privacy, exclusion of others, parental supplication, and bodily resurrection of a child — making the Elisha narrative a primary subtext.",
+        "contested": false
+      },
+      {
+        "source": "2 Kings 4:34-35",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Elisha's bodily, hands-on revival ('he put his mouth on his mouth... the flesh of the child grew warm') resonates with Jesus 'taking the child by the hand' (v.41). The motif of resurrection effected by the prophet's physical contact strengthens the Elisha typology beyond the structural parallels already noted in 4:32-37.",
+        "contested": true
+      },
+      {
+        "source": "1 Kings 17:23",
+        "type": "echo",
+        "confidence": "medium",
+        "note": "Elijah 'gave him to his mother' after the raising; Jesus likewise restores the child to her parents and orders that she be given food (v.43), confirming bodily life. The return-to-the-parent motif and the demonstration of real restored life cohere closely with the Elijah pattern.",
+        "contested": true
+      },
+      {
+        "source": "Daniel 12:2",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Jesus' euphemism 'the child is not dead, but is asleep' (v.39) trades on the OT/Second-Temple metaphor of death as sleep from which the dead awake, classically formulated in Daniel's 'many who sleep in the dust of the earth shall awake.' The raising functions as a proleptic sign of resurrection hope; thematic and verbal contact through the sleep-of-death idiom.",
+        "contested": true
+      },
+      {
+        "source": "Genesis 47:31",
+        "type": "echo",
+        "confidence": "low",
+        "note": "Death-as-sleep language (e.g., the patriarchs 'sleeping with their fathers,' a recurrent OT idiom) underlies Jesus' 'she is asleep' (v.39), prompting the mourners' ridicule because they hear only literal sleep. Faint, depending on the broader idiom rather than a single text; cited to register the OT availability of the metaphor.",
+        "contested": true
+      },
+      {
+        "source": "Psalm 30:5",
+        "type": "echo",
+        "confidence": "low",
+        "note": "'Weeping may endure for a night, but joy comes in the morning' — the turning of mourning into rejoicing at a child's restoration loosely echoes the psalm's reversal from lament to deliverance, set against the 'weeping and great wailing' (v.38) Jesus overturns. Thematic only; included as a faint coherence with the chapter's reversal of death into life.",
+        "contested": true
+      }
+    ]
+  }
+]
