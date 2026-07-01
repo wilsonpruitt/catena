@@ -103,6 +103,9 @@ export default function IndexFontium({ data }: { data: Fontium }) {
           {data.books.length} sources · {data.total} echoes · indexing {data.indexed.join(" & ")}
         </p>
         <div style={S.headLinks}>
+          <Link href="/fontium/read" className="fontium-home" style={S.spineLink}>
+            Reading forward →
+          </Link>
           <Link href="/fontium/map" className="fontium-home" style={S.spineLink}>
             ⛓ View the spine →
           </Link>
@@ -185,6 +188,16 @@ export default function IndexFontium({ data }: { data: Fontium }) {
                         ) : (
                           <span className="fontium-ref" style={S.srcRef}>{s.ref}</span>
                         )}
+                        {s.readerSlug && (
+                          <Link
+                            href={`/fontium/read/${s.readerSlug}`}
+                            className="fontium-reflink"
+                            style={S.readLink}
+                            title={`Read ${b.name} ${s.chapter} forward, verse by verse`}
+                          >
+                            read forward →
+                          </Link>
+                        )}
                         <span style={S.occWrap}>
                           {s.occ.map((o, i) => {
                             const meta = TYPE_META[o.type as keyof typeof TYPE_META];
@@ -252,6 +265,7 @@ const S: Record<string, CSSProperties> = {
   srcRef: { fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: 15, fontWeight: 600, color: "#5c4033", width: 150, flexShrink: 0 },
   srcRefLink: { textDecoration: "none", borderBottom: `1px dotted ${ACCENT}`, transition: "color 0.15s" },
   occWrap: { display: "flex", flexWrap: "wrap", gap: 6 },
+  readLink: { fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: 12.5, fontStyle: "italic", color: "#8a7a6a", textDecoration: "none", whiteSpace: "nowrap", flexShrink: 0, transition: "color 0.15s" },
   occ: { display: "inline-block", padding: "1px 8px", borderRadius: 11, fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: 12.5, fontWeight: 600, letterSpacing: 0.3, textDecoration: "none", transition: "background 0.15s" },
   footer: { textAlign: "center", padding: 20, borderTop: "1px solid #d4c9b5", fontSize: 11, color: "#a09080", letterSpacing: 0.5, background: "#eee9df" },
 };

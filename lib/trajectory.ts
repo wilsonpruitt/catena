@@ -128,6 +128,24 @@ export function allChapterSlugs(): string[] {
   return Object.keys(CHAPTERS);
 }
 
+export type ChapterSummary = ChapterRef & { total: number; books: number };
+
+// Every readable chapter, grouped by book, for the trajectory reader's browse
+// page — sorted by book name, chapters within a book already in canonical order.
+export function allBooksChapters(): { book: string; chapters: ChapterSummary[] }[] {
+  const { echoes, nav } = ensure();
+  const out: { book: string; chapters: ChapterSummary[] }[] = [];
+  for (const [book, list] of nav) {
+    const chapters = list.map((c) => {
+      const acc = echoes.get(c.slug);
+      return { ...c, total: acc?.total ?? 0, books: acc?.books.size ?? 0 };
+    });
+    out.push({ book, chapters });
+  }
+  out.sort((a, b) => a.book.localeCompare(b.book));
+  return out;
+}
+
 export function getTrajectory(slug: string): Trajectory | undefined {
   const chap = CHAPTERS[slug];
   if (!chap) return undefined;

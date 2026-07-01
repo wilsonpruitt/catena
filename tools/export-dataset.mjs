@@ -8,6 +8,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import { BOOKS } from "../data/books.ts";
 import { toOsis, isExtended } from "../lib/osis.ts";
+import { allBooksChapters } from "../lib/trajectory.ts";
 
 const OUT = "public/data";
 mkdirSync(OUT, { recursive: true });
@@ -92,6 +93,26 @@ writeFileSync(`${OUT}/catena-fontium.json`, JSON.stringify({ meta: metaBlock("fo
 // catena-lxx-divergences.json — the curated Septuagint subset.
 writeFileSync(`${OUT}/catena-lxx-divergences.json`, JSON.stringify({ meta: metaBlock("lxx-divergences"), divergences: lxx }, null, 2));
 
+// catena-readers.json — every chapter with a centrifugal trajectory reader
+// (/fontium/read/[slug]), keyed by chapter-level OSIS refKey. This is the join
+// Lectern (and any family member) needs to link an OT reading straight to its
+// reader instead of the Index Fontium landing page.
+const readers = [];
+for (const { book, chapters } of allBooksChapters()) {
+  for (const c of chapters) {
+    const src = toOsis(`${book} ${c.chapter}`);
+    readers.push({
+      refKey: src.refKey,
+      refDisplay: src.refDisplay,
+      slug: c.slug,
+      totalEchoes: c.total,
+      ntBooks: c.books,
+      url: `${BASE}/fontium/read/${c.slug}`,
+    });
+  }
+}
+writeFileSync(`${OUT}/catena-readers.json`, JSON.stringify({ meta: metaBlock("readers"), readers }, null, 0));
+
 writeFileSync(`${OUT}/LICENSE.txt`, licenseText());
 writeFileSync(`${OUT}/README.md`, readme());
 
@@ -104,6 +125,7 @@ const manifest = {
     { name: "catena-echoes.jsonl", count: edges.length, bytes: size("catena-echoes.jsonl"), desc: "Every echo as a typed, scored edge — one JSON object per line." },
     { name: "catena-fontium.json", count: forwardArr.length, bytes: size("catena-fontium.json"), desc: "The inverted forward index: each source keyed to the New Testament places that reach for it." },
     { name: "catena-lxx-divergences.json", count: lxx.length, bytes: size("catena-lxx-divergences.json"), desc: "Curated cases where the New Testament follows the Greek against the Hebrew." },
+    { name: "catena-readers.json", count: readers.length, bytes: size("catena-readers.json"), desc: "Every chapter with a centrifugal trajectory reader (/fontium/read/[slug]), keyed by chapter-level refKey — the join for linking straight to a reader." },
     { name: "README.md", count: null, bytes: size("README.md"), desc: "Field reference, the dual-key scheme, and method." },
     { name: "LICENSE.txt", count: null, bytes: size("LICENSE.txt"), desc: "CC BY-SA 4.0." },
   ],
@@ -135,6 +157,7 @@ Generated from the [Catena](${BASE}) editions on ${generated} (commit \`${commit
 - **\`catena-echoes.jsonl\`** — ${edges.length.toLocaleString()} edges, one JSON object per line. Each is a single intertextual link from a New Testament passage back to an earlier source.
 - **\`catena-fontium.json\`** — the inverted *forward* index: every source keyed to the New Testament places that reach for it (${forwardArr.length.toLocaleString()} sources). This is the centrifugal "reading-backwards" view, resolver-ready.
 - **\`catena-lxx-divergences.json\`** — ${lxx.length} curated cases where the New Testament follows the Greek (Septuagint) against the Hebrew, with both readings.
+- **\`catena-readers.json\`** — ${readers.length.toLocaleString()} chapters with a centrifugal trajectory reader at \`/fontium/read/[slug]\`, keyed by chapter-level refKey (e.g. \`Gen.1\`) — resolve any OT chapter reference straight to its reader.
 
 ## The reference keys (dual, per the Wroot data-repository standard)
 Every reference carries two forms:
@@ -169,6 +192,7 @@ console.log(`wrote ${OUT}/:`);
 console.log(`  catena-echoes.jsonl         ${edges.length} edges`);
 console.log(`  catena-fontium.json         ${forwardArr.length} sources`);
 console.log(`  catena-lxx-divergences.json ${lxx.length} divergences`);
+console.log(`  catena-readers.json         ${readers.length} readers`);
 console.log(`  extended (pseudepigrapha) echoes: ${extendedCount}`);
 
 function licenseText() {

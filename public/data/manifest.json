@@ -5,8 +5,8 @@
   "attribution": "Wilson Pruitt / Wroot Press — catena.wrootpress.com",
   "versification": "KJV/WEB",
   "refKeyScheme": "OSIS osisRef",
-  "sourceCommit": "5c184f9",
-  "generated": "2026-06-30",
+  "sourceCommit": "653daff",
+  "generated": "2026-07-01",
   "extendedEchoes": 32,
   "files": [
     {
@@ -28,9 +28,15 @@
       "desc": "Curated cases where the New Testament follows the Greek against the Hebrew."
     },
     {
+      "name": "catena-readers.json",
+      "count": 843,
+      "bytes": 131853,
+      "desc": "Every chapter with a centrifugal trajectory reader (/fontium/read/[slug]), keyed by chapter-level refKey — the join for linking straight to a reader."
+    },
+    {
       "name": "README.md",
       "count": null,
-      "bytes": 2727,
+      "bytes": 2942,
       "desc": "Field reference, the dual-key scheme, and method."
     },
     {

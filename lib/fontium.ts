@@ -3,6 +3,12 @@
 // it. Computed at build time from the book data (which stays the source of truth).
 import { BOOKS } from "@/data/books";
 import type { Book } from "./types";
+import { canonicalBook } from "./echoes";
+import { sourceSlug } from "./slug";
+// Chapter-slug availability, read directly (not via ./trajectory, which imports
+// this module — importing it back would create a circular dependency).
+import webChapters from "@/data/ot-chapters.json";
+import deuteroChapters from "@/data/ot-chapters-deutero.json";
 
 export const NT_ABBR: Record<string, string> = {
   Matthew: "Matt", Mark: "Mark", Luke: "Luke", John: "John", Acts: "Acts",
@@ -21,6 +27,9 @@ export type FOcc = {
 export type FSource = {
   ref: string; chapter: number; verse: number;
   count: number; score: number; occ: FOcc[];
+  // Slug of this source's chapter in the centrifugal trajectory reader
+  // (/fontium/read/[slug]), when the chapter has full resolvable text.
+  readerSlug?: string;
 };
 export type FBook = { name: string; count: number; score: number; sources: FSource[] };
 export type Fontium = { books: FBook[]; total: number; indexed: string[] };
@@ -48,6 +57,8 @@ export function parse(ref: string) {
     : { book: ref, chapter: 0, verse: 0 };
 }
 
+const READER_SLUGS = new Set([...Object.keys(webChapters), ...Object.keys(deuteroChapters)]);
+
 export function buildIndex(): Fontium {
   const map = new Map<string, Map<string, FSource>>(); // book -> sourceRef -> FSource
   let total = 0;
@@ -59,7 +70,15 @@ export function buildIndex(): Fontium {
         const { book, chapter, verse } = parse(e.source);
         if (!map.has(book)) map.set(book, new Map());
         const sm = map.get(book)!;
-        if (!sm.has(e.source)) sm.set(e.source, { ref: e.source, chapter, verse, count: 0, score: 0, occ: [] });
+        if (!sm.has(e.source)) {
+          const readerSlug = chapter
+            ? sourceSlug(`${canonicalBook(book)} ${chapter}`)
+            : undefined;
+          sm.set(e.source, {
+            ref: e.source, chapter, verse, count: 0, score: 0, occ: [],
+            readerSlug: readerSlug && READER_SLUGS.has(readerSlug) ? readerSlug : undefined,
+          });
+        }
         const s = sm.get(e.source)!;
         if (!s.occ.some((o) => o.slug === b.slug && o.id === p.id))
           s.occ.push({ slug: b.slug, abbr, pref: p.ref, id: p.id, type: e.type, confidence: e.confidence });

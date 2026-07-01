@@ -2,13 +2,14 @@
 
 *The New Testament's use of the Old, as a typed, confidence-scored citation graph.*
 
-Generated from the [Catena](https://catena.wrootpress.com) editions on 2026-06-30 (commit `5c184f9`).
+Generated from the [Catena](https://catena.wrootpress.com) editions on 2026-07-01 (commit `653daff`).
 **License: CC BY-SA 4.0** — Wilson Pruitt / Wroot Press. See `LICENSE.txt`.
 
 ## Files
 - **`catena-echoes.jsonl`** — 9,250 edges, one JSON object per line. Each is a single intertextual link from a New Testament passage back to an earlier source.
 - **`catena-fontium.json`** — the inverted *forward* index: every source keyed to the New Testament places that reach for it (4,531 sources). This is the centrifugal "reading-backwards" view, resolver-ready.
 - **`catena-lxx-divergences.json`** — 81 curated cases where the New Testament follows the Greek (Septuagint) against the Hebrew, with both readings.
+- **`catena-readers.json`** — 843 chapters with a centrifugal trajectory reader at `/fontium/read/[slug]`, keyed by chapter-level refKey (e.g. `Gen.1`) — resolve any OT chapter reference straight to its reader.
 
 ## The reference keys (dual, per the Wroot data-repository standard)
 Every reference carries two forms:
