@@ -23,6 +23,9 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
+      <head>
+        <script defer src="/_vercel/insights/script.js"></script>
+      </head>
       <body style={{ margin: 0, background: "#f5f0e8" }}>{children}</body>
     </html>
   );
